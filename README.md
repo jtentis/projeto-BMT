@@ -1,4 +1,5 @@
-﻿# projeto-BMT
+﻿# João Pedro Tentis e Pedro Mion
+# Projeto para disciplina Busca e Mineração de Texto
 
 Auditoria automatica de trabalhos academicos: verificacao de alinhamento entre promessas e entregas com uso do DoCO.
 
