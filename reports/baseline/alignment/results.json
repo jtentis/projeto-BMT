@@ -1,0 +1,22 @@
+{
+  "documents": [
+    {
+      "document_id": "proposta_bmt",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.064
+        }
+      ],
+      "alignment_score": 0.064,
+      "alignment_label": "low",
+      "notes": []
+    }
+  ]
+}

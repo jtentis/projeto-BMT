@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import re
 import traceback
@@ -9,6 +10,8 @@ from pathlib import Path
 from typing import TypedDict
 
 from pypdf import PdfReader
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 class SectionData(TypedDict):
@@ -23,6 +26,17 @@ class SegmentationResult(TypedDict):
     available_sections: list[str]
     missing_sections: list[str]
     sections: dict[str, SectionData]
+
+
+class AlignmentResult(TypedDict):
+    document_id: str
+    status: str
+    promise_section: str
+    delivery_sections: list[str]
+    compared_pairs: list[dict[str, object]]
+    alignment_score: float | None
+    alignment_label: str
+    notes: list[str]
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -164,6 +178,120 @@ def save_json_artifact(output_dir: Path, relative_dir: str, name: str, payload: 
     return output_path
 
 
+def compute_similarity(text_a: str, text_b: str) -> float:
+    vectorizer = TfidfVectorizer(ngram_range=(1, 2))
+    matrix = vectorizer.fit_transform([text_a, text_b])
+    score = cosine_similarity(matrix[0:1], matrix[1:2])[0][0]
+    return float(score)
+
+
+def label_alignment(score: float | None) -> str:
+    if score is None:
+        return "insufficient_sections"
+    if score >= 0.35:
+        return "high"
+    if score >= 0.15:
+        return "medium"
+    return "low"
+
+
+def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> Path:
+    results: list[AlignmentResult] = []
+
+    for document in documents:
+        document_id = str(document["document_id"])
+        if document["status"] != "ok":
+            results.append(
+                {
+                    "document_id": document_id,
+                    "status": "error",
+                    "promise_section": "introduction",
+                    "delivery_sections": [],
+                    "compared_pairs": [],
+                    "alignment_score": None,
+                    "alignment_label": "insufficient_sections",
+                    "notes": ["Documento com falha na extração."],
+                }
+            )
+            continue
+
+        sections = document["sections"]
+        if not isinstance(sections, dict):
+            continue
+
+        section_map = sections["sections"]
+        introduction = section_map.get("introduction")
+        compared_pairs: list[dict[str, object]] = []
+        notes: list[str] = []
+
+        if introduction is None:
+            notes.append("Introducao nao encontrada para comparacao.")
+
+        for delivery_name in ("results", "conclusion"):
+            delivery_section = section_map.get(delivery_name)
+            if introduction is None or delivery_section is None:
+                continue
+
+            score = compute_similarity(introduction["content"], delivery_section["content"])
+            compared_pairs.append(
+                {
+                    "promise_section": "introduction",
+                    "delivery_section": delivery_name,
+                    "score": round(score, 4),
+                }
+            )
+
+        if not compared_pairs:
+            alignment_score: float | None = None
+            notes.append("Nao houve secoes suficientes para calcular alinhamento.")
+        else:
+            alignment_score = max(pair["score"] for pair in compared_pairs if isinstance(pair["score"], float))
+
+        result: AlignmentResult = {
+            "document_id": document_id,
+            "status": "ok",
+            "promise_section": "introduction",
+            "delivery_sections": [str(pair["delivery_section"]) for pair in compared_pairs],
+            "compared_pairs": compared_pairs,
+            "alignment_score": alignment_score,
+            "alignment_label": label_alignment(alignment_score),
+            "notes": notes,
+        }
+        results.append(result)
+
+    json_path = save_json_artifact(output_dir, "alignment", "results.json", {"documents": results})
+
+    metrics_path = output_dir / "metrics.csv"
+    with metrics_path.open("w", encoding="utf-8", newline="") as csv_file:
+        writer = csv.DictWriter(
+            csv_file,
+            fieldnames=[
+                "document_id",
+                "status",
+                "promise_section",
+                "delivery_sections",
+                "alignment_score",
+                "alignment_label",
+                "notes",
+            ],
+        )
+        writer.writeheader()
+        for result in results:
+            writer.writerow(
+                {
+                    "document_id": result["document_id"],
+                    "status": result["status"],
+                    "promise_section": result["promise_section"],
+                    "delivery_sections": ";".join(result["delivery_sections"]),
+                    "alignment_score": "" if result["alignment_score"] is None else f"{result['alignment_score']:.4f}",
+                    "alignment_label": result["alignment_label"],
+                    "notes": " | ".join(result["notes"]),
+                }
+            )
+
+    return json_path
+
+
 def run_extraction(input_dir: Path, output_dir: Path) -> list[dict[str, object]]:
     documents: list[dict[str, object]] = []
     for pdf_path in list_pdf_files(input_dir):
@@ -230,12 +358,14 @@ def main() -> None:
     args.output_dir.mkdir(parents=True, exist_ok=True)
     documents = run_extraction(args.input_dir, args.output_dir)
     summary_path = write_extraction_summary(args.output_dir, documents)
+    alignment_path = run_alignment(documents, args.output_dir)
 
-    print("Etapas de ingestao, pre-processamento e segmentacao concluidas.")
+    print("Etapas de ingestao, pre-processamento, segmentacao e alinhamento concluidas.")
     print(f"Entrada: {args.input_dir}")
     print(f"Saida: {args.output_dir}")
     print(f"Documentos encontrados: {len(documents)}")
     print(f"Resumo salvo em: {summary_path}")
+    print(f"Resultados de alinhamento salvos em: {alignment_path}")
 
 
 if __name__ == "__main__":
