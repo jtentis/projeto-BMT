@@ -1,0 +1,25 @@
+{
+  "available_sections": [
+    "conclusion",
+    "introduction"
+  ],
+  "missing_sections": [
+    "results"
+  ],
+  "sections": {
+    "introduction": {
+      "header": "1. introducao",
+      "start_char": 207,
+      "end_char": 2137,
+      "content": "a producao cientifica cresce em ritmo acelerado, e com ela surge uma questao que raramente e colocada de forma explicita: artigos cientificos cumprem o que prometem? a introducao de um trabalho academico tipicamente estabelece um conjunto de expectativas, lacunas que serao preenchidas, hipoteses que serao testadas, contribuicoes que serao entregues. mas a relacao entre essas promessas e o que de fato aparece nas secoes de resultados e conclusoes nem sempre e direta. esse descompasso pode ter origens diversas. em alguns casos, os resultados obtidos simplesmente nao correspondem ao que foi antecipado, e o texto e ajustado para minimizar a distancia. em outros, o escopo do trabalho muda ao longo do processo, mas a introducao permanece inalterada. ha ainda situacoes em que as conclusoes extrapolam o que os dados efetivamente sustentam. independentemente da causa, identificar esse tipo de inconsistencia de forma sistematica e um problema nao trivial. o presente trabalho propoe um sistema deauditoria automatica de trabalhos academicos, baseado nadocument components ontology(doco) [constantin et al. 2016]. a ideia central e simples: se for possivel identificar automaticamente quais trechos de um documento representam as promessas feitas na introducao e quais representam os resultados e conclusoes entregues, entao e possivel comparar essas duas partes e gerar um indicador de consistencia interna do trabalho. a proposta se insere no contexto da disciplina de busca e mineracao de texto, combinando classificacao de texto, representacoes vetoriais distribuidas e analise de similaridade semantica. alem do interesse metodologico, o trabalho tem motivacao pratica: em um cenario onde a confiabilidade da literatura cientifica e cada vez mais discutida, dispor de mecanismos automatizados de verificacao de consistencia pode ser uma ferramenta valiosa tanto para revisores quanto para leitores em geral.",
+      "content_length": 1915
+    },
+    "conclusion": {
+      "header": "6. conclusao",
+      "start_char": 5700,
+      "end_char": 7378,
+      "content": "este trabalho propoe uma abordagem pratica para verificar se trabalhos academicos cumprem o que prometem. a maior incerteza do projeto esta na qualidade do classificador doco para documentos em portugues, visto que os recursos disponiveis sao majoritariamente em ingles. references [beltagy et al. 2019] beltagy, i., lo, k., and cohan, a. (2019). scibert: a pretrained language model for scientific text.arxiv preprint arxiv:1903.10676. [constantin et al. 2016] constantin, a., peroni, s., pettifer, s., shotton, d., and vitali, f. (2016). the document components ontology (doco). insemantic web, volume 7, pages 167–181. ios press. [devlin et al. 2019] devlin, j., chang, m.-w., lee, k., and toutanova, k. (2019). bert: pretraining of deep bidirectional transformers for language understanding.arxiv preprint arxiv:1810.04805. [liakata et al. 2010] liakata, m., teufel, s., sidner, c., et al. (2010). corpora and the evaluation of automatic labeling of scientific articles. inproceedings of lrec. [mikolov et al. 2013] mikolov, t., sutskever, i., chen, k., corrado, g. s., and dean, j. (2013). distributed representations of words and phrases and their compositionality. inadvances in neural information processing systems, pages 3111–3119. [pennington et al. 2014] pennington, j., socher, r., and manning, c. d. (2014). glove: global vectors for word representation. inproceedings of the 2014 conference on empirical methods in natural language processing (emnlp), pages 1532–1543. [teufel and moens 2002] teufel, s. and moens, m. (2002). summarizing scientific articles: experiments with relevance and rhetorical status.computational linguistics, 28(4):409–445.",
+      "content_length": 1664
+    }
+  }
+}
