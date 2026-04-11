@@ -1,0 +1,112 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\geometry{margin=2.5cm}
+
+\title{Baseline Reproduzivel: Primeiro Sistema e Pipeline Executavel}
+\author{Joao Pedro Tentis \and Pedro Mion Braga}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Links obrigatorios}
+
+\begin{itemize}[leftmargin=*]
+    \item GitHub: \url{https://github.com/jtentis/projeto-BMT}
+    \item Overleaf: \url{INSERIR-LINK-DO-OVERLEAF-AQUI}
+\end{itemize}
+
+\section{Descricao do baseline}
+
+O baseline implementado nesta entrega tem como objetivo oferecer uma referencia minima, executavel e reproduzivel para o problema de auditoria automatica de trabalhos academicos. Nesta versao inicial, a abordagem foi simplificada para privilegiar estabilidade do pipeline, facilidade de reproducao e uma primeira linha de comparacao para as proximas iteracoes.
+
+A escolha foi por um baseline heuristico e totalmente offline. Em vez de treinar um classificador DoCO completo nesta etapa, o sistema identifica secoes do artigo a partir de titulos numerados e compara os trechos de \textit{Introducao} com os trechos de entrega disponiveis, priorizando \textit{Resultados} e, na ausencia deles, \textit{Conclusao}. A comparacao textual e feita com vetorizacao TF-IDF e similaridade do cosseno.
+
+Essa decisao reduz dependencia de dados anotados, evita download de modelos e deixa o processo facilmente repetivel em qualquer maquina com Python e as dependencias definidas.
+
+\section{Pipeline completo}
+
+O pipeline executado pelo baseline segue as etapas abaixo:
+
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Ingestao de dados}: leitura de todos os PDFs em \texttt{data/raw/}.
+    \item \textbf{Extracao de texto}: conversao do PDF em texto com a biblioteca \texttt{pypdf}.
+    \item \textbf{Pre-processamento}: remocao de hifenizacao artificial, normalizacao de espacos e normalizacao textual para busca de secoes.
+    \item \textbf{Segmentacao heuristica}: identificacao de cabecalhos como \texttt{1. Introducao}, \texttt{Resultados} e \texttt{6. Conclusao}, com registro explicito de secoes ausentes.
+    \item \textbf{Indexacao e inferencia}: vetorizacao dos trechos com TF-IDF e calculo da similaridade do cosseno entre a secao de promessa e a melhor secao de entrega disponivel.
+    \item \textbf{Exportacao de saida}: geracao de artefatos intermediarios e arquivos finais com metricas e detalhes da comparacao.
+\end{enumerate}
+
+\section{Ambiente e dependencias}
+
+\begin{itemize}[leftmargin=*]
+    \item Linguagem: Python 3.13
+    \item Bibliotecas principais:
+    \begin{itemize}[leftmargin=*]
+        \item \texttt{pypdf==5.4.0}
+        \item \texttt{scikit-learn==1.6.1}
+    \end{itemize}
+    \item Instalacao:
+\end{itemize}
+
+\begin{verbatim}
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+\end{verbatim}
+
+\section{Como reproduzir}
+
+Comando exato para rodar o baseline:
+
+\begin{verbatim}
+python -m src.run_baseline --input_dir data/raw --output_dir reports/baseline
+\end{verbatim}
+
+Arquivos gerados como saida:
+
+\begin{itemize}[leftmargin=*]
+    \item \texttt{reports/baseline/extraction_summary.json}
+    \item \texttt{reports/baseline/extracted\_text/*.txt}
+    \item \texttt{reports/baseline/segmentation/*\_sections.json}
+    \item \texttt{reports/baseline/alignment/results.json}
+    \item \texttt{reports/baseline/metrics.csv}
+\end{itemize}
+
+\section{Primeiros resultados}
+
+O corpus atual versionado no repositorio contem um PDF de exemplo, \texttt{data/raw/proposta\_bmt.pdf}. Para esse documento, o baseline detectou \textit{Introducao} e \textit{Conclusao}, nao encontrou uma secao de \textit{Resultados} com o padrao heuristico adotado e comparou a introducao com a conclusao.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{llllll}
+        \toprule
+        Documento & Status & Promessa & Entrega & Score & Rotulo \\
+        \midrule
+        proposta\_bmt & ok & introduction & conclusion & 0.0640 & low \\
+        \bottomrule
+    \end{tabular}
+    \caption{Metricas iniciais do baseline.}
+\end{table}
+
+O comportamento observado e coerente com o tipo de documento processado. Como o PDF usado neste baseline e uma proposta de projeto, ele nao contem uma secao de resultados consolidada, e por isso a comparacao foi feita contra a conclusao. O score baixo era esperado e serve como referencia inicial para as proximas iteracoes.
+
+\section{Limitacoes}
+
+\begin{itemize}[leftmargin=*]
+    \item O baseline depende de cabecalhos simples e numerados para segmentar secoes.
+    \item Ainda nao ha classificador DoCO treinado.
+    \item O corpus inicial e pequeno e tem funcao principalmente demonstrativa.
+    \item TF-IDF oferece uma comparacao lexical util como ponto de partida, mas limitada semanticamente.
+\end{itemize}
+
+\end{document}

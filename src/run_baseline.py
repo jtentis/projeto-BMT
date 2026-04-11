@@ -181,7 +181,8 @@ def save_json_artifact(output_dir: Path, relative_dir: str, name: str, payload: 
 def compute_similarity(text_a: str, text_b: str) -> float:
     vectorizer = TfidfVectorizer(ngram_range=(1, 2))
     matrix = vectorizer.fit_transform([text_a, text_b])
-    score = cosine_similarity(matrix[0:1], matrix[1:2])[0][0]
+    similarity_matrix = cosine_similarity(matrix, matrix)
+    score = similarity_matrix[0, 1]
     return float(score)
 
 
