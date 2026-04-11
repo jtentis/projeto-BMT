@@ -92,6 +92,21 @@ def fix_mojibake(text: str) -> str:
         return repaired
     return text
 
+def repair_text_encoding(text: str) -> str:
+    if not any(marker in text for marker in ("Ã", "â", "ï", "ð")):
+        return text
+    try:
+        repaired = text.encode("latin-1").decode("utf-8")
+    except UnicodeError:
+        return text
+
+    suspicious_chars = ("Ã", "â", "ï", "ð")
+    original_noise = sum(text.count(char) for char in suspicious_chars)
+    repaired_noise = sum(repaired.count(char) for char in suspicious_chars)
+    if repaired_noise < original_noise:
+        return repaired
+    return text
+
 
 def normalize_whitespace(text: str) -> str:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
@@ -115,43 +130,176 @@ def normalize_for_matching(text: str) -> str:
     return text.strip()
 
 
+def is_table_of_contents_line(raw_line: str) -> bool:
+    stripped = raw_line.strip()
+    return bool(
+        re.search(r"\.{4,}\s*\d+\s*$", stripped)
+        or re.search(r"(?:\.\s*){4,}\d+\s*$", stripped)
+        or (stripped.count(".") >= 4 and re.search(r"\d+\s*$", stripped))
+    )
+
+
+def is_reference_heading(normalized_line: str) -> bool:
+    return any(
+        term in normalized_line
+        for term in (
+            "referencias",
+            "references",
+            "bibliografia",
+            "apendices",
+            "anexos",
+        )
+    )
+
+
+def classify_heading_role(normalized_title: str) -> str | None:
+    intro_patterns = [r"\bintrodu", r"\bintroduction\b"]
+    conclusion_patterns = [
+        r"\bconclus",
+        r"\bconsideracoes finais\b",
+        r"\bfinal considerations\b",
+        r"\bconclusion\b",
+    ]
+    delivery_patterns = [
+        r"\bresult",
+        r"\bdiscuss",
+        r"\bavaliac",
+        r"\bexperimen",
+        r"\banalis",
+        r"\bestudo de caso\b",
+        r"\baplicac",
+        r"\bexemplos?\b",
+        r"\bparte pratica\b",
+        r"\bdesenvolv",
+        r"\bimplementac",
+        r"\bproposta\b",
+        r"\bmodelo\b",
+        r"\bferramenta\b",
+        r"\bsistema\b",
+        r"\bsimulador\b",
+        r"\bmanual\b",
+    ]
+
+    if any(re.search(pattern, normalized_title) for pattern in intro_patterns):
+        return "introduction"
+    if any(re.search(pattern, normalized_title) for pattern in conclusion_patterns):
+        return "conclusion"
+    if any(re.search(pattern, normalized_title) for pattern in delivery_patterns):
+        return "results"
+    return None
+
+
+def heading_level(numbering: str) -> int:
+    return numbering.count(".") + 1
+
+
+def next_section_boundary(
+    lines: list[str],
+    headings: list[dict[str, object]],
+    current_index: int,
+) -> int:
+    current_heading = headings[current_index]
+    current_line = int(current_heading["line_index"])
+    current_level = int(current_heading["level"])
+
+    for candidate in headings[current_index + 1 :]:
+        candidate_line = int(candidate["line_index"])
+        candidate_level = int(candidate["level"])
+        if candidate_line > current_line and candidate_level <= current_level:
+            return candidate_line
+
+    for line_index in range(current_line + 1, len(lines)):
+        normalized_line = normalize_for_matching(lines[line_index])
+        if is_reference_heading(normalized_line):
+            return line_index
+
+    return len(lines)
+
+
 def segment_sections(normalized_text: str) -> SegmentationResult:
-    search_text = normalize_for_matching(normalized_text)
+    lines = [line.strip() for line in normalized_text.splitlines() if line.strip()]
+    headings: list[dict[str, object]] = []
 
-    section_patterns = {
-        "introduction": r"(?:^|\s)(\d+\.\s*)(introducao|introduction)\b",
-        "results": r"(?:^|\s)(\d+\.\s*)(resultados?|results?|resultado e discussao)\b",
-        "conclusion": r"(?:^|\s)(\d+\.\s*)(conclusao|conclusoes|conclusion)\b",
-    }
-    boundary_pattern = re.compile(r"(?:^|\s)(\d+\.\s+[a-z])", flags=re.IGNORECASE)
+    for line_index, raw_line in enumerate(lines):
+        if raw_line.isdigit() or is_table_of_contents_line(raw_line):
+            continue
 
-    positions: list[tuple[str, int, int]] = []
-    for section_name, pattern in section_patterns.items():
-        match = re.search(pattern, search_text, flags=re.IGNORECASE)
-        if match:
-            positions.append((section_name, match.start(), match.end()))
+        normalized_line = normalize_for_matching(raw_line)
+        match = re.match(r"^(\d+(?:\.\d+)*)\.?\s+(.+)$", normalized_line)
+        if not match:
+            continue
 
-    positions.sort(key=lambda item: item[1])
+        numbering = match.group(1)
+        title = match.group(2).strip(" .")
+        headings.append(
+            {
+                "line_index": line_index,
+                "numbering": numbering,
+                "level": heading_level(numbering),
+                "header": raw_line,
+                "normalized_title": title,
+                "role": classify_heading_role(title),
+            }
+        )
 
-    sections: dict[str, SectionData] = {}
-    for section_name, start_char, header_end in positions:
-        end_char = len(search_text)
+    intro_idx = next(
+        (idx for idx, heading in enumerate(headings) if heading["role"] == "introduction"),
+        None,
+    )
+    conclusion_idx = next(
+        (idx for idx in range(len(headings) - 1, -1, -1) if headings[idx]["role"] == "conclusion"),
+        None,
+    )
 
-        for _, candidate_start, _ in positions:
-            if candidate_start > start_char:
-                end_char = min(end_char, candidate_start)
-
-        for boundary_match in boundary_pattern.finditer(search_text, pos=header_end):
-            if boundary_match.start() > start_char:
-                end_char = min(end_char, boundary_match.start())
+    results_idx = None
+    if intro_idx is not None:
+        search_end = conclusion_idx if conclusion_idx is not None else len(headings)
+        for idx in range(intro_idx + 1, search_end):
+            if headings[idx]["role"] == "results":
+                results_idx = idx
                 break
 
-        header = search_text[start_char:header_end].strip()
-        content = search_text[header_end:end_char].strip()
+        if results_idx is None:
+            excluded_titles = (
+                "referencias teoricas",
+                "fundamentacao teorica",
+                "referencial teorico",
+                "motivacao",
+                "objetivo",
+                "estrutura do texto",
+                "estrutura do trabalho",
+            )
+            fallback_candidates = []
+            for idx in range(intro_idx + 1, search_end):
+                heading = headings[idx]
+                title = str(heading["normalized_title"])
+                if int(heading["level"]) != 1:
+                    continue
+                if any(title.startswith(excluded) for excluded in excluded_titles):
+                    continue
+                fallback_candidates.append(idx)
+            if fallback_candidates:
+                results_idx = fallback_candidates[-1]
+
+    selected_indices = {
+        "introduction": intro_idx,
+        "results": results_idx,
+        "conclusion": conclusion_idx,
+    }
+
+    sections: dict[str, SectionData] = {}
+    for section_name, heading_idx in selected_indices.items():
+        if heading_idx is None:
+            continue
+
+        heading = headings[heading_idx]
+        start_line = int(heading["line_index"])
+        end_line = next_section_boundary(lines, headings, heading_idx)
+        content = " ".join(lines[start_line + 1 : end_line]).strip()
         sections[section_name] = {
-            "header": header,
-            "start_char": start_char,
-            "end_char": end_char,
+            "header": str(heading["header"]),
+            "start_char": start_line,
+            "end_char": end_line,
             "content": content,
             "content_length": len(content),
         }
@@ -303,7 +451,7 @@ def run_extraction(input_dir: Path, output_dir: Path) -> list[dict[str, object]]
         }
         try:
             text = extract_text_from_pdf(pdf_path)
-            repaired_text = fix_mojibake(text)
+            repaired_text = repair_text_encoding(fix_mojibake(text))
             normalized_text = normalize_whitespace(repaired_text)
             sections = segment_sections(normalized_text)
 

@@ -1,2 +1,4 @@
 document_id,status,promise_section,delivery_sections,alignment_score,alignment_label,notes
-proposta_bmt,ok,introduction,conclusion,0.0640,low,
+AMDavid,ok,introduction,results;conclusion,0.4040,high,
+ENPinho,ok,introduction,results;conclusion,0.3280,medium,
+FMRolim,ok,introduction,results;conclusion,0.5123,high,
