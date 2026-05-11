@@ -4,23 +4,27 @@ Auditoria automatica de trabalhos academicos: verificacao de alinhamento entre p
 
 ## Baseline reproduzivel
 
-Este repositorio contem o primeiro baseline funcional do projeto. A meta desta versao e oferecer um pipeline simples, offline e reproduzivel para:
+Este repositorio contem um baseline simples, offline e reproduzivel para:
 
 - ler artigos academicos em PDF;
-- extrair seu texto;
+- extrair e normalizar texto;
 - identificar trechos de introducao, resultados e conclusao;
-- comparar promessas e entregas com similaridade semantica;
-- gerar resultados iniciais em arquivos reutilizaveis.
+- comparar promessas e entregas com `TF-IDF + similaridade do cosseno`;
+- exportar artefatos de dataset, protocolo experimental, metricas e resultados.
 
-Nesta primeira versao, o baseline usa heuristicas simples de segmentacao por titulos numerados e `TF-IDF + similaridade do cosseno` para gerar um indicador inicial de alinhamento entre promessas e entregas.
+O objetivo desta versao e consolidar o dataset final da entrega, reduzir ambiguidades do desenho experimental e manter uma linha de comparacao estavel antes de evoluir para modelos mais complexos.
 
 ## Estrutura principal
 
 ```text
 .
 |-- data/
+|   |-- raw/
+|   `-- pdfs/
 |-- notebooks/
 |-- reports/
+|   |-- baseline/
+|   `-- 02_baseline.tex
 |-- src/
 |-- requirements.txt
 `-- README.md
@@ -28,15 +32,19 @@ Nesta primeira versao, o baseline usa heuristicas simples de segmentacao por tit
 
 Pastas e arquivos mais relevantes:
 
-- `data/raw/`: corpus pequeno versionado com os PDFs de entrada;
+- `data/raw/`: corpus final consolidado com 10 PDFs de entrada;
+- `data/pdfs/`: copia auxiliar dos PDFs candidatos usados na consolidacao;
 - `src/run_baseline.py`: comando principal do baseline;
 - `reports/baseline/`: saidas geradas pela execucao;
-- `reports/02_baseline.tex`: relatorio da entrega em LaTeX.
+- `reports/baseline/dataset/summary.json`: descricao e estatisticas do dataset final;
+- `reports/baseline/protocol/experimental_protocol.json`: protocolo experimental em formato estruturado;
+- `reports/baseline/protocol/experimental_protocol.md`: protocolo experimental legivel;
+- `reports/baseline/metrics/formal_metrics.md`: definicao das metricas formais.
 
 ## Ambiente
 
 - Python 3.13
-- dependencias em `requirements.txt`
+- Dependencias em `requirements.txt`
 
 ## Instalacao
 
@@ -70,56 +78,122 @@ Comando oficial do baseline:
 python -m src.run_baseline --input_dir data/raw --output_dir reports/baseline
 ```
 
+## Dataset consolidado
+
+O corpus final desta entrega contem 10 trabalhos academicos em PDF, coletados do Pantheon/UFRJ e versionados em `data/raw/`.
+
+Documentos:
+
+- `AMDavid.pdf`
+- `ENPinho.pdf`
+- `FMRolim.pdf`
+- `GGSouza.pdf`
+- `HBCReis.pdf`
+- `HBMHenriques.pdf`
+- `LCMarques.pdf`
+- `LMFGaleno.pdf`
+- `MDFonseca.pdf`
+- `PVMNascimento.pdf`
+
+Estatisticas atuais do corpus:
+
+- documentos: 10;
+- documentos processados sem erro: 10;
+- paginas totais: 706;
+- caracteres normalizados: 972.163;
+- documentos com introducao detectada: 10;
+- documentos com resultados/entrega detectados: 10;
+- documentos com conclusao detectada: 10.
+
+Os criterios de inclusao, exclusao, origem/coleta e limpeza estao registrados em `reports/baseline/dataset/summary.json`.
+
 ## Pipeline implementado
 
 O baseline executa as seguintes etapas:
 
 1. Ingestao dos PDFs em `data/raw/`.
 2. Extracao de texto com `pypdf`.
-3. Pre-processamento basico do texto:
+3. Pre-processamento basico:
+   - reparo heuristico de codificacao quando detectado;
    - remocao de quebras artificiais de hifenizacao;
    - normalizacao de espacos;
-   - normalizacao para busca por cabecalhos.
+   - normalizacao sem acentos para busca por cabecalhos.
 4. Segmentacao heuristica de secoes:
-   - busca por titulos numerados como `1. Introducao` e `6. Conclusao`;
+   - busca por titulos numerados como `1. Introducao`, `Resultados` e `6. Conclusao`;
    - registro explicito de secoes ausentes.
 5. Inferencia de alinhamento:
-   - comparacao entre `Introducao` e a melhor secao de entrega disponivel (`Resultados` ou `Conclusao`);
+   - comparacao entre `introduction` e as secoes de entrega disponiveis (`results` e `conclusion`);
    - vetorizacao com `TF-IDF`;
    - calculo de similaridade do cosseno;
    - classificacao do score em `high`, `medium`, `low` ou `insufficient_sections`.
+6. Exportacao de artefatos:
+   - resultados por documento;
+   - estatisticas do dataset;
+   - protocolo experimental;
+   - metricas agregadas de cobertura.
 
-## Entradas
+## Protocolo experimental
 
-- PDFs academicos colocados em `data/raw/`.
-- O repositorio ja inclui um PDF de exemplo:
-  - `data/raw/proposta_bmt.pdf`
+Esta entrega usa avaliacao descritiva e reproduzivel sobre o corpus fixo de 10 documentos. Nao ha divisao em treino, validacao e teste porque o baseline atual nao treina modelo supervisionado nem ajusta parametros a partir de rotulos.
+
+O controle de vazamento esta documentado em `reports/baseline/protocol/experimental_protocol.md`. Em resumo, o TF-IDF e ajustado somente nos dois trechos comparados dentro de cada documento, sem transferencia de vocabulario, pesos ou estatisticas entre documentos.
+
+## Metricas
+
+Metricas de alinhamento por documento:
+
+- similaridade do cosseno com TF-IDF;
+- melhor score entre `introduction` x `results` e `introduction` x `conclusion`;
+- rotulo de alinhamento derivado do score.
+
+Metricas agregadas de cobertura:
+
+- sucesso de extracao;
+- presenca de introducao, resultados e conclusao;
+- documentos avaliaveis;
+- distribuicao dos rotulos de alinhamento.
+
+Metricas de BRI como `Precision@k`, `Recall@k`, `MAP` e `NDCG`, assim como metricas de classificacao como `accuracy`, `F1`, `macro-F1` e `RMSE`, ficam definidas como trabalho futuro porque exigem anotacao manual de relevancia ou rotulos esperados.
 
 ## Saidas geradas
 
 Ao executar o comando principal, o baseline gera:
 
-- `reports/baseline/extraction_summary.json`: resumo completo da execucao e dos documentos processados;
+- `reports/baseline/extraction_summary.json`: resumo completo da execucao;
+- `reports/baseline/dataset/summary.json`: descricao e estatisticas do dataset;
+- `reports/baseline/protocol/experimental_protocol.json`: protocolo experimental estruturado;
 - `reports/baseline/extracted_text/*.txt`: texto bruto extraido de cada PDF;
 - `reports/baseline/extracted_text/*_normalized.txt`: versao normalizada do texto;
 - `reports/baseline/segmentation/*_sections.json`: secoes identificadas por heuristica;
 - `reports/baseline/alignment/results.json`: detalhes das comparacoes e scores;
-- `reports/baseline/metrics.csv`: tabela consolidada com as metricas iniciais.
+- `reports/baseline/metrics.csv`: tabela consolidada com resultados por documento;
+- `reports/baseline/metrics/coverage_metrics.json`: metricas agregadas de cobertura;
+- `reports/baseline/metrics/coverage_metrics.csv`: versao tabular das metricas agregadas.
 
-## Resultado inicial atual
+## Resultados atuais
 
-Com o corpus atual versionado no repositorio, o baseline produziu:
+Resultado consolidado da execucao atual:
 
 ```text
 document_id,status,promise_section,delivery_sections,alignment_score,alignment_label,notes
-proposta_bmt,ok,introduction,conclusion,0.0640,low,
+AMDavid,ok,introduction,results;conclusion,0.4040,high,
+ENPinho,ok,introduction,results;conclusion,0.3280,medium,
+FMRolim,ok,introduction,results;conclusion,0.5123,high,
+GGSouza,ok,introduction,results;conclusion,0.4525,high,
+HBCReis,ok,introduction,results;conclusion,0.4680,high,
+HBMHenriques,ok,introduction,results;conclusion,0.3190,medium,
+LCMarques,ok,introduction,results;conclusion,0.0000,low,
+LMFGaleno,ok,introduction,results;conclusion,0.6510,high,
+MDFonseca,ok,introduction,results;conclusion,0.4065,high,
+PVMNascimento,ok,introduction,results;conclusion,0.4224,high,
 ```
 
-Interpretacao inicial:
+Distribuicao dos rotulos:
 
-- o documento de exemplo teve `Introducao` e `Conclusao` detectadas;
-- a secao `Resultados` nao foi encontrada por titulo numerado;
-- a comparacao entre `Introducao` e `Conclusao` gerou score baixo (`0.0640`), o que e esperado dado que o PDF e uma proposta de projeto, nao um artigo final com resultados consolidados.
+- `high`: 7 documentos;
+- `medium`: 2 documentos;
+- `low`: 1 documento;
+- `insufficient_sections`: 0 documentos.
 
 ## Como reproduzir
 
@@ -131,15 +205,19 @@ Interpretacao inicial:
 python -m src.run_baseline --input_dir data/raw --output_dir reports/baseline
 ```
 
-4. Inspecionar os arquivos gerados em `reports/baseline/`.
+4. Conferir:
+
+```bash
+python -c "import json; d=json.load(open('reports/baseline/extraction_summary.json', encoding='utf-8')); print(d['document_count'], d['processed_count'], d['error_count'])"
+```
+
+O resultado esperado e `10 10 0`.
 
 ## Limitacoes conhecidas
 
-- A segmentacao depende de titulos numerados simples e pode falhar em PDFs com estrutura muito diferente.
+- A segmentacao depende de cabecalhos simples e numerados, podendo falhar em PDFs com estrutura diferente.
+- A deteccao de secoes de entrega ainda e heuristica e pode selecionar secoes amplas demais.
 - O baseline ainda nao implementa um classificador DoCO supervisionado.
-- O corpus atual e pequeno e serve apenas para demonstracao e reproducao inicial.
-- A similaridade por `TF-IDF` nao captura nuances semanticas profundas como modelos de embeddings especializados.
-
-## Referencia
-
-- `Proposta_de_projeto_BMT.pdf`
+- O corpus consolidado ainda e pequeno para generalizacao estatistica.
+- A similaridade por `TF-IDF` captura principalmente sobreposicao lexical e nao nuances semanticas profundas.
+- Nao ha anotacao manual nesta entrega, portanto metricas supervisionadas e metricas de ranking ficam como trabalho futuro.
