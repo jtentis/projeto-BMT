@@ -1,0 +1,31 @@
+{
+  "available_sections": [
+    "conclusion",
+    "introduction",
+    "results"
+  ],
+  "missing_sections": [],
+  "sections": {
+    "introduction": {
+      "header": "1 INTRODUÇÃO 11",
+      "start_char": 139,
+      "end_char": 143,
+      "content": "1.1 MOTIVAÇÃO 12 1.2 OBJETIVOS 13 1.3 METODOLOGIA 13",
+      "content_length": 52
+    },
+    "results": {
+      "header": "4 DESENVOLVIMENTO DO JOGO 41",
+      "start_char": 169,
+      "end_char": 193,
+      "content": "4.1 FERRAMENTAS UTILIZADAS 41 4.1.1 Escolha da Game Engine 41 4.1.2 Escolha de Softwares Auxiliares 42 4.2 ORGANIZAÇÃO DO PROJETO 42 4.2.1 Estrutura de Diretórios 42 4.2.2 Versionamento de Código e Recursos 43 4.3 ELEMENTOS DO JOGO 44 4.3.1 Controláveis 44 4.3.1.1 Controles no componente Principal 44 4.3.1.2 Controles no componente Secundário 46 4.3.2 Obstáculos 46 4.3.3 Cenário 48 4.3.3.1 Geração do Cenário 49 4.4 COMUNICAÇÃO ENTRE DISPOSITIVOS 49 4.4.1 Prototipagem com Photon 50 4.4.2 Refatoração do Projeto com a Biblioteca Telepathy 51 4.4.2.1 Funcionamento da Biblioteca Telepathy 51 4.4.2.2 Aplicação da Biblioteca Telepathy ao Projeto 52 4.5 RESULTADOS DO DESENVOLVIMENTO 53 4.6 PUBLICAÇÃO 55 4.6.1 GERANDO VERSÕES EXECUTÁVEIS DO JOGO 55 4.6.2 PUBLICAÇÃO DOS EXECUTÁVEIS 56 4.6.2.1 Publicação na Plataforma Itch 56",
+      "content_length": 826
+    },
+    "conclusion": {
+      "header": "6.1 CONSIDERAÇÕES FINAIS",
+      "start_char": 1198,
+      "end_char": 1214,
+      "content": "Com a aplicação de técnicas de design e um planejamento adequado, é notório como o processo de desenvolvimento de um jogo está mais acessível do que nunca nos dias atuais. Diversas ferramentas e utilidades estão ao alcance dos desenvolvedores, em grande parte gratuitas ou de baixo custo. Jogos assimétricos são peculiares no sentido de que não possuem ferramentas adaptadas especificamente para eles. No entanto, usando técnicas consolidadas de design e desenvolvimento para jogos multijogadores comuns e de jogos de apenas um jogador, foi possível desenvolver um jogo multijogador assimétrico, como foi proposto no início deste trabalho. O design e o desenvolvimento de jogos são atividades consideravelmente iterativas e derivativas, se baseando no que deu certo e no que deu errado nos div ersos jogos experimentados pelos autores de um jogo ao longo de suas vidas. Ideias são transmitidas de game designer para game designer, e se manifestam em emoções (idealmente as planejadas pelos designers) que os jogadores irão sentir e compartilhar com o utras pessoas enquanto consomem estas obras que compõem uma mídia única e fascinante.",
+      "content_length": 1136
+    }
+  }
+}

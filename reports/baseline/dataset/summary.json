@@ -1,0 +1,187 @@
+{
+  "dataset_name": "Corpus final consolidado BMT",
+  "source": "Trabalhos academicos em PDF coletados do Pantheon/UFRJ e versionados no repositorio.",
+  "inclusion_criteria": [
+    "PDF academico completo",
+    "texto extraivel com pypdf",
+    "documento relacionado a computacao ou jogos digitais"
+  ],
+  "exclusion_criteria": [
+    "arquivos duplicados",
+    "PDFs sem texto extraivel",
+    "documentos fora do formato de trabalho academico"
+  ],
+  "cleaning_and_normalization": [
+    "extracao textual com pypdf",
+    "reparo heuristico de codificacao quando detectado",
+    "remocao de hifenizacao artificial",
+    "normalizacao de espacos",
+    "normalizacao sem acentos para busca de cabecalhos"
+  ],
+  "document_count": 10,
+  "processed_count": 10,
+  "error_count": 0,
+  "page_count_total": 706,
+  "normalized_text_length_total": 972163,
+  "normalized_text_length_mean": 97216.3,
+  "section_detection_counts": {
+    "introduction": 10,
+    "results": 10,
+    "conclusion": 10
+  },
+  "status_distribution": {
+    "ok": 10
+  },
+  "documents": [
+    {
+      "document_id": "AMDavid",
+      "pdf_path": "data\\raw\\AMDavid.pdf",
+      "status": "ok",
+      "page_count": 57,
+      "text_length": 81337,
+      "normalized_text_length": 81133,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "ENPinho",
+      "pdf_path": "data\\raw\\ENPinho.pdf",
+      "status": "ok",
+      "page_count": 48,
+      "text_length": 57284,
+      "normalized_text_length": 55479,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "FMRolim",
+      "pdf_path": "data\\raw\\FMRolim.pdf",
+      "status": "ok",
+      "page_count": 68,
+      "text_length": 137687,
+      "normalized_text_length": 137274,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "GGSouza",
+      "pdf_path": "data\\raw\\GGSouza.pdf",
+      "status": "ok",
+      "page_count": 84,
+      "text_length": 106065,
+      "normalized_text_length": 105621,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "HBCReis",
+      "pdf_path": "data\\raw\\HBCReis.pdf",
+      "status": "ok",
+      "page_count": 75,
+      "text_length": 84030,
+      "normalized_text_length": 83821,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "HBMHenriques",
+      "pdf_path": "data\\raw\\HBMHenriques.pdf",
+      "status": "ok",
+      "page_count": 92,
+      "text_length": 125206,
+      "normalized_text_length": 124932,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "LCMarques",
+      "pdf_path": "data\\raw\\LCMarques.pdf",
+      "status": "ok",
+      "page_count": 69,
+      "text_length": 92745,
+      "normalized_text_length": 90284,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "LMFGaleno",
+      "pdf_path": "data\\raw\\LMFGaleno.pdf",
+      "status": "ok",
+      "page_count": 96,
+      "text_length": 129385,
+      "normalized_text_length": 129053,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "MDFonseca",
+      "pdf_path": "data\\raw\\MDFonseca.pdf",
+      "status": "ok",
+      "page_count": 66,
+      "text_length": 97612,
+      "normalized_text_length": 97453,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "PVMNascimento",
+      "pdf_path": "data\\raw\\PVMNascimento.pdf",
+      "status": "ok",
+      "page_count": 51,
+      "text_length": 67315,
+      "normalized_text_length": 67113,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    }
+  ]
+}

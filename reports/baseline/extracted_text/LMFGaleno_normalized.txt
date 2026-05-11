@@ -1,0 +1,2259 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+INSTITUTO DE COMPUTAÇÃO
+CURSO DE BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO
+LARISSA MONTEIRO DA FONSECA GALENO
+EXPERIÊNCIA DE ENSINO DE LÓGICA DE PROGRAMAÇÃO PARA ALUNOS
+DO ENSINO MÉDIO USANDO APRENDIZADO BASEADO EM PROJETO
+RIO DE JANEIRO
+2023
+LARISSA MONTEIRO DA FONSECA GALENO
+EXPERIÊNCIA DE ENSINO DE LÓGICA DE PROGRAMAÇÃO PARA ALUNOS
+DO ENSINO MÉDIO USANDO APRENDIZADO BASEADO EM PROJETO
+Trabalho de conclusão de curso de graduação
+apresentado ao Instituto de Computação da
+Universidade Federal do Rio de Janeiro como
+parte dos requisitos para obtenção do grau de
+Bacharel em Ciência da Computação.
+Orientador: Prof. Geraldo Bonorino Xexéo
+RIO DE JANEIRO
+2023
+CIP - Catalogação na Publicação
+Elaborado pelo Sistema de Geração Automática da UFRJ com os dados fornecidos
+pelo(a) autor(a), sob a responsabilidade de Miguel Romeu Amorim Neto - CRB-7/6283.
+G153e
+Galeno, Larissa Monteiro da Fonseca
+Experiência de ensino de Lógica de Programação
+para alunos do Ensino Médio usando Aprendizado
+Baseado em Projeto / Larissa Monteiro da Fonseca
+Galeno. -- Rio de Janeiro, 2023.
+94 f.
+Orientador: Geraldo Bonorino Xexéo.
+Trabalho de conclusão de curso (graduação) -
+Universidade Federal do Rio de Janeiro, Instituto
+de Computação, Bacharel em Ciência da Computação,
+2023.
+1. Computação. 2. Educação. 3. Aprendizado baseado
+em projeto. I. Xexéo, Geraldo Bonorino, orient. II.
+Título.
+Dedico este trabalho aos meus alunos, vocês me ensinaram muito.
+AGRADECIMENTOS
+Agradeço ao meu orientador, Geraldo Xexéo, por toda paciência, dedicação, contribuições com o desenvolvimento deste trabalho de conclusão de curso e por ter acreditado
+em mim e no projeto. Também agradeço ao professor Edmundo de Souza e Silva e os
+diretores do IDEAS (Instituto para o Desenvolvimento Econômico, Ambiental e Social de
+Nova Friburgo), Osvaldo Antônio Lucho Jr. e Carla Adriana Lucho, pela oportunidade e
+por terem confiado em meu trabalho. Agradeço a Cinthia Gama, funcionária do IDEAS,
+que compôs a equipe organizadora e acompanhou os alunos presencialmente, por toda
+troca ao longo do curso.
+Agradeço a equipe organizadora do curso Machine Learning, Maths and Ethics, Luis
+Coimbra e Ana Moura Santos, pela confiança em meu trabalho e pelo convite de conduzir
+a turma de Recreio/MG. Em especial, agradeço o Luis Coimbra que desde o início da
+minha jornada na tecnologia me possibilitou ver a computação e o ensino de outra forma.
+Também agradeço aos alunos e alunas, quais não posso nominar, que fizeram parte de
+ambos os curso que pude ministrar. Agradeço por terem participado e pelas contribuições
+que fizeram para o presente trabalho.
+Agradeço a todo corpo docente do Instituto de Computação da UFRJ pela excelente
+formação. Em especial a professora Maria Luiza Campos quem abriu meus olhos acerca
+das questões de diversidade na tecnologia e implicações éticas da computação.
+Agradeço à minha família por toda paciência e apoio na minha trajetória acadêmica,
+em especial aos meus pais, Jackson Galeno e Lara Fonseca, e aos meus irmãos, Bruna
+Gatti, Rafael Galeno, Tadeu Galeno e Tiago Galeno. Agradeço ao meu parceiro Arthur
+Sasse por ter se empolgado com o projeto tanto quanto eu e por todo apoio. Um enorme
+agradecimento aos amigos e amigas que fizeram parte da minha trajetória. Agradeço
+a Mayara Martins e Gilberto Lopes por serem meu porto seguro ao longo da minha
+graduação. Também agradeço aos companheiros de Empresa Júnior, Alexandre Camillo,
+Fernando Carrasco, Glauber Guimarães e Wesley Mota, pelo auxílio que me deram para
+finalizar esse ciclo. Por fim, agradeço as alunas e professoras do “Pole & Art”, em especial
+Sara Quesec, por terem comemorado cada etapa deste trabalho junto comigo.
+“Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria
+produção ou a sua construção.”
+Paulo Freire
+RESUMO
+A demanda por profissionais qualificados no mercado de tecnologia está em uma crescente
+nosúltimosanos. Aliadoaisso, aONGIDEASdeNovaFriburgo/RJviunessaaltataxade
+empregabilidade uma oportunidade para os jovens da cidade. Assim, a ONG, em conjunto
+com a UFRJ, propuseram para os alunos do ensino médio da cidade uma capacitação de
+lógica de programação com Python e introdução a análise de dados. Sendo assim, este
+trabalho propõe expor a experiência de concepção e aplicação deste curso. Para tal,
+foi possível ter uma experiência prévia com uma turma da cidade de Recreio/MG para
+compreender a melhor forma de trabalhar com o público alvo. Com isso, foi possível
+planejar um curso utilizando metodologias ativas de ensino, como aprendizado baseado
+em projetos e sala de aula invertida, para engajar os alunos do IDEAS. Ao final do curso
+os alunos foram capazes de entregar o projeto proposto, relataram uma boa experiência
+de aprendizagem e compartilharam o desejo de prosseguir com os estudos de computação.
+Palavras-chave: educação; lógica de programação; aprendizado baseado em projeto;
+sala de aula invertida; experiência.
+ABSTRACT
+The demand for qualified professionals in the technology market has been increasing in
+recent years. In addition to this, the NGO IDEAS from Nova Friburgo/RJ saw in this an
+opportunity for the city’s youth. Thus, the NGO, in conjunction with UFRJ, proposed
+a training program in logic programming with Python and introduction to data analysis
+for high school students in the city. Therefore, this work aims to present the experience
+of designing and implementing this course. To accomplish that, it was possible to have a
+previous experience with a class from the city of Recreio/MG to understand the best way
+to work with the target audience. Therefore it was possible to plan the IDEAS course
+using active teaching methodologies such as project-based learning and flipped classroom
+to engage the students. At the end, the students were able to deliver the proposed project,
+reported a good learning experience, and expressed a desire to continue their studies in
+computer science.
+Keywords: education; programming logic; project-based learning; flipped classroom;
+experience.
+LISTA DE ILUSTRAÇÕES
+Figura 1 – Etapas de revisão de Trabalhos correlatos . . . . . . . . . . . . . . . . 20
+Figura 2 – Laboratório de Informática da E. E. Olavo Bilac . . . . . . . . . . . . . 29
+Figura 3 – Presença no laboratório de informática ofertado pela escola . . . . . . . 31
+Figura 4 – Satisfação com os conhecimentos adquiridos . . . . . . . . . . . . . . . 32
+Figura 5 – Dificuldades de aprendizado . . . . . . . . . . . . . . . . . . . . . . . . 32
+Figura 6 – Participação da Professora Aliada . . . . . . . . . . . . . . . . . . . . . 33
+Figura 7 – Seguir os estudos na área de STEM . . . . . . . . . . . . . . . . . . . . 33
+Figura 8 – Seguir carreira em tecnologia . . . . . . . . . . . . . . . . . . . . . . . 34
+Figura 9 – Laboratório IDEAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Figura 10 – Trabalho Grupo 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Figura 11 – Trabalho Grupo 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Figura 12 – Trabalho Grupo 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Figura 13 – Trabalho Grupo 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Figura 14 – Entrega dos certificados . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Figura 15 – Caracterização do Participante . . . . . . . . . . . . . . . . . . . . . . 50
+Figura 16 – Conhecimento Prévio de Google Planilhas . . . . . . . . . . . . . . . . 50
+Figura 17 – Conhecimento Prévio nos campos de Programação . . . . . . . . . . . 51
+Figura 18 – Avaliação de Material . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Figura 19 – Avaliação da Plataforma Moodle . . . . . . . . . . . . . . . . . . . . . 53
+Figura 20 – Avaliação da Estrutura do Laboratório IDEAS . . . . . . . . . . . . . . 53
+Figura 21 – Presença no Laboratório . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Figura 22 – Uso do laboratório . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Figura 23 – Avaliação sobre os vídeos de trajetória na computação . . . . . . . . . 55
+Figura 24 – Avaliação sobre os Quizes Gamificados no Kahoot! . . . . . . . . . . . 55
+Figura 25 – Avaliação sobre as aulas de Terças e Quintas . . . . . . . . . . . . . . . 56
+Figura 26 – Realizar o Desafio 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Figura 27 – Fixar o conteúdo por meio do desafio . . . . . . . . . . . . . . . . . . . 57
+Figura 28 – Apresentação do desafio 1 . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Figura 29 – Realizar o Desafio final . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Figura 30 – Fixar o conteúdo por meio do desafio . . . . . . . . . . . . . . . . . . . 58
+Figura 31 – Apresentação Final . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Figura 32 – Fazer trabalhos em Grupo . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Figura 33 – Ter um grupo Fixo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Figura 34 – Dificuldades ao longo do Curso . . . . . . . . . . . . . . . . . . . . . . 61
+Figura 35 – Continuidade nos estudos . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Figura 36 – Trabalhar com computação . . . . . . . . . . . . . . . . . . . . . . . . 62
+LISTA DE TABELAS
+Tabela 1 – Quantidade de resultados de cada String de Busca . . . . . . . . . . . 21
+Tabela 2 – Quantidade de resultados de cada String de busca após filtragem inicial 21
+Tabela 3 – Filtros lendo o resumo . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Tabela 4 – Filtragem final . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Tabela 5 – Respostas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+LISTA DE ABREVIATURAS E SIGLAS
+PESC Programa de Engenharia de Sistemas e Computação
+UFRJ Universidade Federal do Rio de Janeiro
+ONG Organização não governamental
+IDEAS Instituto para o Desenvolvimento Econômico, Ambiental e Social de
+Nova Friburgo
+COPPE Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia
+PBL Aprendizado Baseado em Projeto
+JAH Jornada de Aprendizado da Heroína
+STEM Ciência, Tecnologia, Engenharia e Matemática
+SUMÁRIO
+1 INTRODUÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.1 CONTEXTO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.2 MOTIVAÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.3 OBJETIVO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+1.4 ESTRUTURA DO DOCUMENTO . . . . . . . . . . . . . . . . . . . 14
+2 FUNDAMENTAÇÃO TEÓRICA . . . . . . . . . . . . . . . . . 15
+2.1 PBL - PROJECT BASED LEARNING . . . . . . . . . . . . . . . . .15
+2.2 SALA DE AULA INVERTIDA . . . . . . . . . . . . . . . . . . . . . . 16
+2.3 AVALIAÇÃO DA EXPERIÊNCIA . . . . . . . . . . . . . . . . . . . . 17
+3 TRABALHOS CORRELATOS . . . . . . . . . . . . . . . . . . . 19
+3.1 METODOLOGIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+3.1.1 Etapa 1: Definição das questões de Pesquisa . . . . . . . . . . . 19
+3.1.2 Etapa 2: Definição da String de Busca . . . . . . . . . . . . . . . 19
+3.1.3 Etapa 3, 4 e 5: Busca, filtragem de resultados e seleção . . . . 19
+3.2 RESULTADO - TRABALHOS CORRELATOS . . . . . . . . . . . . . 22
+4 RELATO DE EXPERIÊNCIA - RECREIO . . . . . . . . . . . 26
+4.1 ESTRUTURA DO CURSO ONLINE . . . . . . . . . . . . . . . . . . 27
+4.2 SELEÇÃO DAS ALUNAS . . . . . . . . . . . . . . . . . . . . . . . . 28
+4.3 DINÂMICA DE APRENDIZADO . . . . . . . . . . . . . . . . . . . . 29
+4.4 RESULTADOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+4.5 CONCLUSÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+5 EXPERIÊNCIA - ONG IDEAS . . . . . . . . . . . . . . . . . . 36
+5.1 CONCEPÇÃO DO CURSO . . . . . . . . . . . . . . . . . . . . . . .36
+5.2 ESTRUTURA DO CURSO . . . . . . . . . . . . . . . . . . . . . . . . 38
+5.2.1 Elementos do PBL . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+5.2.2 Ementa e Organização do Conteúdo . . . . . . . . . . . . . . . . 40
+5.3 SELEÇÃO DOS ALUNOS . . . . . . . . . . . . . . . . . . . . . . . . 43
+5.4 DINÂMICA DE APRENDIZADO . . . . . . . . . . . . . . . . . . . . 45
+5.5 AVALIAÇÃO DO CURSO . . . . . . . . . . . . . . . . . . . . . . . . 46
+5.5.1 Caracterização do Participante . . . . . . . . . . . . . . . . . . . 49
+5.5.2 Conhecimento Prévio . . . . . . . . . . . . . . . . . . . . . . . . . 49
+5.5.3 Conhecimento Adquirido ao longo do curso . . . . . . . . . . . 51
+5.5.4 Avaliação do Projeto, Recursos e Impacto do curso . . . . . . 51
+5.6 CONCLUSÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+6 CONCLUSÃO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+REFERÊNCIAS . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+APÊNDICE A – FORMULÁRIO DE SELEÇÃO DE ALUNOS DO CURSO IDEAS . . . . . . . . . . . 67
+APÊNDICE B – QUESTIONÁRIOPARAAVALIAÇÃODA
+EXPERIÊNCIA DO CURSO IDEAS . . . . 75
+13
+1 INTRODUÇÃO
+Este projeto final trata da avaliação de um curso para ensinar Python básico e análise
+de dados para uma turma de alunos do ensino médio utilizando Aprendizado Baseado em
+Projetos (PBL). O objeto de estudo deste trabalho foi uma turma de 13 estudantes, participantes de um projeto de uma ONG de Nova Friburgo/RJ em parceria com a COPPE.
+Previamente, foi aplicado um curso de teor similar para uma turma da mesma faixa etária
+na cidade de Recreio/MG, o que foi útil para mostrar possíveis desafios ao lidar com esse
+público. O resultado obtido com a turma de Nova Friburgo foi promissor para a utilização
+de metodologias ativas no ensino de Python para o intervalo etário mencionado.
+Com o objetivo de apresentar o estudo, este capítulo está organizado nas seguintes
+seções: contexto do mercado de computação, motivação da realização deste trabalho,
+objetivo pretendido com o estudo e estrutura do documento.
+1.1 CONTEXTO
+O número de vagas abertas no mercado de tecnologia é muito maior do que a quantidade de pessoas qualificadas para ocupá-las. No Brasil, segundo cálculos da Associação
+das Empresas de Tecnologia da Informação e Comunicação e de Tecnologias Digitais, em
+cinco anos serão criados aproximadamente 800 mil novos postos, mas serão formados em
+torno de 53 mil profissionais de tecnologia por ano, o que deve gerar um deficit de 532
+mil pessoas para trabalhar na área (NACIONAL, 2022). Essa questão não se restringe ao
+Brasil: nos Estados Unidos, por exemplo, Breaux e Moritz (2021) apontam que haverá um
+aumento de 22% nas vagas de desenvolvimento de software, no entanto há uma tendência
+de redução de até 25% na força de trabalho em Tecnologia da Informação.
+1.2 MOTIVAÇÃO
+Uma das motivações para este estudo parte do cenário de empregabilidade do mercado de tecnologia apresentado anteriormente aliado ao que Wang, Vemula e Frye (2020)
+colocam em seu artigo: a exposição precoce, como na escola, de conteúdos de programação pode gerar um interesse genuíno e duradouro na área, contribuindo para formação
+de mais profissionais qualificados. As áreas que compreendem a STEM, que consiste um
+sistema de aprendizado científico que abarca as áreas de ciência, tecnologia, engenharia e
+matemática, de forma geral, se beneficiariam por essa apresentação precoce de conteúdo
+na formação do indivíduo.
+Além disso, a ONG responsável pelo projeto possui como motivação o impacto social
+que o curso de programação pode gerar no estudantes. A equipe responsável frisa que a
+14
+capacitação em programação é de extrema importância para mostrar aos estudantes do
+ensino médio opções de futuro ao terminar a escola, como entrar na faculdade ou ingressar
+no mercado de trabalho de tecnologia de maneira qualificada.
+Este projeto idealizou e aplicou um curso de programação com foco em indivíduos que
+estão na escola, utilizando metodologias ativas de ensino para gerar um maior interesse e
+engajamento dos alunos. Assim, buscou-se compreender se apresentar o conteúdo dessa
+forma foi efetivo para que os alunos se interessassem por seguir suas carreiras na área e
+aprendessem os conceitos de programação.
+1.3 OBJETIVO
+O objetivo deste projeto final é avaliar se o uso de metodologias ativas, como o PBL,
+é útil para o ensino de programação para alunos do ensino médio.
+A partir desse objetivo foi feita a proposta de um curso que ensina o básico de programação utilizando Python e introduz a análise de dados. Ao final desse curso, foi solicitada
+aos estudantes uma avaliação de suas experiências, a fim de analisar a efetividade do uso
+de metodologias ativas para o ensino de programação. Essa avaliação ocorreu por meio
+de um questionário de opinião não obrigatório e anônimo.
+1.4 ESTRUTURA DO DOCUMENTO
+O restante deste trabalho está organizado da seguinte forma: o próximo capítulo
+introduz conceitos-chave utilizados no decorrer do estudo, como Aprendizado Baseado
+em Projeto, sala de aula invertida e a avaliação por questionário de opinião (survey). O
+capítulo três aborda trabalhos já realizados relacionados ao estudo deste projeto final, ou
+seja, apresenta trabalhos que tiveram como objetivo ensinar Python para a faixa etária do
+ensino médio. O capítulo quatro expõe a experiência de aulas de programação para uma
+turma de meninas da cidade de Recreio/MG, que serviu como base para o experimento
+principal deste trabalho, cuja aplicação e resultados são detalhados no capítulo cinco. Por
+fim, o capítulo seis apresenta a conclusão deste trabalho, em que são debatidos resultados
+obtidos, desafios, aprendizados para melhorias e possíveis trabalhos futuros.
+15
+2 FUNDAMENTAÇÃO TEÓRICA
+Este capítulo tem como objetivo apresentar conceitos e metodologias que embasam
+este trabalho e serão abordados nos próximos capítulos. A primeira seção irá abordar o
+que é o Project Based Learning (PBL) e detalhará como ele foi aplicado no objeto de
+estudo deste projeto final. Já na segunda seção é revisado o conceito de sala de aula
+invertida e seus efeitos no ensino. Finalmente, na seção três será revisada uma forma de
+avaliação de experiência de aprendizado utilizando questionário de opinião para coleta de
+dados.
+2.1 PBL - PROJECT BASED LEARNING
+O “Project Based Learning”, ou Aprendizado Baseado em Projeto, é uma metodologia
+que objetiva ensinar por meio do engajamento do aluno com seu processo de aprendizado (BLUMENFELD et al., 1991). Com essa metodologia é esperado que os estudantes
+procurem soluções de problemas não triviais com posturas proativas: tirando dúvidas, debatendo ideias, desenhando planos, fazendo experimentos, criando artefatos ou coletando
+e analisando dados, por exemplo.
+Blumenfeld et al. (1991) indicam que existem dois componentes essenciais para aplicação da metodologia: uma pergunta motivadora (driving question) e atividades direcionadoras. O objetivo do projeto é responder a pergunta, engajando os alunos na investigação
+para, assim, chegar a uma conclusão. Já as atividades são úteis para guiar o processo de
+aprendizado dos alunos, de modo a evitar que eles percam o foco do projeto. Dessa forma,
+o trabalho defende que o uso do PBL é capaz de melhorar o envolvimento e a motivação dos alunos com o aprendizado, gerando maior interesse no conteúdo e aumentando a
+eficácia do ensino.
+Larmer, Ross e Mergendollar (2009) vão ao encontro com a definição de Blumenfeld et
+al. (1991) colocando que com o PBL os estudantes aprendem a ementa curricular a partir
+da busca pela resposta de uma questão motivadora. Essa pergunta precisa representar
+um problema do mundo real para que engaje os alunos. Assim, o livro apresenta oito
+elementos essenciais para aplicação do PBL:
+• Conteúdo significativo: focar em ensinar aos alunos conteúdos e habilidades relevantes;
+• HabilidadesdoséculoXXI:permitiraosalunosconstruíremhabilidadessócio-comportamentais
+importantes para o mercado de trabalho do século XXI, como pensamento crítico,
+resolução de problemas, comunicação e colaboração;
+16
+• Inquérito aprofundado: os alunos devem estar engajados com os projetos, tirando
+dúvidas constantemente;
+• Pergunta motivadora: pergunta aberta que direciona o projeto e o processo de
+aprendizado dos alunos;
+• Precisa saber: quais conteúdos os alunos precisam saber para completar o projeto
+e obter êxito em aprender o que foi previsto na ementa curricular;
+• Voz e Escolha: os alunos devem ter autonomia para fazer escolhas a respeito do
+projeto que estão produzindo, como o projeto será executado e a organização do
+projeto;
+• Revisão e Reflexão: coletar feedback dos alunos para considerar mudanças no processo e atingir resultados melhores;
+• Público: é preciso que os estudantes apresentem o trabalho para outras pessoas além
+dos colegas de classe e professores.
+Larmer, Ross e Mergendollar (2009) seguem apresentando argumentos de diferentes
+perspectivas acerca da efetividade da metodologia para alunos do ensino fundamental
+e ensino médio. Para os professores, em geral, é perceptível o aumento da motivação
+dos alunos e que a metodologia facilita a conexão do conteúdo da escola com questões
+de fora da sala de aula. Para os pesquisadores, apesar de afirmarem que ainda são
+necessárias maiores pesquisas, eles também apontam que com o PBL é possível aumentar
+o engajamento e motivação dos alunos, melhorar a retenção do conhecimento a longo
+prazo e desenvolver as habilidades do século XXI.
+Assim, o livro foca em ser um guia prático para a implementação da metodologia com
+alunos do ensino fundamental e médio, exemplificando com casos de sucesso e mostrando
+orientações de planejamento, preenchimento de formulários oferecido pelos autores, um
+guia sobre como montar a pergunta motivadora e direcionamentos sobre como conduzir
+as aulas e o projeto. A aplicação da metodologia PBL no objeto de estudo deste trabalho
+ocorreu seguindo essas diretrizes.
+2.2 SALA DE AULA INVERTIDA
+A sala de aula invertida é uma forma de ensino em que a apresentação do conteúdo
+para os alunos é feita fora da sala de aula, enquanto a aula é para praticar o que foi
+visto anteriormente (BERGMANN; SAMS, 2012). Essa mudança de paradigma tem como
+objetivo colocar o aluno no centro do processo de aprendizado, para que ele possa ter mais
+autonomia e, consequentemente, uma motivação maior (AKÇAYIR; AKÇAYIR, 2018).
+17
+Em seu artigo Akçayır e Akçayır (2018) realizam uma revisão sistemática de 71 trabalhos que relatam a experiência de ensino usando sala de aula invertida, com o foco de
+entender os seus benefícios e desafios. Nessa revisão concluí-se que, em geral, usar a sala
+de aula invertida produz resultados positivos. A maioria dos estudos reportou que o uso
+do método contribuiu para o engajamento dos alunos e a motivação com as aulas, aspectos relevantes para a melhora do processo de aprendizado. Entretanto, o artigo aponta
+dificuldades que podem ocorrer no processo:
+• Confecção do material para ser enviado aos alunos: é preciso que o professor responsável forneça materiais interessantes e de boa qualidade para não comprometer
+essa etapa do aprendizado;
+• Falta de comunicação fora da sala de aula: com a revisão mostrou-se relevante os
+alunos terem acesso a ajuda ou feedback no momento em que estiverem fazendo
+atividades fora da sala de aula;
+• Checar viabilidade: para implementação do método é preciso verificar se os alunos
+possuem acesso às tecnologias aos meios necessários para acessar os conteúdos e
+participar plenamente das aulas.
+Portanto, este trabalho corrobora com uma visão positiva acerca do uso da sala de aula
+invertida e aponta os principais cuidados na aplicação da metodologia.
+Sobral(2021)realizaumarevisãode45artigosquerelatamaexperiênciadousodasala
+de aula invertida para o ensino de programação. Assim como Akçayır e Akçayır (2018),
+Sobral (2021) aponta que a qualidade do material enviado para os alunos é determinante
+para o sucesso da experiência e complementa que vídeos longos podem desmotivar os
+alunos. No entanto, o uso dessa metodologia é visto como positivo, pois foi relatado que
+os alunos preferem usar o tempo da aula para praticar a teoria, por exemplo, resolvendo
+exercícios compair programmingou com aprendizado baseado em projeto. Assim, o uso
+da sala de aula invertida para o ensino de programação é visto como promissor para a
+experiência deste trabalho.
+Logo, com os trabalhos apresentados acima, o uso da sala de aula invertida mostrase complementar ao uso do PBL, sendo duas metodologias ativas de ensino que podem
+engrandecer o processo de aprendizado quando usadas juntas.
+2.3 AVALIAÇÃO DA EXPERIÊNCIA
+O trabalho de Mello e Mello (2022) relata a experiência de organizar e ministrar uma
+disciplina para uma turma de graduação em computação e, ao final, detalha como foi a
+coleta de dados para avaliação da experiência.
+18
+O foco do curso era ensinar aos alunos metodologias de pesquisa qualitativa, portanto
+passou por tópicos como: técnicas para coleta de dados qualitativos, como pesquisa de
+opinião e entrevista; etnografia e estudos de observação; e análise e interpretação de
+dados qualitativos. Como parte do estudo, foi feita a implantação da disciplina no curso
+de Bacharelado em Ciência da Computação oferecido na instituição CEFET/RJ e, devido
+à pandemia, ocorreu de forma remota.
+Com isso, ao final do curso o professor responsável convidou os alunos a participar
+de uma pesquisa de opinião (survey) cujo objetivo era coletar percepções referentes à
+experiência que tiveram ao longo do curso. Importante frisar que o professor se preocupou
+em realizar a pesquisa após o lançamento das notas, para que os alunos não respondessem
+acreditando que poderia afetar o rendimento na disciplina. Assim, foi dado um prazo de
+15 dias para participação na pesquisa e 11 dos 22 alunos responderam ao questionário,
+que era composto por quatro blocos:
+• Caracterização dos Participantes: delimitar o perfil dos participantes da pesquisa;
+• Avaliação da Experiência do Curso: eram apresentadas afirmações para os participantes e a resposta era na escala de Likert para avaliar a concordância;
+• Avaliação do Material de Aula, Atividades e Demais Recursos: era pedido que os
+alunos atribuíssem um conceito, de 0 a 5, para diferentes recursos oferecidos durante
+o curso;
+• Sugestões para o Futuro: por fim era solicitado em perguntas abertas que os participantes indicassem sugestões de melhoria para edições futuras.
+O survey possibilitou coletar dados interessantes para a análise e, com isso, os autores
+concluíram o estudo de forma positiva e com resultados promissores. Dessa forma, pelas
+características da disciplina e pelos resultados alcançados, entende-se que a replicação
+dessa avaliação para o presente estudo poderia trazer resultados promissores para avaliar
+a experiência dos alunos no curso de Python ofertado. Logo, neste estudo foi aplicado um
+survey com um protocolo e estrutura similares.
+No capítulo a seguir serão revisadas pesquisas em que ocorreu a aplicação do aprendizado baseado em projetos para o ensino de programação na faixa etária do ensino
+fundamental e médio, com o objetivo de entender a eficácia da aplicação da metodologia.
+19
+3 TRABALHOS CORRELATOS
+Este capítulo tem como objetivo abordar trabalhos correlatos, logo serão apresentadas publicações que exploraram o ensino de Python para adolescentes utilizando o PBL.
+Na primeira seção será descrita a metodologia aplicada para pesquisar e selecionar os
+trabalhos e, em seguida, eles serão apresentados.
+3.1 METODOLOGIA
+Nesta seção será apresentado o processo de pesquisa de trabalhos correlatos para o
+embasamento deste trabalho. Foi feita uma revisão ad-hoc de trabalhos relacionados,
+sendo usada a plataforma Google Scholar para a busca e a aplicação de critérios de
+exclusão para filtrar resultados até chegar nos trabalhos selecionados. A figura 1 ilustra o
+processo adotado, enquanto as etapas individuais serão explicadas nas subseções a seguir.
+3.1.1 Etapa 1: Definição das questões de Pesquisa
+Para embasar a pesquisa por trabalhos, foi proposta a seguinte pergunta de pesquisa:
+• QP1: Qual a efetividade do uso de Project Based Learning para o ensino de Python
+para alunos entre 15 a 19 anos?
+O objetivo da QP1 é avaliar se a estruturação de um curso de Python usando o PBL é
+bem sucedida para cumprir os objetivos de ensino e aprendizagem. Ou seja, compreender
+se o esforço de aplicar a metodologia de ensino compensa.
+3.1.2 Etapa 2: Definição da String de Busca
+A definição da string de busca partiu da necessidade de ter um mecanismo que conseguisse entregar resultados condizentes com a pergunta de pesquisa. Assim, foi definida a
+seguinte string em inglês: teaching python project based learning OR PBL k-12. O termo
+“k-12” foi escolhido, pois na literatura internacional é a forma utilizada para referenciar
+ao público do ensino médio abarcado por este trabalho.
+Com o uso da plataforma Google Scholar é possível colocar a string de busca usando
+operadores lógicos para que a entrega de resultado seja mais completa. Dessa forma, é
+possível analisar os resultados sem a necessidade de refazer a busca.
+3.1.3 Etapa 3, 4 e 5: Busca, filtragem de resultados e seleção
+A busca dos trabalhos ocorreu pela plataforma Google Scholar, uma plataforma que
+acessa diferentes bases de literatura acadêmica e lista os resultados indicando a base de
+20
+Figura 1 – Etapas de revisão de Trabalhos correlatos
+onde cada trabalho foi retirado e o formato da publicação. A escolha dessa ferramenta se
+deu pela conveniência e praticidade do uso. A busca com a string definida acima tem o
+resultado registrado na tabela 1.
+Após a execução da busca na plataforma, a filtragem dos trabalhos selecionados ocorreu da seguinte forma:
+• Aplicar critérios de inclusão e exclusão com base na data e formato da publicação;
+• Aplicar critérios de inclusão e exclusão com base no Título e Resumo do artigo;
+• Aplicar critério de inclusão e exclusão com base no texto completo do artigo.
+21
+Tabela 1 – Quantidade de resultados de cada String de Busca
+Quantidade de Resultados antes da Filtragem
+String utilizada Número de
+resultados
+teaching python project based learning OR
+PBL k-12 K-12
+5.520
+Os critérios de inclusão foram:
+• O trabalho relata a experiência e os resultados do uso de PBL no ensino de Python
+para adolescentes;
+• O artigo está escrito em inglês ou português.
+Os critérios de exclusão foram:
+• O documento não é um artigo (por exemplo livros);
+• O artigo é anterior a 2018;
+• O artigo não discute o uso de PBL para o ensino de Python para adolescentes;
+• Revisões sistemáticas.
+Aplicando os critérios de data de publicação, o resultado foi:
+Tabela 2 – Quantidade de resultados de cada String de busca após filtragem inicial
+Quantidade de Resultados antes da Filtragem
+String utilizada Número de
+resultados
+teaching python with project based learning
+or PBL K-12
+3500
+Dado que a quantidade de artigos ainda ficou na casa dos milhares e a ferramenta do
+Google não permite filtrar os resultados somente por aqueles que são artigos, desconsiderando livros, foi utilizada a estratégia de analisar o título do artigo para descartá-lo. Além
+disso, para diminuir o número de resultados analisados foi usado o artifício da plataforma
+de ordenar os trabalhos por relevância. O passo seguinte foi escolher os 100 primeiros
+nessa ordem, arbitrariamente.
+Desses 100, foram selecionados 9 nessa filtragem inicial. Foi percebido pelo título que
+parte dos resultados não abordavam o Project Based Learning, focavam no ensino de
+conceitos de programação em geral e não de Python especificamente, ou, então, tinham
+22
+como público-alvo do trabalho a avaliação dos professores e não do método em si. Com
+isso, os 9 seguiram para a para a etapa de leitura do resumo. Foi visto que 4 não estavam
+de acordo com os critérios de inclusão de relatar e discutir o uso do PBL para Python na
+faixa etária determinada. A tabela 3 apresenta os 9 selecionados pelo título e o motivo
+de descarte ou seleção após ler o resumo.
+Porfim, foramlidosostextoscompletosdos5artigosselecionadoseapenas3cumpriam
+o critério de discutir a experiência da aplicação de PBL para o ensino de Python na faixa
+etária definida. A tabela 4 mostra o processo filtragem final:
+Com isso, foram selecionados os três trabalhos a serem relatados na subseção de trabalhos correlatos a seguir.
+3.2 RESULTADO - TRABALHOS CORRELATOS
+A motivação de Wang, Vemula e Frye (2020) para a confecção da pesquisa é similar a
+deste projeto final: o crescente número de oportunidades de emprego na área de STEM.
+O trabalho aponta que a exposição prematura dos conteúdos da área para estudantes é
+essencial para despertar seu interesse e, assim, suprir a demanda do mercado. Além disso,
+frisa a importância de se buscar diversidade nas áreas de STEM. Por isso, propõe e avalia
+a aplicação de um curso para ensinar Python tendo como público-alvo meninas do ensino
+médio.
+O curso consistia de oito seções presenciais ao longo de duas semanas com o foco de
+introduzir conceitos fundamentais de programação, contando com 48 participantes. Foi
+utilizado o Project-Based Learning como metodologia de ensino, pois estudos mostram
+que aumenta o entusiasmo dos alunos e é possível conectar o que está sendo visto na sala
+de aula com situações “do mundo real”. A aplicação do PBL ocorreu por meio da confecção de cinco jogos, na qual primeiro era exposto o conteúdo teórico e, em seguida, eram
+passados para as alunas os projetos a serem resolvidos. Por fim, a avaliação da experiência
+ocorreu por meio de um questionário de opinião e uma entrevista semi-estruturada com
+as participantes, sendo que das 48, 27 responderam ao questionário e 39 foram entrevistadas no último dia de curso. O questionário tinha como objetivo avaliar se aprender
+programação foi útil, já a entrevista buscava entender qual perspectiva as alunas tinham
+de programação. Ambos apresentaram resultados promissores, comprovando o interesse
+das meninas na área de ciência da computação.
+Wang, Vemula e Frye (2020) aplicam o PBL sem possuir uma pergunta direcionadora
+e sim com projetos fechados para os estudantes resolverem. Mesmo que tenham se obtido resultados positivos utilizando a metodologia dessa forma, decidiu-se utilizar neste
+trabalho o modelo aberto de pergunta como proposto por Blumenfeld et al. (1991) e descrito Larmer, Ross e Mergendollar (2009), pois apontam que os alunos podem ter mais
+autonomia na resolução dos projetos e mais oportunidades para desenvolver habilidades
+23
+Tabela 3 – Filtros lendo o resumo
+Resultados após a leitura dos resumos
+Referência do Trabalho Situação Motivos
+Making programming part of teachers’ everyday life – Programming affordances and constraints
+for K-12 mathematics and technology
+Descartado Não fala a respeito do PBL; não
+fala sobre Python; tem um foco
+maior na vivência do professor ao
+ensinar do que na experiência do
+curso
+An Oline Platform Ffor Project
+Based Learning - A Proposal
+Descartado O trabalho apresenta uma plataforma online que auxilia a aplicação do PBL para cursos, porém
+não faz a apresentação de uma
+experiência que em que a plataforma tenha sido utilizada.
+Pythons and Martians and Finches, Oh My! Lessons Learned from a Mandatory 8th Grade
+Python Class
+Selecionado O trabalho tem como objetivo
+apresentar a experiência de ensino de Python em uma turma na
+faixa do K-12.
+Summer Programming Camps –
+Exploring Project-Based Informal CS Education in a Rural
+Community
+Selecionado O trabalho tem como objetivo
+apresentar a experiência de cursos de verão de programação em
+áreas rurais, para tal é ensinado
+Python usando PBL com foco na
+faixa-etária do K-12.
+Integrating Introductory Data
+Science into Computer and Information Literacy through Collaborative Project-based Learning
+Descartado Apesar do trabalho usar o PBL
+no curso, o público-alvo são alunos que estão iniciando a fase do
+college.
+Project-first approach to programming in K–12: Tracking the
+development of novice programmers in technology-deprived environments
+Selecionado Relata a experiência do ensino
+de programação usando Python
+e uma dinâmica de confecção de
+Projetos.
+Out-of-schoolTimeSTEM:Teach
+Programming Using Python for
+High School Girls
+Selecionado Relata a experiência de um curso
+para encorajar meninas do ensino médio a ingressarem na área
+de STEM, introduzindo programação com Python
+Interdisciplinary Project Based
+Learning Approach for Machine
+Learning and Internet of Things
+Descartado Tem como foco pessoas que estão
+se graduando em engenharia
+Teaching by Induction: ProjectBased Learning for Silicon Valley
+Selecionado Apresenta a confecção de um
+cursoqueintroduzinteligênciaartificial com Python usando PBL
+24
+Tabela 4 – Filtragem final
+Resultados após a leitura dos resumos
+Referência do Trabalho Situação Motivos
+Pythons and Martians and Finches, Oh My! Lessons Learned from a Mandatory 8th Grade
+Python Class
+Descartado Não utiliza a metodologia PBL
+Summer Programming Camps –
+Exploring Project-Based Informal CS Education in a Rural
+Community
+Selecionado O trabalho tem como objetivo
+apresentar a experiência de cursos de verão de programação em
+áreas rurais, para tal é ensinado
+Python usando PBL com foco na
+faixa-etária do K-12.
+Project-first approach to programming in K–12: Tracking the
+development of novice programmers in technology-deprived environments
+Descartado Apesar de falar que é um curso
+orientado a projetos, não utiliza
+a metodologia PBL
+Out-of-schoolTimeSTEM:Teach
+Programming Using Python for
+High School Girls
+Selecionado Relata a experiência de um curso
+para encorajar meninas do ensino médio a ingressarem na área
+de STEM, introduzindo programação com Python, usando PBL
+Teaching by Induction: ProjectBased Learning for Silicon Valley
+Selecionado Apresenta a confecção de um
+cursoqueintroduzinteligênciaartificial com Python usando PBL
+do século XXI.
+Lira et al. (2022) destacam a preocupante taxa de formatura no cursos de STEM e
+aponta dois fatores como causa: a falta de incentivo em seguir carreira na área de STEM
+e a falta de contato com a área no início da jornada escolar. Essa questão se soma à
+alta demanda do mercado por profissionais de TI. Levando isso em conta, foi pensado um
+acampamento de uma semana com o objetivo de ensinar os conceitos básicos de Python
+para 19 estudantes.
+O acampamento utilizou a metodologia PBL para reforçar os conteúdos e proporcionar
+um momento de prática. O projeto foi o mesmo desde o princípio do curso e consistia na
+construção do “jogo da cobrinha” de forma incremental, ou seja, a cada aula eram construídas novas funcionalidades de acordo com o que foi aprendido de teoria. Para conduzir
+a avaliação da experiência foi feito um questionário de opinião, que todos responderam.
+Com ele foi possível concluir que o curso teve sucesso no ensino básico de programação,
+porém os alunos apresentaram dificuldades na parte de análise de código e debugging.
+Além disso, não foi possível observar alteração na motivação dos alunos de seguir carreira
+25
+em computação.
+Similar ao curso proposto deste trabalho a forma do aprendizado baseado em projeto
+doacampamentoutilizouomesmoprojetodoinícioaofim. Entretanto, assimcomoWang,
+Vemula e Frye (2020) não teve uma pergunta direcionadora, oferecendo um projeto com
+escopo fechado para os alunos resolverem.
+Jagannathan e Komives (2019) têm como foco a pouca representatividade feminina na
+área de tecnologia. Como causa disso o trabalho aponta que o ensino nas escolas favorece
+meninos a seguirem carreiras em engenharia e tecnologia em detrimento das meninas.
+Por essa razão, o pesquisador acompanhou um grupo de meninas entre 2014 até 2019
+dando aulas particulares com o objetivo de apresentar a área de programação e ensinar
+IA para que, assim, as alunas pudessem despertar o interesse e ter oportunidade de seguir
+a carreira em tecnologia.
+No início, enquanto as alunas estavam no ensino fundamental, foi ensinado o básico
+de programação com Python e, já em 2016, foi introduzida a interface entre hardware e
+software. Nessa etapa o PBL foi utilizado da seguinte forma: foi solicitado para as alunas
+identificar um problema da vida real e construir um wearable para resolver o problema,
+que seria apresentado, ao final, para familiares e outras alunas. Já nos anos de 2017 até
+2019 as alunas estavam no ensino médio e os conteúdos foram focados em inteligência
+artificial com projetos já definidos. O resultado da pesquisa foi baseado no sucesso que
+as alunas obtiveram com os projetos ao longo dos anos e no fato de algumas alunas
+expressarem a intenção de seguir carreira em engenharia e computação.
+Jagannathan e Komives (2019) apresentam um trabalho de anos de atuação, diferente
+do curso de meses proposto. Entretanto, a aplicação do PBL em 2016 é similar a usada
+no curso deste trabalho, sendo iniciada a partir de uma pergunta aberta para os alunos e
+concluída com uma apresentação, reforçando e desenvolvendo habilidades do século XXI,
+como comunicação e oratória.
+Os trabalhos apresentados acima apresentam similaridades e diferenças com o objeto
+de estudo proposto. Foram frisadas as questões de aplicação do PBL, mas também há
+diferença no tempo dedicado para aplicação do curso, assim como na quantidade de alunos e no público (alguns trabalhos tiveram o público feminino como foco, enquanto este
+apresentou um curso misto). Nos capítulos a seguir serão vistas experiências de ensino de
+computação com motivação motivações similar às mencionadas acima.
+26
+4 RELATO DE EXPERIÊNCIA - RECREIO
+Este capítulo tem como objetivo apresentar uma experiência prévia de ensino de
+Python para estudantes do ensino médio. Essa experiência serviu para mostrar aspectos
+que poderiam ser estudados em mais detalhes para o objeto de estudo deste trabalho.
+Aoportunidadedeterumaexperiênciaanteriorocorreuporcontadatesededoutorado
+do aluno do PESC/UFRJ, Luis Felipe Coimbra Costa. A tese de Costa (2023) propõe a
+Jornada de Aprendizado da Heroína (JAH)1, um arcabouço para incentivar o engajamento
+e interesse pelas áreas de STEM em pessoas que se identificam com o gênero feminino.
+Parte do desenvolvimento da tese ocorreu por meio de um curso online com duração de
+trêsmeses(31/03/2022até30/06/2022)quevisavaintroduzirosconceitosdeprogramação
+com Python e Aprendizado de Máquina. Além do conteúdo, o curso continha elementos
+da JAH para incentivar as participantes.
+Além do ambiente de aprendizado online aberto ao público, foi feita uma parceria com
+a Escola Estadual Olavo Bilac da cidade de Recreio/MG, uma vez que um professor dessa
+escola, Leonardo Ribeiro, se interessou pelo projeto e achou de grande valia para que as
+meninas da cidade pudessem ter contato com a área de tecnologia. Foi combinado entre
+o professor de Recreio e os organizadores do curso online que as participantes fariam o
+curso online, como os outros estudantes, mas também teriam acesso ao laboratório de
+informática da escola na parte da noite para realizar as tarefas e encontros semanais
+personalizados para auxiliá-las com dúvidas e problemas sobre o curso. O laboratório de
+informática foi necessário, pois o público-alvo do curso não tinha computadores em suas
+residências.
+A autora deste trabalho participou da aplicação do curso no papel de professora “aliada”. O papel de aliada, na JAH é de auxiliar as estudantes para que sigam motivadas
+com o aprendizado na área de STEM. Nesse curso, isso se concretizou por meio do acompanhamento geral de participantes, confecção de aulas extras e assistência à turma de
+alunas da cidade de Recreio. O auxílio para essa turma consistiu em: grupo de apoio no
+WhatsApp, resolver dúvidas e questões gerais e encontros semanais remotos com duração
+de duas horas.
+Para este trabalho é relevante a experiência de ensino e aprendizagem da turma de
+Recreio, portanto este capítulo terá como foco abordar os aspectos dessa turma. Para
+contextualizar a experiência primeiramente será apresentada uma seção que caracteriza o
+cursoonline, osconteúdoseformato. Emseguida, serárelatadocomoocorreuaseleçãodas
+alunas para compor a turma e ter acesso ao laboratório. Posteriormente, será apresentada
+a dinâmica de aprendizado, relatando como a condução da turma foi feita para que as
+1 https://heroicjourneys.life/framework/
+27
+participantes pudessem cumprir os objetivos de aprendizado. Por fim, serão discutidos os
+resultados e a conclusão.
+4.1 ESTRUTURA DO CURSO ONLINE
+O curso online Machine Learning, Maths and Ethics foi ofertado na plataforma do
+MOOC Técnico do Técnico Lisboa. Tinha como objetivo ensinar os conceitos básicos
+de aprendizado de máquina, programação, matemática e debater questões éticas sobre
+o uso de algoritmos. Além dos conteúdos técnicos o curso contava com a Jornada de
+Aprendizado da Heroína, uma ferramenta para fortalecer e empoderar as pessoas que se
+identificam com o gênero feminino a superar dificuldades e concluir o curso (COSTA,
+2023). A aplicação desta ferramenta conta com conteúdos dedicados ao longo do curso,
+mas também uma estrutura fora da plataforma, como a presença de uma aliada, que teve
+a função de mentorar, ensinar e tirar dúvidas dos estudantes na própria plataforma ou em
+ambientes extras que foram montados. Primeiramente será apresentada a organização do
+conteúdo técnico e em seguida a estrutura do curso com os materiais da JAH.
+O curso foi desenvolvido para pessoas que estejam frequentando ou tenham finalizado
+o ensino secundário, logo não é esperado que o participante tenha alguma experiência com
+programação e não era necessário nenhum conhecimento além do Português (era possível
+escolher o idioma dos conteúdos, enquanto os títulos dos tópicos estavam em inglês, como
+exposto abaixo). Para atender a este público o conteúdo técnico foi separado em cinco
+tópicos:
+1. Learning from experience: Machine learning and supervised learning
+• Discute os conceitos de aprendizado de Máquina de Arthur Samuel e Tom
+Mitchell e apresenta os tipos de aprendizado (supervisionado, não supervisionado e por reforço), em especial o aprendizado supervisionado e a técnica de
+classificação, que são o foco do curso.
+2. How we are going to work in supervised learning models
+• Introduz o básico de programação em Python na ferramenta Google Colab2
+(aberta e gratuita) para que os alunos consigam construir os modelos e faz uma
+apresentação geral das etapas de construção de um modelo de aprendizado de
+máquina que serão vistos de forma detalhada nos tópicos seguintes.
+3. Data preparation, data exploration and statistics
+• Ensina as etapas de preparação e exploração dos dados. Para tal mostra bibliotecas úteis de Python, estratégias para lidar com dados faltantes e formas
+2 https://colab.research.google.com/
+28
+de entender características do conjunto de dados que será trabalhado, focando
+na visualização com gráficos. Para complementar o conhecimento de gráficos é
+feita uma introdução a conceitos estatísticos para que a análise na exploração
+de dados possa se basear nessas teorias.
+4. Training models, evaluating models and matrices
+• Apresenta técnicas para fazer o treino de modelos e conceitos importantes
+para isso ocorrer, como de variáveis dependentes e independentes. Além disso,
+mostra como se faz a avaliação do modelo, ensinando as métricas de acurácia,
+F1 e sensibilidade.
+5. Ethical challenges of machine learning algorithms
+• Por fim, é feita a discussão ética sobre o uso de dados e é feito um alerta para
+os alunos terem olhares além dos números no momento de interpretarem os
+dados.
+Na plataforma os participantes também contavam com: tutoriais ecookbooksno Google Colab para aprofundar o conhecimento; questionários graduados para fixar e exercitar
+o conhecimento que contavam para a nota final e eram decisivos para a obtenção do certificado; e vídeos de profissionais das áreas de STEM contando sobre dificuldades que
+passaram ao longo da trajetória profissional. Além desses recursos, havia um canal na
+plataforma Discord para troca de conhecimento e aulas extras no Youtube. Essas aulas,
+semanais, eram abertas a todos os participantes do curso online tendo temas diversos,
+como: Python, aprendizado de máquina na prática, revisão de algum tópico do curso ou
+novas áreas de tecnologia.
+Os cinco tópicos de conteúdos técnicos estavam imersos nos conteúdos da JAH, de
+forma que ao longo do processo as alunas pudessem relembrar o propósito de estarem ali,
+para não desistirem do curso e, também, engajar com as áreas de STEM.
+Com o curso online estruturado, foi feita uma parceria com a escola E.E. Olavo Bilac
+da cidade de Recreio/MG para que um grupo de alunas pudesse fazer as aulas com o
+apoio da instituição e tendo encontros dedicados com a aliada para auxiliar no processo
+de aprendizado. Por conta de limitação do espaço físico foi necessário fazer a seleção das
+interessadas para que o projeto pudesse ter prosseguimento.
+4.2 SELEÇÃO DAS ALUNAS
+O processo de seleção ocorreu a partir de um formulário online em que as alunas
+manifestaram seu interesse. Dado o espaço do laboratório e o acompanhamento desejado
+no processo de aprendizado das alunas, as vagas para o curso foram limitadas a 14. A
+divulgação ocorreu internamente na escola pelo professor responsável pela implementação
+29
+do curso, Leonardo Ribeiro, com dois meses de antecedência. No total, ocorreram 30
+inscrições do gênero feminino, dessas foram selecionadas 14 jovens com idades entre 15 e
+21 anos. A seleção ocorreu pela ordem de inscrição no formulário. Após uma etapa de
+verificação e confirmação de participação, o curso teve início no dia 31 de março de 2022.
+4.3 DINÂMICA DE APRENDIZADO
+O primeiro encontro ocorreu com uma vídeoconferência de forma híbrida, com as
+alunas no laboratório e a professora “aliada” participando de forma remota. Nele foram
+apresentados para as alunas a proposta do curso, os objetivos de aprendizado e o contexto
+de desigualdade das áreas de tecnologia. As figuras 2a e 2b capturam esse momento que
+ocorreu com a presença das alunas no laboratório da escola e foram documentadas na
+matéria do site Pólis de Recreio3. Além disso, foi combinado que o estudo ocorreria por
+meio da técnica da sala de aula invertida, ou seja, as alunas teriam o compromisso de
+estudar o conteúdo do curso previamente e o encontro de terça seria destinado a dúvidas,
+aulas de conteúdo extra ou rodas de conversa. Importante frisar que todos os encontros
+de terça-feira ocorreram tendo em vista o formato híbrido e a presença não era obrigatória
+para obtenção do certificado.
+Figura 2 – Laboratório de Informática da E. E. Olavo Bilac
+(a) Imagem do laboratório
+(b) Imagem do laboratório
+Ao longo dos encontros, entretanto, as expectativas quanto a autonomia das alunas
+para conduzir seu estudos não foram alcançadas. Os primeiros encontros deixaram evidente que as participantes não estavam acostumadas com o esquema de sala de aula
+invertida, assim esperando que a professora “aliada” fosse prover o conteúdo de forma
+expositiva. Além disso, mesmo após acompanharem o conteúdo do curso online previamente, a maioria não contribuía para aula com dúvidas ou questões sobre o curso. Por
+3 http://www.polisrecreio.com.br/site/2022/04/01/jovens-de-recreio-participam-de-projeto-dauniversidade-de-lisboa-em-parceria-com-a-ufrj/
+30
+isso, foram introduzidos questionários gamificados por meio da plataforma Kahoot!4 para
+incentivar a participação e o aprendizado, além de facilitar a verificação da dedicação das
+alunas.
+Com o resultado desses questionários foi possível mapear as dificuldades das alunas.
+As dúvidas ocorriam desde os fundamentos da matemática e do inglês a problemas com
+a programação mais básica. Logo, foram traçadas medidas para atuar em cima dessas
+questões e, sobretudo, não desmotivar as alunas:
+1. Aulas de reforço: nos encontros semanais eram feitos exercícios de Python enquanto
+se revisava conceitos de matemática. Tal medida teve um impacto positivo no
+desempenho das estudantes;
+2. Aulas motivacionais: no estilo de roda de conversa, em que as alunas poderiam
+trazer questões ou dúvidas a respeito da vida acadêmica ou profissional na área de
+tecnologia. As alunas apreciavam esses momentos, pois conseguiam tirar dúvidas e
+expor inseguranças a respeito do futuro, assim a aula se tornava um ambiente de
+troca de aprendizados e de empatia;
+3. Confecção de um projeto em Python extra ao curso: um princípio de aprendizado
+baseado em projeto. Foi pensado para que as alunas tivessem uma motivação extra
+de aprender a linguagem e pensar em um projeto que poderia facilitar suas vidas.
+Entretanto, essa medida não teve sucesso, pois as alunas não viram valor na confecção de um projeto para fixar os conteúdos aprendidos que não contasse para obter
+a certificação;
+4. Conteúdos extras de tecnologia: a fim de motivar as alunas em outras áreas de
+tecnologia foram passados outros conteúdos, como introdução ao uso de planilhas
+usando o Google Planilhas e introdução ao desenvolvimento de sites com HTML.
+Essa medida foi útil para despertar o interesse delas por outros assuntos além do
+aprendizado de máquina;
+5. Continuidade do Kahoot: foi percebido que os questionários se tornaram uma ferramenta para gerar dúvidas e questões entre elas, fazendo com que tivessem uma
+maior participação nos encontros síncronos.
+A capacitação seguiu até o dia 30 de Junho de 2022. Das 14 participantes 11 conseguiram o certificado de conclusão e participaram da cerimônia de encerramento que também
+contou a participação de organizadores do curso online, alunos que acompanham o curso
+somente na plataforma e profissionais da área de computação, além da diretora de política
+de mulheres da Intel.
+4 https://kahoot.com/
+31
+4.4 RESULTADOS
+Os professores da escola Estadual E. E. Olavo Bilac responsáveis pela aplicação do
+curso realizaram um questionário em junho, no meio da capacitação, com o fim de coletar
+com a estudantes suas percepções sobre a experiência. O questionário (disponível no
+anexo) não era anônimo e possuía 8 perguntas:
+1. Nome?
+2. Idade?
+3. Vezes por semana no Laboratório de Informática?
+4. Sobre os conhecimentos adquiridos, até agora, na capacitação, você considera que
+é...?
+5. Você considera que é uma dificuldade no seu aprendizado...?
+6. A participação da professora “Aliada” dedicada as aulas específicas para a escola é?
+7. Você considera continuar aperfeiçoando os conhecimentos nas áreas de STEM após
+a formação?
+8. Você gostaria de trabalhar nas áreas de tecnologia?
+Das 14 participantes da capacitação 8 responderam ao questionário. A seguir serão
+exploradas as respostas de 6 perguntas.
+Figura 3 – Presença no laboratório de informática ofertado pela escola
+Com a figura 3 é possível entender que a oferta de um espaço com a infraestrutura
+necessária para realização do curso foi relevante para as estudantes, já que a maioria
+32
+estava presente no laboratório pelo menos três vezes na semana, sendo uma dessas para
+os encontros de monitoria.
+Figura 4 – Satisfação com os conhecimentos adquiridos
+A figura 4 mostra que em uma auto-avaliação as estudantes colocam que estão, de
+forma geral, satisfeitas com o conhecimento adquirido. Apesar do curso não ter finalizado
+no momento dessas respostas, elas indicam que as estratégias de reforço de aprendizado
+estavam surtindo efeito.
+Figura 5 – Dificuldades de aprendizado
+O resultado apresentado pela figura 5 confirma que o déficit dos conhecimentos de
+matemática e informática estavam sendo um fator de dificuldade, indicando que a falta
+de uma base sólida desses conceitos poderia levar a desmotivação e eventuais desistências.
+Sendo uma resposta de escala de 0 até 10, em que 0 representa “Ruim” e 10 “Ótima”
+a figura 6 mostra que as estudantes viram valor nas aulas de monitoria com a professora,
+33
+Figura 6 – Participação da Professora Aliada
+podendo ser um fator que contribuiu para permanência e persistência das alunas até o
+fim do curso.
+Figura 7 – Seguir os estudos na área de STEM
+Com as figuras 7 e 8 é possível identificar indícios de que, apesar das dificuldades
+encontradas ao longo do curso, as alunas estavam abertas a manter os estudos e vislumbrar
+um futuro na área de tecnologia. Algumas demonstraram indecisão, porém viam a carreira
+nessa área como possibilidade para o futuro.
+4.5 CONCLUSÃO
+Ao fim, das 14 selecionadas, 11 terminaram a capacitação, recebendo o certificado da
+Universidade de Lisboa. Dessas que concluíram 8 responderam ao questionário apresen-
+34
+Figura 8 – Seguir carreira em tecnologia
+tado na seção acima, com isso foi possível ter indícios que as ações extra curso foram
+relevantes para a conclusão e o aprendizado das participantes.
+Além disso, essa experiência foi essencial para colher aprendizados para a experiência
+seguinte, como:
+• Dificuldades em Python: a proposta do curso era introduzir os conceitos de aprendizado de máquina usando matemática e debatendo a Ética. Logo, o curso não tinha
+um foco no ensino de Python, sendo algo sem grande destaque no ensino. Isso teve
+um reflexo no entendimento das alunas ao longo do curso. Portanto, os responsáveis
+pela organização do próximo curso entenderam que faria sentido o Python ser o
+conteúdo principal e introduzir análise de dados como a parte prática e a aplicação
+do conhecimento.
+• Aplicação do conhecimento: ao longo do curso as participantes questionavam qual
+era a utilidade de uma linguagem de programação. A falta de visibilidade da aplicação poderia ser um grande motivador para desistências, assim para a próxima
+experiência foi vista a necessidade de uma metodologia que integrasse a parte prática com o processo de aprendizado, como o Aprendizado Baseado em Projeto.
+• Dificuldades em Matemática: no questionário as alunas apontaram a matemática
+como a maior dificuldade. Com isso, os organizadores do próximo curso viram que
+valeria a pena estruturar o curso de forma que fosse dado apoio quando necessário.
+• Apoio da instituição: as participantes contavam com a presença dos professores da
+EscolaEstadualOlavoBilaccomoapoiadoresdaexperiênciae, também, comoapoio
+de infraestrutura com o acesso ao laboratório. Esses pontos foram extremamente
+relevantes para a experiência delas, especialmente quando visto que grande parte
+35
+comparecia ao laboratório pelo menos três vezes na semana. Essa estrutura de apoio
+foi relevante e, portanto, faria sentido ser repetida em experiências futuras.
+• Apoio externo: além do apoio na escola, as participantes contavam com encontros
+semanais com uma professora “aliada” e, também, auxílio no WhatsApp todos os
+dias para eventuais questões mais urgentes. No questionário as alunas colocam que
+a presença da professora foi de grande relevância para elas, logo é algo que faria
+sentido ser repetido na experiência futura.
+Assim, apesar das dificuldades enfrentadas ao longo do curso, é possível ver que, no
+geral, as alunas conseguiram tirar proveito da experiência. Como compartilhado por elas
+no questionário, foi visto que conseguiram ter um primeiro contato satisfatório com a
+linguagem de programação Python e aprenderam sobre as áreas de STEM, vislumbrando
+uma carreira nessa setor.
+36
+5 EXPERIÊNCIA - ONG IDEAS
+Este capítulo tem como objetivo apresentar o objeto de estudo central deste trabalho:
+o processo de concepção e aplicação de um curso de programação para alunos do ensino
+médio utilizando metodologias ativas de ensino. A partir da avaliação dos alunos após
+o período do curso foi possível captar a percepção deles sobre a experiência e, assim,
+compreender se a aplicação do curso com o PBL e a sala de aula invertida foi efetiva para
+o aprendizado.
+A oportunidade de organizar e aplicar o curso ocorreu por meio da ONG IDEAS de
+Nova Friburgo/RJ. O objetivo da organização era qualificar a mão de obra da cidade,
+além de apresentar oportunidades de carreira para os alunos após a formatura do ensino
+médio. Com isso em mente, os diretores da ONG IDEAS, Osvaldo Antônio Lucho Jr. e
+Carla Addriana Lucho, firmaram uma parceria com os professores Edmundo de Souza e
+Silva (PESC/UFRJ) e Geraldo Xexéo (PESC/UFRJ) para viabilizar uma formação de
+ensino básico de programação com Python e introdução a análise de dados. Assim, a
+autora deste trabalho se insere no projeto como monitora responsável por acompanhar as
+aulas síncronas e pela concepção do curso ao lado dos professores.
+O curso durou aproximadamente quatro meses (Junho/2022 até Novembro/2022) e
+teve dez concluintes entre os treze alunos iniciais. Os conteúdos do curso estavam disponíveis na plataforma online Moodle e, além do ambiente virtual, os alunos contavam
+com o laboratório da ONG com computadores disponíveis após o horário da escola para
+estudarem e acompanharem as aulas síncronas.
+As seções a seguir irão detalhar o processo de implementação do curso. Primeiramente
+será apresentado como foi o planejamento da execução do curso e de sua ementa. A
+segunda seção detalhará a estrutura final do curso e sua disposição na plataforma Moodle,
+enquanto a seleção dos alunos será abordada na terceira seção. Na quarta será exposto
+como ocorreram a dinâmica de aprendizado, as aulas, os feedbacks, os exercícios e os
+projetos solicitados. Por fim, serão apresentados a avaliação do curso, o método utilizado
+e o resultado obtido.
+5.1 CONCEPÇÃO DO CURSO
+Larmer, Ross e Mergendollar (2009) coloca o PBL como uma forma de motivar os
+alunos a seguirem no processo de ensino. Os elementos do PBL colaboram para isso,
+como: a preocupação com o desenvolvimento de habilidades do século XXI, a autonomia
+dos alunos, o processo de revisão e reflexão e a pergunta motivadora do curso para engajálos com problemas do “mundo real”.
+Com isso em mente e partir dos resultados positivos expressos pelos trabalhos correla-
+37
+tos de ensino de programação para essa faixa etária com metodologias ativas, foi decidido
+que o Aprendizado Baseado em Projeto seria o pilar da estrutura do curso.
+Complementar à estrutura do PBL foi vista a oportunidade de utilizar a Sala de Aula
+Invertida, outra metodologia ativa de ensino, que aproveitaria a característica dos alunos
+de estarem acostumados com ferramentas online, como o YouTube. Além disso, seria uma
+forma de instigar a autonomia dos alunos no processo de aprendizado e corroborar com
+as habilidades do século XXI, como a gestão de tempo. Assim, os alunos poderiam ter
+a exposição do conteúdo fora do horário de aula, enquanto momentos síncronos com os
+professores seriam aproveitados para a prática.
+Vale ressaltar que a escolha de iniciar o curso com os conteúdos sobre lógica de programação com Python e conceitos fundamentais de computação partiu da experiência com
+Recreio. Com a turma de Recreio/MG o foco era na aplicação de aprendizado de máquina, enquanto que Python seria ensinado apenas brevemente. Entretanto foi percebido
+que as alunas tiveram dificuldade de acompanhar esse planejamento e muitas delas se
+desmotivaram ao longo do curso. Por isso, optou-se por iniciar o curso dando aos alunos
+um conhecimento sólido de Python e, em seguida, introduzir uma das aplicações práticas,
+a análise de dados.
+Ainda tendo em vista as lições aprendidas na experiência com a turma de Recreio, lá
+foi visto que o ambiente do laboratório para que as alunas pudessem acompanhar as aulas
+foi de grande proveito. A ONG IDEAS possibilitou replicar esse aspecto oferecendo um
+espaço para os alunos realizarem o curso sem depender de computadores pessoais. A estrutura do laboratório pode ser vista pelas imagens 9. O espaço possuía dez computadores
+com o sistema operacional Ubuntu e foi preparado para receber o curso.
+Figura 9 – Laboratório IDEAS
+(a) Bancada de computadores
+(b) Detalhes da bancada
+Assim, foi definido que o objetivo era a realização de um projeto para o ensino de lógica
+de programação com Python e a introdução à análise de dados. Atrelado ao projeto, foi
+organizado um cronograma visando a sala de aula invertida e os elementos do PBL. Esses
+detalhes serão apresentados na seção a seguir.
+38
+5.2 ESTRUTURA DO CURSO
+O curso “Centro de Treinamento IDEAS” foi ofertado pela ONG IDEAS de Nova
+Friburgo em conjunto com a COPPE UFRJ de forma híbrida se apoiando na ferramenta
+online Moodle. Teve como objetivo ensinar os conceitos básicos de lógica de programação
+usandoPythoneintroduziraanálisededadosusandobibliotecasespecíficasdalinguagem.
+Além dos conteúdos técnicos, o curso fez uso de duas metodologias de ensino para o
+processo de ensino: o Project Based Learning e a sala de aula invertida. A seguir será
+detalhada a organização do curso, primeiramente apresentando como PBL foi inserido e,
+em seguida, a organização da ementa na plataforma Moodle.
+5.2.1 Elementos do PBL
+Larmer, Ross e Mergendollar (2009) aponta oito elementos essenciais para a aplicação
+do aprendizado baseado em projeto. A seguir será apresentado de que forma o planejamento do curso ocorreu tendo em vista estes tópicos:
+1. Conteúdo significativo
+• Como apresentado na Introdução, a demanda do mercado de tecnologia está em
+uma crescente, que está longe de ser suprida pelo número atual de profissionais
+qualificados. Diantedessecenário, osconhecimentosdeprogramaçãooferecidos
+pelo curso mostram-se bastante relevantes para aqueles que desejam ingressar
+nesse mercado.
+2. Habilidades do século XXI
+• Para o curso foi escolhido focar nas seguintes habilidades do século XXI listadas
+por Larmer, Ross e Mergendollar (2009): pensamento crítico, resolução de problemas, comunicação, colaboração, oratória e gestão de tempo. O pensamento
+crítico e a resolução de problemas foram expressos nos momentos da resolução
+do trabalho final, escrita do código em Python e a análise dos dados escolhidos.
+Já a comunicação e colaboração foram exercitadas, majoritariamente, ao lidar
+com o grupo para se chegar a um resultado final. Para praticar a oratória era
+solicitado aos participantes, constantemente, que apresentassem seus códigos
+e resoluções de exercício, além da apresentação do projeto. Por fim, a gestão
+de tempo era praticada em conjunto com a dinâmica da sala de aula invertida,
+em que os alunos precisavam se organizar para conseguir ver o conteúdo antes
+dos encontros síncronos.
+3. Pergunta motivadora
+39
+• A fim de engajar os alunos com o curso e com o projeto a ser realizado foi
+pensado uma questão que estivesse presente no cotidiano deles. A pergunta
+motivadora escolhida foi: “Como melhorar Nova Friburgo?”. Assim, a expectativa foi que ao final do curso os alunos tivessem um projeto de Python com
+análise de dados para que pudessem responder a essa pergunta.
+4. Inquérito aprofundado
+• Tendo um projeto próximo ao cotidiano dos participantes, algumas ações foram
+realizadas para que os alunos se mantivessem engajados ao longo do curso: a
+separação dos grupos de trabalho desde o primeiro dia de aula e a organização de encontros semanais síncronos com a professora para que eles pudessem
+sanar dúvidas e dar continuidade ao projeto. Com os grupos definidos desde
+o princípio os alunos já conseguiriam discutir e decidir o tema e a forma de
+trabalhar. Já os dois encontros semanais possuíam duração de uma hora e
+meia e, após o conteúdo do curso ter finalizado, foi dado um tempo para que
+os alunos pudessem focar integralmente no projeto até a data de entrega.
+5. Precisa saber
+• O conteúdo de Python estava organizado na plataforma Moodle, o que permitia
+aos alunos entender o que era necessário saber para completar o projeto.
+6. Voz e escolha
+• A especificação do projeto consiste na pergunta motivadora, dessa forma os
+alunos tinham espaço para decidir qual caminho de implementação e resolução
+seguir. As únicas restrições é que deveriam utilizar a linguagem Python e o
+ambiente de desenvolvimento Google Colab para exercitar a ementa do curso.
+Caso fosse percebida a necessidade de uma interferência no projeto para que
+os alunos mantivessem o projeto no caminho correto seriam feitos comentários
+de forma que os alunos pudessem, com autonomia, tomar uma decisão.
+7. Revisão e Reflexão
+• Os alunos tinham o espaço do encontro síncrono para oferecer feedbacks do
+curso, mas também era passado um formulário semanal para que fosse possível
+coletar a percepção da semana, visando a evolução do curso e da experiência
+de aprendizado.
+8. Público
+• A fim de exercitar a oratória e cumprir com esse elemento do PBL, nos momentos de apresentação do projeto eram convidados professores da UFRJ e
+funcionários da ONG para integrar o público.
+40
+Tendo como objetivo a construção de projetos que respondessem à pergunta “Como
+melhorar Nova Friburgo?” os grupos de atuação foram delimitados desde o primeiro dia
+de aula para que já pudessem pensar em temas. Além disso, foi seguida a orientação
+de Larmer, Ross e Mergendollar (2009) de colocar um “Projeto Intermediário”, que consistia em uma entrega intermediária do projeto final. Essa proposta auxilia a conclusão
+do projeto por dividi-lo em partes e facilita o acompanhamento do desenvolvimento dos
+alunos. Dessa forma, aproximadamente na metade do curso, os alunos fariam uma apresentação intermediária do que alcançaram até aquele momento e, ao final, apresentariam
+o resultado de todo o tempo de aprendizado.
+5.2.2 Ementa e Organização do Conteúdo
+O curso foi desenvolvido para pessoas que estejam frequentando o ensino secundário
+o que o tenham finalizado recentemente. Logo, não era esperado que o estudante tivesse
+experiência com programação. O esperado dos participantes era o interesse em aprender
+programação e que tivesse afinidade com matemática.
+Para atender a este público, com o objetivo de ensinar a lógica de programação com
+Python e introduzir a análise de dados, a disponibilização do conteúdo ocorreu por meio
+da plataforma Moodle. A fim de integrar o conteúdo teórico com o projeto do PBL, o
+Moodle foi dividido em dois cursos: (i) “Projeto - Como melhorar a sua cidade? - Ideas
+NF Academy” e (ii) “Python - Curso Básico - T1 - (Com Excel)”.
+O objetivo de (i) foi concentrar as informações acerca do projeto. Além de ter a
+perguntamotivadoracomotítulo, eram disponibilizados conteúdos paraauxiliaros alunos,
+por exemplo: como escolher um tema, qual a diferença entre cidade e município, como
+gerenciar um projeto, onde encontrar dados sobre Nova Friburgo. Dessa forma, o curso (i)
+serviu como um repositório de materiais que poderiam contribuir para o desenvolvimento
+do projeto.
+Já o foco de (ii) foi concentrar os conteúdos relacionados a programação (ou seja, ser a
+lista de “Precisa Saber” do PBL). A organização consistia em páginas e cada uma continha
+a apresentação de um tópico, podendo ser por texto ou vídeos. Para preencher cada tópico
+eram feitos curadoria de materiais já disponíveis, produção de textos e códigos de apoio
+e, por fim, exercícios para praticar o tópico visto. O curso ficou com quatorze tópicos,
+referentes a cada tópico da ementa planejada, sendo organizado da seguinte forma:
+1. Introdução a ferramentas do ambiente Google
+• A introdução do curso serviu para nivelar o conhecimento dos alunos no ambiente Google, já que a parte de planilhas e código seria feita nas ferramentas,
+Google Planilhas e Google Colaboratory respectivamente. Assim, foram disponibilizados vídeos ensinando o básico sobre os recursos do ambiente Google
+(Drive, Apresentações, Planilhas, Documentos e Colaboratory).
+41
+2. Operações Matemáticas em Planilhas e no Python
+• Introduzir operações aritméticas usando o exercício de calcular Índice de Massa
+Corporal (IMC). Primeiramente, apresentar como fazer usando o Google Planilhas e, em seguida, resolver o mesmo problema usando Python.
+3. Conceito de “variável”
+• A partir da resolução do desafio de cálculo de juros compostos introduzir o
+conceito de “células” de Planilha e fazer uma correlação com o conceito de
+“variável” na programação. O objetivo era resolver o desafio em Python já
+usando variáveis.
+4. Conceito de “entrada” e “saída”
+• Ensinar o conceito de entrada e saída em programação a partir da interação do
+usuário no Python. Assim, foi focado nas funçõesinput() e print(). Para
+exercitar, foi solicitado que refizessem o exercício de juros compostos, porém
+solicitando as informações do usuário.
+5. Uso de Funções e Bibliotecas
+• Explicação do uso de funções do Python, comoprint() e input(), e os elementos da função: nome, parâmetro e retorno. Além disso, é apresentado o
+conceito de biblioteca e ilustrado com o uso da bibliotecamath para o cálculo
+de operações matemáticas mais complicadas, como a raiz quadrada.
+6. Criar funções
+• Explicar como criar funções próprias com a palavra reservadadef, sendo reforçada a ideia de nome de função, retorno e corpo da função e ordem de execução
+do código. Para fixar o conteúdo foi solicitado aos alunos que refatorassem os
+códigos já feitos até então para fazer o uso de funções.
+7. Tipos de dados básicos
+• Introduzir os tipos de dados a partir dos números e strings e, em seguida,
+apresentar as operações possíveis de cada tipo. No caso de números são as
+operações aritméticas, já no caso das strings foram mostradas a obtenção de
+índices e a concatenação, por exemplo. Ao final, foi reforçada a ideia de conversão de tipos que o Python permite. Para exercitar foram passados alguns
+exercícios com operações de ambos os tipos.
+8. Tipos de dados - Lista
+42
+• Seguindo no tópico de tipos de dado é apresentado o conceito de listas em
+Python e suas operações e funções, como: index, concatenação, repetição,
+slice, pop, insert, append, sort, sum e dentre outros. O exercício para fixar o
+conteúdo consistiu em refatorar um código já existente para usar lista ao invés
+de muitas variáveis.
+9. Fazendo Gráficos com Goole Planilhas e Python
+• Com o conhecimento de lista e bibliotecas sedimentado, foi apresentado aos
+alunos a forma de fazer gráficos, usando Google Planilhas e Python. No caso
+da linguagem de programação foi usada a bibliotecamatplotlib para fazer
+a exibição de de dados a partir de listas. Para este tópico o exercício foi
+incrementar o projeto com gráficos obrigatoriamente.
+10. Tipo de Dados - Booleanos e Estrutura de Decisão
+• Para ensinar estrutura de decisão, primeiramente é apresentado o tipo de dado
+boolean em conjunto com os operadores lógicos, tabelas verdade e operadores
+relacionais. Em seguida, são apresentados os condicionais: if, elif e else
+salientando o fluxo de execução do código. Os exercícios tinham como objetivo reforçar os operadores dos booleanos e resolver problemas que envolviam
+condições para se chegar a um resultado final.
+11. Estrutura de Repetição
+• Apresentação de estrutura de repetição usandofor, while e break e reforçando o conteúdo de expressões booleanas e listas. Os exercícios consistiam
+em resolver problemas utilizando as formas de fazer loops apresentadas.
+12. Dicionário
+• Para auxiliar na organização de informações é apresentado a estrutura de dados
+“dicionário” aos alunos. Para introduzir, foi abstraído o conceito de classes e
+objetos e focou-se somente na construção e no uso, que foram o tema dos
+exercícios.
+13. Biblioteca -Numpy e Pandas
+• De forma a incrementar o projeto e introduzir a parte de análise de dados
+foram apresentadas aos alunos duas bibliotecas específicas:Numpy e Pandas. O
+Numpy para facilitar a manipulação de dados e oPandas para fazer a junção do
+conhecimento de planilhas com o Python, permitindo a importação de dados
+de diferentes arquivos. Para fixar este conteúdo os alunos focaram na confecção
+do projeto.
+43
+14. Biblioteca -Streamlit
+• Para finalizar o curso, foi apresentada a bibliotecastreamlit, uma ferramenta
+que permite aosalunos exporem emformato de siteos resultados que obtiveram
+na confecção do projeto ao longo do curso.
+Com o conteúdo e ambiente de aprendizado estruturados, a próxima etapa foi iniciar
+a seleção dos alunos para compor a primeira turma. Dada a limitação de espaço do
+laboratório e por ser a primeira turma, foi necessário fazer uma etapa de triagem para
+selecionar participantes interessados em aprender programação.
+5.3 SELEÇÃO DOS ALUNOS
+A seleção dos alunos ocorreu em três etapas: divulgação para o público1, preenchimento de formulário e dinâmica de grupo. O objetivo era ao final ter quinze participantes
+para a primeira versão do curso que estivessem interessados e engajados em aprender
+programação com postura proativa para realizar os projetos propostos. A delimitação do
+perfil do aluno e um processo de seleção elaborado foram vistos como uma necessidade
+por conta da experiência com a turma de Recreio. Lá a seleção ocorreu por meio de um
+formulário em que as primeiras alunas a responderem foram selecionadas. Por conta disso
+verificaram-se alguns casos de desistência e desinteresse no curso em geral. Levando isso
+em conta, para este curso foi estruturado um processo que será detalhado ao longo desta
+seção.
+A divulgação do curso para os alunos do ensino médio foi responsabilidade da ONG,
+que entrou em contato com escolas públicas da região e solicitou que divulgassem aos alunos o curso e o formulário de inscrição feito pelo Google Forms. Além disso, ocorreu uma
+divulgação nos portais da ONG. Ao final, foram 31 inscritos, dos quais 17 responderam
+que estavam cursando o ensino médio.
+Oformuláriotambémteveointuitodeconhecermelhorosinscritosdeformaaentender
+se estavam alinhados com a proposta do curso, ou seja, se eram alunos do ensino médio
+com um perfil proativo e com interesse em aprender programação. Os organizadores do
+curso entenderam que esse perfil poderia se encaixar melhor com a proposta de um curso
+utilizando metodologias ativas de ensino. Para tal, foram feitas perguntas como:
+• Fale um pouco sobre você e por que quer fazer o curso
+– Questão aberta aos candidatos para que fosse possível entender melhor a motivação de cada participante.
+• Quais desses assuntos que serão tratados no curso te interessa?
+1 https://www.portalmultiplix.com/noticias/ciencia-tecnologia/curso-semipresencial-gratuito-com-chancela-da-ufrj-vai-ensinar-programacao-em-nova-friburgo
+44
+– Foram apresentados tópicos relacionados ao curso (Programação, Matemática,
+Probabilidade e Estatística, Gráficos e Visualização de Dados, Gestão da Informação e Planilhas Eletrônicas) e eles selecionavam o nível de interesse (Nenhum, Algum ou Muito) em cada um. O objetivo foi averiguar se os candidatos
+não estavam se inscrevendo sem, de fato, terem vontade de entender mais sobre
+a área.
+• Que atividades você pratica fora da escola ou curso?
+– Questão aberta para os candidatos descreverem se tinham alguma atividade
+extra, dessa forma era possível verificar se eles buscavam proativamente se
+comprometer com diferentes atividades.
+Ao final da análise das respostas no formulário, dos 31 respondentes, foram selecionados 20 alunos para a próxima etapa, sendo os 17 do ensino médio e três funcionários
+da Gigalink (empresa associada a ONG) que o idealizador do projeto solicitou que participassem a fim de capacitá-los. Foram agendadas quatro sessões de dinâmicas com uma
+média de cinco pessoas. Foi solicitado aos participantes de estarem presencialmente no
+laboratório onde uma funcionária da ONG os acompanharia, enquanto a autora deste
+trabalho conduziria a sessão remotamente.
+A etapa de dinâmica consistiu de duas atividades que tinham como objetivo avaliar
+diferentes habilidades dos alunos para escolher os que estavam mais alinhados com o perfil
+desejado. As dinâmicas e seus propósitos foram:
+• Dinâmica de Apresentação
+– Os candidatos foram dispostos em uma roda e cada um se apresentou seguindo
+o sentido horário. Ao final foi feito o caminho contrário, o último aluno a se
+apresentar reapresentou o participante que veio antes dele e assim se seguiu
+até chegar novamente no primeiro. Com isso, buscou-se avaliar a atenção dos
+candidatos, oratória e como eles reagem a mudanças.
+• Dinâmica de desenvolvimento
+– Foi proposta uma situação-problema para os candidatos e disponibilizado um
+pedaço de papel para cada indivíduo. Era necessário pensar em soluções seguindo seguindo um conjunto de regras. Cada participante teve de escrever
+três ideias no tempo de cinco minutos para o problema proposto. Após passar
+o tempo, foi instruído que cada candidato desse o papel para o colega ao lado,
+que teve mais cinco minutos para ler as ideias do colega e pensar em novas a
+partir das já escritas. O círculo seguiu até o papel retornar para seus respectivos donos. Ao final, foi solicitado aos candidatos que, a partir das ideias postas,
+45
+montassem um plano para a resolução do problema. A situação-problema proposta foi: “Você é gerente de uma padaria. Entretanto, há 3 meses a padaria
+não vem apresentando lucro e você está com receio de que vá ter que fechar.
+Mesmo sabendo que os funcionários que estão ali contigo são como família e
+dependem do dinheiro que você paga a eles, fechar a padaria significaria uma
+perda enorme. Com isso, evitando o fim de fechar a padaria, quais soluções
+você pensa para reverter o faturamento da padaria?”
+Dos 20 convidados para essa etapa, 13 compareceram (10 do ensino médio e os 3
+funcionários). Desses, todos conseguiram uma boa avaliação nas dinâmicas, se portando
+de forma proativa, comunicativa e atentos para a resolução dos problemas. Assim, foram
+convidados para ingressar e compor a turma do primeiro curso.
+Com os participantes do curso selecionados e o curso estruturado, a formação teve seu
+início em Julho/2022.
+5.4 DINÂMICA DE APRENDIZADO
+O primeiro encontro ocorreu por meio de uma videoconferência no formato híbrido,
+em que os alunos estavam no laboratório IDEAS, e os professores da UFRJ, Geraldo
+Xexéo e Edmundo, e a monitora (autora deste trabalho) estavam remotamente. Nele
+foi apresentado o cenário do mercado de trabalho e, também, a proposta do curso e
+seus objetivos de aprendizado. Em seguida os treze alunos fizeram uma apresentação
+breve para que pudesse haver uma integração entre eles. Além disso, foi apresentado aos
+alunos que o curso seguiria o formato de sala de aula invertida e PBL, com apresentação
+do projeto e separação dos quatro grupos de trabalho. Ao final, foi acordado que os
+encontros com a monitora ocorreriam as terças e quintas em formato híbrido. A aula
+também contou com a presença da Multiplix, um portal de notícias, que fez a cobertura
+dessa primeira interação e publicou em seu site2.
+Os encontros semanais tinham como objetivo dar espaço para os alunos sanarem dúvidas sobre os conteúdos previamente assistidos, resolver exercícios e evoluir com o projeto.
+De forma geral, a turma se apresentou comprometida: buscando evoluir com o projeto aos
+poucos, cumprindo com o esperado da sala de aula invertida, questionando e tirando dúvidas. Entretanto, em alguns conteúdos era perceptível a dificuldade e a baixa participação.
+Por isso foi utilizado o recurso do “Kahoot!”, plataforma de questionários gamificados, para
+tentar engajar a turma novamente com o conteúdo, assim como aconteceu na experiência
+de Recreio.
+Complementar ao encontro síncrono, nas aulas de quinta-feira era solicitado aos alunos
+que respondessem a um formulário não anônimo relatando como havia sido a semana: se
+2 https://www.portalmultiplix.com/noticias/educacao/ideas-academy-oferece-curso-gratuito-deprogramacao-em-nova-friburgo
+46
+tinham conseguido avançar nos conteúdos, avançar no projeto e o que estavam achando
+do curso de forma geral. Era o meio estruturado que os alunos tinham para relatar suas
+percepções do curso, seguindo o elemento de Revisão e Reflexão do PBL. A partir das
+respostas destes formulários, por exemplo, foi possível captar que alguns alunos estavam
+desmotivados com o curso. Com isso, foi pensado na estratégia que o curso do Técnico
+Lisboa utilizou: trazer vídeos sobre trajetória de pessoas na computação. Ao total foram
+cinco relatos e os alunos trouxeram um feedback positivo sobre esses conteúdos extras.
+Com a conclusão do conteúdo de Gráficos em Planilha e Python, tópico 9 mencionado
+anteriormente, os alunos estavam preparados para fazer uma apresentação do andamento
+do projeto. A fim de exercitar as habilidades de oratória e comunicação foi agendada
+uma aula para a apresentação desses resultados. Os alunos foram desafiados a preparar
+apresenrtações usando o Google Slides de forma a explicar o tema escolhido e expor os
+resultadosobtidoscomocódigo. Alémdosalunos, aplateiaeracompostapelosprofessores
+responsáveis da UFRJ, funcionários e diretor da Gigalink. Apesar do nervosismo aparente
+dos estudantes, as seções de apresentações foram proveitosas. Foi possível ajudar certos
+grupos com dificuldade na escolha de tema ou código e validar certas escolhas. Na aula
+seguinte cada grupo teve um momento de feedback personalizado com a monitora para que
+eles pudessem evoluir as habilidades sociocomportamentais envolvidas nas apresentações.
+Ao final das aulas sobre os conteúdos da ementa, foram agendadas a apresentação e a
+entrega do projeto. Era esperado que os grupos tivessem incrementado o projeto em relação à última exposição, adicionando o uso da biblioteca Pandas para fazer a comunicação
+do Python com Google Planilhas e o uso do Streamlit para expor os resultados através
+de um site. As apresentações finais foram melhores que as intermediárias e com elas foi
+possível ver que os grupos conseguiram concluir o projeto de “Como melhorar Nova Friburgo” chegando a diferentes respostas dos setores de saúde e educação. As imagens 10,
+11, 12 e 13 exibem uma prévia dos sites construídos por dois grupos usando o Streamlit,
+de forma a exemplificar o resultado dos trabalhos obtidos.
+O curso teve sua última aula no dia 10 de Novembro de 2022. Dos 13 participantes
+10 concluíram o projeto final conseguindo o certificando de conclusão. No dia 12 de
+Novembro foi feita a cerimônia de formatura e entrega de certificados. A figura 14 ilustra
+parte da cerimônia. Além dos alunos, estiveram presentes diretores da Gigalink e do
+IDEAS, professores da UFRJ e a Multiplix, que publicou uma matéria3 a respeito.
+5.5 AVALIAÇÃO DO CURSO
+Ao final do curso foi realizado um questionário de opinião anônimo, seguindo o modelo
+proposto no trabalho de Mello e Mello (2022), a fim de avaliar a efetividade do curso
+3 https://www.portalmultiplix.com/noticias/educacao/primeira-turma-do-curso-de-programacao-doinstituto-ideas-ufrj-forma-jovens-em-friburgo
+47
+Figura 10 – Trabalho Grupo 1
+Figura 11 – Trabalho Grupo 1
+de lógica de programação com Python usando dinâmicas ativas de aprendizado. Lá o
+questionário de opinião foi dividido em quatro blocos: caracterização dos participantes,
+avaliação da experiência do curso, avaliação do material da aula e sugestões para o futuro.
+AaplicaçãodoquestionárioocorreupormeiodaferramentaGoogleFormsefoienviado
+no último encontro síncrono da turma, após as apresentações de trabalhos finais, para que
+os alunos não tivessem receio de expor suas opiniões. Foram dados 2 dias para que os 10
+participantes tivessem a chance de contribuir com a pesquisa.
+O questionário foi dividido em quatro partes, similar ao proposto por (MELLO;
+MELLO, 2022): caracterização dos participantes, conhecimento prévio, conhecimento
+48
+Figura 12 – Trabalho Grupo 2
+Figura 13 – Trabalho Grupo 2
+adquirido ao longo do curso e, por fim, avaliação e impacto do curso. Algumas alterações
+no posicionamento das perguntas e nos blocos foram realizadas para que o questionário
+ficasse de acordo com o público-alvo. Por exemplo, no questionário de Mello e Mello
+(2022) as perguntas relacionadas a conhecimento prévio estavam colocadas no bloco de
+caracterização dos participantes, enquanto que neste trabalho verificou-se que fazia mais
+sentido colocar em uma seção separada. A seção de conhecimento adquirido ao longo do
+curso foi equivalente ao bloco de avaliação da experiência do curso e, por fim, a parte de
+avaliação e impacto do curso foi relacionada aos blocos de avaliação do material de aula
+e sugestões para o futuro.
+Assim, o objetivo foi avaliar se a proposta de usar metodologias ativas para o ensino de
+programação para estudantes do ensino médio foi efetiva. Os dez alunos que concluíram
+o curso responderam ao questionário no tempo proposto. Ao longo das próximas quatro
+subseções serão apresentados os blocos de pergunta e os resultados obtidos para cada
+49
+Figura 14 – Entrega dos certificados
+bloco.
+5.5.1 Caracterização do Participante
+O objetivo desta seção foi conhecer melhor as características dos estudantes para
+entender de que forma os aspectos pessoais poderiam afetar a experiência que tiveram no
+curso e, por consequência, a sua avaliação. Nesse caso, foi relevante entender se os alunos
+tinham acesso a computador e se dividiam o foco do curso com trabalho, além da escola.
+A figura 15a apresenta a quantidade de alunos que tinham acesso a computador em
+casa. Com isso, foi possível ver que ter a estrutura do IDEAS disponível para a conclusão
+do curso foi de extrema importância para dois estudantes. Já a figura 15b mostra que
+três dos alunos conciliaram o trabalho com o curso e, em alguns casos, com a escola.
+Essa informação é relevante, pois pode impactar na dedicação e desempenho do aluno na
+realização do curso e também pode refletir na percepção que o estudante teve sobre carga
+e materiais do curso.
+5.5.2 Conhecimento Prévio
+Nesta seção foi utilizada a escala de Likert de quatro níveis para concordância (Discordo Totalmente, Discordo Parcialmente, Concordo Parcialmente, Concordo Totalmente)
+para que os alunos classificassem o nível de conhecimento antes de iniciar o curso. O ob-
+50
+Figura 15 – Caracterização do Participante
+(a) Acesso a computadores pessoais
+(b) Estudantes que trabalhavam
+jetivo foi verificar se os alunos haviam tido algum contato com planilhas ou programação
+anteriormente já que isso poderia influenciar na experiência de aprendizado.
+A partir da 16 é possível ver que a maioria dos alunos concluintes já havia tido contato
+com a ferramenta de Google Planilhas.
+Figura 16 – Conhecimento Prévio de Google Planilhas
+O gráfico 17a apresenta o conhecimento dos alunos antes do curso em relação a programação de forma geral. Alguns alunos apontaram já ter tido algum conhecimento a
+respeito. Em aulas, por exemplo, alguns relataram ter tentando aprender HTML. Já no
+caso específico de Python a maioria afirmou não ter nenhum conhecimento sobre, como
+expresso no gráfico 17b.
+A partir dessas respostas é possível verificar que o conteúdo do curso teria um impacto
+para os alunos por tratar de temas desconhecidos, mesmo que alguns alunos tivessem uma
+noção sobre programação ou Python. De fato isso ocorreu no período do curso: a maioria
+dos alunos apresentou facilidade no conteúdo de planilhas, enquanto os conteúdos de
+programação se mostraram um desafio maior.
+51
+Figura 17 – Conhecimento Prévio nos campos de Programação
+(a) Conhecimento Prévio de Programação
+(b) Conhecimento Prévio de Python
+5.5.3 Conhecimento Adquirido ao longo do curso
+Nesta seção do questionário foi solicitado aos alunos que realizassem uma autoavaliação em relação aos conhecimentos estudados ao longo do curso. Ela consistiu em vinte
+afirmações sobre as quais os respondentes colocariam seu grau de concordância, seguindo
+o modelo de Likert (CT - Concordo Totalmente, CP - Concordo Parcialmente, DP - Discordo Parcialmente, DT - Discordo Totalmente). O objetivo era que os alunos pudessem
+relatar como foi o nível de entendimento deles sobre os conteúdos abordados no curso. A
+tabela 5 apresenta estas afirmações e os resultados correspondentes.
+As respostas dos alunos indicam uma forte tendência de concordância com a maioria
+dasafirmativas. Valedestacaroresultadoacercadoconteúdodeplanilhas: comoamaioria
+marcou que já tinha tido contato previamente, era esperada a facilidade ao longo do curso.
+Além disso, os conteúdos de introdução de Python e o uso de bibliotecas obtiveram uma
+boa avaliação. Por outro lado, foi apontada uma certa dificuldade com o conteúdo de
+booleanos, o que pode ter refletido nos conteúdos seguintes, como condicional e loops.
+Em aula foi perceptível uma dificuldade e resistência maior no momento de entender
+estruturas de repetição.
+5.5.4 Avaliação do Projeto, Recursos e Impacto do curso
+Para finalizar foi solicitado aos alunos que avaliassem o projeto que realizaram, os
+recursos utilizados (laboratório, plataforma, vídeos e materiais) e de que forma o curso
+os impactou. O intuito era compreender se os participantes tiveram uma boa experiência
+com o formato que o curso foi planejado. Nesta seção houve diferentes formatos de
+respostas, como: escala numérica de inteiros (entre 1 e 5, sendo 1 “Muito ruim” e 5
+“Muito bom”), Likert e respostas abertas, variando de acordo com a questão e o que
+buscava ser interpretado.
+Inicialmente foi questionada a qualidade dos materiais (vídeos e textos) e das ferramentas que apoiaram o processo de aprendizado. Para tal, os respondentes deram sua
+opinião por meio de uma escala numérica . Pelas figuras 18a e 18b é possível ver que os
+52
+Tabela 5 – Respostas
+CT CP DP DT
+Eu compreendi como montar uma planilha para exibir
+dados.
+10 0 0 0
+Eu compreendi como usar fórmulas em planilhas. 7 3 0 0
+Eu consigo fazer gráficos em Planilhas. 9 1 0 0
+Eu compreendi o conceito de Entrada e Saída. 9 1 0 0
+Eu compreendi o conceito de Variáveis. 9 1 0 0
+Eu compreendi como fazer operações matemáticas em
+Python.
+9 1 0 0
+Eu consigo usar funções no Python. 8 2 0 0
+Eu consigo usar Strings em Python. 7 2 1 0
+Eu consigo usar Listas em Python. 7 3 0 0
+Eu consigo usar Booleanos em Python. 5 3 2 0
+Eu consigo usar Operadores Relacionais (==, >, <...)
+em Python.
+6 4 0 0
+Eu consigo usar Operadores lógicos (and, not, or) em
+Python.
+6 4 0 0
+Eu consigo usar if/else em Python. 7 2 1 0
+Eu consigo usar estruturas de repetição (for, while) em
+Python.
+6 3 1 0
+Eu consigo usar dicionários em Python 8 2 0 0
+Eu compreendi o conceito de bibliotecas em Python. 9 1 0 0
+Eu consigo fazer gráficos em Python. 9 1 0 0
+Eu consigo usar Pandas para mexer com dados 6 3 1 0
+Eu consigo usar o Streamlit 7 2 1 0
+alunos ficaram satisfeitos com os materiais propostos de planilhas e Python, tendo médias
+4,3 e 4,6 respectivamente.
+Figura 18 – Avaliação de Material
+(a) Planilhas
+(b) Python
+Já a figura 19 é referente à ferramenta utilizada para acessar o curso, a plataforma
+Moodle. Deformageralosalunossemostraramsatisfeitosesomenteumdos10considerou
+a plataforma ruim. Ao final a média das respostas ficou em 4,1.
+53
+Figura 19 – Avaliação da Plataforma Moodle
+Após isso, o foco foi a estrutura e a disponibilidade do laboratório IDEAS, que os
+alunos poderiam utilizar após a escola e nos horários dos encontros síncronos. A figura 20
+mostra que todos os alunos avaliaram que a estrutura do laboratório é excelente, tendo
+opinião unânime de ser “Muito bom” (nota 5).
+Figura 20 – Avaliação da Estrutura do Laboratório IDEAS
+As figuras 21 são referentes à disponibilidade, sendo 21a referente ao que os participantes acharam de ter o espaço à disposição para uso, enquanto a imagem 21b representa a
+54
+pergunta de quantas vezes eles usaram o espaço efetivamente. Todos acharam bom o fato
+de haver o espaço do laboratório aberto para uso, tendo 4,9 de média, porém a maioria
+frequentou o laboratório somente duas vezes na semana.
+Figura 21 – Presença no Laboratório
+(a) Laboratório a disposição
+(b) Frequência no laboratório
+Em geral, foi observado que os alunos utilizavam o espaço nos mesmo dias do encontro
+síncrono, terças e quintas, chegando mais cedo para resolver exercícios em conjunto e
+assistir a aula. A pergunta seguinte mostra que, de fato, alguns estudantes usaram o
+espaço para objetivos além das aulas, como observado na figura 22 .
+Figura 22 – Uso do laboratório
+Em seguida os respondentes foram questionados sobre os recursos do curso: vídeos de
+pessoas contando sua trajetória, quizes gamificados com o Kahoot e os encontros de terça e
+quinta. Todos receberam notas boas pelos alunos, como visto pelas figuras 23, 24, 25, mas
+vale destacar que os encontros de terça e quinta tiveram nota máxima unânime entre os
+alunos, enquanto os vídeos de trajetória e quizes tiveram média 4,8 e 4,9, respectivamente.
+55
+Figura 23 – Avaliação sobre os vídeos de trajetória na computação
+Figura 24 – Avaliação sobre os Quizes Gamificados no Kahoot!
+O próximo tópico foi relacionado ao projeto do curso, sendo questionados sobre a
+entrega intermediária, que ao longo do curso ficou conhecida como “desafio 1”, e sobre a
+entrega final do projeto. Foi perguntado o que os alunos acharam de realizar o “desafio 1”
+expressando a opinião por meio de uma escala numérica. Pela figura 26 percebe-se que a
+maioria teve boas opiniões sobre, tendo média 4,6.
+Em seguida os participantes avaliaram a afirmativa “Fazer o Desafio 1 me ajudou a
+fixar os conteúdos ensinados”, por meio da escala de Likert. Com a figura 27 é possível ver
+56
+Figura 25 – Avaliação sobre as aulas de Terças e Quintas
+Figura 26 – Realizar o Desafio 1
+que a maioria dos alunos concordou com a afirmação, destacando um aluno que marcou
+“discordo totalmente”.
+Ainda sobre o “desafio 1” foi perguntada a opinião dos alunos sobre o momento da
+apresentação do trabalho, já que um dos objetivos do curso era desenvolver habilidades
+do século XXI, como a oratória. A resposta foi em escala numérica e, pela imagem 28, é
+possível concluir que foi um momento que os alunos julgaram como positivo.
+As mesmas perguntas foram feitas relacionadas à entrega final do projeto, que no
+57
+Figura 27 – Fixar o conteúdo por meio do desafio
+Figura 28 – Apresentação do desafio 1
+curso foi chamada de “desafio final”. Esta foi a continuação da entrega intermediária que
+os alunos haviam feito, incrementando com os novos conhecimentos adquiridos. Sobre a
+realização do projeto, pela figura 29 é possível ver que todos acharam bom.
+Já na avaliação da afirmativa a respeito da contribuição do projeto para fixar o conteúdo, a imagem 30 mostra que todos concordaram, inclusive a pessoa que previamente
+discordou sobre o “desafio 1”.
+Por fim, sobre a apresentação final, a imagem 31 mostra que todos também acharam
+58
+Figura 29 – Realizar o Desafio final
+Figura 30 – Fixar o conteúdo por meio do desafio
+bom. Nesse momento, muitos alunos relataram um certo nervosismo e ansiedade com a
+apresentação, podendo influenciar na resposta.
+Ainda sobre a realização do projeto perguntou-se aos alunos sobre a opinião e a experiência deles trabalhando em um grupo fixo ao longo de todo o curso. Sobre a realização
+das atividades em grupo, incluindo o projeto, os alunos expuseram a opinião por meio de
+uma escala numérica. Na imagem 32 vê-se que a maioria deu boas avaliação, com média
+4,4, destacando um que avaliou como “Muito ruim”. Em seguida, foi feita a avaliação sobre
+59
+Figura 31 – Apresentação Final
+haver um grupo fixo. De forma geral os alunos se mostraram favoráveis a esse formato,
+com média 4,1. Porém vale destacar que dois alunos deram notas baixas, sendo um deles
+o mesmo da pergunta anterior. Esse resultado pode ser visto na imagem 33.
+Figura 32 – Fazer trabalhos em Grupo
+As próximas perguntas foram no formato aberto de resposta para que os alunos pudessem compartilhar seus pensamentos sobre o curso sem limitações. Primeiramente, foi
+perguntado quais eram os três tópicos apresentados no curso que eles julgaram como mais
+60
+Figura 33 – Ter um grupo Fixo
+importante. Muitos salientaram o uso de bibliotecas, por vezes mencionandomatplotlib,
+Pandas ou Streamlit.
+Depois foi solicitado que sugerissem melhorias para o curso. Muitos teceram bons
+comentários sobre o curso estar ótimo e não precisar de alterações, porém: um aluno
+comentou sobre possibilidade de aumentar os exercícios passados, outro comentou sobre
+haver um auxílio financeiro para frequentar o laboratório e, por fim, outro escreveu “ter
+aulas mais práticas, com o professor explicando e mostrando um pouco como fazer, acho
+legal para tirar duvidas e é até melhor para aprender no meu ponto de vista.”.
+Ao questionar o que dificultou o processo de aprendizado deles com a programação
+foram dadas opções e a possibilidade de digitar a resposta. Também era permitido que
+selecionassem mais de uma opção. Alguns selecionaram que a dificuldade foi a linguagem
+de programação em si, o Python, já outros pontuaram que o inglês agravou o processo.
+Ambas as dificuldades podem estar relacionadas, dado que o idioma é a base da linguagem,
+porém tem o fato de ter sido o primeiro contato de muitos alunos com a programação,
+algo que agrava a dificuldade com o Python. E, também, em poucos meses os alunos
+precisaram entender um conteúdo nunca antes explorado que envolve uma forma de pensar
+diferente da habitual das matérias da escola. Um aluno pontuou a matemática e o horário
+noturno dos encontros síncronos e dois alunos utilizaram o campo aberto para expor que
+o gerenciamento de tempo foi uma questão para processo de aprendizado. Essas respostas
+podem ser observadas na figura 34
+Para finalizar, o questionário buscou avaliar qual foi o impacto do curso na vida dos
+alunos. Para tal, foram feitas duas perguntas em que a resposta era fechada “Sim” ou
+61
+Figura 34 – Dificuldades ao longo do Curso
+“Não”. Quando questionados se pretendiam dar continuidade aos estudos de programação
+todos os dez alunos responderam que “Sim”. E, em seguida, foram perguntados se cogitam
+uma carreira na área da programação. Novamente, todos responderam que “Sim”. Ambos
+resultados podem ser vistos nas imagens 35 e 36. Além do questionário, ao longo dos
+encontros os participantes expuseram seu interesse em seguir na área. Por exemplo, um
+aluno que passou a cogitar a fazer uma faculdade de engenharia da computação para se
+aprofundar no assunto, ou então o caso de uma aluna que pensava em seguir na carreira de
+educaçãofísica, porémrelatouqueapósocurso, cogitaaáreadatecnologia. Esseresultado
+é expressivo, pois mostra que parte do objetivo do curso, de despertar o interesse desses
+alunos para a carreira de computação, foi cumprido.
+5.6 CONCLUSÃO
+Ao final do curso, dos 13 participantes selecionados, 10 concluíram a capacitação, recebendo o certificado da Universidade Federal do Rio de Janeiro. Desses 10 que concluíram
+todos responderam ao questionário de opinião apresentado na seção anterior e com ele
+foi possível ter indícios de que a organização do curso a partir de metodologias ativas de
+ensino foi efetiva para o aprendizado.
+Pela autoavaliação dos conteúdos aprendidos no curso é possível ver que os alunos se
+avaliaram positivamente na grande maioria dos conteúdos abordados. Por meio disso,
+atrelado ao fato de que todos os 10 alunos entregaram projetos finais que exercitavam os
+conteúdos vistos, é possível entender que os alunos obtiveram êxito em aprender planilhas
+e lógica de programação com Python. Além disso, a grande maioria pareceu favorável à
+62
+Figura 35 – Continuidade nos estudos
+Figura 36 – Trabalhar com computação
+estrutura do curso e à confecção de um projeto ao longo da trajetória. Esses são indícios
+de que a organização do curso utilizando o Aprendizado Baseado em Projetos foi efetiva
+e agregou na formação desses estudantes.
+Vale ressaltar que certas decisões sobre a organização do curso do IDEAS-NF tiveram
+como base a experiência de Recreio, tantos os pontos que foram bem sucedidos quanto os
+mal sucedidos. Em Recreio foi perceptível a dificuldade das alunas do Ensino Médio com
+a base da programação em Python, por exemplo. Por isso no curso seguinte optou-se por
+63
+focar no ensino de Python e apenas introduzir análise de dados. Dessa forma, no futuro
+os alunos poderiam complementar sua formação. Além disso, a utilização do PBL sanou a
+questão de os alunos terem uma parte prática palpável, podendo aplicar os conhecimentos,
+queixa que as alunas de Recreio tiveram em sua trajetória.
+Já no caso de aspectos bem sucedidos, em Recreio salientou-se que o apoio da instituição foi extremamente relevante e foi possível replicar isso com o espaço e os funcionários
+do IDEAS. Novamente, foi visto que ter no laboratório a presença de uma funcionária
+agregou para experiência dos alunos e contribuiu para a perseverança deles, assim como
+o apoio externo, com os professores da UFRJ, tendo contato por grupo no WhatsApp ou
+pelos encontros síncronos combinados.
+Por fim, é relevante destacar que uma das dificuldades do curso, assim como em
+Recreio, foi adequar os alunos à dinâmica da sala de aula invertida. Apesar de somente
+um aluno ter exposto seus pensamentos a respeito do modelo, ao longo do curso muitos
+relataram ter dificuldades em assistir o conteúdo solicitado antes da aula, tendo que
+recorrer a outras formas para cumprir os exercícios propostos. Uma forma de solucionar
+essa questão seria ensinar aos alunos técnicas de gestão de tempo, um conteúdo que,
+muitas vezes, não é abordado na escola. E outro, de forma mais prática, seria combinar,
+diretamente, com os alunos momentos que ele pudessem assistir aos conteúdos antes das
+aulas, individualmente ou em grupo.
+Apesar dessa dificuldade e dos desafios que os alunos encontraram ao longo curso, é
+perceptível que eles conseguiram tirar proveito da experiência: aprenderam sobre programação, desenvolveram o primeiro projeto gerando um site com Python e streamlit e
+passaram a ver a computação como uma possibilidade de futuro, como compartilhado por
+eles no questionário.
+64
+6 CONCLUSÃO
+Este trabalho teve como objetivo entender a efetividade do uso de metodologias ativas de ensino para aulas de lógica de programação tendo como público-alvo estudantes
+do ensino médio. Para tal, foi feita uma pesquisa na literatura a fim de organizar e entender resultados e experiências similares. Com os resultados positivos desses trabalhos
+percebeu-se que a proposta era condizente. Assim, foi organizado um curso, o Centro de
+Treinamento IDEAS, de acordo com a metodologia de Aprendizado Baseado em Projeto e
+o modelo de sala de aula invertida, com o foco em ensinar alunos do ensino médio da rede
+pública de Nova Friburgo o básico sobre lógica de programação com Google Planilhas e
+Python. Além disso, anterior a essa experiência, foi possível entender melhor o público e
+o modelo de curso online e ensino remoto por meio da oportunidade de auxiliar o projeto
+da Jornada de Aprendizado da Heroína de Costa (2023), em que a autora deste trabalho
+foi responsável por ministrar aulas sobre aprendizado de máquina para um grupo de alunas. Com essa experiência foi possível antever dificuldades e desafios, permitindo moldar
+o Centro de Treinamento IDEAS da melhor forma. Ao final, pela pesquisa respondida
+pelos alunos de Nova Friburgo, foi notório o engajamento dos alunos com a entrega do
+projeto e o impacto que o curso causou neles.
+Ambas as experiências foram de suma importância para elaboração deste trabalho,
+entretanto apresentaram aspectos desafiadores ao se lidar com um grupo de alunos. Uma
+delas é a evasão de estudantes: nos dois casos houve indivíduos que desistiram do curso,
+mesmo com as comissões organizadoras acreditando no potencial deles. As principais
+dificuldades, expostasporaquelesqueforneceramalgumfeedback, eramagestãodetempo
+para lidar com tarefas do cotidiano e um conteúdo difícil como programação. Outro ponto
+desafiador foi a curadoria de conteúdos já existentes para compor o curso. Ocorreram
+inúmeras situações em que o vídeo era excelente em sua explicação, porém havia erros de
+português ou publicidade, complicando o uso do conteúdo. Ao final, entretanto, vídeos
+com publicidade foram marcados e ao serem disponibilizados eram acompanhados de
+avisos solicitando aos alunos para desconsiderar qualquer propaganda.
+Apesar da existência das dificuldades supracitadas, também é possível pontuar elementos que tornaram essas experiências enriquecedoras para a autora deste trabalho. Um
+desses pontos é a aplicação dos conhecimentos adquiridos ao longo do Bacharelado em
+Ciência da Computação para organização do curso e transmissão dos conteúdos aos diversos estudantes. Além da gratificação de ver os alunos apresentando e defendendo os
+projetos, exibindo domínio do que foi passado no curso, também foi possível desenvolver
+novas habilidades, como, por exemplo, uso de metodologias de ensino, planejamento de
+aulas e gravação de conteúdo.
+Como esta proposta foi desenvolvida e aplicada em uma turma específica, então, para
+65
+este trabalho não foi possível promover o aprimoramento das atividades. Mas para trabalhos futuros é interessante a revisão de alguns pontos. Um deles seria a organização para
+a gravação de conteúdos próprios, a fim de mitigar uma das dificuldades encontradas e
+deixar o curso mais completo. Outro ponto seria buscar uma maior diversidade de gênero,
+já que pelo formulário de inscrição a maioria dos inscritos era composta por homens e, ao
+final, de 10 alunos somente 3 alunas concluíram. O ideal é buscar a igualdade. Outras
+possibilidades seriam atividades afirmativas ou, também, pensar em um curso focado para
+tal, como foi no caso da cidade de Recreio.
+Dessa forma, este trabalho visou contribuir com o ensino de lógica de programação
+para alunos de ensino médio a partir da apresentação de formas ativas de ensino que
+podem engajar esse público, trazer um viés prático para sala de aula e fazer com que o
+aluno vire o protagonista do seu processo de aprendizado.
+66
+REFERÊNCIAS
+AKÇAYIR, G.; AKÇAYIR, M. The flipped classroom: A review of its advantages and
+challenges. Computers & Education, Elsevier, v. 126, p. 334–345, 2018.
+BERGMANN, J.; SAMS, A.Flip your classroom: Reach every student in every
+class every day. [S.l.]: International society for technology in education, 2012.
+BLUMENFELD, P. C. et al. Motivating project-based learning: Sustaining the doing,
+supporting the learning.Educational psychologist, Taylor & Francis, v. 26, n. 3-4, p.
+369–398, 1991.
+BREAUX, T.; MORITZ, J. The 2021 software developer shortage is coming.Commun.
+ACM, Association for Computing Machinery, New York, NY, USA, v. 64, n. 7, p. 39–41,
+jun 2021. ISSN 0001-0782. Disponível em: https://doi.org/10.1145/3440753.
+COSTA, L. F. C.A Jornada da Heroína Aprendiz: Motivando Mulheres
+em Cursos STEM Através do Poder de Uma Narrativa. Tese (PhD
+thesis) — Universidade Federal do Rio de Janeiro, Janeiro 2023. Available at
+https://cos.ufrj.br/index.php/pt-BR/publicacoes-pesquisa/details/15/3082.
+JAGANNATHAN, R. K.; KOMIVES, C. Teaching by induction: project-based learning
+for silicon valley.J. Eng. Educ. Transform, v. 33, p. 22–26, 2019.
+LARMER, J.; ROSS, D.; MERGENDOLLAR, J. R.Project Based Learning (PBL)
+Starter Kit. Novato, CA: Buck Institute for Education, 2009.
+LIRA, C. de et al. Summer programming camps–exploring project-based informal cs
+education in a rural community.International Journal of Computer Science
+Education in Schools, v. 5, n. 4, p. 20–37, 2022.
+MELLO, R.; MELLO, F. Ensino de metodologia de pesquisa qualitativa na
+graduação em computação: Uma proposta baseada em evidências. In:Anais
+do XXX Workshop sobre Educação em Computação. Porto Alegre,
+RS, Brasil: SBC, 2022. p. 322–333. ISSN 2595-6175. Disponível em: https:
+//sol.sbc.org.br/index.php/wei/article/view/20841.
+NACIONAL, J. Sobram vagas no setor de tecnologia no Brasil por
+falta de profissionais qualificados. 2022. Acesso em: 13 de Março de
+2023. Disponível em: https://g1.globo.com/jornal-nacional/noticia/2022/09/29/
+sobram-vagas-no-setor-de-tecnologia-no-brasil-por-falta-de-profissionais-qualificados.
+ghtml.
+SOBRAL, S. R. Flipped classrooms for introductory computer programming courses.
+2021.
+WANG, C.; VEMULA, S.; FRYE, M. Out-of-school time stem: Teach programming
+using python for high school girls. In:2020 IEEE Integrated STEM Education
+Conference (ISEC). [S.l.: s.n.], 2020. p. 1–6.
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 1/8
+1. Email*
+2.
+3.
+Mark only one oval.
+Amarela
+Branca
+Indígena
+Parda
+Preta
+Sem declaração
+4.
+Example: January 7, 2019
+Formulário de Seleção para o Curso
+Ideas NF
+Você está recebendo esse formulário porque se inscreveu no curso Ideias NF Academy.
+Para completar a segunda fase, precisamos saber um pouco mais sobre você. A partir
+desses dados, faremos a terceira fase de seleção de candidatos para primeira turma, que
+será um evento presencial.
+Os alunos que não forem selecionados para a primeira turma, continuam inscritos para
+as próximas edições e serão contactados futuramente.
+* Indicates required question
+Seu nome (ou nome social)*
+Qual sua raça ou cor?
+Data de nascimento*
+67
+APÊNDICE A – FORMULÁRIO DE SELEÇÃO DE ALUNOS DO
+CURSO IDEAS
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 2/8
+5.
+Mark only one oval.
+Other:
+Masculino
+Feminino
+Pre ro não dizer
+6.
+Mark only one oval.
+Ensino fundamental
+Ensino médio
+Ensino superior
+7.
+Mark only one oval.
+Other:
+Fazendo ensino fundamental Skip to question 8
+Fazendo ensino médio Skip to question 8
+Fazendo faculdade Skip to question 8
+Fazendo um curso técnico Skip to question 8
+Fazendo um curso de especialização Skip to question 8
+Apenas Trabalhando Skip to question 15
+Skip to question 20
+Escola ou faculdade que frequenta
+8.
+Com qual gênero se identiﬁca?*
+Último nível de escolaridade completo?*
+Atualmente estou...?*
+Nome da escola ou faculdade*
+Exemplo: Escola Santa Maria, Faculdade Boa Praça
+68
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 3/8
+9.
+10.
+11.
+12.
+Mark only one oval.
+Sim Skip to question 13
+Não Skip to question 20
+Skip to question 20
+Você trabalha e estuda?
+13.
+Nome do Curso*
+Exemplo: curso técnico de fármacia, ensino médio, engenharia
+Escreva em poucas linhas o que motivou você a querer fazer esse curso*
+Que série, ano ou período está cursando*
+Você trabalha?*
+Com o que trabalha? Fale sobre suas responsabilidades no trabalho*
+69
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 4/8
+14.
+Skip to question 20
+Curso mais avançado que terminou?
+15.
+16.
+17.
+18.
+19.
+Mais sobre você
+Quantas horas por semana você trabalha?*
+Nome do curso?*
+Seja escola, faculdade, curso técnico ou especialização
+Escreva em poucas linhas o que motivou você a querer fazer esse curso*
+Em que ano encerrou?*
+Com o que trabalha? Fale sobre suas responsabilidades no trabalho*
+Quantas horas por semana você trabalha?*
+70
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 5/8
+20.
+21.
+22.
+Mark only one oval.
+Sim
+Não
+Fale um pouco sobre você  e por que quer fazer o curso*
+Você precisa escrever pelo menos 500 caracteres. Isso são 2 tweets! Não é difícil.
+Comente aqui sobre projetos, ações sociais, movimentos, que você pertença
+ou tenha pertencido.
+*
+Você tem acesso pleno a computador em casa?*
+71
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 6/8
+23.
+Mark only one oval per row.
+24.
+Disponibilidade
+Quais desses assuntos que serão tratados no curso te interessa?*
+Nenhum
+interesse
+Algum
+intereresse
+Muito
+interesse
+Não sei
+o que
+signi ca
+Programação
+Matemática
+Probabilidade
+e Estatística
+Grá cos e
+visualização
+de dados
+Gestão da
+informação,
+banco de
+dados
+Planilhas
+eletrônicas
+Programação
+Matemática
+Probabilidade
+e Estatística
+Grá cos e
+visualização
+de dados
+Gestão da
+informação,
+banco de
+dados
+Planilhas
+eletrônicas
+Que atividades você pratica fora da escola ou curso?
+Diga se toca instrumentos, pratica esportes, faz cursos, tem hobbies, trabalhos,
+estágios, bicos, ...
+72
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 7/8
+25.
+Mark only one oval.
+1
+2
+3
+4
+5
+6
+7
+Não tenho disponibilidade para ir ao laboratório
+26.
+Check all that apply.
+Segunda
+Terça
+Quarta
+Quinta
+Sexta
+Nenhum
+27.
+Você teria disponibilidade para ir ao laboratório quantos dias na semana?*
+Quais seriam os melhores dias?*
+Comente aqui sobre a falta de disponibilidade de horários
+73
+7/4/23, 2:09 PM Formulário de Seleção para o Curso Ideas NF
+https://docs.google.com/forms/d/1OV9mUDZuIhPiUYrv-44jZEWNwmG5uWWpF8pJHwQTu_g/edit 8/8
+28.
+Check all that apply.
+Quinta (23/07) - 14hrs
+Quinta (23/07) - 16hrs
+Quinta (23/07) - 18hrs
+Sexta (24/07) - 14hrs
+Sexta (24/07) - 16hrs
+Sexta (24/07) - 18hrs
+This content is neither created nor endorsed by Google.
+Horários para próxima etapa*
+Supondo que você avance para a próxima etapa, selecione os horários que poderia
+participar da próxima etapa. A próxima etapa tem uma duração prevista de no máximo
+uma hora e meia.
+F o r m s
+74
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 1/20
+Survey sobre Experiência no Centro de
+Treinamento IDEAS
+Prezado estudante,
+Este estudo tem por objetivo caracterizar a experiência dos estudantes no Centro de
+Treinamento IDEAS. Esta foi a primeira turma do referido curso, e esperamos que essa
+experiência também possa ser compartilhada com novas turmas no futuro. Portanto,
+agradecemos desde já pela sua participação. Ao enviar o questionário preenchido, você
+estará automaticamente concordando com os termos a seguir:
+Declaração de Consentimento
+Concordo em participar de estudo não invasivo realizado pela pesquisadora da UFRJ.
+Este estudo tem como objetivo avaliar a experiência dos alunos no Centro de
+Treinamento IDEAS oferecido pela ONG IDEAS no período de 05 de Julho de 2022 até
+10 de Novembro de 2022.
+Procedimento
+Este estudo consiste no preenchimento de um formulário composto por perguntas
+fechadas e abertas referentes à sua experiência no Centro de Treinamento IDEAS.
+Declaro: "Eu entendo que todas as respostas são pessoais e devem ser dadas com base
+na minha própria experiência. Também entendo que, assim que o estudo for concluído,
+minhas respostas serão analisadas e codiﬁcadas."
+Conﬁdencialidade
+Todas as informações coletadas neste estudo são conﬁdenciais.
+Declaro: "Eu entendo que meu nome não será identiﬁcado para terceiros. Da mesma
+forma, concordo em não compartilhar minhas respostas com terceiros até que o estudo
+seja concluído."
+Benefícios e liberdade de desistência
+Declaro: "Eu entendo que todos os benefícios que obtenho com este estudo se limitam
+ao aprendizado. Entendo que tenho liberdade para solicitar informações adicionais sobre
+o estudo a qualquer momento, bem como solicitar o cancelamento de minha participação
+no estudo. Eu entendo que não tenho nenhuma obrigação de contribuir com qualquer
+informação que considere sensível. Também entendo que meu nome não será utilizado
+durante a análise dos resultados ou sua apresentação. Por ﬁm, entendo que estou
+participando do estudo empírico por vontade própria, contribuindo para o avanço da
+Educação na Ciência da Computação."
+Ao clicar em avançar, você concorda em participar do estudo.
+75
+APÊNDICE B – QUESTIONÁRIO PARA AVALIAÇÃO DA
+EXPERIÊNCIA DO CURSO IDEAS
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 2/20
+Caracterização do Participante
+1.
+Marcar apenas uma oval.
+Sim
+Não
+2.
+Marcar apenas uma oval.
+Sim
+Não
+Conhecimento Prévio
+Responda as aﬁrmações sobre conhecimentos antes de fazer o curso CT IDEAS, dizendo
+se concorda ou discorda:
+3.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+- Larissa Galeno
+* Indica uma pergunta obrigatória
+Você possui acesso a um computador em casa?*
+Você trabalhou enquanto fazia o curso?*
+Eu já tinha conhecimento de Planilhas antes de fazer o curso CT IDEAS. *
+76
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 3/20
+4.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+5.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Conhecimento adquirido ao longo do curso
+Responda as aﬁrmações sobre conhecimentos adquiridos ao fazer o curso CT IDEAS,
+dizendo se concorda ou discorda:
+6.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Eu já tinha conhecimento de Programação antes de fazer o curso CT IDEAS. *
+Eu já tinha conhecimento da linguagem de programação Python antes de fazer
+o curso CT IDEAS.
+*
+Eu compreendi como montar uma planilha para exibir dados. *
+77
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 4/20
+7.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+8.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+9.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+10.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Eu compreendi como usar fórmulas em planilhas. *
+Eu consigo fazer gráﬁcos em Planilhas. *
+Eu compreendi o conceito de Entrada e Saída. *
+Eu compreendi o conceito de Variáveis. *
+78
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 5/20
+11.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+12.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+13.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+14.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Eu compreendi como fazer operações matemáticas em Python. *
+Eu consigo usar funções no Python. *
+Eu consigo usar Strings em Python. *
+Eu consigo usar Listas em Python. *
+79
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 6/20
+15.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+16.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+17.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+18.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Eu consigo usar Booleanos em Python. *
+Eu consigo usar Operadores Relacionais (==, >, <...) em Python. *
+Eu consigo usar Operadores lógicos (and, not, or) em Python. *
+Eu consigo usar if/else em Python. *
+80
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 7/20
+19.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+20.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+21.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+22.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Eu consigo usar estruturas de repetição (for, while) em Python. *
+Eu consigo usar dicionários em Python*
+Eu compreendi o conceito de bibliotecas em Python. *
+Eu consigo fazer gráﬁcos em Python. *
+81
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 8/20
+23.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+24.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Avaliação e Impacto do Curso
+Nas próximas questões indique um grau (de 1 a 5, sendo 1 muito ruim e 5 muito bom)
+sobre cada recurso utilizado no curso CT IDEAS ou se concorda ou discorda com algumas
+aﬁrmações. Ao ﬁnal, responda algumas questões abertas.
+Eu consigo usar Pandas para mexer com dados*
+Eu consigo usar o Streamlit*
+82
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 9/20
+25.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+26.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Material do curso a respeito de planilhas*
+Material do curso a respeito de Python*
+83
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 10/20
+27.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+28.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Plataforma Moodle*
+Estrutura do Laboratório IDEAS*
+84
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 11/20
+29.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+30.
+Marcar apenas uma oval.
+0 vezes
+1 vez
+2 vezes
+3 vezes
+4 vezes
+Poder usar o Laboratório IDEAS para acessar ao curso e fazer aulas*
+Quantas vezes por semana você ia ao laboratório?*
+85
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 12/20
+31.
+Marcar apenas uma oval.
+Sim
+Não
+32.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Você foi no laboratório em horários além das aulas de terça e quinta?*
+Por exemplo, se você usava o laboratório nas terças e quintas antes da aula sua
+respsota é "sim", se você só realmente frequentou no momento das aulas a resposta é
+"não"
+Videos de pessoas da área falando sua trajetória*
+86
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 13/20
+33.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+34.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Quizes na Plataforma Kahoot! *
+Aulas de terças e quintas*
+87
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 14/20
+35.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+36.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Realizar o Desaﬁo 1*
+Fazer o desaﬁo 1 me ajudou a ﬁxar os conteúdos ensinados*
+88
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 15/20
+37.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+38.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Dia de apresentação do Desaﬁo 1*
+Feedback dos professores sobre o trabalho do desaﬁo 1*
+89
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 16/20
+39.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+40.
+Marcar apenas uma oval.
+Discordo Totalmente
+Discordo Parcialmente
+Concordo Parcialmente
+Concordo Totalmente
+Realizar o Desaﬁo Final*
+Fazer o Desaﬁo Final me ajudou a ﬁxar os conteúdos ensinados*
+90
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 17/20
+41.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+42.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Dia de apresentação do Desaﬁo Final*
+Feedback dos professores sobre o trabalho do Desaﬁo ﬁnal*
+91
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 18/20
+43.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+44.
+Marcar apenas uma oval.
+Muito ruim
+1
+2
+3
+4
+5
+Muito bom
+Realizar os trabalhos do curso em grupo*
+Ter um grupo ﬁxo*
+92
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 19/20
+45.
+46.
+47.
+Outro:
+Marque todas que se aplicam.
+Matemática
+Horário Noturno das aulas
+A linguagem de programação em si
+Inglês
+Não houve diﬁculdade
+48.
+Marcar apenas uma oval.
+Sim
+Não
+Por favor, enumere os três tópicos apresentados no curso que você percebeu
+como mais relevantes
+*
+Por favor, indique suas sugestões para a melhoria do curso CT IDEAS. *
+O que você considera que diﬁcultou seu processo de aprendizado?*
+Você pretende dar continuidade nos estudos de Programação?*
+93
+7/4/23, 2:14 PM Survey sobre Experiência no Centro de Treinamento IDEAS
+https://docs.google.com/forms/d/1KPW0dMwgDs8QB2zD1zpvDjNNvxJeJRsk6oOCDAXlKek/edit 20/20
+49.
+Marcar apenas uma oval.
+Sim
+Não
+50.
+Este conteúdo não foi criado nem aprovado pelo Google.
+Você considera a possibilidade de trabalhar com programação no futuro?*
+Algum comentário que queira fazer que não foi coberto nas perguntas
+anteriores?
+F o r m u l á r i o s
+94

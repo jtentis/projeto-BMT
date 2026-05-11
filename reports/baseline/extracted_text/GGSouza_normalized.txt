@@ -1,0 +1,1716 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+INSTITUTO DE COMPUTAÇÃO
+CURSO DE BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO
+GUILHERME GOMES SOUZA
+VÍTOR BARCELLOS DE ANDRADE
+JOGO EDUCATIVO SUPERBACTÉRIAS
+Ferramenta para apoiar ensino sobre bactérias
+RIO DE JANEIRO
+2023
+GUILHERME GOMES SOUZA
+VÍTOR BARCELLOS DE ANDRADE
+JOGO EDUCATIVO SUPERBACTÉRIAS
+Ferramenta para apoiar ensino sobre bactérias
+Trabalho de conclusão de curso de graduação
+apresentado ao Instituto de Computação da
+Universidade Federal do Rio de Janeiro como
+parte dos requisitos para obtenção do grau de
+Bacharel em Ciência da Computação.
+Orientador: Prof. Geraldo Bonorino Xexéo
+Co-orientador: Prof. Farmy Gonçalves Ferreira da Silva
+Prof. Suellen de Oliveira
+RIO DE JANEIRO
+2023
+Souza, Guilherme Gomes
+S729j Jogo educativo Superbactérias: ferramen ta para apoiar ensino sobre
+bactérias / Guilherme Gomes Souza e Vítor Barcellos de Andrade. – 2023.
+82 f.
+Orientador: Geraldo Bonorino Xexéo.
+Coorientador: Farmy Gonçalves Ferreira da Si lva.
+Coorientadora: Suellen de Oliveira.
+Trabalho de Conclusão de Curso (Bacharelado em Ciência da Computação)
+- Universidade Federal do Rio de Janeiro, Instituto de Computação, Bacharel
+em Ciência da Computação, 2023.
+1. Ciências Biológicas. 2. Jogo educativo. 3. Jogo de cartas. 4. Bactérias. 5.
+Resistência antimicrobiana. I. Andrade, Vítor Barcellos de. II. Xexéo, Geraldo
+Bonorino (Orient.). III. Silva, Farmy Gonçalves Ferreira da (Coorient). IV.
+Oliveira, Suellen de. V. Universidade Federal do Rio de Janeiro, Instituto de
+Computação. VI. Título.
+Dedicatória: Dedicamos esse trabalho a nossos professores, que atuaram com protagonismo em nossa formação e nos passaram o senso crítico e comprometimento que
+caracterizam bons cidadãos da sociedade brasileira.
+AGRADECIMENTOS
+Vítor Barcellos de Andrade
+Quero agradecer a minhas amigas, Júlia Melgaré, Luíza Shimura e Bruna Lombardo,
+que sempre me incentivaram, deram apoio emocional quando precisei e nunca duvidaram
+de mim.
+Também quero agradecer aos orientadores, Geraldo Xexéo e Farmy Gonçalves, que
+contribuíram para o trabalho através de reuniões, conversas e muitas revisões de texto.
+Agradeço também à professora Suellen de Oliveira, sem a qual este trabalho não
+existiria.
+Por fim, dirijo meus agradecimentos à Double Dash Studios, por ter sido extremamente
+compreensível quando precisei me ausentar da empresa para me dedicar a este trabalho.
+AGRADECIMENTOS
+Guilherme Gomes Souza
+Quero agradecer em primeiro lugar a minha mãe que sempre insistiu muito para que
+eu fizesse uma graduação.
+Agradecer também aos meus amigos Yasmin Barbosa, Vítor Barcellos, Julliene Ribeiro
+e Mayara Poim, que além de ajudarem durante todo o processo de criação desse projeto,
+também foram vitais para que toda a caminhada do processo de graduação fosse mais
+agradável.
+Claro agradecer também aos orientadores Geraldo Xexéo e Farmy Gonçalves e também
+à professora Suellen de Oliveira, pelas contribuições no texto, questionários e sugestões e
+auxilios no pré, pós e até mesmo durante as validações.
+Por fim agradecer aos colegas de trabalho num geral, com destaques à Lucas Barros e
+Diefferson Môro por segurarem as pontas com as entregas do trabalho.
+RESUMO
+Este trabalho de conclusão de curso tem como objetivo principal apresentar uma ferramenta digital de apoio para aulas de ciências biológicas, mais especificamente com enfoque na resistência bacteriana e no surgimento de superbactérias, abordando de forma
+interativa assuntos como a reprodução bacteriana, suas mutações, abordando de forma
+interativa assuntos como seus mecanismos de defesa, como funciona sua reprodução, suas
+mutações e também os perigos do uso irresponsável de medicamentos antimicrobianos.
+O público alvo do jogo são estudantes do ensino médio. A ferramenta simula um jogo
+de cartas digital, no qual o aluno faz o papel de um médico tratando uma infecção bacteriana. Além de apresentar essas características das bactérias através de mecânicas e
+jogabilidade, o jogo também conta com uma narrativa durante alguns pontos específicos.
+Esse artifício é utilizado para se aprofundar em alguns assuntos sem comprometer a experiência de jogo. O jogador vence uma partida quando extermina todas as bactérias, e
+perde a partida quando, através de mutações, uma superbactéria surge.
+Palavras-chave: ciências biológicas; biologia; jogo educativo; jogo de cartas; ensino
+médio; bactérias; superbactérias; resistência antimicrobiana.
+ABSTRACT
+This work aims to present a digital tool to support biology classes, with a specific focus on
+superbacteria and antimicrobial resistance, interactively addressing subjects like defense
+mechanisms, binary fission, mutations and the dangers around the irresponsible use of
+antimicrobial drugs. The game targets high school students. The tool simulates a digital
+card game, in which the student plays as a doctor treating a bacterial infection. Besides
+conveying these characteristics about bacteria through its mechanics and gameplay, the
+game also presents a narrative at specific points. This artifice is used to address some subjects more deeply without compromising the game experience. The player wins a match
+when they exterminate all bacteria, and loses when, through mutations, a superbacteria
+emerges.
+Keywords: biological sciences; biology; educational game; card game; high school; bacteria; superbacteria; antimicrobial resistance.
+LISTA DE ILUSTRAÇÕES
+Figura 1 – EndoGDC, suas seções e seus blocos. Fonte: (TAUCEI, 2019) . . . . . 19
+Figura 2 – Processo Scrum. Fonte: Lakeworks, via Wikimedia Commonscba . 20
+Figura 3 – Método cascata (modelowaterfall) Fonte: Pressman 2010 . . . . . . . 20
+Figura 4 – O ambiente de desenvolvimento do jogo na Unity. . . . . . . . . . . . . 21
+Figura 5 – A tela de menu inicial do Tabletop Simulator. . . . . . . . . . . . . . . 22
+Figura 6 – Versão inicial do jogo prototipada noPowerpoint pela professora Suellen de Oliveira. Fonte: Jogo em Powerpoint Superbactérias . . . . . . . 25
+Figura 7 – Print do primeiro protótipo desenvolvido. Fonte: Os autores . . . . . . 26
+Figura 8 – Print do protótipo desenvolvido no Tabletop Simulator. Fonte: Os
+autores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Figura 9 – Tela da versão atual do jogo. Fonte: Os autores . . . . . . . . . . . . . 26
+Figura 10 – Canvas Endo-GDC do jogo Superbactérias. Fonte: Os autores . . . . . 27
+Figura 11 – Mecânicas, dinâmicas e estéticas da versão inicial do jogo prototipada
+no PowerPoint pelos autores do jogo original. . . . . . . . . . . . . . . 29
+Figura 12 – Tela inicial da versão final do jogo. . . . . . . . . . . . . . . . . . . . . 35
+Figura 13 – Texto inicial dogameplay da versão final do jogo. . . . . . . . . . . . . 35
+Figura 14 – 4 cartas sorteadas na etapa de compra do primeiro turno. . . . . . . . . 36
+Figura 15 – Estado do tabuleiro após a etapa de compra do primeiro turno. . . . . 36
+Figura 16 – Estado do tabuleiro após a etapa de ação do primeiro turno. . . . . . . 37
+Figura 17 – Fase de compra do segundo turno. . . . . . . . . . . . . . . . . . . . . 37
+Figura 18 – Resultado da fase de ação do segundo turno. . . . . . . . . . . . . . . . 38
+Figura 19 – Resultado da fase de ação do terceiro turno. . . . . . . . . . . . . . . . 38
+Figura 20 – Tela de vitória jogo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Figura 21 – Diagrama mostrando a arquitetura escolhida para as classes que representam as cartas do jogo. . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Figura 22 – Diagrama mostrando a arquitetura escolhida para as classes que representam os baralhos do jogo. Fonte: Os autores . . . . . . . . . . . . . . 41
+Figura 23 – Diagrama mostrando a arquitetura escolhida para as classes que representam as mutações das bactérias. Fonte: Os autores . . . . . . . . . . 42
+Figura 24 – Diagrama mostrando a arquitetura escolhida para as diferentes fases
+de cada turno do jogo. Fonte: Os autores . . . . . . . . . . . . . . . . . 42
+Figura 25 – Diagrama mostrando a arquitetura escolhida para as Views das cartas
+do jogo. Fonte: Os autores . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Figura 26 – Diagrama mostrando a arquitetura escolhida para os CardSets. Fonte:
+Os autores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Figura 27 – Diagrama mostrando a arquitetura escolhida para MutationViews. . . . 44
+Figura 28 – Diagrama mostrando a arquitetura escolhida para os Sets de GameSteps. Fonte: Os autores . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Figura 29 – Diagrama mostrando as classes concretas que herdam de GameStep.
+Fonte: Os autores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Figura 30 – Diagrama mostrando a ordem em que as classes concretas de GameStep
+são organizadas no projeto para dar origem ao funcionamento do jogo.
+Fonte: Os autores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Figura 31 – Gráfico que mostra a quantidade de voluntários de cada idade. Fonte:
+Site meta-chart alimentado com os dados fornecidos pelos voluntários
+através do questionário . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Figura 32 – Gráficoquemostraaquantidadedevoluntáriosdematriculadoemcada
+ano. Fonte: Gerado pelo Google Forms . . . . . . . . . . . . . . . . . . 54
+Figura 33 – Gráficos que mostram a quantidade de voluntários com preferência e
+facilidade por cada matéria. Fonte: Gerado pelo Google Forms . . . . . 55
+Figura 34 – Gráfico que mostra a impressão dos voluntários sobre a sua faixa etária
+e a proposta do jogo. Fonte: Gerado pelo Google Forms . . . . . . . . 57
+Figura 35 – Gráfico que mostra quantos voluntários já haviam ouvido falar sobre o
+termo anteriormente. Fonte: Gerado pelo Google Forms . . . . . . . . 57
+Figura 36 – Gráfico que mostra a influência do jogo na percepção sobre os temas
+chave. Fonte: Gerado pelo Google Forms . . . . . . . . . . . . . . . . . 58
+Figura 37 – Gráfico que mostra a mudança no interesse sobre o tema central: Superbactérias. Fonte: Gerado pelo Google Forms . . . . . . . . . . . . . 58
+Figura 38 – Gráfico que mostra a percepção dos voluntários sobre os elementos do
+jogo. Fonte: Gerado pelo Google Forms . . . . . . . . . . . . . . . . . 59
+Figura 39 – Gráfico que mostra a porcentagem de voluntários que relataram algum
+bug durante oplaytest. Fonte: Gerado pelo Google Forms . . . . . . . 60
+LISTA DE CÓDIGOS
+Código 1 Implementação da classe GameStep . . . . . . . . . . . . . . . . . . 45
+Código 2 Implementação da classe GameStepsRunner . . . . . . . . . . . . . 45
+Código 3 Implementação da classe GameStepSet . . . . . . . . . . . . . . . . 46
+Código 4 Implementação da classe GameStepLinearSet . . . . . . . . . . . . . 47
+Código 5 Implementação da classe GameStepLoopSet . . . . . . . . . . . . . 48
+SUMÁRIO
+1 INTRODUÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.1 O PROBLEMA DAS SUPERBACTÉRIAS . . . . . . . . . . . . . . . 13
+1.2 AS SUPERBACTÉRIAS COMO UM PROBLEMA EDUCACIONAL 13
+1.3 METODOLOGIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+1.4 ESTRUTURA DO TEXTO . . . . . . . . . . . . . . . . . . . . . . . . 15
+2 REVISÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2.1 O FENÔMENO CULTURAL DOS VIDEOGAMES E SUA ATUAÇÃO NA EDUCAÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2.2 MDA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2.3 ENDO-GDC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+2.4 SCRUM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+2.5 UNITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+2.6 TABLETOP SIMULATOR . . . . . . . . . . . . . . . . . . . . . . . . 21
+3 PROPOSTA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+3.1 MOTIVAÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+3.2 O JOGO ORIGINAL . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+3.3 CONCEITO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+3.4 ENDO-GDC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.5 OBJETIVOS PEDAGÓGICOS . . . . . . . . . . . . . . . . . . . . . . 27
+3.6 O JOGO SEGUNDO O MODELO MDA . . . . . . . . . . . . . . . . 28
+3.6.1 Mecânicas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+3.6.2 Dinâmicas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+3.6.3 Estéticas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+3.7 ESTRUTURA DO JOGO . . . . . . . . . . . . . . . . . . . . . . . . . 32
+3.8 CASO DE USO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+4 IMPLEMENTAÇÃO DO JOGO SUPERBACTÉRIAS . . . . 40
+4.1 ARQUITETURA MODEL-VIEW-CONTROLLER . . . . . . . . . . . 40
+4.1.1 Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+4.1.2 Controllers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+4.1.3 Views . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+4.2 SISTEMA GAMESTEPS . . . . . . . . . . . . . . . . . . . . . . . . . 44
+5 AVALIAÇÃO DO JOGO COMO FERRAMENTA EDUCACIONAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+5.1 METODOLOGIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+5.2 PERFIL DOS VOLUNTÁRIOS . . . . . . . . . . . . . . . . . . . . . 52
+5.2.1 Voluntários/Idade . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+5.2.2 Voluntários/Ano . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+5.2.3 Voluntários/Preferência/Facilidade . . . . . . . . . . . . . . . . . 54
+5.3 PERGUNTAS NÃO RELACIONADAS AO PERFIL . . . . . . . . . . 55
+5.3.1 O que você aprendeu com o uso do jogo? . . . . . . . . . . . . . 55
+5.3.2 O que você não entendeu do jogo? . . . . . . . . . . . . . . . . . 56
+5.3.3 O que você removeria do jogo? . . . . . . . . . . . . . . . . . . . 56
+5.3.4 O que você mudaria ou adicionaria no jogo? . . . . . . . . . . . 56
+5.3.5 Você achou o jogo apropriado para a sua faixa etária? . . . . . 56
+5.3.6 Quais dos termos abaixo você já tinha ouvido falar antes do
+jogo? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+5.4 RESULTADOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+5.4.1 Em uma escala de 1 a 5, sendo 1 pouco relevante e 5 muito
+relevante, como você avalia a capacidade do jogo em mudar
+sua percepção sobre os seguintes temas?. . . . . . . . . . . . . 57
+5.4.2 Depois de jogar o Superbactérias, a sua curiosidade sobre o
+tema aumentou? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+5.5 CRÍTICAS E MELHORIAS . . . . . . . . . . . . . . . . . . . . . . . 59
+5.5.1 Em uma escala de 1 a 5, sendo 1 muito baixo e 5 muito alto,
+como você avalia os seguintes pontos do jogo. . . . . . . . . . 59
+5.5.2 Você teve algum problema técnico pra executar ou durante
+a execução do jogo? (Travamentos, imagens fora do lugar,
+mensagens de erro). . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+6 CONCLUSÃO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+6.1 TRABALHOS FUTUROS . . . . . . . . . . . . . . . . . . . . . . . . 61
+REFERÊNCIAS . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+ANEXO A – CARTILHA COM REGRAS DO JOGO ANALÓGICO ORIGINAL . . . . . . . . . . . . . . . 65
+13
+1 INTRODUÇÃO
+1.1 O PROBLEMA DAS SUPERBACTÉRIAS
+As superbactérias representam uma séria questão de saúde pública global, representando uma das maiores ameaças à saúde humana e animal atualmente. A resistência
+bacteriana, responsável por 1,27 milhão de mortes em 2019, constitui-se como uma das
+principais causas de mortalidade mundial e com maior impacto nos países de baixa renda,
+isto é, aqueles com Produto Interno Bruto (PIB) abaixo de 750 dólares atualmente (MURRAY et al., 2022).
+Adicionalmente, em condições normais, as bactérias podem desenvolver um novo mecanismo de defesa, por meio de mutação, em cerca de dez dias, enquanto a descoberta
+de um novo antimicrobiano pode levar de 1 a 10 anos. Em 2017, a Organização Mundial da Saúde (OMS) declarou que estamos enfrentando uma crise global de escassez de
+antimicrobianos (GUO et al., 2022).
+As superbactérias são cepas bacterianas que possuem resistência contra a maioria dos
+antimicrobianos e outros medicamentos comumente utilizados no tratamento de infecções
+causadas por elas. O uso inadequado e desnecessário de antimicrobianos, bem como o
+descarte inadequado de medicamentos e o uso excessivo de antimicrobianos na agricultura, criam uma pressão seletiva que favorece o desenvolvimento e seleção de bactérias
+resistentes. Esse processo inadvertidamente leva à criação de cepas de superbactérias,
+tornando difícil o tratamento eficaz de infecções causadas por esses organismos no futuro
+(JACOME; GONZALES-ZUBIATE, 2019).
+É essencial evitar certas práticas a fim de não promover o surgimento de superbactérias. Dentre elas estão: negligenciar as práticas conhecidas de prevenção de infecções
+hospitalares; descartar antimicrobianos e outros medicamentos de forma inadequada, contaminando o solo e a água; fazer uso de antimicrobianos ou outros medicamentos sem prescrição médica, ou de maneira desnecessária (ZHOU et al., 2014). Tais práticas contribuem
+para o surgimento de superbactérias, apesar de muitas pessoas não estarem conscientes
+desse fato.
+1.2 AS SUPERBACTÉRIAS COMO UM PROBLEMA EDUCACIONAL
+De acordo com a Organização Mundial da Saúde (OMS), o número de óbitos relacionados à resistência bacteriana pode alcançar 10 milhões nos próximos 35 anos (JACOME;
+GONZALES-ZUBIATE, 2019). Portanto, é absolutamente crucial que as futuras gerações
+sejam conscientizadas sobre as medidas de prevenção do surgimento de superbactérias.
+Uma abordagem para reverter essa perspectiva preocupante é a implementação de cam-
+14
+panhas e iniciativas educacionais direcionadas a crianças e adolescentes, como mostra o
+estudo Rousounidis et al. (2011).
+Além disso, Agarwal, Yewale e Dharmapalan (2015) realizaram uma pesquisa com pais
+e cuidadores de crianças e adolescentes que aponta que, apesar dos participantes terem
+noção dos riscos associados ao uso excessivo de antimicrobianos, o que prevalece é a falta
+de conhecimento sobre o uso e indicações desses remédios. Mais interações com pediatras
+e o envolvimento da mídia pode ajudar a melhorar o conhecimento sobre antimicrobianos,
+bem como as práticas adotadas por pais e cuidadores, tendo como consequência o controle
+do problema da resistência antimicrobiana.
+Zhang et al. (2018) propõem uma intervenção educacional em escolas para promover
+a construção de conhecimentos em crianças, adolescentes e seus pais e cuidadores sobre o
+uso racional de antimicrobianos.
+Um outro estudo qualitativo realizado com uma equipe de farmacêuticos na Escócia
+(TONNA et al., 2020) destacou uma lacuna na ênfase dada ao conceito de Gestão Antimicrobiana (FISHMAN, 2006) durante a formação desses profissionais. Esse resultado
+reforça a possibilidade de que profissionais de outras áreas também apresentem déficits
+no conhecimento sobre esse tema. Esse problema também foi mostrado por Abbo et al.
+(2013), em um estudo onde 98% dos graduandos/graduados entrevistados acreditavam
+que as instituições deveriam dedicar mais esforços no ensino de Gestão Antimicrobiana
+durante o curso, e que 32% dos entrevistados não acreditava ter facilidade para encontrar
+fontes confiáveis de informação para tratar infecções.
+Em conclusão, o problema das superbactérias, além de ser uma questão de saúde,
+também é um problema educacional, que merece soluções dentro da área de ensino. Por
+isso, este trabalho se propõe a apresentar um jogo educacional sobre superbactérias, de
+forma a conscientizar estudantes sobre o uso racional de remédios antimicrobianos.
+1.3 METODOLOGIA
+Com o objetivo de alcançar essa meta, o jogo foi desenvolvido com base nos princípios
+do modelo MDA (Mechanics-Dynamics-Aesthetics) de Game Design.
+Além disso, durante o processo de desenvolvimento, foram utilizadas ferramentas teóricas, como o Game Design Canvas Endo-GDC (TAUCEI, 2019), que permitiu um processo
+colaborativo de criação, e a metodologia ágil Scrum (SUTHERLAND, 2014), que proporcionou entregas iterativas e práticas ao longo do desenvolvimento do projeto.
+Como ferramenta de desenvolvimento para criação de jogos foi usada a Unity (UNITY,
+2023), e o Tabletop Simulator (TABLETOPSIMULATOR, 2023) foi usado como ferramenta de prototipagem para discutir as regras.
+15
+O projeto foi desenvolvido com base em um protótipo pré-existente construído no
+PowerPoint (OLIVEIRA et al., 2021a). Os principais elementos pedagógicos desse protótipo foram aproveitados e incorporados à versão final apresentada neste trabalho.
+1.4 ESTRUTURA DO TEXTO
+Este trabalho está organizado em seis capítulos. No Capítulo 2, apresentamos conceitos necessários para o entendimento do nosso jogo educativo Superbactérias e argumentamos acerca das escolhas tomadas durante a fase de concepção e a fase de desenvolvimento
+do jogo. No Capítulo 3, apresentamos a proposta do jogo, elucidando os seus objetivos
+pedagógicos, a estrutura e o game design do jogo. No Capítulo 4, entramos em detalhes
+na implementação do jogo e argumentamos sobre as decisões de engenharia de software
+que foram tomadas no seu desenvolvimento. No Capítulo 5, apresentamos a avaliação
+do projeto, explicando a metodologia utilizada e os resultados encontrados. Por fim, no
+Capítulo 6, fazemos as considerações finais sobre o trabalho e sobre propostas futuras.
+16
+2 REVISÃO
+Neste capítulo abordamos o conceito de MDA, a ferramenta Endo-GDC destinada à
+construção teórica do jogos, o gerenciamento de projeto em Scrum, e também as ferramentas Unity e Tabletop Simulator destinas ao desenvolvimento do jogo
+2.1 O FENÔMENO CULTURAL DOS VIDEOGAMES E SUA ATUAÇÃO NA EDUCAÇÃO
+Os videogames têm se destacado como um fenômeno cultural significativo. Com o
+aumento contínuo de sua sofisticação e acessibilidade ao longo dos anos, eles se tornaram uma parte integrante da cultura popular, especialmente entre adolescentes e jovens
+adultos. Sua popularidade tem crescido de maneira constante, com um impulso adicional
+após o surgimento da pandemia. (VUORRE, 2021).
+Videogames possuem um tremendo potencial educacional. Um bom jogo educativo
+não apenas alimenta o jogador com informações, mas o estimula a utilizar o conhecimento
+apresentado para resolver problemas através dos desafios propostos durante uma partida.
+Squire e Jenkins (2003) mostram que estudantes que aprendem em um contexto de solução
+de problemas tendem a reter mais informações. Além disso, o estudo também argumenta
+que os jogos educativos facilitam aos estudantes aplicarem os conhecimentos adquiridos
+ao contexto do seu dia-a-dia.
+Apesar de ainda haver a necessidade de mais comprovações científicas, o uso de videogames na educação rende melhores resultados nas áreas de ciências, matemáticas e
+linguagens do que mídias convencionais. Além disso, usar jogos em primeira pessoa para
+treinar habilidades de atenção perceptiva e usar jogos de puzzles espaciais para treinar
+habilidades de percepção espacial em duas dimensões são promissores (MAYER, 2019).
+Assim, no cenário educacional atual, onde a tecnologia desempenha um papel cada vez
+mais importante, os jogos educativos são uma opção promissora para apoiar e enriquecer
+o processo de ensino-aprendizagem.
+No entanto, é imprescindível enfatizar que a incorporação de jogos na educação requer que os educadores compreendam como aproveitar o potencial dessa tecnologia e
+como integrar os jogos aos ambientes de aprendizagem convencionais de forma adequada
+(SHAFFER et al., 2005).
+2.2 MDA
+O modelo MDA (Mechanics-Dynamics-Aesthetics) é uma metodologia teórica para a
+análise de jogos, classificando seus componentes em três categorias distintas: mecânicas,
+17
+dinâmicas e estéticas. Essas categorias permitem uma compreensão mais aprofundada
+dos elementos fundamentais, das interações em jogo e das experiências estéticas proporcionadas pelo jogo (HUNICKE et al., 2004).
+As mecânicas de um jogo referem-se às ações, comportamentos, mecanismos e regras
+fundamentais que compõem sua estrutura. Elas representam as ações básicas que os
+jogadores podem realizar durante o jogo. Por exemplo, em um jogo de cartas, comprar
+uma carta do baralho e colocá-la na mesa são exemplos de mecânicas. Da mesma forma,
+em um jogo de plataformasidescroller, como Mario, as mecânicas podem incluir andar e
+pular. Essas mecânicas formam a base das interações e possibilidades disponíveis para os
+jogadores durante o jogo.
+As dinâmicas de um jogo são os comportamentos que surgem das interações entre o
+jogador e as mecânicas do jogo, assim como das interações entre as próprias mecânicas.
+Por exemplo, em um jogo baseado em turnos, a mecânica que estabelece que cada jogador
+joga após o outro gera a dinâmica de que cada jogador tem seu próprio turno para jogar.
+Em um jogo de cartas, a dinâmica pode envolver a habilidade do jogador em memorizar
+as cartas do baralho, acompanhar as cartas jogadas na mesa e inferir quais cartas ainda
+podem estar no baralho e nas mãos dos outros jogadores (conhecido informalmente como
+"contar cartas"). Já em um jogo de plataforma sidescroller, como Mario, a dinâmica
+que emerge das mecânicas de andar e pular é que o jogador pode superar obstáculos se
+tiver habilidade suficiente para pular sobre eles, ou pode atacar com armas, ou contornar
+os obstáculos por outros caminhos. Todas as dinâmicas se baseiam no uso das mecânicas com certa intenção. Essas dinâmicas tornam o jogo mais complexo e desafiador,
+proporcionando diferentes experiências de jogo (ABBOTT, 2010).
+As estéticas de um jogo referem-se às emoções, sensações e experiências que surgem
+na perspectiva do jogador, seja emocionalmente, sensorialmente ou narrativamente. Elas
+descrevem o que torna um jogo divertido, analisando os elementos que compõem seu
+apelo. Por exemplo, no jogo Mario, uma das estéticas gira em torno do desafio. As fases
+atuam como cursos de obstáculos, em que o jogador deve evitar inimigos e buracos para
+chegar até o fim no tempo limite. O jogador está emocionalmente envolvido em alcançar
+o final. Por isso, o jogo precisa fornecer informações claras sobre qual erro foi cometido
+quando o personagem perde uma vida. Além disso, o jogador pode ficar frustrado se ele
+acreditar que não tem chances de chegar até o final da fase, e o jogo pode perder seu
+interesse (KUSUMA et al., 2018) (TEKINBAS; ZIMMERMAN, 2005).
+O modelo MDA foi escolhido nesse trabalho por promover um entendimento mais
+preciso do jogo em desenvolvimento. Ele torna mais claras as interseções entre ogame
+design e o desenvolvimento, e fortalece o processo iterativo dos desenvolvedores ao tornar
+fácil a decomposição dos aspectos de design e das funcionalidades do jogo.
+18
+2.3 ENDO-GDC
+O Endo-GDC é um Game Design Canvas específico para descrever jogos educacionais
+durante a fase de concepção. Ele consiste em 12 seções que estimulam a reflexão sobre diferentes aspectos do jogo (TAUCEI, 2019), e especialmente sobre os objetivos pedagógicos
+do jogo. Essas seções estão divididas em 6 blocos distintos:
+• bloco jogador, cinza:
+– seção problema;
+– seção jogador/aluno;
+• bloco aprendizado, em laranja:
+– seção conteúdo pedagógico;
+– seção objetivos de aprendizado;
+• bloco narrativa, em rosa:
+– seção história do jogo;
+– seção objetivos do jogo;
+• bloco gameplay, em amarelo:
+– seção mecânicas;
+– seção dinâmicas;
+– seção estética;
+– seção inspirações
+• bloco experiência do usuário, em verde:
+– seção feedbacks educativos;
+• bloco tecnologia, em azul:
+– seção restrições.
+Como o Endo-GDC foi escolhido durante a etapa de conceitualização do projeto, os
+desenvolvedores tiveram a oportunidade de propor um problema a ser abordado. Além
+disso, esse canvas reforçou o conteúdo pedagógico que é abordado no jogo em desenvolvimento, garantindo que o objetivo do trabalho não fosse desvirtuado que o jogo integre o
+conteúdo abordado ao seu próprio funcionamento.
+O Endo-GDC também permitiu equilibrar de forma mais satisfatória a parte de entretenimentocomoconteúdopedagógico, poisincluiseçõesdedicadasamecânicas, dinâmicas
+e estéticas do jogo. Isso apoia o objetivo que o jogo seja educativo e, ao mesmo tempo,
+envolvente e divertido para os jogadores.
+19
+Figura 1 – EndoGDC, suas seções e seus blocos. Fonte: (TAUCEI, 2019)
+2.4 SCRUM
+Scrum é umframework ágil amplamente utilizado para o gerenciamento de projetos.
+Criado na década de 1990, ele se estabeleceu como uma das metodologias ágeis mais populares (STATEOFAGILE, 2021). O Scrum se concentra na organização e desenvolvimento
+de projetos, adotando princípios comosprints, entregas incrementais, busca contínua por
+melhorias, feedbacks imediatos e avaliação de resultados. Embora seja frequentemente
+aplicado em equipes de desenvolvimento de software, o Scrum pode ser usado em projetos
+de diferentes naturezas que exigem colaboração em equipe.
+No Scrum, uma prática recomendada é a criação de umbacklog durante o início do
+projeto, que consiste em uma lista de tarefas organizada por prioridade. O responsável
+por montá-lo é oproduct owner, cujo papel é propor a visão do projeto e assegurar que
+seja algo realizável pela equipe, além de considerar a viabilidade comercial (no caso de
+um produto). Oproduct ownertambém é responsável por garantir que cada entrega feita
+pela equipe agregue valor ao projeto.
+Sprints são períodos de tempo curtos nos quais a equipe se dedica à execução de um
+conjunto de tarefas acordadas, que trarão valor ao projeto. A Figura 2 ilustra o seu
+funcionamento. Cadasprint começa com o planejamento detalhado das tarefas a serem
+realizadas, com a equipe assumindo um compromisso genuíno de concluí-las. Ao final
+20
+do período determinado, asprint é encerrada com uma reunião em que a equipe revisa
+o trabalho realizado, demonstra o progresso alcançado e realiza uma reflexão sobre os
+acertos e desafios encontrados durante o processo (SUTHERLAND, 2014).
+30 days
+24 h
+Working increment
+of the softwareSprint Backlog SprintProduct Backlog
+Figura 2 – Processo Scrum. Fonte: Lakeworks, via Wikimedia Commonscba
+O método Scrum é frequentemente contrastado com o método cascata (também conhecido como modelowaterfall ou método tradicional), fornecendo uma abordagem alternativa. No método cascata, ilustrado na Figura 3, o projeto é planejado por completo
+durante a fase de concepção, seguindo um cronograma fixo, com entregas sequenciais em
+fases distintas. Esse método é inflexível e não se adapta bem a mudanças que possam
+ocorrer ao longo do projeto, pois cada alteração requer novos planejamentos extensos.
+Além disso, o método cascata apresenta uma vulnerabilidade, uma vez que o valor real
+do projeto pode não ser completamente conhecido durante a fase inicial de planejamento.
+(BECK et al., 2001)
+Figura 3 – Método cascata (modelowaterfall) Fonte: Pressman 2010
+Em contraste, o método Scrum é flexível em relação a mudanças e cada sprint é
+projetada para agregar valor contínuo ao produto em desenvolvimento. Osstakeholders
+participam ativamente do processo de revisão e fornecemfeedbacksconstantes, permitindo
+ajustes e melhorias ao longo do tempo.
+Por todas as vantagens elencadas acima, o Scrum foi escolhido para ser adotado nesse
+projeto.
+21
+2.5 UNITY
+A Unity é uma plataforma amplamente adotada no desenvolvimento de jogos, fornecendo uma ampla gama de ferramentas e recursos que simplificam o trabalho dos desenvolvedores. Com a Unity, é possível criar animações, capturar as entradas do jogador e
+gerarbuilds eficientes para diversas plataformas (UNITY, 2023).
+A escolha da Unity comoengine do projeto ofereceu uma base sólida e familiar para
+o desenvolvimento do jogo. Através da ampla gama de funcionalidades disponíveis na
+plataforma, pudemos implementar as mecânicas e dinâmicas do jogo de maneira eficiente.
+Além disso, a experiência prévia de um dos membros da equipe com a Unity acelerou o
+processo de desenvolvimento. A Figura 4 expõe o ambiente de desenvolvimento do editor
+da Unity.
+Figura 4 – O ambiente de desenvolvimento do jogo na Unity.
+2.6 TABLETOP SIMULATOR
+No projeto, o tempo de desenvolvimento de novas mecânicas, além de eventuais ajustes
+no seu funcionamento, estava sendo longo demais. Por isso, surgiu a necessidade de um
+ambiente de prototipação mais ágil e mais flexível a mudanças, para economizar tempo.
+Para atender a esse propósito, foi selecionado o Tabletop Simulator (TABLETOPSIMULATOR, 2023), um simulador de jogos de tabuleiro, como uma ferramenta auxiliar nessa
+etapa do trabalho. Essa escolha permitiu importar facilmente o baralho e realizar algumas
+partidas, mesmo que a implementação correspondente ainda não estivesse concluída na
+plataforma Unity. Assim, o Tabletop Simulator ofereceu um ambiente que permitiu facil-
+22
+mente montar os baralhos, visualizar a aparência das cartas e compartilhar o progresso
+do projeto com as partes interessadas, incluindo todos os envolvidos no desenvolvimento
+do jogo.
+O Tabletop Simulator ofereceu a vantagem de modificar rapidamente as regras do jogo,
+sem interferir no desenvolvimento em andamento. Essa flexibilidade permitiu ajustes e
+iterações constantes, melhorando a experiência de jogo e facilitando a identificação de
+problemas e possíveis melhorias. Além disso, o simulador possibilitou uma prototipagem
+ágil, permitindo a criação e teste eficientes de diferentes iterações do jogo. Essa abordagem contribuiu significativamente para o desenvolvimento iterativo e aperfeiçoamento das
+mecânicas e dinâmicas do jogo, enquanto proporcionava uma interação acessível e prática
+com os envolvidos no projeto.
+Figura 5 – A tela de menu inicial do Tabletop Simulator.
+23
+3 PROPOSTA
+Como apontado por (FISHMAN, 2006) a educação é um dos principais pilares para o
+sucesso no gerenciamento antimicrobiano, porém até setores mais especializados como farmacêuticos(TONNA etal., 2020)ou atéfísicoe enfermeiros(RAZZAQUE,2021) possuem
+conhecimentos defasados sobre o tema, o que demonstra que apesar dos esforços atuais
+para conter o surgimento de superbactérias, a população ainda possui um conhecimento
+crítico insuficiente sobre essa questão. Diante disso, o objetivo deste trabalho é apresentar
+um jogo eletrônico educativo destinado a estudantes do Ensino Médio. Essa ferramenta
+lúdica e interativa tem como propósito ensinar de maneira envolvente o conceito de superbactérias, como ocorre o seu surgimento e as medidas necessárias para combatê-las,
+bem como a importância do uso responsável de antimicrobianos. Ao proporcionar uma
+experiência de aprendizagem engajadora, o jogo capacita a população a adquirir conhecimentos essenciais para evitar práticas que favorecem o desenvolvimento de superbactérias,
+estimulando o pensamento crítico e a tomada de decisões conscientes.
+3.1 MOTIVAÇÃO
+Através do orientador deste trabalho, Geraldo Xexéo, foi estabelecido o contato com
+a professora e pesquisadora, Suellen de Oliveira, que havia desenvolvido um jogo feito
+no PowerPoint (OLIVEIRA et al., 2021a) para ensinar a estudantes sobre resistência
+antimicrobiana durante a pandemia. Então, foi sugerido que os integrantes do grupo
+aproveitassem esse trabalho para expandir a iniciativa e implementar uma versão digital e
+melhorada desse jogo. A versão no PowerPoint já havia sido apresentada em sala de aula,
+e portanto, já havia passado por uma pequena validação. Logo, a parceria foi aceita.
+3.2 O JOGO ORIGINAL
+O jogo original, descrito por Oliveira et al. (2021a), representava uma das quatro
+atividades de uma oficina de educação sexual (OLIVEIRA et al., 2021a). A cartilha
+utilizada nessa oficina pode ser vista no??. Nela, estão descritas as regras desse jogo. Dois
+jogadores assumiam o papel das bactérias em um jogo contra os antimicrobianos. Usando
+um baralho físico de Uno (MATTEL, 2023) removendo todas as cartas de fundo preto
+(apenas as cartas coloridas sobravam). Estas cartas foram divididas em dois baralhos,
+um que representaria as bactérias e outro os antimicrobianos. O início da partida era
+marcado quando um jogador mediador distribuía 5 cartas de bactérias pra cada jogador.
+Os jogadores então colocavam as bactérias viradas pra cima. Após isso, o mediador dava
+4 opções de cartas de antimicrobianos para cada jogador escolher 2 delas e jogar contra as
+24
+bactérias do adversário. Em seguida, a cor das cartas de antimicrobianos escolhidas eram
+comparadascomacordascartasdebactériasporcadajogador. Asbactériasquepossuíam
+cores iguais às cores do antimicrobiano possuíam mecanismos de resistência a eles e por
+issosobreviviam. Jáasdemaisbactériaserameliminadas, tendoseuversoviradopracima.
+As bactérias sobreviventes se reproduziam por reprodução binária, portanto cada jogador
+receberia um número de cartas variado nessa etapa. As novas cartas poderiam ser de
+cores diferentes, o que representava um processo de mutação entre uma geração e outra.
+Caso o jogador não tivesse nenhuma bactéria viva, ele recomeçava o jogo, desvirando
+as cartas da primeira fileira, que correspondiam à primeira geração de bactérias. Esse
+processo, tirando a distribuição inicial de bactérias, se repetia por 4 rodadas. O jogador
+pontuava por quantidade de bactérias vivas e por quantidade de mutações adquiridas. No
+fim, o jogador com mais pontos vencia. Posteriormente, uma versão do jogo fez parte da
+iniciativa iniciativaCienciArte no Ensino(OLIVEIRA et al., 2021b). Nesta nova versão
+o jogo possuía um baralho próprio com 60 cartas, 44 de bactérias e 16 de antimicrobianos,
+além de contar com novas regras e novas condições de vitória.
+Com o advento da pandemia causada pelo Coronavírus (HISCOTT et al., 2020) começou a se pensar em como continuar a distribuir a atividade mesmo com a limitação
+de isolamento. Surgiu então a ideia de se fazer uma versão digital do jogo, com o seu
+primeiro protótipo no PowerPoint.
+No jogo feito noPowerPoint, o usuário é situado no papel de um médico e precisa
+combater cartas de bactérias jogando cartas de antimicrobianos contra elas. Os mecanismos de resistência das bactérias são representados por suas cores, e, de forma análoga,
+os tipos de tratamentos dos antimicrobianos também são suas cores. Assim, quando uma
+bactéria vermelha, por exemplo, é atacada por um antimicrobiano também vermelho, isso
+quer dizer que ela possui mecanismos de resistência contra esse tratamento, e, portanto,
+ela sobrevive. Mas todas as bactérias de cores diferentes morrem. Além disso, o jogo funciona em rodadas, que possuem duas fases: a fase de ação do jogador e a fase de ação do
+tabuleiro. Na fase de ação do jogador, ele escolhe um antimicrobiano. Já na fase de ação
+do tabuleiro, as bactérias sobreviventes se reproduzem por reprodução binária (dobram
+em número) e também sofrem mutações (adquirindo cores adicionais, que representam
+novos mecanismos de resistência adquiridos. Quando não há mais bactérias presentes no
+tabuleiro, o jogo termina, selando a vitória do jogador e a derrota das bactérias. De maneira análoga, se os slides doPowerPoint acabarem e ainda houver bactérias no tabuleiro,
+o jogador perde.
+Noentanto, essaversãoapresentamuitaslimitações. Ojogadorpoderiaquebrarofluxo
+de jogo clicando fora dos antimicrobianos e avançando de slide. A quantidade limitada
+de páginas inviabilizava a construção de uma grande quantidade de cenários possíveis.
+Portanto, ofatorderejogabilidadeerabaixo, jáqueojogadorexperienciatodososcenários
+25
+possíveis do jogo em poucas gameplays. Além disso, o próprio trabalho de montar as fases
+e escolhas do jogador é demasiado custoso e pouco propenso a modificações.
+Na Figura 6, pode ser vista uma partida em andamento no protótipo noPowerpoint.
+Vemos uma bactéria amarela se reproduzindo e adquirindo um novo mecanismo de resistência, representado pela cor verde que se junta a ela. Em seguida, o jogador escolhe
+utilizar um antimicrobiano amarelo, que não tem efeito já que todas as bactérias em
+campo já possuem esta cor e portanto possuem mecanismos de resistência contra esse
+tratamento.
+Figura 6 – Versão inicial do jogo prototipada noPowerpoint pela professora Suellen de
+Oliveira. Fonte: Jogo em Powerpoint Superbactérias
+3.3 CONCEITO
+O jogo situa a jogadora no papel de uma médica que está atendendo pacientes infectados. A jogadora precisa realizar tratamentos com remédios antimicrobianos para eliminar
+as infecções. O desafio é acertar o tratamento correto que irá derrotar as bactérias, sem
+permitir que estas adquiram mecanismos de resistência aos tratamentos.
+A concepção inicial do nosso trabalho era que ele fosse um jogo educativo, pois os
+integrantes do grupo, além da paixão por jogos, já possuíam experiência prévia emgamedev, por fazer parte do grupo GDP-UFRJ. Além disso, acreditamos que projetar um
+jogo é uma boa forma de pôr em prática os ensinamentos adquiridos durante a graduação
+em Ciência da Computação, como arquitetura de software,frameworks de metodologias
+ágeis, engenharia de software, linguagens de programação,game engines, e mais. Optamos por pegar a primeira versão virtual do jogo, feita em PowerPoint, e fazer uma versão
+desenvolvida em Unity, dessa forma resolveríamos as principais dores do jogo inicial: aleatoriedade, quantidade de cenários possíveis, e também o trabalho envolvido em qualquer
+escalabilidade.
+Na Figura 7 temos a primeira versão feita na Unity, com a jogadora no papel de médica
+(como está na versão final) e sem as artes da versão final.
+26
+Figura 7 – Print do primeiro protótipo desenvolvido. Fonte: Os autores
+Na Figura 8 é mostrado como usamos a ferramenta do Tabletop Simulator para prototipar, mudar, testar e validar versões do jogo sem investir grandes quantidades de tempo,
+o que nos ajudou a chegar na versão demonstrada na Figura 9.
+Figura 8 –Print do protótipo desenvolvido no Tabletop Simulator. Fonte: Os autores
+Figura 9 – Tela da versão atual do jogo. Fonte: Os autores
+27
+3.4 ENDO-GDC
+O canvas Endo-GDC foi utilizado na concepção do jogo, contendo os seus objetivos
+pedagógicos, mecânicas, dinâmicas, estéticas e outros pontos do seu funcionamento. O
+canvas pode ser visto na Figura 10.
+Figura 10 – Canvas Endo-GDC do jogo Superbactérias. Fonte: Os autores
+3.5 OBJETIVOS PEDAGÓGICOS
+Esta seção abordará o conteúdo pedagógico do nosso jogo e também quais os objetivos
+pretendemos alcançar. Além da experiência lúdica, e através dela, temos como objetivo
+também combater a defasagem do conhecimento da população na importância do Gerenciamento de Antimicrobianos, já que a Educação é uma das 6 engrenagens que movem
+esse mecanismo (FISHMAN, 2006).
+O foco das informações trazidas e demonstradas no nosso jogo foram as mais relevantes
+para a conscientização e pensamento crítico do público alvo a respeito do tema. Essas
+informações são:
+• Usodesnecessárioeinapropriadodeantimicrobianos: Ojogodemonstraque,
+mesmo que um tratamento seja efetivo no combate de uma infecção, as bactérias que
+possuem mecanismos de resistência a ele sobrevivem, e continuam sendo capazes de
+se reproduzir. Ou seja, é simulada a pressão seletiva que é exercida sobre as bactérias
+quando submetidas a um tratamento antimicrobiano.
+28
+• Necessidade de novos remédios e vacinas:Esperamos que o jogador perceba
+que, uma vez que uma bactéria possui mecanismos de resistência contra um certo
+remédio, ela não pode ser eliminada com esse tratamento e precisa de novos remédios
+para lidar com a infecção. Além disso, uma das condições de derrota - o surgimento
+de uma superbactéria - tem o intuito de mostrar ao jogador que nenhum remédio
+do baralho é capaz de derrotar essa bactéria, e de gerar assim anseio por um novo
+medicamento.
+• Diagnósticos Aprimorados:As bactérias se encontram inicialmente viradas para
+baixo no tabuleiro e o jogador não possui informações sobre seus mecanismos de
+resistência. A mecânica de revelar a cor de uma bactéria após um antimicrobiano
+da mesma cor ser utilizado e também a carta da Nota da OMS têm como propósito
+demonstrar a necessidade de um diagnóstico preciso no tratamento de bactérias.
+3.6 O JOGO SEGUNDO O MODELO MDA
+O modelo MDA no projeto promoveu um entendimento mais preciso do jogo em desenvolvimento pois tornou mais claras as interseções entre o game design e o desenvolvimento.
+Uma tabela contendo as mecânicas, dinâmicas e estéticas foi criada para a versão no
+Powerpoint, que pode ser vista na Figura 11. Mas essa tabela, após sofrer modificações sucessivas, atingiu uma versão final para o jogo Superbactérias, que é descrita nas
+subseções abaixo.
+3.6.1 Mecânicas
+• Escolher um antimicrobiano (jogar uma carta).
+– Precisamosqueojogosimuleocomportamentodomédico, queescolheomelhor
+tratamento para o paciente.
+• O antimicrobiano escolhido mata as bactérias quenão são resistentes a ele.
+– Precisamos que a jogadora infira que o tratamento é ineficaz contra bactérias
+que possuem mecanismos de resistência contra ele.
+• Quando uma bactéria é atacada por um antimicrobiano para o qual possui mecanismo de resistência, a sua cor é revelada.
+– Queremos que o jogador descubra as informações das bactérias através da experimentação e da tentativa e erro.
+• Todas as bactérias sobreviventes se reproduzem por divisão binária.
+– Precisamos que o jogo simule a reprodução por divisão binária.
+29
+Figura 11 – Mecânicas, dinâmicas e estéticas da versão inicial do jogo prototipada no
+PowerPoint pelos autores do jogo original.
+• Quando uma bactéria se reproduz, existe uma chance de ela sofrer mutação
+– Precisamos que o jogo simule, simplificadamente, a mutação.
+• Na mutação, uma bactéria pode ganhar uma nova cor, ganhar mais poder, perder
+poder (mutação prejudicial) ou não acontecer nada (mutação neutra).
+– O jogo mostra que uma mutação é apenas uma modificação, não necessariamente uma "melhora", podendo inclusive ser prejudicial à bactéria.
+• O jogo é por turnos, compostos por fase de compra, fase de ação, fase de reprodução
+e fase de mutação.
+– O jogo é dividido em etapas claras para facilitar o entendimento do jogador.
+• O baralho de tratamentos tem antimicrobianos com 1 a 4 de poder, contendo 4
+duplicatas de cada antimicrobianos com cada valor e com cada uma das quatro
+cores. Além disso, também possui 10 cartas de Nota da OMS, totalizando 74 cartas.
+• O jogador compra apenas uma carta por turno, mas pode escolher qual comprar
+entreduascartasretiradasdotopodobaralho, masnoprimeiroturno, podecomprar
+duas entre quatro cartas mostradas.
+30
+• Ao ser comprada, uma carta de Nota da OMS realiza seu efeito imediatamente, que
+é revelar todas as informações acerca da bactéria desconhecida mais à esquerda no
+campo.
+– O jogo simula informações externas chegando ao conhecimento do médico que
+o auxiliam no tratamento.
+• Ao executar o efeito de uma carta de Nota da OMS, o jogador pode comprar mais
+uma carta do baralho de tratamentos.
+– O jogo convida a jogadora a planejar suas ações e a prever os seus resultados
+para os próximos turnos.
+• O baralho de bactérias tem bactérias com 1 a 4 de poder, contendo 4 duplicatas
+de cada bactéria com cada valor e com cada uma das quatro cores, totalizando 64
+cartas.
+• Ao iniciar o jogo, duas cartas de bactérias são sorteadas do baralho de bactérias e
+são postas em campo.
+– O paciente vem com uma infecção aleatória dentre um conjunto pré-montado
+de bactérias.
+• As cartas de bactéria (oriundas da compra na primeira rodada, ou de reprodução
+nas subsequentes) sempre vão para o tabuleiro com a sua face (que contém suas
+informações de poder e mecanismos de resistência) voltada para baixo.
+• O jogador perde exatamente três turnos após o surgimento da primeira superbactéria.
+– O jogo permite que se passem três turnos após o surgimento de uma superbactéria para que a jogadora entenda a dificuldade que a resistência bacteriana
+traz aos tratamentos de infecções.
+• O jogador perde quando o número de bactérias atinge 12.
+– Por conta da reprodução por divisão binária, chega um momento em que é
+impossível de vencer o jogo caso as bactérias acumulem muito poder.
+• Se ao final do tratamento do antimicrobiano, houver zero bactérias sobreviventes, o
+jogador venceu.
+• As bactérias só sofrem mutação a partir do terceiro turno. Porém, nesse turno, a
+chance de haver mutação é certa.
+31
+– Para evitar que a jogadora fique sobrecarregada com muitas informações, o
+jogo só permite que haja mutações a partir do terceiro turno. No entanto, a
+chance de ocorrer uma mutação nesse momento é certa, para garantir que o
+jogador experiencie um dos principais objetivos pedagógicos do jogo.
+• Cartas de Nota da OMS só aparecem a partir do quarto turno.
+– Como o item anterior, as cartas de OMS só aparecem a partir do quarto turno
+para evitar a sobrecarga de informações na jogadora.
+3.6.2 Dinâmicas
+• A cada turno, o jogador precisa lidar com o dobro de bactérias que ele não eliminou
+no turno anterior, graças à reprodução por divisão binária.
+• Se o jogador permitir que as bactérias acumulem mais de 4 de poder, as suas chances
+de vencer são pequenas, pois ele só pode aplicar antimicrobianos com no máximo 4
+de dose por turno.
+• O jogador pode estar perdendo, mas dar sorte de as bactérias ganharem mutações
+prejudiciais, e virar o jogo a seu favor.
+• O jogador pode se lembrar da cor de uma bactéria de uma pilha e inferir a cor de
+todo o resto da pilha. De forma análoga, também pode inferir sobre o poder da
+pilha.
+• Quando surge uma superbactéria, o jogador tenta eliminá-la mas não consegue.
+3.6.3 Estéticas
+• O jogo desafia o raciocínio lógico e a habilidade de planejamento do jogador.
+• Quando o jogador escolhe um antimicrobiano, ele precisa prever quais bactérias
+serão mortas e quais irão sobreviver.
+• O jogador pode entender a importância do uso correto de antimicrobianos no combate às superbactérias.
+• O jogador aprende o que deu errado quando perde uma partida, e pode melhorar
+seu desempenho em partidas futuras.
+• O jogador pode sentir que desbloqueou um final especial ao perder para uma superbactéria.
+32
+3.7 ESTRUTURA DO JOGO
+Foi criada uma outra versão baseada no protótipo dePowerPoint, porém usando a
+game engineUnity. Esta versão conta com um tabuleiro, cartas de bactérias que possuem
+cor, poder e mutações, e cartas de antimicrobianos que possuem cor e poder (dose). O jogo
+possui dois baralhos distintos: o baralho da jogadora (médica) e o baralho do tabuleiro
+(bactérias). O primeiro possui 64 cartas de antimicrobianos, com 4 cópias possuindo poder
+entre 1 e 4 e de cada uma das quatro cores, e mais 10 cartas de Nota da OMS, totalizando
+74 cartas. O baralho de bactérias, de forma análoga, possui 64 cartas de bactérias, com
+4 cópias possuindo de 1 a 4 de poder e de cada uma das cores.
+A partida se passa em turnos, alternando entre a vez do jogador e a vez do tabuleiro
+(bactérias). Cada turno é composto pelas seguintes fases: compra, ação, reprodução e
+mutação.
+O primeiro turno da partida inicia-se pela geração das bactérias, em que o "tabuleiro"puxa 2 cartas do baralho de bactérias e as coloca viradas para baixo, sem que o
+jogador saiba quais são essas cartas. Isso representa a infecção que acomete o paciente.
+Além disso, na fase de compra do primeiro turno da partida, o jogador puxa 4 cartas
+do baralho de antimicrobianos, e deve escolher 2 delas para irem para a sua mão. As
+outras duas que não forem escolhidas voltam para o fundo do baralho.
+Depoisdisso, nosturnossubsequentes, asetapasocorremdaseguintemaneira, repetindose até o final do jogo:
+• Vez do jogador:
+– Fase de Compra:O jogador olha duas cartas do topo do baralho de tratamentos e escolhe uma para comprar.
+– Fase de Ação:O jogador escolhe uma carta de antimicrobiano da sua mão
+para jogar no tabuleiro. O remédio atinge as bactérias da esquerda pra direita,
+pela ordem em que elas estão dispostas no tabuleiro. Primeiro é checado se a
+bactéria possui mecanismo de resistência ao remédio jogado. Caso possua, a cor
+da bactéria é revelada, caso contrário o valor de poder da bactéria é descontado
+do valor de poder (dose) do remédio. Caso a dose do remédio chegue a 0, Ele
+para de atacar as bactérias e a fase de ação termina. Caso o valor de poder da
+bactéria atacada chegue a 0 antes do poder do remédio chegar a 0, a bactéria
+é eliminada e o remédio age na nova bactéria mais à esquerda.
+• Vez do tabuleiro:
+– Fase de Reprodução:As bactérias sobreviventes se reproduzem por divisão
+binária.
+33
+– Fase de Mutação: As bactérias geradas através da divisão binária sofrem
+mutação, caso sejam eleitas para isso pelo algoritmo probabilístico do jogo.
+Durante a fase de compra, quando uma carta de Nota da OMS for apresentada ao
+jogador, o seu efeito é resolvido imediatamente, que consiste em revelar as informações
+(mutações e valor de poder) da bactéria com propriedades desconhecidas mais à esquerda
+no tabuleiro.
+O final da partida só acontece quando uma condição de derrota ou de vitória acontece.
+Nesse momento um texto explicando o motivo da vitória ou da derrota é apresentado ao
+jogador.
+• Condição de vitória: Derrotar todas as bactérias em campo
+– Texto explicativo:"Você venceu! Parabéns por derrotar as bactérias!"
+• Condição de derrota 1: O número de bactérias vivas atingir o valor 12
+– Texto explicativo:"Que pena! As bactérias levaram a melhor. As bactérias
+ficaram numerosas demais e saíram do controle."
+• Condição de derrota 2: Surgir uma superbactéria no tabuleiro
+– Texto explicativo:"Que pena! As bactérias levaram a melhor. O surgimento
+de uma superbactéria impediu o tratamento."
+Para evitar que o jogador fique sobrecarregado com muitas informações logo de início,
+a mutação só acontece a partir do terceiro turno. No entanto, nesse turno, a chance de
+haver mutação é certa, para garantir que o jogador experiencie esse conteúdo importante
+do jogo. A carta de Nota da OMS só aparece a partir do quarto turno.
+Existem momentos chaves do jogo onde aparecem na tela textos explicativos referentes
+ao que acabou de acontecer no jogo, com o intuito de tornar claro para o jogador o que
+está acontecendo. Esses momentos e seus respectivos textos informativos estão listados
+abaixo:
+• A jogadora compra cartas de tratamento pela primeira vez:"Clique sobre
+um antimicrobiano para usá-lo no tratamento das bactérias. Caso uma bactéria
+possua mecanismos de resistência contra ele, a sua cor será revelada! Caso contrário,
+ela será suscetível ao antimicrobiano selecionado."
+• A cor de uma bactéria é revelada pela primeira vez:"Uma das bactérias
+possuía mecanismos de resistência contra o antimicrobiano aplicado, e por isso a
+sua cor foi revelada! Agora, haverá um aumento do número de bactérias resistentes a essa classe de antimicrobianos na população. As bactérias não dependem dos
+34
+antimicrobianos para terem os seus mecanismos de resistência. Mas os antimicrobianos podem promover a seleção das bactérias resistentes. Os principais mecanismos
+de resistência aos antimicrobianos são: alteração de permeabilidade, degradação
+enzimática, alteração no sítio alvo, bomba de efluxo e alteração enzimática."
+• A primeira reprodução binária acontece:"Está ocorrendo a reprodução bacteriana por divisão binária! Os genes de resistência estão sendo compartilhados, e
+as bactérias resistentes estão aumentando em número!"
+• A primeira mutação acontece:"Através da mutação, bactérias podem adquirir novos mecanismos de resistência! Na mutação, a sequência de aminoácidos da
+proteína pode ser alterada em decorrência da adição, deleção ou substituição de um
+nucleotídeo."
+• A primeira carta de Nota da OMS aparece:"Você recebeu uma nota da OMS!
+Através dessa nota, você é capaz de revelar todas as informações de uma bactéria."
+• Uma superbactéria aparece pela primeira vez: "Uma das bactérias acaba
+de se tornar uma superbactéria! Isso quer dizer que ela possui mecanismos de
+resistência contra todas as classes de antimicrobianos. Ou seja, nenhum tratamento
+ao nosso alcance irá funcionar nela."
+• Quando as bactérias acumulam pelo menos 8 de poder somado:"Ah não!
+As bactérias estão fortes demais! A partir de agora será difícil controlar o seu
+avanço."
+3.8 CASO DE USO
+Nesta seção, será exibido um caso de uso de uma partida da versão final do jogo.
+Ao abrir o jogo, é exibida a tela de menu inicial, que pode ser vista na Figura 12. Para
+jogar, o jogador toca em "Jogar".
+O jogo exibe a tela degameplay. Primeiramente, toca-se uma animação com um texto
+na tela escrito "Derrote as bactérias!", que pode ser visto na Figura 13.
+Então, inicia-se etapa de compra do primeiro turno, na qual o jogador deve olhar 4
+cartas do seu baralho e escolher 2 para comprar. As 4 cartas sorteadas podem ser vistas
+na Figura 14.
+O jogador escolhe comprar as cartas de antimicrobianos vermelho e azul com o valor
+4 de poder. O estado do tabuleiro, depois dessa escolha, pode ser visto na Figura 15.
+Em seguida, na etapa de ação, o jogador escolhe jogar a carta de antimicrobiano azul
+com valor 4 de poder, para atacar as bactérias. Uma das bactérias tem a sua cor revelada
+- azul - a mesma cor do antimicrobiano utilizado. Por possuir o mecanismo de resistência
+azul, essa bactéria não sofre o efeito da carta utilizada. Mas a outra bactéria não era
+35
+Figura 12 – Tela inicial da versão final do jogo.
+Figura 13 – Texto inicial dogameplay da versão final do jogo.
+azul, e, por ter o valor 2 de poder, é derrotada. O resultado dessa jogada pode ser visto
+na Figura 16.
+Em seguida, o turno prossegue com a etapa de reprodução - a bactéria sobrevivente se
+reproduz - e com a etapa de mutação - onde a bactéria gerada tem uma chance de sofrer
+mutação - mas dessa vez ela não sofre mutação.
+36
+Figura 14 – 4 cartas sorteadas na etapa de compra do primeiro turno.
+Figura 15 – Estado do tabuleiro após a etapa de compra do primeiro turno.
+O turno seguinte inicia-se com a etapa de compra, que pode ser vista na Figura 17. A
+carta escolhida pelo jogador é a carta de amtimicrobiano verde com valor 3 de poder.
+Na etapa de ação seguinte, o jogador lança a carta de antimicrobiano vermelho com
+valor4depodernasbactérias, derrotandoumadasbactériasazuiscompoder3, edeixando
+a outra viva, sobrando 2 de poder nela. O resultado dessa jogada pode ser visto na
+37
+Figura 16 – Estado do tabuleiro após a etapa de ação do primeiro turno.
+Figura 17 – Fase de compra do segundo turno.
+Figura 18. No restante do turno, a bactéria sobrevivente azul com valor 2 de poder se
+reproduz, dando origem a outra igual.
+No terceiro turno, o jogador compra uma carta de antimicrobiano vermelho com valor
+4 de poder. E, na fase de ação, é essa carta que ele escolhe para jogar contra as bactérias.
+As duas bactérias azuis com valor 2 de poder são derrotadas, como pode ser visto na
+38
+Figura 18 – Resultado da fase de ação do segundo turno.
+Figura 19. Por fim, o jogador vence a partida, por ter derrotado todas as bactérias. A
+tela de vitória exibida pode ser vista na Figura 20.
+Figura 19 – Resultado da fase de ação do terceiro turno.
+39
+Figura 20 – Tela de vitória jogo.
+40
+4 IMPLEMENTAÇÃO DO JOGO SUPERBACTÉRIAS
+Neste capítulo, será feita uma exposição dos principais sistemas presentes no jogo, e
+serão apresentados os principais pontos da sua implementação. Na seção 4.1, expomos
+como o design pattern MVC foi utilizado no projeto; e na seção 4.2 entramos em detalhes
+sobre o sistema GameSteps.
+4.1 ARQUITETURA MODEL-VIEW-CONTROLLER
+Os programas que ditam o gameplay principal do jogo, isto é, bactérias, antimicrobianos, turnos, mutações, baralhos, etc, foram modelados de acordo com odesign pattern
+Model-View-Controller (MVC). Portanto, a arquitetura separa as representações internas
+das informações (model) da forma como elas são apresentadas aos jogadores (view) e da
+lógica usada para processar essas informações (controller).
+Os diagramas nas próximas subseções exibem como as classes estão organizadas de
+acordo com essedesign pattern. Também será possível notar que, quando há uma relação
+de dependência entre uma classe e outra, há uma preferência por essa dependência ser
+uma classe abstrata. Essa decisão de engenharia de software foi motivada pelo princípio
+"Dependency Inversion"(inversão de dependência), um dos cinco princípios SOLID. Depender de interfaces e classes abstratas garante que o código esteja bem preparado para
+sofrer extensões, facilitando a sua manutenibilidade.
+4.1.1 Models
+As classes sob a categoria Model são as representações de como as informações do jogo
+estão modeladas. Ou seja, são a modelagem do problema.
+A Figura 21 mostra que as cartas herdam de uma classe abstrata Card, que se especializa em CombatantCard e SurgeCard. CombatantCards são as cartas de antimicrobianos e
+bactérias, ou seja, as cartas que "lutam"umas contra as outras. As SurgeCards são aquelas
+cujo efeito é resolvido imediatamente, no momento em que são puxadas do baralho durante a fase de compra. No jogo, a única implementação de SurgeCard é a RevealerCard,
+que é a carta de Nota da OMS.
+Além disso, a classe CardRepository é um ScriptableObject responsável por armazenar um dado conjunto de cartas em tempo de execução. No jogo, são utilizados dois
+CardRepositories: um para as bactérias vivas e outro para as cartas que estão na mão do
+jogador.
+A Figura 22 exibe as duas classes de baralhos existentes: o baralho de tratamentos
+(cartas que o jogador compra) e o baralho de bactérias, ambas herdando da classe abstrata
+Deck.
+41
+Figura 21 – Diagrama mostrando a arquitetura escolhida para as classes que representam
+as cartas do jogo.
+Figura 22 – Diagrama mostrando a arquitetura escolhida para as classes que representam
+os baralhos do jogo. Fonte: Os autores
+A Figura 23 mostra a arquitetura dos diferentes tipos de mutações que as bactérias
+podem possuir no jogo. Mutações prejudiciais são aquelas em que a bactéria perde poder.
+Mutações neutras não afetam a bactéria em nada. Já as mutações benéficas se especializam em dois tipos diferentes: aquelas que concedem uma cor nova (um novo mecanismo
+de resistência) e aquelas que dão mais poder.
+4.1.2 Controllers
+As classes sob a categoria Controller implementam a lógica sob a qual as informações
+modeladas nas classes Model são manipuladas. É aqui que está codificado o game design.
+42
+Figura 23 – Diagrama mostrando a arquitetura escolhida para as classes que representam
+as mutações das bactérias. Fonte: Os autores
+Figura 24 – Diagrama mostrando a arquitetura escolhida para as diferentes fases de cada
+turno do jogo. Fonte: Os autores
+A Figura 24 mostra as quatro diferentes fases de cada turno: fase de compra, fase de
+ação, fase de reprodução e fase de mutação. Todas elas herdam de uma classe abstrata em
+comum: PhaseController. Porém, as classes BuyPhaseController e ActionPhaseController
+herdam de uma classe abstrata intermediária, a WaitPlayerChooseCardBehaviour. Esta
+implementa a lógica de esperar o input do jogador antes de prosseguir com o jogo.
+4.1.3 Views
+As classes sob a categoria View implementam a lógica sob a qual as informações
+modeladas nas classes Model são exibidas na tela, ou seja, fazem a ponte entre o game
+design e a engine Unity.
+43
+Figura 25 – Diagrama mostrando a arquitetura escolhida para as Views das cartas do
+jogo. Fonte: Os autores
+A Figura 25 mostra que existem duas Views principais para as cartas: BacteriaCardView e TreatmentCardView. Ambas herdam de CombatantCardView, que herda de
+CardView. Essas classes possuem a responsabilidade de, tendo as informações de uma
+dada carta, exibi-la na tela do jogo.
+Figura 26 – Diagrama mostrando a arquitetura escolhida para os CardSets. Fonte: Os
+autores
+A Figura 26 mostra a arquitetura escolhida para os CardSets. Essas classes implementam a lógica de exibir na tela um conjunto de várias CardViews. Esses conjuntos
+se especializam em diferentes tipos: CardGridView exibe cartas numa grid que pode ser
+customizada de acordo com alguns parâmetros; CardPileRowView cuida de exibir uma
+linha de pilhas de cartas; e CardPileView cuida de exibir cartas numa pilha. CardPileRowView e CardPileView são usadas nas pilhas de bactérias. É interessante notar que
+todo CardSet utiliza um CardRepository, pois ele necessariamente pega as cartas de um
+dado repositório e as exibe na tela.
+44
+Figura 27 – Diagrama mostrando a arquitetura escolhida para MutationViews.
+Por fim, a Figura 27 mostra a arquitetura para as Views das mutações das bactérias.
+É um diagrama simples, possuindo apenas duas classes, MutationListView, uma lista
+de Views de mutações, que é utilizada pela BacteriaCardView para mostrar a lista de
+mutações de uma dada bactéria, e MutationView, que é utilizada pela MutationListView
+para mostrar uma mutação individual.
+4.2 SISTEMA GAMESTEPS
+Foi criado o sistema de GameSteps para ser possível customizar mais facilmente o
+funcionamento geral do jogo e suas etapas. Através desse programa, os desenvolvedores
+conseguem definir etapas de inicialização, animações, condições, e outras lógicas como
+estruturas de repetição sem acoplamento de código, com fácil manutenibilidade e com
+flexibilidade.
+Cada implementação da classe abstrata GameStep pode ser virtualmente qualquer
+coisa que os devs precisem executar numa etapa definida do jogo. Por exemplo, se queremos que os baralhos sejam inicializados ao início do gameplay, então podemos criar
+uma implementação de GameStep responsável por isso e configurá-la para ser chamada
+ao começo do jogo. Também podemos criar um GameStep que executa outros GameSteps
+dentro dele: ele pode receber uma lista de outros GameSteps e os executar enquanto uma
+condição for verdadeira (imitando o funcionamento de umwhile-loop).
+O sistema de GameSteps se destaca pelo uso do princípio ”Single Responsibility” (responsabilidade única) do SOLID. Ou seja, ao invés de criar uma classe monolítica chamada
+GameManager (como geralmente é feito) que cuida de quase tudo do jogo, os funcionamentos foram decompostos em classes atômicas e desacopladas com uma única responsabilidade. Isso garante que ao modificar um dado ponto do jogo, não exista o risco de
+outra coisa quebrar em outro lugar.
+45
+Código 1 – Implementação da classe GameStep
+namespace SuperbacteriasCode . Controllers . GameSteps . Base
+{
+public abstract class GameStep : MonoBehaviour
+{
+public abstract Task <bool > RunStepLogic ();
+}
+}
+A classe GameStepsRunner é a responsável por executar todos os GameSteps do jogo,
+recebendo uma lista de GameSteps (classe abstrata, respeitando o princípio "Dependency
+Inversion") e executá-la em ordem. A customização por trás de tudo está na forma
+como essa lista será montada e ordenada. Como pode ser visto no Código 2, essa lista
+é serializada e portanto pode ser inicializada a priori pelos desenvolvedores através do
+Inspector da Unity (a solução de injeção de dependência da engine).
+Código 2 – Implementação da classe GameStepsRunner
+namespace SuperbacteriasCode . Controllers . GameSteps
+{
+public class GameStepsRunner : MonoBehaviour
+{
+[ SerializeField ] private List < GameStep > _steps ;
+public async void RunSteps ()
+{
+foreach ( var step in _steps )
+{
+if (! await step . RunStepLogic ())
+{
+return ;
+}
+}
+}
+}
+}
+Para criar estruturas de repetição com GameSteps, foram criadas as classes GameStepSet (um GameStep abstrato que possui um conjunto de outros GameSteps), GameStepLinearSet (extensão de GameStepSet, utiliza o conjunto de GameSteps para executá-los
+de forma linear) e GameStepLoopSet (outra extensão de GameStepSet, utiliza o conjunto
+de GameSteps para executá-los enquanto uma dada condição for verdadeira). Como essas
+classes herdam de GameStep, elas podem ser alimentadas ao GameStepsRunner para criar
+estruturas mais complexas de funcionamento. A arquitetura escolhida para essas classes
+46
+Figura 28 – Diagrama mostrando a arquitetura escolhida para os Sets de GameSteps.
+Fonte: Os autores
+está exibida na Figura 28. A implementação dessas classes pode ser vista no Código 3,
+Código 4 e Código 5.
+Código 3 – Implementação da classe GameStepSet
+namespace SuperbacteriasCode . Controllers . GameSteps . GameStepSets . Base
+{
+public abstract class GameStepSet : GameStep
+{
+[ SerializeField ] protected List < GameStep > _gameSteps = new ();
+}
+}
+47
+Código 4 – Implementação da classe GameStepLinearSet
+namespace SuperbacteriasCode . Controllers . GameSteps . GameStepSets .
+Implementation
+{
+public class GameStepLinearSet : GameStepSet
+{
+public override async Task <bool > RunStepLogic ()
+{
+foreach ( var step in _gameSteps )
+{
+if (! await step . RunStepLogic ())
+{
+return false ;
+}
+}
+return true ;
+}
+}
+}
+48
+Código 5 – Implementação da classe GameStepLoopSet
+namespace SuperbacteriasCode . Controllers . GameSteps . GameStepSets .
+Implementation
+{
+public class GameStepLoopSet : GameStepSet
+{
+[ SerializeField ] private BoolReactiveScriptable
+_loopWhileCondition ;
+public override async Task <bool > RunStepLogic ()
+{
+while ( _loopWhileCondition != null && _loopWhileCondition .
+Value )
+{
+foreach ( var step in _gameSteps )
+{
+if (! await step . RunStepLogic ())
+{
+return false ;
+}
+}
+}
+return true ;
+}
+}
+}
+A Figura 29 mostra as demais classes concretas que herdam de GameStep que se responsabilizam por funcionamentos específicos do jogo Superbactérias. A Figura 30 mostra
+a forma e ordem em que essas classes concretas são passadas ao GameStepsRunner para
+serem executadas. Os GameSteps dentro de GameStepLoopSet são executados em loop
+enquanto a condição IsGameActive é verdadeira. Essa condição se torna falsa quando uma
+condição de vitória ou derrota é atingida. E os GameSteps dentro de GameStepLinearSet
+são executados em sequência.
+49
+Figura 29 – Diagrama mostrando as classes concretas que herdam de GameStep. Fonte:
+Os autores
+50
+Figura 30 – Diagrama mostrando a ordem em que as classes concretas de GameStep são
+organizadas no projeto para dar origem ao funcionamento do jogo. Fonte: Os
+autores
+51
+5 AVALIAÇÃO DO JOGO COMO FERRAMENTA EDUCACIONAL
+Neste capítulo, apresentamos a validação do jogo Superbactérias como uma ferramenta
+pedagógica para conscientizar acerca do problema global das superbactérias. Avaliamos a
+adequação do jogo e seu impacto na conscientização sobre resistência bacteriana no meio
+escolar.
+5.1 METODOLOGIA
+A metodologia de validação foi realizar sessões deplaytest do jogo com turmas de
+Ensino Médio, em que cada participante, depois de jogar o jogo, preenche um formulário
+de feedback elaborado pelos autores desse trabalho.
+Embora o jogo virtual tenha sido planejado num contexto de pandemia, o cenário atual
+permitia que apresentássemos o jogo presencialmente em sala. Tivemos a preferência
+de irmos presencialmente pra conseguir ministrar o playtest de forma a maximizar o
+entendimento dos objetivos e minimizar a chance de voluntários incapazes de jogar por
+motivos técnicos.
+O planejamento inicial das sessões era da seguinte maneira: 10 minutos reservados
+para preparação dos dispositivos que executariam o jogo; 25 minutos para os voluntários
+explorarem o jogo; e 15 minutos para os participantes responderem o formulário, totalizando 50 minutos deplaytest. Apesar disso, um dos pontos a serem observados era se esse
+planejamento temporal estaria de acordo com o tempo efetivo que a dinâmica precisaria.
+Além disso, cada sessão possuiria pelo menos um autor do trabalho presente em sala de
+aula para esclarecer dúvidas em relação ao jogo e ao objetivo do estudo.
+As validações ocorreram em 2 datas, e em 2 colégios diferentes diferentes:
+• Colégio Estadual Amaro Cavalcanti, no dia 04/08/2023, com um clube de ciências
+formado por alunos do primeiro e segundo ano.
+• Colégio Estadual Rui Barbosa, no dia 08/08/2023, na parte da manhã com turmas
+de primeiro e segundo ano.
+A realidade foi bem diferente do que o esperado. Em ambas as escolas, os estudantes
+não possuíam acesso awifi, portanto o download do jogo para seus dispositivos foi feito
+através do pacote de dados dos alunos dispostos a gastarem e também a partir do pacote
+de dados dos autores, compartilhando viahotspot. O fato de existir muitos dispositivos
+baixando ao mesmo tempo sobrecarregou o hotspot, causando lentidão no download e
+atraso no tempo de preparação dos dispositivos (planejado inicialmente como uma etapa
+de 10 minutos). A dificuldade de acesso à Internet dificultou também o acesso dos alunos
+ao questionário, em ambas a validações. Na segunda validação o problema do acesso à
+52
+Internet foi mais agravado ainda, pois o pacote de dados do autor presente acabou durante
+a dinâmica, o que acarretou em 30 minutos adicionais apenas tentando contratar um novo
+serviço de dados para que os dispositivos ficassem prontos.
+O plano inicial também contava com a validação acontecer em 4 dias diferentes, com
+mais 2 dias de validação no CE Rui Barbosa. Mas ao final do segundo dia de validação já
+tínhamos44respostas, oquesinalizavaquedentretodososalunosdispostosaatividade, 44
+optaram por jogar o jogo e responder ao questionário, e definimos que era uma quantidade
+suficiente de respondentes, baseado em análise estatística das possibilidades.
+A fórmula para cálculo do tamanho da amostra, considerando margem de erro (E) e
+nível de confiança (C), é dada por:
+n = Z2 · p · (1 − p)
+E2
+Supondo uma margem de erro de 5% (E = 0.05) e nível de confiança de 95%, a amostra
+ideal seria cerca de 385 voluntários. No entanto, dadas as limitações da população e
+recursos, a amostra de 44 é uma escolha pragmática.
+A diferença nas margens de erro é evidente. Para a amostra de 44, a margem de erro
+(E) é dada por:
+E = Z ·
+r
+p · (1 − p)
+n
+Assumindo p = 0.5 (máxima incerteza) en = 44, o cálculo resulta em uma margem
+de erro aproximada de 0.135 ou 13.5%.
+Comparandoessamargemdeerrocomotamanhoteóricodaamostra(385voluntários),
+a margem de erro seria cerca de 4.9%.
+A diferença nas margens de erro reflete a maior incerteza associada à amostra de
+44, devido ao seu tamanho menor. Contudo, considerando as limitações práticas, como
+condições precárias de acesso à Internet para estudantes da rede estadual e a estimativa
+de obtenção máxima de 100 voluntários, que baixaria a margem de erro para 9.54%, a
+margem de erro de 13.5% foi considerada, após conversa com os orientadores, aceitável.
+Portanto, o esforço necessário para coletar uma amostragem maior não se justificou.
+5.2 PERFIL DOS VOLUNTÁRIOS
+A nossa pesquisa seguiu a proposta visando estudantes do Ensino Médio, com base na
+versão original que utilizava a bactéria da gonorreia como objeto de estudo (OLIVEIRA
+et al., 2021a). Mesmo considerando a faixa etária relativamente homogênea no Ensino
+Médio, coletar dados sobre a variação de idades nos permitiu compreender melhor o perfil
+dos alunos voluntários.
+Foi perguntado, no formulário, se os voluntários já haviam estudado previamente os
+temas abordados no jogo, a fim de identificar os casos em que os estudantes nunca haviam
+53
+ouvido falar sobre resistência antimicrobiana, já que, além de ser um problema de saúde,
+o problema das superbactérias também é um problema educacional.
+Além disso, buscamos correlacionar a facilidade e familiaridade dos alunos com as
+matérias que compõem o currículo atual do Ensino Médio. Essa análise nos permitirá
+avaliar a interseção entre a temática do jogo e o conteúdo educacional oferecido na escola.
+5.2.1 Voluntários/Idade
+Figura 31 – Gráfico que mostra a quantidade de voluntários de cada idade. Fonte: Site
+meta-chart alimentado com os dados fornecidos pelos voluntários através do
+questionário
+Como é possível ver na Figura 31 a faixa etária dos voluntários variou de 14 a 18 anos.
+Com a grande maioria de voluntários entre 16 e 17 anos.
+5.2.2 Voluntários/Ano
+A Figura 32 reforça que a validação foi feita apenas em turmas do 1º e 2º ano, embora
+a validação tenha sido planejada para todo o ensino médio. Por isso o formulário contava
+com uma opção de 3º ano mesmo que esta resposta não tenha sido utilizada.
+54
+Figura 32 – Gráfico que mostra a quantidade de voluntários de matriculado em cada ano.
+Fonte: Gerado pelo Google Forms
+5.2.3 Voluntários/Preferência/Facilidade
+A Figura 33 mostra que a maioria dos voluntários tem preferência mais facilidade com
+a matéria de Matemática, com 20.5% de interesse e 29.5% de facilidade. Em segundo
+lugar no interesse temos História e em facilidade Biologia.
+55
+Figura 33 – Gráficos que mostram a quantidade de voluntários com preferência e facilidade por cada matéria. Fonte: Gerado pelo Google Forms
+5.3 PERGUNTAS NÃO RELACIONADAS AO PERFIL
+É importante destacar que haverá uma análise quantitativa das respostas discursivas
+desde que elas se mostrem com uma grande similaridade em um número expressivo da
+amostra(acimade40%). Sendoassim, apartediscursivaserácompostaemgrandemaioria
+por divisão das repostas em categorias e as que mais apareceram dentro da categoria.
+5.3.1 O que você aprendeu com o uso do jogo?
+Escolhemos começar a pesquisa com essa pergunta para não corrermos o risco de
+influenciar essa resposta com as questões múltipla escolha que aparecem mais à frente.
+56
+Praticamente todas as respostas possuíam uma referência a particularidades das bactérias
+("bactérias se multiplicam", "bactérias se reproduzem", "aprendi a matar bactérias") ou
+"aprendi sobre bactérias"de uma forma mais geral.
+5.3.2 O que você não entendeu do jogo?
+A maioria dos voluntários disse ter entendido tudo sobre o jogo. Entre os destaques
+estão os voluntários que disseram não entender o que as cores dos remédios e/ou bactérias
+significavam.
+5.3.3 O que você removeria do jogo?
+A maioria das respostas consistia em dizer que não removeria nada. Tivemos 4 respostas dizendo que removeriam elementos conectados as explicações: "Eu removeria os
+bonecos", "modo lento de história", "As explicações repetidamente", "O bonequinho q
+fica falando. Ele podia aparecer só nas duas primeiras partidas"
+5.3.4 O que você mudaria ou adicionaria no jogo?
+Aqui tivemos algumas sugestões. Sobre adicionar mais fases, sugestões de balanceamento com mais remédios ou mais bactérias e até sugestões de game design como efeitos
+colaterais de remédio. Aqui também se repetiu a observação sobre explicações das cores
+de remédios e bactérias.
+5.3.5 Você achou o jogo apropriado para a sua faixa etária?
+42 dos 44 voluntários acreditam que o jogo seja apropriado para sua faixa etária, como
+é possível ver na Figura 34.
+5.3.6 Quais dos termos abaixo você já tinha ouvido falar antes do jogo?
+Na figura Figura 35 Podemos ver que boa parte dos alunos já havia ouvido falar
+sobre o termo superbactérias. Isso já era esperado, pois um dos grupos de voluntários (26
+respostas) já havia jogado o jogo original com a professora Suellen. Mas apenas 9 de todos
+os alunos, inclusive os que faziam parte das turmas que já haviam jogado o jogo original,
+lembravam de já ter ouvido falar do termo reprodução por divisão binária. Reforçando a
+necessidade de se discutir o tema e também a a importância de ferramentas pedagógicas
+para auxiliar na conscientização do problema das superbactérias.
+57
+Figura 34 – Gráfico que mostra a impressão dos voluntários sobre a sua faixa etária e a
+proposta do jogo. Fonte: Gerado pelo Google Forms
+Figura 35 – Gráfico que mostra quantos voluntários já haviam ouvido falar sobre o termo
+anteriormente. Fonte: Gerado pelo Google Forms
+5.4 RESULTADOS
+5.4.1 Em uma escala de 1 a 5, sendo 1 pouco relevante e 5 muito relevante,
+como você avalia a capacidade do jogo em mudar sua percepção sobre
+os seguintes temas?
+Na Figura 36 é possível ver um impacto positivo em 3 dos 4 temas chaves, mas o
+tópico Uso desnecessário e inapropriado de antimicrobianosnão teve sofreu um
+58
+impacto tão positivo quanto os outros, podendo assim ser um tópico de mais atenção em
+futuras versões do jogo.
+Figura 36 – Gráfico que mostra a influência do jogo na percepção sobre os temas chave.
+Fonte: Gerado pelo Google Forms
+5.4.2 Depois de jogar o Superbactérias, a sua curiosidade sobre o tema aumentou?
+Figura 37 – Gráfico que mostra a mudança no interesse sobre o tema central: Superbactérias. Fonte: Gerado pelo Google Forms
+50% dos voluntários teve aumento de interesse pelo tema após a demonstração do
+jogo e apenas 1 voluntário teve seu interesse reduzido. Isso mostra que como ferramenta
+educacional o jogo tem utilidade para instigar a curiosidade dos alunos sobre o tema
+abordado.
+59
+5.5 CRÍTICAS E MELHORIAS
+As melhorias que identificamos mas ainda não havíamos atingindo a maturidade de
+desenvolvimento foram:
+• Acessibilidade Visual e Auditiva:Não há preocupação com componentes inclusivos. Não levamos em conta por exemplo a questão do daltonismo na escolha da
+paleta de cores, foram baseadas no jogo analógico original que se baseou nas cores
+do Uno. (OLIVEIRA et al., 2021a)
+• UX/UI: Animações entre eventos, tamanho de fonte, estudos sobre a escolha da
+fonte.
+5.5.1 Em uma escala de 1 a 5, sendo 1 muito baixo e 5 muito alto, como você
+avalia os seguintes pontos do jogo
+Utilizamos dessa pergunta no questionário para identificarmos de maneira quantitativa
+em quais pontos o jogo estava satisfatório e quais ele poderia melhorar. Como é visto na
+Figura 38 o ponto mais forte do jogo foi o aprendizado, se mostrando um bom aliado
+como ferramenta pedagógica.
+Figura 38 – Gráfico que mostra a percepção dos voluntários sobre os elementos do jogo.
+Fonte: Gerado pelo Google Forms
+5.5.2 Você teve algum problema técnico pra executar ou durante a execução
+do jogo? (Travamentos, imagens fora do lugar, mensagens de erro)
+Mais de 40% dos voluntários experimentaram algum tipo de problema técnico na execução do jogo, o que destaca uma atenção necessária para resolução de bugs e otimizações.
+60
+Figura 39 – Gráfico que mostra a porcentagem de voluntários que relataram algum bug
+durante oplaytest. Fonte: Gerado pelo Google Forms
+61
+6 CONCLUSÃO
+Este trabalho apresenta uma proposta de jogo educacional com o objetivo de conscientizar estudantes do Ensino Médio acerca do problema global das superbactérias e
+da resistência antimicrobiana. Entende-se que esse problema abrange, além da área da
+saúde, a área da educação. O jogo, em seu estado atual, foi desenvolvido para celulares
+Android e simula um profissional da área da saúde administrando um tratamento contra
+bactérias que possuem variados mecanismos de resistência antimicrobiana. Dessa forma,
+o principal objetivo pedagógico do jogo é mostrar ao jogador que o uso indiscriminado de
+antimicrobianos exerce uma pressão seletiva favorecendo a proliferação de bactérias que já
+possuem mecanismos de resistência contra os antimicrobianos utilizados, comprometendo
+a eficácia de tratamentos futuros que utilizem antimicrobianos da mesma classe.
+Para validar a hipótese de que o jogo funciona como ferramenta educacional, foram
+ministradas algumas sessões de playtest com turmas de estudantes do Ensino Médio,
+que jogaram o jogo e responderam um formulário defeedback. A análise dos resultados
+mostrou que, mesmo com parte do grupo já tendo jogado a versão analógica do jogo, uma
+porcentagem significativa (79.1%) ainda não possuía conhecimento sobre alguns temas que
+o jogo aborda, como foi o caso da reprodução por divisão binária. Além disso, 50% dos
+voluntários indicaram que o interesse deles sobre o assunto aumentou após jogar o jogo.
+O Superbactérias recebeu pontuações boas em todos os seus elementos, com destaque
+para o aprendizado onde dos 44 voluntários, 9 deram nota 3, 13 nota 4, e 22 nota 5, com
+notas variando entre 1 e 5, resultando numa média de 4,29. Esses indicadores mostram
+a capacidade de jogos lúdicos instigarem o conhecimento dos alunos sobre os temas que
+os jogos abordam. Além disso, também mostra que embora o Superbactérias seja apenas
+um projeto de jogo, teve avaliação como um jogo divertido e didático.
+6.1 TRABALHOS FUTUROS
+Apesar do jogo estar funcionando, ainda existem aprimoramentos a serem feitos. Na
+sua forma atual, as artes do jogo ainda possuem um aspecto de protótipo, com bastante
+espaço para melhoria. Alguns participantes relataram travamentos durante as partidas,
+além de sugerir mais fases para jogar. O jogo não está presente na lojaPlay Store para
+aplicativos Android, e também não foi possível disponibilizar uma versão para dispositivos iPhone. Também houve casos de participantes reclamando que o jogo estava muito
+fácil, e outros dizendo que estava muito difícil, evidenciando que o jogo precisa de mais
+uma passada de balanceamento. Outra ideia dada por estudantes é que o jogo poderia
+permitir que o jogador inventasse os seus próprios antimicrobianos, simulando um verdadeiro biólogo fazendo pesquisa científica. Por fim, o jogo também poderia apresentar
+62
+um vídeo de tutorial antes da primeira partida para garantir que o jogador entenda o seu
+funcionamento antes de jogar.
+63
+REFERÊNCIAS
+ABBO, L. M. et al. Medical students’ perceptions and knowledge about antimicrobial
+stewardship: how are we educating our future prescribers? Clinical infectious
+diseases, Oxford University Press, v. 57, n. 5, p. 631–638, 2013.
+ABBOTT, T. Mda framework– unconnected connectivity.Gamasutra, December,
+v. 12, 2010.
+AGARWAL, S.; YEWALE, V. N.; DHARMAPALAN, D. Antibiotics use and misuse
+in children: a knowledge, attitude and practice survey of parents in india.Journal of
+clinical and diagnostic research: JCDR, JCDR Research & Publications Private
+Limited, v. 9, n. 11, p. SC21, 2015.
+BECK, K. et al.Manifesto for Agile Software Development. 2001. Disponível em:
+https://agilemanifesto.org/.
+FISHMAN, N. Antimicrobial stewardship.American journal of infection control,
+Elsevier, v. 34, n. 5, p. S55–S63, 2006.
+GUO, B. et al. The structural characteristics and mechanisms of antimicrobial carbon
+dots: a mini review.Mater. Adv., RSC, v. 3, p. 7726–7741, 2022. Disponível em:
+http://dx.doi.org/10.1039/D2MA00625A.
+HISCOTT, J. et al. The global impact of the coronavirus pandemic.Cytokine &
+growth factor reviews, Elsevier, v. 53, p. 1–9, 2020.
+HUNICKE, R. et al. Mda: A formal approach to game design and game research. In:
+SAN JOSE, CA.Proceedings of the AAAI Workshop on Challenges in Game
+AI. [S.l.], 2004. v. 4, n. 1, p. 1722.
+JACOME, M. P. O.; GONZALES-ZUBIATE, F. A. How to stop the spreading of super
+bacteria?Brasil Para Todos-Revista Internacional, v. 7, n. 1, p. 10–14, 2019.
+KUSUMA, G. P. et al. Analysis of gamification models in education using mda
+framework. Procedia Computer Science, Elsevier, v. 135, p. 385–392, 2018.
+MATTEL. 2023. Disponível em: https://shop.mattel.com/pt-br/products/
+uno-jogo-de-cartas-original-w2085-pt-br.
+MAYER, R. E. Computer games in education.Annual review of psychology, Annual
+Reviews, v. 70, p. 531–549, 2019.
+MURRAY, C. J. L. et al. Global burden of bacterial antimicrobial resistance in 2019:
+a systematic analysis.The Lancet, Elsevier, v. 399, p. 629–655, 2022. Disponível
+em: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02724-0/
+fulltext#seccestitle10.
+OLIVEIRA, S. et al.As superbactérias causadoras da gonorreia. 2021. CienciArte
+no Ensino-Coleção Saúde e Ambiente/fascículo 5, LITEB/IOC/Fiocruz, Rio de Janeiro.
+11 p.
+64
+OLIVEIRA, S. et al.As superbactérias causadoras da gonorreia. 2021.
+RAZZAQUE, M. S. Implementation of antimicrobial stewardship to reduce antimicrobial
+drug resistance.Expert Review of Anti-infective Therapy, Taylor & Francis, v. 19,
+n. 5, p. 559–562, 2021.
+ROUSOUNIDIS, A. et al. Descriptive study on parents’ knowledge, attitudes and
+practices on antibiotic use and misuse in children with upper respiratory tract infections
+in cyprus.International journal of environmental research and public health,
+Molecular Diversity Preservation International (MDPI), v. 8, n. 8, p. 3246–3262, 2011.
+SHAFFER, D. W. et al. Video games and the future of learning.Phi delta kappan,
+SAGE Publications Sage CA: Los Angeles, CA, v. 87, n. 2, p. 105–111, 2005.
+SQUIRE, K.; JENKINS, H. Harnessing the power of games in education.Insight, v. 3,
+n. 1, p. 5–33, 2003.
+STATEOFAGILE.15th Annual State Of Agile Survey. 2021. Disponível em: https://digital.ai/resource-center/analyst-reports/state-of-agile-report\
+#ufh-c-473508-state-of-agile-report.
+SUTHERLAND, J. The art of doing twice the work in half the time. [S.l.]:
+Currency, 2014.
+TABLETOPSIMULATOR. 2023. Disponível em: https://store.steampowered.com/app/
+286160/Tabletop_Simulator/.
+TAUCEI, B. B. Endo-gdc: Desenvolvimento de um game design canvas para concepção
+de jogos educativos endógenos. Universidade Federal do Rio de Janeiro, 2019.
+TEKINBAS, K. S.; ZIMMERMAN, E.The game design reader: A rules of play
+anthology. [S.l.]: MIT press, 2005.
+TONNA, A. P. et al. Views and experiences of community pharmacy team members
+on antimicrobial stewardship activities in scotland: A qualitative study.International
+journal of clinical pharmacy, Springer, v. 42, p. 1261–1269, 2020.
+UNITY. 2023. Disponível em: https://unity.com/pt.
+VUORRE, M. A large-scale study of changes to the quantity, quality, and distribution
+of video game play during the covid-19 pandemic. OSF, Feb 2021. Disponível em:
+osf.io/n7mzv.
+ZHANG, Y. et al. A school-based educational intervention for school-aged children
+and caregivers about rational use of antibiotics in urban areas of shaanxi province:
+a study protocol for a randomized controlled research.International journal of
+environmental research and public health, MDPI, v. 15, n. 9, p. 1912, 2018.
+ZHOU, B. L. Z. et al. Knowledge, attitudes and practices concerning selfmedication with antibiotics among university students in western china.Tropical
+Medicine and International Health, v. 19, n. 7, 2014. Disponível em:
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tmi.12322.
+CienciArte
+no ensino
+AS SUPERBACTÉRIAS
+CAUSADORAS DA
+GONORREIA
+Suellen de Oliveira
+Lucas Heleno Lopes
+Pedro Vitiello
+Aline Ferreira Tolentino
+Thamyris Viana dos Santos
+Rafaela Nóbrega
+Eleonora Kurtenbach
+Robson Coutinho Silva
+5
+Atividade 1:
+O que é evolução biológica afinal?
+Atividade 2:
+Jogo: As superbactérias
+Atividade 3:
+A bactéria Neisseria gonorrhoeae e a gonorreia
+Saúde e
+ambiente
+©
+1 CienciArte no ensino –Saúde e Ambiente n. 5 - 2021
+https://www.rawpixel.com/image/2288642/free-photo-image-awareness-bacteria
+Micrografia da bactéria Neisseria gonorrhoeae
+65
+ANEXO A – CARTILHA COM REGRAS DO JOGO ANALÓGICO
+ORIGINAL
+5
+Apresentação da série CienciArte no Ensino
+Esta oficina pode ser utilizada como recurso pedagógico para o ensino de evolução
+biológica, com ênfase no processo de seleção de bactérias resistentes aos antimicrobianos
+utilizados no tratamento de diversas doenças. Para isso, analisaremos o caso das
+superbactérias causadoras da gonorreia.
+Apresentação da oficina
+Registro das atividades:
+Preparativos
+CienciArte no ensino –Saúde e Ambiente
+2 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+A série de fascículos “CiênciArte no Ensino” é uma publicação do Setor de Inovações
+Educacionais do Laboratório de Inovações em Terapias, Ensino e Bioprodutos (LITEB) do
+Instituto Oswaldo Cruz, Fundação Oswaldo Cruz com vários parceiros institucionais.
+A série busca promover o diálogo entre a ciência e a arte, reforçando o conceito de
+“ArtScience”. Convidamos alunos e professores a participar desse diálogo para descobrir e
+compreender, de maneira simples e lúdica, maravilhas da cultura e da natureza. Os
+fascículos poderão servir como guia para as atividades propostas; porém, mais importante
+do que segui-los à risca, é criar condições para que a pesquisa científica aconteça de
+maneira agradável, livre e criativa.
+As fichas que acompanham este fascículo
+devem ser disponibilizadas para cada equipe
+de estudantes durante a realização do jogo,
+de modo a facilitar a compreensão do
+processo observado e a contagem dos pontos.
+Para desenvolver essa experiência será necessário:
+- Imagens da atividade 1. Você pode utilizar as imagens sugeridas neste material ou
+escolher as suas próprias imagens. Elas poderão ser projetadas, se houver equipamento
+disponível ou impressas. Outra opção é o recorte de jornais e revistas.
+- Lápis ou caneta para registro das atividades.
+Observação: Os materiais necessários para o preparo da terceira atividade serão definidos
+por você!
+66
+Atividade 1:
+O que é evolução biológica afinal?
+Identificando o conhecimento prévio
+CienciArte no ensino –Saúde e Ambiente
+3 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+5
+O que seus alunos já sabem sobre a evolução biológica?
+Ao convidar seus estudantes para participar da oficina, aconselhamos que eles sejam
+conduzidos para um local espaçoso e agradável, como o pátio ou a quadra da escola.
+Para começar, você pode fazer a seguinte pergunta:
+O que é evolução biológica afinal?
+As opções para respondê-la podem estar escritas em cartazes elaborados por você e
+fixados em locais distintos. Peça para analisarem as possíveis respostas e selecionarem
+uma delas, posicionando-se próximo ao cartaz com a opção escolhida.
+Opções de respostas sugeridas:
+1) Descendência com modificação;
+2) Descendência com melhoria;
+3) Descendência com prejuízo.
+Em seguida, você pode pedir para que eles expliquem para o grupo por que
+escolheram determinada opção, estimulando-os a compartilhar suas concepções. Aqui
+cabe a você mediar a discussão conduzindo-os à construção da definição do conceito de
+evolução biológica.
+Dica:
+A Universidade de São Paulo (USP) preparou um site chamado “Entendendo a
+evolução para professores”, com duas seções: “Aprendendo evolução” e “Ensinando
+evolução”. Vale a pena conferir! O site está disponível em:
+https://evosite.ib.usp.br/evohome.html
+E aqui está a definição apresentada no site:
+“Evolução biológica, em termos simples, é descendência com modificação. Essa
+definição engloba evolução em pequena escala (mudanças em frequência gênica em uma
+população de uma geração para a próxima) e evolução em larga escala (a progênie de
+espécies diferentes de um ancestral comum após muitas gerações). A evolução nos ajuda
+a entender a história da vida.”
+67
+CienciArte no ensino –Saúde e Ambiente
+Atividade 1:
+O que é evolução biológica afinal?
+6 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+https://pixabay.com/pt/illustrations
+/sapo-girino-%C5%BEabka-758072/
+https://pixabay.com/pt/photos/mulheres-girafakayan-pessoas-315040/#
+https://commons.m.wikimedia.org/wiki/File:Nectari
+ne_Fruit_Development.jpg
+https://pixy.org/642922/
+https://pxhere.com/es/photo/755456
+Será que seus estudantes realmente compreenderam o conceito de evolução biológica?
+1- Para checar a compreensão dos alunos, você pode distribuir, em uma superfície plana
+(exemplo: uma mesa), algumas imagens para que possam identificar se elas exemplificam ou
+não o processo de evolução biológica, através da colocação de um símbolo de e ,
+respectivamente. Para isso, você pode dividir a turma em pequenos grupos para que discutam
+entre eles e definam as respostas.
+2- Para cada imagem, sugerimos pedir que um representante de cada equipe explique como a
+figura foi classificada. Em seguida, revelar se acertaram ou não as respostas, apresentando a
+devida justificativa.
+Aumento do pescoço
+durante a vida de
+uma pessoa
+Evolução Pokémon Desenvolvimento de um
+fruto
+Metamorfose dos anfíbios Hipertrofia muscular
+https://snappygoat.com/o/357397a
+3223f47e5bc48dbda9f60e3db691cc
+9d8/Homology%20vertebratesit.svg
+Órgãos homólogos
+5
+68
+Atividade 2:
+Jogo: As superbactérias
+A seleção de bactérias resistentes aos antimicrobianos
+CienciArte no ensino –Saúde e Ambiente
+7 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+OBJETIVO: Simular o
+processo de seleção natural
+de bactérias resistentes à
+ação de antimicrobianos
+através de um jogo
+competitivo.
+O JOGO:
+O jogo apresenta quatro rodadas nas quais duas equipes
+de jogadores representam bactérias enfrentando os
+antimicrobianos.
+É composto por 60 cartas, 44 representando bactérias e
+16 representando antimicrobianos. As cartas são
+coloridas; cada uma das suas cores (amarelo, azul, verde
+e vermelho) representa um antimicrobiano com
+determinado mecanismo de ação (4 cartas de cada cor)
+ou uma cepa bacteriana com um mecanismo de
+resistência contra o antimicrobiano da mesma cor (11
+cartas de cada cor).
+PÚBLICO-ALVO:
+O jogo é indicado para
+maiores de 10 anos.
+Cartas contendo ilustrações da bactéria
+Neisseria gonorrhoeae. Cada cor representa
+uma cepa resistente a um determinado
+antimicrobiano.
+Cartas contendo ilustrações de
+antimicrobianos. Cada cor representa um
+tipo de mecanismo de ação distinto.
+bactérias resistentes
+bactérias sensíveis
+Antimicrobianos
+Aumento do número de bactérias resistentes na população
+5
+69
+COMO JOGAR?
+Primeira rodada (atividades sequenciais):
+1) Separando as cartas em duas pilhas, uma contendo as bactérias e outra contendo os
+antimicrobianos.
+2) Embaralhando e distribuindo cinco cartas contendo bactérias para cada equipe. As cartas
+deverão ser posicionadas uma ao lado da outra, com a face que contém a ilustração virada
+para cima.
+3) Oferecendo duas cartas contendo antimicrobianos para cada equipe. Os jogadores deverão
+escolher um dos antimicrobianos representados nas cartas para tratar a infecção provocada
+pelas bactérias das cartas da equipe adversária. Para isso, as equipes deverão comparar as
+cores das cartas das bactérias da equipe adversária com as cartas dos antimicrobianos
+oferecidas por você, selecionando, preferencialmente, a carta do antimicrobiano que possa
+matar o maior número de bactérias, ou seja, com cor diferente das bactérias das cartas da
+equipe adversária.
+4) Ao receber a carta selecionada pela equipe adversária, os estudantes deverão verificar se
+ela tem a mesma cor que alguma de suas bactérias, o que significa que as bactérias em
+questão possuem um mecanismo de resistência para aquele antimicrobiano, portanto, ela
+sobreviverá e será mantida no jogo.
+5) As cartas das bactérias que tiverem cores diferentes do antimicrobiano recebido
+representam microrganismos sem nenhum mecanismo de resistência contra esse
+antimicrobiano. Portanto, o uso do medicamento provocará a morte da bactéria, que deverá
+ser representada pela retirada da carta do jogo.
+Segunda rodada: Cada bactéria sobrevivente se reproduzirá por divisão binária, sendo o
+processo de reprodução representado pela da distribuição de uma nova carta da pilha de
+bactérias, para cada sobrevivente. As bactérias da nova geração deverão ser posicionadas em
+uma nova fileira abaixo das sobreviventes. Logo, a quantidade de cartas distribuídas para cada
+equipe depende do número de bactérias sobreviventes na rodada anterior. Caso não tenha
+tido nenhuma bactéria sobrevivente, a equipe receberá novamente cinco cartas, que deverão
+substituir as bactérias da primeira geração, posicionadas na primeira fileira. O aparecimento de
+bactérias de cores diferentes representa a aquisição de um novo tipo de mecanismo de
+resistência, adquirido através de mutação(ções).
+Oferecendo novamente duas cartas de antimicrobianos a cada equipe, eles poderão
+escolher qual deles será utilizado contra as bactérias do adversário naquela rodada. O
+antimicrobiano selecionado atuará apenas contra as bactérias recebidas naquela rodada. Após
+isso, serão mantidas apenas as cartas das bactérias que apresentam um mecanismo de
+resistência contra aquele antimicrobiano. As bactérias que “morrerem” deverão ser
+removidas.
+CienciArte no ensino –Saúde e Ambiente
+Atividade 2:
+Jogo: As superbactérias
+8 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+5
+70
+Terceira e quarta rodada: Devem ser conduzidas de maneira semelhante à segunda rodada.
+Vence o jogo a primeira equipe que conseguir formar uma população de bactérias contendo
+os quatro tipos de resistência aos antimicrobianos, ou seja, a primeira equipe que
+conseguir manter viva uma bactéria de cada cor, mesmo que seja uma cor por rodada.
+Se após concluir as quatro rodadas nenhuma das equipes tiver conseguido atingir o
+objetivo citado acima, a equipe vencedora será aquela com o maior número de pontos.
+CONTAGEM DOS PONTOS:
+❖ Número de rodadas com pelo menos uma bactéria viva: Dez pontos por rodada.
+❖Número de bactérias vivas a cada rodada: Dez pontos por bactéria.
+❖Número de tipos de resistência adquiridas: Cinquenta pontos para cada tipo de resistência.
+CienciArte no ensino –Saúde e Ambiente
+Atividade 2:
+Jogo: As superbactérias
+9 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+5
+71
+PÁGINA
+11
+CARTAS DO
+JOGO
+CienciArte
+no ensino
+Saúde e
+ambiente
+© 1
+72
+PÁGINA
+CienciArte
+no ensino
+Saúde e
+ambiente
+©
+2
+CARTAS DO
+JOGO
+73
+PÁGINA
+CARTAS DO
+JOGO
+CienciArte
+no ensino
+Saúde e
+ambiente
+© 3
+74
+PÁGINA
+CienciArte
+no ensino
+Saúde e
+ambiente
+©
+4
+CARTAS DO
+JOGO
+75
+PÁGINA
+11
+CARTAS DO
+JOGO
+CienciArte
+no ensino
+Saúde e
+ambiente
+© 5
+76
+PÁGINA
+CienciArte
+no ensino
+Saúde e
+ambiente
+©
+6
+CARTAS DO
+JOGO
+77
+PÁGINA
+11
+Tipos de bactérias da primeira rodada: Antimicrobiano:
+REGISTRO DE
+ATIVIDADES
+CienciArte
+no ensino
+Saúde e
+ambiente
+©
+Bactérias sobreviventes na primeira rodada:
+Tipos de bactérias da segunda rodada: Antimicrobiano:
+Bactérias sobreviventes na segunda rodada:
+Total de bactérias sobreviventes:
+_________
+Lembrete:
+O total de bactérias sobreviventes é o mesmo de bactérias que
+irão se reproduzir por divisão binária.
+Total de bactérias sobreviventes:
+_________
+1
+78
+PÁGINA
+Tipos de bactérias da terceira rodada: Antimicrobiano:
+REGISTRO DE
+ATIVIDADES
+CienciArte
+no ensino
+Saúde e
+ambiente
+©
+Bactérias sobreviventes na terceira rodada:
+Tipos de bactérias da quarta rodada: Antimicrobiano:
+Bactérias sobreviventes na quarta rodada:
+Total de bactérias sobreviventes:
+_________
+Total de bactérias sobreviventes:
+_________
+2
+79
+PÁGINA
+Contagem de pontos:
+REGISTRO DE
+ATIVIDADES
+CienciArte
+no ensino
+Saúde e
+ambiente
+©
+Número de rodadas com pelo menos uma bactéria viva:
+(Dez pontos por rodada)
+____ + ____ + ____ + ____ = ____
+Número de bactérias vivas a cada rodada:
+(Dez pontos por bactéria)
+____ + ____ + ____ + ____ = ____
+Número de tipos de resistência adquiridas:
+(Cinquenta pontos por cada tipo de resistência)
+____ + ____ + ____ + ____ = ____
+3
+80
+Que tal convidar os estudantes a investigarem sobre a doença?
+O tratamento da doença é feito através da administração de antimicrobianos. No
+entanto, cepas de N. gonorrhoeae resistentes aos antimicrobianos têm sido identificadas em
+diversos países, comprometendo a eficácia do tratamento. O processo de adaptação das
+populações de N. gonorrhoeae aos antimicrobianos se deu por meio de mutações, seguida
+da exposição às pressões seletivas impostas pelo uso de antimicrobianos. Nesse processo,
+as bactérias que apresentavam mecanismos de resistência a esses antimicrobianos
+sobreviveram, mantendo-se na população. Essas características foram passadas para seus
+descendentes por divisão binária, um mecanismo de reprodução assexuada. Além disso,
+puderam adquirir genes de outras bactérias através de processos como conjugação e
+transformação, o que agravou a disseminação dos genes de resistência aos antimicrobianos.
+Mas como essas bactérias fazem para sobreviver na presença do antimicrobiano?
+Essas bactérias conquistaram a capacidade de sobreviver na presença de antimicrobianos
+através do desenvolvimento de diversos mecanismos de resistência, tais como: alteração da
+permeabilidade celular; alterações morfológicas no local onde os fármacos deveriam se
+ligar; aumento do número de bombas de efluxo, que direcionam o medicamento para fora
+da célula; ou até mesmo a produção de enzimas que neutralizam ou degradam o
+antimicrobiano antes que ele chegue ao seu alvo.
+10 CienciArte no ensino - Saúde e Ambiente n. 5- 2021
+Atividade 3:
+A bactéria Neisseria gonorrhoeae e a gonorreia
+AGORA É COM VOCÊ!
+Como você pode abordar os mecanismos de
+resistência com seus alunos?
+A infecção pela bactéria Neisseria gonorrhoeae
+pode provocar a gonorreia — uma Infecção
+Sexualmente Transmissível (IST). A transmissão
+também pode ocorrer da mãe para o filho no
+momento do parto, podendo provocar conjuntivite
+neonatal e cegueira no bebê.
+A bactéria pode infectar a mucosa do sistema
+genital, do sistema intestinal (do reto ou da
+orofaringe) e a conjuntiva no olho, de forma
+assintomática ou sintomática. Também há risco de
+haver quadros sistêmicos com complicações cardíacas
+e nervosas.
+https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoeae_Bacteria_(16221300454).jpg
+Neisseria gonorrhoeae
+CienciArte no ensino –Saúde e Ambiente 5
+81
+Este material foi produzido pelo LITEB (FIOCRUZ), em parceria com o museu Espaço Ciência Viva. Pode ser
+reproduzido para fins educacionais, desde que seja assegurada a citação:
+Oliveira, S.; Lopes, L. H.; Vitiello, P.; Tolentino, A. F.; Santos, T. V.; Nóbrega, R.; Kurtenbach, E.; Coutinho-Silva,
+R. As superbactérias causadoras da gonorreia. CienciArte no Ensino-Coleção Saúde e Ambiente/fascículo 5,
+LITEB/IOC/Fiocruz, Rio de Janeiro, 11 p., 2021.
+Você poderá dividir a turma em equipes e desafiar os estudantes a construírem modelos
+didáticos que possam representar os mecanismos de resistência aos antimicrobianos da
+bactéria Neisseria gonorrhoeae. Para confecção do modelo abaixo foram utilizados
+materiais de baixo custo, como isopor, EVA, barbante, miçangas, cola de isopor, tesoura e
+mangueira de silicone.
+Acessando o link a seguir você poderá conhecer o material “Resistência bacteriana aos
+antibióticos: o que você deve saber e como prevenir”:
+https://portal.fiocruz.br/noticia/cartilha-alerta-para-os-riscos-da-resistencia-aosantibioticos
+Expediente:
+Ministério da Saúde
+FIOCRUZ
+Fundação Oswaldo Cruz
+Instituto Oswaldo Cruz
+Laboratório de Inovações em Terapias, Ensino e Bioprodutos
+Organizadores: Tania C. Araújo-Jorge, Felipe do E. S. Silva-Pires, Cristina X. de A. Borges,
+Valéria da Silva Trajano; Projeto gráfico: Heloisa Diniz – Serviço de produção e Tratamento
+de Imagem/IOC; Impressão: WalPrint Gráfica e Editora Ltda., Rio de Janeiro; Tiragem: 1000
+exemplares.
+11 CienciArte no ensino - Saúde e Ambiente n. 5 - 2021
+Sugestão de atividade
+CienciArte no ensino –Saúde e Ambiente 5
+Exemplo de modelo didático representando os mecanismos de
+resistência presentes em uma célula bacteriana
+Bombas de efluxo
+(para retirada do
+antimicrobiano de
+dentro para fora da
+celula
+Enzimas
+detoxificantes
+Alterações
+estruturais no
+local alvo do
+antimicrobiano
+Redução da
+permeabilidade
+Para saber mais
+82

@@ -1,0 +1,18 @@
+{
+  "protocol_name": "Avaliacao descritiva reproduzivel do baseline BMT",
+  "data_split": "Corpus fixo completo usado como conjunto de avaliacao.",
+  "training_data": "Nao aplicavel nesta entrega; nao ha treinamento supervisionado.",
+  "validation_data": "Nao aplicavel nesta entrega; limiares do baseline sao fixos e documentados.",
+  "test_data": "Os 10 PDFs consolidados em data/raw.",
+  "leakage_control": [
+    "O baseline nao usa rotulos manuais para ajustar parametros.",
+    "O TF-IDF e ajustado somente nos dois trechos comparados dentro de cada documento.",
+    "Nao ha transferencia de vocabulario, pesos ou estatisticas entre documentos."
+  ],
+  "cross_validation": "Nao usada porque o corpus e pequeno e o objetivo atual e validar o desenho experimental antes de evoluir modelos.",
+  "random_seeds": [],
+  "rounds": 1,
+  "baselines_compared": [
+    "TF-IDF com similaridade do cosseno entre introducao e secoes de entrega"
+  ]
+}

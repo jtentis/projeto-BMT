@@ -39,6 +39,18 @@ class AlignmentResult(TypedDict):
     notes: list[str]
 
 
+class DatasetDocument(TypedDict):
+    document_id: str
+    pdf_path: str
+    status: str
+    page_count: int | None
+    text_length: int
+    normalized_text_length: int
+    available_sections: list[str]
+    missing_sections: list[str]
+    warning_count: int
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
@@ -71,6 +83,11 @@ def extract_text_from_pdf(pdf_path: Path) -> str:
     for page in reader.pages:
         page_texts.append(page.extract_text() or "")
     return "\n".join(page_texts).strip()
+
+
+def count_pdf_pages(pdf_path: Path) -> int:
+    reader = PdfReader(str(pdf_path))
+    return len(reader.pages)
 
 
 def save_text_artifact(output_dir: Path, pdf_path: Path, text: str) -> Path:
@@ -326,6 +343,117 @@ def save_json_artifact(output_dir: Path, relative_dir: str, name: str, payload: 
     return output_path
 
 
+def section_presence(document: dict[str, object], section_name: str) -> bool:
+    if document["status"] != "ok":
+        return False
+    sections = document.get("sections")
+    if not isinstance(sections, dict):
+        return False
+    section_map = sections.get("sections")
+    if not isinstance(section_map, dict):
+        return False
+    return section_name in section_map
+
+
+def build_dataset_documents(documents: list[dict[str, object]]) -> list[DatasetDocument]:
+    dataset_documents: list[DatasetDocument] = []
+    for document in documents:
+        sections = document.get("sections")
+        available_sections: list[str] = []
+        missing_sections: list[str] = []
+        if isinstance(sections, dict):
+            raw_available = sections.get("available_sections", [])
+            raw_missing = sections.get("missing_sections", [])
+            if isinstance(raw_available, list):
+                available_sections = [str(section) for section in raw_available]
+            if isinstance(raw_missing, list):
+                missing_sections = [str(section) for section in raw_missing]
+
+        warnings = document.get("warnings", [])
+        warning_count = len(warnings) if isinstance(warnings, list) else 0
+        page_count = document.get("page_count")
+        dataset_documents.append(
+            {
+                "document_id": str(document["document_id"]),
+                "pdf_path": str(document["pdf_path"]),
+                "status": str(document["status"]),
+                "page_count": page_count if isinstance(page_count, int) else None,
+                "text_length": int(document.get("text_length", 0)),
+                "normalized_text_length": int(document.get("normalized_text_length", 0)),
+                "available_sections": available_sections,
+                "missing_sections": missing_sections,
+                "warning_count": warning_count,
+            }
+        )
+    return dataset_documents
+
+
+def write_dataset_summary(output_dir: Path, documents: list[dict[str, object]]) -> Path:
+    dataset_documents = build_dataset_documents(documents)
+    processed_documents = [doc for doc in dataset_documents if doc["status"] == "ok"]
+    text_lengths = [doc["normalized_text_length"] for doc in processed_documents]
+    page_counts = [doc["page_count"] for doc in processed_documents if doc["page_count"] is not None]
+    section_counts = {
+        section_name: sum(1 for document in documents if section_presence(document, section_name))
+        for section_name in ("introduction", "results", "conclusion")
+    }
+    status_distribution: dict[str, int] = {}
+    for document in dataset_documents:
+        status_distribution[document["status"]] = status_distribution.get(document["status"], 0) + 1
+
+    payload = {
+        "dataset_name": "Corpus final consolidado BMT",
+        "source": "Trabalhos academicos em PDF coletados do Pantheon/UFRJ e versionados no repositorio.",
+        "inclusion_criteria": [
+            "PDF academico completo",
+            "texto extraivel com pypdf",
+            "documento relacionado a computacao ou jogos digitais",
+        ],
+        "exclusion_criteria": [
+            "arquivos duplicados",
+            "PDFs sem texto extraivel",
+            "documentos fora do formato de trabalho academico",
+        ],
+        "cleaning_and_normalization": [
+            "extracao textual com pypdf",
+            "reparo heuristico de codificacao quando detectado",
+            "remocao de hifenizacao artificial",
+            "normalizacao de espacos",
+            "normalizacao sem acentos para busca de cabecalhos",
+        ],
+        "document_count": len(dataset_documents),
+        "processed_count": len(processed_documents),
+        "error_count": len(dataset_documents) - len(processed_documents),
+        "page_count_total": sum(page_counts),
+        "normalized_text_length_total": sum(text_lengths),
+        "normalized_text_length_mean": round(sum(text_lengths) / len(text_lengths), 2) if text_lengths else 0,
+        "section_detection_counts": section_counts,
+        "status_distribution": status_distribution,
+        "documents": dataset_documents,
+    }
+    return save_json_artifact(output_dir, "dataset", "summary.json", payload)
+
+
+def write_experimental_protocol(output_dir: Path) -> Path:
+    payload = {
+        "protocol_name": "Avaliacao descritiva reproduzivel do baseline BMT",
+        "data_split": "Corpus fixo completo usado como conjunto de avaliacao.",
+        "training_data": "Nao aplicavel nesta entrega; nao ha treinamento supervisionado.",
+        "validation_data": "Nao aplicavel nesta entrega; limiares do baseline sao fixos e documentados.",
+        "test_data": "Os 10 PDFs consolidados em data/raw.",
+        "leakage_control": [
+            "O baseline nao usa rotulos manuais para ajustar parametros.",
+            "O TF-IDF e ajustado somente nos dois trechos comparados dentro de cada documento.",
+            "Nao ha transferencia de vocabulario, pesos ou estatisticas entre documentos.",
+        ],
+        "cross_validation": "Nao usada porque o corpus e pequeno e o objetivo atual e validar o desenho experimental antes de evoluir modelos.",
+        "random_seeds": [],
+        "rounds": 1,
+        "baselines_compared": ["TF-IDF com similaridade do cosseno entre introducao e secoes de entrega"],
+    }
+    return save_json_artifact(output_dir, "protocol", "experimental_protocol.json", payload)
+
+
 def compute_similarity(text_a: str, text_b: str) -> float:
     vectorizer = TfidfVectorizer(ngram_range=(1, 2))
     matrix = vectorizer.fit_transform([text_a, text_b])
@@ -344,7 +472,7 @@ def label_alignment(score: float | None) -> str:
     return "low"
 
 
-def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> Path:
+def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple[Path, list[AlignmentResult]]:
     results: list[AlignmentResult] = []
 
     for document in documents:
@@ -438,6 +566,60 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> Path:
                 }
             )
 
+    return json_path, results
+
+
+def write_coverage_metrics(
+    output_dir: Path,
+    documents: list[dict[str, object]],
+    results: list[AlignmentResult],
+) -> Path:
+    label_distribution: dict[str, int] = {}
+    for result in results:
+        label = result["alignment_label"]
+        label_distribution[label] = label_distribution.get(label, 0) + 1
+
+    processed_count = sum(1 for document in documents if document["status"] == "ok")
+    document_count = len(documents)
+    evaluable_count = sum(1 for result in results if result["alignment_score"] is not None)
+    metrics = {
+        "document_count": document_count,
+        "processed_count": processed_count,
+        "error_count": document_count - processed_count,
+        "extraction_success_rate": round(processed_count / document_count, 4) if document_count else 0,
+        "has_introduction_count": sum(1 for document in documents if section_presence(document, "introduction")),
+        "has_results_count": sum(1 for document in documents if section_presence(document, "results")),
+        "has_conclusion_count": sum(1 for document in documents if section_presence(document, "conclusion")),
+        "evaluable_count": evaluable_count,
+        "evaluable_rate": round(evaluable_count / document_count, 4) if document_count else 0,
+        "alignment_label_distribution": label_distribution,
+        "alignment_metrics": [
+            "tfidf_cosine_similarity",
+            "best_introduction_to_delivery_score",
+            "alignment_label",
+        ],
+        "future_bri_metrics": [
+            "Precision@k",
+            "Recall@k",
+            "MAP",
+            "NDCG",
+        ],
+        "future_mt_metrics": [
+            "accuracy",
+            "F1",
+            "macro-F1",
+            "RMSE",
+        ],
+    }
+    json_path = save_json_artifact(output_dir, "metrics", "coverage_metrics.json", metrics)
+
+    csv_path = output_dir / "metrics" / "coverage_metrics.csv"
+    with csv_path.open("w", encoding="utf-8", newline="") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=["metric", "value"])
+        writer.writeheader()
+        for key, value in metrics.items():
+            writer.writerow({"metric": key, "value": json.dumps(value, ensure_ascii=False)})
+
     return json_path
 
 
@@ -450,11 +632,13 @@ def run_extraction(input_dir: Path, output_dir: Path) -> list[dict[str, object]]
             "status": "ok",
         }
         try:
+            page_count = count_pdf_pages(pdf_path)
             text = extract_text_from_pdf(pdf_path)
             repaired_text = repair_text_encoding(fix_mojibake(text))
             normalized_text = normalize_whitespace(repaired_text)
             sections = segment_sections(normalized_text)
 
+            record["page_count"] = page_count
             record["text"] = repaired_text
             record["text_length"] = len(repaired_text)
             record["normalized_text"] = normalized_text
@@ -507,14 +691,20 @@ def main() -> None:
     args.output_dir.mkdir(parents=True, exist_ok=True)
     documents = run_extraction(args.input_dir, args.output_dir)
     summary_path = write_extraction_summary(args.output_dir, documents)
-    alignment_path = run_alignment(documents, args.output_dir)
+    dataset_summary_path = write_dataset_summary(args.output_dir, documents)
+    protocol_path = write_experimental_protocol(args.output_dir)
+    alignment_path, alignment_results = run_alignment(documents, args.output_dir)
+    coverage_metrics_path = write_coverage_metrics(args.output_dir, documents, alignment_results)
 
     print("Etapas de ingestao, pre-processamento, segmentacao e alinhamento concluidas.")
     print(f"Entrada: {args.input_dir}")
     print(f"Saida: {args.output_dir}")
     print(f"Documentos encontrados: {len(documents)}")
     print(f"Resumo salvo em: {summary_path}")
+    print(f"Resumo do dataset salvo em: {dataset_summary_path}")
+    print(f"Protocolo experimental salvo em: {protocol_path}")
     print(f"Resultados de alinhamento salvos em: {alignment_path}")
+    print(f"Metricas de cobertura salvas em: {coverage_metrics_path}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,33 @@
+{
+  "document_count": 10,
+  "processed_count": 10,
+  "error_count": 0,
+  "extraction_success_rate": 1.0,
+  "has_introduction_count": 10,
+  "has_results_count": 10,
+  "has_conclusion_count": 10,
+  "evaluable_count": 10,
+  "evaluable_rate": 1.0,
+  "alignment_label_distribution": {
+    "high": 7,
+    "medium": 2,
+    "low": 1
+  },
+  "alignment_metrics": [
+    "tfidf_cosine_similarity",
+    "best_introduction_to_delivery_score",
+    "alignment_label"
+  ],
+  "future_bri_metrics": [
+    "Precision@k",
+    "Recall@k",
+    "MAP",
+    "NDCG"
+  ],
+  "future_mt_metrics": [
+    "accuracy",
+    "F1",
+    "macro-F1",
+    "RMSE"
+  ]
+}

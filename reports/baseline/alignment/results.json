@@ -71,6 +71,174 @@
       "alignment_score": 0.5123,
       "alignment_label": "high",
       "notes": []
+    },
+    {
+      "document_id": "GGSouza",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.4525
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.4394
+        }
+      ],
+      "alignment_score": 0.4525,
+      "alignment_label": "high",
+      "notes": []
+    },
+    {
+      "document_id": "HBCReis",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.4193
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.468
+        }
+      ],
+      "alignment_score": 0.468,
+      "alignment_label": "high",
+      "notes": []
+    },
+    {
+      "document_id": "HBMHenriques",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.0531
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.319
+        }
+      ],
+      "alignment_score": 0.319,
+      "alignment_label": "medium",
+      "notes": []
+    },
+    {
+      "document_id": "LCMarques",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.0
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.0
+        }
+      ],
+      "alignment_score": 0.0,
+      "alignment_label": "low",
+      "notes": []
+    },
+    {
+      "document_id": "LMFGaleno",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.4935
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.651
+        }
+      ],
+      "alignment_score": 0.651,
+      "alignment_label": "high",
+      "notes": []
+    },
+    {
+      "document_id": "MDFonseca",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.0793
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.4065
+        }
+      ],
+      "alignment_score": 0.4065,
+      "alignment_label": "high",
+      "notes": []
+    },
+    {
+      "document_id": "PVMNascimento",
+      "status": "ok",
+      "promise_section": "introduction",
+      "delivery_sections": [
+        "results",
+        "conclusion"
+      ],
+      "compared_pairs": [
+        {
+          "promise_section": "introduction",
+          "delivery_section": "results",
+          "score": 0.4224
+        },
+        {
+          "promise_section": "introduction",
+          "delivery_section": "conclusion",
+          "score": 0.3465
+        }
+      ],
+      "alignment_score": 0.4224,
+      "alignment_label": "high",
+      "notes": []
     }
   ]
 }
