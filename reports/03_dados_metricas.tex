@@ -1,0 +1,188 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+\usepackage{graphicx,url}
+\usepackage[utf8]{inputenc}  
+\usepackage[colorlinks=true, allcolors=black]{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage{listings}
+\usepackage{longtable}
+\lstset{breaklines=true, basicstyle=\ttfamily}
+
+\sloppy
+
+\title{\textbf{Dataset Consolidado, Métricas e Protocolo Experimental}}
+
+\author{João Pedro Tentis\inst{1}}
+
+\address{PESC -- Universidade Federal do Rio de Janeiro (UFRJ)}
+
+\begin{document} 
+
+\maketitle
+
+\section{Links obrigatórios}
+
+\begin{itemize}
+    \item GitHub: \url{https://github.com/jtentis/projeto-BMT}
+    \item Overleaf: \url{https://tinyurl.com/56nx8f4c}
+\end{itemize}
+
+\section{Objetivo da entrega}
+
+Esta entrega consolida o conjunto de dados final, formaliza as métricas e define o desenho experimental utilizado para avaliar o \textit{baseline} atual do projeto BMT. O objetivo principal é reduzir ambiguidades antes da evolução para modelos mais complexos, mantendo uma avaliação simples, \textit{offline} e reproduzível.
+
+O \textit{baseline} avaliado compara a seção de promessa do documento, representada por \texttt{introduction}, com as seções de entrega disponíveis, representadas por \texttt{results} e \texttt{conclusion}. A comparação utiliza vetorização TF-IDF e similaridade do cosseno.
+
+\section{Dataset final consolidado}
+
+O \textit{dataset} final é composto por 10 trabalhos acadêmicos em PDF, coletados a partir do repositório Pantheon/UFRJ e versionados no repositório do projeto. Os arquivos oficiais de entrada encontram-se em \texttt{data/raw/}.
+
+\subsection{Origem e coleta}
+
+Os documentos foram selecionados entre trabalhos acadêmicos da área de computação, com ênfase em temas associados a desenvolvimento de software, jogos digitais, inteligência artificial e sistemas interativos. A coleta foi realizada manualmente e os arquivos foram armazenados no repositório para garantir a reprodutibilidade local.
+
+\subsection{Critérios de inclusão e exclusão}
+
+Foram incluídos PDFs acadêmicos completos, com texto extraível pela biblioteca \texttt{pypdf}, relacionados ao domínio geral de computação. Foram excluídos arquivos duplicados, documentos sem texto extraível e arquivos fora do formato de trabalho acadêmico (como apresentações ou resumos simples).
+
+\subsection{Limpeza e normalização}
+
+O \textit{pipeline} executa a extração textual com \texttt{pypdf}, reparo heurístico de codificação quando necessário, remoção de hifenização artificial, normalização de espaços e remoção de acentos para a busca de cabeçalhos. Os textos bruto e normalizado são preservados em \texttt{reports/baseline/extracted\_text/}.
+
+\subsection{Estatísticas descritivas}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{lr}
+        \toprule
+        Estatística & Valor \\
+        \midrule
+        Documentos no corpus & 10 \\
+        Documentos processados sem erro & 10 \\
+        Erros de processamento & 0 \\
+        Páginas totais & 706 \\
+        Caracteres normalizados & 972.163 \\
+        Documentos com introdução detectada & 10 \\
+        Documentos com resultados/entrega detectados & 10 \\
+        Documentos com conclusão detectada & 10 \\
+        \bottomrule
+    \end{tabular}
+    \caption{Estatísticas do dataset consolidado.}
+\end{table}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{ll}
+        \toprule
+        Documento & Status \\
+        \midrule
+        AMDavid & ok \\
+        ENPinho & ok \\
+        FMRolim & ok \\
+        GGSouza & ok \\
+        HBCReis & ok \\
+        HBMHenriques & ok \\
+        LCMarques & ok \\
+        LMFGaleno & ok \\
+        MDFonseca & ok \\
+        PVMNascimento & ok \\
+        \bottomrule
+    \end{tabular}
+    \caption{Documentos do corpus final.}
+\end{table}
+
+\section{Divisão de dados e controle de vazamento}
+
+O protocolo desta entrega utiliza o \textit{corpus} completo como conjunto fixo de avaliação. Não há divisão em treino, validação e teste, pois o \textit{baseline} atual não treina um modelo supervisionado, não utiliza rótulos manuais e não ajusta parâmetros a partir dos resultados esperados.
+
+O risco de vazamento (\textit{data leakage}) é controlado pelo próprio desenho experimental. O TF-IDF é ajustado somente nos dois trechos comparados dentro de cada documento, sem transferência de vocabulário, pesos ou estatísticas entre diferentes arquivos. Além disso, não há ajuste de limiares por desempenho observado, visto que os limiares de rotulagem são fixos e documentados no código.
+
+A validação cruzada (\textit{cross-validation}) não foi aplicada devido ao tamanho reduzido do \textit{corpus} e ao fato de a etapa atual não envolver aprendizado de máquina. O foco reside em validar se o \textit{pipeline} processa o \textit{dataset} de forma estável.
+
+\section{Definição formal das métricas}
+
+As métricas de alinhamento calculadas por documento são:
+
+\begin{itemize}
+    \item \texttt{tfidf\_cosine\_similarity}: similaridade do cosseno entre vetores TF-IDF;
+    \item \texttt{best\_introduction\_to\_delivery\_score}: maior pontuação entre \texttt{introduction} vs \texttt{results} e \texttt{introduction} vs \texttt{conclusion};
+    \item \texttt{alignment\_label}: rótulo discreto derivado do \textit{score} final.
+\end{itemize}
+
+Os limiares utilizados são: \texttt{high} (score $\ge$ 0.35), \texttt{medium} (0.15 $\le$ score $<$ 0.35), \texttt{low} (score $<$ 0.15) e \texttt{insufficient\_sections} quando não há seções suficientes para comparação.
+
+Métricas como Precision@k, Recall@k, MAP e NDCG, bem como métricas de classificação (F1-score, acurácia), exigem anotações manuais ou rótulos esperados (\textit{ground truth}). Como esta entrega não inclui rotulagem manual, tais métricas são definidas como trabalho futuro.
+
+\section{Protocolo experimental}
+
+O experimento consiste em uma rodada determinística sobre os 10 PDFs consolidados. Não foram utilizadas sementes aleatórias, pois o \textit{pipeline} atual baseia-se em regras heurísticas e similaridade TF-IDF sem amostragem estocástica.
+
+O comando oficial de reprodução é:
+
+\begin{verbatim}
+python -m src.run_baseline --input_dir 
+data/raw --output_dir reports/baseline
+\end{verbatim}
+
+Os principais artefatos gerados são:
+
+\begin{itemize}
+    \item \texttt{reports/baseline/dataset/summary.json}
+    \item \texttt{reports/baseline/protocol/experimental\_protocol.json}
+    \item \texttt{reports/baseline/alignment/results.json}
+    \item \texttt{reports/baseline/metrics.csv}
+    \item \texttt{reports/baseline/metrics/coverage\_metrics.json}
+\end{itemize}
+
+\section{Análise de riscos de validade}
+
+O principal risco à validade interna reside na segmentação heurística. Como a detecção depende de padrões textuais extraídos do PDF, eventuais erros na estrutura editorial podem deslocar os limites das seções.
+
+Quanto à validade externa, o tamanho do \textit{corpus} (10 documentos) permite validar o desenho experimental, mas não sustenta generalizações amplas sobre toda a produção acadêmica da área.
+
+Há também o risco de validade de construto: a similaridade TF-IDF mede sobreposição lexical e pode não capturar alinhamento semântico profundo. Portanto, os resultados devem ser interpretados como um \textit{baseline} inicial.
+
+\section{Resultados do baseline recalculado}
+
+\begin{longtable}{llllrl}
+    \caption{Resultados recalculados do baseline no dataset consolidado.} \label{tab:resultados} \\
+    \toprule
+    Documento & Status & Promessa & Entrega & Score & Rótulo \\
+    \midrule
+    \endfirsthead
+    
+    \multicolumn{6}{c}{{\bfseries \tablename\ \thetable{} -- Continuação}} \\
+    \toprule
+    Documento & Status & Promessa & Entrega & Score & Rótulo \\
+    \midrule
+    \endhead
+
+    \midrule
+    \multicolumn{6}{r}{{Continua na próxima página}} \\
+    \bottomrule
+    \endfoot
+
+    \bottomrule
+    \endlastfoot
+
+    AMDavid & ok & introduction & results;conclusion & 0.4040 & high \\
+    ENPinho & ok & introduction & results;conclusion & 0.3280 & medium \\
+    FMRolim & ok & introduction & results;conclusion & 0.5123 & high \\
+    GGSouza & ok & introduction & results;conclusion & 0.4525 & high \\
+    HBCReis & ok & introduction & results;conclusion & 0.4680 & high \\
+    HBMHenriques & ok & introduction & results;conclusion & 0.3190 & medium \\
+    LCMarques & ok & introduction & results;conclusion & 0.0000 & low \\
+    LMFGaleno & ok & introduction & results;conclusion & 0.6510 & high \\
+    MDFonseca & ok & introduction & results;conclusion & 0.4065 & high \\
+    PVMNascimento & ok & introduction & results;conclusion & 0.4224 & high \\
+\end{longtable}
+
+A distribuição dos rótulos totalizou 7 documentos com alinhamento \texttt{high}, 2 documentos com alinhamento \texttt{medium}, 1 documento com alinhamento \texttt{low} e nenhum documento com \texttt{insufficient\_sections}. Todos os 10 documentos foram passíveis de avaliação.
+
+\section{Conclusão}
+
+A entrega consolida o \textit{dataset} final, formaliza o protocolo experimental e recalcula o \textit{baseline} de forma reproduzível. Os resultados indicam que o \textit{pipeline} atual processa todos os documentos do \textit{corpus} e produz métricas consistentes, reforçando a viabilidade da transição para modelos mais robustos e métricas supervisionadas nas próximas etapas.
+
+\end{document}
