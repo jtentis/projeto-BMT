@@ -163,6 +163,7 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
+reports/*.tex
 
 # mkdocs documentation
 /site
