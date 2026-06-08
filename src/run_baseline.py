@@ -3,11 +3,12 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import math
 import re
 import traceback
 import unicodedata
 from pathlib import Path
-from typing import TypedDict
+from typing import Callable, TypedDict
 
 from pypdf import PdfReader
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -30,9 +31,12 @@ class SegmentationResult(TypedDict):
 
 class AlignmentResult(TypedDict):
     document_id: str
+    method: str
     status: str
     promise_section: str
+    promise_doco_section: str
     delivery_sections: list[str]
+    delivery_doco_sections: list[str]
     compared_pairs: list[dict[str, object]]
     alignment_score: float | None
     alignment_label: str
@@ -57,6 +61,8 @@ LEGACY_TO_DOCO = {
     "conclusion": "doco:Conclusion",
 }
 
+SCIBERT_MODEL_NAME = "allenai/scibert_scivocab_uncased"
+
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
@@ -76,6 +82,12 @@ def build_parser() -> argparse.ArgumentParser:
         type=Path,
         default=Path("reports/baseline"),
         help="Diretorio onde os artefatos do baseline serao gerados.",
+    )
+    parser.add_argument(
+        "--method",
+        choices=("tfidf", "scibert", "all"),
+        default="tfidf",
+        help="Metodo de similaridade a executar.",
     )
     return parser
 
@@ -566,6 +578,60 @@ def compute_similarity(text_a: str, text_b: str) -> float:
     return float(score)
 
 
+def cosine_from_vectors(vector_a: list[float], vector_b: list[float]) -> float:
+    dot_product = sum(a * b for a, b in zip(vector_a, vector_b))
+    norm_a = math.sqrt(sum(a * a for a in vector_a))
+    norm_b = math.sqrt(sum(b * b for b in vector_b))
+    if norm_a == 0 or norm_b == 0:
+        return 0.0
+    return float(dot_product / (norm_a * norm_b))
+
+
+def build_scibert_similarity() -> Callable[[str, str], float]:
+    try:
+        import torch
+        from transformers import AutoModel, AutoTokenizer
+    except ImportError as exc:
+        raise RuntimeError(
+            "Dependencias do SciBERT ausentes. Execute pip install -r requirements.txt."
+        ) from exc
+
+    tokenizer = AutoTokenizer.from_pretrained(SCIBERT_MODEL_NAME)
+    model = AutoModel.from_pretrained(SCIBERT_MODEL_NAME)
+    model.eval()
+
+    def embed(text: str) -> list[float]:
+        encoded = tokenizer(
+            text,
+            return_tensors="pt",
+            truncation=True,
+            max_length=512,
+            padding=True,
+        )
+        with torch.no_grad():
+            output = model(**encoded)
+        token_embeddings = output.last_hidden_state
+        attention_mask = encoded["attention_mask"].unsqueeze(-1)
+        masked_embeddings = token_embeddings * attention_mask
+        summed = masked_embeddings.sum(dim=1)
+        counts = attention_mask.sum(dim=1).clamp(min=1)
+        embedding = summed / counts
+        return embedding.squeeze(0).tolist()
+
+    def compute(text_a: str, text_b: str) -> float:
+        return cosine_from_vectors(embed(text_a), embed(text_b))
+
+    return compute
+
+
+def build_similarity_function(method: str) -> Callable[[str, str], float]:
+    if method == "tfidf":
+        return compute_similarity
+    if method == "scibert":
+        return build_scibert_similarity()
+    raise ValueError(f"Metodo desconhecido: {method}")
+
+
 def label_alignment(score: float | None) -> str:
     if score is None:
         return "insufficient_sections"
@@ -576,7 +642,51 @@ def label_alignment(score: float | None) -> str:
     return "low"
 
 
-def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple[Path, list[AlignmentResult]]:
+def write_alignment_artifacts(
+    output_dir: Path,
+    results: list[AlignmentResult],
+    json_name: str,
+    write_legacy_metrics: bool,
+) -> Path:
+    json_path = save_json_artifact(output_dir, "alignment", json_name, {"documents": results})
+
+    if write_legacy_metrics:
+        metrics_path = output_dir / "metrics.csv"
+        with metrics_path.open("w", encoding="utf-8", newline="") as csv_file:
+            writer = csv.DictWriter(
+                csv_file,
+                fieldnames=[
+                    "document_id",
+                    "status",
+                    "promise_section",
+                    "delivery_sections",
+                    "alignment_score",
+                    "alignment_label",
+                    "notes",
+                ],
+            )
+            writer.writeheader()
+            for result in results:
+                writer.writerow(
+                    {
+                        "document_id": result["document_id"],
+                        "status": result["status"],
+                        "promise_section": result["promise_section"],
+                        "delivery_sections": ";".join(result["delivery_sections"]),
+                        "alignment_score": "" if result["alignment_score"] is None else f"{result['alignment_score']:.4f}",
+                        "alignment_label": result["alignment_label"],
+                        "notes": " | ".join(result["notes"]),
+                    }
+                )
+
+    return json_path
+
+
+def run_alignment_for_method(
+    documents: list[dict[str, object]],
+    method: str,
+) -> list[AlignmentResult]:
+    similarity_function = build_similarity_function(method)
     results: list[AlignmentResult] = []
 
     for document in documents:
@@ -585,9 +695,12 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple
             results.append(
                 {
                     "document_id": document_id,
+                    "method": method,
                     "status": "error",
                     "promise_section": "introduction",
+                    "promise_doco_section": LEGACY_TO_DOCO["introduction"],
                     "delivery_sections": [],
+                    "delivery_doco_sections": [],
                     "compared_pairs": [],
                     "alignment_score": None,
                     "alignment_label": "insufficient_sections",
@@ -613,9 +726,10 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple
             if introduction is None or delivery_section is None:
                 continue
 
-            score = compute_similarity(introduction["content"], delivery_section["content"])
+            score = similarity_function(introduction["content"], delivery_section["content"])
             compared_pairs.append(
                 {
+                    "method": method,
                     "promise_section": "introduction",
                     "promise_doco_section": LEGACY_TO_DOCO["introduction"],
                     "delivery_section": delivery_name,
@@ -632,6 +746,7 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple
 
         result: AlignmentResult = {
             "document_id": document_id,
+            "method": method,
             "status": "ok",
             "promise_section": "introduction",
             "promise_doco_section": LEGACY_TO_DOCO["introduction"],
@@ -646,37 +761,105 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple
         }
         results.append(result)
 
-    json_path = save_json_artifact(output_dir, "alignment", "results.json", {"documents": results})
+    return results
 
-    metrics_path = output_dir / "metrics.csv"
-    with metrics_path.open("w", encoding="utf-8", newline="") as csv_file:
+
+def write_method_comparison(
+    output_dir: Path,
+    tfidf_results: list[AlignmentResult],
+    scibert_results: list[AlignmentResult],
+) -> Path:
+    tfidf_by_doc = {result["document_id"]: result for result in tfidf_results}
+    scibert_by_doc = {result["document_id"]: result for result in scibert_results}
+    output_path = output_dir / "alignment" / "comparison.csv"
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8", newline="") as csv_file:
         writer = csv.DictWriter(
             csv_file,
             fieldnames=[
                 "document_id",
-                "status",
-                "promise_section",
-                "delivery_sections",
-                "alignment_score",
-                "alignment_label",
-                "notes",
+                "tfidf_score",
+                "tfidf_label",
+                "scibert_score",
+                "scibert_label",
+                "score_delta",
             ],
         )
         writer.writeheader()
-        for result in results:
+        for document_id in sorted(tfidf_by_doc):
+            tfidf_result = tfidf_by_doc[document_id]
+            scibert_result = scibert_by_doc[document_id]
+            tfidf_score = tfidf_result["alignment_score"]
+            scibert_score = scibert_result["alignment_score"]
+            score_delta = ""
+            if isinstance(tfidf_score, float) and isinstance(scibert_score, float):
+                score_delta = f"{scibert_score - tfidf_score:.4f}"
             writer.writerow(
                 {
-                    "document_id": result["document_id"],
-                    "status": result["status"],
-                    "promise_section": result["promise_section"],
-                    "delivery_sections": ";".join(result["delivery_sections"]),
-                    "alignment_score": "" if result["alignment_score"] is None else f"{result['alignment_score']:.4f}",
-                    "alignment_label": result["alignment_label"],
-                    "notes": " | ".join(result["notes"]),
+                    "document_id": document_id,
+                    "tfidf_score": "" if tfidf_score is None else f"{tfidf_score:.4f}",
+                    "tfidf_label": tfidf_result["alignment_label"],
+                    "scibert_score": "" if scibert_score is None else f"{scibert_score:.4f}",
+                    "scibert_label": scibert_result["alignment_label"],
+                    "score_delta": score_delta,
                 }
             )
+    return output_path
 
-    return json_path, results
+
+def run_alignment(
+    documents: list[dict[str, object]],
+    output_dir: Path,
+    method: str,
+) -> tuple[Path, list[AlignmentResult]]:
+    if method == "tfidf":
+        tfidf_results = run_alignment_for_method(documents, "tfidf")
+        tfidf_path = write_alignment_artifacts(
+            output_dir,
+            tfidf_results,
+            "tfidf_results.json",
+            write_legacy_metrics=True,
+        )
+        write_alignment_artifacts(
+            output_dir,
+            tfidf_results,
+            "results.json",
+            write_legacy_metrics=False,
+        )
+        return tfidf_path, tfidf_results
+
+    if method == "scibert":
+        scibert_results = run_alignment_for_method(documents, "scibert")
+        scibert_path = write_alignment_artifacts(
+            output_dir,
+            scibert_results,
+            "scibert_results.json",
+            write_legacy_metrics=False,
+        )
+        return scibert_path, scibert_results
+
+    tfidf_results = run_alignment_for_method(documents, "tfidf")
+    scibert_results = run_alignment_for_method(documents, "scibert")
+    tfidf_path = write_alignment_artifacts(
+        output_dir,
+        tfidf_results,
+        "tfidf_results.json",
+        write_legacy_metrics=True,
+    )
+    write_alignment_artifacts(
+        output_dir,
+        tfidf_results,
+        "results.json",
+        write_legacy_metrics=False,
+    )
+    write_alignment_artifacts(
+        output_dir,
+        scibert_results,
+        "scibert_results.json",
+        write_legacy_metrics=False,
+    )
+    write_method_comparison(output_dir, tfidf_results, scibert_results)
+    return tfidf_path, tfidf_results
 
 
 def write_coverage_metrics(
@@ -816,12 +999,13 @@ def main() -> None:
     summary_path = write_extraction_summary(args.output_dir, documents)
     dataset_summary_path = write_dataset_summary(args.output_dir, documents)
     protocol_path = write_experimental_protocol(args.output_dir)
-    alignment_path, alignment_results = run_alignment(documents, args.output_dir)
+    alignment_path, alignment_results = run_alignment(documents, args.output_dir, args.method)
     coverage_metrics_path = write_coverage_metrics(args.output_dir, documents, alignment_results)
 
     print("Etapas de ingestao, pre-processamento, segmentacao e alinhamento concluidas.")
     print(f"Entrada: {args.input_dir}")
     print(f"Saida: {args.output_dir}")
+    print(f"Metodo: {args.method}")
     print(f"Documentos encontrados: {len(documents)}")
     print(f"Resumo salvo em: {summary_path}")
     print(f"Resumo do dataset salvo em: {dataset_summary_path}")

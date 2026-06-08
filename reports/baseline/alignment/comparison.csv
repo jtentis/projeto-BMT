@@ -1,0 +1,11 @@
+document_id,tfidf_score,tfidf_label,scibert_score,scibert_label,score_delta
+AMDavid,0.4040,high,0.9690,high,0.5650
+ENPinho,0.3280,medium,0.9688,high,0.6408
+FMRolim,0.5123,high,0.9659,high,0.4536
+GGSouza,0.4525,high,0.9730,high,0.5205
+HBCReis,0.4680,high,0.9791,high,0.5111
+HBMHenriques,0.3190,medium,0.6121,high,0.2931
+LCMarques,0.0000,low,0.6965,high,0.6965
+LMFGaleno,0.6510,high,0.9818,high,0.3308
+MDFonseca,0.4065,high,0.9718,high,0.5653
+PVMNascimento,0.4224,high,0.9748,high,0.5524

@@ -2,7 +2,7 @@
   "documents": [
     {
       "document_id": "AMDavid",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -16,29 +16,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.3285
+          "score": 0.969
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.404
+          "score": 0.9628
         }
       ],
-      "alignment_score": 0.404,
+      "alignment_score": 0.969,
       "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "ENPinho",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -52,29 +52,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.3138
+          "score": 0.9635
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.328
+          "score": 0.9688
         }
       ],
-      "alignment_score": 0.328,
-      "alignment_label": "medium",
+      "alignment_score": 0.9688,
+      "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "FMRolim",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -88,29 +88,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.5123
+          "score": 0.9659
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.1379
+          "score": 0.9097
         }
       ],
-      "alignment_score": 0.5123,
+      "alignment_score": 0.9659,
       "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "GGSouza",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -124,29 +124,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.4525
+          "score": 0.969
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.4394
+          "score": 0.973
         }
       ],
-      "alignment_score": 0.4525,
+      "alignment_score": 0.973,
       "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "HBCReis",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -160,29 +160,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.4193
+          "score": 0.9384
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.468
+          "score": 0.9791
         }
       ],
-      "alignment_score": 0.468,
+      "alignment_score": 0.9791,
       "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "HBMHenriques",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -196,29 +196,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.0531
+          "score": 0.6121
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.319
+          "score": 0.5453
         }
       ],
-      "alignment_score": 0.319,
-      "alignment_label": "medium",
+      "alignment_score": 0.6121,
+      "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "LCMarques",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -232,29 +232,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.0
+          "score": 0.6965
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.0
+          "score": 0.6344
         }
       ],
-      "alignment_score": 0.0,
-      "alignment_label": "low",
+      "alignment_score": 0.6965,
+      "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "LMFGaleno",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -268,29 +268,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.4935
+          "score": 0.9737
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.651
+          "score": 0.9818
         }
       ],
-      "alignment_score": 0.651,
+      "alignment_score": 0.9818,
       "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "MDFonseca",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -304,29 +304,29 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.0793
+          "score": 0.8753
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.4065
+          "score": 0.9718
         }
       ],
-      "alignment_score": 0.4065,
+      "alignment_score": 0.9718,
       "alignment_label": "high",
       "notes": []
     },
     {
       "document_id": "PVMNascimento",
-      "method": "tfidf",
+      "method": "scibert",
       "status": "ok",
       "promise_section": "introduction",
       "promise_doco_section": "doco:Introduction",
@@ -340,23 +340,23 @@
       ],
       "compared_pairs": [
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
           "delivery_doco_section": "doco:Results",
-          "score": 0.4224
+          "score": 0.9711
         },
         {
-          "method": "tfidf",
+          "method": "scibert",
           "promise_section": "introduction",
           "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
           "delivery_doco_section": "doco:Conclusion",
-          "score": 0.3465
+          "score": 0.9748
         }
       ],
-      "alignment_score": 0.4224,
+      "alignment_score": 0.9748,
       "alignment_label": "high",
       "notes": []
     }
