@@ -1,33 +1,5 @@
 {
-  "available_sections": [
-    "conclusion",
-    "introduction",
-    "results"
-  ],
-  "missing_sections": [],
-  "sections": {
-    "introduction": {
-      "header": "1 INTRODUÇÃO",
-      "start_char": 193,
-      "end_char": 238,
-      "content": "Ao longo da história humana, jogos serviram diversos papéis, incluindo mas não limitado a confraternização, entretenimento, e desenvolvimento de habilidades e competências. Com o passar do tempo, jogos e suas características sofreram mudanças, adaptações e cresceram em proeminência na sociedade humana, de jogos de tabuleiro datados de milênios no passado (Senet, Figura 1), até os jogos digitais compactos contemporâneos. Figura 1 – Tabuleiro de Senet, Egito, c. 1390 - 1353 AEC Fonte: Brooklyn Museum, Charles Edwin Wilbour Fund (Obj. 49.56a-b) Em consequência destas mudanças, em tempos recentes o desenvolvimento de jogos educacionais surgiu como uma tática inovadora para atrair e manter a atenção de estudantes e promover a experiência de aprendizado de maneira lúdica e envolvente. Jogos educacionais transformam o processo de aprendizado, fazendo dele uma experiência interativa e dinâmica. Ao estimular a motivação natural do jogador quanto a desafios e solução de problemas, essa modalidade de jogo permite ao estudante aprender novos temas, praticar seu conhecimento, e desenvolver habilidades lógicas importantes, estando ainda ativamente envolvido no processo de aprendizagem. 1.1 MOTIVAÇÃO Tratando-se de jogos educacionais, um exemplo é o SCREENER (Figura 2), um jogo que tem como finalidade o ensino do processo de Descoberta e Desenvolvimento de Fármacos e medicamentos (DDF). Produto dos esforços de uma equipe multidisciplinar, o SCREENER foi desenvolvido a partir de uma proposta do Prof. François Noël em colaboração com o laboratório LUDES (NOEL et al., 2021). 16 Figura 2 – SCREENER, Anúncio Fonte: https://www.screener.com.br O jogo obteve sucesso no seu objetivo de proporcionar um aprendizado lúdico sobre o assunto, e já foi usado por diversos cursos de Pós-Graduação em Farmacologia e outras áreas. Consequentemente, ele serve também como a inspiração para este trabalho. Sendo ele um jogo de tabuleiro para até seis jogadores, a motivação para este projeto é criar uma versão que abranja um público ainda não alcançado pelo jogo original, assim continuando a disseminar o conhecimento que ele busca promover. 1.2 OBJETIVOS Com relação a assuntos como o processo de DDF, que envolvem uma sequência de eventos, jogos do tipo timeline (Figura 3) tem relevância particular. Esses são jogos que encarregam o jogador de organizar cronologicamente uma série de eventos, assim buscando ensinar um dado assunto e promover a capacidade de pensamento crítico. Figura 3 – G1: Quando Aconteceu? Especial Copa do Mundo Fonte: https://especiais.g1.globo.com/mundo/copa-do-catar/2022/quando-aconteceu Mantendo isso em mente, este trabalho tem como objetivo estabelecer métodos e requi- 17 sitos para o design e desenvolvimento de jogos timeline, e subsequentemente implementar um jogo digital de jogador único desse mesmo tipo, que faça uso das particularidades da modalidade para propiciar o mesmo aprendizado lúdico do SCREENER original de maneira compacta e interativa. 1.3 PROCESSO DE DESENVOLVIMENTO O processo de desenvolvimento deste projeto consiste no seguinte trajeto. Primeiro, analisa-se o funcionamento do SCREENER original e determina-se que aspectos dele devem ser mantidos e quais devem sofrer alterações para melhor adequação ao formato novo. A seguir, define-se que funcionalidades são necessárias para a execução de um jogo timeline, e quais ferramentas usar para implementá-las. Por fim, ocorre o desenvolvimento do jogo. Estas etapas serão subsequentemente abordadas individualmente. 18",
-      "content_length": 3521
-    },
-    "results": {
-      "header": "1.3 PROCESSO DE DESENVOLVIMENTO",
-      "start_char": 230,
-      "end_char": 238,
-      "content": "O processo de desenvolvimento deste projeto consiste no seguinte trajeto. Primeiro, analisa-se o funcionamento do SCREENER original e determina-se que aspectos dele devem ser mantidos e quais devem sofrer alterações para melhor adequação ao formato novo. A seguir, define-se que funcionalidades são necessárias para a execução de um jogo timeline, e quais ferramentas usar para implementá-las. Por fim, ocorre o desenvolvimento do jogo. Estas etapas serão subsequentemente abordadas individualmente. 18",
-      "content_length": 502
-    },
-    "conclusion": {
-      "header": "6 CONCLUSÃO",
-      "start_char": 1248,
-      "end_char": 1271,
-      "content": "Em consequência dos atributos particulares apresentados por jogos educacionais e jogos no formato timeline, o Screener Timeline apresenta diversas características de interesse a seu propósito educacional. O ato de posicionar as cartas em sequência requer que o jogador avalie o conteúdo de cada uma delas, o que significa que simultaneamente ocorre aprendizagem e memorização dos eventos constituintes do processo de Descoberta e Desenvolvimento de Fármacos, e assim são também treinadas as habilidades de análise e inferência. É proporcionado um tipo de aprendizado distinto ao do SCREENER original, dado que o novo jogo é de jogador único enquanto o original é de multijogador, e ao organizar as cartas de jogo em uma representação de linha do tempo, o jogador elucida o contexto entre cada uma das etapas e tarefas do processo de DDF, e é também proporcionado de uma oportunidade para recriar e relembrar informação aprendida anteriormente. Adicionalmente, os contadores de erros e de tempo permitem ao jogador avaliar seu desempenho ao final de uma partida, e é provido fácil acesso ao website do SCREENER caso sejam desejadas informações mais detalhadas quanto à inspiração do jogo ou o tema de DDF. A representação visual simples do jogo, em conjunto com a duração curta de cada partida individual e formato compacto, fazem do Screener Timeline uma ferramenta útil para o auxílio da aprendizagem do tema de Descoberta e Desenvolvimento de Fármacos. 58 REFERÊNCIAS BACKLUND, P.; HENDRIX, M. Educational games – are they worth the effort? a literature survey of the effectiveness of serious games.IEEE Xplore, United Kingdom, 2013. Disponível em: https://ieeexplore.ieee.org/document/6624226. Acesso em: 2 set.2023. BERTILSSON, F. et al. Retrieval practice: Beneficial for all students or moderated by individual differences? Psychology Learning and Teaching, Sweden, v. 20, n. 1,",
-      "content_length": 1884
-    }
-  },
+  "document_id": "HBCReis",
   "available_doco_labels": [
     "doco:Conclusion",
     "doco:Discussion",

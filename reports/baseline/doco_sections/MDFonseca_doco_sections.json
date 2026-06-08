@@ -1,33 +1,5 @@
 {
-  "available_sections": [
-    "conclusion",
-    "introduction",
-    "results"
-  ],
-  "missing_sections": [],
-  "sections": {
-    "introduction": {
-      "header": "1 INTRODUÇÃO",
-      "start_char": 192,
-      "end_char": 215,
-      "content": "Dungeons and Dragons (D&D) é um Tabletop Role-Playing Game (TTRPG) originalmente publicado em 1974 que permite que um grupo de jogadores criem personagens para enfrentar desaﬁos apresentados por um jogador tomando papel de mestre do mundo, denominado Dungeon Master (DM). De acordo com aWizards of the Coast , mais de 50 milhões de pessoas mundialmente já jogaram D&D, com a edição atual, a quinta edição, possuindo mais de 10 milhões de jogadores ativos. Uma diﬁculdade comum encontrada pelos DMs quando planejando as aventuras para seus jogadores está em criar encontros de combate equilibrados e interessantes para seus jogadores, devido à complexidade dos personagens e seus inimigos e a quantidade de interações e conhecimento do jogo necessária. Assim, esse trabalho busca apresentar o desenvolvimento de uma ferramenta capaz de auxiliar DMs com esse desaﬁo mediante simulação, considerando as regras da quinta edição de D&D apresentadas nos livros oﬁciais Player’s Handbook, Dungeon Master’s Guide e Monster Manual (Wizards RPG T eam, 2014c; Wizards RPG T eam, 2014a; Wizards RPG T eam, 2014b). O objetivo do trabalho é criar uma ferramenta capaz de simular diversos encontros de combate da quinta edição de D&D, com personagens e inimigos customizáveis, seguindo as regras oﬁciais descritas nos livros principais. Sub-objetivos incluem a criação de uma interface para facilitar a customização dos diversos aspectos dos personagens e organizar os encontros de combate; e a devolução de métricas úteis para os propósitos do DM. É esperado que os resultados obtidos por simulação estejam alinhados com os resultados dos sistemas descritos nos livros oﬁciais, condição que foi veriﬁcada por testes comparando ambos. Além disso, foi feita uma avaliação qualitativa da ferramenta por jogadores de D&D experientes, mostrando que a ferramenta é útil. A partir desta introdução, o trabalho será desenvolvido em mais seis seções. A seção",
-      "content_length": 1935
-    },
-    "results": {
-      "header": "2 descreve a fundo D&D e o como funciona seu sistema de combate; a seção 3 descreve os",
-      "start_char": 215,
-      "end_char": 223,
-      "content": "métodos e ferramentas utilizadas durante o trabalho; a seção 4 deﬁne a proposta ﬁnal do projeto; a seção 5 detalha a implementação do simulador; a seção 6 mostra as avaliações realizadas e seus resultados; e a seção 7 apresenta as conclusões ﬁnais do trabalho. 13 Figura 1 – Livros principais do Dungeons and Dragons 5 a Edição F onte: http://dnd5ed.github.io/ 14",
-      "content_length": 363
-    },
-    "conclusion": {
-      "header": "7 CONCLUSÃO",
-      "start_char": 1398,
-      "end_char": 1419,
-      "content": "Os resultados observados pelos testes quantitativos mostram que o simulador foi capaz de alcançar seus objetivos, servindo como uma ferramenta para DMs conseguirem analisar e ajustar encontros de combate, usando simulações capazes de seguir as regras oﬁciais de D&D e os dados obtidos através dessas simulações. As avaliações quantitativas obtiveram resultados em linha com os resultados esperados pelas regras oﬁciais apresentadas no Dungeon Master’s Guide , mostrando que as simulações se mantiveram consistentes com o que se espera em um cenário real. As avaliações qualitativas por sua vez mostraram que embora a ferramenta não esteja perfeita, ela se prova útil para a criação e planejamento de encontros no ponto de vista dos DMs. Existem múltiplas possibilidades para avanços futuros na ferramenta, incluindo principalmente a implementação de alguns aspectos mais detalhados do jogo, como movimentação, mapas, alcances de ações e áreas de efeito “reais”. Houve alguns aspectos do combate que também não foram diretamente implementados, como reações que podem ser realizadas quando algum evento especíﬁco acontece; ações lendárias, especíﬁcas para alguns monstros capazes de usar ações fora de seu próprio turno; e habilidades, que tem sua utilidade principal fora de combate, mas podem ter seus usos durante. Finalmente, existem possibilidades adicionais para avaliações, incluindo por exemple a comparação de resultados encontrados pela simulação com o resultado de encontros de combate realizados por jogadores humanos Em conclusão, a ferramenta criada permite que DMs consigam preparar e equilibrar seus encontros de combate de forma mais detalhada e com mais dados, levando a uma experiência melhor para o DM e seus jogadores alheios. 64",
-      "content_length": 1748
-    }
-  },
+  "document_id": "MDFonseca",
   "available_doco_labels": [
     "doco:Conclusion",
     "doco:Introduction",

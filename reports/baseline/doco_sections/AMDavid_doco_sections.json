@@ -1,33 +1,5 @@
 {
-  "available_sections": [
-    "conclusion",
-    "introduction",
-    "results"
-  ],
-  "missing_sections": [],
-  "sections": {
-    "introduction": {
-      "header": "1 INTRODUÇÃO",
-      "start_char": 260,
-      "end_char": 288,
-      "content": "A indústria dos videogames começou a tomar forma durante os anos 70. Hoje, é uma das maiores no ramo de entretenimento, tendo movimentado mais de 100 bilhões de dólares em 2017. Nessa indústria existem muitas empresas grandes e bem consolidadas, porém é cada vez mais comum a presença de pequenas empresas, chamadas de“indies”, às vezes composta por apenas uma pessoa. 1.1 MOTIVAÇÃO Mesmo com poucos recursos ﬁnanceiros empresas menores conseguem marcar presença apostando em inovação para chamar a atenção do público e disputar o mercado. Porém, no aspecto de qualidade, diferente das grandes empresas, que conseguem ter equipes dedicadas apenas a testarem os jogos e verba para adquirir ferramentas de análise complexas, as independentes precisam recorrer a outras formas de fazer a veriﬁcação de qualidade. Uma dessas maneiras é disponibilizar o jogo, logo numa fase inicial, para um público selecionado, a ﬁm de terem um parecer sobre a qualidade o mais cedo possível, vindo direto de seu público. Esse trabalho pretende ajudar esses desenvolvedores fornecendo para eles uma maneira de veriﬁcar a qualidade de seus jogos de uma maneira simples e barata. 1.2 OBJETIVO Este trabalho tem como objetivo apresentar uma ferramenta de telemetria para auxiliar na veriﬁcação de qualidade em jogos. Com ela é esperado que desenvolvedores consigam colher mais dados sobre como os jogadores interagem com seus jogos e com isso gerar insumos para a melhorar a qualidade do seu produto. 1.3 ESTRUTURA DO TEXTO Este texto teve sua estrutura dividida da seguinte maneira: no capítulo 2 (Referências Teóricas) são deﬁnidos conceitos necessários para o entendimento integral do projeto; o capítulo 3 (Tecnologias) descreve tecnicamente como o projeto foi implementado; O capítulo 4 (Proposta de Modelo) detalha o modelo, descrevendo os tipos de evento e suas características e as métricas disponíveis; O capítulo 5 (Manual do Usuário) descreve como a ferramenta deve ser conﬁgurada e utilizada, explicando o uso dos diferentes tipos de evento. O capítulo 6 (Exemplos) mostra a ferramenta em ação, sendo aplicada em dois tipos diferentes de jogos; e por ﬁm o capítulo 7 expõe as conclusões do projeto. 15",
-      "content_length": 2190
-    },
-    "results": {
-      "header": "2.3.1 Desenvolvimento orientado a dados",
-      "start_char": 432,
-      "end_char": 456,
-      "content": "A coleta de dados do uso de um software que podem ser mensurados e interpretados é muito importante a ﬁm de ajudar o desenvolvedor a entender melhor alguma característica do seu produto e tomar ações a partir dessas informações para melhorá-lo. 2.3.1.1 Síntese A síntese de uma característica de uso de um software é a composição de vários dados para a geração de uma informação. É possível, então, entender o comportamento médio do seu usuário, a ﬁm de entender suas necessidades. Um exemplo do uso de síntese no entendimento de um software é o gráﬁco de DAU (Daily Active Users, em português Usuários Ativos por Dia). Essa informação é útil principalmente para desenvolvedores de jogosmultiplayer entenderem se o mercado está respondendo positivamente ou não ao seu jogo. 2.3.1.2 Análise A análise, por outro lado, ao invés de unir todos os dados, permite o estudo de cada parte de forma independente e bem detalhada. É possível então entender o comportamento de um usuário especíﬁco, a ﬁm de focar melhor em um nicho de usuários ou encontrar anomalias no software. Alguns casos que estariam fora de uma curva mediana na síntese, ainda assim podem ser interessantes e conseguiriam ser avaliados durante a análise. 21 Um exemplo de uso é analisar o comportamento de um jogador em algum ponto especíﬁco do jogo. Ao lutar contra um chefe, que decisões o jogador toma ou que estratégia ele usa? O que levou o jogador a seguir por um caminho ou outro? A resposta para essas perguntas podem ser obtidas através da análise do rastreamento do jogador e informar se o combate está muito difícil ou muito fácil, por exemplo.",
-      "content_length": 1616
-    },
-    "conclusion": {
-      "header": "7.1 CONSIDERAÇÕES FINAIS",
-      "start_char": 1139,
-      "end_char": 1153,
-      "content": "O processo de telemetria é muito útil para desenvolvedores medirem a qualidade de seus jogos e ajustá-los para que proporcionem a melhor experiência possível para o seu público. Muitos estúdios utilizam ferramentas rebuscadas, complexas e de alto custo como solução. Porém, como relatado, para pequenos desenvolvedores, soluções simples já são suﬁcientes para agregar alto valor de análise. Neste trabalho foi criada uma ferramenta de visualização simples de compreensão e utilização, open source (para extensibilidade colaborativa) e vinculada aUnity, uma ferramenta muito conceituada e utilizada no meio de desenvolvedores de jogos. Através do disparo de eventos de três tipos (propostos no modelo), é possível mapear todo tipo de acontecimento em um jogo, independente de decisões estéticas ou técnicas, sendo necessário apenas uma estrutura compatível com o funcionamento da ferramenta (jogos com estrutura similar a de jogosarcade). Essa ﬂexibilidade permite que a jogabilidade de uma gama enorme de jogos seja analisada através da visualização dos eventos, gerada pela ferramenta.",
-      "content_length": 1086
-    }
-  },
+  "document_id": "AMDavid",
   "available_doco_labels": [
     "doco:Conclusion",
     "doco:Discussion",

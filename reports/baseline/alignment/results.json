@@ -4,19 +4,28 @@
       "document_id": "AMDavid",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.3285
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.404
         }
       ],
@@ -28,19 +37,28 @@
       "document_id": "ENPinho",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.3138
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.328
         }
       ],
@@ -52,19 +70,28 @@
       "document_id": "FMRolim",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.5123
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.1379
         }
       ],
@@ -76,19 +103,28 @@
       "document_id": "GGSouza",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.4525
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.4394
         }
       ],
@@ -100,19 +136,28 @@
       "document_id": "HBCReis",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.4193
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.468
         }
       ],
@@ -124,19 +169,28 @@
       "document_id": "HBMHenriques",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.0531
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.319
         }
       ],
@@ -148,19 +202,28 @@
       "document_id": "LCMarques",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.0
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.0
         }
       ],
@@ -172,19 +235,28 @@
       "document_id": "LMFGaleno",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.4935
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.651
         }
       ],
@@ -196,19 +268,28 @@
       "document_id": "MDFonseca",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.0793
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.4065
         }
       ],
@@ -220,19 +301,28 @@
       "document_id": "PVMNascimento",
       "status": "ok",
       "promise_section": "introduction",
+      "promise_doco_section": "doco:Introduction",
       "delivery_sections": [
         "results",
         "conclusion"
       ],
+      "delivery_doco_sections": [
+        "doco:Results",
+        "doco:Conclusion"
+      ],
       "compared_pairs": [
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "results",
+          "delivery_doco_section": "doco:Results",
           "score": 0.4224
         },
         {
           "promise_section": "introduction",
+          "promise_doco_section": "doco:Introduction",
           "delivery_section": "conclusion",
+          "delivery_doco_section": "doco:Conclusion",
           "score": 0.3465
         }
       ],

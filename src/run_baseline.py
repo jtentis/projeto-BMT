@@ -51,6 +51,13 @@ class DatasetDocument(TypedDict):
     warning_count: int
 
 
+LEGACY_TO_DOCO = {
+    "introduction": "doco:Introduction",
+    "results": "doco:Results",
+    "conclusion": "doco:Conclusion",
+}
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
@@ -206,6 +213,70 @@ def classify_heading_role(normalized_title: str) -> str | None:
     return None
 
 
+def classify_doco_role(normalized_title: str) -> str:
+    intro_patterns = [r"\bintrodu", r"\bintroduction\b"]
+    conclusion_patterns = [
+        r"\bconclus",
+        r"\bconsideracoes finais\b",
+        r"\bfinal considerations\b",
+        r"\bconclusion\b",
+    ]
+    method_patterns = [
+        r"\bmetod",
+        r"\bmethod",
+        r"\bmateriais e metodos\b",
+        r"\bprocedimentos\b",
+        r"\bprocesso de desenvolvimento\b",
+    ]
+    related_work_patterns = [
+        r"\btrabalhos relacionados\b",
+        r"\brelated work\b",
+        r"\breferencial teorico\b",
+        r"\breferencias teoricas\b",
+        r"\bfundamentacao teorica\b",
+        r"\bconceitos basicos\b",
+        r"\brevisao bibliografica\b",
+    ]
+    discussion_patterns = [
+        r"\bdiscuss",
+        r"\bavaliac",
+        r"\banalis",
+        r"\banalise dos resultados\b",
+        r"\banalise e discuss",
+        r"\bavaliacao dos resultados\b",
+    ]
+    results_patterns = [
+        r"\bresult",
+        r"\bexperimen",
+        r"\bestudo de caso\b",
+        r"\baplicac",
+        r"\bexemplos?\b",
+        r"\bparte pratica\b",
+        r"\bdesenvolv",
+        r"\bimplementac",
+        r"\bproposta\b",
+        r"\bmodelo\b",
+        r"\bferramenta\b",
+        r"\bsistema\b",
+        r"\bsimulador\b",
+        r"\bmanual\b",
+    ]
+
+    if any(re.search(pattern, normalized_title) for pattern in intro_patterns):
+        return "doco:Introduction"
+    if any(re.search(pattern, normalized_title) for pattern in conclusion_patterns):
+        return "doco:Conclusion"
+    if any(re.search(pattern, normalized_title) for pattern in related_work_patterns):
+        return "doco:RelatedWork"
+    if any(re.search(pattern, normalized_title) for pattern in method_patterns):
+        return "doco:Methods"
+    if any(re.search(pattern, normalized_title) for pattern in discussion_patterns):
+        return "doco:Discussion"
+    if any(re.search(pattern, normalized_title) for pattern in results_patterns):
+        return "doco:Results"
+    return "doco:Other"
+
+
 def heading_level(numbering: str) -> int:
     return numbering.count(".") + 1
 
@@ -255,6 +326,7 @@ def segment_sections(normalized_text: str) -> SegmentationResult:
                 "level": heading_level(numbering),
                 "header": raw_line,
                 "normalized_title": title,
+                "doco_role": classify_doco_role(title),
                 "role": classify_heading_role(title),
             }
         )
@@ -321,7 +393,26 @@ def segment_sections(normalized_text: str) -> SegmentationResult:
             "content_length": len(content),
         }
 
-    return {
+    doco_sections: dict[str, list[dict[str, object]]] = {}
+    for heading_idx, heading in enumerate(headings):
+        doco_role = str(heading["doco_role"])
+        if doco_role == "doco:Other":
+            continue
+        start_line = int(heading["line_index"])
+        end_line = next_section_boundary(lines, headings, heading_idx)
+        content = " ".join(lines[start_line + 1 : end_line]).strip()
+        doco_sections.setdefault(doco_role, []).append(
+            {
+                "header": str(heading["header"]),
+                "legacy_role": heading["role"],
+                "start_char": start_line,
+                "end_char": end_line,
+                "content": content,
+                "content_length": len(content),
+            }
+        )
+
+    result = {
         "available_sections": sorted(sections.keys()),
         "missing_sections": [
             section_name
@@ -329,7 +420,20 @@ def segment_sections(normalized_text: str) -> SegmentationResult:
             if section_name not in sections
         ],
         "sections": sections,
+        "available_doco_labels": sorted(doco_sections.keys()),
+        "missing_doco_labels": [
+            label
+            for label in (
+                "doco:Introduction",
+                "doco:Results",
+                "doco:Discussion",
+                "doco:Conclusion",
+            )
+            if label not in doco_sections
+        ],
+        "doco_sections": doco_sections,
     }
+    return result
 
 
 def save_json_artifact(output_dir: Path, relative_dir: str, name: str, payload: object) -> Path:
@@ -513,7 +617,9 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple
             compared_pairs.append(
                 {
                     "promise_section": "introduction",
+                    "promise_doco_section": LEGACY_TO_DOCO["introduction"],
                     "delivery_section": delivery_name,
+                    "delivery_doco_section": LEGACY_TO_DOCO[delivery_name],
                     "score": round(score, 4),
                 }
             )
@@ -528,7 +634,11 @@ def run_alignment(documents: list[dict[str, object]], output_dir: Path) -> tuple
             "document_id": document_id,
             "status": "ok",
             "promise_section": "introduction",
+            "promise_doco_section": LEGACY_TO_DOCO["introduction"],
             "delivery_sections": [str(pair["delivery_section"]) for pair in compared_pairs],
+            "delivery_doco_sections": [
+                str(pair["delivery_doco_section"]) for pair in compared_pairs
+            ],
             "compared_pairs": compared_pairs,
             "alignment_score": alignment_score,
             "alignment_label": label_alignment(alignment_score),
@@ -661,6 +771,19 @@ def run_extraction(input_dir: Path, output_dir: Path) -> list[dict[str, object]]
                     "segmentation",
                     f"{pdf_path.stem}_sections.json",
                     sections,
+                )
+            )
+            record["doco_sections_output_path"] = str(
+                save_json_artifact(
+                    output_dir,
+                    "doco_sections",
+                    f"{pdf_path.stem}_doco_sections.json",
+                    {
+                        "document_id": pdf_path.stem,
+                        "available_doco_labels": sections["available_doco_labels"],
+                        "missing_doco_labels": sections["missing_doco_labels"],
+                        "doco_sections": sections["doco_sections"],
+                    },
                 )
             )
         except Exception as exc:
