@@ -1,0 +1,941 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+INSTITUTO DE ECONOMIA
+MONOGRAFIA DE BACHARELADO
+O DEBATE SOBRE A DISTRIBUIÇÃO DE RENDA NO
+BRASIL: VERSÃO ANOS 2000
+RAFAEL PAPADOPOULOS NOGUEIRA
+matrícula nº: 107329406
+ORIENTADORA: Prof. Maria de Mello Malta
+JANEIRO 2014
+4
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+INSTITUTO DE ECONOMIA
+MONOGRAFIA DE BACHARELADO
+O DEBATE SOBRE A DISTRIBUIÇÃO DE RENDA NO
+BRASIL: VERSÃO ANOS 2000
+______________________________
+RAFAEL PAPADOPOULOS NOGUEIRA
+matrícula nº: 107329406
+ORIENTADORA: Prof. Maria de Mello Malta
+JANEIRO 2014
+5
+As opiniões expressas neste trabalho são de exclusiva responsabilidade do(a) autor(a)
+6
+Resumo
+Este trabalho tem como objetivo apresentar o debate recente sobre a distribuição de renda no
+Brasil. Mostrar o diagnóstico dominante sobre o tema e sua agenda propositiva, mas também a
+sua respectiva crítica. Para isso, antes é feita uma discussão sobre as bases teóric as do debate e
+também são apresentados alguns limites e problemas que os estudos sobre o tema podem conter.
+7
+Índice
+Introdução: ...................................................................................................................................... 8
+Capítulo 1 – A questão da distribuição de renda como controvérsia teórica no Brasil. ................. 9
+Introdução: .................................................................................................................................. 9
+1.1 A aplicação do pensamento marxista brasileiro na análise sobre a distribuição: ............... 10
+1.2 Os marginalistas e sua versão brasileira ............................................................................. 12
+Capítulo 2 - Problemas metodológicos de uma análise acerca da distribuição de renda .............. 17
+Introdução: ................................................................................................................................ 17
+2.1 – Distribuição pessoal x distribuição funcional da renda ................................................... 17
+2.2 Os problemas com os dados disponíveis no Brasil ............................................................. 18
+Capítulo 3 – Debate distributivo no Brasil: versão dos anos 2000 ............................................... 24
+Introdução: ................................................................................................................................ 24
+3.1 – Introdução ao debate “versão 2000” ................................................................................ 24
+3.2 – Versão dominante ............................................................................................................ 26
+3.3 – Uma resposta à versão dominante: críticas teóricas e metodológicas ............................. 32
+Conclusão ...................................................................................................................................... 39
+Bibliografia ................................................................................................................................... 40
+8
+Introdução:
+O debate sobre distribuição de renda é tão importante no Brasil em virtude de sua
+relevância material. O Brasil sempre foi o país com a pior distribuição de renda de todo o
+mundo, podendo apenas estar em segundo lugar , de acordo com alguns indicadores alternativos.
+As abordagens ao t ema foram , e são muitas e suas diferenças refletem posições políticas e
+filiações teóricas diversas.
+O debate distributivo normalmente ganha maior força no Brasil quando variações na
+distribuição são apontadas como resultado de análises concretas. Pode m-se destacar dois
+momentos importantes deste debate. O primeiro durante os anos 1970 após a publicação do
+CENSO 1970 que revelou uma piora da distribuição importante em relação ao decênio anterior
+em meio ao anos de pleno milagre econômico da ditadura civil -militar brasileira. O segundo,
+mais recente, motivado pela publicidade realizada pelo governo federal em torno de melhorias na
+distribuição de renda no Brasil após o primeiro governo Lula.
+Em ambos os casos um “arsenal” de economistas foi convocado para ex plicar as questões
+apontadas pela história e pela política. Entre justificadores e críticos , os debates sempre fazem
+referência direta ou indireta a elementos teóricos e metodológicos para definir o argumento.
+Visitemos então estas questões antes de entra r no debate específico sobre a melhoria da
+distribuição de renda no Brasil no s anos 2000. Primeiro passaremos pelo debate mais geral n a
+Historia do Pensamento Econômico sobre distribuição de renda e suas influências no Brasil. Em
+seguida visitaremos as questões metodológicas e as diferentes abordagens que um estudo sobre
+o tema pode ter , levantando também alguns problemas e limites que o tema e os dados sobre o
+assunto carregam. Por fim, apresentaremos um diagnóstico recente sobre evolução da
+distribuição de renda no Brasil uma respectiva crítica, expressando em termos práticos o que foi
+discutido anteriormente.
+9
+Capítulo 1 – A questão da distribuição de renda como controvérsia teórica no Brasil.
+“...De pouco vale argumentar apenas com a distribuição de salários e
+rendimentos pessoais, deixando -se de lado a concentração da riqueza, se
+realmente se quiser tocar a fundo as questões.” (CARDOSO, 1975, p.10)
+Introdução:
+Este capítulo tomará como referência o trabalho de Beluzzo ( 1975) por considerar que
+coloca de forma sintética a questão teórica conforme aparece em sua primeira versão no Brasil.
+Segundo este autor o debate gira em torno de duas escolas principais: Marxistas e Marginalistas.
+A primeira busca entender a distribuiçã o como consequência da contradição fundamental do
+Sistema Capitalista: capital x trabalho. A segunda substitui a contradição e busca a explicação
+em algo completamente oposto, harmônico, um equilíbrio gerado em um processo de trocas onde
+cada fator de produção é trocado em iguais condições.
+Apesar de visões opostas ou de discordar nos motivos para tal, existe um mínimo
+consenso entre essas duas escolas na análise real de que a estrutura da distribuição de renda
+pouco se altera. Para os marxistas o motivo desta permanência estrutural é uma determinação do
+sistema capitalista que gera e se sustenta através dessa desigualdade . Para os neoclássicos, não
+está na teoria esta explicação, porém afirmar que a sustentação da estabilidade está na justiça de
+cada fator receber de acordo com sua contribuição no processo produtivo.
+Rodolfo Hoffman apont a que a mencionada estabilidade da distribuição de renda no
+Brasil é algo que revela pouco, e nos impele para um aprofundamento não exclusivamente
+teórico:
+“A relativa est abilidade dos padrões de distribuição da renda e
+riqueza de um país mostra a importância de análise histórica para
+compreender o atual grau de concentração.” (Hoffman, R. 1975)
+10
+Beluzzo e Hoffman são dois autores importantes no campo da análise distributiv a a partir
+de teoria crítica e os utilizaremos para apontar os elementos que conformam a análise marxista
+sobre o tema, conforme apresentada no Brasil.
+1.1 A aplicação do pensamento marxista brasileiro na análise sobre a distribuição:
+Como podemos inferir da citação anterior de Hoffman(1975), a visão marxista faz recurso a
+história para compreender a distribuição de renda de qualquer período enquanto resultado de um
+longo processo. Usando o método materialista histórico dialético Marx , em 1 867, publica sua
+principal obra que se propõe a explicar o Modo de Produção Capitalista.
+Em todo o trabalho de Marx, diferentemente do que ocorre com os autores clássicos, a
+questão da distribuição não é um ponto novo, ou seja, que se deva considerar sua contribuição
+nova do ponto de vista teórico ou um e lemento que deva ser foco principal de ações
+revolucionárias.A melhoria da distribuição de renda é uma questão de autores liberais, na
+tradição iniciada por David Ricardo, que coloca centralidade da distribuição como elemento que
+determinará o ritmo do processo de acumulação a partir da parcela poupada (não consumida) do
+produto total, na mão dos capitalistas. Para Ricardo apenas os capitalistas investiam e por isso
+estava na mão deles o gati lho do pr ocesso de acumulação 1. Apesar disso, Marx contribui ao
+radicalizar a análise distributiv a de Ricardo, colocando em evidência a origem do valor e o fato
+de que a mais -valia, gerada pelo trabalho , é apropriada pelas classes proprietárias (capitalista s e
+proprietários de terra) e que a distribuição ocorre por força do poder relativo das classes, em um
+esquema de disputa entre elas.
+Para Marx, a história da sociedade nada mais é do que a história da luta de classes , e são
+nesses marcos que os Marxistas buscam e ntender e explicar a renda e sua distribuição. A Teoria
+da Distribuição de Marx se base ia em outra teoria básica para o autor, a Teoria do Valor
+Trabalho. Esta teoria se volta para a produção para explicar de onde vem o valor das mercadorias
+e com isso com eçar a explicar o Sistema Capitalista. É justamente na esfera da produção que
+estão dados os limites da distribuição de renda.
+1 Ver Ricardo (1815)
+11
+Vejamos mais a fundo : a classe dominada (trabalhadora) por não possuir os meios de
+produção necessários para a produção social da vida, assim como a classe dominante, se submete
+“livremente” à outra classe (burguesa) de forma a garantir sua subsistência. Ao se submeter à
+exploração capitalista a classe trabalhadora recebe em troca um salário equivalente ao valor de
+reprodução de sua própria força de trabalho.
+Porém, devido ao duplo caráter da força de trabalho - de gerar um v alor maior que ela
+mesma possui - é gerada dura nte o processo de produção uma mercadoria que contém : valor
+antigo transferido de outras mercadorias e valor novo deste processo. Dentro do valor novo
+existe a pequena fração que se destina ao pagamento da força de trabalho ao seu valor. No
+entanto, a maio r parte d o valor novo gerado pela força de trabalho é apropriada pela classe que
+detém o capital. Esta parte maior que é gerada pelo trabalhador , mas que é apropriada pelo
+capitalista é chamada de trabalho não pago, ou mais valia.
+Ao nos voltarmos para o processo da produção e geração do valor e entendermos as
+categorias envolvidas nesse processo, é possível compreender que a desigualdade na distribuição
+da renda nada mais é que a expressão do processo produtivo. Marx já apontava para isso:
+“O salário pre ssupõe o trabalho assalariado, o lucro, o capital. Essas
+formas concretas de distribuição pressupõem, pois, determinadas
+características sociais dos agentes de produção. As relações concretas de
+distribuição são, pois, simplesmente a expressão de produção,
+historicamente determinadas.” (Marx, 1959, apud Belluzzo 1975, p. 16).
+Portanto, a distribuição da renda gerada no processo de produção da riqueza dentro do
+sistema capitalista está atada na desigualdade fundante do sistema e necessária a sua reprodução.
+Belluzo(1975) resume bem o problema: “As relações antagônicas de produção entre trabalho e
+capital se traduzem em relações de distribuição igualmente antagônicas: o desejo dos
+trabalhadores de melhorar suas condiç ões de vida se contrapõe ao impulso dos capitalistas em
+expandir o valor de seu capital.” (p.16)2
+2 Beluzzo(1975) não nos deixa esquecer a importância e a influência dos desenvolvimentos sobre a teoria da
+distribuição realizadas pelos autores clássicos, em especial Adam Smith e David Ricardo, sobre o trabalho de Marx.
+12
+1.2 Os marginalistas e sua versão brasileira
+Belluzo (1975), em seu artigo mostra a importância da ruptura neoclássica para a teoria
+econômica. A Revolução Marginalista no final do século XIX ataca os alicerces da economia
+política clássica e marxista . O que antes era um conflito distributivo entre grupos ou classes d á
+lugar a uma noção de equilíbrio. A contradição se torna harmonia, a tentativa de entender a
+oposição de classes no processo produtivo e sua consequência na distribuição da renda se
+transforma em estudar condições de equilíbrio no processo de troca.
+É um ataque à Teoria do Valor Trabalho, pois se desloca o debate da órbita da p rodução
+para a órbi ta do intercâ mbio de valores de uso, introduzindo -se o conceito de utilidade como
+referência para o estabelecimento do valor . Essa transposição da teoria da distribuição tem uma
+consequência central: a ideia de troca pressupõe igualdade de condições entre os agentes
+envolvidos.
+Para conseguir a façanha de igualar trabalhadores e capitalistas era preciso algo novo. O
+fator de produção é apresentado como solução para o problema. Trabalhadores e capitalistas vão
+ao mercado como proprietários de fatores de prod ução e vendem seus serviços em troca de uma
+remuneração. Belluzo ressalta que “com essa redução teórica, ao mesmo tempo, expulsa as
+classes sociais como categorias relevantes da Economia Política e falsifica o conceito de capital,
+agora transfigurado em seus aspectos puramente físicos.”.
+A teoria da dis tribuição passa para uma teoria de preços de fatores. A remuneração paga
+ao proprietário de um fator de produção depende do preço que ele consiga pela venda de seus
+serviços. O preço do fator é determinado pe la oferta e pela demanda do serviço no mercado, este
+é demandando pelos bens finais que pode produzir. Com isso, o preço do fator é derivado dos
+preços dos bens finais.
+Ao mesmo tempo as empresas maximizam lucros em condições de concorrência perfeita .
+Sendo assim os fatores são empregados até o ponto em que o preço obtido pela venda de uma
+unidade adicional do bem final se iguale ao custo da unidade adicional de fator empregado. Ou
+seja, o preço/remuneração de cada fator de produção tenderá a igualar -se a s ua produtividade
+marginal. Em outras palavras, cada fator recebe de acordo com a sua “contribuição” ao processo
+produtivo.
+13
+Esta “contribuição” ou produtividade marginal está delimitada pelas condições técnicas
+de produção: a lei dos rendimentos decrescente, a produtividade marginal – ceteris paribus –
+varia inversamente à quantidade empregada do fator, conclui Belluzo.
+Além do objeto de análise passar dos grupos para simplesmente um agente dotado de
+determinados fatores em busca de remuneração pela venda de seus serviços, o trabalho não é
+mais o único a criar valor, o capital é igualmente capaz de produzi -lo. Um dos principais autores
+da escola neoclássica, Alfred Marshall, deixa claro contra quem se posiciona:
+“Mas a suposição de que toda esta “mais -valia” é produto
+do trabalho já apresenta como certo aquilo que, em última análise,
+procuram provar por seu intermédio. Não tentam prová-lo. E
+efetivamente não é verdadeiro. Não é verdade que a fiação, numa
+fábrica, depois de feito o desconto pelo desgaste do maquinário,
+seja o produto do trabalho dos operários. É o produto do seu
+trabalho, juntamente com o do empregador e capatazes
+subordinados, e do capital empregado. E esse capital mesmo é o
+produto de muitas espécies de trabalho e de espera. Se admitirmos
+que seja produto de trabalho apenas e não de trabalho e de espera,
+podemos, sem duvida, ser compelidos, por uma lógica inexoráv el,
+a admitir que não há justificação para o juro, a recompensa da
+espera, pois a conclusão está implícita na premissa .” ( Marshall,
+1946 apud Alvarez, 1996, p. 14)
+Marshall investe contra Marx e esta diferença fundamental entre a posição do trabalho no
+processo de produção e consequentemente a origem do valor, marca a ruptura teórica entre os
+dois campos colocando em lados oposto s a teoria marginalista e a teoria clássico -marxista. Marx
+já não estava mais vivo para responder aos golpes sofridos , porém , uma série de marxistas
+assumiu esta tarefa.
+Piero Sraffa foi um dos principais autores a rebater a critica marginalista e também
+demonstrar os problemas d esta teoria. Belluzo se utiliza das crí ticas de Sraffa e também contra -
+ataca os autores marginalistas:
+14
+“O processo de redução teórica, elegantemente operado
+pela escola marginalista, não se fez, porém, sem percalços lógicos
+dificilmente perceptíveis para quem foi educado na sua tradição. O
+maior deles consiste na confusão entre dois conceitos de capital: o
+fundo financeiro controlado pelos capitalistas é identificado ao
+equipamento físico e as maquinas que permitem ao trabalhador
+produzir.” (Belluzo, 1975, p.18)
+Em outras palavras, o montante de dinheiro/capital na mão dos capitalistas só de fato
+produz algo se for usado para comprar máquinas e equipamentos . E aí sim, nesse segundo
+momento se inicia o processo produtivo. O fundo financeiro monolítico, ou capital homogêneo, é
+uma coisa. O imenso número de diferentes máquinas e equipamentos no processo produtivo , ou
+capital heterogêneo, é outra. Ambos são capital , mas com diferentes característi cas e
+consequências. Tratá-los como uma única coisa é uma das principais críticas aos marginalistas.
+Além disso, para se transformar o capital homogêneo em capital heterog êneo é preciso
+saber o preço desses bens heterogêneos, e para se saber os preços é preciso saber qual a taxa de
+lucro média da economia. Belluzo (1975) explica: “Dessa forma, não há sentido algum em se
+estabelecer uma relação unívoca entre “volume de capit al”, produtividade marginal e taxa de
+lucro: o valor do capital depende da taxa de lucro e esta não pode, em qualquer sentido, ser
+determinada pela “quantidade de capital”, a menos que os raciocínios circulares almejassem
+foros de ciência...”. (p. 19).
+Alguns autores marginalistas responderam à crítica do problema da circularidade
+tentando criar uma unidade de medida para o capital independente da taxa de lucro e dos demais
+preços. O que também foi criticado pelo fato de desconsiderar que o capital é uma expressão de
+uma relação social e isso inverteria a sua determinação. O que nos faz voltar para o debate
+central de determinação da renda.
+A explicação da determinação centrada no individuo ganhou ainda mais força no final da
+década de 1950. O economista americano Theodre Shultz ao relacionar a rápida recuperação
+econômica da Alemanha e do Japão no pós Segunda Guerra com os altos níveis de educação e
+saúde dessas populações criou o conceito de capital educacional. Posteriormente Gary Becker e
+15
+Barry Chiswick constroem um modelo formal que relacionava o nível de educação com os
+rendimentos dos indivíduos e neste contexto formulam o conceito de capital humano , nos
+explica Malta (2010).
+Essa teoria junto com a estrutura teórica marginalista foram usadas pela primeira vez no
+Brasil por Carlos Langoni para eximir da ditadura civil militar brasileira a responsabilidade pela
+piora na distribuição de renda durante o período do suposto milag re econômico brasileiro. Os
+rendimentos dos indivíduos dependeriam de investimentos em educação e não da política
+econômica do regime.
+A concentração de renda seria causada por um desajuste temporário nos mercados de
+fatores devido ao crescimento acelerado . A solução viria do próprio mercado que geraria o
+equilíbrio geral em seu devido tempo. Conclui Malta (2010): “O trabalho de Langoni introduz a
+noção de capital humano sobre a base de explicação na distribuição de renda via teoria
+marginalista com o objetivo de explicar o diferencial salarial entre indivíduos.”(p.161)
+Rodolfo Hoffman ao criticar Langoni no seu artigo da década de 1970 acaba resumindo
+bem a critica a teoria do capital humano:
+“(...) se tenta mostrar que a educação é a maior causa do
+aumento da desigualdade na década de 60. Afirma -se que “o
+desenvolvimento econômico brasileiro – como o de qualquer país
+– é um mecanismo que naturalmente diferencia as pessoas,
+principalmente atrav és da educação” (...) Sabemos que renda e
+nível de instrução estão positivamente correlacionados. (...) Assim,
+quando o autor do estudo estratificou a população conforme nível
+de escolaridade estava grosso modo, estratificando -a segundo
+níveis de renda.” (Hoffman, 1975, p. 120-121).
+A conclusão do mesmo autor pode servi r de conclusão também para o capí tulo e
+inspiração para qualquer trabalho sobre distribuição de renda:
+“Assinalamos, entretanto, que o processo de concentração
+da renda só pode ser considerado “natural” no sentido de que é
+16
+natural que num regime escravocra ta haja escravos, que num
+regime feudal haja senhores e servos, ou ainda, no sentido de que
+para um canibal é natural que alguns comam e outros sejam
+comidos.” (Hoffman, 1975, p. 121).
+17
+Capítulo 2 - Problemas metodológicos de uma análise acerca da distribuição de renda
+Introdução:
+Não existe debate sobre alterações na distribuição de renda que não seja histórico e
+geograficamente determinado. Isto é necessário para que a análise seja feita sobre dados bem
+definidos.
+É exatamente no que se refere à forma d e produzir e analisar os dados sobre distribuição
+de renda que a discussão deste capítulo se centra. Questões como a diferença entre distribuição
+pessoal e funcional da renda, sua relação com a propriedade, a dificuldade de reparação das
+rendas do trabalho das rendas do capital e as diferenças metodológicas dos dados produzidos
+pelos sistema de contas nacionais e pela pesquisa por amostra domiciliar são os principais pontos
+analisados.
+2.1 – Distribuição pessoal x distribuição funcional da renda
+Olhar os dados sem entender a diferença entre as duas formas tradicionais de enfrentar o
+problema da distribuição de renda pode tornar a aná lise superficial e pouco elucidativa. A
+distribuição funcional se caracteriza por ser agrupada de acordo com a sua apropriaçã o conjunta,
+destinando-se para trabalhadores ou empresas , de maneira mais geral. Tendo também como
+destino bancos, donos de terra, rentistas, recebedores de aluguel e podendo ainda separar -se os
+impostos.
+A distribuição funcional da renda revela como é possível enxergar o montante da renda
+que se destina aos salários e o montante da renda que é a soma dos lucros com as rendas sobre
+ativos que não sejam capital . Dessa forma podemos estudar movimentos de aumento ou
+diminuição na participação relativa do salár io na renda. Já a distribuição pessoal da renda, não é
+mais apresentada de acordo com a propriedade sobre certos ativos ou à forma de inserção na
+produção, mas pelos indivíduos que compõem a economia. Em vez de analisar a distribuição por
+meio da funcionalidade de cada coletivo e como ele afeta essa distribuição, agora o objeto de
+análise é um indivíduo.
+18
+Ao buscar entender a variação da renda através do individuo, geralmente o debate se
+reduz a tentar explica -la através da diferença de habilidades entre as pessoas. Ou melhor, o que
+determinaria essas diferenças de habilidade e o reflexo dessas diferenças nos ganhos pessoais.
+Observando esta diferença parece -nos que autores com visão marxista da questão da
+renda tenderão a buscar montar sua análise com base em dados de distribuição funcional da
+renda, enquanto aqueles de formação marginalista vão tomar como base os dados produzidos
+tendo como referência a distribuição pessoal da renda.
+Cabe aqui lembrar que a abordagem da questão da distr ibuição por meio de análise da
+distribuição pessoal da renda com base no conceito capital humano que ganhou força no Brasil
+na década de 70 com Carlos Langoni é o eixo da discussão dominante no cenário atual.
+Belluzo (1975) traz o problema central entre a diferença de análise nos diferentes tipos de
+distribuição:
+“Em geral, o tratamento dispensado a distribuição pessoal
+tem-se restringido aos aspectos estatísticos e descritivos do
+problema. Essas análises, não raro, vêm acompanhadas de
+hipóteses explicativas muito gerais que não configuram
+propriamente teorias coerentes. A teoria reclamada deve estar apta
+a explicar como se processa a estratificação dos assalariados e
+como se diferenciam as rendas de propriedade.” (Bellu zo 1975 ,
+p.32)
+Posto a diferença entre distribuição funcional da renda e distribuição pessoal da renda
+aparecem outros problemas para se avaliar o comportamento da distribuição de renda a partir dos
+dados disponíveis.
+2.2 Os problemas com os dados disponíveis no Brasil
+O mesmo autor que em 1970 rebateu Langoni, recentemente escreveu um artigo
+mostrando os problemas nos dados sobre a renda.
+19
+Rodolfo Hoffman escreve um artigo intitulado “A recente queda da desigualdade de
+renda no Brasil: análise de da dos da PNAD, do Censo Demográfico e das Contas Nacionais” em
+que ao mesmo tempo em que apresenta diversos dados sobre a distribuição de renda no Brasil
+entre o período 1995 e 2006, principalmente tentando defender uma recente queda da
+concentração de renda no período 2001 -2006, Hoffman esclarece diversos problemas que os
+dados contêm. Apresenta confusões de termos, imprecisão de pesquisas e outros percalços que
+devem ser levados em consideração ao se fazer um estudo sobre distribuição de renda, podendo
+afetar o resultado do pesquisador.
+Conforme visto, a renda pode ser analisada por sua distribuição funcional, ou seja,
+analisada de acordo com a forma como é apropriada. Ao olharmos as pesquisas governamentais
+que alimentam os estudos sobre o assunto deveríamos conseguir observar esta diferença.
+O primeiro problema que se apresenta é com uma categoria de renda apresentada pelas
+pesquisas domiciliares. A “renda trabalho”, segundo o que foi discutido acima , seria a parcela de
+renda destinada aos trabalhadores. P orém o termo “trabalho” se refere a qualquer atividade que
+uma pessoa pode exercer, isto inclui trabalhar por conta própria ou ser um empregador. Ou seja,
+o lucro do empregador está parcialmente incluído na categoria “renda trabalho”, quando este
+declara o seu “prolabore” como renda do trabalho, contrariando qualquer raciocínio intuitivo.
+Devido a esta confusão, em alguns casos se chama de salário a categoria de renda de todos os
+trabalhos, ao invés de apenas o salário que é rendimento do trabalho de um empregado.
+Mas as ressalvas não param por aí , mesmo depois de resolver o problema acima e extrair
+dos dados somente o que seria salário de fato, não ajuda na análise considerar tudo como salário.
+Voltando ao debate do primeiro capitulo, nem tudo o que é declarado como salário pode ser
+considerado como remuneração da força de trabalho no sentido clássico-marxista.
+Os altos executivos , mesmo recebendo um salário, exercem uma função social
+semelhante ao dos proprietários dos meios de produçã o e não dos trabalhadores assalariados de
+baixo escalão. Belluzo (1975) no debate da década de 1970 também apontou esse problema: “os
+quadros burocráticos ligados aos núcleos decisórios das grandes empresas fixam suas próprias
+remunerações como função dos lucros. O que recebem tem muito pouco a ver com o seu grau de
+qualificação e bastante com sua proximidade dos centros de poder.” (p.34).
+20
+Outro problema com categorias de renda está presente na Pesquisa Nacional por Amostra
+de Domicílios (PNAD). Uma das parcelas do Rendimento Domiciliar per Capita é “Juros, Bolsa -
+Família e outros”, nesta parcela se inclui o rendimento de juros, dividendos e programas de
+transferências governamentais. Ou seja, rendas do Bolsa -Família ou do Renda Mínima estão
+agrupadas com rendas de aplicações financeiras.
+Mais uma vez, colocar na mesma categoria uma pessoa que vive abaixo da linha da
+pobreza que precisa de uma transferência governamental para não morrer de fome e outra que
+possui tanto dinheiro que é capaz de deixar uma parte significativa parada apenas rendendo juros
+ou dividendos pode atrapalhar bastante as conclusões a partir destes dados.
+Os dois casos, tanto da “renda trabalho” misturando salário do peão de fábrica com o
+lucro do seu patrão, quanto do “juros, bolsa -família e outros” misturando transferência
+governamental com juros e dividendos colocam na mesma parcela de renda a ser estudada rendas
+altamente regressivas (lucro, dividendos e juros) com rendas altamente progressivas (programas
+oficiais de auxilio).
+Além dis so, outro problema central das Pesquisas Domiciliares são os erros de
+declaração, rendas captadas por meio de questionários são sujeitas a erros para cima ou para
+baixo. Cada caso com sua particularidade.
+Hoffman (2008) aponta para alguns casos de superdeclaração, em que pessoas com
+atividades de baixa remuneração - como faxineiro, garçom ou vigilante - informaram renda
+muito elevada, algumas acima de cem mil reais mensais. E na sua pesquisa retira estes dados
+junto com o que seria uma subdeclaração em domicílios onde que residem um juiz, delegado ou
+militar que declararam renda nula, para tentar homogeneizar os dados.
+É preciso notar que a subdeclaração dos mais ricos representa uma parcela muito maior
+de ruído nos dados. Há também uma subdeclaração dos mais pobres, que seria uma dificuldade
+de captar rendimentos eventuais ou em espécie , mas certamente sendo o salário a única fonte
+daqueles mais pobres, o que ele declara na pesquisa está muito próximo daquilo que está em s eu
+contracheque. Já com os mais ricos que possuem diversos tipos de renda, não é isso que
+acontece. Coloca-se no questionário a renda de uma das fontes ou um nú mero arbitrariamente
+pequeno.
+21
+Parece ser consenso de que isso é realidade, para Hoffman não há dúvida de que o grau
+de subdeclaração varia com o tipo de rendimento: pequeno no caso de aposentadorias e pensões
+oficiais, e muito elevado no caso de juros e dividendos . Completa com uma espécie de pedido
+em nome de todos de pesquisadores: “Uma informação minimamente confiável sobre juros e
+dividendos poderia ser obtida das declarações de impostos de renda, e seria altamente desejável
+que esses dados estivessem disponíveis para os pesquisadores, respeitando -se, obviamente, o
+sigilo das informações individuais.” (Hoffman, 2008, p.18).
+Mesmo o rendimento proveniente da posse de patrimônio, na forma de juros, dividendo
+ou aluguéis representar menos do que 3% da renda total declarada no PNAD, a discrepância dos
+números com a realidade é demasiada. Hoffman cita um estudo de Barros (2006) em que ele
+mostra que a renda de ativos no Sistema de Contas Nacionais (SCN) é quase quatro vezes
+superior ao valor captado na PNAD.
+Mas seja renda de ativos ou de trabalho (lembrando aqui a ambiguidade do termo, e que
+estão incluídos lucros), também é relativamente consensual que nas pesquisas domiciliares a
+subdeclaração da renda é tão maior quanto mais alto é o rendimento.
+Na tentativa de provar e explicar a re cente queda na distribuição de renda no Brasil no
+período de 2000-2006 Hoffman nos apresenta outro problema: uma mudança na terminologia do
+Sistema de Contas Nacionais com o qual se deparou ao estudar algo que foi a presentado no
+primeiro capitulo: a distribuição funcional da renda, além da importância da participação de cada
+parcela na renda total para se entender a desigualdade na sua distribuição. Não é à toa que
+Hoffman apesar de defender a queda na desigualdade nos apresenta um contra -argumento: “O
+principal dado objetivo usado para colocar em dúvida a recente queda na desigualdade da renda é
+provavelmente a queda da participação dos salários na renda total no SCN.” (p.24).
+A participação dos salários na renda total no SCN vinha caindo sistematicamente n o final
+da década de 90 e inicio de 2000, porém acontece uma reversão nesse movimento fazendo com
+que a participação aumente e se estabilize. Intuitivamente se poderia pensar ser uma melhora na
+distribuição de renda após a eleição de um presidente que havi a prometido uma mudança radical
+no cenário brasileiro. Porém o que de fato aconteceu foi uma mudança na terminologia da
+categoria “remuneração de empregados” em março de 2007.
+22
+Na definição do IBGE “remuneração dos empregados” no SCN inclui “ordenados e
+salários” e as “contribuições sociais dos empregadores” que formariam “para o empregador, o
+custo total com a força de trabalho empregada”. Com essa definição e se conhecendo a
+diferenciação funcional da renda, não precisa ser marxista para intuir que essa pa rcela
+corresponde à remuneração da força de trabalho, apropriada pela classe trabalhadora.
+No entanto, a definição não esta completa. Depois se esclarece que “salários e
+ordenados” incluem, além do esperado, “retiradas de sócios e proprietários”. Portanto a mudança
+nos critérios, por recomendação das Nações Unidas e outros organismos internacionais através
+de seus manuais de contas nacionais, acabam dificultando ainda mais a compreensão dos dados,
+propositalmente ou não.
+Há novamente um problema crucial, que já f oi abordado ao se falar da PNAD. Nas
+palavras de Hoffman “é praticamente impossível” separar a remuneração do trabalho, os lucros e
+a renda da terra. “Parece que a “remuneração dos empregados” no SCN é conceitualmente tão
+indefinida e eclética como o rendimento de todos os trabalhos na PNAD.”.
+Apesar dessa confusão de termos, mudança na terminologia e indefinições é fato que a
+participação da “remuneração dos empregados” gira em torno de 40% do PIB – mesmo Hoffman
+defendendo a diminuição da desigualdade, explica que ela se d á a despeito da participação de
+40% se manter estável. Portanto, mesmo incluindo rendimentos que seriam na verdade lucro, a
+participação da “remuneração dos empregados” representa menos da metade da renda total.
+Pode-se concluir que na realidade a participação dos salários na renda total é menor que 40%. Se
+levarmos em conta ainda a questão do salário de altos executivos que não são propriamente força
+de trabalho, a parcela “pura” de salários se torna muito menor que os 40% dos dados
+apresentados, infelizmente não é possível precisar quanto.
+A contribuição de Hoffman sofre uma mudança de seu artigo da década de 70 para o seu
+artigo de 2008 que guiou este capítulo. Antes, mesmo sempre apresentando os dados , remetia a
+explicação para a economia política e uma contradição estrutural. Agora aponta todos os
+problemas, mas a economia política dá lugar a um esforço de contemporizar os problemas e
+conciliar os dados com sua tese de redução da desigualdade. No final, conclui que apesa r de
+todos os problemas com os dados dificultarem enxergar a verdadeira concentração de renda
+23
+presente no Brasil é possível estudar o movimento dos indicadores e chegar a conclusões, mesmo
+que como vimos, sejam superficiais.
+24
+Capítulo 3 – Debate distributivo no Brasil: versão dos anos 2000
+Introdução:
+O debate distributivo no Brasil é muito amplo e tem sido o principal eixo das campanhas
+políticas de caráter nacional. Exatamente por conta desta profusão de produções sobre o tema da
+distribuição de renda no Brasil buscou -se identificar trabalhos síntese das posições encontradas
+no debate atual sobre a evolução da distribuição de renda recente no Brasil. Neste capítulo
+tomamos o artigo “Desenvolvimento econômico e estratégias de redução da pobreza e das
+desigualdades no Brasil” do professor Carlos Medeiros para introduzir o debate e as
+controvérsias presentes. Em seguida escolhemos nos debruçar sobre a Nota Técnica do Ipea de
+agosto de 2006 intitulada “ Sobre a recente queda da desigualdade de renda no Brasil” por
+apresentar um diagnóstico da evolução da dis tribuição de renda no Brasil com um viés de
+valorização das políticas de transferência de renda, que se tornou a visão dominante sobre a
+questão no Brasil hoje. Como contraponto crítico a esta visão escolhemos o artigo “Sobre a
+recente queda da desigualdade de renda no Brasil: uma leitura crítica” do professor Cláudio Salm
+por apontar os problemas presentes no relatório e indicar visões alternativas.
+3.1 – Introdução ao debate “versão 2000”
+Medeiros (2003) abre seu artigo apontando a mudança de caráter do debate em relação
+aos anos 1970. Ao contrário de outros momentos a maior parte das análises recentes no plano
+acadêmico sobre distribuição de renda se caracterizam por uma excessiva concentração nas suas
+dimensões quantitativas. Além disso, esses estudos r eferem-se quase que exclusivamente à
+dimensão da distribuição pessoal da renda, obtida basicamente a partir das rendas do trabalho.
+Deixando de lado dimensões importantes como a parcela salarial no produto e sua relação com
+os preços relativos e as margens de lucro.
+O debate sobre crescimento econômico, distribuição de renda e pobreza revelam com
+maior frequência as divergências analíticas dos estudiosos. Quando se busca justiça distributiva,
+as diferenças se tornam mais evidentes. No plano propositivo, há um amplo ecletismo com
+diversas propostas de políticas públicas emergenciais e estruturais fruto de diferentes
+diagnósticos.
+25
+Basicamente são duas visões sobre o tema, a corrente amplamente dominante entre os
+economistas defende que para uma justiça distri butiva e retirada dos indivíduos de uma situação
+de pobreza é preciso habilitá -los para isso , através de uma melhor distribuição de ativos, em
+particular o educacional. Como a ênfase é dada do lado da oferta (de trabalho), as implicações
+econômicas que dec orrem dessa abordagem são, sobretudo, microeconômicas, voltadas a um
+melhor funcionamento dos incentivos de mercado.
+A outra corrente se preocupa com outro ativo prioritariamente, a terra. Além de deslocar
+o foco da oferta para a demanda e os preços relati vos, principalmente dos bens de consumo de
+massa e dos serviços públicos. Seria necessária uma expansão do emprego com elevação
+sustentada dos salários mais baixos e a universalização dos direitos sociais. Um conjunto de
+políticas públicas cumpriria o papel de articular esse crescimento menos desigual.
+No diagnóstico dominante, o crescimento histórico se caracterizou por elevada
+concentração ao não promover uma maior difusão de ativos: terra, crédito e principalmente
+educação, ou capital humano. É importante definir o sentido da causalidade, a proposição central
+e assumida no diagnostico é a de que a acumulação de capital humano é o principal fator
+determinante da desigualdade de renda.
+Medeiros (2003) aponta alguns problemas cruciais nesta teoria, primeiro a não
+comprovação histórica; segundo, a baixa explicação da desigualdade pela educação, já que são
+duas variáveis dependentes. Para isso utiliza dois autores:
+“(...) o papel da educação perde muito seu poder explicativo. Em
+particular, os resultados obtid os quando se decompôs o aumento de
+desigualdade entre 1977 e 1989 mostraram que a variável posição da
+ocupação (19,7% da variação da renda) foi mais importante que a variável
+educacional (11,4%)” (Bonelli; Ramos, 1993, p. 93).
+“(...) a hipótese de que a de sigualdade é diretamente afetada pela taxa de
+retorno e pelo número de anos de escolarização é um longo salto de fé.”
+(Fishlow, 1976, p. 70).
+26
+Sua última observação sobre a teoria do capital humano é que apesar da arbitrariedade
+das hipóteses e da quantidad e de problemas empíricos essa é a tese central sobre a má
+distribuição de renda no Brasil. O crescimento econômico e a expansão do emprego (ótica da
+demanda) são considerados de importância reduzida para o combate à pobreza e a má
+distribuição de renda.
+O diagnóstico dominante contém uma base teórica de e studos do Banco Mundial e da
+teoria neoclássica do Bem - Estar. Uma nota de rodapé no texto esclarece esta relação entre
+diagnóstico e teoria:
+“A ênfase na distribuição de ativos atende ao segundo teorema da teoria
+neoclássica da Economia do Bem -Estar, segundo a qual qualquer
+distribuição de renda pode ser obtida por uma redistribuição da dotação de
+fatores produtivos. Assim, se a sociedade quiser uma distribuição mais
+equitativa, é necessário alterar a distr ibuição de ativos. No documento do
+IETS, considera -se que “(...) o acesso diferenciado a ativos econômicos
+está na raiz da desigualdade de renda.” (IETS, 2001, p. 33). A mensagem
+ideológica principal é “(...) toquem na distribuição inicial de recursos,
+mas, por favor, não toquem no mecanismo de mercado”(Cesaratto, 2001
+apud Medeiros, 2003, p. 327)
+Desse diagnóstico surge um conjunto de propostas de políticas públicas de curto, médio e
+longo prazo. No médio e no longo as políticas devem agir sobre as razões estruturais que levam a
+pobreza e concentração de renda, seriam elas: escolarização, regularização fundiária e provisão
+de microcrédito. No curto prazo devem ser políticas compensatórias focalizadas na população
+mais pobre, basicamente transferência direta de renda a indivíduos carentes.
+3.2 – Versão dominante
+Veremos agora como a Nota Técnica do Instituto de Pesquisa Econômica Aplicada (Ipea)
+denominada “Sobre a Recente Queda da Desigualdade de Renda no Brasil” evidencia a visão
+dominante na discussão recente sobre distribuição de renda no Brasil.
+27
+O relatório busca documentar “a recente e acentuada queda na desigualdade de
+renda”(sic), avaliar sua magnitude e importância, identificar seus principais determinantes e, por
+fim, delinear propostas de políticas públicas para que seja prolongada, ou mesmo aprofundada,
+nos anos subsequentes.
+Vale notar que em seu Sumário Executivo já fica clara o esforço de se dar uma dimensão
+importante ao relatório: participaram da elaboração cerca de 30 especialistas (inclusive um
+ganhador do Prêmio Nobel) do mundo todo de diversas instituições e universidades.
+A tese central já é dada na primeira linha do relatório. De 2001 a 2004, a desigualdade de
+renda familiar per capita caiu de forma contínua e substancial, alcançando seu menor nível nos
+últimos trinta anos. Essa desconcentração levou a uma expressiva redução da pobreza e da
+extrema pobreza.
+Antes de entrar no objeto central da análise do relatório que são os chamados
+determinantes imediatos da queda na desigualdade, o relatório aborda alguns pontos que também
+são interessantes de serem analisados.
+Após apontar que a desigualdade de renda medida pelo índice de Gini caiu de forma
+contínua e substancial e que entre os 75 países para os quais há informaç ões relativas à evolução
+da desigualdade de renda ao longo da década de 1990, menos de um quarto apresentou taxas de
+redução da desig ualdade superiores à brasileira, r essalta-se que uma queda dessa magnitude na
+concentração de renda tem, potencialmente, el evados impactos sobre a redução da pobreza e da
+extrema pobreza. Ademais, como a renda per capita da população total não cresceu no período,
+toda a queda da pobreza verificada pode ser integralmente atribuída à redução na desigualdade.
+Conclui então que reduções de grau de desigualdade podem funcionar substituindo o crescimento
+econômico no combate à pobreza mesmo que também funcionem como complementos.
+Há também uma parte dedicada a defender a tese central de qualquer questionamento
+acerca da metodologia o u das estatísticas utilizadas. Lembra -se que qualquer que seja a medida
+adotada, a queda da desigualdade é substancial. Também se defende a confiabilidade da estática
+da Pesquisa Nacional por Amostra de Domicílios (PNAD), lembrando que tanto o Banco
+Mundial como as Nações Unidas classificam as informações da PNAD como de excelente
+qualidade.
+28
+Após a defesa dos dados há também um esclarecimento importante sobre o objetivo do
+relatório. Este documento se concentra na identificação dos determinantes da variação na
+desigualdade ao longo dos anos, e não de sua magnitude em um dado ano. Ressaltando que os
+determinantes do nível da renda são diferentes daqueles que determinam a sua variação. Além
+disto, esclarece que há varias formas de desigualdade, mas o relatório foca-se na desigualdade de
+renda. Por ser mais fácil de ser mensurada e porque é determinante dos demais resultados. Mais
+especificamente a renda per capita, por alguns motivos:
+“Neste relatório, centramos nossa atenção na distribuição das pessoas
+segundo a renda per capita da família a que pertencem. Usamos como
+unidade de análise as pessoas, para ressaltar que são elas, em última
+instância, que se desenvolvem, têm bem-estar e felicidade.” (Ipea, 2006, p.
+10)
+Após os pontos introdutórios e os esclarecimen tos é possível analisar o capítulo central
+do relatório, intitulado “Determinantes imediatos da queda recente da desigualdade”. Explica -se
+que o termo “determinantes imediatos” se dá aos fatores que afetaram de forma mais direta o
+declínio na desigualdade de renda no período analisado.
+Segundo o relatório, são cinco os determinantes imediatos da renda familiar per capita: a)
+características demográficas das famílias; b) transferências de renda; c) remuneração de ativos;
+d) acesso a trabalho, desemprego e pa rticipação no mercado de trabalho; e) distribuição dos
+rendimentos do trabalho.
+O primeiro determinante “características demográficas das famílias” é afetado de forma
+mais direta pela proporção de adultos na família já que são eles que geram renda. Esta pr oporção
+de adultos aumentou nos últimos anos, mas não de maneira uniforme. A queda na desigualdade
+demográfica não foi devida à aproximação do padrão demográfico de famílias pobres e ricas,
+mas de uma homogeneização nos mesmos grupos de renda. Com isso seu efeito foi limitado, e
+segundo o estudo caso a proporção dos adultos de cada família não tivesse se alterado entre 2001
+e 2004, a queda na desigualdade de renda teria sido apenas 2% inferior à verificada.
+O Segundo determinante “transferências de renda” é dividido em três grupos: pensões e
+aposentadorias públicas; Beneficio de Prestação Continuada (BPC); benefícios do Bolsa Família
+29
+e outros programas similares, tais como Programa de Erradicação do Trabalho Infantil (Peti) e o
+Bolsa Escola. O determinante tem três características que afetam seu impacto na desigualdade de
+renda: a) a magnitude dos benefícios; b) o grau de cobertura; e c) o grau de concentração do
+atendimento na população mais carente.
+O estudo afirma que o impacto distributivo será tão mais e levado quanto mais generoso
+forem os benefícios e maiores forem os graus de cobertura dos mais carentes. Em conjunto as
+transferências governamentais contribuíram com cerca de um terço da redução na concentração
+de renda, apontando para uma importância ele vada desse fator. Analisando -se as contribuições
+de cada um dos três componentes é possível verificar que elas foram razoavelmente similares,
+em torno de 10% cada, conclui o relatório.
+O terceiro determinante “remuneração de ativos” é divido em dois grupos : a) aluguéis; b)
+juros e dividendos. Ao comparar os dados da PNAD com o SCN revela -se que a remuneração de
+ativos tem um elevado grau de subestimação. Porém o relatório nos lembra que como a evidência
+é de que esse grau de subestimação não se alterou rece ntemente, ele não deve ter tido impacto
+sobre a queda da desigualdade.
+O quarto determinante “acesso a trabalho, desemprego e participação no mercado de
+trabalho”, apesar de conter três fatores chaves para o relatório, não obteve impacto relevante na
+queda da desigualdade. Os indicadores evoluíram favoravelmente, mas os impactos foram
+reduzidos porque muitos dos postos de trabalho gerados foram ocupados por trabalhadores em
+famílias nas quais já havia pessoas ocupadas. O impacto seria maior se tivesse ocorr ido em
+famílias com poucos adultos ocupados. Sendo assim esse determinante explica somente 3% da
+queda na desigualdade.
+O último determinante parece ser o mais importante no relatório, tanto pelo defendido
+impacto na queda da desigualdade quanto pela exten são da sua análise no relatório. Apesar de
+começar afirmando que desde 1995 a desigualdade de renda do trabalho já vinha declinando de
+forma sistemática, termina dando ênfase à recente aceleração desse processo. Com isso, a queda
+na desigualdade de rendime ntos do trabalho explica metade da queda na desigualdade de renda
+familiar observada de 2001 a 2004.
+30
+A análise deste determinante apesar de confusa é mais extensa e cabe aqui apontar os
+seus desdobramentos. O relatório divide a desigualdade de rendimentos do trabalho e seus efeitos
+sobre a concentração de renda familiar per capita em dois grupos distintos: a desigualdade
+revelada pelo mercado de trabalho e a desigualdade gerada pelo mercado de trabalho.
+Dentro da desigualdade revelada há dois fatores fundam entais: a desigualdade
+educacional entre os trabalhadores e a magnitude das diferenças de remuneração entre
+trabalhadores com distintos níveis de escolaridade. Ao longo do período analisado ambos os
+fatores declinaram explicando, em conjunto, cerca de um t erço da queda da desigualdade de
+rendimentos do trabalho, e 15% da queda da desigualdade de renda familiar per capita. A força
+de trabalho tornou -se ligeiramente mais homogênea, diminuindo a desigualdade educacional,
+isso explicaria 10% da queda da desigua ldade de renda do trabalho e 5% da queda da
+desigualdade de renda familiar per capita. Já os diferenciais de remuneração já vinham
+declinando continuamente desde 1995, mas a partir de 2001 parece ter ocorrido uma aceleração
+dessa queda, contribuindo para c erca de 20% da queda da desigualdade dos rendimentos do
+trabalho e para 10% da queda da desigualdade de renda familiar per capita.
+Na desigualdade gerada pelo mercado alguns aspectos são levantados: a discriminação
+salarial por raça e gênero; a segmentação espacial; e a segmentação formal -informal. A
+discriminação salarial por raça e gênero é comum a todos os países, e no caso brasileiro se
+manteve a níveis altíssimos, com homens com mesmas características observáveis ganhando
+70% a mais que mulheres, assim como brancos ganhando 30% a mais do que negros. Apesar de
+serem dados extremamente preocupantes o relatório não se prolonga sobre o assunto, apenas
+aponta que essa discriminação pouco variou e sua importância para explicar a recente queda da
+desigualdade de renda é próxima de zero.
+A segmentação espacial trata dos diferencia is de remuneração entre as Unidades da
+Federação ou entre cidades de diferentes portes dentro das UFs. O diferencial de remuneração
+entre as UFs se manteve estável e não afetou a queda da desigualdade. Porém as disparidades
+entre capital e municípios médios, e também entre municípios médios e pequenos, declinaram
+acentuadamente entre 2001 e 2004, e essa maior integração entre os mercados de trabalho dos
+municípios de diferentes portes co ntribuiu significativamente para a redução na desigualdade de
+renda. Caso não tivesse ocorrido, a queda da desigualdade do trabalho teria sido 20% inferior e a
+31
+queda da desigualdade de renda familiar per capita 10% menor que a verificada. Além disto,
+houve um grau de integração entre os mercados urbano e rural contribuindo para a queda da
+desigualdade.
+Por fim, há a segmentação formal-informal, no caso do Brasil há um duplo movimento. O
+grau de informalidade do mercado vem diminuindo, mas o diferencial de r emuneração entre
+trabalhadores formais e informais vem crescendo. Esses dois fatores atuando em direções apostas
+faz com que o efeito líquido da segmentação formal -informal seja uma concentração de renda.
+Caso o grau de segmentação entre os setores não tiv esse aumentado, a queda na desigualdade de
+renda entre famílias teria sido 5% maior do que efetivamente ocorreu.
+Depois de feita toda a análise otimista dos determinantes da propagandeada queda
+substancial na desigualdade de renda, o relatório muda o tom e nos lembra que apesar da queda
+recente, a desigualdade de renda brasileira permanece extremamente elevada, onde a renda
+apropriada pelo 1% mais rico da população é igual a renda apropriada pelos 50% mais pobres.
+Sendo assim, defende a importância da continuidade da queda e um pacote de políticas
+públicas voltadas para isso, quatro aspectos fundamentais estariam nessa estratégia ampla de
+combate a desigualdade: a) a equalização de oportunidades para a aquisição de capacidades; b) a
+equalização de oportunidades para o uso produtivo das capacidades adquiridas; c) a redução da
+desigualdade de tratamento dos trabalhadores no mercado de trabalho; e d) tornar o sistema
+tributário e o gasto público mais eficiente e progressivo. Apesar destas recomendações há uma
+ressalva:
+“Recomendações de po liticas especificas exigem evidê ncias e resultados
+mais detalhados e profundos do que os apresentados ao longo deste
+relatório.” (Ipea, 2006, p. 8)
+As propostas e a ressalva citada nos rementem ao autor do começo do capítulo:
+“a despeito da genérica crítica ao gasto social no Brasil, o que de fato ora
+implícito, ora explícito no diagnostico dominante sobre a má alocação do
+gasto resume -se à previdência pública, ao seguro -desemprego (que
+32
+confere renda “aos mais ricos” (sic)) e à universidade pública.” (Medeiros,
+2003, p. 333-334).
+Porém, Medeiros escreveu seu artigo anos antes da publicação do relatório do Ipea, para
+apontar os problemas com es te relatório e sintetizar as crí ticas ao que seria um diag nóstico
+dominante usaremos o artigo do professor Claudio Salm (2007)
+3.3 – Uma resposta à versão dominante: críticas teóricas e metodológicas
+O artigo de Salm, como seu título evidencia, é uma leitura critica do relatório do Ipea
+apresentado acima. O au tor começa seu artigo criticando a taxonomia utilizada no relatório para
+classificar os determinantes das variações na desigualdade de renda. Para ele misturam -se fatores
+que podem ter influência sobre a desigualdade, mas que são normalmente detectados em
+períodos bem mais longos – como os demográficos, os comportamentais (discriminações) ou os
+educacionais -, com outros cujos impactos tendem a alterar a desigualdade em prazos mais
+curtos, como programas oficiais de transferência de renda.
+Além disso, Salm (2007) lembra outros fatores importantes aos desenvolvimentistas que
+ou foram omitidos ou foram negligenciados. Entre alguns deles estão: as taxas de inflação, as
+variações no valor do salário mínimo, as variações na estrutura tributária e a volatilidade das
+taxas de crescimento.
+Como anteriormente mencionado, o relatório reuniu diversos especialistas no assunto e se
+pretende ser o mais importante diagnostico sobre distribuição de renda no período em questão.
+Salm questiona então a estreiteza dos objetivos: um estudo deste porte não deveria se limitar a
+analisar somente o período de 2001 a 2004.
+Sua primeira crítica pontual se dá ao Gráfico 1 (p. 14), que mostra que a desigualdade já
+vinha caindo desde 1997 e questiona o período escolhido. Quando n a verdade no período de
+2001-2003 a pobreza e a indigência teriam aumentado. Além disso, a série de 27 anos do gráfico
+em questão só mostraria a oscilação do índice de Gini em torno de uma média extremamente alta
+se eliminarmos um ou dois anos de inflação elevada. Eliminando esses picos a série ainda
+apresenta dois períodos de quedas contínuas no coeficiente de Gini semelhantes ou mais intensas
+que a verificada entre 2001 e 2004.
+33
+A crítica segue ao elemento central da análise, a queda substancial da desigualdade de
+renda de 4%. Dados os níveis absurdamente elevados de concentração de renda presentes no
+Brasil, esta queda na verdade seria insignificante, ou pelo menos não seria moti vo de tanta
+euforia. Salm critica essa euforia e usa uma citação do próprio relatório para demonstrar que não
+há motivo para isso:
+“Mesmo mantendo o acelerado passo (sic) com que a desigualdade foi
+reduzida no período analisado, seriam necessários 20 anos para que o país
+passasse a apresentar uma distribuição compatível com os países que tem
+nível de desenvolvimento comparável ao brasileiro.” (Ipea, 2006, p. 7)
+Apesar do clima eufórico cabe lembrar algo que não foi apontado por Salm, esta citação
+aparece três vezes no relatório (p. 7, 11 e 19) mudando apenas “20 anos” para “duas décadas”.
+Porém em vez de tentar entender os determinantes desse enorme nível de desigualdade pareceu -
+lhes mais importante entender a pequena (reputada como expressiva) variação.
+Salm usa outra citação para tocar num ponto central do relatório: “A evidência empírica
+apresentada neste relatório é contundente: a desigualdade de renda familiar no Brasil tem
+Figure 1
+34
+declinado desde 2001 de forma acentuada e contí nua. Como consequência, reduziram -se a
+pobreza e a extrema pobreza.” (Ipea, 2006, p. 52)
+Para ele há uma inversão nos termos da proposição, e que a forma correta seria: a redução
+da pobreza leva à desconcentração. Desta forma ficaria claro que a prioridade deve ser o
+desenvolvimento, inclu indo o aumento na produtividade das atividades que produzem bens
+salários, o que permitira diminuir a pobreza e como consequência a desigualdade.
+Para Salm essa inversão daria margem para se achar que o relatório pretende realçar a
+maior eficiência e eficá cia relativa das transferências governamentais para combater a
+desigualdade, especialmente o Bolsa Família.
+Seguindo com as transferências, ele aponta outro problema do relatório, que analisa o
+impacto separado do Bolsa Família apesar de na PNAD o Bolsa F amília aparecer misturado com
+outros rendimentos como juros, dividendos e outros programas governamentais.
+Salm volta a tocar na importância do crescimento para redução da desigualdade. Mesmo
+que não haja aumento da renda per capita como o relatório apres enta, podem ocorrer mudanças
+importantes nas estruturas produtivas, crescimento de algumas atividades junto com a queda em
+outras. Esse crescimento pode ser num setor de importância regional como o agronegócio , que
+para Salm é negligenciado no relatório. M esmo citando a importância das integrações das
+cidades de diferentes portes, o relatório não aprofunda seus determinantes. Em uma nota de
+rodapé exemplifica esta crítica além de junto questionar as terminologias arbitrárias usadas pelo
+relatório:
+“Quando, no Encarte 3, o Ipea (2006) fala da provável importância dos
+empregos criados no interior por conta do agronegócio, acrescenta que tal
+fator estaria mais ligado ao que o estudo denomina de “determinantes
+primários”, mas não aos denominados, também pelos au tores, de
+“determinantes imediatos” como seria o caso do indefinido “maior
+integração dos mercados de trabalho”. Essa taxonomia (“determinantes
+imediatos” x “determinantes primários”) nos parece arbitrária e desprovida
+de qualquer base conceitual, não pode ndo, portanto, contribuir em nada
+para uma agenda que pretenda aprofundar na pesquisa dos determinantes
+35
+da desigualdade. O aumento do crédito à agricultura familiar (Pronaf), é
+um determinante “primário” ou “imediato”?”(Salm, 2007, p. 5)
+Outro questionamento levantado diz respeito à ênfase dada no relatório ao impacto da
+renda trabalho sobre a queda da desigualdade de renda. Ora, se a renda trabalho representa na
+PNAD cerca de 75% da composição da renda total, não é de se espantar que a parcela da redução
+no índice de Gini explicada pelo que ocorreu no mercado de trabalho seja de longe a que mais
+pesa na explicação da distribuição de renda, afinal os dados utilizados só medem isso.
+Após analisar a relevância dos determinantes privilegiados pelo relatório do Ipea, Salm
+foca sua crítica no rendimento do trabalho. Para ele há uma negligência analítica quanto à
+criação de empregos, nada se diz sobre a sua quantidade ou composição. Nas escassas linhas
+sobre o assunto apenas se buscou minimizar a sua importância para a queda na desigualdade.
+Quando na verdade esses empregos foram importantes por afetar os estratos, não dos mais
+pobres, mas daqueles com remuneração próxima ao salário mínimo, e isto ocorreu no período
+analisado, segundo Salm.
+Além disso, ao tratar da concentração da distribuição das remunerações do trabalho para a
+queda do coeficiente de Gini o relatório atinge seu clímax ao usar a escolaridade como única
+explicação. A teoria do capital humano e sua crítica já foram apresentadas, mas Salm aponta para
+outro problema que seria o estreitamento dos diferenciais de retorno do ensino superior e
+fundamental. Uma desvalorização de diplomas universitários em um ano de grande crescimento
+(2004) é um fenômeno que mereceria maior atenção na realid ade brasileira, que poderia indicar
+um problema na matriz produtiva do país que estaria cada vez menos precisando de
+trabalhadores qualificados, gerando apenas empregos de baixa complexidade e com
+remunerações pequenas.
+Salm após apontar os limites de uma análise pessoal da renda desconsiderando uma
+análise da distribuição funcional, como fizemos no segundo cap ítulo, atenta para o fato do
+relatório ignorar a inversão na distribuição funcional da renda em favor dos rendimentos da
+propriedade. O relatório apo nta uma irrelevância do rendimento dos ativos para explicar a
+distribuição de renda, o que para Salm (e segundo ele, para o bom senso) é incompreensível.
+Além da suposição no relatório de que as omissões dos ricos sejam proporcionais as dos pobres,
+36
+para co m isso desconsiderar o problema da subestimação dos dados relativo aos ativos na
+explicação da queda na desigualdade.
+Mas para desqualificar as subestimações feitas pela PNAD, além da suposição acima, há
+outro problema referente à agropecuária que Salm cit a para depois esclarecer a extravagância
+teórica:
+“O principal fator responsável pelo crescimento do hiato entre a Pnad e as
+Contas Nacionais foi o crescimento na parcela do excedente operacional
+bruto devido à agropecuária. Como esse componente da renda c apta, em
+parte, renda do trabalho, e não se encontra particularmente concentrado
+entre os mais ricos, dificilmente essa mudança poderia ter causado um
+aumento no grau de desigualdade que não fosse captado pela PNAD.”
+(Ipea, 2006, p. 26)
+Salm rebate de form a simples e direta, se parte da remuneração do trabalho captada pelo
+EOB é uma parcela pequena, que mal chega a 10%, referente aos autônomos (remuneração mista
+de capital e trabalho), mais de 90% do EOB se referem aos lucros e outras rendas da
+propriedade.
+Antes de entrar na crítica à parte final do relatório, Salm se propõe a fazer um apanhado
+do que considera crucial para entender as variações na distribuição de renda, mas que foram
+deixados de lado ou tratados com superficialidade pelo relatório. Começan do pelo determinante
+crescimento, que aparece de forma transversal no relatório e não com o devido destaque que
+deveria. Para defender os motivos para tal, lança mão do mesmo autor que introduziu este
+capitulo:
+“Na tradição estruturalista (este começo foi omitido por Salm), a relação
+entre crescimento econômico e distribuição de renda (do trabalho) pode
+ser pensada através de dois movimentos principais. Em primeiro lugar, há
+um efeito desconcentrador decorrente da redução relativa do setor
+informal e das at ividades (agricultura tradicional) que estão na base da
+pirâmide distributiva. Ao lado desse efeito de transformação estrutural e
+de mobilidade ascendente, há um outro efeito de composição do emprego
+37
+ao longo do ciclo econômico. Como os trabalhadores quali ficados são
+menos suscetíveis ao desemprego nos períodos de contração da demanda,
+esta abate-se principalmente sobre o nível de emprego dos trabalhadores
+não qualificados. A expansão de atividades de menor rendimento no setor
+informal e a manutenção do emp rego qualificado de maior rendimento
+aumentam as polarizações do mercado de trabalho e a desigualdade. A
+estabilização das taxas de crescimento em patamares altos possui
+exatamente um efeito contrário, aumentando o rendimento dos
+trabalhadores de menor qualificação.” (Medeiros, 2003, p.337-338)
+Para Salm a solução estaria em crescimento sustentado junto com uma alteração das
+perversas combinações das variáveis macroeconômicas tais como juros, câmbio e a taxa de
+investimento. Além da difusão de inovações que elevassem a produtividade das atividades
+voltadas ao suprimento das carências que distinguem as vidas dos mais pobres.
+Além do crescimento que para Salm é de suma importância, há outros elementos que o
+relatório não aprofundou como deveria. Para ele é pre ciso dar mais importância para a
+formalização do emprego, é preciso pautar que o aumento da formalidade continue por ter alto
+impacto na diminuição da desigualdade.
+Também é preciso buscar explicações na estrutura da economia, ele remete a importância
+dada pelo relatório à diminuição do diferencial em remuneração entre cidades grandes e as
+pequenas e entre as Regiões Metropolitanas e os municípios pequenos do interior, mas sem
+buscar as razões por trás. Com isso, este fenômeno adquire a feição que domina a maioria dos
+determinantes, foca-se nas características pessoais ou da oferta de mão de obra, no caso, local de
+moradia.
+Para ele também não se justifica a omissão do estudo de qualquer referencia aos preços
+relativos em um país com estruturas de consumo t ão diferenciadas. Tendo o gasto com
+alimentação e transporte forte peso sobre os mais pobres. Assim como os impostos altamente
+regressivos em nosso país, que foram pouco mencionados no estudo.
+Por último, talvez o mais importante, está o salário mínimo e s ua relação com a queda da
+desigualdade, que sequer foi mencionado no relatório. Apesar de se supor não atingir os mais
+38
+pobres – por incrível que pareça – o salário mínimo afeta em certa medida o grau de
+remuneração dos estratos que ganham abaixo da média g eral de salários, contribuindo para a
+diminuição da desigualdade salarial.
+Em sua conclusão, já avaliando a agenda de pesquisa proposta pelo relatório , Salm muda
+um pouco o tom e consegue encontrar algum consenso com as propostas apresentadas. Apesar de
+taxar o relatório de ortodoxo e lembrar a irrelevância da ortodoxia para a formulação de políticas
+públicas no combate a pobreza e à concentração de renda, Sa lm reconhece que são colocados
+fatores que para ele também são relevantes:
+“No capitulo final são dadas as devidas ênfases a dinâmica do mercado de
+trabalho (“equalizar as oportunidades quanto ao acesso ao trabalho”, o que
+implica dar prioridade ao crescim ento); à qualidade da educação que
+recebem os pobres; à qualidade dos empregos; e à iniquidade do sistema
+tributário.” (Salm, 2007, p. 13)
+Para Salm as divergências diminuíram, mas não desaparecem . E o único fato que
+apresenta para isso é a ocultação do sa lário mínimo. Para ele o relatório serviria para dar um
+destaque indevido às transferências de renda (principalmente o Bolsa Família) e desconsiderar a
+importância do salário mínimo. Reforçando o ideário neoclássico de não mexer diretamente com
+os mecanismos de mercado e sim com as dotações iniciais.
+Portanto, vimos com Medeiros (2003) que houve uma mudança do debate dos anos 1970
+para os 2000 no seu foco, agora mais quantitativo. No entanto ainda há duas visões principais
+guiando o debate em ambos os mome ntos: o diagnóstico dominante centrado na teoria do capital
+humano com sua agenda propositiva e a tradição estruturalista com sua respectiva agenda
+propositiva. O relatório do Ipea presente neste capítulo ajudou a esclarecer o que seria o
+diagnostico domin ante e o artigo do professor Salm o que seria a crítica ao diagnostico
+dominante ou a tradição estruturalista. O debate não se reduz a três autores ou instituições , mas
+os que foram usados serviram para apontar os pontos principais no debate.
+39
+Conclusão
+Assim como para se fazer um bom estudo sobre o tema da distribuição de renda é preciso
+que a análise esteja historicamente referenciada, neste trabalho sobre o debate dos anos 2000
+acerca da distribuição de renda no Brasil, se buscou antes de entrar no obj etivo propriamente
+dito, esclarecer questões que poderiam enriquecer a discussão.
+Tentar analisar o debate recente sem olhar para o processo que o gerou tornaria o estudo
+superficial e simplório. Para isso os pontos apresentados no capítulo um e introdução do capítulo
+três foram importantes para entender algumas teorias que viriam a se expressar numa análise
+prática presente no relatório do terceiro capítulo.
+Além disso, a diferenciação das distribuições pessoal e funcional da renda é importante
+para mostrar a possibilidade das diferentes abordagens já que cada vez menos são feitos
+relatórios ou estudos sob a ótica funcional da renda, quando muito, estas análises se restringem
+ao meio acadêmico e com pouca inserção prática na sociedade.
+Os problemas po ntuais das pesquisas apresentados no capítulo dois são importante para
+alertar os estudiosos sobre o tema dos limites dos dados que nós temos. Mesmo que cientes dos
+problemas não dão muita relevância para eles, mas é preciso saber que as conclusões tiradas em
+cima dos dados estarão limitadas assim como eles.
+Por fim, o relatório do Ipea serve para mostrar que aquele diagnóstico nada mais é que
+uma versão da realidade. Seu conteúdo e agenda propost os tem como base uma visão teórica e
+política da sociedade e todos os limites e problemas que essa teoria carrega.
+A crítica apresentada, mesmo que limitada, toca em alguns pontos que são caros para o
+diagnóstico dominante e mostra que há uma outra visão dos mesmos problemas e uma outra
+agenda propositiva. Vale lembrar que a crítica também é uma versão da realidade, porém , a
+realidade é uma só e é preciso um esforço maior para tentar entende-la e transforma-la.
+40
+Bibliografia
+RICARDO, D. (1815). E nsaio acerca da influência do baixo preço do cereal sobre os lucros do
+capital. In: NAPOLEONI, C. (1973). Smith, Ricardo, Marx. 3.ed., Rio de Janeiro: Graal, 1983.
+CARDOSO, F. H. Prefácio. In: TOLIPAN, R. & TINELLI, A.C. (1975) A Controvérsia da
+Distribuição de Renda no Brasil, Zahar Editores, Rio de Janeiro, 1975
+HOFFMAN, R. Tendências da Distribuição da Renda no Brasil e suas Relações com o
+Desenvolvimento Econômico. In TOLIPAN, R; TINELLI, A. C. A Controvérsia da Distribuição
+de Renda no Brasil, Zahar Editores, Rio de Janeiro, 1975
+MEDEIROS, C . Desenvolvimento Econômico e Estratégias de Redução da Pobreza e das
+Desigualdades no Brasil, in Ensaios FEE, Porto Alegre, vol. 24 N.2, 2003.
+IPEA - FUNDAÇÃO INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Sobre a recente
+queda da desigualdade de renda no Brasil. Brasília, ago. 2006. Nota Técnica
+NEY, M. G.; HOFFMANN, R. A recente queda da desigualdade de renda no Brasil: uma análise
+de dados da PNAD, do censo demográfico e das contas nacionais. Econômica, Rio de Janei ro, v.
+10, n. 1, junho 2008, p. 7-39.
+HOFFMANN, R. Distribuição de renda e crescimento econômico. Estudos Avançados. 15(41),
+IEA-USP. São Paulo. 2001. p.67-76.
+MALTA, M . M. “A Controvérsia da Distribuição de Renda no Pensamento Econômico
+Brasileiro: a Ampliação do Debate Teórico sob a Conjuntura Política dos anos 1970”. XXXVIII
+Encontro Nacional da ANPEC. Salvador, 2010 [CD, www. anpec.org.br].
+BELLUZZO, L.G.M. Distribuição de renda: Uma visão da controvérsia. In TOLIPAN, R;
+TINELLI, A. C. A Controvérsia d a Distribuição de Renda no Brasil , Zahar Editores, Rio de
+Janeiro, 1975
+SALM, C. Sobre a recente queda da desigualdade de renda no Brasil: uma leitura crítica. In:
+BARROS, R. P. de; FOGUEL, M. N.; ULYSSEA, G. (Orgs.). Desigualdade de renda no Brasil:
+uma análise da queda recente. Rio de Janeiro: IPEA, 2007. Disponível em:
+<http://www.centrocelsofurtado.org.br >. Acesso em: 24 dez. 2013.
+41
+ALVAREZ, A. R. Desenvolvimentos teóricos sobre a distribuição de renda, com ênfase em seus
+limites. São Paulo: Universidade de São Paulo, 1996. Dissertação de Mestrado.
+FISHLOW, A. Brazilian size distribution of income. In: FOXLEY, A. Income distribution in
+Latin America. Cambridge: Cambridge University Press, 1976
+BONELLI, R.; RAMOS, L. Distribuição de renda no Brasil: ava liação das tendências de longo
+prazo e mudanças na desigualdade desde meados dos anos 70. Revista de Economia Política, São
+Paulo: Ed. 34, v. 13, n. 2, p. 76-97, abr.-jun, 1993.

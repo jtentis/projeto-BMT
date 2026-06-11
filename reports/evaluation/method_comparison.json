@@ -2,41 +2,41 @@
   "tfidf": {
     "ranking": {
       "method": "tfidf",
-      "precision_at_1": 0.9,
-      "precision_at_2": 0.8,
-      "map": 0.9,
-      "ndcg_at_1": 0.9,
-      "ndcg_at_2": 0.9
+      "precision_at_1": 0.52,
+      "precision_at_2": 0.47,
+      "map": 0.52,
+      "ndcg_at_1": 0.52,
+      "ndcg_at_2": 0.52
     },
     "classification": {
       "method": "tfidf",
-      "accuracy": 0.75,
-      "precision": 0.7,
-      "recall": 0.7863,
-      "f1": 0.7238,
-      "macro_f1": 0.7238
+      "accuracy": 0.9333,
+      "precision": 0.9015,
+      "recall": 0.9327,
+      "f1": 0.9144,
+      "macro_f1": 0.9144
     },
-    "document_count": 10,
-    "pair_count": 20
+    "document_count": 50,
+    "pair_count": 75
   },
   "scibert": {
     "ranking": {
       "method": "scibert",
-      "precision_at_1": 0.8,
-      "precision_at_2": 0.8,
-      "map": 0.85,
-      "ndcg_at_1": 0.7333,
-      "ndcg_at_2": 0.8428
+      "precision_at_1": 0.5,
+      "precision_at_2": 0.47,
+      "map": 0.51,
+      "ndcg_at_1": 0.46,
+      "ndcg_at_2": 0.5004
     },
     "classification": {
       "method": "scibert",
-      "accuracy": 0.65,
-      "precision": 0.2167,
-      "recall": 0.3333,
-      "f1": 0.2626,
-      "macro_f1": 0.2626
+      "accuracy": 0.5067,
+      "precision": 0.5098,
+      "recall": 0.3571,
+      "f1": 0.2752,
+      "macro_f1": 0.2752
     },
-    "document_count": 10,
-    "pair_count": 20
+    "document_count": 50,
+    "pair_count": 75
   }
 }

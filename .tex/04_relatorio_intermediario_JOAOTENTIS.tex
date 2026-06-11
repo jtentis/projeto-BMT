@@ -1,0 +1,142 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+\usepackage{graphicx,url}
+\usepackage[utf8]{inputenc}
+\usepackage[colorlinks=true, allcolors=black]{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage{listings}
+\usepackage{longtable}
+\lstset{breaklines=true, basicstyle=\ttfamily}
+
+\sloppy
+
+\title{\textbf{Relatório Intermediário: Evolução do Baseline e Análise Crítica}}
+
+\author{João Pedro Tentis\inst{1}}
+
+\address{PESC -- Universidade Federal do Rio de Janeiro (UFRJ)}
+
+\begin{document}
+
+\maketitle
+
+\section{Links obrigatórios}
+
+\begin{itemize}
+    \item GitHub: \url{https://github.com/jtentis/projeto-BMT}
+    \item Overleaf: \url{https://tinyurl.com/56nx8f4c}
+\end{itemize}
+
+\section{Objetivo da entrega}
+
+Esta entrega intermediária apresenta a evolução do projeto após a definição do \textit{baseline} inicial. O foco não é substituir o \textit{baseline} por um modelo supervisionado neste momento, mas mostrar progresso substancial na estabilização experimental: consolidação do \textit{dataset}, formalização do protocolo, definição de métricas, recalculo dos resultados e análise crítica das limitações observadas.
+
+O problema continua sendo a auditoria automática de trabalhos acadêmicos, buscando verificar o alinhamento entre promessas feitas na introdução e entregas presentes em resultados ou conclusão. A abordagem atual permanece simples e reproduzível, usando segmentação heurística, vetorização TF-IDF e similaridade do cosseno.
+
+\section{Estado anterior do baseline}
+
+Na entrega de \textit{baseline}, o sistema já executava um fluxo completo de leitura de PDFs, extração textual, normalização, segmentação por cabeçalhos numerados e comparação entre seções. A principal contribuição daquela etapa foi transformar a proposta em um \textit{pipeline} executável, com artefatos em \texttt{reports/baseline/}.
+
+Entretanto, o desenho experimental ainda era limitado. O corpus usado como referência era pequeno, a documentação das decisões de avaliação ainda não estava consolidada e as métricas estavam concentradas no score por documento. Assim, o \textit{baseline} servia como prova inicial de viabilidade, mas ainda não oferecia uma base suficientemente organizada para comparação futura com modelos mais fortes.
+
+\section{Evoluções implementadas}
+
+A evolução principal foi a consolidação do corpus final em \texttt{data/raw/}, com 10 trabalhos acadêmicos em PDF. Todos os documentos foram processados sem erro, gerando textos extraídos, textos normalizados, segmentações por documento, métricas por documento e métricas agregadas.
+
+Também foram adicionados artefatos experimentais mais explícitos. O arquivo \texttt{reports/baseline/dataset/summary.json} descreve o conjunto de dados, origem, critérios de inclusão e exclusão, normalização e estatísticas. O arquivo \texttt{reports/baseline/protocol/experimental\_protocol.json} registra o protocolo experimental, incluindo a justificativa para avaliação descritiva sobre corpus fixo. Já \texttt{reports/baseline/metrics/coverage\_metrics.json} resume a cobertura do \textit{pipeline}.
+
+Além disso, foram criados documentos auxiliares em Markdown para tornar o experimento mais auditável: \texttt{experimental\_protocol.md} e \texttt{formal\_metrics.md}. Esses arquivos tornam explícito o que está sendo medido, o que ainda não pode ser medido e quais decisões precisam ser revistas em etapas futuras.
+
+\section{Decisões técnicas}
+
+A primeira decisão técnica foi manter o \textit{baseline} simples e determinístico. Como ainda não há anotação manual de trechos ou rótulos esperados, evoluir diretamente para um classificador supervisionado poderia criar uma falsa sensação de rigor. Por isso, a etapa intermediária priorizou a organização do experimento.
+
+A segunda decisão foi tratar o corpus completo como conjunto fixo de avaliação. Não há divisão entre treino, validação e teste porque o método atual não aprende parâmetros a partir de rótulos. O TF-IDF é ajustado apenas nos trechos comparados dentro de cada documento, sem reutilizar vocabulário, pesos ou estatísticas entre documentos.
+
+A terceira decisão foi preservar métricas simples, mas tornar seus limites claros. O score principal é a similaridade do cosseno entre a introdução e as seções de entrega. O rótulo \texttt{high}, \texttt{medium} ou \texttt{low} é apenas uma interpretação heurística do score, não um julgamento definitivo sobre a qualidade do trabalho acadêmico.
+
+\section{Resultados comparativos}
+
+A Tabela~\ref{tab:comparacao_geral} resume a evolução entre a entrega de \textit{baseline} e o estado intermediário atual.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{lll}
+        \toprule
+        Aspecto & Baseline inicial & Estado intermediário \\
+        \midrule
+        Corpus & reduzido e exploratório & 10 PDFs consolidados \\
+        Protocolo & implícito & documentado em JSON e Markdown \\
+        Métricas & score por documento & score, cobertura e distribuição \\
+        Artefatos & resultados básicos & dataset, protocolo e métricas agregadas \\
+        Avaliação & prova de viabilidade & avaliação descritiva reproduzível \\
+        \bottomrule
+    \end{tabular}
+    \caption{Comparação entre o baseline inicial e o estado intermediário.}
+    \label{tab:comparacao_geral}
+\end{table}
+
+Na execução atual, os 10 documentos foram processados e avaliados. Não houve erro de extração, e as seções de introdução, entrega e conclusão foram detectadas em todos os documentos. A distribuição dos rótulos foi de 7 documentos classificados como \texttt{high}, 2 como \texttt{medium} e 1 como \texttt{low}.
+
+\begin{longtable}{llllrl}
+    \caption{Resultados atuais do baseline no corpus consolidado.} \label{tab:resultados_intermediarios} \\
+    \toprule
+    Documento & Status & Promessa & Entrega & Score & Rótulo \\
+    \midrule
+    \endfirsthead
+
+    \multicolumn{6}{c}{{\bfseries \tablename\ \thetable{} -- Continuação}} \\
+    \toprule
+    Documento & Status & Promessa & Entrega & Score & Rótulo \\
+    \midrule
+    \endhead
+
+    \midrule
+    \multicolumn{6}{r}{{Continua na próxima página}} \\
+    \bottomrule
+    \endfoot
+
+    \bottomrule
+    \endlastfoot
+
+    AMDavid & ok & introduction & results;conclusion & 0.4040 & high \\
+    ENPinho & ok & introduction & results;conclusion & 0.3280 & medium \\
+    FMRolim & ok & introduction & results;conclusion & 0.5123 & high \\
+    GGSouza & ok & introduction & results;conclusion & 0.4525 & high \\
+    HBCReis & ok & introduction & results;conclusion & 0.4680 & high \\
+    HBMHenriques & ok & introduction & results;conclusion & 0.3190 & medium \\
+    LCMarques & ok & introduction & results;conclusion & 0.0000 & low \\
+    LMFGaleno & ok & introduction & results;conclusion & 0.6510 & high \\
+    MDFonseca & ok & introduction & results;conclusion & 0.4065 & high \\
+    PVMNascimento & ok & introduction & results;conclusion & 0.4224 & high \\
+\end{longtable}
+
+O caso mais crítico é \texttt{LCMarques}, com score 0.0000. Esse resultado não deve ser interpretado automaticamente como ausência real de alinhamento entre promessa e entrega. Ele também pode indicar falha de segmentação, delimitação inadequada das seções, ruído de extração ou baixa sobreposição lexical entre trechos semanticamente relacionados.
+
+\section{Análise crítica de erros e limitações}
+
+A principal limitação técnica continua sendo a segmentação heurística. O método depende de cabeçalhos numerados e de padrões textuais relativamente simples. Quando um PDF possui estrutura editorial diferente, sumário ruidoso, codificação problemática ou títulos pouco convencionais, o trecho selecionado pode ficar amplo demais, curto demais ou semanticamente distante da seção desejada.
+
+Outra limitação importante está na métrica de similaridade. TF-IDF com cosseno é útil como referência inicial porque é simples, rápido e reproduzível, mas mede principalmente sobreposição lexical. Dois trechos podem tratar da mesma promessa com vocabulários diferentes e receber score baixo. Da mesma forma, dois trechos podem compartilhar termos frequentes e receber score alto mesmo sem relação argumentativa forte.
+
+Também não há, nesta etapa, anotação manual que permita calcular métricas supervisionadas ou de recuperação de informação. Sem \textit{ground truth}, não é adequado reportar F1, accuracy, MAP, NDCG ou Precision@k como se fossem evidências de qualidade do modelo. A ausência dessas métricas não é uma falha operacional, mas uma restrição metodológica assumida.
+
+Por fim, o corpus ainda é pequeno. Dez documentos são suficientes para validar a reprodução e encontrar limitações concretas do \textit{pipeline}, mas não bastam para generalizar conclusões sobre trabalhos acadêmicos em geral.
+
+\section{Próximos passos}
+
+O próximo passo mais importante é auditar manualmente uma amostra dos trechos segmentados. Essa auditoria deve verificar se a introdução, os resultados e a conclusão selecionados correspondem às seções corretas do PDF. O caso \texttt{LCMarques} deve receber prioridade, pois o score zero sugere um erro informativo para melhoria do método.
+
+Depois disso, será necessário criar rótulos de referência para permitir avaliação supervisionada. Com esses rótulos, o projeto poderá medir acurácia, F1, macro-F1 e outras métricas compatíveis com a tarefa. Para a dimensão de busca e ranking, será preciso definir julgamentos de relevância antes de calcular Precision@k, Recall@k, MAP ou NDCG.
+
+Também é recomendável comparar o \textit{baseline} atual com representações semânticas mais robustas, como embeddings de sentenças, SciBERT ou modelos da família \textit{sentence-transformers}. Essa comparação deve ser feita apenas depois de estabilizar os rótulos e o protocolo, para evitar que a complexidade do modelo esconda problemas de dados.
+
+\section{Conclusão}
+
+A entrega intermediária mostra avanço substancial além do \textit{baseline} inicial. O projeto passou de uma prova de viabilidade para um experimento mais organizado, com dataset consolidado, protocolo documentado, métricas formais e resultados comparativos.
+
+Ao mesmo tempo, a análise crítica indica que a próxima evolução deve ser guiada por evidências: revisão manual das segmentações, criação de \textit{ground truth} e comparação controlada com modelos semânticos. Assim, o \textit{baseline} atual cumpre seu papel de referência simples e rastreável para as próximas etapas do projeto.
+
+\end{document}

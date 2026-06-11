@@ -1,0 +1,3796 @@
+UFRJ 
+Elita Selmara de Abreu 
+MAGNETOMETRIA APLICADA À BACIA BARINAS-APURE 
+Trabalho de Conclusão de Curso 
+submetido ao Programa de Pós-graduação 
+em Geologia, Instituto de Geociências, da 
+Universidade Federal do Rio de Janeiro -
+UFRJ, como requisito necessano à 
+obtenção do grau de Especialista em 
+Geofísica do Petróleo. 
+Orientadores: 
+Paula Lúcia Ferrucio da Rocha 
+Álvaro Lúcio de Oliveira Gomes 
+Rio de Janeiro 
+Julho de 2007 
+Elita Selmara de Abreu 
+MAGNETOMETRIA APLICADA À BACIA BARINAS-APURE 
+Trabalho de Conclusão de Curso 
+submetido ao Programa de Pós-graduação 
+em Geologia, Instituto de Geociências, da 
+Universidade Federal do Rio de Janeiro -
+UFRJ, como requisito necessano à 
+obtenção do grau de Especialista em 
+Geofísica do Petróleo. 
+Orientadores: 
+Paula Lúcia Ferrucio da Rocha 
+Álvaro Lúcio de Oliveira Gomes 
+Aprovada em: .2007 
+Por: 
+Paula Lúcia Ferrucio da Rocha (UFRJ) 
+Álvaro Lúcio de Oliveira Gomes (Petrobras) 
+UFRJ 
+Rio de Janeiro 
+2007 
+Dedico este trabalho a minha mãe e minha 
+irmã, que muitas vezes acreditaram ma is em 
+meu potencial do que eu mesma; ao Felipe 
+Lourenço, pela compreensão e paciência, e a 
+todos os que estiveram ao meu lado me 
+apoiando. 
+VI 
+Agradecimentos 
+Gostaria de agradecer às entidades e às pessoas que colaboraram 
+efetivamente para a elaboração deste trabalho: 
+Aos meus colegas de grupo Josiane, Mariana, André e João Lucas, pois sem 
+eles esse trabalho não sairía; 
+Ao Claudio Couto Reis pela pronta ajuda e referências indicadas; 
+Aos professores da Universidad Simon Bolívar, Milagrosa e Jose Fernades, 
+pelos papers e bibliografias cedidos; 
+E aos meus orientadores. 
+V ll 
+"A teoria sempre acaba, mais cedo ou mais tarde, assassinada pela 
+experiência." Albert Einstein 
+Vlll 
+Resumo 
+Abreu, Elita Selmara de. Magnetometria Aplicada à Bacia Barinas-Apure: 2007. VII, 
+157p. Trabalho de Conclusão de Curso (Especialização em Geofísica do Petróleo) -
+Programa de Pós-graduação em Geologia, Instituto de Geociências, Universidade 
+Federal do Rio de Janeiro, Rio de Janeiro. 
+Neste trabalho foi feito um estudo da geologia da bacia de Barinas-Apure, no 
+qual buscamos evidenciar as características mais importantes da bacia através de 
+um estudo teórico sobre o método magnético aplicado à geofísica e um estudo de 
+caso sobre método aplicado. Estes dois estudos foram direcionados à prospecção 
+petrolífera na bacia de Barinas-Apure. O objetivo do nosso estudo de caso foi 
+interligar a geologia estudada à aplicação do método magnético na bacia de 
+Barinas-Apure, verificando, assim, a eficiência do método na prospecção de 
+petróleo das bacias andinas. Com base nisto, pudemos observar a eficiência do 
+método magnético em reconhecer e detalhar lineamentos do embasamento, bem 
+como interpretar as principais estruturas: o graben de São Fernando e o graben de 
+baixo estrutural. A partir disso, pudemos selecionar zonas que justificam a sua 
+exploração através de métodos sísmicos. Verificamos ainda, a possibilidade de 
+outros métodos magnéticos para se estimar a distribuição de óleo cru em zonas de 
+exploração. 
+Palavras-chave: geofísica; magnetometria; petróleo. 
+IX 
+Abstract 
+Abreu, Elita Selmara de. Magnetic Methods Aplied in the Barinas-Apure Basin. 
+2007. VII, 157p. Trabalho de Conclusão de Curso (Especialização em Geofísica do 
+Petróleo) - Programa de Pós-graduação em Geologia, Instituto de Geociências, 
+Universidade Federal do Rio de Janeiro, Rio de Janeiro. 
+ln this work we present a study of the Barinas-Apure bay geology in which its 
+most important characteristics are evidenced by a theoretical study about the 
+magnetic method applied to geophysics and a case study about the applied method. 
+These two studies were directed towards the petroliferous prospection in the 
+Barinas-Apure bay. The objective of our case study was to connect the studied 
+geology to the magnetic method applied to the Barinas-Apure bay and, thereby, 
+verify the method efficiency in petroleum prospection at the Andeans bays. Based on 
+this, one could observe the magnetic method efficiency in recognize and detail 
+lineaments of the basements, as well in interpret the main structures: the graben of 
+San Fernando and the low structural graben. Hence, we could select zones which 
+have their exploration justified by seismic methods. Beyond this, the possibility of 
+different magnetic methods that estimate the distribution of crude oil in zones of 
+exploration was verified. 
+Key-Words: geophysics; magnetics methods; petroleum 
+Lista de Figuras 
+Figura 1 -A - Tectônica regional presente no NW da América do Sul. 
+São mostradas a localização da Cordilheira Andina de Mérida, bacia 
+Barinas-Apure e seção P1 -P2. B - Mapa geológico simplificado de 
+estudo de área (após Case et ai., 1990), descrevendo uma 
+semelhança regional entre a superfície geológica e unidades 
+aflorantes na Sessão P1-P2. 
+( Chacín et ai., 2005) 
+Figura 2 - Províncias sedimentares das bacias petrolíferas da 
+Venezuela (Pérez de Mejía, et ai., 1980). E. B. L. =E/ Baú/ Lineament 
+(Arco de E/ Baú/), e limites orientais da bacia Barinas-Apure (Well 
+Evaluation Conference, 1997). 
+Figura 3: Quadro de correlação bioestratigráfica da Bacia de Barinas­
+Apure. 
+Figura 4: Coluna estratigráfica da bacia de Barinas. 
+Figura 5: Perfil esquemático NW-SE da região da Bacia de Barinas­
+Apure, destacando a Cordilheira Andina de Méridas. 
+·Figura 6: Sistema de falhas da cordilheira. 
+Figura 7: Tectônica da América do Sul, NAB =Bloco Andino do Norte, 
+Car = Placa Caribenha, Nzc = Placa do Pacífico, Nam =Placa Norte 
+Americana, Afr = Placa Africana, Gs = Arco da Guiana, Ec, Gol, Ve = 
+limites geográficos do Equador, Colômbia e Venezuela 
+respectivamente. 
+Figura B: Localização da área de estudos - Sub-bacia Barinas. (López 
+et ai. 1998 ). 
+Figura 9: Seção transversa/ de NW-SE da bacia Barinas-Apure 
+(Parnaud et ai., 1995 apud Well Evaluation Conference, 1997). 
+Figura 10: Mapa de eventos do sistema petrolífero La Luna-Burgüita 
+(!),durante o término do posicionamento da Cordilheira de Mérida (Well 
+Evaluation Conference, 1997). 
+Figura 11: Mapa de eventos do sistema petrolífero Navay­
+Gobernador (!), no norte do Arco Mérida, durante o soerguimento 
+Andino (Well Evaluation Conference, 1997). 
+Figura 12: Representação esquemática das fontes de anomalias de 
+supra e intraembasamento (J.G. Luiz, 1995). 
+X 
+p.8 
+p.9 
+p. 15 
+p. 16 
+p.22 
+p.26 
+p.27 
+p.29 
+p.31 
+p.32 
+p.33 
+p.38 
+Figura 13: Perfil geológico esquemático mostrando o armazenamento 
+de petróleo em "armadilha" causada pelo arqueamento de sedimentos. 
+O arqueamento foi induzido pelos desníveis topográficos do 
+embasamento (fonte magnética de supra embasamento) - (J.G. Luiz, 
+1995). p. 38 
+Figura 14: Mapa topográfico do topo do embasamento no campo de 
+Swanson River, Alasca. Adaptado de Steeland (1995) - (J.G. Luiz, 
+1995). 
+Figura 15: Curva de histerese típica (Telford, 1990). 
+Figura 16: Representação esquemática do dipolo cujo campo é uma 
+aproximação do campo magnético magnético terrestre (J. G . Luiz, 
+1995). 
+Figura 17: Representação geométrica do campo magnético terrestre e 
+seus elementos. NG - norte geográfico; NM - norte magnético; E -
+leste (J.G. Luiz, 1995). 
+Figura 18: Representação esquemática das linhas de força do campo 
+geomagnético. NM-norte magnético; SM-sul magnético (J.G. Luiz, 
+1995). 
+Figura 19: IGRF-1985 para: (a) inclinação do campo magnético (em 
+graus); (b) variação anual da inclinação (em minutos por ano). A 
+inclinação 0° assinala o equador magnético. Adaptado de Barraclough 
+(1987) -(J.G. Luiz, 1995). 
+Figura 20: Princípio de funcionamento do Flux-gate: (a) curva de 
+histerese dos núcleos; (b) enrolamentos dos núcleos; (c) fluxo 
+magnético nos núcleos na ausência de um campo externo; (d) 
+voltagens induzidas (V1 e V2) nas bobinas secundárias na presença de 
+um campo externo (campo terrestre); (e) voltagem resultante V1+V2, 
+medida no voltímetro (J.G. Luiz, 1995). 
+Figura 21: Analogia entre a precessão nuclear e um pião (Telford, 
+1990). 
+Figura 22: Bombeamento óptico. (a) Níveis de energia de transição. (b) 
+Efeito do bombeamento na transmissão de luz (Telford, 1990). 
+Figura 23: Efeito da altura do vôo nas anomalias magnéticas: (a) 
+levantamento aéreo a diversas alturas; (b) levantamento terrestre (J.G. 
+Luiz, 1995). 
+p.39 
+p.56 
+p.57 
+p.59 
+p.60 
+p.62 
+p.67 
+p.69 
+p. 73 
+p.80 
+X l 
+Figura 24: Configuração de vôo usada em levantamentos 
+aeromagnéticos ( J. G. Luiz, 1995). 
+Figura 25: Perfis magnéticos calculados para o modelo tabular vertical 
+(comprimento e extensão em profundidade infinitos) de largura igual a 4 
+vezes a rotundidade h do seu topo. Os perfis são perpendiculares à 
+direção do corpo e foram calculados para inclinações do campo 
+magnético l=O, 15, 30 e 45° , e ângulos entre o norte magnético e a 
+direção do prisma e = O a 90° (a intervalos de 15°). Adaptado de Leão 
+& Silva (1977) -(J.G. Luiz, 1995). 
+Figura 26: Efeito magnético da topografia de um terreno com 
+susceptibilidade magnética próxima de O, 007 unidades cgs. Adaptado 
+de Gupta & Fitzpatrick (1971) -(J.G. Luiz, 1995). 
+Figura 27: Localização da área de estudo (Sousa, F.G.F., 2002). 
+Figura 28: Mapa de Intensidade Magnética Total (Sousa, F.G.F., 
+2002). 
+Figura 29: Mapa de intensidade magnética total reduzida ao pólo, onde 
+mostra-se os blocos em que se dividiu a malha inicial. Os blocos estão 
+numerados desde a parte superior esquerda, da esquerda para a 
+direita e de cima para baixo (Sousa, F.G.F., 2002). 
+Figura 30: Amostras dos espectros de potência gerados para 
+determinara a profundida e do embasamento magnético dos blocos 1, 
+2, 9 e 11. as profundidades correspondentes em cada caso estão na 
+tabela 4 (Sousa, F.G.F., 2002). 
+Figura 31: Amostras dos espectros de potência gradas para determinar 
+a profundidade do embasamento magnético, dos espectros 
+correspondentes aos blocos 61, 15, 17 e 46. As profundidades 
+correspondentes a cada caso se encontram na tabela 4 (Sousa, 
+F.G.F., 2002). 
+Figura 32: Mapa do topo do embasamento magnético (Sousa, F.G.F., 
+2002). 
+Figura 33: Mapa de redução ao pólo da Intensidade Magnética Total 
+(Sousa, F.G.F., 2002). 
+p.81 
+p.83 
+p.87 
+p. 100 
+p. 106 
+p. 112 
+p.113 
+p. 114 
+p. 115 
+p.120 
+Figura 34: Mapa de redução ao equador da Intensidade Magnética p. 121 
+X ll 
+Total (Sousa, F.G.F., 2002). 
+Figura 35: Mapa da Intensidade Magnética Total com continuação para 
+cima de 5000 metros (Sousa, F. G.F., 2002). 
+Figura 36: Mapa da primera derivada vertical da Intensidade Magnética 
+Total (Sousa, F.G.F., 2002). 
+Figura 37: Mapa do topo do embasamento com interpretação estrutural 
+superposta (Sousa, F.G.F., 2002). 
+Figura 38: Perfil 1 - Interpretação estrutural do embasamento (Sousa, 
+F.G .F., 2002). 
+Figura 39: Perfil 2 -Interpretação estrutural do (Sousa, F. G.F., 2002). 
+Figura 40: Perfil 3 - Interpretação estrutural do embasamento (Sousa, 
+F.G.F., 2002). 
+Figura 41: Perfil 4 - Interpretação estrutural do embasamento (Sousa, 
+F.G.F., 2002). 
+X lll 
+p. 122 
+p. 123 
+p. 125 
+p. 129 
+p.130 
+p. 131 
+p. 132 
+XlV 
+Lista de Quadros 
+Quadro 1 - Fases tectônicas que definem as principais falhas 
+estruturais relacionadas à bacia de Barinas-Apure. p. 23 
+Lista de Tabelas 
+Tabela 1: tabela de densidade de alguns tipos de rocha (Telford, 
+1990). 
+Tabela 2: tabela de susceptíbilidade de alguns tipos de rocha (Telford, 
+1990). 
+Tabela 3: Profundidades do embasamento magnético obtidas através 
+do método de Spector e Grant (1970) para cada um dos blocos em que 
+se dividiu o mapa de Intensidade Total Magnética (Sousa, F.G.F., 
+2002). 
+XV 
+p.42 
+p.43 
+p. 116 
+Sumário 
+Agradecimentos 
+Resumo 
+Abstract 
+Lista de figuras 
+Lista de quadros 
+Lista de tabelas 
+1. INTRODUÇÃO 
+2. OBJETIVO 
+3. MÉTODO 
+4. CONTEXTO GEOLÓGICO DA BACIA 
+4.1. Estratigrafia 
+4.1.1. Evolução Estratigráfica da Bacia de Barinas-Apure 
+4.1.2. Descrição Litológica das Principais Formações 
+Bacia de Barinas-Apure. 
+4.1.3. Estratigrafia de Seqüência na Área da Bacia 
+Barinas-Apure. 
+4.2. Geologia Estrutural 
+4.3. Geologia Histórica 
+4.3.1. Modelo Tectônico 
+4.4 Geologia do Petróleo 
+4.4.1 Sistema Petrolífero 
+5. MAGNENOMETRIA 
+5.1. Introdução 
+5.1.1. Prospecção de Petróleo 
+5.1.2. Avaliação Histórica 
+5.1.3.Semelhanças entre Gravidade e Magnetismo 
+5.1.4.Diferenças entre Gravidade e Magnetismo 
+5.1.5. Conceitos Básicos 
+5.2. Magnetização dos Matérias 
+5.2.1.lndução Magnética 
+5.2.2.Mecanismos de Indução Magnética 
+5.2.3.Susceptibilidade Magnética 
+5.2.4.Susceptibilidade das Rochas e Minerais 
+5.2.5. Magnetismo Remanescente 
+5.3. O Campo Magnético da Terra 
+5.3.1. Natureza do Campo Geomagnético 
+5.3.2. Nomenclatura do Campo Magnético 
+5.3.3.Variações Temporais do Campo Magnético da Terra 
+5.4. Instrumentos de Medidas de Campo Magnét ico 
+5.4.1 . Magnetômetro Fluxgate 
+5.4.2.Magnetômetro de Precessão Nuclear 
+5.4.3.Magnetômetro de Bombeamento Ótico 
+5.4.4. Grad iômetro 
+5.4.5.Calibração de Magnetômetros 
+XVI 
+vi 
+viii 
+ix 
+X 
+xiv 
+XV 
+1 
+4 
+5 
+7 
+10 
+10 
+da 
+14 
+de 
+17 
+22 
+25 
+26 
+30 
+30 
+36 
+36 
+37 
+40 
+41 
+41 
+44 
+47 
+47 
+48 
+51 
+52 
+54 
+57 
+63 
+63 
+65 
+66 
+66 
+69 
+72 
+74 
+75 
+5.5. Procedimentos de Campo 
+5.5.1.Levantamentos Terrestres 
+5.5.2.Levantamentos Marinhos 
+5.5.3.Levantamentos Aéreos 
+5.6.Tratamento dos Dados 
+5.6.1.Limpeza e interferência Magnética 
+5.6.2.Correção da Variação Diurna 
+5.6.3.Correção Topográfica 
+5.6.4.Remoção do IGRF 
+5.6.5.Redução ao Pólo 
+5. 7 .Interpretação 
+5. 7 .1 . Curvas Características 
+5. 7 .2. Camada Equivalente 
+5. 7.3.Estimativas de Profundidade 
+5. 7.4.Desmagnetização 
+6. ESTUDO DE CASO 
+6.1. Introdução 
+6.2. Localização e geologia da zonda de estudo 
+6.2.1 Localização da zona de estudo 
+6.3. Dados Aeromagnéticos 
+6.3.1. Fundamentos Teóricos 
+6.3.2. Campo Potencial Magnético de 
+uniformemente magnetizado 
+6.3.3. PROCESSAMENTO DOS 
+AEROMAGNÉTICOS 
+6.3.3.1. Redução ao Pólo 
+6.3.3.2. Primeira Derivada Vertical 
+6.3.3.3. Continuação do Campo para Cima 
+6.4. Inversão Magnética 
+6.5. Interpretação Qualitativa e Quantitativa 
+6.5.1. Interpretação Magnética Qualitativa 
+6.5.2. Interpretação Quantitativa 
+7. CONCLUSÃO 
+Referências bibliográficas 
+um corpo 
+76 
+76 
+78 
+79 
+83 
+84 
+85 
+86 
+89 
+89 
+91 
+92 
+93 
+94 
+96 
+98 
+98 
+99 
+99 
+101 
+101 
+102 
+DADOS 105 
+106 
+108 
+108 
+109 
+118 
+119 
+125 
+133 
+136 
+XVll 
+1 
+1. INTRODUÇÃO 
+Grande parte das bacias andinas formou-se a partir do soerguimento da 
+Cordiheira dos Andes, e por isso, o estudo dessas bacias é de grande 
+importância para a geologia. Neste trabalho estudaremos uma dessas bacias, a 
+bacia de Barinas-Apure, localizada a oeste da Venezuela. 
+A bacia de Barinas-Apure compreende uma depressão de 
+aproximadamente 95 000 km 2 e profundidade máxima de aproximadamente 5 
+000 m. O soerguimento dos Andes de Méridas é apontado como a principal 
+causa da bacia de Barinas-Apure (Chacín et ai., 2005). 
+A bacia Barinas-Apure é definida como uma depressão estrutural do 
+embasamento ígneo-metamórfico pré-cretácico, onde se depositaram 
+sedimentos do Cretáceo e do Terciário, formando uma coluna sedimentar de 
+aproximadamente 5.000 m de espessura em sua parte central (Almarza, 1995 
+apud lntevep, 1994). Limita-se a noroeste pela Cadeia dos Andes 
+Venezuelanos, ao norte pela prolongação ocidental da Serra Interior Central, a 
+leste e nordeste pelo Arco de EI Baúl e a sul por um alto gravimétrico situado 
+entre os rios Apure e Arauca, que a separa dos Campos Colombianos (Barrios 
+et ai., 2007, e Hurtado et ai., 2006) 
+A produção de hidrocarbonetos origina-se de reservatórios de depósitos 
+siliciclásticos do Terciário e carbonatos do Cretáceo (A. Contreras e C . Torres), 
+sendo que as acumulações de hidrocarbonetos na área são controladas tanto 
+por estruturas extensionais como por compresivas do Cretáceo Superior -
+Eoceno Médio e Mio-Plio-Pelistoceno. Segundo Figueroa et ai. (1994), a 
+seqüência cretácica encontra-se presente em toda a área, diminuindo sua 
+2 
+espessura a sul e nordeste. A seqüência Eoceno Médio e Eoceno Médio a 
+Superior alcança máxima espessura ao norte e afina por erosão no sul e 
+sudeste, a seqüência Oligo-Mioceno inferior se acunha a nordeste e a 
+seqüência Mioceno Médio Peistoceno apresenta erosão ao norte. 
+A evolução tectônica da bacia Barinas-Apure pode ser reduzida a três 
+estágios principais: o primeiro estágio foi a fase extensional da bacia, ocorrida 
+no Jurássico devido ao rifteamento da Pangea , o segundo estágio durou até o 
+início do Mioceno, correspondeu a uma fase de pré-deformação andina, 
+dominada por sedimentação pós-rifte e séries de ciclos eustáticos afetados por 
+alguns eventos tectônicos, e o último estágio é representado pela deformação 
+e soerguimento andino relacionado com a convergência oblíqua do arco do 
+Panamá com o noroeste da América do Sul, que começou no final do Mioceno 
+e dura até hoje (e.g. Mana.and Burke, 1984; Eva et ai., 1989; Mann et ai., 1990; 
+Audemard and Audemard, 2002). 
+Na superfície de 95 mil km 2 da bacia de Barinas-Apure existem existem 
+433 poços ativos, com uma capacidade de produção de 145 milhões de barris 
+de óleo por dia. Em 2000 a produção foi de 40,6 milhões de barris por dia, isso 
+representa 3,5% do total venezuelano. No campo de Guafita, o primeiro poço 
+descoberto foi perfurado em fevereiro e março de 1984, pela Corpoven S .A. 
+Os estudos geofísicos realizados sobre as bacias andinas visam a 
+prospecção de hidrocarbonetos, sendo os métodos sísmicos e a perfilagem 
+uma das formas principais para a realização desse tipo de estudo. Por outro 
+lado, os métodos potenciais são mais comumente usados para delimitação a 
+bacia, carcterização do embasamento e identificação de suas principais 
+feições. 
+3 
+No entanto, embora o uso de métodos elétricos venha crescendo cada 
+vez mais na área de exploração de petróleo, não encontramos a aplicação 
+deste em nossa bacia, Barinas-Apure, bem como em toda a Venezuela. 
+4 
+2. OBJETIVO 
+O objetivo desse trabalho é o entendimento da geologia da bacia de 
+Barinas-Apure, de forma simples, para compreendermos como esta se formou 
+e identificarmos suas principais características para a aplicação do Método 
+Geofísico. 
+Por tratar-se de uma bacia pouco prolífera, em relação às outras bacias 
+da Venezue la, pouco foi encontrado na literatura sobre a sua geologia, a não 
+ser papers específicos. Sendo assim, discutimos brevemente sua estratigrafia, 
+geologia estrutural, evolução tectônica e geologia do petróleo, buscando 
+priorizar os aspectos gerais que auxiliaram na aplicação do Método Geofísico e 
+do estudo de caso. 
+Da mesma forma, discutimos o Método Geofísico de interesse, com o 
+intuito de fundamentar e discutir os resultados obtidos nos estudos de caso 
+encontrados na literatura. 
+O objetivo de se fazer um estudo de caso aplicado à bacia foi não só 
+promover o entendimento do Método Geofísico em si, mas também a sua 
+importância na prospecção de hidrocarbonetos. Sendo assim, o enfoque do 
+estudo de caso foi, além da aplicação do Método Geofísico, estudar as 
+possibilidades de prospecção de hidrocarbonetos na bacia de Barinas-Apure, 
+que hoje é a terceira produtora de petróleo na Venezuela. 
+5 
+3. MÉTODO 
+Sobre a bacia de Barinas-Apure pouco encontramos nas bibliografias 
+mais usuais sobre geologia andina, como o livro Petroleum basins of South 
+America: AAPG Memoir 62. Neste, o pouco que encontramos sobre as bacias 
+venezuelanas, falavam apenas da bacia de Maracaibo. Sendo assim, 
+basicamente todas as informações que obtivemos sobre a geologia da bacia de 
+Barinas-Apure foi baseada em congressos (Well Evaluation Conference, 1997), 
+no site da PDVSA , e em papers em geral. 
+Para entendermos a formação da bacia de Barinas-Apures, bem como 
+sua evolução tectônica e geologia estrutural, o principal artigo utilizado foi 
+"Flexural and Gravity Modeling of the Mérida Andes and Barinas-Apure Basin, 
+Western Venezuela" -(L. Chácin et ai., 2005), pois, por se tratar de um modelo 
+flexural da placa, contêm informações sobre a evolução tectônica e o 
+comportamento relacionado a dinâmica geoestrutural do local. A inda em (S. 
+Barrios et ai., 2007), encontramos uma descrição da cada uma das fases da 
+evolução tectônica da bacia. 
+Entre as principais contribuições para descrição estratigráfica da bacia 
+podemos citar (S. Barrios et ai., 2007), onde obtivemos a descrição não só da 
+evolução estratigráfica da bacia como de cada uma de suas seqüências e sua 
+carta estratigráfica; (M. Hurtado et ai., 2006), onde obtivemos a descrição de 
+cada uma das formações da bacia; e o site da PDVSA , onde encontramos 
+informações complementares à estratigrafia. 
+Entre as principais contribuições para a descrição de geologia do 
+petróleo podemos citar (López, L., 1998), onde encontramos todas as 
+6 
+informações sobre poços existentes na bacia e o sistema petrolífero em si, com 
+informações sobre rocha geradora, reservatório e trapa. 
+Seguindo essa linha, podemos citar ainda (J.G. Luiz, 1995) e (Telford, 
+1990) como principais referências para a realização do estudo teórico sobre o 
+Método Geofísico aplicado, bem como notas de aulas e apostilas de cursos. 
+No trabalho de lng. Jose G. Fernandes De Sousa (2002), encontramos 
+uma caracterização do embasamento ígneo-metamórfico utilizando métodos 
+potenciais, no caso gravimetria e magnetometria, contribuindo de forma 
+essencial para aplicação do método na bacia de Barinas-Apure, já que foi o 
+único que encontramos sobre a aplicação de magnetometria nessa bacia. 
+As outras referências citadas no texto, serviram como base para 
+complementar os temas discorridos neste trabalho. 
+7 
+4. CONTEXTO GEOLÓGICO DA BACIA 
+A bacia sedimentar de Barinas-Apure é a terceira maior produtora de óleo 
+da Venezuela. Sua área é de cerca de 95000 km 2 (Martinez, 1976 apud Chacín 
+et ai., 2005) e sua profundidade máxima é de aproximadamente 5000 m 
+(González de Juana et ai., 1980 apud Chacín et ai., 2005). Está localizada na 
+porção Oeste da Venezuela, a sudeste da cordilheira andina de Méridas 
+(figuras 1 e 2). 
+A cordilheira de Méridas, alinhada no sentido NW-SE , é constituída por 
+um bloco soerguido com extensão de 420 km , alcançando cota máxima de 
+5000 m, formado por conseqüência da convergência do Arco do Panamá com 
+o oeste da América do Sul (Mioceno Superior). O soerguimento dos Andes de 
+Méridas é apontado como causa da subsidência da bacia de Barinas-Apure 
+(Chacín et ai., 2005). 
+A produção de hidrocarbonetos origina-se de reservatórios de depósitos 
+siliciclásticos do Terciário e carbonatos do Cretáceo (A. Contreras e C . Torres). 
+A bacia Barinas-Apure está localizada a oeste da Venezuela e é definida 
+como uma depressão estrutural do embasamento ígneo-metamórfico pré­
+cretácico, com uma área aproximada de 95.000 km 2, onde se depositaram 
+sedimentos do Cretáceo e do Terciário, formando uma coluna sedimentar de 
+aproximadamente 5.000 m de espessura em sua parte central (Almarza, 1995 
+apud lntevep, 1994). Limita-se a noroeste pela Cadeia dos Andes 
+Venezuelanos, ao norte pela prolongação ocidental da Serra Interior Central, a 
+leste e nordeste pelo Arco de EI Baúl e a sul por um alto gravimétrico situado 
+8 
+entre os rios Apure e Arauca, que a separa dos Campos Colombianos (Barrios 
+et ai., 2007 , e Hurtado et ai., 2006) (figura 2). 
+·~ 
+i1 
+8 
+11--~..-,--..--~..--~....-_.....,...__....+-~.i.r-~-.-~.....-~...,...~-.-~-.--tl B 
+-74 /~n .72 
+//LO'> ., 
+-17 -76 -75 -71 -70 -67 
+./ 
+-__,,,-" 
+/ 
+~ 15. 
+"' A <:__r-
+i 
+( U ..... T .... 
+y ........ 
+IJtMEZUÊ1.A. 
+iS 
+n -12 ~ 72 rn r1 ro ~ m ~ & m ?3 b ee m • r,1 VH 
+U'.lN\'1 
+J:t! -·P~ r.rtt:""1'1r.r a:i:;nr ..... c:J IW'O~·-n.:"•M 
+.....__. IW..l. "I c::::::J ~C.LOo'óER tJ>XEM: SE:•ief!S 
+--l'Qlm:'..Ql. llM!'itOtJ - !;.\l;fmm 
+Figura 1 -A - Tectônica regional presente no NW da América do Sul. 
+São mostradas a localização da Cordilheira Andina de Mérida, bacia 
+Barinas-Apure e seção P1-P2. B - Mapa geológico simplificado de 
+estudo de área (após Case et ai., 1990), descrevendo uma semelhança 
+regional entre a superfície geológica e unidades aflorantes na Sessão 
+P1-P2. ( Chacín et ai., 2005) 
+Nl 
+Ca ribbean Sea Marg~rtt.a · B as1n f 
+Figura 2 - Províncias sedimentares das bacias petrolíferas da 
+Venezuela (Pérez de Mejía, et ai., 1980). E. B. L. = E/ Baú/ 
+Lineament (Arco de E/ Baú/), e limites orientais da bacia Barinas­
+Apure (Well Evaluation Conference, 1997). 
+9 
+A bacia em seu estado atual é pronunciadamente assimétrica, com um 
+flanco meridional suavemente inclinado a noroeste e um flanco setentrional 
+marcado por afloramentos de rochas pré-cretácicas muito deformadas 
+(Gonzáles de Juana et ai., 1980 apud Barrios et ai., 2007). 
+A estrutura interna da bacia permite uma diferenciação em três setores 
+claramente definidos, denominados Monoclinal Nororiental, Sub-Bacia de 
+Capitanejo e Arco de Mérida. Este último constitui uma zona alta na bacia, 
+com uma importância econômica muito particular, já que todas as acumulações 
+petrolíferas encontram-se nesta área (Barrios et ai., 2007). 
+A bacia Barinas-Apure inclui, na realidade, duas sub-bacias menores, 
+que Feo Codecido (1972), (apud Barrios et ai., 2007), designou como sub-bacia 
+de Barinas, que ocupa as maiores extensões nos estados de Barina e Apure; e 
+a sub-bacia Uribante, situada na parte ocidental do Estado de Apure. Essas 
+bacias são separadas por um alto regional de magnitude relevante, o Arco de 
+Santa Bárbara, que na bacia constitui uma extensão do M aciço de Colorado 
+(Gon záles de Juana et ai., 1980 apudB arrios et ai., 2007). 
+10 
+A configuração atual da bacia deve-se à evolução do Sistema Andino, 
+cujo levantamento principal iniciou ao final do Mioceno e que constitui hoje a 
+separação da bacia de Maracaibo. Uma atividade tectônica entre o Neo­
+Cretáceo e o Eoceno médio afetou a bacia, originando falhas e altos estruturais 
+limitados por falhas. Esta tectôni·ca compressional começou a intensificar-se 
+durante o Mioceno médio - Plioceno, como resultado do levantamento andino, 
+o qual continuou durante o Plioceno Superior - Pleistoceno. As estruturas de 
+hidrocarbonetos nesta área estão controladas tanto pelas estruturas 
+extensionais, quanto pelas estruturas compressivas do Neo-Cretáceo - Eoceno 
+Médio e Mio - Plio/Pleistoceno (Hurtado et ai., 2006). 
+4.1. Estratigrafia 
+4.1.1. Evolução Estratigráfica da bacia de Barinas-Apure 
+As unidades basais que existem na bacia de Barinas-Apure 
+correspondem a um embasamento pré-cretácico ígneo-metamórfico, que pode 
+ser correlacionado com rochas aflorantes nos Andes e nos maciços de EI Baúl 
+e Guayanés. Os depósitos sedimentares desta bacia compreendem unidades 
+cujas idades vão desde o Cretáceo até o Recente, observando-se a ausência 
+do Paleoceno, Eoceno e parte do Eoceno médio (figura 3). 
+A partir do período Jurássico depositaram-se, em quase todo o ocidente 
+da Venezuela, sedimentos vermelhos encontrados na Formação La Quinta. 
+Porém, como o alto de Mérida manteve-se emerso durante esse período, não 
+foi possível que estes sedimentos se depositassem n a bacia e nem n as 
+11 
+Formações Rio Negro e Apón . Somente durante o final do Albiano, quando os 
+mares transbordaram o Alto de Mérida, houve deposição de sedimentos do 
+Cretáceo, que em ordem ascendente estão representados pelas formações 
+Aguardente, Escandalosa, Navay e Burgüita (Fuenmayor, 1991; Ramirez, 
+2004). 
+Em torno do início do Neocretáceo (Cenomaniano), a área ficou sujeita à 
+sedimentação marinha rasa, representada pelas areias basais e carbonatos de 
+ambientes rasos da Formação Escandalosa, e folhelhos dos membros La 
+Morita e Quevedo da Formação Navay, as quais estão sob a Formação 
+Burgüita. 
+A Formação Aguardente (Albiano - Cenomaniano) compõe-se de arenitos 
+marinhos costeiros, com uma maior influência de elásticos originados no 
+Escudo de Guyana ao sul. Entretanto, a Formação Escandalosa, do 
+Cenomaniano-Turoniano, compõe-se de arenitos maciços, glauconíticos, 
+quartzosos, com quantidades menores de folhelhos. A Formação Escandalosa 
+é subdividida em várias unidades informais, denominadas unidades "O '', "P", 
+"R" e "S, além disso, também são reconhecidas três unidades adicionais "J", 
+"K" e "L". As espessuras variam de 150 a 427m através de todas as seções 
+conhecidas da Formação Escandalosa, e seus arenitos (Membro P) são 
+considerados entre os de maior importância petrolíferas na bacia Barinas­
+Apure (Léxico Estratigráfico da Venezuela, 1997). 
+O Membro "O " é um horizonte tido como marco estratigráfico regional da 
+bacia, estendendo-se desde o oeste até o Lineamento Uribante, onde é 
+conhecido como Membro Guayacán da Formação Capacho, e a leste da sub-
+12 
+bacia de Guárico, onde é conhecido como o Membro Infante da Formação 
+Tigre. (Zilberberg y Asociados, 1993, apud Barrios et ai., 2007). 
+Durante o Campaniano - Maastrichtiano seguiu-se o período de máxima 
+transgressão (Formação Navay). A regressão subseqüente não se produziu de 
+modo imediato; porém, durante o Campan iano, depositaram-se camadas 
+glauconíticas e fosfáticas, indicativas de um período de sedimentação reduzida. 
+Passado este intervalo de tempo, depositaram-se folhelhos marinhos da 
+Formação Colón sobre a maior parte da Venezuela Ocidental. Somente na 
+região meridional (Bacia de Barinas), pode se diferenciar uma província 
+sedimentar com maior influxo de areias derivadas do Cratón de Guyana , a qual 
+corresponde a Formação Burguita, na subprovíncia de Uribante. 
+Entre o Cretáceo e os sedimentos suprajacentes do Eoceno existe um 
+hiato, o qual representa um levantamento e erosão, ou não sedimentação, das 
+rochas do Paleoceno ao Eoceno inferior. Diretamente sobre essa discordância 
+encontra-se a Formação Gobernador, que consiste de arenitos quartizosos 
+com estratificação cruzada, conglomerados e folhelhos carbonosos, em 
+camadas de espessura variável. Esta Formação pertence ao Eoceno Médio e é 
+considerada uma seqüência transgressiva que vai desde paleo ambientes 
+flúvio-deltáicos em sua base, a paleo ambientes marinhos costeiros no topo. 
+Sobre a Formação Gobernador encontra-se a Formação Masparrito, a qual em 
+algumas localidades é constituída 80% por calcáreos biogênicos, indicativos de 
+um antigo ambiente de sedimentação em uma plataforma costeira superficial 
+(Léxico Estratigráfico da Venezuela, 1970; em González de Juana et ai., 1980, 
+apud Ba rrios et ai., 2007). 
+13 
+Uma sucessão de folhelhos e arenitos bem cimentados, conhecidos como 
+Formação Paguey, quando não estão depositados sobre o calcáreo da 
+Formação Masparrito (quando presente), estão em contato com a Formação 
+Gobernador. 
+O paleo ambiente de sedimentação da Formação Paguey pode ser 
+considerado misto, com antigos depósitos continentais e marinhos presentes. A 
+idade destas camadas é atribuída ao Eoceno Superior, enquanto que o topo da 
+formação está limitado por uma discordância do Eoceno Mioceno, com as 
+camadas do Eoceno Superior e as do Oligoceno erosionadas ou não 
+depositadas (léxico Estratigráfico de Venezuela, 1970; González de Juana et 
+ai., 1980, apud Barrios et ai., 2007). 
+Os depósitos continentais da Formação Parángula, a qual é considerada 
+de idade Eoceno-Oligoceno/Mioceno (MINPRO , 1997, apud Barrios et ai., 
+2007), encontram-se sobre a discordância do Oligoceno-Mioceno médio. 
+A Formação Rio Yuca ocorre sobre a Formação Parángula e, na maioria 
+das localidades, o contato é considerado como uma discordância angular. 
+Ambas as formações são de origem continental e Pernaud et ai., (Márquez & 
+Martinez, 2005, apud Barrios et ai., 2007), os considera como antigos depósitos 
+molássicos. Os depósitos continentais da Formação Guanapa do Pleistoceno 
+estão presentes como o topo da seqüência sedimentar, onde os sedimentos do 
+recente não os cobriram (figuras 3 e 4). 
+14 
+4. 1 .2. Descrição Litológica das Principais Formações da Bacia de 
+Barinas-Apure 
+Formação Escandalosa: É composta por arenitos maciços, quartzíticos e 
+com glauconita, e quantidades menores de folhelhos negros com carbonato. 
+Formação Aguardente: É formada basicamente por arenitos calcáreos 
+duros, de granulometria variável e estratificação cruzada, com ocorrência local 
+de glauconitas e intercalações de folhelhos micáceos e carbonáticos. 
+Formação Navay: É composta por folhelhos silicosos, de friáveis a não 
+friáveis, moles, duros, quebradiços; folhelhos tripolíticos m uito porosos, 
+algumas ftanitas não porosas, lenticulares e folhelhos calcáreos. Como 
+constituintes menores da formação, se apresentam arenitos lenticulares de 
+granulometria angular, calcáreos a silícios. 
+Formação Guafita: É composta por uma alternância de arenitos: 
+grauvacas quartzíticas e arcosianas, folhelhos, argilitos, siltitos e algumas 
+camadas delgadas de lignito. 
+Formação Parángula: Na superfície desta formação predominam os 
+conglomerados lenticulares de granulometria grossa; arenitos de granulometria 
+em camadas mássicas ou com estratificação cruzada, localmente 
+glauconíticos; limonitas e lodolitas. Em subsolo, a litologia é similar, porém com 
+a ausência de conglomerados. 
+Formação Rio Yuca: É composta principalmente por conglomerados de 
+granulometria grossa (25%), em camadas maciças; arenitos de granulometria 
+média a grossa, maciços, com estratificação cruzada, localmente caoliníticos, 
+moles a duros, micáceos, argilosos. 
+15 
+Formação Carbonera: É composta, principalmente, de argilitos e 
+folhelhos, irregularmente estratificados, com arenitos argilosos de 5 a 1 O 
+metros de espessura. A formação contém camadas de lignito e algumas 
+unidades com Hannatoma (González de Juana, et ai., 1980). 
+Formação Burguita: Esta formação é composta por arenitos micáceos, 
+siltiticos, parcialmente glauconíticos e frequentemente calcáreos, friáveis, de 
+granulometria fina e interlaminações de folhelhos e argilitos. 
+CUENCA 
+L LANOS A RC O D E A 'RAUCA C.Bl\RIN AS A ,MERl DA A.EL0 A lll 
+I T C~Cll\R IO) - {TERWWOJ ICRET A CEOI 
+CA MPO 
+LA \llC TOR lh 
+CAMPO S S U H·C UEN CA 
+G UA f lTA 
+C ; LI MON C llP ITJINEJO 
+(;AM PO S AREA 
+DE 
+l!.ARlftlAS GUANARI T O 
+GE RALD D. KISE R (1989) 
+Figura 3: Quadro de correlação bioestratigráfica da Bac ia de Barinas-Apure. 
+EDAD 
+PERIOO O/EPO CA 
+fiORlllAC ION 
+1dU EtilBRO ! REGISIRO TIPO 
+e 
+e 
+DESCRIPCIÓN 
+LITO L Ó C IC J\ 
+Grirtai;. .eraias. lt llO'.> y .;rcflhs 
+C ing" oner<Wlas • .ir.eni !l<~dSc y 
+hrtnas 
+16 
+fü Areniscas f<>-fãt1ca 
+e "' c.01ltini.~11t1 
+NM'. -Nmti:o~W:io 
+N 
+-r .. 1nníiDWJ 
+Nr - NcríiiA ExiaD> 
+Figura 4: C oluna estrat;gráfíca da bacia de Barinas. 
+calizas y 1 uti tas 
+con 
+capa.s .de 1tan1tas 
+Lutih:s d.e ce>l·or 
+giri:!I o :5cu ro . 
+Aren i ~ces . l utites 
+y t-iu-bonzito::s. 
+J.r1N11i ~M, lut 1 !O!., <dcn "" 
+de 1m erctlSC1 ooe:s. de 
+.N! .. ~m• ~ 
+DS - Düi.l orlar 
+17 
+4.1.3. Estratigrafia de Seqüência na Área da Bacia de Barinas-Apure. 
+Em um estudo sobre a "Análise Geológica 1 ntegrada das Bacias de 
+Barinas e Maracaibo" realizado por INTEVEP (1984 apud Barrios et ai., 2007), 
+foram definidas cinco seqüências estratigráficas com base nas seções 
+litoestratigráficas e sísmicas realizadas na área estudada: 
+Seqüência A: 
+Compõe-se pela Formação Aguardente (membro "T") e pelo folhelho "S" 
+da Formação Escandalosa, e sua sedimentação ocorre em uma plataforma 
+marinha de margem passiva. A base desta seqüência define a primeira 
+ocorrência de rochas sedimentares sobre o embasamento. O intervalo acima 
+do embasamento , composto de arenitos e carbonatos, marca uma 
+transgressão durante o final do Albiano. 
+As areias e carbonatos, da seqüência "A ", são interpretadas como um 
+trato de sistemas transgressivo. Os carbonatos depositados sobre as areias da 
+base representam depósitos de plataforma que foram acumulando-se a medida 
+em que a subida do nível do mar deslocou a fonte de elásticos terrígenos para 
+o sul, e reduziu o fluxo dos mesmos para a plataforma. Com o aumento do 
+nível do mar, a plataforma carbonática da Formação Aguardente ficou 
+submersa em sua totalidade. Quando o mar alcançou seu nível máximo , a taxa 
+de sedimentação da plataforma marinha reduziu-se a seu nível mínimo, 
+resultando na deposição de uma seção condensada de folhe lhos fosf áticos e 
+glauconíticos de cores escuras. Desta maneira depositou-se o membro "S" da 
+18 
+Formação Escandalosa. O folhelho "S" é uma unidade lateralmente contínua 
+que mantém uma espessura constante na área tradicional de Barinas e sendo 
+interpretado como a superfície condensada que define a superfície de máxima 
+inundação no topo do Trato de Sistemas Transgressivos da Formação 
+Aguardente. Os dados bioestratigráficos conferem ao folhelho "S" uma idade do 
+início do Cenomaniano. 
+Imediatamente, por cima do folhelho "S", em contato abrupto, encontra-se 
+a série dos arenitos "R", passando de uma granulometria muito fina no folhelho 
+"S", a uma mais grossa na parte basal das areias "R". Esta mudança se 
+interpreta como produto de uma migração abrupta de fácies perto do 
+continente, marcando um limite de seqüência na base destas areias. Este limite 
+de seqüência representa o topo da seqüência "A". 
+Seqüência B: 
+Os arenitos "R'', na base da seqüência "B'', são de granulometria fina 
+sobre o limite inferior da seqüência, passando a uma granulometria mais fina 
+acima. Devido a este caráter granodecrescente, os arenitos "R" interpretam-se 
+como grupos de parasequências retrogradacionais depositadas no topo do 
+limite da seqüência durante um a transgressão marinha. As mesmas estão 
+representadas, de baixo para cima, pelos arenitos "R3", "R2" e "R1" da série 
+das areias "R", separadas entre si por camadas de folhelhos. O arenito "R3" é 
+lateralmente contínuo na área tradicional de Barinas, contudo, sem se 
+encontrar saturado de água em quase toda esta zona. 
+A tendência de decrescimento da granulometria e adelgamento na série 
+das areias "R" inverte-se a partir de R1 , convertendo-se a seção mais espessa 
+19 
+e de granulometria mais grossa para cima, sendo este o critério para separar 
+as areias "R" das "P", sobrejacentes. Interpreta-se esta mudança para arenitos 
+mais grossos e em camadas espessas, como uma mudança de uma 
+sedimentação transgressiva durante a deposição das areias "R" para uma 
+sedimentação de nível alto durante a deposição das areias "P". 
+A camada de folhelho relativamente espessa que separa as 
+parasequêncías dos arenitos "R" dos "P", se interpreta como a Superfície de 
+Máxima Inundação que marca a máxima transgressão da linha de costa para o 
+sul, sobre o Escudo de Guyana. Ao finalizar este evento, a linha de costa 
+começou a progradar para o norte. A progradação de clastos marinhos 
+marginais sobre a plataforma resultou em "downlap" de f ácies arenosas sobre a 
+Superfície de Máxima Inundação que cobre os arenitos "R". 
+Seqüência C: 
+O limite inferior desta seqüência corresponde a uma discordância do tipo 
+2 (superfície onde não há nem deposição e nem erosão), que se produziu ao 
+cair o nível eustático no final do Cenomaniano, logo que se depositou o topo 
+dos arenitos "P", aos quais se atribuem a uma sedimentação de Mar Alto. 
+Posteriormente, o nível do mar começou a subir de novo, produzindo uma 
+transgressão e a deposição de sedimentos marinhos em "onlap" sobre o limite 
+de seqüência. Os primeiros sedimentos sobre este limite de seqüências são 
+areias e folhelhos. À medida que o nível do mar subiu, a costa elástica foi 
+deslocada para o sul, e o influxo de sedimentos elásticos, em direção a 
+plataforma, foi enormemente reduzido. O resultado foi uma mudança para uma 
+sedimentação carbonática marinha na plataforma, correspondente a unidade 
+20 
+"O". A unidade "O" é formada por várias litologias que incluem areias, folhelhos, 
+calcáreos, dolomita e traços de anidritas. Os sedimentos transgressivos da 
+unidade "O" depositaram-se em uma série de parasequências carbonáticas 
+separadas por camadas de folhelhos arenosos, glauconíticos e fosfáticos. As 
+camadas de folhelho se interpretam como produto de pulsos de quarta ordem 
+no nível relativo do mar, o que levou a uma acumulação relativa de sedimentos 
+siliciclásticos e à não deposição de carbonatos. Após essas pulsações, a 
+produção de carbonatos se inicia de novo na plataforma e, desta maneira, 
+outra camada de carbonatos depositou-se. O seguinte pulso elevou 
+rapidamente o nível do mar, formando uma superfície basal transgressiva 
+menor, no topo das capas carbonáticas, depositando folhelhos arenosos e 
+glaucon íticos. Este processo repetiu-se ritmicamente em toda a área da Bacia 
+Barinas, depositando uma série alternada bem definida de capas carbonáticas 
+e lutíticas dentro da unidade "O". 
+Uma rápida subida do nível do mar ao final do Cenomaniano e início do 
+Turoniano Inferior, inundou a plataforma e interrompeu a produção de 
+carbonatos de maneira permanente. Criou-se, assim, uma superfície de não 
+deposição, forçando as fontes elásticas para o sul. Estabeleceram-se 
+condições de sedimentação muito escassas no topo da plataforma carbonática, 
+desenvolvendo-se uma sessão condensada, formada pelos folhelhos 
+fosfáticos, ricos em matéria orgânica, do Membro La Morita da Formação 
+Navay. A base do membro La Morita se interpreta como uma superfície de 
+Máxima Inundação, correlacionável com a superfície de 91,5 Ma . Os dados 
+bioestratigráficos indicam, na base de La Morita, uma idade Turoniano Inferior, 
+consistente com a deste evento de máxima inundação. O topo da seqüência 
+21 
+"C" corresponde à discordância erosional que está no topo do Membro 
+Quevedo da Formação Navay e sobre a qual se depositou a Formação 
+Burguita. 
+Seqüência D: 
+Esta seqüência é composta pela Formação Burguita. O limite superior da 
+seqüência é uma discordância de origem tectônica. A idade deste evento 
+localiza-se entre o Maastrichtiano e o Eoceno Médio, e sua origem poderia 
+estar relacionada a um evento contemporâneo, ocorrido ao sul da Colômbia, 
+produto da colisão ocorrida entre as placas da América do Sul e Nazca no 
+Maastrichtiano, ao lado das costas colombianas. 
+Seqüência E: 
+Esta seqüência, que se deposita sobre a discordância que limita as 
+seqüências D e E, começa com a Formação Gobernador de idade Eoceno 
+médio, continua com a sedimentação da Formação Masparrito, e por último 
+com a Formação Paguey, a qual constitui a seção condensada desta 
+seqüência de tipo transgressiva. O evento que ocasionou a transgressão de 
+Gobernador sobre a superfície erosional do Eoceno Médio, interpreta-se como 
+a primeira etapa da subsidência da bacia antepaís. 
+Seqüência F: 
+Está composta pela parte superior da Formação Paguey e toda a 
+Formação Parángula, que está constituída por sedimentos molássicos 1 que se 
+depositaram em uma bacia antepaís. 
+22 
+4.2. Geologia Estrutural 
+A Bacia de Barinas-Apure constitui-se por uma depressão de forma 
+alargada e assimétrica, que se estende desde a antefossa andina, ao norte, até 
+as planícies situadas entre os rios Apure e Arauca a sudeste, com orientação 
+aproximada de N40ºE, paralela à cordilheira andina venezuelana. A dobra na 
+borda sul da bacia é suave com mergulhos não maiores que 5º (Chacín et ai., 
+2005), como pode ser visto na Figura 5. 
+10 Ut1 
+r.'ÉRlGA A.NDEE 
+..7::lt~ f 
+'-
+............ m::==========:::J k~ D 100 ~D 
+9" UPP ER ~IOOENE-PFIES!:HT SEDIMENTS 
+<=::) JUAA3lC ·L(:{\'IER. M IOCt.NE SEDl ~tfNTS 
+<::::) COMTlr~TAL CF!UST 
+Figura 5: Perfil esquemático NW-SE da região da Bacia de Barinas-Apure, 
+destacando a Cordilheira Andina de Méridas. 
+Em seu estado atual, a bacia é assimétrica, com um flanco meridional 
+suavemente inclinado a noroeste e um flanco setentrional marcado por 
+afloramentos de rochas pré cretácicas muito deformadas (Gonzáles de Juana, 
+et ai., 1980). 
+A configuração atual da bacia deve-se principalmente à evolução do 
+Sistema Andino, cujo soerguimento principal começou por volta do final do 
+Mioceno e constitui hoje a separação da bacia de Maracaibo. Sua estrutura é 
+resultado de forças tectônicas que atuaram durante o Mio-Plioceno, sobre 
+falhas estruturais m ais antigas (Cretáceo Sup erior), contempor âneas à 
+23 
+orogênese Laramidiana. As fraturas mais antigas têm papel muito importante e 
+decisivo na geologia do petróleo da bacia. 
+As acumulações de hidrocarbonetos na área são controladas tanto por 
+estruturas extensionais como por compresivas do Cretáceo Superior - Eoceno 
+Médio e Mio-Plio-Pelistoceno. Segundo Figueroa et ai. (1994), a seqüência 
+cretácica encontra-se presente em toda a área, diminuindo sua espessura a sul 
+e nordeste. A seqüência Eoceno Médio e Eoceno Médio a Superior alcança 
+máxima espessura ao norte e afina por erosão no sul e sudeste, a seqüência 
+Oligo-Mioceno inferior se acunha a nordeste e a seqüência Mioceno Médio 
+Peistoceno apresenta erosão ao norte. 
+Também se reconhecem diferentes fases tectônicas que definem as 
+principais falhas estruturais, sendo as mais comuns falhas normais e inversas 
+com dobras associadas, a maioria de baixo ângulo. As fases tectônicas são as 
+seguintes: 
+Quadro 1 - Fases tectônicas que definem as principais falhas estruturais 
+relacionadas à bacia de Barinas-Apure. 
+associada à etapa de margem passiva que 
+Fase Distensiva Jurásico -Neo - afetou o norte da Venezuela neste período, o 
+Cretácico estilo estrutural é predominantemente normal 
+com uma orientação NO-SE . 
+relacionada à orogênese dos Andes Centrais 
+Fase Neo -Cretácico - Colombianos, origina falhas inversas de 
+Compressiva Paleoceno -Eoceno orientação NO -SE , assim mesmo ocorre a 
+Inferior reativação de muitas falhas normais geradas na 
+fase anterior. 
+Eoceno Inferior a afetou as unidades cretácias e a parte inferior 
+Fase Distensiva Medi o do Eoceno Medio, o falhamento é normal com 
+direção NE-SO. 
+associado provavelmente à chegada dos 
+Fase Eoceno Medio nappes ao norte da Venezue la, origina 
+Compressiva predominantemente falhas inversas de 
+orientação NO-SE. 
+Eoceno Médio a o falhamento originado durante esta fase, tem 
+Fase Distensiva Superior orientação preferencial NE-SO e afeta as 
+seqüências cretácicas e Eocenas. 
+24 
+associada provavelmente ao último empurrão 
+Fase dos nappes e ao inicio do levantamento dos 
+Compressiva Eoceno Superior Andes Orientais Colombianos. Origina 
+falhamento inverso com orientação preferencial 
+E-0, NE -SO. 
+associada ao soerguimento dos Andes e 
+vigente até hoje em dia, gera falhas inversas de Fase Mioceno medio a direção NE-SO, que cortam toda a seção Compressiva Recente estratigráfica. Durante essa fase orogênica se 
+reativaram e inverteram estruturas preexistentes 
+e a bacia adquiriu a confiauracão atual. 
+Do ponto de vista tectônico, o regime extensional que se desenvolveu no 
+Neo-Cretaceo e Eoceno médio a final repercutiu na formação e evolução de 
+falhas normais em toda a bacia. Eventos compressivos manifestados na 
+formação de dobras, falhas inversas e, em conseqüência, de altos estruturais, 
+mostram maior intensificação nas deformações presentes ao longo da 
+seqüência cretácica. 
+Em geral, pode-se observar na área sistemas de falhas em duas direções 
+principais Sudeste e no sentido Nordeste que marcam o desenvolvimento das 
+principais falhas em subsolo. Nesse sistema, a maioria das falhas orientadas 
+no sentido Nordeste forma um padrão de falhas normais que revelam o caráter 
+distensivo na área, manifestado provavelmente durante o Eoceno médio a final, 
+e o comportamento das falhas orientadas no sentido Sudeste refletem um 
+período compressional associado a orogênese andina que da origem a 
+formação de estruturas dobradas e sistemas de falhas inversas observadas ao 
+longo da seqüência Figueroa L., (1994), apud Márquez y Martínez, (2005)). 
+Ram irez A., (2004), determinou que as falhas estruturais mais 
+ressaltantes nos campos Hato Viejo y Sinco são: O alto onde se encontra o 
+poço S IN -77, o qual pode ser descrito como um anticlinal assimétrico, e se 
+encontra delimitado a leste pela falha inversa do SIN-27 e a oeste pela falha do 
+SIN-4. Em um a seção realizada ao longo do campo de Sinco, com direção 
+25 
+preferencial SE/NW, observa-se a presença de um conjunto de falhas 
+principais, em sua maioria normais, seu salto vertical tem papel importante na 
+delimitação dos diferentes depósitos. A falha de SIN-1 constitui um sistema de 
+falhas paralelas cuja componente transcorrente torna difícil a definição de sua 
+componente vertical. Esta falha passa de normal a inversa ao longo de seu 
+traço. A falha de SIN-61 é uma falha inversa que mergulha para norte que 
+finaliza até o sul mudando seu sentido normal. 
+Ao sul do campo de Sinco encontra-se um gráben ou fossa tectônica de 
+pouca extensão, o qual possivelmente foi originado durante uma das fases 
+distensivas do Eoceno, que está representado por um falhamento normal com 
+direção preferencial NE-SO, afetando as seqüências cretácicas e terciárias 
+(Figueroa et ai., (1994) apude Ramirez (2004)). Sua formação poderia estar 
+ligada a uma compensação dos esforços que originaram o alto do SIN-77. Na 
+área onde se situa o poço SIN-59 encontra-se umas das estruturas mais 
+importantes desses campos, conhecida como o alto de SIN-59. 
+4.3. Geologia Histórica 
+A bacia sedimentar Barinas-Apure fica a oeste da Venezuela e a sudeste 
+da Cordilheira Andina de Mérida (CAM), cadeia esta que se formou da 
+convergência do Arco do Panamá com o oeste da América do Sul no final do 
+Mioceno, o soerguimento de CAM constitui a mais provável causa da 
+subsidência da bacia. É um exemplo clássico de uma complexa bacia formada 
+num ambiente de atividade tectônica intensa e diversificada. Ainda não há 
+estudos quantitativos estabelecendo a relação entre a rigidez flexural da placa 
+26 
+Sul Americana durante a existência da bacia e a morfologia da cadeia de 
+montanhas. 
+NO 
+Las Virtudes 
+Boscan 
+Falia de B oconó 
+Falia de Valera © @ 
+o 
+Figura 6: Sistema de falhas da cordilheira. 
+4.3.1. Modelo Tectônico 
+SE 
+50 km 
+Atualmente, o mosaico tectônico do noroeste da América do Sul é 
+composto por três placas litosféricas principais: as placas do Pacífico (Nazca) e 
+Caribenha e a da América do Sul margeada nessa região pelo Arco Continental 
+da Guiana incluindo o Bloco Andeano do Norte, como mostra a figura abaixo. 
+Nzc 
+6 0 "' 
+Nam 
+) 
+SOUTH AMERIC,AN 
+PLATE j 
+~· 20° 
+Figura 7: Tectônica da América do Sul, NAB =Bloco Andino do Norte, 
+Car = Placa Caribenha, Nzc = Placa do Pacífico, Nam = Placa Norte 
+Americana, Afr = Placa Africana, Gs = Arco da Guiana, Ec, Gol, Ve = 
+limites geográficos do Equador, Co lômbia e Venezuela respectivamente. 
+27 
+A evolução tectônica da bacia Barinas-Apure pode ser reduzida a três 
+estágios principais. O primeiro estágio foi a fase extensional da bacia, ocorrida 
+no Jurássico devido ao rifteamento da Pangea . Foram então gerados meio 
+grábens orientados a sudeste, os quais se tornaram horsts na fase 
+compressional durante o soerguimento da Cordilheira Andina de Méridas (e.g 
+Audemard, 1991; Audemard and Audemard, 2002). 
+O segundo estágio durou até o início do Mioceno, correspondeu a uma 
+fase de pré-deformação andina, dominada por sedimentação pós-rifte e séries 
+de ciclos eustáticos afetados por alguns eventos tectônicos. No início do 
+Cenomaniano, o soerguimento da Cordilheira Central da Colômbia e o começo 
+da subducção (subducção continental-continental) no flanco oeste, criaram a 
+bacia original de antepaís no oeste da Vene zuela (WVFB) , compreendendo 
+28 
+hoje as bacias de Maracaibo e Barinas Apure (Audemard, 1991 ). No final do 
+Pa leoceno, Lara Nappes começou a cavalgar sobre o norte da bacia de 
+Maracaibo (e.g. Audemard, 1991; Parnaud et ai., 1995), definindo o começo de 
+uma margem tectônica ativa na área. Durante o final do Eoceno e o início do 
+O ligoceno, a subsidência da WVFB foi afetada por uma reorganização de 
+placas e uma maior compressão lateral oblíqua na borda da placa Caribenha­
+Sul Americana (e.g. Audemard, 1991; Parnaud et ai., 1995), juntamente com o 
+soerguimento local e a mudança no regime de variação do nível do mar (Young 
+et ai., 1956). 
+O último estágio é representado pela deformação e soerguimento 
+andino relacionado com a convergência oblíqua do arco do Panamá com o 
+noroeste da América do Su l, que começou no final do Mioceno e dura até hoje 
+(e.g. Mann and Burke, 1984; Eva et ai., 1989; Mann et ai., 1990; Audemard and 
+Audemard, 2002). Depois de um pulso orogênico no início do Mioceno, a 
+compressão causou um breve soerguimento na CAM no Plioceno-Quaternário 
+(e.g Mann et ai., 1990; Audemard and Audemard, 2002) resultando na divisão 
+da WVFB em duas bacias: Maracaibo, a noroeste, e Barinas-Apure a sudoeste 
+(e.g. Mann et ai., 1990; Audemard, 1991; Audemard and Audemard, 2002). 
+A neotectônica presente no oeste da Venezuela é complexa devido ao 
+grande número de interações entre blocos adjacentes e crosta, além do fato de 
+a localização exata da borda da placa Caribenha-Sul Americana ser 
+controversa devido a essa complexidade tectônica. Por hora, existem dois 
+modelos vertentes para sua localização. De acordo com Audemard e 
+Audemard (2002), a borda tem 600 Km e está localizada entre a falha NE-SW 
+de Boconó e a falha E-W de Oca-Ancón e é composta de um número de blocos 
+29 
+independentes da placa contígua. Já a interpretação de Van der Hilst e Mann 
+(1994), baseada em tomografia sísmica, prevê que a borda está localizada no 
+Cinturão de Deformação Sul Caribenho (SCDB). 
+Estudos recentes com o uso de GPS indicam que um drift na direção 
+leste da Placa Caribenha que se afasta da P laca Su l Americana a uma taxa de 
+2,05 ± 0,2 cm /ano (Pérez et ai., 2001 ). Apesar de muitos autores concordarem 
+que a principal borda entre as duas placas é uma falha right-lateral strke-slip 
+(RLSS) (e.g. Bell, 1972; Pindell and Dewey, 1982; Sykes et ai., 1982; 
+Freymueller et ai., 1993; Kellog and Veja, 1995), o movimento relativo das 
+placas se torna mais complexo próximo ao oeste da Venezuela, devido a 
+processos de subducção (Van der Hilst and Mann , 1994 ; Malavé and Suárez, 
+1995; Pérez et ai., 1997; Taboada et ai., 2000; Audemard and Audemard, 
+2002). De fato, estudos sismológicos descrevem um soerguimento de strike NE 
+de uma porção da litosfera caribenha, sofrendo subducção ao norte da 
+Co lômbia e NW da Venezuela, a uma profundidade de aproximadamente 150 
+Km (Malavé and Suárez, 1995; Pérez et ai., 1997). Adicionalmente outra 
+elevação de strike E-W está sofrendo subducção abaixo dos blocos de 
+Maracaibo e Bonaire na região do SCDB (e.g Taboada et ai., 2000; Audemard 
+and Audemard, 2002).) 
+Neste modelo tectônico regional, o acomodamento de CAM devido ao 
+esforço compressional dominante dado pelo encurtamento NW-SE e pelo 
+movimento RLSS ao longo da falha de Boconó (e.g. Giegengack, 1984; Pérez 
+et ai., 2001; Audemard and Audemard , 2002), que se distribui sobre 500 Km ao 
+longo do eixo longitudinal de CAM para se juntar ao strike E-W da falha de San 
+Sebastian-EI Pilar. 
+30 
+4.4 Geologia do Petróleo 
+4.4.1 Sistema Petrolífero 
+Na superfície de 95 mil km 2 da bacia de Barinas-Apu re existem 433 poços 
+ativos, com uma capacidade de produção de 145 milhões de barris de óleo por 
+dia. Em 2000 a produção foi de 40,6 milhões de barris por dia, isso representa 
+3,5% do total venezuelano. No campo de Guafita, o primeiro poço descoberto 
+foi perfurado em fevereiro e março de 1984, pela Corpoven S.A. (Chigne et ai. 
+1999). 
+As duas áreas petrolíferas da bacia encontram-se na sub-bacia Barinas, 
+localizada no sudoeste da Venezuela. No Estado de Barinas, ao sul da cidade 
+de Barinas, a produção de óleo é concentrada numa área de aproximadamente 
+314 km 2, que incluem os campos de Caipe, Estero, Hato, Maporal, Palmita, 
+Silvan, Mingo, Paez, Silvestre e Sinco. Na área de Apure, na divisa com a 
+Colômbia temos os campos de La Victoria e Guafita (López et ai., 1998). 
+:·:.::<:::.·:·::·:-::.:.·:.:-:.SERRANIA DEL INTERIOR :·. i 
+.<·::·.:\ ;·;_:~L ... : ·: .. : :: .... -.... : ~: .... : ... · ... _: ..... ·. ·:::=·· ... · ... 
+ERÍOA' ~~Ç) . . .... .. . - - '\EL BAUL 
+· 9 ... · ~ . . ' @> AR,.O 6" 
+. · · · ·. '·. · ~..- ·. ARINAS ' "' """ .• '• • •·. · ~ •, /CAIPE .....,----..._84 .. ·.· · .... ~· · / _ '~ • ".' . • ... ,' .~· · • ~ ,.,.-PALMITA ' . . . . . . . ~. ' .:.··.::: : ·.·.'·.· SI LVAN -~•--SILVESTRE ~~ ' 
+(SAN CRISTOBÁL .... E STERO ?"~:"-SINCO 'Q~J ......... 
+• • ~ • • .'. :: : ·•• HAT O PAEZ -MING O ' 
+1···. · ··· vq, 
+. ~.\" LA VICTORIA ~ Cj 
+• ', # GUAF ITA ~~ 
+Co ·- .- -.._,. ........ , ~~ ~ 
+(0.11~ '\ 'Q <v'v ·~ ~~ ~ \ ~- <vv .._.- . __ . ...r-· ) <v~ 
+· ~ 
+\ 
+o 100 
+Km 
+Figura 8: Localização da área de estudos - Sub-bacia B arinas (López et 
+al.1998 ). 
+31 
+A rocha geradora por excelência é a Formação Navay, de idade Neo 
+Cretácea, cuja fácies são equivalentes, lateralmente, às da Formação La Luna. 
+Há ainda rochas geradoras de importância secundária no Grupo Orocué 
+(Formação Los Cuervos), que está sozinha em deposições mais profundas, 
+associado com acumulações de grandes espessuras devido ao soerguimento 
+andino. 
+Os principais reservatórios elásticos (terrígenos) são compostos pela 
+formação Escandalosa e Burgüita (Cretáceo), Grupo Orocué (Paleoceno), 
+Mirador e Membro Arauc da Formação Guafita (Eoceno-Oligoceno). Os 
+reservatórios carbonáticos mais relevantes são calcários, com porosidades 
+secundárias do Membro Guaicán da Formação Escandalosa. As rochas 
+selantes de escala regional são os intervalos de folhelhos das formações 
+Burgüita (Cretáceo Superior), Pagüei (Eoceno), e o Membro Guardulio da 
+Formação Guafita (figura 9). 
+NW 
+R ío"1o.l 
+_ ....._ _____ --·--
+C:J saoo /SC> •IPolrs 
+Figura 9: Seção transversal de NW-SE da bacia Barinas-Apure 
+(Parnaud et ai., 1995 apud Well Evaluation Conference, 1997). 
+S E 
+Existem dois modelos para geração, migração e trapeamento na bacia 
+Barinas-Apu re: 
+32 
+O primeiro relaciona-se com o sistema La Luna - Burguita. Devido à 
+geração de petróleo na Bacia de Maracaibo e a sua migração sul-sudeste. Os 
+selos para este caso constituem de unidades cretáceas: o superior por folhelho 
+basal da Formação Burguita, o inferior por folhelho do Membro La Morita 
+(Formação Navay). Os reservatórios são constituídos também por unidades 
+cretácicas, como as formações Aguardientes e Escandalosa e as areias basais 
+da Formação Burguita. 
+2DO 1ro 100 10 60 50 40 w w 10 o fM<> ) 
+O lig. 
+CrÍIXiOI m ornc:nt 
+Figura 1 O: Mapa de eventos do sistema petrolífero La Luna-Burgüita 
+(!),durante o término do posicionamento da Cordilheira de Mérida (Well 
+Evaluation Conference, 1997). 
+Já o segundo modelo se relaciona com a deposição do flanco sul andino. 
+No estado de Barinas as falhas são estruturais (anticlinais e homoclinais) 
+limitadas pela falha normal. As principais falhas que se tornam trapas são: 
+Paez, Paguey e Silvestre (González de Juana et ai. 1980, apud López et ai. 
+1998). Os principais reservatórios produtores na sub-bacia Barinas são as 
+formações Fortuna (Neo Cretáceo) e Gobernador (Eoceno médio). A Formação 
+Fortuna consiste de dois principais arenitos e é o maior produtor prolífero. Na 
+área Silvestre-Sinco, norte da falha Paez, os intervalos de produção são 
+associados com a Formação Fortuna. Já considerando o sul da falha, os 
+33 
+intervalos de produção são comumente associados com a Formação 
+Gobernador (Villamil, T ., 2003). 
+:.!00 150 100 )\) €r.J ro 40 :w 2i) 10 o (Ma) 
+~ervoir 
+CrÍIÍaOI momcnt 
+Figura 11: Mapa de eventos do sistema petrolífero Navay-Gobernador (!), no 
+norte do Arco Mérida, durante o soerguimento Andino (Well Evaluation 
+Conference, 1997). 
+Na área de Apure, os intervalos de produção nos campos de La Victoria 
+e Guafita estão associados com a Formação Guafita, na qual consistem dos 
+membros Arauca e Guardulio. 
+Estudos de vários poços na bacia indicam que as formações La Morita e 
+Quevedo (Cenomaniano e Santomaniano), e certamente áreas da Formação 
+Escandalosa contém intervalos de folhelhos com tipo li de querogênio (Chigne, 
+1985). Folhelhos na Formação Guafita contém matéria orgânica 
+predominantemente continental com alguma quantidade de material amorfo 
+marinho (Ortega et ai. 1987, apud Ch igne et ai., 2001 ). O Membro Arauca da 
+Formação Guafita tem relativamente baixo o valor de Carbono Orgânico Total 
+(COT =0, 1 % ), enquanto que o intervalo superior do Membro Guardulio contém 
+COT no intervalo de O, 1 até 5,5% (Ortega et ai. 1987, apud Chigne et ai., 
+2001 ). Essa zona superior também tem alta abundância de matéria orgânica 
+marinha. 
+34 
+Os óleos do campo de Guafita são caracterizados como sendo uma 
+mistura de origens marinha e terrestre, com uma predominância de matéria 
+orgânica marinha em litofácies siliciclásticas (Labrador et ai. 1995, apud Lopez 
+et ai., 1998). Tocco et ai. 1996, apud Lopez et ai., 1998 usaram modelagem 
+geoquímica para identificar três rochas geradoras, classificadas por 
+importância: ( 1) Seqüência do Cretáceo, representada pelas Formações La 
+Luna, Capacho e Navay; (2) Seqüência do Oligoceno, representada pela 
+Formação Carbonera e (3) Seqüência do Paleoceno, representada pelos 
+folhelhos carbonáticos e carvões do Grupo Orocué e Formação Marcelina. 
+Tocco et ai. 1997, apud Lopez et ai. 1998 definiram períodos de maturação e 
+migração de hidrocarbonetos da Formação La Luna na Bacia de Maracaibo 
+(Início Eoceno - Meio Eoceno; Final Eoceno - Início Mioceno e Início Mioceno 
+- Holoceno), e um período principal do Grupo Orocué e Formação Carbonera 
+(Mioceno médio até Plio-Pleistoceno)( Callejón et ai. 2003). 
+Os óleos da sub-bacia Barinas podem ser classificados como parafinicos­
+naftênicos (campos de La V ictoria e Guafita) até aromáticos-naftênicos 
+(campos de Caipe, Silvestre. Sinco, Silvan e Palmita). A variação do grau API 
+de 12° para óleos no qual passam por alterações no reservatório (e.g. Silvestre 
+e Sinco) até 32° para crus sem alterações. A quantidade de enxofre no óleo 
+varia de 0,4 até 2,2% e é inversamente proporcional ao grau do óleo. Os óleos 
+de La Victoria e Guafita têm as menores concentrações de enxofre (0,4 até 
+0,6%), nos campos restantes tem concentração entre 0,6 e 2,2% . Essa 
+variação pode ser relacionada pela alteração de processos como 
+biodegradação (Sinco) e water-washing (Silvestre). Algumas variações na 
+35 
+concentração de enxofre, de diferentes campos, podem ser relacionadas com 
+variações sistemáticas e geográficas nas litofácies da rocha geradora. 
+O óleo da sub-bacia Barinas é típico de derivados da mistura de matéria 
+orgânica marinha e terrestre. Mas, baseado nos valores de ó 13C , temos que o 
+óleo da sub-bacia tem predominância de fonte marinha. 
+O estudo da litologia foi baseado em dois tipos de concentração. A 
+primeira é a concentração de enxofre, onde campos como Caipe, Silvestre, 
+Sinco, Silvan e Palmita que apresentam concentrações > 0,6% apresentam 
+litofáceis ricas em carbonatos. Já o segundo tipo de concentração é a taxa 
+saturado/aromático, que no campo de La Victoria e Guafita apresentam valores 
+> 1,5, indicando assim uma formação siliciclástica. 
+36 
+5. MAGNETOMETRIA 
+5.1. Introdução 
+Os Métodos Magnéticos e Gravimétricos tem muito em comum , porém o 
+magnetismo é geralmente mais complexo e as variações no campo magnético 
+são mais erráticas e localizadas (Telford, 1990). 
+As anomalias magnéticas de interesse na prospecção geofísica, tanto 
+mineral quanto de hidrocarbonetos são causadas pela indução magnética do 
+campo magnético principal da Terra, em rochas suscetíveis de serem 
+magnetizadas por esse campo, onde o interesse principal é detectar e delimitar 
+a distribuição espacial, profundidade e geometria aproximada de corpos 
+magnetizados, que provocam alterações locais na intensidade, declinação e 
+inclinação de campo magnético principal da Terra (C.C . Reis, 1998; M.P.P. 
+Buonora, 2006). 
+A maioria das medidas magnéticas são realizadas com instrumentos na 
+superfície do terreno ou em aeronaves, porém também podem ser realizadas 
+em áreas cobertas por água através de embarcações, ou ainda em poços 
+perfurados. 
+Devido ao baixo custo e à rapidez dos levantamentos, o Método 
+Magnético é um dos mais utilizados na prospecção, pois além de permitir a 
+localização de minerais economicamente importantes, as medidas magnéticas 
+podem ainda ser usada na identificação de contatos geológicos (falhas, 
+dobras), que possam ter servido para o acúmulo de petróleo e gás (J.G. Luiz, 
+\~~~). 
+37 
+5.1.1. Prospecção de Petróleo 
+O uso do Método Magnético na prospecção de petróleo é quase sempre 
+dirigido para a determinação da topografia do embasamento de rochas ígneas 
+e metamórficas que está recoberto por rochas sedimentares. Tendo em vista 
+que o efeito magnético das rochas sedimentares é muito fraco, qualquer 
+anomalia observada sobre uma bacia sedimentar deve estar associada às 
+rochas do embasamento. Assim, dois tipos de anomalias são reconhecidos: 
+anomalias de intra-embasamento e anomalias de supra-embasamento (figura 
+12). As primeiras estão associadas às concentrações locais de m inerais 
+magnéticos no embasamento e podem produzir amplitudes superiores a 100 
+nT (nT=10-9 Tesla); as outras são devidas aos desníveis (topografia ou 
+soerguimento estrutural) na superfície do embasamento e produzem 
+amplitudes bem mais suaves. Em primeira aproximação, tem-se que, para um 
+desnível igual a 10% da profundidade do embasamento e uma intGinsidade de 
+magnetização de 0,001 emu (emu=10 Coulomb), a anoma lia de supra­
+embasamento apresenta uma amplitude em torno de 20 nT (Nettleton, 1971 
+apud J.G. Luiz, 1995). 
+As anomalias de supra-embasamento são as mais importantes para a 
+prospecção de petróleo, porque as elevações na superfície do embasamento , 
+que as provocam, podem ter afetado os sedimentos sobrejacentes, produzindo 
+arqueamentos e, portanto, condições de armazenamento de petróleo (figuras 
+13 e 14). 
+38 
+120 
+80 1NTA A -EM SAS AM E NT O 
+nT 
+40 
+SEDIMENTOS 
++ + + + + + V V + + + 
++ + + + + V + + 
++ + + + + + V V + + + 
+ROCHA ÁCIDA 
+l AOCHA BÁSICA 
+Figura 12: Representação esquemática das fontes de anomalias de supra e 
+intra-embasamento (J.G. Luiz, 1995). 
+_.....----+ ~ + + + 
+\Fonte 
++ I 
+do anomalia/ 
+de '>upro - embasamento 
++ 
+Acumuloçõo 
+--..._~ d• petróleo 
+Figura 13: Perfil geológico esquemático mostrando o armazenamento de 
+petróleo em "armadilha" causada pelo arqueamento de sedimentos. O 
+arqueamento foi induzido pelos desníveis topográficos do embasamento (fonte 
+magnética de supra embasamento) -(J.G. Luiz, 1995). 
+ll,_.ITE DO CAM PO OE ÓLEC 
+( 
+( 
+\ 
+J 
+I i 
+t / "'--__/ 
+39 
+Figura 14: Mapa topográfico do topo do embasamento no campo de S w anson 
+River, Alasca. Adaptado de Steeland (1995) -(J.G . Luiz, 1995). 
+Em áreas onde rochas ígneas ocorrem encaixadas nas rochas 
+sedimentares, torna-se difícil, ou mesmo impossível, distinguirem-se as 
+anomalias de supra-embasamento. Neste caso, a existência de fontes de 
+anomalias de intra-embasamento poderá ser usada nas determinações da 
+topografia do embasamento (Leite & Leão, 1985 apud J.G. Luiz, 1995). 
+Os dados magnéticos podem também ser utilizado para separar o efeito 
+diapírico dos domos salinos e folhelhos, do efeito diapírico de rochas ígneas 
+intrusivas, devido às características não magnéticas dos primeiros (J.G. Luiz, 
+1995). 
+40 
+5.1.2. Avaliação Histórica 
+Especula-se que o comportamento magnético dos materiais terrestres foi 
+primeiro observados pelos chineses, séculos a.e. No entanto a noção de que a 
+própria Terra comportava-se como um imã só foi apresentada, segundo uma 
+base científica, em 1600 por William Gilbert ( 1540 - 1603), através do trabalho 
+intitulado "De Magnete". 
+Neste trabalho Gilbert mostrou que o campo magnético da Terra é 
+aproximadamente equivalente ao gerado por uma barra de imã localizada no 
+centro da Terra e orientada ao longo de seu eixo de rotação. 
+Em meados do século XIX ( 1830 - 1842), Karl Frederic Gauss confirmou 
+as observações de Gilbert e concluiu, através de análises matemáticas, que o 
+campo magnético observado na superfície da Terra não poderia ser causado 
+por fontes externas, e sim por fontes localizadas em seu interior. 
+O estudo do campo magnético terrestre foi continuamente estudado 
+desde Gilbert, mas a sua primeira aplicação foi em 1843, quando Von Wrede 
+localizou depósitos de minério mapeando variações no campo magnético. Em 
+1879, Thalén marcou o primeiro uso do método magnético, primeira técnica 
+geofísica usada, com a publicação do "The Examinatíon of IRON ORE Deposits 
+by Magnetic Measurements'. 
+Até hoje o Método Magnético é uma das ferramentas geofísicas mais 
+usadas em levantamentos geofísicos, devido às facilidades e ao baixo custo 
+(Telford, 1990; L.V. Barros, 2004). 
+41 
+5.1.3. Semelhanças entre Gravidade e Magnetismo 
+Investigações geofísicas empregando observações do campo magnético 
+da Terra têm muito em comum àquelas que empregam observações do campo 
+gravitacional da Terra. A semelhança mais notável entre esse dois métodos é 
+que ambos são conhecidos como Métodos Potenciais, já que medem um 
+campo que existe naturalmente: os campos gravitacional e magnético da Terra, 
+também chamados de campos potenciais. 
+A expressão "campo potencial" refere-se a uma propriedade matemática 
+desses tipos de forças. As forças, gravitacional e magnética, são conhecidas 
+como forças conservativas, as quais podem ser representadas 
+matematicamente por expressões escalares simples, conhecidas como 
+potenciais. Daí a expressão "campo potencial" (L.V. Barros, 2004). 
+5.1.4. Diferenças entre Gravidade e Magnetismo 
+Embora haja semelhanças, existem também diferenças significativas 
+entre os métodos de exploração gravimétrico e magnético, que tornam as 
+avaliações qualitativa e quantitativa das anomalias magnéticas mais difíceis e 
+menos intuitivas que as anomalias gravimétricas. 
+O parâmetro fundamental nas medidas geofísicas de gravimetria é a 
+densidade das rochas, que quando próximas à superfície da Terra variam 
+pouco de lugar para lugar (3,0 a 1,0 g/cm3). Similarmente, o parâmetro 
+fundamental nas m edidas m agnéticas é a susceptibilidade m agnética das 
+42 
+rochas, que pode variar de quatro a cinco ordens de magnitude (1 a 10.000). 
+Esta variação não só está presente entre tipos diferentes de rocha, como 
+também pode estar presente em um mesmo tipo de rocha, dificultando a 
+determinação do tipo de rocha baseada na susceptibilidade magnética 
+estimada. 
+Tabela 1: tabela de densidade de alguns tipos de rocha (Telford, 1990). 
+Tipo de Rocha 
+Sedimentos (seco) 
+Soterramento 
+Solo 
+Argila 
+Cascalho 
+Areia 
+Arenito 
+Folhelho 
+Ca lcário 
+D olomita 
+R ochas Sed imentares (média) 
+Rochas Ígneas 
+Riolito 
+Andesita 
+Granito 
+Granodiorito 
+Pórfiro 
+Quartzo Diorito 
+Diorito 
+Lava 
+Diabásio 
+Basalto 
+Gabro 
+Peridotito 
+Ígnea Ácida 
+Ígnea Básica 
+Rochas Metamórficas 
+Quartizito 
+Xisto 
+Grauvaca 
+Mármor e 
+Serpentinito 
+Gne isse 
+Anfibolito 
+Eclogito 
+Metamórfica 
+Faixa 
+(g/cm3) 
+1.2 . 2.4 
+1.63- 2.6 
+1.7 -2.4 
+1.7-2.3 
+1.61 -2.76 
+1.77- 3.2 
+1.93 -2.9 
+2.28 -2.9 
+2.35 -2.7 
+2.4 -2.8 
+2.5 -2.81 
+2.67-2.79 
+2.6-2.89 
+2.62 -2.96 
+2.72 -2.99 
+2.8 -3.0 
+2.5 -3.2 
+2.7 -3.3 
+2.7 -3.5 
+2.78 -3.37 
+2.3-3.11 
+2.09 -3.17 
+2.5 -2.7 
+2.39 -2.9 
+2.6 -2.7 
+2.6 -2.9 
+2.4-3.1 
+2.59 -3.0 
+2.9 -3.04 
+3.2 -3.54 
+2.4- 3.1 
+Média 
+(g/cm3) 
+1.92 
+1.92 
+2.21 
+2.0 
+2.0 
+2.35 
+2.4 
+2.55 
+2.7 
+2.5 
+2.52 
+2.61 
+2.64 
+2.73 
+2.74 
+2.79 
+2.85 
+2.9 
+2.91 
+2.99 
+3.03 
+3.15 
+2.61 
+2.79 
+2.6 
+2.64 
+2.65 
+2.75 
+2.78 
+2.8 
+2.96 
+3.37 
+2.74 
+Mineral 
+Minerais metálicos 
+Oxidos, Carbonatos 
+B auxita 
+Limonita 
+Siderita 
+Rutilo 
+Magnesi ta 
+Cromita 
+llmenita 
+Pirolusita 
+Magnetita 
+Hematita 
+Cuprita 
+Cassiterita 
+Wo lfram ita 
+Sulfetos, Arsênicos 
+Esfalerita 
+Malaqu ite 
+Calcopirita 
+Estanito 
+Estibinita 
+P irrotita 
+Mo libidenita 
+Maras ita 
+Pirita 
+Bornita 
+Ca lcocita 
+Arsenopirita 
+Galena 
+Cinabrio 
+Minerais não-metálicos 
+Petróleo 
+Gelo 
+Ág ua do m ar 
+Lignita 
+Carvão 
+An tracito 
+Faixa 
+(g/cm
+3
+) 
+2.3 -2.55 
+3.5-4.0 
+3.7 -3.9 
+4.18-4.3 
+4.2 -4.4 
+4.3 -4.6 
+4.3 -5.0 
+4.7 -5.0 
+4.9-5.2 
+4.9-5.3 
+5.7-6.15 
+6.8 -7.1 
+7.1 -7.5 
+3.5-4.0 
+3.9-4.03 
+4.1 -4.3 
+4.3 -4.52 
+4.5 -4.6 
+4.5-4.8 
+4.4 -4.8 
+4.7-4.9 
+4.9-5.2 
+4.9 -5.4 
+5.5 -5.8 
+5.9-6.2 
+7.4-7.6 
+8.0-8.2 
+0.6 -0.9 
+0.88 -0.92 
+1.01 - 1.05 
+1.1 - 1.25 
+1.2 - 1.5 
+1.34- 1.8 
+Média 
+(g/cm~ 
+2.45 
+3.78 
+3.83 
+4.25 
+4.32 
+4.36 
+4.67 
+4.82 
+5.12 
+5.18 
+5.92 
+6.92 
+7.32 
+3.75 
+4.0 
+4.2 
+4.4 
+4.6 
+4.65 
+4.7 
+4.85 
+5.0 
+5.1 
+5.65 
+6.1 
+7.5 
+8.1 
+1.19 
+1.32 
+1.5 
+43 
+Giz 1.53 -2.6 2.01 
+Grafite 1.9 -2.3 2.15 
+Pedra de sal 2.1 -2.6 2.22 
+Gesso 2.2 -2.6 2.35 
+Cau linita 2.2 -2.63 2.53 
+Ortoclasio 2.5 -2.6 
+Quartzo 2.5 -2.7 2.65 
+Cal cita 2.6-2.7 
+Anidrita 2.29-3.0 2.93 
+Biotita 2.7-3.2 2.92 
+Magnesita 2.9-3.12 3.03 
+Fluorita 3.01 -3.25 3.14 
+Bário 4.3-4.7 4.47 
+Tabela 2: tabela de susceptibilidade magnética de alguns tipos de rocha 
+(Telford, 1990). 
+Susceptibilidade x 103 
+{SI) Susce[!tibilidade x 103 (SI) 
+Ti[!O Faixa M édia Tieo Faixa M édia 
+Sed imentar 
+Dolomita O - 0.9 0.1 Minerais 
+Ca lcarenito 0-3 0.3 Grafite 0.1 
+Arenito O -20 0.4 Quartzo .-0.01 
+Folhelho 0.01 - 15 0.6 Pedra de sal .-0.01 
+M édia de 48 sedimentos o -18 0.9 Anidrita, Gesso .-0.01 
+Ca l cita .-0.001 --0.01 
+Metamórfica Carvão 0.02 
+Anfibolito 0.7 Argila 0.2 
+Xisto 0.3-3 1.4 Ca lcopirita 0.4 
+Filita 1.5 Esfalerita 0.7 
+Gneisse 0.1 -25 Cassiterita 0.9 
+Q uartzito 4 Siderita 1.0-4.0 
+Serpentinito 3.0 -17 Pirita 0.005 -5 1.5 
+Média de 61 metamó rficas o-70 4.2 Limonita 2.5 
+Arsenopirita 3 
+Ígnea H ematita 0.5-35 6.5 
+Granito O- 50 2.5 Cromita 3 - 110 7 
+Riolito 0.2 -35 Pirrotita 1.0 -6000 1500 
+Au gite-Sienito 30- 40 llmenita 300 -3500 1800 
+O livina-D iabásio 25 Magnetita 1200 -19200 6000 
+Diabásio 1 -160 55 
+Pórfiro 0.3 -200 60 
+Gabro 1.0 -90 70 
+Basalto 0.2 - 175 70 
+Diorito 0.6 - 120 85 
+Peroxenito 125 
+Peridotito 90 -200 150 
+Ande sito 160 
+M édia da ígneas ácidas O -80 8 
+M édia da ígneas básicas 0.5-97 25 
+44 
+Outra diferença é que a força magnética pode ser tanto de repulsão 
+quanto e atração, ao contrário da força gravitacional, que é de atração, e não 
+existe monopólo magnético, apenas dipolo. 
+Enquanto as variações do campo gravitacional são sempre geradas por 
+variações de densidades das rochas em sub superfície, as variações do campo 
+magnético podem ter como origem a magnetização induzida e a permanente. 
+E, por fim, ao contrário do campo gravitacional, que não muda 
+significativamente com o tempo, o campo magnético é altamente dependente 
+do tempo, como será visto mais adiante (L.V. Barros, 2004). 
+5.1.5. Conceitos Básicos 
+A teoria magnética clássica e a moderna diferem em conceitos básicos, a 
+clássica é similar à teoria elétrica e gravitacional, onde o conceito básico de 
+pólo magnético é análogo ao de carga e ao de massa , inclusive com leis 
+seme lhantes para descrever a interação entre pólos magnéticos, cargas 
+elétricas e massas. 
+No entanto, ao contrário da teoria elétrica, onde a estrutura elementar é 
+a carga isolada (elétron), a unidade básica do magnetismo é o dipolo 
+magnético, o qual é gerado a partir de uma corrente elétrica circular (Lei de 
+Ampére), e composto por dois pólos + p e - p separados pela distância 21. O 
+momento de dipolo magnético é definido como: 
+45 
+m = 21p~ (1) 
+Onde m é um vetor na direção do vetor unitário ~ , que se estende do 
+pólo negativo (Norte Magnético), ao pólo positivo (Sul Magné tico). 
+A força de interação magnética entre dois pólos é definida através da Lei 
+de Coulomb , por: 
+Onde F é a força em p2, os pólos magnéticos são P1 e P2, ré a distância 
+entre os pólos, p, é a permeabilidade magnética, e ~ é o vetor unitário que vai 
+de P1 a P2. 
+Como no caso elétrico, mas diferente do caso gravitacional onde a força é 
+sempre atrativa, a força magnética é de atração para pólos de sinais opostos e 
+de repulsão para pólos de mesmo sinal. 
+Ao espaço próximo de um pólo, onde a força de magnetização causada 
+por este faz-se sentir, dá-se o nome de campo magnético, que pode ser 
+definido como : 
+H =:, =(;, f (Ili) 
+Como o camp o magnético é conservativo, o mesmo tamb ém p ode ser 
+obtido através do gradiente da função potencial m agnético, que é um cam po 
+46 
+escalar. Portanto, considerando um ponto qualquer com uma distância do pólo 
+com o qual está interagindo, o potencial magnético pode ser expresso por: 
+(IV) 
+Por conseguinte o campo magnético será: 
+(V) 
+Quando uma material magnético está na presença de um campo 
+magnético externo H , surge um campo interno adicional H', que é 
+proporcional a intensidade de magnetização adquirida pelo material. A 
+intensidade de magnetização, (M = m , momento de dipolo por unidade de V 
+volume), sofrida pelo corpo depende do grau de alinhamento dos momentos 
+dos átomos que o compõem , em relação ao campo externo indutor. Tal 
+propriedade é função da intensidade do campo externo e da susceptibilidade 
+magnética da substância que constitui o corpo. 
+A susceptibilidade magnética (x) é uma propriedade intrínseca de cada 
+substância e é definida como: 
+- -M = xH (VI) 
+47 
+O campo de indução magnética B , que é definido como o campo total 
+dentro do corpo magnético, pode ser expresso pela seguinte soma: 
+- - -B =H +H ' (VII) 
+Por definição, sabe-se que o campo de indução magné tica B é 
+proporcional ao campo da força de magnetização fI, através de uma razão 
+que é a permeabilidade magnética do meio ( µ = (1 + 4.n;r) (C.C. Reis, 1998; 
+Telford, 1990) : 
+- - - -B = µH = H + 41CM (VIII) 
+5.1. Magnetização dos Materiais 
+Para entendermos melhor como funciona a magnetização das rochas e 
+minerais iremos descrevê-la através de um modelo atômico simples. 
+5.2.1. Indução Magnética 
+Sabemos que uma força F agindo sobre uma carga Q , se mov endo 
+com uma velocidade constante v em um campo m agnético é dada pela 
+equação: 
+48 
+F=Q(vxli) (IX) 
+Onde li é a indução magnética. Tal força pode ser considerada como 
+aquela gerada por um circuito de corrente elétrica agindo em outro circuito 
+elétrico de teste. 
+Nos pontos de observação fora de fontes magnéticas, e em regiões onde 
+inexistem correntes magnéticas, a indução magnética é o gradiente de um 
+potencial escalar magnético: 
+B=-VV (X) 
+Tanto na gravimetria quanto na magnetometria, o cálculo dos efeitos das 
+anomalias produzidos por corpos de formas especiais se torna mais simples se 
+primeiramente calcularmos o potencial V e depois aplicarmos a equação X 
+(M.P.P. Buonora, 2006). 
+5.2.2. Mecanismos de Indução Magnética 
+Como descrevemos no modelo atômico para explicar a magnetização 
+dos materiais, normalmente a magnetização dos elétrons numa substância se 
+cancelam, porém algumas vezes pode haver um desequilíbrio entre esses 
+elétrons. É baseado nesse "equilíbrio de campos" que podemos classificar os 
+materiais magnéticos em (C.C. Reis, 1998; M.P.P. Buonora, 2006; L.V. Barros, 
+2004): 
+49 
+Diamagnéticos -Descobertos por Michael Faraday em 1846. Esta forma 
+de magnetismo é uma propriedade fundamental de todos os materiais, e é 
+causada quando se aplica um campo magnético, produzindo um movimento 
+orbital, de modo a gerar um campo em sentido oposto ao campo aplicado, o 
+qual é interrompido assim que o campo aplicado é cessado. Esse 
+comportamento independe da temperatura e é definido com susceptibilidade 
+(~) relativamente baixa e negativa. Para elementos que não possuem elétrons 
+aos pares em suas camadas externas, esta é a única forma de magnetismo 
+observada. 
+Devido ao fato deste comportamento cessar assim que o campo 
+aplicado cessa, esses materiais contribuem pouco para o campo 
+geomagnético. 
+Paramagnéticos - Esta forma de magnetismo está associada aos 
+elementos que têm um número ímpar de elétrons em suas camadas externas e 
+susceptibilidade pequena e positiva. Devido ao número impar de elétrons, 
+mesmo com um campo magnético externo nulo, tais materiais possuem 
+momento magnético diferente de zero. O paramagnetismo está associado às 
+direções de alinhamento do spin do elétron na presença de um campo 
+magnético externo. 
+O efeito do paramagnetismo diminui com a temperatura, de forma que 
+acima de certa temperatura, conhecida como temperatura de Curie, não pode 
+ser mais observado. 
+50 
+Materiais com esse tipo de magnetização também contribuem pouco 
+para o campo geomagnético, já que possuem uma magnetização pouco 
+intensa. 
+Ferromagnéticos -Este é um caso especial do paramagnetismo, onde a 
+susceptibilidade é 106 vezes maior que as dos materiais paramagnéticos, e no 
+qual há um alinhamento quase perfeito das direções do spin do elétron, 
+subdividindo o material em domínios magnéticos, e também só é observado 
+abaixo da temperatura de Curie. 
+Há três variedades de ferromagnetismo: 
+Ferromagnéticos Puros - As direções de alinhamento do spin do elétron 
+dentro de cada domínio são quase todas paralelas à direção do campo 
+magnético indutor externo. Substâncias ferromagnéticas puras têm 
+susceptibilidade grande e positiva (aproximadamente 1 ). 
+Antiferromagnéticos - As direções de alinhamento do elétron nos 
+domínios adjacentes são opostas e a abundância relativa de domínios em cada 
+direção do spin é aproximadamente igual. A intensidade magnética observada 
+para o material é quase zero, de forma que a susceptibilidade desses ma teriais 
+é quase nula. 
+Ferrimagnéticos - Como os materiais antiferromagnéticos, os domínios 
+adjacentes produzem intensidades magnéticas em direções opostas. Porém , 
+51 
+as intensidades associadas aos domínios polarizados em direção oposta à do 
+campo externo são mais fracas. 
+A intensidade magnética observada para todo o material está na mesma 
+direção do campo induzido, mas é muito mais fraca do que a observada nos 
+materiais ferromagnéticos puros. Dessa forma, a susceptibilidade dos materiais 
+ferrimagnéticos é pequena e positiva. 
+O conjunto dos tipos de magnetização é também denominado magnetização 
+espontânea. Na escala dos grãos de uma rocha, a magnetização espontânea 
+pode ser muito grande, porém em afloramento, os momentos magnéticos dos 
+grãos individuais podem se orientar de uma forma tão aleatória, que o seu 
+momento resultante é pequeno. Além disso, na presença do campo magnético 
+da Terra, eles tendem a se orientar na direção desse campo externo (C.C. 
+Reis, 1998; M.P.P. Buonora, 2006; L.V. Barros, 2004). 
+5.2.3. Susceptibilidade Magnética 
+A susceptibilidade magnética é uma variável significante no magnetismo, 
+seu papel e análogo ao da densidade na gravimetria. Embora alguns 
+instrumentos sejam capazes de medir a susceptibilidade magnética no campo , 
+eles apenas podem ser usados em afloramentos ou em uma amostra da rocha, 
+e não medem necessariamente a susceptibilidade volumétrica da formação. 
+52 
+É importante lembrar, que como vimos acima, a variável x não é 
+constante para uma substância magnética, pois conforme fJ cresce, x cresce 
+em uma taxa maior, atingindo o seu máximo, e em seguida decaindo a zero. E 
+embora as curvas de magnetização tenham uma forma generalizada, o valor 
+de fJ de saturação varia conforme o tipo de mineral magnético, por isso é 
+importante, na determinação da susceptibilidade, usar um valor de fI 
+aproximadamente igual ao do campo da Terra. 
+A maioria das medidas de x envolvem uma comparação entre a amostra 
+e um padrão. Um método simples feito em laboratório é comparar a deflexão 
+produzida no magnetômetro entre a amostra preparada e a amostra padrão do. 
+material magnético, quando a amostra está na posição Gauss-A (end-on). A 
+susceptibilidade da amostra preparada é encontrada através da taxa de 
+deflexões: 
+X A = XPdA (XI) 
+dp 
+Onde dA e dp são as def lexões da amostra preparada e da amostra padrão 
+respectivamente. As amostras devem ser do mesmo tamanho (Telford, 1990). 
+5.2.4. Susceptibilidade das Rochas e Minerais 
+Como vimos acima, a susceptibilidade é uma grandeza adimensional, 
+sendo específica para cada m aterial e responsável pelo grau de m agnetização 
+53 
+que este pode sofre na presença de um determinado campo externo. Quanto 
+maior a susceptibilidade, maior a magnetização do material quando submetido 
+a um campo indutor (C.C. Reis, 1998). 
+A susceptibilidade magnética das rochas é função da quantidade de 
+minerais ferromagnéticos que as mesmas contém, sendo que, o tamanho dos 
+grãos e sua dispersão na rocha também influem. Como os minerais 
+ferromagnéticos, formados por óxidos e sulfetos de ferro, tem normalmente 
+abundância relativa menor do que os silicatos, a susceptibilidade das rochas 
+tende a ser relativamente mais baixas, embora continue demonstrando 
+propriedades ferromagnéticas, tais como a histerese (C.C. Reis, 1998). 
+Diferentemente da densidade, existe uma grande variação dos valores 
+de susceptibilidade para uma rocha em particular, assim como um largo 
+overlap entre tipos diferentes de rochas. Nota-se que rochas sedimentares 
+possuem , em média, os menores valores de susceptibilidade, enquanto as 
+rochas ígneas possuem os maiores valores de susceptibilidade (Telford, 1990). 
+Conseqüentemente, somente o conhecimento dos valores das 
+susceptibilidades não é suficiente para determinar o tipo de rocha e, por outro 
+lado, o conhecimento do tipo de rocha não é, freqüentemente, suficiente para 
+calcular a susceptibilidade esperada (C.C. Reis, 1998). 
+Essa grande variação nos valores das susceptibilidades implica que as 
+variações espaciais no campo magnético observado podem estar diretamente 
+relacionadas à estrutura geológica. Por serem grandes as variações entre 
+quaisquer tipos determinados de rocha, será difícil fazer correções no campo 
+magnético observado, como é feito na gravimetria (C.C. Reis, 1998). 
+54 
+5.2.5. Magnetismo Remanescente 
+Como foi visto anteriormente, ao se medir o campo magnético total 
+próximo de um material, submetido a um campo indutor, obteríamos como 
+valor do campo total a soma do campo indutor e do campo induzido interno, 
+gerado no material. Medindo-se as variações espaciais do campo magnético 
+total e sabendo que o campo indutor é semelhante, podemos, a priori, mapear 
+as variações espaciais do campo induzido e assim determinar variações 
+espaciais da susceptibilidade magnética dos materiais em sub superfície. 
+Se o material magnético tiver susceptibilidade relativamente alta ou se o 
+campo indutor for forte, o material magnético reterá uma parte se sua 
+magnetização induzida mesmo depois que o campo indutor desaparecer. Esta 
+magnetização residual é chamada Magnetização Remanescente (C.C. Reis, 
+1998). 
+A magnetização remanescente normalmente contribui para a 
+magnetização total tanto em amplitude quanto na direção. Este efeito é 
+complicado, pois depende da história magnética da rocha. A magnetização 
+remanescente tem diversas causas, sendo que as principais são (Telford, 
+1990): 
+Magnetização Termoremanescente - a qual resulta do resfriamento de 
+um material magnético abaixo do ponto de Curie na presença de um campo 
+externo (normalmente o campo da Terra). Sua direção depende da direção do 
+campo, do tempo e do lugar onde a rocha foi resfriada. A aquisição 
+55 
+remanescente deste tipo é particularmente estável. Este é o principal 
+mecanismo de magnetização remanescente em rochas ígneas. 
+Magnetização Detrítica - ocorre durante a deposição de pequenas 
+partículas granuladas na presença de um campo externo. Variadas argilas 
+exibem esse tipo de remanescência. 
+Magnetização Remanescente Química - a qual toma lugar quando as 
+partículas magnéticas aumentam de tamanho ou alteram o formato devido à 
+ação química a temperaturas moderadas, isto é, abaixo do ponto de Curie. 
+Este processo pode ser significante em rochas sedimentares e metamórficas. 
+Magnetização Remanescente Isotérmica - a qual trata-se da 
+remanescência que fica tão logo se remove o campo externo (figura 15). 
+Relâmpagos produzem este tipo de magnetização remanescente sobre áreas 
+bem pequenas. 
+B 
+s' 
+.s 
+Ctuva iuicial de 
+maguetiza~ 
+H 
+Q!' = ili·' = l\ifaptetismo i·esidnal 
+Qr = Qr' = Força coerciva 
+Figura 15: Curva de histerese típica (Telford, 1990). 
+56 
+Magnetização Remanescente Viscosa - a qual é produzida por uma 
+exposição longa a um campo externo; o crescimento da remanescência é 
+função logarítimica do tempo. A magnetização remanescente viscosa é 
+provavelmente a mais característica de rochas de grãos/partículas pequenas, 
+finos, que de rochas de grãos/partículas grossas, ásperas. Esta remanescência 
+é suficientemente estável. 
+A magnetização remanescente é a componente de magnetização do 
+ma terial que os geofísicos de terra sólida utilizam para mapear o movimento de 
+continentes. e ba,cias oceânicas resultantes do movimento de placas tectônicas 
+(L.V. Barros, 2004). Muitas rochas possuem ma9!""l~tismo remanescente cuja 
+orientação nem é na direção norte, e nem na direção sul do campo magnético 
+57 
+;presente da Terra. Essas evidências suportam a teoria das placas tectônicas 
+•! 
+{Teltord, 1990). 
+5.3. O Campo Magnético da Terra 
+Medidas efetuadas na superfície da Terra sugerem que o atual campo 
+magnético terrestre pode ser aproximado pelo campo produzido por um 
+momento de dipolo localizado no seu centro. Este momento aponta para o pólo 
+sul geográfico e se localiza sobre um eixo que forma um ângulo de 
+aproximadamente 11 ,5º com o eixo de rotação da Terra (figura 16). 
+Polo 
+N 
+s 
+Polo magnético 
+su 1 ( I:: -90°} 
+\ 
+\r-.polo geográfico sul 
+Figura 16: Representação esquemática do dipolo cujo campo é uma 
+aproximação do campo magnético terrestre (J.G. Luiz, 1995). 
+58 
+O eixo do dipolo terrestre intercepta a superfície da Terra nas 
+coordenadas aproximadas de 78,5º N-69º W e 78,5º S-111 º E, determinando o 
+que se chama de pólos magnéticos. Estes pólos não devem ser confundidos 
+com os verdadeiros pólos magnéticos, definidos nas posições onde uma 
+agulha inclina-se com ângulo de 90º em relação à superfície da Terra. As 
+coordenadas dos pólos magnéticos verdadeiros são aproximadamente 75º N-
+101 º W e 67º S-143º E, o que indica que eles não são diametralmente opostos. 
+O campo magnético da Terra (fr0 ) é caracterizado em qualquer ponto da 
+superfície terrestre pelos seguintes elementos (figura 17) : componente 
+horizontal (F,,), componente vertical (.FJ, ângulo de inclinação com o plano 
+horizontal (i), ângulo de declinação (D), formado entre F,, e a direção do norte 
+geográfico (marcado a partir dessa última). A componente horizontal pode ser 
+de composta em duas outras: a componente norte (.FJ, na direção do norte 
+geográfico e a componente leste (.Fy), na direção do leste geográfico. O campo 
+magnético F0 , as componentes F,, e F, , bem como a inclinação i estão todos 
+em um mesmo plano vertical. 
+59 
+-
+-E 
+-F z 
+Figura 17: Representação geométrica do campo magnético terrestre e seus 
+elementos. NG - norte geográfico; NM - norte magnético; E - leste ( J. G. Luiz, 
+1995). 
+Observando a figura acima, é possível estabelecerem-se as seguintes relações 
+trigonométricas entre o campo magnético e os seus elementos: 
+F.2 = F 2 + F i o " z 
+(XII) 
+F 1 = F 2 + F 2 
+/, X y (XIII) 
+F.2 =F 2 + F 2 +F 2 0 X y Z (XIV) 
+(XV) 
+F_, = F" cosD = F0 cosicosD (XVI) 
+F ,. = F,,senD = F0 cos isenD (XVII) 
+i = arctg( Fz J 
+F,, 
+D = arctg( FY J 
+F x 
+60 
+(XVIII) 
+(XIX) 
+(XX) 
+A componente vertical Fz é considerada positiva, quando aponta para o 
+interior da Terra; isso ocorre na maior porção do hem isfério norte. Quando 
+aponta para fora da Terra, ela é convencionalmente negativa; isso se dá na 
+maior parte do hemisfério sul (figura 18). 
+NM 
+I 
+I 
+I 
+\ 
+\ 
+\ 
+SM 
+I 
+I 
+\ 
+\ 
+I 
+I 
+I 
+\ 
+\ 
+\ 
+\ 
+\ 
+\ -7 
+' F1i \ 
+Figura 18: Representação esquemática das linhas de força do campo 
+geomagnético. NM-norte magnético; SM-sul magnético (J.G . Luiz, 1995). 
+61 
+Os valores de inclinação variam de zero a 90º no hemisfério norte e de 
+zero a -90º no hemisfério sul. Os pontos onde i = ±90° são pólos magnéticos 
+verdadeiros; nesses pontos, F0 = Fz e F11 = O . As posições onde i = oº definem 
+o equador magnético; nessas posições, F0 = F,, e Fz = O . O equador 
+geográfico e o equador magnético não coincidem e nem são paralelos (figura 
+19). O equador magnético divide a Terra em dois hemisférios, denominados 
+norte e sul em analogia aos hemisférios geográficos. A componente horizontal 
+F,, aponta sempre para o norte magnético. 
+O campo magnético terrestre e seus elementos sofrem variações ao 
+longo do tempo. Essas variações foram primeiramente constatadas em 1634 
+por H. Gellibrand, que observou mudanças no valor da declinação magnética 
+de Londres, após comparar suas medidas com medidas efetuadas em 1580 e 
+1622 por outros observadores (Jacobs, 1963, apud J.G. Luiz, 1995).); este tipo 
+de variação recebe o nome de variação secular. Além disso, o campo sofre 
+inversões de polaridade, isto é, mudanças de 180º no sentido do momento de 
+dipolo, conforme descrito por Matuyama (1973, apudJ .G. Luiz, 1995). 
+62 
+{a) 
+( b) 
+Figura 19: IGRF-1985 para: (a) inclinação do campo magnético (em graus); (b) 
+variação anual da inclinação (em minutos por ano). A inclinação d1 assinala o 
+equador magnético. Adaptado de Barraclough (1987) -(J.G. Luiz, 1995). 
+63 
+5.3.1. Natureza do Campo Geomagnético 
+No âmbito da exploração geofísica, o campo geomagnético da Terra é 
+composto de três partes (Telford, 1990): 
+1 . O campo principal que varia lentamente e é de origem interna; 
+2. Um pequeno campo (comparado ao campo principal), que varia 
+rapidamente e tem origem fora da Terra; 
+3. Variações espaciais do campo principal, as quais são menores que o 
+campo principal, são aproximadamente constante no espaço e no 
+tempo, e são causadas por anomalias magnéticas locais na superfície 
+próxima à crosta terrestre. Estas são alvos na prospecção magnética. 
+5.3.2. Nomenclatura do Campo Magnético 
+Ao contrário da aceleração gravitacional, que tem apenas uma dimensão e 
+está sempre orientada para baixo, o campo magnético não age em uma 
+direção definida. Por isso, foi desenvolvida uma terminologia para descrever o 
+campo magnético em qualquer ponto da superfície da Terra, sendo assim, o 
+campo magnético (F) é descrito pelos seguintes elementos (L.V. Barros, 2004): 
+• Declinação: ângulo entre o norte verdadeiro e a componente horizontal 
+de F Aponta sempre para o norte magnético. Este valor é positivo a 
+partir do leste e varia de O a 360 graus. 
+64 
+• Inclinação: ângulo entre a superfície da Terra e o campo magnético total 
+F. Inclinações positivas indicam que F está apontada para baixo, 
+enquanto inclinações negativas indicam que F está apontado para cima. 
+A inclinação varia de -90 a 90 graus. 
+• Componente horizontal (FH): projeção de F na direção do norte 
+magnético. 
+• Componente vertical (Fz): projeção de F na direção vertical. 
+• Equador magnético: localização na superfície da Terra onde o campo 
+magnético tem uma inclinação zero. Neste caso o vetor campo 
+magnético Fé horizontal. Esta localização não corresponde ao equador 
+rotacional da Terra. 
+• Pólos magnéticos: locais na superfície da Terra onde o campo 
+magnético tem uma inclinação em torno de 90 graus, isto é, o vetor 
+campo magnético F é vertical. Essas localizações não correspondem 
+aos pólos norte e sul da Terra. 
+65 
+5.3.3. Variações Temporais do Campo Magnético da Terra 
+Como sabemos, o campo magnético varia com o tempo. Essas 
+variações temporais podem ser classificadas em três tipos, dependendo de sua 
+taxa de ocorrência e da fonte que as geram (L.V. Barros, 2004): 
+• Variações seculares: variação de longo prazo no campo magnético 
+principal, que acontecem ao longo de vários anos, causadas pelo 
+movimento de fluídos no núcleo externo da Terra. Estas variações 
+acontecem lentamente em relação ao tempo de execução de um 
+levantamento magnético típico e, portanto, não afetam os esforços de 
+redução dos dados; 
+• Variações diurnas: são variações lentas do campo magnético que 
+acontecem durante o dia e estão relacionadas com as variações no 
+campo magnético externo da Terra. Podem estar na ordem de 20 a 30 
+nT por dia e devem ser consideradas em levantamentos magnéticos; 
+• Tempestades magnéticas: ocasionalmente, as atividades magnéticas na 
+ionosfera aumentam abruptamente. A ocorrência de tais tempestades 
+relaciona-se com o aumento de atividades das manchas solares. O 
+campo magnético observando durante essas ocasiões é altamente 
+irregular e imprevisível, com amplitudes de até 1000 nT. Levantamentos 
+magnéticos devem ser interrompidos durante tempestades magnéticas. 
+66 
+5.4. Instrumentos de Medidas de Campo Magnético 
+As primeiras medidas realizadas para a localização de concentrações de 
+minerais magnéticos foram feitas com bússola náutica e bússola geológica. 
+Essas medidas consistiam na observação de perturbações dos valores normais 
+de declinação e inclinação do campo magnético. Posteriormente, foram 
+desenvolvidos instrumentos capazes de med ir variações das componentes 
+horizontal e vertical do campo magnético. Por medirem somente as variações 
+do campo magnético, esses instrumentos receberam a denominação de 
+variômetros magnéticos. 
+Após a Segunda Guerra Mundial surgiram os magnetômetros, que 
+permitem o registro do valor da intensidade do campo magnético (campo total) 
+ou de suas componentes (J.G. Luiz, 1995). 
+A sensibilidade típica que requere um instrumento magnético de terra 
+esta entre 1 e 10 nT de um campo total raramente maior que 50 000 nT. 
+Recentes aplicações de aéreas, no entanto, tem permitido o desenvolvimento 
+de magnetômetros com sensibilidade de 0,001 nT (Telford, 1990). 
+5.4.1 . Magnetômetro Fluxgate 
+O projeto original do Magnetômetro de Fluxgate foi desenvolvido durante 
+a Segunda Guerra Mundial, para detectar submarinos por um avião voando 
+baixo. Hoje é usado para realizar pesquisas magnéticas em aviões e para fazer 
+m edidas em poço (L.V. Barros, 2004). 
+67 
+O magnetômetro fluxgate é baseado no circuito de saturação magnético, 
+e consiste basicamente de duas barras paralelas de um material 
+ferromagnético colocadas bem próximas. A susceptibilidade das barras é 
+grande o bastante para que até mesmo o campo magnético da Terra, que é 
+relativamente fraco, possa produzir saturação magnética nas barras. Cada 
+barra é envolvida por uma bobina primária, em direções opostas (figura 20). 
+ta 1 SAT_,URAÇÂO (e) 
+'\TEM PO 
+(•) 1 /\ A ........ V_..._ .......... _v__,.--a..-y=-. .....--
+Figura 20: Princípio de funcionamento do Fluxgate: (a) curva de histerese dos 
+núcleos; (b) enrolamentos dos núcleos; (e) fluxo magnético nos núcleos na 
+ausência de um campo externo; (d) voltagens induzidas (V1 e V2) nas bobinas 
+secundárias na presença de um campo externo (campo terrestre); (e) voltagem 
+resultante V1+V2, medida no voltímetro (J.G. Luiz, 1995). 
+Uma corrente alternada circula pelo enrolamento primário, gerando um 
+grande campo magnético, e induzindo um campo magnético de mesma 
+intensidade, mas direção oposta, nas duas barras. 
+Uma bobina secundária envolve as duas barras ferromagnéticas e o 
+enrolamento primário. O campo magnético induzido nas barras pelo 
+enrolamento primário produz uma voltagem no enrolamento secundário. Na 
+ausência de um campo externo, ou seja, se a Terra não tivesse campo 
+68 
+magnético nenhum, a voltagem detectada no enrolamento secundário seria 
+zero, porque os campos magnéticos gerados nas duas barras têm a mesma 
+intensidade, mas direções opostas, se cancelando. 
+Se os núcleos forem alinhados em paralelo com a componente do 
+campo magnético externo, uma barra produzirá um campo magnético orientado 
+na mesma direção do campo externo. A outra estará em oposição ao campo , 
+produzindo um campo induzido que será menor. Esta diferença é suficiente 
+para induzir uma voltagem mensurável no enrolamento secundário, 
+proporcional à intensidade do campo magnético em direção às barras. 
+Desta forma, o magnetômetro de fluxgate é capaz de medir a 
+intensidade de qualquer componente do campo magnético da Terra, 
+simplesmente orientando o instrumento de forma que os núcleos estejam 
+paralelos a componente desejada, com precisão de 0,5 a 1,0 nT (Telford, 1990; 
+L.V. Barros, 2004). 
+Existem várias fontes fundamentais de erro no magnetômetro de 
+fluxgate, as quais incluem fontes inerentes do não balanceamento nas duas 
+barras, térmica, de choque nas barras, gerando ruído, imperfeição nos 
+circuitos, e sensitividade térmica (1 nTl°C ou menos). No entanto, estas 
+desvantagens são mínimas comparadas às vantagens óbvias: leitura direta, 
+nenhuma orientação azimutal, requerimentos de nivelamento grosseiros, baixo 
+peso (de 2 a 3 kg), tamanho pequeno, e sensibilidade razoável (Telford, 1990). 
+69 
+5.4.2.Magnetrômetro de Precessão Nuclear 
+Este instrumento originou-se do descobrimento, em 1945, da 
+ressonância magnética nuclear. Alguns núcleos têm um momento magnético 
+resultante que acoplado com seu spin causa uma precessão próxima do campo 
+magnético axial. 
+O magnetômetro de precessão nuclear depende da medida de da 
+freqüência de precessão livre dos prótons (núcleo de hidrogênio) polarizados 
+na direção aproximadamente normal à direção do campo da Terra. Quando o 
+campo polarizado é removido de repente, os prótons precessam sobre o 
+campo da Terra como um pião; o campo da Terra gera a força de precessão 
+correspondente a gravidade no caso do_pião (figura 21 ). 
+C ampo m apaético 
+da T en a J.\.lomeuto 
+F Ma gnético 
+" C iclo d e 
+T o1·que ma gnético 
+no próton 
+p olarização 
+Moment.o 
+de Spin 
+.... --
+e . ' -.---a m p o gn"uneó'ICO 
+da T el'l'a 
+'· 
+C iclo de 
+1·otação 
+M om ento 
+Torque g1•avitacion:d 
+no topo 
+Figura 21: Analogia entre a precessão nuclear e pião (Telford, 1990). 
+70 
+A precessão desses prótons a uma velocidade angular w, conhecida 
+como Freqüência de Precessão de Larmor, é proporcional ao campo magnético 
+F, segundo a equação: 
+Onde a constante r p é a taxa giromagnética do próton, taxa do seu 
+momento magnético pelo momento angular do spin. O valor de rp é conhecido 
+com uma precisão de 1 em 107 , devido às altas freqüências relativas 
+envolvidas. Como a medida de uma freqüência precisa é relativamente fácil, o 
+campo magnético pode ser determinado com a mesma precisão. O próton 
+move-se induzindo, em um fio ao redor da amostra, uma voltagem que varia 
+coma freqüência de precessão v. Assim, pode-se determinar o campo 
+magnético através da equação: 
+(XXII) 
+2n Onde o fator - = 23,487 ± 0,002n T I Hz . Apenas o campo total pode ser rp 
+medido (Telford, 1990). 
+O sensor do magnetômetro de precessão nuclear é constituído de um 
+recipiente cilíndrico, envolvido por uma bobina, cheio de um líquido rico em 
+átomos de hidrogênio. Dentre os líquidos comumente usados estão água, 
+querosene e álcool. A bobina do sensor é conectada a um a pequena unidade 
+71 
+na qual estão alojados uma bateria, um interruptor eletrônico, um amplificador e 
+um freqüencímetro. 
+Quando o interruptor está fechado, uma corrente contínua, fornecida 
+pela bateria, passa pelo enrolamento, produzindo no cilindro com fluído um 
+campo magnético relativamente forte. Os núcleos de hidrogênio (prótons) se 
+comportam como minúsculos imãs dipolares girando, alinhados na direção do 
+campo aplicado (ao longo do eixo do cilindro). A corrente no enrolamento é 
+então cortada, com a abertura do interruptor. Como o campo magnético da 
+Terra gera um torque nos núcleos alinhados, estes, ao girarem, começam a 
+efetuar um movimento de precessão ao redor da direção do campo total da 
+Terra, que induz uma pequena corrente alternada no enrolamento. A 
+freqüência da corrente alternada gerada é igual à freqüência de precessão dos 
+núcleos, pois a freqüência de precessão é proporcional à intensidade do campo 
+total. 
+A intensidade do campo total pode ser medida com uma precisão de O, 1 
+nT. Como os magnetômetros de fluxgate, os magnetômetros de precessão 
+nuclear não apresentam uma grande flutuação instrumental com o tempo. 
+Uma das vantagens importantes do magnetômetro de precessão nuclear 
+é sua facilidade de uso e confiabilidade. Nem orientação nem nivelamento são 
+necessários, com exceção para ângulos maiores que 40º em relação ao campo 
+magnético da Terra , onde há necessidade de ser fixada a orientação do 
+sensor. Porém , se o campo magnético mudar rapidamente de um lugar para 
+outro (da ordem de 600 nT/m ), diferentes partes do sensor cilíndrico serão 
+influenciadas por campos magnéticos de várias magnitudes e as leituras serão 
+seriamente comprometidas. Finalmente, como o sinal gerado por meio da 
+72 
+precessão é pequeno, este instrumento não pode ser usado próximo a fontes 
+de corrente alternada (L.V. Barros, 2004). 
+5.4.3. Magnetômetro de Bombeamento Ótico 
+Na presença de um campo magnético externo, o campo da Terra, por 
+exemplo, os elétrons de valência de um elemento têm o seu nível estável de 
+energia separado em dois subníveis: um deles corresponde ao estado em que 
+o momento magnético devido ao spin do elétron é paralelo ao campo 
+magnético, e o outro em que ele é antiparalelo ao campo magnético. A 
+excitação desses elétrons por uma radiação produz dois novos subníveis de 
+energia, que correspondem aos estados paralelos e antiparalelos descritos. A 
+diferença de energia entre os subníveis estáveis ou entre os subníveis 
+excitados é proporcional à intensidade do campo magnético. 
+No magnetômetro de bombeamento ótico, os elétrons do nível de 
+energia mais externo são excitados por meio de uma fonte luminosa especial, 
+de modo a deslocar (bombear) os elétrons de um dos subníveis estáveis para o 
+correspondente subnível excitado (paralelo ou antiparalelo). A fim de que 
+somente um dos subníveis tenha os seus elétrons bombeados , a luz deve ser 
+polarizada. 
+Para entendimento do processo, suponha que a luz polarizada permite 
+excitar os elétrons do subnível que corresponde ao estado paralelo. À medida 
+que os elétrons do subnível estável vão sendo removidos para o subnível 
+excitado, o elemento irradiado vai se tornando cada vez mais transparente à 
+73 
+luz de irradiação. No momento em que todos os elétrons forem removidos, o 
+elemento torna-se totalmente transparente, o que pode ser verificado 
+monitorando-se a corrente elétrica em um detector fotossensível, que 
+aumentará até atingir um máximo , quando todos os elétrons do subnível 
+estável tiverem sido removidos. O elemento passa, então, a ser irradiado com 
+ondas eletromagnéticas na faixa de rádio-freqüência, a fim de que os elétrons 
+do subnível estável antiparalelo sejam removidos para o subn ível estável 
+paralelo, agora vazio (figura 22). 
+----B 
+11
+8 C'otrente 
+Distribuição;.,.-------++-=--- ---------:]\ :r\hcrômetro iiin 
+11 •~;1dônúc a Ai ~ 81 ••8 ~', /~[(~1;}::·: :!--::-0::-=~ 
+u • • A, ,. * - j Yl_j 
+8 L fimp adn Filtro: C~lula de F otoceh tla 
+i·emo ve a linha b . .. Corrente 
+6 
+~: ;(i°iit~JAI~~ 
+Bombeameu to I" -p· :"~ 
+7 Comp leto - ----------J C o1r1'nte 
+1 1 1 1 t 1 1 , A, hfiu. 
+-~l ~~~-Í -- -- ~----A-::E.Lll 
+Bomb~:un~uto c auce l~do 'll""f~.:-:-]f:l- ;--_r--\t ~ 
+8 pelo siual RF I t 
+• IZ '19' Z ~: Sinal RF 
+(a) ressomu1te (b) 
+Figura 22: Bombeamento óptico. (a) Níveis de energia de transição. (b) Efeito 
+do bombeamento na transmissão de luz (Te/ford, 1990). 
+A freqüência da onda que consegue mover os elétrons entre os 
+subníveis é igual à razão Elh, sendo E a diferença de energia entre os 
+subn íveis e h a constante de Planck. 
+Os elementos césio, rubídio, sódio e hélio são comumente usados nos 
+magnetômetros, pois a diferença de energia entre os subníveis, nesses 
+elementos, apresenta valores que podem fornecer medidas precisas do campo 
+magnético da Terra. 
+74 
+O elemento césio e um sistema de irradiação com feixe de luz à 45º do 
+campo magnético são muito empregados nos magnetômetros de 
+bombeamento ótico, devido à facilidade operacional. Neles, após a irradiação, 
+os elétrons excitados retornam à estabilidade girando em torno do campo 
+magnético da Terra F, segundo a equação: 
+F = 2nv (XXlll) 
+Ye 
+Onde n é a freqüência de giro e Ye é a razão giromagnética do elétron, 
+cujo os valores são determinados para cada átomo. 
+Para medidas relativas do campo magnético, a sensibilidade deste tipo 
+de magnetômetro chega a 0,01 nT, em uma faixa de valores que vai 
+normalmente de 10 000 a 200 000 T (J.G. Luiz, 1995; Telford, 1990). 
+5.4.4. Gradiômetro 
+Os gradiômetros são magnetômetros que possuem dois sensores 
+idênticos, espaçados de uma distância fixa e pequena em relação às fontes de 
+anomalia sob investigação. A diferença na intensidade do campo , medida nos 
+dois sensores, é dividida pela distância entre eles, para fornecer o gradiente 
+(em nT/m) do ponto médio entre os sensores. 
+Nos levantamentos terrestres, a distância entre os sensores é 
+comumente de 1 a 2 m, enquanto nos levantamentos aéreos é de 30 m. Na 
+maioria dos levantamentos, o gradiente m edido é o vertical. As m edidas de 
+75 
+gradiente são isentas dos efeitos da variação diurna do campo e dos efeitos de 
+fonte distantes. 
+O gradiômetro é essencialmente formado por uma par de 
+magnetômetros de elevada sensibilidade, por exemplo, de precessão nuclear 
+e de bombeamento ótico (J.G. Luiz, 1995; Telford, 1990). 
+5.4.5. Calibração de Magnetômetros 
+Os magnetômetros devem ser calibrados colocando-os em um campo 
+magnético apropriado: orientado, e de valor conhecido. A maioria dos métodos 
+de calibração implica em um fio de Helmholtz grande o suficiente para dar uma 
+volta no instrumento. 
+A bobina de Helmholtz trata-se de um par idêntico de fios com N voltas 
+e um raio coaxial a espaçado a uma distância entre si igual ao raio. O campo 
+magnético resultante, para uma corrente I circulando através dos fios 
+conectados em série, é direcionado ao longo do eixo e é uniforme, 
+aproximadamente 6% , sobre um cilindro de diâmetro a e comprimento 3a/4, 
+concêntrico aos fios. Este campo é dado por (Telford, 1990): 
+(XXIV) 
+Onde temos I em microampére, Hem nanotesla e a em metros. Como H 
+varia diretamente com a corrente, a equação acima pode ser escrita da 
+seguinte forma: 
+Ml=9NM 
+a 
+5.5. Procedimentos de Campo 
+76 
+(XXV) 
+Devido ao fato de o levantamento magnético ser, geralmente, bem mais 
+barato que os outros levantamentos geofísicos, as observações magnéticas 
+são comumente usadas em etapas de reconhecimento. Esses levantamentos 
+podem cobrir grandes áreas e serem utilizados para identificar a localização de 
+anomalias para futuras investigações mais detalhadas (L.V. Barros, 2004). 
+Os dados magnéticos podem ser coletados das seguintes formas: 
+levantamentos terrestres, marinhos e aéreos, os quais são descritos 
+detalhadamente abaixo. 
+5.5.1. Levantamentos Terrestres 
+Nos levantamentos terrestres mede-se principalmente valores absolutos 
+do campo magnético (campo total) ou da sua componente vertical. A 
+componente horizontal quase nunca é medida. Raras também são as medidas 
+de gradiente do campo. Nos trabalhos de detalhe, a amostragem do campo 
+magnético é feita ao longo de picadas transversais à estrutura. O espaçamento 
+de amostragem varia normalmente entre 1 O e 100 m. 
+77 
+O instrumento utilizado nas medidas do campo total é normalmente o 
+magnetômetro de precessão nuclear, enquanto as medidas na vertical são 
+realizadas com magnetômetro fluxgate. 
+Durante o levantamento é comum o uso de dois magnetômetros, um fixo 
+na estação base, e o outro no levantamento propriamente dito. O 
+magnetômetro que permanece na estação base registra as variações diurnas 
+do campo usadas para corrigir os valores medidos com o outro magnetômetro, 
+além disso, os dois magnetômetros registram a hora em que cada medida é 
+feita. 
+Caso somente um magnetômetro esteja disponível, é necessário 
+interromper-se o levantamento periodicamente (a intervalos de 2 a 3 horas) e 
+voltar a medir o campo na estação base onde se iniciou a medida, a fim de se 
+ter um controle da variação diurna do campo magnético. 
+Com os magnetômetros que fornecem as medidas na forma digital, é 
+necessário efetuarem-se de 3 a 5 medidas em cada ponto, obtendo-se um 
+valor médio com uma confiabilidade maior. Valores muito discrepantes (com 
+erro maior que 3 nT) podem ser causados por: mau funcionamento do 
+equipam ento, gradientes magnéticos muito fortes, tempestades magnéticas e 
+metereológicas (J.G. Luiz, 1995). 
+78 
+5.5.2. Levantamentos Marinhos 
+Nas áreas cobertas por água as medidas magnéticas podem ser 
+realizadas tanto com auxílio de embarcações, como de aviões. O uso de 
+embarcações, no entanto, é muito restrito, pois torna o levantamento mais lento 
+e mais caro. Por esse motivo, a maioria dos levantamentos magnéticos 
+realizados com embarcações visa estudos oceanográficos de larga escala ou a 
+localização de objetos metálicos. Na prospecção de petróleo, o levantamento 
+magnético com embarcações é vantajoso apenas quando realizado 
+simultaneamente com levantamento gravimétrico ou sísmico. 
+Quando se usam embarcações, o sensor deve ser colocado a uma 
+distância tal que não seja afetado pelo material magnético de bordo. Para isso, 
+o sensor é normalmente instalado em um cilindro à prova d'água, denominado 
+de peixe, que é puxado pela embarcação. A distância do peixe à embarcação 
+varia, normalmente, de 150 a 300 m . 
+O peixe é geralmente puxado a uma profundidade de 15 a 20 m abaixo 
+da superfície das águas, com uma velocidade que não ultrapassa 7,72 m /s, 
+velocidades acima desse valor pode causar ruído, e por isso devem ser 
+evitadas. 
+O magnetômetro mais empregado nesse tipo de levantamento é o de 
+precessão nuclear. O registro das medidas é feito de modo contínuo na 
+embarcação, que recebe sinal via conexão elétrica com o sensor (J.G. Luiz, 
+1995). 
+79 
+5.5.3. Levantamentos Aéreos 
+Os levantamentos aéreos são realizados com aviões ou helicópteros. O 
+uso de helicópteros permite que os levantamentos sejam feitos a altitudes 
+menores e seja mantida a uma altitude constante em relação ao terreno. Essas 
+condições de vôo são importantes, principalmente, quando o alvo é 
+relativamente pequeno, e também por facilitar os levantamentos com linhas de 
+vôo pouco extensas e pouco espaçadas. 
+Quando o objetivo é a localização de feições geológicas de grandes 
+dimensões, como requerido no mapeamento regional e na prospecção de 
+petróleo, não são, em geral, necessárias pequenas alturas de vôo, nem manter 
+altura rigorosamente constante acima do nível do terreno. Nesse casso os 
+levantamentos são normalmente realizados com aviões. 
+A altura de vôo empregada nos levantamentos é, em média, de 150 m , 
+podendo variar de 50 a 450 m , de acordo com as dimensões do alvo. As 
+alturas de vôo maiores possibilitam que o efeito magnético das pequenas 
+fontes de anoma lia indesejáveis, quando se procura fontes extensas, não seja 
+incorporado às medidas. Com o aumento da altura podemos observar os 
+seguintes efeitos: diminuição da magnitude da anomalia, alargamento da 
+anomalia, diminuição da anoma lia (figura 23). 
+3000 
+2000 
+1000 
+30000 
+20 0 00 
+10 0 
+ALTUR A DE VÕO 
+--150m 
+---300m 
+- ---- 600m 
+····--····· 900 m 
+80 
+(a) 
+E 
+e bl 
+Figura 23: Efeíto da altura do vôo nas anomalias magnéticas: (a) levantamento 
+aéreo a diversas alturas; (b} levantamento terrestre (J.G . Luiz, 1995). 
+O espaçamento entre as linhas de vôo varia, normalmente, entre 200 e 2 
+000 m, sendo que os menores são geralmente usados por helicópteros. O 
+espaçamento também deve ser escolhido em função das dimensões do alvo, 
+de acordo com Reid (1980, apud J.G. Luiz, 1995), o espaçamento entre as 
+linhas de vôo não deve ser superior a duas vezes a distância entre o sensor e a 
+fonte magnética. 
+Segundo Agocs (1995, apud J.G. Luiz, 1995), a probabilidade P de uma 
+linha de vôo passar sobre anomalias alongadas de comprimento L, em um 
+levantamento com espaçamento S entre as linhas é, para S > L : 
+P= 2L (XXVI) 
+7rS 
+81 
+No caso de anomalias retangulares de comprimento L e largura W, cuja 
+diagonal é menor do que o espaçamento S entre as linhas de vôo, essa 
+probabilidade é , para S > (L2 +W 2)112 : 
+P= 2(L+W) 
+1rS 
+(XXVll) 
+A configuração de vôo amplamente usada consiste de linhas paralelas, 
+com as linhas adjacentes percorridas sempre em sentido oposto e linha de 
+controle, transversais às anteriores, percorridas periodicamente (figura 24). 
+~-
+-
+-
+1 
+1 
+1 
+1 
+1 
+1 
+~ 
+1 
+1 1 • r J i 
+f ~ : : 1 
+1 l 1 1 4 
+1 1 1 1 1 
+1 
+~-
+' ' ' 
+1 1 \ 
+1 
+1 1 1 
+\ ! \ 
+1 
+' . 
+t 
+llnno <te 
+roi. COflt 
+_L. 
+o 
+lífl._0 
+l•YOn 
+: l : 
+•• 
+40 
+to111ento 
+/ 
+·--·~ 
+hnh 
+~~ 
+1 
+Figura 24: Configuração de vôo usada em levantamentos aeromagnéticos 
+(J.G. Luiz, 1995). 
+82 
+A diferença entre as medidas magnéticas, obtida nos pontos de 
+intercessão entre uma linha de controle e uma linha do levantamento, é uma 
+medida da variação diurna do campo e do grau de incerteza do ponto exato da 
+intercessão, tanto no plano horizontal (localização das linhas), como no vertical 
+(variação da altura do vôo). 
+A direção das linhas de vôo deve ser estabelecida com base, tanto na 
+latitude magnética da área do levantamento, como na direção perpendicular à 
+direção de mergulho das camadas da área geológica regional. Nas latitudes 
+médias e altas, onde o campo magnético tem inclinação superior à 40º, a 
+direção das linhas de vôo deve ser perpendicular à direção regional. Nas 
+latitudes baixas, principalmente aquelas em que a inclinação do campo é zero 
+ou muito próxima de zero, se as linhas de vôo são perpendiculares à direção 
+regional, é possível que não se consiga identificar as anomalias de corpos 
+magnetizados (figura 25). 
+Os magnetômetros de precessão nuclear e de bombeamento óptico são 
+os mais utilizados nos levantamentos aéreos. O primeiro para medidas de 
+campo total e o segundo para medidas do gradiente do campo total, devido a 
+sua maior sensibilidade. Estes dois tipos de magnetômetros não necessitam 
+que os seus sensores sejam alinhados com a direção do campo magnético 
+durante as medidas (J.G. Luiz, 1995). 
+nT 
+400 
+nT 
+r 
+2 • 
+nT 
+400 
+·tOO 
+.t 
+100 
+400 
+o 
+·•00 
+83 
+I • 15" 
+·4 •Z o t 
+-· 
+·2 o 2 • 
+Figura 25: Perfis magnéticos calculados para o modelo tabular vertical 
+(comprimento e extensão em profundidade infinitos) de largura igual a 4 vezes 
+a profundidade h do seu topo. Os perfis são perpendiculares à direção do corpo 
+e foram calculados para inclinações do campo magnético 1=0, 15, 30 e 45º , e 
+ângulos entre o norte magnético e a direção do prisma 9 = O a 90º ( a 
+intervalos de 15º). Adaptado de Leão & Silva (1977) -(J.G . Luiz, 1995). 
+5.6. Tratamento dos Dados 
+Os dados magnéticos, logo depois de coletados, quase sempre passam 
+por um processo de tratamento que inclui (J.G. Luiz, 1995): 
+a) correções para eliminar as variações devidas a causas não 
+geológicas, como a variação diurna e o desnível dos pontos de 
+amostragem; 
+b) filtragem para eliminar os efeitos geológicos indesejáveis, como os 
+produzidos por heterogeneidades próximas da s uperfície ou a 
+84 
+interferência entre fontes rasas e profundas, permitindo um melhor 
+reconhecimento das anomalias. 
+5.6.1. Limpeza e interferência Magnética 
+Quando fazemos medidas de campo total, a partir das quais são feitas 
+estimativas da distribuição de susceptibilidade magnética dos materiais em sub 
+superfície, ou inferência sobre a presença de corpos magnetizados na sub 
+superfície, é essencial que fatores que afetam o campo sejam eliminados ou 
+isolados, de forma que seus efeitos nas medidas possam ser removidos. 
+Alguns desses efeitos, como variações espaciais do campo principal da Terra 
+e, principalmente, variações temporais associadas ao campo magnético 
+externo, já foram discutidos na seção 3. Mas além desses fatores que não 
+podemos controlar, há outras fontes de ruído controláveis. 
+Devido ao fato de qualquer substância ferromagnética poder produzir um 
+campo magnético induzido na presença do campo principal da Terra, e como 
+os m agnetômetros modernos são muito sensíveis (O, 1 nT), a pessoa que 
+estiver efetuando o levantamento deve livrar-se de quaisquer objetos metálico 
+(brincos, fivelas de cinto, óculos, etc). Como resultado, geralmente os 
+magnetômetros de precessão nuclear são colocados sobre um mastro de dois 
+a três metros para afastar de possíveis fontes de ruídos usadas pelos 
+operadores. 
+Além de fontes de ruído levadas pelos operadores, podem ser 
+encontradas muitas outras no ambiente. Estas podem incluir objeto férrico 
+com o casas, cercas, carros, etc. Finalmente, quando se utiliza um 
+85 
+magnetômetro de precessão nuclear, é difícil obter leituras fidedignas próximas 
+a fontes de corrente AC, como fios e transformadores de iluminação urbana 
+(L.V. Barros, 2004). 
+5.6.2. Correção da Variação Diurna 
+Nos levantamentos terrestres podem ser empregados dois 
+procedimentos na correção da variação diurna (J.G. Luiz, 1995): 
+a) quando há disponibilidade de dois magnetômetros, um deles registra 
+o campo magnético continuamente ou a intervalos de 5 a 15 minutos, 
+em uma estação fixa (estação base), enquanto o outro é utilizado 
+para medir o campo nas diversas estações, a hora em que os dois 
+magnetômetros efetuam as medidas deve ser anotada. A correção 
+do valor medido em uma determinada estação é feita somando -se ou 
+subtraindo-se ao mesmo a variação do campo observada no 
+magnetômetro de base, no memento da medida; o valor é somado se 
+o campo magnético na estação fixa diminuiu em relação ao primeiro 
+valor medido naquele dia e diminuído no caso inverso. 
+b) quando há disponibilidade de um único magnetômetro, uma estação 
+do levantamento é reocupada periodicamente, e a variação nas 
+medidas obtidas nessa estação é distribuída linearmente com o 
+tempo. 
+Nos levantamentos aéreos, um magnetômetro é deixado comumente 
+fixo, em terra, registrando continuamente, ou a intervalos regulares. Como , em 
+geral, as áreas aerolevantadas são muito extensas, é possível que um a única 
+86 
+estação base não forneça medidas satisfatórias para a correção diurna, como 
+mostram Whitham & Niblett (1961) para latitudes entre 48ºN e 75ºN, num raio 
+aproximado de 160 km. Como o uso de várias estações base é anti-econômico 
+e de difícil implementação logística, a correção diurna nos aerolevantamentos é 
+basicamente realizada a partir da distribuição da discrepância entre as medidas 
+obtidas nos pontos da intercessão das linhas de vôo com as linhas de controle, 
+após serem eliminados os efeitos produzidos por erros nos posicionamentos 
+horizontais e verticais das linhas. 
+O procedimento geral para correção da variação diurna em 
+aerolevantamentos consiste em estimar a variação diurna em cada linha de 
+vôo, presumindo que essa variação seja suave e possa ser representada por 
+um polinômio, cujos coeficientes podem ser obtidos através da minimização 
+das discrepâncias medidas nos pontos de intercessão das linhas de vôo com 
+as linhas de controle (Foster et ai. 1970; Yager et ai. 1978 apud J.G . Luiz, 
+1995). Desse modo as medidas obtidas na estação base localizada em terra 
+são usadas quase exclusivamente para verificar se a variação diurna do campo 
+é realmente suave e para detectar tempestades magnéticas (J.G. Luiz, 1995). 
+5.6.3. Correção Topográfica 
+O efeito da topografia se faz sentir nas medidas magnéticas terrestres, 
+principalmente devido ao elevado contraste magnético entre o terreno e o ar. 
+Por exemplo, nas encostas de vales, onde o sensor fica mais próximo do 
+terreno, além de ser envolvido por um volume maior de material magnetizado. 
+87 
+O efeito produzido pela proximidade do terreno é, porém, de menor intensidade 
+do que o provocado pela magnetização do terreno. Gupta & Fitzpatrick ( 1975, 
+apud J.G. Luiz, 1995) apresentam evidências de efeitos magnéticos 
+produzidos por topografia que chegam a alcançar valores superiores a 200 nT 
+(figura 26). 
+Figura 26: Efeito magnético da topografia de um terreno com susceptibilidade 
+magnética próxima de 0,007 unidades cgs. Adaptado de Gupta & Fitzpatrick 
+(1971) -(J.G. Luiz, 1995). 
+Nos levantamentos aéreos realizados a uma altura de vôo constante em 
+relação ao nível do mar, um terreno magnetizado e com desníveis topográficos 
+pode esconder as anomalias produzidas por corpos magnetizados finitos, ainda 
+que a magnetização desses corpos seja 1 O vezes superior à do terreno 
+(Bhattacharyya & Chan 1977b apudJ.G . Luiz, 1995). Nesse caso, as elevações 
+produzirão valores mais intensos de campo magnético do que os vales, pois 
+estarão mais próximos do sensor do instrumento de medidas. Para minimizar 
+esse efeito Bhattacharyya & Chan (1977b apud J.G. Luiz, 1995) apresentam 
+uma técnica que consiste em reduzir os dados para uma superfície paralela à 
+superfície topográfica. Os resultados da aplicação desta técnica são discutidos 
+por Wynn & Bhattacharyya (1977 apud J.G. Luiz, 1995) e Grauch & Campbell 
+(1984 apud J.G. Luiz, 1995), onde estes últimos mostram que a técnica 
+aumenta a amplitude das anomalias, mas faz com que a profundidade do topo 
+88 
+dos corpos seja estimada a menor, com erros superiores a 50%. Outras 
+técnicas para corrigir o efeito topográfico nas medidas magnéticas são 
+descritas por Plouff e Grauch (1976 e 1987 apud J.G . Luiz, 1995), para terreno 
+com magnetização constante e variável, respectivamente. 
+O efeito topográfico depende basicamente da intensidade de 
+magnetização do terreno. Em área onde ocorrem rochas fracamente 
+magnetizadas, como as sedimentares, o efeito topográfico é fraco e a correção 
+pode ser dispensada. Em áreas de rochas intrusivas e vulcânicas, entretanto, a 
+topografia pode causar sérias interferências, prejudicando a interpretação dos 
+dados. 
+Na prática, embora o efeito topográfico dos terrenos magnetizados seja 
+reconhecido, a correção é quase sempre não aplicada, devido a sua difícil 
+implementação, por falta de conhecimento preciso da topografia e da 
+distribuição espacial da magnetização. Por isso, é aconselhado ao intérprete 
+conhecer a topografia da área, a fim de que ele possa separar, 
+qualitativamente, o seu efeito daqueles produzidos por feições geológicas 
+estruturais ou litológicas (J.G. Luiz, 1995). 
+89 
+5.6.4. Remoção do IGRF 
+As anomalias magnéticas são perturbações ou desvios do campo 
+geomagnético terrestre (campo magnético normal). Desse modo, para definir 
+uma anomalia é necessário subtrair-se o valor do campo normal de cada 
+medida tomada no levantamento. O campo normal é representado pelo IGRF e 
+seus valores podem ser encontrados em tabelas e mapas, ou gerados em 
+computador por algoritmos como Malin & Barraclough (1981 apud J.G. Luiz, 
+1995). 
+Nos levantamentos realizados em áreas pouco extensas como as da 
+prospecção de minérios, um único valor de IGRF tomado para o centro da área 
+é subtraído de todas as medidas efetuadas na área. Em áreas extensas, é 
+necessário usar diversos valores de IGRF: a área é dividida em sub-áreas e 
+cada uma terá um valor IGRF para o seu centro ou um valor de IGRF é tomado 
+para cada posição de medida, dependendo da precisão do levantamento (J.G. 
+Luiz, 1995). 
+5.6.5. Redução ao Pólo 
+O caráter dipolar do campo magnético terrestre faz com que a direção 
+da intensidade do campo varie ao longo da superfície terrestre. Por isso, a 
+componente da magnetização induzida de uma fonte produzirá diferentes 
+padrões anômalos, quando localizada em diferentes latitudes. Para efeito de 
+comparação, deve-se mencionar que a anomalia gravimétrica de uma fonte 
+90 
+tem a mesma forma em qualquer latitude, porque o campo gravitacional tem 
+uma única direção, que é a vertical. 
+A variação na forma das anomalias magnéticas torna complexa a análise 
+dos dados. Esse problema pode, entretanto, ser contornado transformando-se 
+os dados originalmente coletados em qualquer latitude, para onde a inclinação 
+do campo é 90º (pólo magnético). Após a transformação, os dados podem ser 
+analisados como se tivessem sido coletados no pólo, onde magnetização 
+induzida pelo campo tem a direção vertical, à semelhança do campo 
+gravitacional. O desenvolvimento desse procedimento, denominado de redução 
+ao pólo, foi introduzido no tratamento dos dados magnéticos por Baranov (1957 
+apud J.G. Luiz, 1995). 
+Para que uma determinada anomalia seja reduzida ao pólo é necessário 
+que se conheça a direção de magnetização da fonte de anomalia. Por esse 
+motivo, na prática, a redução ao pólo somente fornece resultados satisfatórios 
+quando a anomalia é produzida por magnetização induzida. A presença de 
+magnetização remanescente quase sempre modifica os resultados, a menos 
+que se conheça a sua direção. 
+A redução ao pólo auxilia na interpretação dos dados magnéticos, por 
+permitir que se localize mais facilmente a posição das fontes de anomalias e 
+evidenciar a existência de magnetização remanescente (J.G. Luiz, 1995). 
+91 
+5.7. Interpretação 
+A interpretação de dados magnéticos é, em vários aspectos, similar à 
+interpretação de dados gravimétricos. Em magnetometria, no entanto, existe 
+uma complexidade maior, devido ao caráter dipolar do campo magnético, em 
+contraste com o campo monopolar gravimétrico. Por causa do seu caráter 
+dipolar, o campo magnético apresenta diferentes direções ao longo da 
+superfície terrestre e tem inclinação que varia de 0° no equador magnético até 
+90º nos pólos. Isso faz com que uma determinada fonte produza anomalias 
+diferentes, quando localizada em diferentes latitudes. O mesmo não acontece 
+em gravimetria: a anoma lia gravitacional de uma determinada fonte é semp re a 
+mesma , independente da latitude onde a fonte.se encontra. 
+Outro fator que torna complexa a interpretação magnética é a presença 
+de magnetização remanescente, especialmente se ela é de grande intensidade 
+e não e~tá alinhada com a magnetização induzida. A existência de remanência 
+pode m<;>dificar a forma da anomalia, a ponto da resposta teórica calculada .para 
+o modelo da fonte, ser completamente diferente da anomalia observada. A 
+interpretação poderá, contudo, ter êxito se a remanência ou a forma da fonte 
+de anomalia for conhecida a priori. 
+As med idas magnéticas podem fornecem informações sobre 
+alinhamentos estruturais, contatos geológicos, limites de bacias sedimentares e 
+parâmetros de um corpo mineralizado (susceptibilidade, profundidade, 
+dimensões, mergulho). 
+A amb igüidade está presente na interpretação dos dados magnéticqs. 
+Desse modo , diferentes distribuições de magnetização em 
+92 
+subsuperfície podem ser utilizadas para explicar uma mesma anomalia (J.G. 
+L.:uiz, 1995). 
+5. 7 .1. Curvas Características 
+As curvas características são um conjunto de curvas construídas com 
+valores de parâmetros retirados de perfis calculados ou medidos em 
+laboratório, sob condições que simulam as fontes de anomalias encontradas na 
+natureza. 
+As curvas características permitem que se estimem os parâmetros de 
+um modelo (profundidade espessura, mergulho, etc). Os parâmetros assim 
+determinados devem ser utilizados como uma primeira aproximação da 
+interpretação, pois o seu resultado usa apenas a informação contida em 
+poucos pontos do perfil anômalo, sendo, portanto, bastante influenciado pelas 
+distorções causadas por· ruído magnético. Esse tipo de interpretação é 
+comumen te utilizado no campo e auxilia nas decisões a serem tomadas sobre 
+o desenvolvimento do trabalho de prospecção. Desse modo pode-se, ainda no 
+campo, recomendar o detalhamento de certa zona, estender os perfis 
+geofísicos, ou projetar a aplicação de um outro método (J.G. Luiz, 1995). 
+93 
+5.7.2. Camada Equivalente 
+A camada equivalente magnética consiste de uma distribuição de 
+magnetização superficial, caracterizada por momentos magnéticos por unidade 
+de área, capaz de produzir o mesmo efeito magnético que uma distribuição 
+volumétrica de magnetização (momentos magnéticos por unidade de volume). 
+O potencial magnético, em termos de uma distribuição superficial de 
+magnetização, localizada a uma profundidade h, é dado por (Gunn 1975 apud 
+J.G . Luiz, 1995): 
+A(x,y,z)=-jj1s(a,,B,h)u·'V(( )' (y 
+1 
+)' ( )'kad/l ____ x- a + - ,B + z- h J 
+(XXVlll) 
+Sendo u o vetor unitário que define a direção constante de 
+magnetização e Is a magnetização superficial à profundidade h. 
+O campo magn ético para essa distribuição de magnetização é obtido 
+calculando-se o gradiente de A através da equação: 
+H=-'VA (XXIX) 
+De sse modo , o conhecimento do campo magnético em um nível z 
+permite que se calcule Is para uma profundidade h, valor esse que é único, de 
+acordo com Roy (1962 apud J.G. Luiz, 1995). A partir da determinação de Is, é 
+possível calcular-se o potencial m agnético e o campo em qualquer nível z < h, 
+94 
+operação essa conhecida como continuação do campo (Gunn 1975 apud J.G. 
+Luiz, 1995). 
+A camada equivalente magnética pode ser usada não só na continuação 
+do campo , como também na operação de redução ao pólo, no cálculo de 
+derivadas do campo, na conversão de uma componente medida em outra e no 
+desenho de filtros de separação dos efeitos de fontes rasas e profundas (Gunn 
+1975 apud J.G. Luiz, 1995). Também a interpolação do valor do campo medido 
+em dois pontos pode ser obtida através da camada equivalente; essa 
+interpolação produz resultados excelentes na construção do grid, usado na 
+elaboração de mapas magnéticos (J.G. Luiz, 1995). 
+5.7.3. Estimativas de Profundidade 
+A determinação da profundidade do corpo responsável por uma 
+anomalia é o objetivo da prospecção, pois ela permite o planejamento de 
+sondagens, além de contribuir para a definição do valor econômico de um 
+depósito mineral. 
+Em geral, os métodos de estimativa de profundidade dependem do 
+modelo escolhido para representar o corpo e das incertezas decorrentes da 
+95 
+ambigüidade geofísica. A profundidade máxima do topo do corpo pode, 
+entretanto, ser estimada sem que se presuma um modelo para o mesmo , por 
+meio das chamadas fórmulas de Smith (Smith 1959). 
+Para um corpo com magnetização de direção constante e intensidade 
+que pode ser variável, as fórmulas de Smith são: 
+(XXX) 
+e 
+(XXXI) 
+Sendo h a profundidade do corpo; /, m, n os cossenos diretores que 
+definem a direção de magnetização; l,M a intensidade máxima de 
+magnetização; M''mx o valor máximo do módulo da derivada horizontal do 
+campo anômalo e M'",,t• o valor máximo do módulo da segunda derivada 
+horizontal do campo anômalo. 
+As fórmulas de Smith descritas acima dependem do conhecimento da 
+intensidade máxima de magnetização. Na prática, esse parâmetro quase nunca 
+está à disposição do intérprete, que para resolver o problema usa possíveis 
+aproximações do seu valor real. Neste caso, a estimativa de h é imprecisa e 
+pouco confiável. Por outro lado, estudos teóricos têm demonstrado que o uso 
+de um modelo inadequado não é crítico para a determinação da profundidade 
+da fonte de anomalia, pois o parâmetro profundidade está entre os que são 
+96 
+estimados com maior precisão na interpretação com o método de inversão, 
+mesmo com modelos incorretos (Silca e Hohmann 1981, 1983 apud J.G. Luiz, 
+1995). 
+5.7.4. Desmagnetização 
+Desmagnetização é um efeito que aparentemente reduz a intensidade de 
+magnetização de um corpo, produzindo uma magnetização aparente: 
+(XXXll) 
+Com ka, a susceptibilidade aparente. Relacionando-se à susceptibilidade 
+verdadeira do corpo por (Grant & West, 1965): 
+Sendo No fator de desmagnetização. O valor de N depende da forma do 
+corpo e varia de zero, para corpos em forma de agulha que são magnetizados 
+ao longo de seu eixo, a 40 , para placas de magnetização normal às suas 
+faces. O efeito da desmagnetização pode, entretanto, ser ignorado quando os 
+valores da susceptibilidade são menores que 0,01 emu; valores esses 
+encontrados na maioria das rochas. Somente em corpos maciços de magnetita 
+ou pirrotita, quando a susceptibilidade pode alcançar valores superiores a O, 1 
+emu, o efeito pode tornar-se significativo. 
+97 
+Devido ao efeito da desmagnetização ser pouco encontrada no ambiente 
+geológico, a maioria das técnicas de interpretação descritas na literatura não o 
+inclui. (J.G. Luiz, 1995). 
+98 
+6. ESTUDO DE CASO 
+6.1. Introdução 
+Neste trabalho serão apresentados os resultados da interpretação 
+aeromagnética realizado na zona centro ocidental do estado de Apure, 
+especificamente no quadrante compreendido entre as coordenadas 6º e 8º da 
+latitude Norte e 67º e 70º da longitude Oeste. 
+Entre os principais objetivos deste trabalho destacam-se: 
+1. Aplicar aos dados magnéticos na área de Apure uma seqüência de pós­
+processamento com a finalidade de utilizá-los na geração de um mapa 
+de intensidade magnética total. 
+2. Gerar um mapa representativo do topo do embasamento na área de 
+estudo, mediante procedimentos de inversão de dados potenciais. 
+3. Gerar um mapa onde se representam os principais lineamentos do 
+embasamento na área de estudo, a partir da interpretação qualitativa e 
+quantitativa dos mapas gerados a partir dos dados potenciais. 
+Obteve-se, neste trabalho, como resultado do processo de inversão, foi 
+estimada a profundidade do embasamento ígneo-metamórfico, utilizando tanto 
+a inversão magnética mediante o método proposto por Spector e Grant em 
+1970, como a inversão gravimétrica utilizando basicamente o método proposto 
+99 
+por Talwani (Talwani, 1960; Bhaskara, 1991; Barbosa, 1999), obtendo, 
+mediante ambos os métodos, resultados correlacionáveis. 
+Como parte fundamental deste processo, realizou-se a separação 
+regional-residual das anomalias magnéticas a partir da utilização de diversos 
+filtros matamáticos digitais aplicados aos dados potenciais, para obter mapas 
+que representem as características geológicas estruturais da zona de estudo. 
+6.2. Localização e geologia da zona de estudo 
+Embora já tenha sido feito a localização e um estudo geológico da bacia 
+de Barinas-Apure anteriormente, para realizarmos este estudo de caso teremos 
+que refazê-lo agora mais especificamente para a área de estudo. 
+6.2.1 Localização da zona de estudo 
+A bacia de Barinas-Apure compreende uma área de aproximadamente 
+95.000 km 2, estendendo-se entre a Cordilheira dos Andes e o Escudo da 
+Guayana. A bacia possui os seguintes limites estruturais: a Cordilheira dos 
+Andes a noroeste, o Arco do Baú a leste, o qual a separa da sub-bacia de 
+Guárico, e o Arco e Arauca a sul e oeste, a qual constitui na divisão com a 
+Bacia de Meta (Portilla, 2000). 
+100 
+A área de estudo se encontra situada a sudoeste da Venezue la, estado 
+de Apure, especificamente na zona delimitada pelos paralelos 6º e 8º Norte e 
+pelos meridianos 67º e 70º Oeste (figura 27), abrangendo uma superfície de 
+aproximadamente 74.000 km 2, que compõe a zona sul da bacia de Barinas-
+Apure. 
+' ,, 
+'1 Colombia 
+1W 
+'r ....... ;,;;;:,·· .1 I 
+Figura 27: Localização da área de estudo (Sousa, F.G.F., 2002). 
+O embasamento da região de Apure, cujo estudo é o principal objetivo 
+deste trabalho, é composto de rochas ígneo-metamórficas da idade Pré-
+Cambriana e Paleozóica (WEC, 1997), por isso a importância de se 
+compreender a evolução e localização destes terrenos a um nível mais 
+regional. 
+101 
+6.3. Dados Aeromagnéticos 
+Durante o desenrolar deste trabalho processou-se, interpretou-se e se 
+modelou dados magnéticos, os quais representam campos potenciais 
+terrestres, por isso dedicar-se-á este capitulo a um breve estudo teórico do 
+método. 
+6.3.1.Fundamentos Teóricos 
+Os métodos magnéticos constituem uma ferramenta útil na localização 
+de rochas caracterizadas por alta susceptibilidade magnética, como é o caso 
+das rochas que formam o embasamento ígneo-metamórfico de uma bacia 
+sedimentar. Os levantamentos aeromagnéticos são utilizados, comumente, nas 
+primeiras etapas da exploração e fornecem informações amplas sobre a 
+geologia e estrutura da área de estudo. 
+Os mapas de anomalia magnética refletem a distribuição de minerais 
+magnéticos nas rochas do subsolo; as propriedades magnéticas das rochas 
+tem sua origem principal nos minerais opacos (hematita, titanomagnetita, 
+magnetita), os quais são os causadores de valores anômalos da intensidade do 
+Campo Magnético Terrestre. 
+Nas bacias sedimentares, as rochas sedimentares adquirem uma 
+magnetização muito fraca, enquanto as rochas que compõem o embasamento 
+102 
+adquirem uma magnetização muito mais forte devido à maior concentração de 
+materiais ferromagnéticos. As variações entre os valores observados e os do 
+campo magnético terrestre são, majoritariamente, devido à heterogeneidade na 
+composição das rochas do embasamento . A interpretação destas variações 
+são relacionadas com a provável distribuição espacial do material magnetizante 
+no sub-solo. O resultado mais importante desta interpretação é a determinação 
+da profundidade em que se encontra o topo e a base do embasamento ígneo-
+metamórfico e, portanto, a espessura da coluna sedimentar. 
+6.3.2. Campo Potencial Magnético de um corpo uniforme 
+Uma das equações de Maxwel estabelece que o divergente da indução 
+magnética Ã é zero: 
+V · Ã = O (XXXIV) 
+Considerando a indução magnética gerada por um fluxo contínuo, 
+integrada sobre qualquer trajetória fechada, esta será proporcional à 
+componente normal de todas as correntes que atravessam a trajetória fechada: 
+i Ã . dl = 4nC f 1 · íi · dS 'J m (XXXV) 
+s 
+103 
+Onde I é a corrente total que atravessa a superfície S, conhecida como 
+densidade de corrente. Quando não há corrente na região de investigação 
+temos: 
+VxÃ =O (XXXVI) 
+De acordo com o teorema de Helmholz (Blakely, 1995), A tem um 
+potencial escalar V, tal que: 
+Ã = -VV (XXXVI 1) 
+Se considerarmos uma distribuição volumétrica de material, com 
+momento magnético dipolar por unidade de volume (M ), distribuído 
+uniformemente através de todo o volume, o potencial escalar magnético dessa 
+distribuição em relação a um ponto exterior (P) é dado por: 
+Ã=-fM·Y'(-
+1 _ J·dV (XXXVlll) 
+vol 1 r - ro 1 
+Analogamente, o campo magnético é dado por: 
+- - 1- ( 1 J B= -V'A= -V M·Y' __ ·dV 
+1 r - r. 1 1•0/ o 
+(XXXIX) 
+104 
+Assumindo a como a direção de magnetização e que esta é uniforme 
+através de todo o volume V, a expressão para o campo magnético desta 
+distribuição pode ser dada por (Telford, 1990): 
+B = -V- M· __ ·dV - ªs-( 1) d a vol 1 r - ro 1 
+(XL) 
+Para o caso de uma esfera uniformemente magnetizada, o potencial 
+magnético é expresso por: 
+4 3 - 1 ~ ~ m ·r V=C,,, - n:a M-2 M·r=C 111 -
+2 (XLI) 
+3 r r 
+Na .qual 
+- 4 3M­m =-n:a 
+3 
+(XLll) 
+Este é justamente o potencial de um dipolo magnético simples, sendo 
+assim, podemos dizer que o potencial magnético de uma esfera uniformemente 
+magnetizada é igual ao potencial magnético de um dipolo localizado no centro 
+de uma esfera, com momento dipolar igual à magnetização no volume da 
+esfera. Este fato permite que se assumam corpos dipolares dentro da crosta 
+terrestre, de forma a gerar modelos simples para modelar o seu interior. 
+105 
+6.3.3. PROCESSAMENTO DOS DADOS AEROMAGNÉTICOS 
+Os dado aeromagnéticos utilizados neste estudo (figuras 28) fazem 
+parte da base de dados da INTEVEP-PDVSA e estão padronizados a uma 
+altura de 500 m em relação ao nível do mar e corrigidos pelo campo terrestre 
+de referência (IGRF). O processamento posterior dos dados aeromagnéticos foi 
+realizado mediante a utilização do pacote OASIS MONT AJ da Geosoft 
+Corporation, o qual permite a aplicação de filtros digitais, assim com gerenciar 
+a base de dados e a geração de mapas de anomalias magnéticas. 
+Entre os filtros aplicados aos dados magnéticos, podemos mencionar os que 
+foram utilizados neste trabalho: Redução ao Pólo, Continuação do C ampo para 
+cima, e as derivadas verticais. 
+Na seqüência, mostramos, ainda, as bases teóricas da aplicação destes filtros 
+digitais. 
+106 
+.70• -69'30" .59• ·68º30' ·68º .57•30· ·67º 
+-f-
+9645 9679 9696 9712 9727 9739 9750 9760 9770 9779 9786 9793 9800 9808 9816 9827 984 1 9859 9884 
+gammas 
+25000 25000 50000 
+m etros 
+Figura 28: Mapa de Intensidade Magnética Total (Sousa, F.G.F., 2002). 
+6.3.3.1. Redução ao Pólo 
+Assumindo que um campo indutor é o único responsável pela resposta 
+magnética observada, faz-se a convolução do Campo magnético com um filtro 
+Gunn (Gunn, 1975) de modo que o campo vetorial magné tico é reduzido ao 
+que seria a sua expressão no norte magnético. Desta forma, a redução ao pólo 
+trata-se basicamente de um procedimento que permite que se transporte as 
+107 
+anomalias magnéticas dipolares para anomalias magnéticas simples, além de 
+centrá-las sobre suas próprias fontes. 
+Dado que a zona de estudo se encontra em uma área de baixas 
+latitudes, entre 6º N e Bº N, onde o campo magnético total possui uma 
+inclinação I = 32,79 e uma declinação D= -109, a aplicação da redução ao pólo 
+nos dados de Intensidade Magnética Total dá como resultado um campo 
+magnético que equivale ao original, porém cujas componentes de inclinação e 
+declinação são 90º e 0° respectivamente (semelhante a um campo escalar), o 
+qual pode permitir sua comparação com o campo gravitacional. 
+Matematicamente podemos expressar este procedimento segundo a 
+seguinte equação: 
+F[~T,. ] = F['P] · F[~T] (XLlll) 
+Onde a aplicação de F ['I' J a anomalia F[~T] dá como resultado uma anomalia 
+que simula a anomalia no pólo magnético, onde a magnetização induzida e o 
+campo terrestre são verticais. 
+A função F ['P] é dada por: 
+F['P]= 1 
+0,,,·0 1 
+(XLIV) 
+Onde 0 ,,, e e r são funções complexas que dependem da orientação do dipolo 
+e do campo externo aplicado. 
+108 
+Para o caso da redução ao equador, ou seja, reduzir o campo magnético 
+ao que seria a sua expressão no equador magnético, utiliza-se o mesmo 
+procedimento, apenas variando-se as funções em e ef de forma a adequá-las 
+ao caso I = Cf e D= 90º . 
+6.3.3.2. Primeira Derivada Vertical 
+A derivada vertical de primeira ordem é um operador que produz um 
+resultado numérico similar ao obtido em um levantamento com um gadiômetro 
+magnético. Nos mapas obtidos mediante este procedimento os picos positivos 
+das anomalias se alinham sobre os corpos, e os contornos com valores nulos 
+delimitam a fonte. O objetivo de usar este tipo de filtro é realçar as anomalias 
+fracas, de origem superficial, e definir descontinuidades. 
+6.3.3.3. Continuação do Campo para Cima 
+A continuação para cima transforma o campo potencial medido em uma 
+superfície a um campo potencial medido em outra superfície que está distante 
+da fonte. Esta transformação atenua as anoma lias com respeito à amplitude da 
+onda, a medida que se eleva a magnitude da continuação, ou seja, tende a 
+109 
+acentuar as anomalias causadas por fontes profundas às custas da diminuição 
+das anomalias causadas por fontes fracas. 
+Este procedimento pode ser expresso através da seguinte equação: 
+u(P) = -1 J(~ au -u 1-~}s 
+4Jr s r àn àn r 
+(XLV ) 
+Onde U é uma função harmônica e com derivadas contínuas em uma 
+superfície regular S. Conforme a terceira identidade de G reen (Blakely, 1995) o 
+valor de u em qualquer ponto dentro da superfície S é dado por U (P). 
+6.4. Inversão Magnética 
+Para realizar a inversão dos dados m agnéticos, com a finalidade de 
+estimar as profundidades do emb asam ento magnético, utiliza-se o método de 
+análises espectral dos dados potenciais, o qual tem sido usado tanto para fazer 
+separação regional-residual, como para o cálculo da profundidade de fontes 
+magnéticas e gravimétricas (Graterol, 1998). Este m étodo baseia-se em 
+representar graficamente o logaritmo da potência espectral em função da 
+freqüência angular ( m = 27d) e selecionar a banda de freqüência em que esta 
+relação é linear. 
+Spector e Grant (1970) demonstraram que a inclinação desta relação é 
+proporciona à profundidade do topo do corpo que produz a anoma lia. Para isso 
+11 o 
+foi deduzida uma fórmula para a potência espectral, assumindo que as 
+anomalias em um mapa aeromagnético são devidas a um encaixe de prismas 
+verticais semi-infinitos e que a direção de magnetização é aproximadamente 
+paralela à direção do campo magnético terrestre nesse ponto (dentro de +/-
+20º). De acordo com Spector e Grant (1970) a potência espectral da malha, em 
+coordenadas polares, é dado por: 
+(XLVI) 
+Onde o símbolo ( ) indica que estamos trabalhando com os valores 
+00 
+médios para os limites de J . O termo (E(r,8)) indica o valor esperado da 
+potência espectral, r = ~(u 2 + v2 ) a magnitude do vetor de freqüência, 
+o = tg~• (: ) a direção do vetor de freqüência, Mo momento magnético por 
+unidade de longitude, h a profundidade do topo do prisma, ta espessura do 
+prisma, S o fator de tamanho horizontal do prisma, Rp o fator da direção de 
+magnetização do prisma, Ra o fator de direção do campo magnético. 
+Tomando o ponto médio em relação ao ângulo temos: 
+(XLVll) 
+Assumindo que t é muito grande: 
+111 
+(E(r )) = (27rMRc )
+2 
+(R;
+2 )( e-
+21
+" )( S
+2 (r )) (XLVlll) 
+Seja uma distribuição da profundidade dos prismas segundo: 
+0,75h ~ h ~ 1,25h (XLIX) 
+Onde h é a profundidade média do topo dos prismas. Para valores de 
+r < ..!_ , Spector e Grant ( 1970) mostraram que o termo ( e-
+2"') , se reduz a e-2hr, 
+r 
+e é um fator dominante no espectro. Sendo assim, a equação para esta 
+tendência do espectro é: 
+(E(r )) := e-21tr (L) 
+Se aplicarmos o logaritmo neperiano em ambos os lados da expressão 
+obtemos: 
+ln(E(r )) = -2hr (LI) 
+Como pode-se obseNar , existe uma relação linear entre o logaritmo 
+neperiano e a potência espectral, ln(E(r )) e r, onde a constante de 
+proporcionalidade é -2h. 
+Esta técnica proposta por Spector e Grant (1970) foi utilizada no 
+presente trabalho para estimar as profundidades do embasamento magnético, 
+onde o mapa de intensidade magnética total foi dividido em 70 blocos (figura 
+29), cada um com dimensão 33x33 quilômetros. 
+112 
+Para cada bloco se calculou o espectro radial médio e em seguida se 
+gerou os 70 gráficos, que representam o logaritmo da potência espectral versus 
+a freqüência radial (figuras 30 e 31 ). Os resultados desta análise se encontram 
+na tabela 4. 
+Após obter a profundidade média do embasamento magnético para cada 
+um dos blocos, associou-se este valor ao ponto médio de cada bloco, a fim de 
+obter um mapa de profundidades do topo do embasamento magnético (figura 
+32). 
+-70" 
+4nnnnn 
+o; 400000 
+-70' 
+-69"30' 
+4t;nnnn 
+4 50000 
+-61!'30' 
+-81!' 
+C,,()()()(l('l 
+óOOOOO 
+-69° 
+-68°30' 
+t;t;nnnn 
+550000 
+-68'30' 
+-68° 
+"'11111()() 
+oUOOUU 
+·68" 
+·67" -87"30' 
+F>!'nnnn 1nnnnn ~ 
+650000 700000 
+-87°30' -67" 
+1 1 1 _...__.__,_.___.._._.__,_,__,_,1~1~1 1~11~1~ 
+·26 ·19 -12 -4 -O 4 8 1317222834414855667998 13 1 
+Ga mm as 
+Escala USB-PDVSA 
+25000 25000 50000 Apure 
+m etrea 
+uc-1urM -rf!N José Fernandes 
+Figura 29: Mapa de intensidade magnética total reduzida ao pólo, onde 
+mostra-se os blocos em que se dividiu a malha inicial. Os blocos estão 
+numerados desde a parte superior esquerda, da esquerda para a direita e de 
+cima para baixo (Sousa, F.G.F., 2002). 
+113 
+10 .•• ....................................... - • ..•.•••.•.••••..• 1 0 
+. . . . . . . . . . . . . . . . . . . . . 
+Log(Ef 
+. . . Protundidade Estimada:.3427'. m ..... .................. o 
+-1 0 ••. . .. - - ..•... - ...... ....... ......... -10 
+0 .2 0.4 
+r(~JKm) 
+o .a 1 .0 
+1 0 .....•......••...•.••.... ......••••....•••••..•• .•••..••.•••... 10 
+Log(E)° 
+· Profundidade Estimada:· 3290 m ......... .......... . .............. .................. .. o 
+. ... . .....• ......... .........• . . . . • ... ·1 0 
+-2 0 ............... ... .................•...........••......•....... ·2 0 
+o.o 0 .2 o .4 o .a o .a 1 .0 
+r(1/Km) 
+1 0 ... : ..•• •••.. : •••. - ...• : •....••.. : ......... : ... .... . - : - ... .... - 10 
+. . . . . . . . . . . . . . . . . . 
+. . - . . . . . - . . 
+: Profundidaae Estimada::294 m : : .... : ..... . ... : ......... : ......... : ......... : ......... o 
+. . . . . . . . . . Log(E)° . . . . . . . - . . . . . . . . . -. . . . . . 
+-10 .••. : . •...•... : ... . ..... : . ........ -1 0 
+. . 
+. . . . 
+-20 .•..... ... ........ ........ . ................. ....•.............. -20 
+o.o 0 .2 o.4 0.0 o .a 1 .o 
+r(1/Km) 
+1 0 .•............ .... - . . ........ - - ...... - - ..... - - ... . . - ..... ..... . 1 0 
+o 
+Log(E) 
+·Profundidade Estimada:·4976 m .............................. ...................... .. o 
+-10 . . . . . . . . . . . . . . . . . . . . . . . . . . ......•........•..••....••.... ••. ... -1 0 
+·20 .............. ... ....... ... . . . ................... . ....••.....•. -20 
+o .o 0 .2 o.4 o.6 o.a 1 .o 
+r(1/Km) 
+Figura 30: Amostras dos espectros de potência gerados para determinar a 
+profundidade e o embasamento magnético dos blocos 1, 2, 9 e 11. As 
+profundidades correspondentes em cada caso estão na tabela 3 (Sousa, 
+F.G.F., 2002). 
+114 
+. - . 
+Log(E)º 
+: Profundidade Estimada: :1190 m . . •••.•••.•••..•..•. . - • . - . . - .. - . . . • • - . . -..•. • . .•• ..• - . -o . . 
+-1 o - ...... •.••. •.••. . • . • . . •.. •.. - • . • . • . . • • . . . . . . - .. - . • ..• •..• •.• ·1 o . . 
+o.o 0 .2 o .4 o .6 o .8 1.0 
+r(1/Km) 
+10 - .•..•.• . •• • ••.••••• ••••...•. . ... ....... - .. - ... .. - . . - . . - . . ... .. 1 0 
+: Profundidac:le Estimada: ~ 484 m . . 
+Log(E) º 
+...... - . .... ... . . ....... ....... .... . ... . ... -. . - ... . ... o 
+. . . -10 - .• : ••.••• ••• : • •••••• •• : • • ••. 
+- . . . . . . . . . . . . . . . . . . . . . . - . . . -2 0 - . •.• ....•• . • . .•.• - . • . . - . - •• . - • - ..• ..•. . • . ••.•• ••••.• ••• .•• .•• • -20 
+º·º 0.2 o .4 r(t!Km) 08 1 .0 
+: P rofundidade Estimada: j 51 8 m . -. . ..... ... ... .............. . . . ....... - . . - . . - - ....... . o . . . . . 
+Log(E) . . 
+. . --10 ..•..•.. . . ....•. .•..•• .•• ••• • . • • • • . • • • • • . • • • • • . . • . . - •• - ..• - .• -10 . . . 
+o.o 0 .2 0.4 
+rtf!Km) 
+08 1 .0 
+. . . 
+- : Profundidade Estimada: 1180 m . . 
+Log(E)° 
+• • • • •••• •••••••• - • •.••••••. - - -. •• - - - -• - - - .••.• - ..•• • - ..• - . ••••• o . . . . . . . . . . . . 
+. . . , o .... ... . . . . . ... . . . - .. - . - - -- . -- - . - - . - . •••.• - ••• • • - ..• ••• • - - - ·1 o . . . . 
+o.o o .2 o .4 0 .6 o .8 1 .o 
+r(1/Km) 
+Figura 31: Amostras dos espectros de potência gradas para determinar a 
+profundidade do embasamento magnético, dos espectros correspondentes aos 
+blocos 61, 15, 17 e 46. As profundidades correspondentes em cada caso estão 
+na tabela 3 (Sousa, F.G.F., 2002). 
+115 
+lo "l 
+.7()' -69"3(]' -69º -68"30' -68º -67"3(1 -67º 
+metros snmm 
+Escala USB-PDVSA 
+25000 25000 00000 Apure 
+-- José Fernandes uc.no.ruTM I<* UlH 
+Figura 32: Mapa do topo do embasamento magnético (Sousa, F.G.F., 2002). 
+116 
+Tabela 3: Profundidades do embasamento magnético obtidas através do 
+método de Spector e Grant (1970) para cada um dos blocos em que se dividiu 
+o mapa de Intensidade Total Magné tica (Sousa, F.G.F., 2002). 
+Profundidade do Profundidade do 
+Embasamento Embasamento 
+Bloco X (m) Y(m) Magnético (m) Bloco X (m ) Y(m) Magnético (m) 
+1 41 6666.6 883333.3 3 427 36 5 83333.3 783333.3 638 
+2 450000 883333.3 3290 37 616666.6 783333.3 405 
+3 483333.3 883333 .3 3425 38 650000 783333.3 1320 
+4 516666 .6 883333.3 2980 39 683333.3 783333.3 948 
+5 550000 883333 .3 2032 40 716666.6 783333.3 276 
+6 583333 .3 883333.3 1945 41 416666 .6 750000 2548 
+7 616666.6 883333.3 815 42 450000 750000 1480 
+8 650000 883333.3 378 43 483333.3 750000 1324 
+9 683333 .3 883333.3 294 44 516666.6 750000 1240 
+10 716666.6 883333.3 246 45 550000 750000 1430 
+11 416666 .6 850000 4976 46 583333.3 750000 1730 
+12 450000 850000 4497 47 616666.6 750000 1476 
+13 483333.3 850000 4315 48 650000 750000 1330 
+14 516666.6 850000 2612 49 683333.3 750000 1085 
+15 550000 850000 1484 50 716666 .6 750000 922 
+16 583333.3 850000 1610 51 416666.6 716666 .6 1726 
+17 616666.6 850000 1518 52 450000 716666.6 1536 
+18 650000 850000 690 53 483333.3 716666.6 1615 
+19 683333.3 850000 289 54 516666 .6 716666 .6 2074 
+117 
+20 716666 .6 850000 191 55 550000 716666.6 1820 
+21 416666 .6 816666 .6 3843 56 583333.3 716666 .6 1531 
+22 450000 816666 .6 3825 57 616666.6 716666.6 2140 
+23 483333.3 816666 .6 2930 58 650000 716666.6 1800 
+24 516666.6 816666 .6 1926 59 683333 .3 716666.6 925 
+25 550000 816666.6 769 60 716666.6 716666.6 710 
+26 583333 .3 816666.6 731 61 416666.6 683333.3 1190 
+27 616666.6 816666.6 560 62 450000 683333.3 1100 
+28 650000 816666.6 1123 63 483333 .3 683333.3 1580 
+29 683333 .3 816666 .6 912 64 516666 .6 683333 .3 1540 
+30 716666 .q 816666.6 285 65 550000 683333.3 1350 
+31 416666 .6 783333.3 3690 66 583333 .3 683333 .3 1226 
+32 450000 783333.3 2940 67 616666 .6 683333 .3 1300 
+33 483333.3 783333 .3 2037 68 65QOOO 683333.3 720 
+34 5166('.?6.6 783333.3 612 69 683333.3 683333 .3 280 
+35 550000 783333.3 482 70 716666 .6 68333~l 3 164 
+118 
+6.5. Interpretação Qualitativa e Quantitativa 
+As anoma lias ·ou mudanças no valor do campo magnético terrestre, após 
+aplicadas as correções temporais devidas, refletem mudanças na 
+magnetização das rochas intrajacentes. A magnetização se expressa como 
+uma função da susceptibilidade magnética, adimensional, que relaciona o 
+campo magnético com a magnetização induzida por um corpo. 
+Estas propriedades das rochas são empregadas detalhadamente a fim de 
+se obter um modelo geológico do subsolo. As anomalias magnéticas são 
+funções da distância entre o detector e a fonte, onde sua amplitude decresce 
+rapidamente com a distância. Estes dados serão utilizados para interpretar e 
+delimitar o embasamento cristalino. Esse método provém um amplo espectro 
+de fontes, e mediante uma manipulação adequada, onde se incluem os 
+conhecimentos geológicos, os dados potenciais podem ser empregados com 
+êxito na prospecção de hidrocarbonetos. 
+A interpretação das anomalias magnéticas baseia-se principalmente no 
+reconhecimento de sua distribuição espacial e de sua forma. A distribuição com 
+caráter de um mapa potencial é um indicador eficiente de como as rochas e 
+formações se distribuem na área de estudo; esta pode indicar lineamentos e 
+descontinuidades estruturais. 
+A formas das anomalias, representadas tanto em mapas quanto em perfis, 
+são empregadas a fim de determinar a forma, posição e magnitude do 
+contr~ste de susceptibilidade magnética. Teoricamente, não é possível que 
+haja uma única solução a partir dos métodos potenciais, pois podem existir 
+119 
+geometrias distintas que representem uma anomalia em particular; atrelando a 
+prática a um modelo geológico ou outros controles geofísicos e fazendo que as 
+soluções potenciais respeitem estes controles, pode-se obter modelos que se 
+aproximam satisfatoriamente da realidade. 
+Para realizar a interpretação qualitativa da região objeto deste trabalho, 
+utilizou-se várias técnicas de processamento (imagens com cor de relevo e 
+operações de filtro no domínio do tempo e da freqüência) para obter os mapas 
+e modelos apresentados nesse trabalho. 
+6.5.1. Interpretação Magnética Qualitativa 
+... 
+~· . 
+/' 
+1 
+,1 
+Uma análise qualitativa dos. mçipas de intensidade magnética total com redução 
+ao pólo e com redução ao equador, seu resíduo espectral de continuação para 
+cima de 5000 m , na qual se apresenta a maior correlação com as 
+características geológico-estruturais da zona de estudo, e sua primeira 
+derivada vertical (figuras 33, 34, 35 e 36), permite definir os principais 
+elementos estruturais existentes no embasamento da zona de estudo. Dado 
+que na área existe uma inclinação de aproximadamente 32º, os corpos 
+magnéticos do embasamento produzem anomalias com um componente 
+positivo e outro negativo, localizando-se feito um corpo na zona de inflexão no 
+mapa de Intensidade Magnética Total. Ao contrário deste, no mapa de 
+intensidade magnética total com redução ao pólo, as anomalias e 
+características tais como falhas, fraturas e contatos litológicos localizam-se nos 
+120 
+gradientes. Por isso preferiu-se efetuar a interpretação estrutural com o mapa 
+de intensidade magnética total e seu regional de continuação para cima de 
+5000 m. 
+~ "l 
+·70° -69°30' -69º -68'30' -68' -67°30' -67° 
+·77 ·63 ·52 -43 -35 ·26 -19 ·12 
+Gammas 
+Escala USB-PDVSA 
+25000 25000 50000 Apure 
+me ires 
+José Fernandes La C ancw / UTM ZOl'Nt t9N 
+Figura 33: Mapa de redução ao pólo da Intensidade Magnética Total (Sousa, 
+F.G .F., 2002). 
+·W ·68'3()' 
+·124 ·85 ·64 ·54 .47 ·40 ·34 ·28 ·22 ·16 ·8 ·4 1 5 101418 2328333 946 53616 981 961 14 
+gammas 
+Escala USB -PDVSA 
+25000 25000 50000 Apure 
+me lres 
+La Canoa /UTM ZDM t9N José Fernandes 
+121 
+Figura 34: Mapa de redução ao equador da Intensidade Magnética Total 
+(Sousa, F.G.F., 2002). 
+122 
+';> 
+~ 
+-70' -69º30 ' -69 ' -68'30' -68º -67°30' -67' 
+1 ~I 
+Gammas 
+Escala USB-PDVSA 
+25000 25000 50000 Apure 
+m etres 
+José Fernandes la CanoalUTMzone 1m 
+Figura 35: Mapa da Intensidade Magnética Total com continuação para cima 
+de 5000 metros (Sousa, F.G.F., 2002). 
+-70° -69'30' -69º -68°30' -67'30' 
+123 
+-67° 
+700000 
+-67' 
+-0.0124 -0.0072 -0.0051 -0.0037 -0.0026 -0.0016 -0.0007 0.0001 0.0010 0.0021 0.0037 0.0061 0.0110 
+gam m as/m 
+Escala USB-PDVSA 
+25000 25000 50000 Apure 
+m 01ros 
+La C8not I UTM ZOl'l8 19N José Fernandes 
+Figura 36: Mapa da primeira derivada vertical da Intensidade Magnética Total 
+(Sousa, F.G.F., 2002). 
+124 
+Em geral as falhas do embasamen to possuem uma direção N 50º -60º 
+E , sub paralelo à cordilheira andina. Se ndo assim, as mudanças na direção dos 
+eixos das anomalias magnéticas permitem interpretar um padrão estrutural 
+posterior de direção N 20º - 40º O, que intercepta e desloca a anterior (figura 
+37). 
+-70º 
+~ 400000 
+~ 
+" 
+o o o o o co 
+' " 
+o o o o 
+'° r-. 
+"' 1;' <o 
+o o o o o r-. 
+-10 · -69"30' -69º -68º30' -61' 
+IR 1 ~ I I P J 
+-4349 -3301 -2414 -1936 -1630 -1398 -1209 -1035 -831 -702 -581 -469 -351 -302 -288 
+P rofundidad Basamento melros 
+Escala USB-PDVSA 
+25000 25000 50000 Apure 
+me tres 
+José Fernandes LaC<inoa !UTM zontJ 19N 
+Figura 37: Map a do topo do embasamento com interpretação estrutural 
+superposta (Sousa, F.G.F., 2002). 
+125 
+Este padrão foi associado, neste trabalho, a uma possível reativação do 
+embasamento em função do emparelhamento andino. Deve-se destacar que as 
+anomalias gravimétricas se encontram na área entre as falhas interpretadas, o 
+que permite definir as zonas de rebaixamento e elevação do falhamento, 
+mostrando perfeita correlação entre os resultados gravimétricos e magnéticos. 
+6.5.2. Interpretação Quantitativa 
+Uma vez finalizada a interpretação qualitativa, continuou-se o estudo 
+através da modelagem gravimétrica e magnética de quatro perfis definidos e 
+assinalados no mapa de anomalia Bouguer residual controlado e de 
+continuação para cima de 5000 m de redução ao pólo da intensidade 
+magnética total. Estes perfis foram escolhidos de maneira a cortarem as 
+estruturas de forma perpendicular à direção das mesmas e de forma que sua 
+distribuição espacial cobrisse grande parte da área de estudo. 
+A interpretação quantitativa inclui os seguintes passos: 
+Obtenção de perfis residuais de anomalia Bouguer (residual controlado) 
+e magnética (continuação para cima 5000 m) ao longo de cada uma das 
+seções propostas para o modelo. 
+Elaboração de seções geológicas de referência levando em conta as 
+linhas sísmicas presentes no sudoeste da zona {Apure 86) e a interpretação 
+estrutural realizada como parte deste trabalho. 
+126 
+A modelagem dos perfis selecionados foi realizada utilizando-se o 
+programa GM-SYS, o qual permite um amplo controle sobre as variáveis físicas 
+(densidade, susceptibilidade, remanescência magnética, componentes do 
+campo magnético, etc.), permitindo uma rápida visualização e a geração de 
+diferentes modelos. O primeiro passo constituiu-se da modelagem gravimétrica, 
+utilizando uma densidade média de 2,4 g/cm3 para os sedimentos da bacia e 
+uma densidade de 2,7 g/cm3 para o embasamento, mantendo assim 
+consistência com a densidade utilizada para gerar o mapa de anomalia 
+Bouguer. 
+Uma vez encontrado um modelo satisfatório para a resposta 
+gravimétrica, procedeu-se com a modelagem magnética, adicionando-se 
+corpos com diferentes valores de susceptibilidade ao embasamento para obter 
+uma resposta adequada às anomalias magnéticas no perfil. Vale destacar que 
+este processo partiu da suposição de que a susceptibilidade magnética dos 
+sedimentos é desprezível em relação à susceptibilidade magnética que as 
+rochas do embasamento podem ter, e assumindo, além disso, que o 
+embasamento pode apresentar variações laterais nos valores da 
+susceptibilidade magnética. Por isso o embasamento foi dividido em vários 
+blocos de 25 km de espessura e de contato sub vertical, para que se possa ter 
+um modelo aproximado das variações laterais de susceptibilidade para cada 
+perfil interpretado. 
+Essas variações de susceptibilidade estão dentro de uma faixa de 0,001 
+a 0,006, onde os maiores valores de susceptibilidade tendem a se localizar no 
+centro da área de estudo, coincidindo com o alto gravimétrico que separa os 
+127 
+grabens interpretados, e os menores valores de susceptibilidade tendem a se 
+localizar na direção das bordas da bacia. 
+No perfil 1 (figura 38), de direção NO-SE, observa-se um ligeiro 
+mergulho na direção NO, onde se localizam as maiores profundidades da zona 
+de estudo, alcançando uma espessura de sedimentos de aproximadamente 
+5000 m, que é interpretado como Graben de São Fernando, estrutura cujo eixo 
+possui uma direção aproximada de N 50 E. Em todos os perfis realizados, tanto 
+na modelagem gravimétrica como na magnética, é sustentada a hipótese de 
+um amplo domínio tectônico de falhamentos normais, possivelmente 
+associados a falhas de extensão devido à reativação ígneo-metamórfica do 
+embasamento. 
+No perfil 2 (figura 39), semelhantemente ao perfil 1, mostra a existência 
+de um alto estrutural na zona central de Apure que coincide com o valor 
+máximo positivo da anoma lia residual gravimétrica e que separa o Graben de 
+São Fernando do baixo estrutural a sudeste da zona. Este alto estrutural 
+constitui uma excelente estrutura para o trapeamento de hidrocarbonetos em 
+seus flancos, onde as espessuras dos sedimentos são consideráveis, incluindo 
+a possibilidade de trapas intrajacentes à discordância Pré-Cretácica. 
+No perfil 3 (figura 40), observa-se que o baixo gravimétrico a sudeste da 
+zona de estudo é possivelmente devido à existência de um baixo estrutural 
+com profundidade de aproximadamente 2200 m. Este baixo estrutural pode 
+constituir um excelente prospecto hidrocabonífero, sustentado pelos dados 
+gravimétricos e magnéticos. 
+O perfil 4 (figura 41 ), de direção E O, mostra como a bacia se aprofunda 
+na direção oeste, onde se encontra o Graben de São Fernando, e tende a 
+128 
+diminuir a espessura de sedimentos na direção leste, nas redondezas dos 
+afloramentos associados ao Arco do Baúl. 
+~~~~~B~~~~~~lí 
+' . . ,.. .......... . 
+............... • 
+: ........ ; ....... -.;.-.. . ' 
+1 1 1 
+:)o 
+0 8 -' sewwee 
+. : ...... . 
+... ~ .. 
+~ -... 
+1 
+~ ... 
+O~ÓllZ!l<lUôew 
+1 
+"' 
+. : . . .. 
+- ·· ~ ······ :· ·· . 
+. 
+~· .. 
+' -··-.... 
+.,. ... ; ...... ..;:.--
+. . . 
+. . . 
+1 1 1 
+~ ~ ~ 
+sresiw 
+epep!fieJ~ 
+w 
+(/J 
+o z 
+1 
+o 
+E u 
+ti! 
+I' 
+•• 
+' 
+129 
+~ ~ 
+SOJ)iilW 
+apeP!PUOJOJd 
+Figura 38: Perfil 1 -Interpretação estrutural do embasamento (Sousa , F.G .F., 
+2002). 
+,·-.-~ . . . 
+: t 
+,, . .. "' .. _.. ~ ..... -...... !' ........ 
+se:wwe8 
+o~eiezna'u ~ew 
+. • . . 
+~ . ,. .......... ~ ..... ·---..:-.......... .., .... ..,;; ... ,,.,.. ·::f.-
+. 
+. •• :-... # ....... -: .... A ......... -:;,; ..... " ..... -: 
+. . 
+' t o ... <; 
+SjeE)tu 
+~p;ep!fle.19 
+o z 
+• ..., • 
+~ '" soJiat..u 
+_ apep!p~~Jd 
+130 
+Figura 39: Perfil 2 - Interpretação estrutural do emb asamento (Sousa, F. G. F., 
+2002). 
+··-·~··•••-r•••• 
+. . . 
+··-- ~ ----~-~- ~ ... --~-·~--. . . 
+1 
+«) .... 
+. ... i ..... i. -· ···_r 
+o ..., -
+~· ':.: 
+sewweD 
+oJ:5t>Z!iauõew 
+. ' ' . . ,.·----- ~ -··---··,·······,·~-
+. . . . . -:-.. -....... .,_. -~. ---... -. -:· ..... . . . 
+. 
+···--·~--~·-·····-~· · -~·- ~ · ·· ··~· 
+1 o 1 
+<.O 
+. w z soJiaw 
+apep!PLIOJ.O.Jd 
+131 
+Figura 40: Perfil 3 - Interpretação estrutural do embasamento (Sousa, F.G.F., 
+2002). 
+. .......... ~...,_ ........ ~.,.. .. . . . . 
+. . . . . . . . ........... -:._ ....... _'"!-'" ----.:-··· 
+t ,. : 
+... ·-............. _ .. -f-,., · - .. ~ .... ,.. 
+. ' . 
+seu.1w t«0..) 
+O§Ól:?Z!~ 9UÔl:? lilJ 
+'. 
+: 
+. .. . . 
+. 
+}~ 
+' .. ... _ .......... -.. --....... --······~··· · ········ : l-, U'J: 
+. 
+. . ~ ~ 
+--- ~ ~ ~ *--~~M--~~ - ------ : ~---~ . . 
+- ~-~-l ......... J .... ~ ---· - - - ----- · 
+i ~ i i 
+Q ... ~ tfj 
+Sfl?!)lll 
+<1piep!AeJo 
+o 
+1 
+~ w 
+1 
+o 
+~ 
+SO J4'<lW 
+apep1punJOJd 
+132 
+Figura 41: Perfil 4 - Interpretação estrutural do embasamento (Sousa , F.G.F., 
+2002). 
+133 
+7. CONCLUSÃO 
+A interpretação dos mapas magnéticos gerados para esta área de 
+estudo permitiu que se efetuasse um reconhecimento geofísico-geológico semi­
+detalhado dos lineamentos presentes no embasamento da zona sul da bacia 
+de Barinas-Apure. 
+Os principais resultados deste trabalho encontram-se nos mapas do 
+topo do embasamento, na interpretação estrutural realizada, onde são 
+mostrados os principais lineamentos no Estado de Apure que poderiam afetar a 
+seqüência sedimentar e aumentar as possibilidades de trapeamento de 
+hidrocarbonetos, além dos quatro perfis geológico-geofísicos, nos quais se 
+representam os resultados da modelagem gravimétrica e magnetométrica. 
+As principais estruturas que foram interpretadas são: a) O Graben de 
+São Fernando, a extremo noroeste da zona de estudo, que possui uma 
+espessa camada sedimentar que alcança, dentro da zona de estudo, 5000 m; e 
+b) O graben de baixo estrutural, situado a extremo sudeste da zona de estudo, 
+possuindo dimensões menores que o graben de São Fernando e alcançando 
+uma espessura de sedimentos de aproximadamente 2200 m. 
+O processo de interpretação permitiu selecionar zonas, cujas 
+características geofísicas e estruturais, justificam a exploração utilizando 
+métodos sísmicos de reflexão com objetivo de obter maior informação geofísica 
+nestas zonas de interesse. 
+Estas zonas são compostas por flancos do alto estrutural que se 
+encontram na zona central da área de estudo, determinados a partir das 
+134 
+anomalias residuais positivas, as quais poderiam explicar a existência de 
+trapas estruturais e tectônicas e onde é possível que existam acumulações 
+economicamente exploráveis de hidrocarbonetos, assim como o graben do 
+baixo estrutural que se observa a extremo sudeste da área de estudo, o qual, 
+apesar de possuir dimensões menores às do graben de São Fernando, pode 
+conter trapeamentos de hidrocarbonetos que migram até a borda do craton, 
+semelhante às jazidas superficiais que se encontram na faixa petrolífera do 
+Orinoco. 
+Recomenda-se que à medida que se adquira novos dados, geológicos e 
+sísmicos, na zona seja repetida a modelagem e assim, gerar um modelo a 
+partir de uma maior quantidade de pontos de controle, com a finalidade de 
+aumentar os detalhes obtidos neste trabalho. 
+Outro ponto a ser destacado sobre o Método Geofísico aplicado, é que 
+nos últimos anos, as anomalias detectadas nas propriedades magnéticas totais 
+(Susceptibilidade Magnética e Magnetismo Remanescente Natural) medidas 
+em estudos aeromagnéticos ou em amostras de superfície sobre campos 
+petrolíferos, são atribuídas à presença aparente de agregados esferoidais de 
+magnetita autigênica por se tratar de um mineral de alta kap (kap = 
+susceptibilidade magnética aparente), produto de um ambiente redutor induzido 
+pelo reservatório subjacente. 
+O estudo da relação causal entre as anomalias medidas nas 
+propriedades magnéticas e a presença de hidrocarbonetos poderia ser usado 
+como uma ferramenta rápida, efetiva e econômica para estimar a distribuição 
+de óleo cru em zonas de exploração. 
+135 
+Os trabalhos de Aldana, M., (1999 e 2000), nos apresentam resultados 
+que confirmar uma concentração maior de magnetita nos níveis anômalos, 
+presentes na forma de agregados esferoidais, em relação a outros minerais 
+magnéticos, confirmando assim uma relação causal entre as anomalias nas 
+propriedades magnéticas, medidas superficialmente, e a presença de 
+hidrocarbonetos que vieram de um ambiente redutor que favorece a nucleação 
+e recristalização de agregados esferoidais de magnetita autigênica. 
+Sendo assim, após realizar este estudo de caso, e ler os trabalhos de 
+Aldana, M ., (1999 e 2000), podemos dizer que a realização deste tipo de 
+estudo como uma ferramenta para a exploração e na avaliação de zonas 
+prospectivas é uma possibilidade potencial, já que se trata de um método 
+rápido e econômico. 
+136 
+REFERÊNCIAS 81 BLIOG RÁFI CAS: 
+ALDANA, M., COSTANZO-ALVAREZ, V.,VITIELLO, D. COLMENARES, L. 
+AND GÓMEZ, G., "Framboidal Magnetic Minerais and their Possible 
+Association to Hydrocarbons: La Victoria Oil Fiel, Southwestern Venezuela", 
+Geofísica lnt., 38, 137-152, 1999. 
+ALDANA, M., COSTANZO-ALVAREZ, V., ARISTEGUIETA, O., MARCANO , M. 
+C., AND ACONCHA, E., "Study of Magnétic Contrasts in Guafita Oil Field 
+(Southwestern Venezuela)", Phys. Chem. Earth (A), Va i. 25, No. 5, pp. 437-
+445, 2000. 
+AUDEMARD, F.E. 1991. Tectonics of Western Venezuela. Houston, PhD 
+Thesis, Rice University, 245p. 
+AUDEMARD , F.E.; AUDEMARD, F.A. 2002. Structure of the Mérida Andes, 
+Venezuela : relations with the South America-Caribbean geodynamic interaction 
+Techtonophysics 345, 299-327p. 
+BARBOSA , V., SILVA, J., MEDEIROS , W. "Stable inversion of gravity 
+anomalies of sedimentary basins with nonsmooth basement reliefs and arbitrary 
+density contrast variations", GEOPHYSICS, VOL. 64, NO. 3, 754 -764, 1999. 
+BARRIOS, S.; GUTIÉRREZ, M.; GONZÁLES, L.; MÁRQUEZ, G.; GONZÁLEZ, 
+E. Modelo Estático Integrado de los campos Sinco y Hato Viejo para los 
+miembros R3 , P y O de la Formación Escandalosa (Cretáceo inferior) de la 
+Cuenca de Barinas Universidad de Los Andes; Petróleos de Venezuela S.A. 
+BARROS, L.V. - Levantamentos Geofísicos Usando Método Magnét ico, , 
+UnB/IGD/SIS, maio de 2004. 
+BELL , J.; 1972. Geotectonic evolution of southern Caríbbean area. Memoir of 
+the Geological Society of America 132, 369-386p. 
+BHASKARA, D., BABU, N., "A FORTRAN-77 COMPUTER PROGRAM FOR 
+THREE DIMENSIONAL ANALYSIS OF GRAVITY ANOMALIES WITH 
+VARIABLE DENSITY CONTRAST ", Computer &Geociences, Vol. 17, No. 5, 
+655 - 677, 1991. 
+BLAKELY, R., "Potencial Theory in Gravity & Magnetic App lications", 
+Cambridge University Press",ISBN-052141508X, 1995. 
+BUONORA , M.P.P., -Teoria de Gravimetria e Magnetometria - M étodos não 
+Sísmicos, M.P.P. Buonora, Petrobras/E&P-EXP/GEOF/MP , novembro de 2006. 
+(publicação interna) 
+137 
+CALLEJÓN, A. F., M. OSTOS, F. YORIS, H. BRICENO, S . TALUKDAR, ANO 
+R . LANDER, " Petroleum systems in the Rubio and Burgua Depressions, 
+Venezuela, in C. Bartolini, R. T. Buffler, and J. Blickwede, eds., The Circum­
+Gulf of Mexico and the Caribbean: Hydrocarbon habitats, basin formation, and 
+plate tectonics: AAPG Memoir 79", p. 937- 960, 2003. 
+CHACÍN, L.; JÁCOME, M. I.; IZARRA, C . Flexural and gravity modelling of the 
+Mérida Andes and Barinas-Apure Basin, Western Venezuela. Tectonophysics , 
+v.405, p. 155-167. 2005. 
+CHIGNE , N .; L. HERNANDEZ, "Guafita Fie/d', Corpoven S. A., 1999. 
+' 
+CONTRERAS, A .; TORRES-VERDIN, C. AVA sensitivity analysis and inversion 
+of 30 pre-stack seismic data to delineate a mixed carbonate-siliciclastic 
+reservoir in the Barinas-Apure Basin, Venezuela. The University of Texas at 
+Austin. 
+DUARTE , O. O., "Dicionário Enciclopédico Inglês-Português de Geofísica e 
+Geologia, 3ª Ed. 2007. 
+EVA, A.N.; BURKE, K.; MANN , P.; WADGE, G. 1989. Four-phase 
+tectonostratigraphic development of the southern Caribean. Marine and 
+Petroleum Geology 6, 9-21 p. 
+FIGUEROA, L.; GIL, E .; DAAL, A.; PERAZA, H. Análisis estructural­
+estratigráfico dei área de Barinas norte (Cuenca de Barinas) y su importancia 
+en la exploración de hidrocarburos. ln: V Simpósio Bolivariano, 1994, Caracas, 
+Venezuela. Memórias V Simpósio Bolivariano. Sociedad Venezolana de 
+Geólogos, Caracas, 1994. p. 164-166. 
+FREYMUELLER, J. T .; KELLOGG, J. N .; VEGA , V.,"Plate motions in north 
+andean region", Journal of Geophysical Research 98, 21853-21863p., 1993. 
+GONZÁLEZ DE JUANA , C .; ITURRALDE , J.M .; PICARD , X. Geologia de 
+Venezuela y de sus Cuencas Petrolíferas. Ediciones Foninves, Caracas, 1980. 
+624p. 
+GRATEROL , V .; GUMERT , W., "3-D gravity inversion with variable datum", 
+manuscrito enviado a The Leading Edge, 1998. 
+HURTADO, M.; DELGADO, M .; PALACIOS , Z.; ESCALANTE, J. Modelo 
+Sedimetológico de los Yacimientos G9 y G 1 O dei campo G uafita Norte, área 
+Apure. Universidad de Los Andes, Grupo de lnvetigación de Ciencias de la 
+Tierra; PDVSA División Centro Sur - Trabajo Especial de Grado, 2006. 
+LÓPEZ, L., LO MÓNACO , S. E RICHARDSON, M . - Use of molecular 
+parameters and trace elements in oil-oil correlation studies, Barinas sub-basin, 
+Venezuela. ln Org. Geochem . Vai. 29, N o. 1 - 3, pp. 613 - 629, 1998. 
+138 
+LUIZ, J.G., - Geofísica de Prospecção, J.G. Luiz, L.M.C. Silva - Belém UFPA 
+1995, capítulo 4, 1995. 
+MANN, P .; BURKE, K. 1984. Neotectonics of the Caribbean. Reviews of 
+Geophysics and Space Physics 22 (4), 309-362p. 
+MANN, P.; SCHUBERT, C.; BURKE, K. 1990. Reviews of Caribbean 
+neotectonics. Caribe, The Geology of North America, Geological Society of 
+America, 338p. 
+MALAVÉ, G.; SUÁREZ, G.; 1995. lntermediate-depth seimicity in northern 
+Colombia and Western Venezuela and its relationship to Caribbean plate 
+subduction. Tectonics 14 (3), 617-628p. 
+PARNAUD , F. ; GOU, Y . ; PASCUAL , J.C.; CAPELLO, M.A.; TRUSKOWSKI, I.; 
+PASSALACQUA, H . 1995. Stratigraphic synthesis of western Venezuela. AAPG 
+Memoir, Petroleum Basins of South America, 681-694p. 
+PDVSA-INTEVEP , 1997. Ili Léxico Estratigráfico de Venezuela. 
+http://www.pdv.com/lexico. 
+PDVSA 
+http://www.urru.org/papers/2005 varios/PDVS PROCESOS DE PRODUCCIO 
+N 2005 DGC.ppt 
+PÉREZ , O.; JAIMES, M .; GARCIACARO , E. 1997. Microseismicity evidence for 
+subduction of the Caribbean plate beneath the South Amerícan plate in 
+northwestern Venezuela. Journal of Geophysical Research 102 (B8), 17875-
+17882p. 
+PÉREZ, O.; VILMA , R.; BENDICK, R.; VELANDIA , J.R.; HERNÁNDEZ , N.; 
+MONCAYO, C.; 
+HOYER , M .; KOZUCH , M . 2001. Velocíty fie/d across the southern Caribbean 
+plate boundary and estímates of Caríbbean/South America plate using GPS 
+geodesy 1994-2000. Geophysical Review Letters 28 (15), 2987-2990p. 
+PINDELL, J.; DEWEY, J.; 1982. Permo-Triassíc reconstruction of westem 
+Pangea and the evolution of the Gulf of Mexico/Caribbean. Tectonics 1 (2), 179-
+211 p. 
+PORTILLA , A .," The Arauca, Mérida and EI Baúl Arches in the Barinas-Apure 
+Basin, Western Venezuela: New evidences related to their existence and 
+importance in hydrocarbon exploration", 2000 AAPG Annual Meeting, 2000. 
+RAMÍREZ , AUGUSTO , Actualización dei Modelo Geologico/Estructural a nível 
+dei Horizonte "A/B" de la Formación Gobernador y los Miembros "O ", "P1 /2" y 
+"R3" de la Formación Escandalosa, en los Campos Hato Viejo Y Sinco, Área 
+Tradicional de Barinas. 2004. Trabalho de Conclusão de Curso (Bacharelado 
+em Engenharia Geológica), Universidad de Los Andes, Mérida, Venezuela, 
+1994. 
+139 
+REIS, C.C. - Estudo Geofísico do Oeste do Estado de Roraima e Adjacências 
+com Base em Dados Aéreos de Magnetometria e Gamaespectrometria e sua 
+Aplicação Geológica, C .C. Reis, Observatório Nacional, 1998. 
+Sousa , J. G . F., "Caracterización dei basamento igneo-metamórfico de la 
+Cuenca Barinas Apure mediante la utilización de métodos potenciales" 
+Universidad Simón Bolivar para PDVSA, Caracas, Dicienbre de 2002. 
+SPECTOR , A., GRANT , S., "STATISTICAL MODELS FOR INTERPRETING 
+AEROMAGNETIC DATA ", GEOPHYSICS, VOL. 35, NO. 2, 293-302, 1970. 
+SYKES , L.; McCANN, W .; KAFKA, A. 1982. Motion of Caribbean plate during 
+last 7 million years an implications for yearlier Cenozoic moviments. Journal of 
+Geophysical Research 87 (813), 10656-10676p. 
+TABOADA, A.; RIVERA , L.A.; FUENZALIDA , A.; CISTERNAS, A.; PHILIP, H .; 
+BIJWAARD, H.; OLAYA, J.; RIVERA, C. 2000. Geodinamics of the northern 
+Andes: subductions and intracontinental deformation (Colombia). Tectonics 15 
+(1 ), 213-223p. 
+TEIXEIRA , W .; TOLEDO , M.C .M.; FAIRCHILD, T.R.; TAIOLI, F. 2003. 
+Decifrando a Terra. São Paulo, USP , 528p. 
+TELFORD , W . M.; GELDART , L. P.; SHERIFF, R.E. Applied Geophysics. 
+2.ed. Cambridge University Press, 1990 . EUA. 770p . 
+VAN DER HILST , R.; MANN , P . 1994. Tectonic implications of tomographic 
+images of subducted litosphere beneath nortwestern South America. Geology 
+22, 451-454p. 
+VILLAMIL , T., Regional hydrocarbon systems of Co lombia and western 
+Venezuela: Their origin, potential, and exploration, in C. Bartolini, R. T . Buffler, 
+and J. Blickwede, eds., The Circum-Gulf of Mexico and the Caribbean: 
+Hydrocarbon habitats, basin formation, and plate tectonics: AAPG Memoir 79, 
+p. 697- 734, 2003. 
+WELL EVALUATION CONFERENCE , 1997 - Well Evaluation Conference -
+Caracas , December 1997 - Chapter 1: Petroleum geology of Venezuela 29-30. 
+YOUNG , G .; BELLIZIA, A.; RENZ, H .H.; JOHNSON , F.; ROBIE , R ; MAS VALL, 
+J. 1956. Geologia de las cuencas sedimentarias y sus campos petrolíferos. 
+Caracas , Boletin de Geologia, Publicacion Especial, vol. 2, Ministerio de Minas 
+e Hidrocarburos, 140p.

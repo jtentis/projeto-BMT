@@ -1,0 +1,1360 @@
+Universidade Federal do Rio de Janeiro
+Centro de Ciências Jurídicas e Econômicas
+Faculdade de Administração e Ciências Contábeis
+Carlos A. F. de Abreu
+Capacidade de pagamento e qualidade da gestão fiscal: um estudo nas capitais
+brasileiras de 2014 a 2016
+Rio de Janeiro
+2021
+2
+Universidade Federal do Rio de Janeiro
+Centro de Ciências Jurídicas e Econômicas
+Faculdade de Administração e Ciências Contábeis
+Carlos A. F. de Abreu
+Capacidade de pagamento e qualidade da gestão fiscal: um estudo nas capitais
+brasileiras de 2014 a 2016
+Rio de Janeiro
+2021
+Monografia desenvolvida para obtenção do grau de
+Bacharel em Ciências Contábeis, da Universidade
+Federal do Rio de Janeiro, UFRJ.
+Orientadora: Prof. Dra. Claudia Cruz.
+3
+AGRADECIMENTOS
+Antes de mais nada, a gradeço a Deus por sempre me acompanhar, guiar,
+confortar e orientar em todos os momentos. Devo minha vida ao Senhor.
+À minha mãe, Geni Abreu que tanto batalhou para criar seus dois filhos. Tenho
+muito, muito orgulho da mãe que você é, de ter me ensinado a ser uma pessoa do bem e por
+tanto ter se esforçado para nos criar e nos dar uma educação de qualidade.
+Ao meu pai, Joaquim de Abreu (in memorian) que partiu quando ainda éramos
+crianças, mas que, mesmo em outro plano, sempre nos vigiou e abençoou. Obrigado por ter me
+gerado em meio ao amor de vocês e pela educação que me transmitiu.
+À minha irmã, Carolina Abreu, minha grande amiga além de irmã, que me apoia
+em tudo e sempre cuidou de mim como se fosse minha mãe. Você, assim como mamãe , é um
+dos meus alicerces e inspiraç ão na vida. Tudo que sou, devo também a vocês duas. Ao meu
+cunhado, Ricardo Stutz pelo apoio e pela amizade, conte sempre conosco.
+Aos meus padrinhos, Luiz e Luiza Gama , e à Helena Cristina Gama (Tininha)
+por todo apoio, amor e carinho em toda minha vivência. Não teria feito Ciências Contábeis se
+não fosse pelos ensinamentos da minha madrinha e não estaria ao nde est ou hoje. Muito
+obrigado por existirem em minha vida.
+À Prof. Dra. Claudia Cruz, que me acolheu mesmo ainda não sabendo o meu
+tema, pelas risadas, ensinamentos e puxões de orelha . Dedico também o agradecimento aos
+professores: Marcia Carvalho, Carl os Viei ra e Alessandra Marques. Vocês todos fazem
+diferença pela qualidade e empenho no dever de ensinar, transformando nossas vidas e nos
+habilitando como profissionais competentes.
+Aos grandes amigos: Alana Aranha, Bruna Tinoco, Douglas Silva, Lucas Giglio,
+Leticia Frade, Phyllis Machado, Thiago França. Obrigado a todos vocês pelo carinho e amizade.
+Não obstante, ao s amigos que me acolhe ram e que não abandonarei: Heitor Pinheiro,
+João Victor Azevedo, Luiz Fernando Soares, Lucas Vieira, Matheus S ilva, Natan Dresch,
+Raphael Cardoso e Thiago Miceli. Vamos comemorar essa vitória no QG dos Novinhos.
+Ainda em tempo, aos meus grandes amigos Henrique Rabelo e Isaac Marques,
+reminiscentes do CEFET e que me apoiam em todos os momentos da vida. Amo todos vocês!
+4
+“Começar de novo,
+Trazendo as marcas das experiências passadas,
+Mas com mais leveza.
+Como se fosse uma folha de papel em branco.
+Um ano novo...Um recomeço.”
+Chico Xavier
+5
+RESUMO
+O presente estudo ambicionou analisar a relação entre a Capacidade de Pagamento (CAPAG)
+sob a égide da Portaria nº 501/2017 e o Índice Firjan de Gestão Fiscal (IFGF) , elaborado pela
+Federação das Indústrias do Estado do Rio de Janeiro (FIRJAN), no período de 2014 a 2016. O
+estudo cons idera que a capacid ade de pagamento dos entes públicos é uma dimensão
+potencialmente relacionada com a qualidade fiscal dos mesmos. Sob essa ótica, a pesquisa
+mediu, a partir de dados do Relatório Resumido da Execução Orçamentária (RREO) e Relatório
+da Gestão Fiscal (RGF) , a CAPAG das 26 capitais brasileiras a partir dos três indicadores:
+Índice de Endividamento, Índice de Poupança Corrente e Índice de Liquidez. O IFGF foi
+consultado no site da FIRJAN de acordo com a antiga metodologia, que era baseada nos cinco
+indicadores: Receita Própria, Gastos com Pessoal, Investimentos, Liquidez e Custo da Dívida.
+As capitais Macapá e João Pessoa foram excluídas da amostra devido à falta de informações
+para cálculo da CAPAG, tendo então o estudo uma amostra de 72 observações. As estatísticas
+descritivas elaboradas revelaram que ambas as dimensões apresentaram aderência na variação
+durante os anos em análise, além de apresentar pequena dispersão da amostra em relação à
+média, visualizada nos gráficos de dispersão elabora dos. Além disso, nã o foi verificada
+variação regional relevante quando comparadas as dimensões analisadas. Para verificação da
+existência ou não de relação entre as variáveis, foi utilizada a Correlação de Spearman como
+metodologia estatística . Os resultados do teste de corr elação confirmaram a existência de
+relação positiva e significativa entre a capacidade d e pagamento e o Índice Firjan de Gestão
+Fiscal, atingindo assim o objetivo do estudo.
+Palavras chaves: Capacidade de Pagamento; Gestão Fiscal, Índice Firjan; CAPAG;
+IFGF.
+6
+ABSTRACT
+The present study sought to analyze the relation between the payment capacity under the
+ordinance n. 501/2017 and the Firjan Fiscal Management Index (FFMI), prepared by the
+Industries Federation of the State of Rio de Janeiro, between 2014 to 2016. The study consider
+that the payment capacity of the public entities is a dimension potentially related to the fiscal
+management quality of the entities. In this way, the research measured, through data collection
+from the Summary Report on Budget Execution (RREO) and Fiscal Management Report
+(RGF), the payment capacity for the 26 brazilian state capitals through threee metrics:
+Indebtedness Metric, Current Savings Metric and Liquidity Metric. The FFMI was found on
+Industries Federation website, and was based in five indicators: Own Revenue, Staff Cost,
+Investments, Liquidity and Debt Cost. The capitals Macapá and João Pessoa were excluded of
+the sample due to the lack of information to calcule the payment capacity, resulting in a sample
+of 72 observations. The descriptive statistics made revealed that both dimension shows
+adhesion in variation during the years in analysis, besides the small dispersion in the sample in
+relation to the avarage, as shown in the scatter plot created. Furthermore, there was not verified
+a relevant variation when the analyses dimension were compared . In order to verify the
+existence or non -existence of the relation between the variables, it was used the Spearman
+Correlation as statistic methodology, besides the preparation of scatter plots, assessing any
+different observation comparing to the general. The Correlation test results confirmed the
+existence of positive and significant relation between the payment capacity and the Firjan Fiscal
+Management Index.
+7
+LISTA DE TABELAS
+Tabela 1: Estatísticas descritivas das capitais da região Norte ..................................... 26
+Tabela 2: Estatísticas descritivas das capitais da região Nordeste................................ 27
+Tabela 3: Estatísticas descritivas das capitais da região Centro-Oeste ......................... 28
+Tabela 4: Estatísticas descritivas das capitais da região Sudeste.................................. 29
+Tabela 5: Estatísticas descritivas das capitais da região Sul ......................................... 29
+Tabela 6: Estatísticas descritivas da CAPAG para cada região brasileira .................... 30
+Tabela 7: Estatísticas descritivas do IFGF para cada região brasileira......................... 31
+Tabela 8: Estatísticas descritivas das capitais brasileiras entre 2014 e 2016 ............... 32
+Tabela 9: Tabela de dados obtidos da CAPAG e moda por Estado ............................. 33
+Tabela 10: Correlação de Spearman ............................................................................. 36
+8
+Sumário
+1. INTRODUÇÃO .................................................................................................. 9
+2. REFERENCIAL TEÓRICO ........................................................................... 11
+2.1 Gestão Fiscal ..................................................................................................... 11
+2.2 Informações e indicadores de gestão fiscal .................................................... 12
+2.3 Endividamento público e a capacidade de pagamento ................................. 15
+2.4 Capacidade de pagamento segundo a Portaria nº 501/ 2017 e o Índice Firjan
+de Gestão Fiscal (IFGF) ......................................................................................... 19
+2.4.1. Capacidade de pagamento - Portaria nº 501/2017 ................................... 19
+2.4.2. Índice Firjan de Gestão Fiscal (IFGF) ...................................................... 21
+2.5 Estudos realizados anteriormente sobre o IFGF e a CAPAG ..................... 22
+3. METODOLOGIA ............................................................................................. 23
+3.1 Tipologia da pesquisa ...................................................................................... 23
+3.2 Amostra e período em análise ......................................................................... 23
+3.3 Coleta de dados ................................................................................................ 24
+3.4 Tratamento dos dados ..................................................................................... 25
+4. ANÁLISE DE DADOS E APRESENTAÇÃO DE RESULTADO ............... 26
+4.1 Análise dos dados por região .......................................................................... 26
+4.1.1 Região Norte .................................................................................................. 26
+4.1.2 Região Nordeste ............................................................................................ 27
+4.1.3 Região Centro-Oeste ..................................................................................... 28
+4.1.4 Região Sudeste ............................................................................................... 28
+4.1.5 Região Sul ...................................................................................................... 29
+4.1.6 Comparativo das regiões brasileiras por dimensão ................................... 30
+4.2 Análise dos dados por ano ............................................................................... 32
+4.3 Gráficos de Dispersão e Teste de Correlação de Spearman ........................ 33
+5. CONSIDERAÇÕES FINAIS ........................................................................... 37
+REFRÊNCIAS ............................................................... Erro! Indicador não definido.9
+9
+1. INTRODUÇÃO
+As esferas brasileiras de governo necessitam prestar contas da utilização de todos os
+recursos públicos por ela recebidos e despendidos. Estes recur sos podem ser pr ovenientes da
+arrecadação tributária, de transferências entre entes, de receitas patrimoniais, bem como aqueles
+oriundos da prestação de serviços públicos, dentre outros.
+Com o advento da Lei Complementar nº 101/2000, amplamente conhecida como Lei de
+Responsabilidade Fiscal (LRF), instituiu -se aos três poderes da República a necessidade de
+demonstrar periodicamente a gestão de seus órgãos, baseando-se na contabilidade pública para
+tal e possibilitando maior controle, transparência da execuçã o dos gastos, al ém de robustecer
+os dispositivos públicos de controle.
+Conforme disposto na LRF, em seu artigo 1º, §1º, a responsabilidade na gestão fiscal
+implica a ação planejada e transparente precavendo-se de riscos e retificando possíveis desvios
+que atinjam a estabilidade das contas públicas, respeitando desta maneira as metas de resultados
+entre receitas e despesas e os limites no que se refere à renúncia de receita, geração de despesa
+com pessoal, da seguridade social e outras, dívidas consolidada e mobiliária, ope rações de
+crédito, inclusive por antecipação de receita, concessão de garantia e inscrição em restos a pagar
+(BRASIL, 2000)
+Segundo Sena e Rogers (2007), a diretriz ergueu -se em resposta aos altos déficits
+públicos apresentados e o consecutivo endividame nto decorrente dos mesmos que se
+perpetuava de um governo a outro. Em decorrência disso, o gestor público não concretizava
+ações eficazes de gestão fiscal, transmitindo -as ao seu sucessor, prolongando dessa maneira a
+carga do desequilíbrio das contas, não havendo gestão efetiva sobre a adversidade.
+Para Gerigk, Clemente e Ribeiro (2014), a norma propõe um ambiente municipal
+voltado para a eficiência e qualidade na oferta de serviços públicos e seu propósito é refrear o
+déficit público e o endividamento crescente por meio da preservação do equilíbrio fiscal, pelo
+cumprimento das metas de resultado fiscal.
+Dentre as três esferas governamentais, os municípios são os que estão mais
+intrinsecamente ligados ao cidadão, em comparativo aos demais, uma vez que assumem quase
+toda a responsabilidade de ordenar a cidade e os serviços públicos oferecidos por esta, sendo
+tido como uma rede de relacionamentos pessoais, políticos e econômicos trabalhando em prol
+da população. Com isso, faz -se necessária a conscientização da importância e a consequência
+da LRF em relação a esses entes federativos (ROGERS; SENA, 2007).
+10
+O cenário vivenciado por grande parte dos municípios do Brasil é a escassez de recursos
+financeiros, o que ocasiona a limitação de suas ações administrativas. O estrangulamento da
+propensão a tributar e a elasticidade da demanda por serviços públicos são fatores responsáveis
+por boa parte da pressão submetida aos gestores municipais (GERIGK; CLEMENTE;
+RIBEIRO, 2014).
+Sob esse prisma, os municípios recorrem ao endi vidamento para ampliar a oferta de
+serviços públicos à população ou, ainda, financiar as atividades operacionais. Para tal, o ente
+governamental recorre a instituições financeiras da União ou ao mercado financeiro. Tal
+processo acarreta um aumento de gastos, uma vez que tais empréstimos geram juros e encargos
+que passam a compor o conjunto de despesas correntes.
+Determinados municípios não conseguem amortizar de maneira contínua o principal da
+dívida em decorrência da onerosidade da despesa com pessoal, qu e usualmente é o principal
+gasto dos entes. Com isso, ficou instituído que o limite global do endividamento não pode
+exceder 120% da Receita Corrente Líquida dos municípios, conforme disposto no Art. 3º, inciso
+II da Resolução nº 40 do Senado Federal de 2001 (BRASIL, 2001).
+Neste contexto de crescente endividamento, faz -se necessário abordar a capacidade de
+pagamento (CAPAG) dos entes, uma vez que para a concessão de empréstimos, o aval da União
+ou concessão de garantia se faz necessário e cada esfera passa por uma análise de crédito a ser
+realizada pela Secretaria do Tesouro Nacional (STN), conforme determinado pela Portaria nº
+501, de 23 de novembro de 2017, do Ministério da Fazenda, que veio em substituição a Portaria
+nº 306, de 10 de setembro de 2012, também do Ministério d a Faz enda, com o objetivo de
+simplificar a análise dos entes governamentais que pleiteiam a operação de crédito.
+Diante desse prisma, o presente estudo tem como objetivo: analisar a relação entre a
+capacidade de pagamento das capitais brasileiras com a qualidade da gestão fiscal. À luz
+da leitura empírica e normas técnicas relativas ao tema explorado nesse assunto, assume -se o
+pressuposto de que a capacidade de pagamento dos entes públicos é uma dimensão
+potencialmente relacionada com a qualidade fiscal dos mesmos.
+Para atingir o objetivo desse estudo , foram coletados e analisados dados apresentados
+no relatório de gestão fiscal (RGF) e no relatório resumido da execução orçamentária (RREO)
+das 26 capitais brasileiras entre o período de 2014 e 2016 sob a é gide da Portaria nº 501/2017
+que orienta a apuração da capacidade de pagamento dos entes federativos. Os dados coletados
+no RREO e RGF foram utilizados para apurar a CAPAG. A qualidade da gestão fiscal das
+11
+capitais brasileiras consideradas no estudo foi me dida pel o Índice Firjan de Gestão Fiscal
+(IFGF) elaborado pela Federação das Indústrias do Estado do Rio de Janeiro (Firjan).
+A pesquisa realizada justifica-se pelo fato de transmitir a sociedade maior clareza sobre
+o resultado da gestão fiscal das capitai s utilizando da Portaria nº 501/2017 como prerrogativa
+por ser mais recente e por representar parte da realidade fiscal dos entes governamentais. Além
+disso, buscou esclarecer ao usuário da informação pública se a gestão fiscal das capitais tem
+melhorado de acordo com os anos e se estão em linha com o que foi apurado no Índice Firjan
+de Gestão Fiscal (IFGF).
+2. REFERENCIAL TEÓRICO
+2.1 Gestão Fiscal
+Segundo Cruz (2015), a Lei de Responsabilidade Fiscal (LRF) estabelece que a ação
+planejada e mecanismos eficien tes de c ontrole são necessários para o equilíbrio das contas
+públicas. Todavia, os principais estudos empíricos elaborados no Brasil sobre gestão fiscal
+avaliam somente o pilar do cumprimento de metas e limites dispostos na lei. O grande
+fundamento da Lei Complementar nº 101/ 2000 é o equilíbrio fiscal, sendo este o preceito mais
+abrangente e que ultrapassa o simples e puro equilíbrio orçamentário (ROGERS; SENA, 2007).
+Macedo e Corbari (2009) consideram que as metas estabelecidas na LRF estão
+associadas aos dispêndios do órgão público e a sua arrecadação, uma vez que as mesmas são
+metas fiscais. Dessa forma, uma vez calculada por meio de indicadores financeiros, torna -se
+viável a avaliação dos resultados do ente governamental e sua relação com o endividament o
+daquela entidade.
+Hendrick (2004 apud Cruz e Afonso, 2018) complementou ao afirmar que a existência
+de estudos abrangentes a respeito da gestão fiscal responsável auxilia na identificação ou não
+de vínculo entre a relação de limites e metas e a própria gestão e até mesmo para suscitar debates
+a respeito da adequação dos órgãos públicos a tais mecanismos dispostos para auxiliar o
+gerenciamento fiscal.
+Um ponto que tem sido abordado na literatura de forma crescente é que a avaliação da
+gestão fiscal não pode se restringir a uma perspectiva unidirecional, mas considerar as diversas
+perspectivas da gestão pública que têm desdobramentos em termos de desempenho fiscal. A
+despeito dessa perspectiva multidimensional da avaliação da gestão fiscal, os indicadores
+baseados e m dados da execução orçamentária e financeira representam a dimensão mais
+12
+recorrente nas pesquisas e em análises técnicas feitas sobre o desempenho fiscal dos entes
+públicos.
+2.2 Informações e indicadores de gestão fiscal
+De acordo com Lima e Diniz (2016), a informação financeira governamental visa, de
+forma primordial, nortear a avaliação da situação financeira de entes públicos e assim,
+corroborar para o processo de accountability, apresentando de forma clara e acessível a
+prestação de contas das atuações realizadas aos cidadãos, sendo fundamental que tais atuações
+sejam de qualidade e que a situação financeira do ente seja adequada.
+Martins e Marques (2013) dispõem em seu estudo que na gestão fiscal a LRF tem por
+finalidade conter o déficit público a fim de manter estável a dívida em níveis razoáveis frente à
+condição de economia emergente em que o Brasil está enquadrado. Para tal equilíbrio, os
+gestores públicos necessitam observar os limites, regras e condições estipulad as pela LRF,
+seguindo também as premissas de transparência e atuando de forma planejada.
+Cruz (2015) afirma que, de acordo com as determinações encontradas nas leis e normas
+aplicadas ao setor público, são requisitos da responsabilidade da gestão a conform idade aos
+limites e requisitos no que se refere à geração de despesa com pessoal, seguridade social, dívida
+mobiliária, operações de crédito, dívida consolidada e renúncia de receitas. É fundamental
+também a observância das metas e resultados entre as despesas e receitas governamentais.
+A Lei de Responsabilidade Fiscal (LRF) estabelece no seu art. 48 que o Relatório de
+Gestão Fiscal (RGF), o Relatório Resumido da Execução Orçamentária (RREO), e suas versões
+simplificadas são mecanismos de transparência da gestão fiscal. Além disso, ela determina que
+deve ser dada ampla divulgação aos orçamentos e leis de diretrizes orçamentárias, aos planos,
+prestações de contas e pareceres prévios emitidos, inclusive utilizando os meios eletrônicos de
+acesso público.
+Pelas concepções de Cruz e Afonso (2018), os estudos brasileiros têm analisado apenas
+o pilar da responsabilidade no cumprimento de metas e limites em suas pesquisas. Ainda nesse
+pensamento, a realização dos limites e metas definidas está intrinsicamente ligado a um sistema
+de controle e gestão que retifiquem erros e desvios e precaver -se de riscos que sejam capazes
+de atingir o equilíbrio fiscal e estes baseiam os estudos sobre responsabilidade e gestão fiscal,
+bem como os dispositivos legais existentes.
+Com iss o, alguns dados se destacam frente a outros, uma vez que são insumos para
+cálculos de índices fundamentais à averiguação da gestão fiscal. Um exemplo é a Receita
+13
+Corrente Líquida (RCL) que é apresentada no RREO e, de acordo com a LRF art. 2º, inciso IV,
+constitui-se pelo:
+Somatório das rec eitas tributárias, de contribuições, patrimoniais, industriais,
+agropecuárias, de serviços, transferências correntes e outras receitas também
+correntes, deduzidos: c) na União, nos Estados e nos Municípios, a contribuição dos
+servidores para custeio do seu sistema de previdência e assistência social e as receitas
+provenientes da compensação financeira citada no § 9º do art. 201 da Constituição
+(BRASIL, 2000).
+Para Alves, Freitas e Oliveira (2015 apud Costa e Silva, 2016), a RCL corresponde, de
+maneira clara, aos recursos arrecadados livres e prontos para serem utilizados pelos gestores
+públicos em diversas áreas governamentais. Dessa maneira, a LRF predispõe que índices como
+a despesa total como pessoal e dívida pública seja m delimitados com base na RCL devido a
+importância do equilíbrio entre receitas e despesas.
+A despesa total com pessoal é evidenciada no Demonstrativo da despesa com pessoal
+que compõe Relatório de Gestão Fiscal (RGF). Ela se refere ao somatório dos gastos
+dispendidos com funcionários ativ os, inativos, pensionistas, com mandatos eletivos, dentre
+outros, que possua qualquer natureza de remuneração (salário, pensão, aposentadoria
+gratificações e etc.) bem como as contribuições e encargos incorridos, de acordo com o art. 18
+da LRF (BRASIL, 2000).
+Segundo o Manual de Demonstrativos Fiscais (MDF), o demonstrativo tem como
+objetivo a “transparência da despesa com pessoal de cada um dos poderes e órgãos com
+autonomia administrativa, orçamentária e financeira conferida na forma d a Constituição,
+notadamente quanto à adequação aos limites de que trata a Lei de Responsabilidade Fiscal -
+LRF” (BRASIL, 2020).
+Os limites referidos são tratados no art. 19 da LRF, onde é estipulado que a despesa total
+com pessoal não poderá exceder a RCL nos seguintes percentuais para cada quadrimestre
+averiguado: 60% para Municípios e Estados e 50% para União. Para tal mensuração de limite,
+devem ser desconsideradas as despesas apresentadas no §1º e §2º do mesmo artigo. Em termos
+de limites globais, a despesa com pessoal na esfera municipal deve ser de até 6% para o Poder
+Legislativo (incluindo o Tribunal de Contas do Município (TCM), quando existir) e 54% para
+o Poder Executivo, conforme art. 20 da LRF.
+Outros limites são elencados na LRF e são usualmente conhecidos como limite de alerta
+e limite prudencial. O limite de alerta, conforme disposto no art. 59, inciso II do § 1º afirma que
+os Tribunais de Contas alertarão o ente governamental quando identificado que os valores
+apurados na despesa total com pessoal excederam 90% do limite máximo. Já o limite prudencial
+14
+está previsto no art. 22 da LRF e fixa que, uma vez ultrapassado 95% do limite máximo disposto
+no art. 19, ficam vedados ao ente público:
+I – concessão de vantagem, aumento, reajuste ou adequação de remuneração a
+qualquer título, (...);
+II – criação de cargo, emprego ou função;
+III – alteração de estrutura de carreira que implique aumento de despesa;
+IV – provimento de cargo público, admissão ou contratação de pessoal a qualquer
+título, ressalvada a reposição decorrente de aposentadoria ou falec imento de
+servidores das áreas da educação, saúde e segurança;
+V – contratação de hora extra, salvo no caso do disposto no inciso II do § 6º do art. 57
+da Constituição e as situações previstas na lei de diretrizes orçamentárias (BRASIL,
+2000).
+Existe também o dado da dí vida pública consolidada que representa o valor total dos
+compromissos financei ros firmados pelo órgão público por meio de operações de crédito,
+contratos, convênios, leis e que possuam vencimento acima de doze meses para pagamento,
+conforme descrito no art. 29, inciso I da LRF. Ela é detalhada na RGF quadrimestralmente e,
+após deduzidas as disponibilidades de caixa e demais haveres financeiros, líquidos dos restos a
+pagar processados, é apurada a Dívida Consolidada Líquida (DCL).
+O artigo 30 da referida l ei aponta que o Presidente da República deve submeter ao
+Senado Federal proposta de limites globais da dívida consolidada para cada ente federativo e
+ao Congresso Nacional o limite da dívida mobiliária federal. Dessa maneira, o limite estipulado
+para a dív ida consolidada líquida (DCL) apresentado no art. 3º da Resolução nº 40/2 001 do
+Senado Federal não poderá exceder a:
+I - no caso dos Estados e do Distrito Federal: 2 (duas) vezes a receita corrente líquida,
+definida na forma do art. 2; e
+II - no caso dos Municípios: a 1,2 (um inteiro e dois décimos) vezes a receita corrente
+líquida, definida na forma do art. 2.
+Parágrafo único. Após o prazo a que se refere o caput, a inobservância dos limites
+estabelecidos em seus incisos I e II sujeitará os entes da Federaç ão às disposições do
+art. 31 da Lei Complementar nº 101, de 4 de maio de 2000 (BRASIL, 2001).
+Assim como no caso da despesa com pessoal, os Tribunais de Contas alertarão os entes
+quando a totalidade das dívidas consolidadas e mobiliária estiver acima de 90% dos respectivos
+limites conforme exposto no inciso III do artigo 59. De acordo com Marques e Martins (2013),
+caso seja constatado que a unidade federativa ultrapassou ao final do quadrimestre o limite,
+providências deverão ser tomadas nos três períodos consecutivos, se ndo que logo no primeiro
+o excedente deverá ser reduzido em 25%, a fim d e que haja retomada a padrões normais de
+endividamento ao fim de um ano.
+Durante esse interim, o ente sofrerá as seguintes penalidades: obter resultado primário
+suficiente para o enquadramento da dívida ao limite fixado por meio de limitação de empenho,
+15
+por exemplo, bem como estará proibido de recorrer a operações de crédito, sejam elas internas
+ou externas, salvaguardando o refinanciamento do principal atualizado da dívida mobiliária.
+O indicador de resultado primário citado acima é obtido pela subtração das receitas e
+despesas orçamentárias, sendo elas corrente e de capital, excet uando as operações financeiras
+incorridas. Tais despesas e receitas descontadas pelas operações financeira s, são nomeadas
+como Receita e Despesa Primária.
+Quando encontrado um superávit primário, ou seja, um resultado positivo incorrido no
+cálculo entre as receitas e despesas primárias, sinaliza -se que o governo está operando dentro
+dos limites orçamentários, demonstrando assim a capacidade de pagamento da dívida e seus
+encargos, podendo contribuir para a redução do nível de endividamento (LIMA; DINIZ, 2016).
+O resultado primário negativo já indica que os gastos orçamentários estão acima do volume de
+arrecadação o que, por sua vez, contribui para o crescimento da dívida pública.
+O indicador de resultado nominal pode ser mensurado por meio do resultado primário,
+sendo acrescidos os juros ativos e descontados os juros passivos, conforme disposto no MDF
+(2020) e é o critério “acima da linha”. Quando negativo, evidencia -se a necessidade de obter
+financiamento para o custeio de suas operações já que o ente não conseguiu obter receitas
+suficientes para custear suas despesas. No Brasil é utilizado o método “abaixo da li nha”, que
+considera a DCL acrescida pelas Receitas de Privatizações e retirados os Passivos reconhecidos,
+obtendo-se assim a Dívida Fiscal Líquida. (LIMA; DINIZ, 2016).
+Para a presente pesquisa, foram utilizados alguns dos indicadores exemplificados
+anteriormente como o índice de endividamento uma vez que o mesmo compõe um dos três
+índices da Portaria 501/2017. No caso do IFGF, um dos cinco componentes do IFGF Geral é o
+IFGF Gastos com Pessoal, onde ele utiliza a Despesa com Pessoal Total e a RCL para apuração
+do índice.
+2.3 Endividamento público e a capacidade de pagamento
+Lima e Diniz (2016) ponderam que a figura do endividamento se apresenta em geral
+após a insuficiência dos recursos para a manutenção do instrumento público e também de sua
+ampliação. Por isso, os governantes recorrem ao endividamento ou mesmo antecipação de
+receitas a fim de manter o nível dos serviços prestados e prosseguimento dos projetos de
+investimentos como, construção de hospitais, aquisição de imóveis, realização de obras, dentre
+outros.
+16
+O endividamento dos entes públicos “resulta de despesas superiores às receitas do ente
+público, possível apenas em face da concessão de crédito por terceiro de forma voluntária ou
+não” (CORBARI, 2008 apud Macedo e Corbari, 2009). Nesse contexto, sur ge a fi gura da
+operação de crédito que, de acordo com a definição constante na LRF sob o inciso III do artigo
+29 é figurada como:
+compromisso financeiro assumido em razão de mútuo, abertura de crédito, emissão e
+aceite de título, aquisição financiada de be ns, rec ebimento antecipado de valores
+provenientes da venda a termo de bens e serviços, arrendamento mercantil e outras
+operações assemelhadas, inclusive com o uso de derivativos financeiros;
+O MCASP (2019) pondera que as operações de crédito nem sempre são realizadas com
+instituições financeiras, quando há a entrada de recursos/receitas no ente e apresenta uma
+síntese de exemplos de operações de crédito conforme exposto no Quadro 1.
+Quadro 1: Resumo das operações de crédito
+Síntese a respeito das operações de crédito
+São Operações de
+Crédito
+- Aquisição financiada de bens;
+- Abertura de crédito;
+- Mútuos;
+- Emissão e aceite de títulos;
+- Operações de crédito por antecipação de receita orçamentária - ARO;
+- Arrendamento mercantil;
+- Recebimento antecipado de valores provenientes da venda e termo de bens e serviços;
+- Outras operações assemelhadas, inclusive com o uso de derivativos financeiros.
+Equiparam-se a
+Operações de
+Crédito
+- Assunção, reconhecimento ou confissão de dívidas.
+Equiparam-se a
+Operações de
+Crédito e estão
+vedados
+- A captação de recursos a título de antecipação de receita de tributo ou contribuição
+cujo fato gerador ainda não tenha ocorrido, exceto para o responsável tributário quando
+assim determinado;
+- O recebimento antecipad o de valo res de empresa em que o poder público detenha,
+direta ou indiretamente, a maioria do capital social com direito a voto, salvo lucros e
+dividendos, na forma da legislação;
+- A assunção direta de compromisso, a confissão de dívida ou operação asseme lhada,
+com fornecedor de bens, mercadorias ou serviços, mediante emissão, aceite ou aval de
+título de crédito, não se aplicando esta vedação a empresas estatais dependentes;
+- A assunção de obrigação, sem autorização orçamentária, com fornecedores para
+pagamento a posteriori de bens e serviços.
+Não são Operações
+de Crédito (desde
+que não implique em
+elevação da dívida
+consolidada líquida)
+- Assunção de obrigação entre pessoas jurídicas (administração direta, fundos,
+autarquias, fundações e empresas estatai s dependentes) integrantes do mesmo estado,
+Distrito Federal ou município.
+- Parcelamento de débitos preexistentes junto a instituições não financeiras.
+Fonte: Brasil, Secretaria do Tesouro Nacional (2019).
+A Constituição Federal de 1988 determina em seu artigo 167, inciso III que são vedadas
+as operações de crédito cujo valor ultrapasse o total das despesas de capital, salvo àquelas que
+já possuam autorização por meio de créditos especiais ou suplementares aprovados pelo
+17
+Legislativo e que possuam destinação específica e definida, cerceando dessa maneira o avanço
+da dívida (BRASIL, 1988).
+Esse conceito é conhecido como “regra de ouro” da gestão fiscal uma vez que, juntamente
+com a Resolução nº 48/2007 do Senado Federal e o Art. 32, §3º da LRF, delimitam os gestores
+públicos a uti lizarem os recursos oriundos das operações de crédito apenas em gastos com
+investimentos ou amortização do principal da dívida (BRASIL, 2007)
+É nesse contexto que a Secretaria do Tesouro Nacional (STN) emitiu em 2012 a Portaria
+nº 306 que visava analisar a capacidade de pagamento e de contrapartida dos estados, Distrito
+Federal e dos municípios para a concessão de aval e garantia por parte da União àqueles que
+almejassem adquirir novos empréstimos.
+O objetivo da STN foi de mensurar, de forma mai s completa, o risco da co ncessão da
+garantia e aval do Tesouro Nacional, bem como a capacidade de pagamento, por meio da
+apuração e classificação da situação financeira do ente em análise. A metodologia de apuração
+da CAPAG disposta na Portaria nº 89/1997 avaliava os Municípios, Estados e Distrito Federal
+basicamente pelo resultado primário médio, realizado por meio da média móvel ponderada dos
+balanços orçamentários e dos projetados para os próximos dez anos, avaliando os entes em
+categorias tipo A, B, C e D conforme disposto no A rt. 3º da Portaria nº 8 9/1997. Àqueles que
+atendessem até a categoria “C” eram classificados como tendo capacidade de pagamento desde
+que fossem considerados todos os impactos do pleito específico conforme disposto no Art. 6º
+da mesma portaria.
+A regulamentação da capacidade de pagamento reflete a evolução que tem ocorrido no
+Sistema de Garantias da União, que é organizado para proporcionar a responsabilidade dos
+agentes na condução da política fiscal, o equilíbrio das contas públicas, assim como a solvência
+nos casos de endividamento dos entes federativos, conforme descrito pelo Tesouro Nacional
+(2018).
+Para Pellegrini e Barros (2017), a metodologia de cálculo apresentada pela portaria de
+2012 é muito complexa e se divide em duas etapas: determinação de n otas entre A+ (melhor
+situação) a D - (pior situação) para os entes com base na situação fiscal atrelada ao risco de
+crédito, analisada pelos indicadores econômico-financeiros do mesmo, e a análise da operação
+de crédito em sua essência. É determinado també m pela portaria que, somente os entes que
+obtiveram o resultado de A+ a B- poderão passar para a segunda etapa. Além disso, àqueles que
+18
+obtiveram negativa na última parte do cálculo receberão a avaliação tipo C , mesmo que tenha
+obtido nota superior na primeira etapa.
+A Portaria nº 306/2012 dispõe que os seguintes índices são avaliados para a determinação
+da nota do ente em análise: I - Endividamento (Dívida Pública Consolidada/RCL); II - Serviço
+da Dívida na RCL (Serviço da Dívida/RCL x 100); III - Resultado primário servindo a Dívida
+(Resultado Primário/Serviço da Dívida); IV - Despesa com Pessoal e Encargos Sociais na RCL
+(Desp. com Pessoal e Encargos Sociais/RCL x 100); V - Capacidade de Geração de Poupança
+Própria ((Receitas Correntes – Despesas Corrente s)/Receitas Correntes x 100); VI -
+Participação dos Investimentos na Despesa Total (Investimentos/Despesa Total x 100); VII -
+Participação das Contribuições e Remunerações do RPPS nas Despesas Previdenciárias
+(Contribuições + Remunerações do RPPS/Despesas Previdenciárias x 100) e VIII - Receitas
+Tributárias nas Despesas de Custeio (Receitas Tributárias/Despesas de Custeio x 100).
+A referida Portaria também apresenta uma estrutura de pesos para cada ano em análise.
+Dessa maneira, para o ano em análise, se tem um peso de 0,5, para o ano anterior ao em análise
+se atribui um peso de 0,3, e para o último ano em análise tem -se o peso 0,2. Além disso, cada
+indicador terá uma nota entre 0 e 6, cada nota referente ao campo de variação de cada indicador,
+onde os índices I, II, IV e VI são crescentes e os indicadores III, V, VII e VIII são decrescentes.
+Após a apuração de tal nota, cada indicador terá um peso atribuído, conforme relação a
+seguir: I – Peso 10; II – Peso 9; III – Peso 8; IV – Peso 7; V – Peso 4; VI – Peso 3; VII – Peso
+2 e VIII – Peso 1. Dessa maneira, após a ponderação, o ente que atingir a pontuação entre 0 e
+0,5 enquadra-se como A+; maior que 0,5 e até 1,00, classifica-se como A; após 1 e até 1,5, terá
+nota A-; maior que 1,5 e até 2,00 será B+; para B terá que obter uma nota superior a 2,00 e até
+2,50; após 2,50 até 3,00 será classificado como B - e assim irá até decrescendo 0,5 ponto e
+reduzindo a classificação até atingir o mínimo possível, a nota D- que é acima de 5,50 até 6.
+Para enquadramento da nova operação, apenas os entes que obtiveram nota entre A+ e B-
+tem os seguintes parâmetros avaliados: Indicador de endividamento e o Indicador de Serviço
+da Dívida. Dessa maneira, caso o ente tenha atendido um dos dois parâmetr os dispostos
+anteriormente e obtido nota entre A+ e B- terá sua capacidade de pagamento atestada pela STN.
+Lopes (2019) pondera que esse critério de análise foi adotado até 2017, quando foi
+instituída uma nova metodologia para a apuração da capacidade de pagamento dos pleiteantes.
+Além disso, tal alteração é consoante a um processo de modernização do sistema de garantias,
+19
+onde foi objetivada a eficiência, a automatização e facilitação dos cálculos e análises, de forma
+que torne o processo mais transparente e seguro.
+2.4 Capacidade de pagamento segundo a Portaria nº 501/ 2017 e o Índice Firjan de
+Gestão Fiscal (IFGF)
+2.4.1. Capacidade de pagamento - Portaria nº 501/2017
+Em 23 de novembro de 2017, o Ministério da Fazenda elaborou, por meio da Secretaria
+do Tesouro Nacional (STN), com o apoio do Banco Mundial, a nova metodologia para cálculo
+da capacidade de pagamento para a classificação do ente a fim de basear a decisão de conceder
+garantia ou aval da União para as operações de crédito, sejam elas internas ou externas.
+Pellegrini (2017) dis põe que a recente regulamentação se baseia nos seguintes
+indicadores para a obtenção da classificação da CAPAG: a) endividamento (DC); b) poupança
+corrente (PC); e c) liquidez (IL). O indicador de endividamento é originado p ela relação entre
+a dívida consolidada bruta e a RCL, sendo ambas referentes ao exercício anterior. Este índice
+de endividamento também era utilizado na portaria de 2012, mas possuía maior peso para sua
+avaliação, além de utilizar a Dívida Pública Consolid ada, retratando mais a gestão fi scal
+anterior do que a presente.
+Já o indicador de poupança corrente é apurado pela relação entre despesas correntes e
+receitas correntes ajustadas dos três últimos exercícios por meio de uma média ponderada, onde
+o exercício imediatamente precedente tem peso de 50% e os demais 30% e 20%. A Portaria nº
+882/2018, emitida pela Secretaria do Tesouro Nacional definiu a receita corrente ajustada da
+seguinte maneira:
+somatório das receitas tributárias, de contribuições, pat rimoniais, industriais,
+agropecuárias, de serviços, transferências correntes (inclusive os recursos recebidos
+do FUNDEB) e outras receitas também correntes, consideradas as receitas
+intraorçamentárias e os recursos repassados aos Municípios e desconsiderad as as
+restituições de receitas, os pagamentos para formação do FUNDEB e outras deduções
+de receitas correntes (BRASIL, 2018).
+A explicação para a realização da média ponderada dos três anos últimos, segundo Pontes
+(2019), se deu pelo fato dos ciclos econômicos poderem va riar significativamente o montante
+da RC ajustada e a despesa corrente ser menos volátil, visou -se atenuar o comportamento do
+indicador bem como as possíveis mudanças bruscas causadas pelos fatores relatados acima,
+resultando em mudança de classificação do índice.
+O terceiro índice é mensurado por meio da relação das obrigações financeiras das fontes
+de recursos não vinculadas e a disponibilidade de caixa bruta. Ele verifica se o ente tem caixa
+20
+suficiente e totalmente desembaraçado para o cumprimento das obrigações financeiras que o
+ente possui para o curto prazo, ou seja, mais imediatas como descrito por Pontes (2019).
+O artigo 2º da Portaria nº 502/2017 elenca a forma de avaliação para cada índice conforme
+quadro a seguir:
+Quadro 2: Classificação parcial dos indicadores econômico-financeiros
+Indicador Método de cálculo Faixas de análise Classificação parcial
+Endividamento
+(DC)
+Dívida consolidada bruta /
+Receita corrente líquida
+DC < 60% A
+60% ≤ DC < 150% B
+DC ≥ 150% C
+Poupança corrente
+(PC)
+Despesas correntes /
+Receitas correntes ajustadas
+PC < 90% A
+90% ≤ PC < 95% B
+PC ≥ 95% C
+Liquidez (IL) Obrigações financeiras /
+Disponibilidade de caixa bruta
+IL < 1 A
+IL ≥ 1 C
+Fonte: Portaria nº 501, de 23 de novembro de 2017
+Depois de avaliados individualmente, determina-se o conceito final ao ente por meio da
+combinação das notas obtidas anteriormente, consoante com o demonstrativo do Quadro 3 a
+seguir:
+Quadro 3: Classificação final dos indicadores
+Classificação Parcial dos Indicadores Classificação final da CAPAG do ente Endividamento (DC) Poupança corrente (PC) Liquidez (IL)
+A A A A
+B A A
+B
+C A A
+A B A
+B B A
+C B A
+C C C D
+Demais combinações de classificações parciais C
+Fonte: Portaria nº 501, de 23 de novembro de 2017
+Dessa forma, o índice é avaliado alfabeticamente de forma decrescente, ou seja, a
+classificação A indica que o ente tem a melhor capacidade de pagamento e a classificação D o
+ente tem a pior classificação qua nto a sua capacidade de pagamento. Quando o ente pleiteia a
+concessão de garantia ou aval da união e o mesmo é adepto a Programas de Reestruturação e
+Ajuste Fiscal ou Programas de Acompanhamento Fiscal, a avaliação da CAPAG é feita
+anualmente, assim como se houver indícios de deterioração significativa da situação financeira
+do ente.
+21
+2.4.2. Índice Firjan de Gestão Fiscal (IFGF)
+Azevedo (2004 apud Miranda et al., 2018) expõe que para a realização de análise a
+respeito da situação da administração pública se aplicam indicadores financeiros, de resultado,
+contábeis ou de desenvolvimento, o que possibilita a mensuração das políticas e projetos
+públicos desenvolvidos e empregados em diversas esferas.
+Dessa maneira, a Federação das Indústrias do Estado do Rio de Janeiro (FIRJAN)
+desenvolveu o Índice FIRJAN de Gestão Fiscal (IFGF), que tem como propósito o fomento da
+cultura da responsabilidade na administração pública , de forma a aperfe içoar a tomada de
+decisão dos gestores públicos e a forma de alocação dos recursos do ente, culminando em uma
+melhor gestão fiscal (SILVA et al., 2020).
+Em 2019, a FIRJAN emitiu um anexo metodológico onde elenca a forma de análise para
+apuração do IFGF Ger al. O índice geral é composto atualmente por quatro indicadores que
+possuem pe so equivalente de 25%, são eles: Autonomia, Gastos com pessoal, Liquidez,
+Investimentos. As fórmulas para apuração de cada indicador estão apresentadas a seguir:
+Quadro 4: Indicadores para cálculo da Gestão Fiscal
+Indicador Intuito Método
+Autonomia Capacidade de financiar a estrutura
+administrativa
+Receita Local – Estrut. Admin. / Receita
+Corrente Líquida
+Gastos com pessoal Grau de rigidez do orçamento Gastos com Pessoal /
+Receita Corrente Líquida
+Liquidez Cumprimento das obrigações financeiras Caixa - Restos a Pagar /
+Receita Corrente Líquida
+Investimentos Capacidade de gerar bem -estar e
+competitividade
+Investimentos /
+Receita Total
+Fonte: Anexo Metodológico – IFGF 2019
+A FIRJAN (2017) apresenta que o índice era elaborado a partir da apuração dos índices:
+Receita Própria, Liquidez, Investimentos, Gastos com pessoal e Custo da Dívida, sendo
+avaliados com um peso de 22,5% para os quatro primei ros e 10% para o último. Quando
+comparado com a nova metodologia, v erifica-se que o indicador custo da dívida foi retirado,
+tendo sido o peso distribuído entre os demais.
+Após a apuração de cada índice, que geralmente variam entre 0 e 1, existem quatro tipos
+de conceitos estabelecidos para análise do IFGF que auxiliam na avaliação e que foram
+distribuídos na seguinte faixa: Gestão de Excelência para resultados superiores a 0,8 ponto; Boa
+Gestão para resultados entre 0,6 e 0,8 ponto; Gestão em Dificuldade para resultados entre 0,4 e
+0,6 ponto; e por fim, Gestão Crítica para resultados inferiores a 0,4 ponto. (FIRJAN, 2019).
+22
+2.5 Estudos realizados anteriormente sobre o IFGF e a CAPAG
+Diversos estudos têm sido realizados no intuito de compreender características
+relacionadas aos entes públicos sobre a perspectiva fiscal, tanto a partir do uso de indicadores
+fiscais oficiais como dados primários, como também indicadores propostos por pes quisadores
+e entidades, em que se destaca o IFGF, divulgado pela Firjan.
+Miranda et al. (2018) objetivaram avaliar a qualidade da Gestão Fiscal dos 27 estados
+brasileiros utilizando os dado s apresentados no IFGF, mensurados pelos cinco indicadores
+apresentados pela metodologia anterior, relativo ao período de 2011 a 2015. Os resultados
+obtidos apontaram que 85,2% dos estados foram avaliados como Gestão Fiscal em Dificuldade
+e 7,4% como situação Fiscal Crítica.
+Medeiros, Oliveira e Caminha (2019) analisaram os municípios do Estado do Tocantins
+para os anos de 2006 a 2013 com base nos dados apresentados pela FIRJAN no IFGF, também
+pela metodologia anterior relativa aos cinco índices listados an teriormente. O estudo apontou
+uma redução do índice geral no período de análise, tendo sido o IFGF da Receita Própria o de
+pior desempenho, motivado pela dependência de transferências governamentais, sendo seguido
+pelos índices do IFGF de Gasto com Pessoal e de Investimentos.
+Silva et al. (2020) buscaram examinar quais os fatores explicativos para a gestão fiscal
+apresentada pela FIRJAN. Tal análise foi feita por meio de investigação da pesquisa avaliativa
+de resultados, apurando -se que as variáveis do Prod uto Interno Bruto – PIB per capita, a
+localização dos municípios e o Índice de Governança Municipal – IGM utilizadas no modelo
+regressivo foram significativas para explicar a gestão fiscal, enquanto o Índice FIRJAN de
+Desenvolvimento Municipal (IFDM) e o número de habitantes não se mostraram relevantes.
+Com relação a trabalhos voltados para a análise da capacidade de pagamento, Honório
+(2019) buscou analisar a relação entre o endividamento dos estados brasileiros e a capacidade
+de pagamento, utilizando a dí vida consolidada e a RCL para comparativo. Como resultado,
+obteve-se que a maioria dos estados está endividada, com perspectiva de crescimento contínuo
+da dívida, mas que sua conjuntura econômica não é determinante para o nível de endividamento
+dos mesmos.
+Lopes (2019) objetivou a avaliação da situação financeira e fisca l do Estado de Minas
+Gerais sob a ótica da capacidade de pagamento durante o período de 2012 e 2017, buscando
+verificar a trajetória do ente até 2017. O estudo concluiu que em 2012 o estado já não possuía
+23
+uma situação satisfatória e que foi se agravando até 2017, em que apresentou nota D segundo a
+metodologia apresentada na Portaria nº 501/2017.
+Lima (2019) investigou os indicadores de sustentabilidade fiscal aplicados no estado do
+Paraná. Foram utilizadas informações apresentadas pela Secretaria de Fazenda do Estado e da
+Secretaria do Tesouro Nacional (STN) relativas ao período de 2000 a 2017. O estudo
+demonstrou a essencialidade da análise dos sinalizadores de vulnerabilidade fiscal para as
+antecipações de futuros problemas fiscais.
+A partir de lacunas identificadas nos estudos apresentados, a presente pesquisa pretende
+analisar se existe relação entre a gestão fiscal e a capacidade de pagamento dos municípios,
+uma vez que são variáveis que r efletem a qualidade da gestão fiscal nestes entes públicos e se
+diferencia dos demais por avaliar as capitais dos estados brasileiros, correlacionando dois
+diferentes critérios de análise de gestão fiscal.
+3. METODOLOGIA
+3.1 Tipologia da pesquisa
+A pesquisa realizada caracterizou-se como descritiva p or objetivar a identificação de
+relacionamento entre uma variável representativa de Capacidade de Pagamento (CAPAG) e
+outra de qualidade da gestão fiscal, o Índice Firjan de Gestão Fiscal, indo além dos estudos
+outrora realizados. A abordagem do problema foi quantitativa, empregando a Correlação de
+Spearman para análise de correlação dos dados.
+Com relação aos procedimentos utilizados para a avaliação, fora m realizados
+levantamentos de dados no portal da Firjan para obtenção dos dados relativos ao IFGF, além de
+ter sido consultado o Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro
+(SICONFI), o Relatório Resumido de Execução Orçamentária (RREO) e o Relatório da Gestão
+Fiscal (RGF) disponibilizad os pelas Secretarias de Fazenda de cada município para coletar
+dados para o cálculo da CAPAG.
+3.2 Amostra e período em análise
+O estudo abrangeu em sua análise as 26 capitais dos estados brasileiros pelo período de
+2014 a 2016, com a finalidade de gerar da dos relativos a três anos a fim de torn á-los
+comparáveis e, obtendo dessa maneira, uma amostra de 78 observações para a capacidade de
+pagamento final, considerando a avaliação parcial de cada índice componente da CAPAG. Para
+24
+o IFGF, a amostra considerada é relativa ao IFGF Geral, que consolida os cinco indicadores
+avaliados pela Firjan, totalizando também 78 observações.
+O período em análise se refere aos dados mais atualizados disponíveis no site da Firjan
+em 2019, quando a coleta foi finalizada e consultou-se a Série Histórica de Evolução do IFGF
+entre 2006 e 2016. Dessa maneira, foi definido o comparativo dos três últimos anos para
+realização do estudo, utilizando -se também para fins de apuração da CAPAG das capitais
+brasileiras os anos de 2014 a 2016.
+Não houve exclusão de amostra para o IFGF dos anos em análise, havendo apenas a não
+apuração do índice referente ao ano de 2016 da capital do Estado de Santa Catarina,
+Florianópolis, conforme coleta de dados da Firjan. No entanto, para a CAPAG final houve a
+exclusão das capitais João Pessoa (PB) e Macapá (AP) uma vez que não havia dados disponíveis
+para cálculo do índice de liquidez dos três anos em análise , dado necessário para o cálculo da
+CAPAG fi nal. Devido à falta informacional para cálculo de determina dos indicadores, as
+capitais elencadas por ano no quadro 5 tiveram dados reutilizados de 2013 e 2015 a fim de que
+fosse determinado o índice final da CAPAG:
+Quadro 5: Indicadores ajustados para cálculo da CAPAG Final
+Capital 2014 2016
+Belo Horizonte Índice Liquidez: Utilizado dados de 2015 -
+Teresina Índice Poupança Corrente 2012: Utilizado dados de
+2013; Índice Liquidez: Utilizado dados de 2015 -
+Boa Vista Índice Poupança Corrente 2012: Utilizado dados de
+2013; -
+Cuiabá - Índice Liquidez: Utilizado dados de 2015
+Florianópolis - Índice Liquidez: Utilizado dados de 2015
+Fonte: Elaborado pelo autor
+3.3 Coleta de dados
+Conforme disposto na Portaria nº 882/2018 do Ministério da Fazenda, a apuração da
+capacidade de pagamento foi realizada baseando -se nos da dos constantes no Relatório de
+Gestão Fiscal (RGF) do Poder Executivo, correspondente ao 3º quadrimestre dos exercícios em
+análise e nos balanços conso lidados publicados dos últimos três exercícios, além dos
+apresentados nos dados anuais disponibilizados no site do Siconfi.
+Dessa maneira, foi utilizado para o cálculo dos índices de Endividamento e Liquidez o
+RGF das capitais referente aos anos 2014 a 201 6, obtidos por meio eletrônico no portal da
+transparência disponibilizado no site das prefeituras sob análise.
+Conforme enumerado no Quadro 2, foram necessários os valores apresentados de
+Dívida Consolidada Bruta e RCL para apurar o Endividamento. As Obri gações financeiras
+25
+atuais e de anos anteriores e Disponibilidade de Caixa Bruta, ambas sem vinculação específica
+conforme disposto na Portaria nº 882/2018, foram utilizadas para apuração do índice de
+Liquidez.
+Com relação ao índice de Poupança Corrente, f oram utilizados os RREOs obtidos na
+mesma plataforma, bem como extraídos nos relatórios de Receitas Reali zadas e Despesas
+Empenhadas disponibilizados no site do Siconfi, apresentados no Demonstrativo de Contas
+Anuais (DCA). Assim, foram utilizadas as Despe sas Correntes Empenhadas e a Receita
+Corrente Ajustada dos três últimos exercícios em apuração.
+A respeito do Índice Firjan, os dados foram obtidos no site da própria Firjan de acordo
+com a avaliação de cinco indicadores, conforme metodologia anterior: Receita Própria, Gastos
+com Pessoal, Investimentos, Liquidez e Custo da Dívida, a partir dos quais a própria entidade
+apura o IFGF Geral, que foi o índice utilizado neste estudo.
+3.4 Tratamento dos dados
+Os dados relativos à CAPAG apurados no estudo serão di spostos em um gráfico de
+dispersão por ano analisado para verificar a relação entre a CAPAG e o IFGF. Par a fins de
+comparabilidade com o IFGF, foi testada a correlação de Spearman. Para execução desse teste,
+os dados obtidos na CAPAG Geral foram reclassificados dos conceitos A, B, C e D para os
+elementos 4, 3, 2 e 1, respectivamente. Dessa forma, o conceito A foi classificado como 4 e o
+D como 1, para converter a variável categórica em uma variável ordinal, de acordo com a lógica
+de interpretação da CAPAG.
+Zar (1999 apud Bauer, 2007) define que o coeficiente de Spearman necessita que as
+variáveis X e Y a sere m analisadas sejam mensuradas ao menos em uma escala ordinal. Para
+variáveis quantitativas com distribuição conjunta que não a distribuição normal vari ada, pode
+ser uma possibilidade para substituir a metodologia do teste de correlação de Pearson, podendo
+ser calculada da mesma maneira que Pearson, mas utilizando seus postos.
+Para os dados obtidos pelo IFGF Geral e CAPAG, serão aplicadas estatísticas
+descritivas, para 24 capitais (pela exclusão de João Pessoa e Macapá), quais sejam : média,
+mediana, moda, mí nimo e máximo, variância, desvio padrão e gráfico de dispersão. Os
+resultados obtidos por meio da análise dos dados serão evidenciados na seção seguinte, que
+trata da apresentação de resultados.
+26
+4. ANÁLISE DE DADOS E APRESENTAÇÃO DE RESULTADO
+Este tópico fo i dividido em duas seções para melhor análise: Análise geral por ano e
+análise por região brasileira. Tal divisão busca verificar a variação entre os anos em análise,
+bem como avaliar separadamente uma vez que as regiões do país possuem caract erísticas
+diferentes quanto à sua condição socioeconômica e populacional. Como parte final, apresentouse o teste de correlação de Spearman para o período em análise e o gráfico de dispersão por
+ano.
+4.1 Análise dos dados por região
+4.1.1 Região Norte
+A região norte do Brasil é constituída por sete capitais: Belém (PA), Boa Vista (RR),
+Macapá (AP), Manaus (AM), Palmas (TO), Porto Velho (RO) e Rio Branco (AC). No
+levantamento de dados realizado não foi possível obter a CAPAG final para os anos de 2014 a
+2016 para Macapá, impossibilitando o comparativo com os dados de IFGF gerado pela FIRJAN
+para essa capital específica.
+Na tabela 1 apresenta as estatísticas descritivas originadas das informações apuradas de
+CAPAG e consultadas no IFGF:
+Tabela 1: Estatísticas descritivas das capitais da região Norte
+Parâmetros CAPAG IFGF
+Amostra 18 18
+Média 3,11 0,666
+Mediana 3 0,663
+Moda 4 0,477
+Desvio Padrão 0,9 0,083
+Variância 0,81 0,007
+Mínimo 2 0,477
+Máximo 4 0,780
+Fonte: Elaborado a partir dos dados da pesquisa
+As capitais do norte do país possuem uma média de CAPAG mais próxima de 3, que
+significa que tais cidades apresentam em média a classificação “B”. Já para o IFGF, as capitais
+enquadram-se em média em uma Boa Gestão. A mediana revela o po nto central da amostra,
+que foi 3 (“B”) para a CAPAG e 0,663 para o IFGF, isso demonstra que as capitais estão mais
+próximas a uma Boa Gestão.
+Com relação à moda, que indica o valor mais frequente, foi visto que a maioria das
+capitais tiveram um índice de CAPAG final 4 (conceito “A”), ou seja, o melhor índice possível.
+Quanto ao IFGF não foi possível determinar moda, uma vez que não foi apresentada frequência
+acima de 1, ou seja, não há repetição de dados , havendo assim múltiplas as modas existentes.
+27
+Dessa maneira, foi apresentado o menor como moda dentre os valores existentes. Quanto ao
+desvio padrão, a CAPAG possui o valor de 0,9 e o IFGF possui 0,083, indicando que ambos os
+dados estão homogêneos frente a média apresentada, ou seja, estão pouco dispersos.
+A variância apresentada para o IFGF foi de 0,007 e CAPAG de 0,81. Analisando com
+base na métrica de cada dado, ratifica-se que os valores estão mais próximos da média uma vez
+que ambos são baixos. O mínimo apresentado para CAPAG foi de 2 e o Índice de Gestão Fiscal
+de 0,477, que significa uma classificação C e Gestão em Dificuldade, respectivamente. Já como
+máximo, apresentou-se o fator 4 (Classificação D da CAPAG) e 0,780 (Gestão de Excelência).
+Mesmo as capitais estando local izadas em uma região socioeco nômica menos
+favorecida, uma vez que possui menores níveis de população e de atividades econômicas
+quando comparada a outras regiões, viu-se que as mesmas possuem em geral uma Boa Gestão
+com relação ao IFGF e uma boa classificação quanto a CAPAG (nota B).
+4.1.2 Região Nordeste
+A região nordeste é a região que apresenta o maior número de capitais, sendo formada
+por nove capitais: Aracaju (SE), Fortaleza (CE), João Pessoa (PB), Maceió (AL), Natal (RN),
+Recife (PE), Salvador (BA), São Luís (MA) e Teresina (PI ). Assim como na região norte, a
+presente região também apresentou ausência de dados para obtenção da CAPAG fin al e
+comparativo com o IFGF de João Pessoa (PB) para os anos de 2014 a 2016. As estatísticas
+descritivas foram listadas na Tabela 2:
+Tabela 2: Estatísticas descritivas das capitais da região Nordeste
+Parâmetros CAPAG IFGF
+Amostra 24 24
+Média 2,46 0,612
+Mediana 2 0,606
+Moda 2 0,434
+Desvio Padrão 0,721 0,088
+Variância 0,52 0,008
+Mínimo 2 0,434
+Máximo 4 0,766
+Fonte: Elaborado a partir dos dados da pesquisa
+A média do IFGF para as capitais nordestinas ficou na faixa de Boa Gestão, enquanto a
+CAPAG final apresentou nota 2,46, mais próxima a classificação C. O ponto central da amostra
+foi 2 para a CAPAG e 0,606 para o IFGF, indicando que a maioria das capitais teve classificação
+em linha com a mesma da média. Quanto a moda da CAPAG também foi de 2, não sendo
+possível indicar a moda para o IFGF, onde foi apresentado o menor valor em análise.
+28
+Quanto ao desvio padrão, para ambos os índices se apresentou um valor pe queno,
+indicando a concentração dos mesmos junto à média apurada. A variância apurada também se
+verificou a proximidade dos mesmos a média calculada. Os mínimos apresentados equivalem
+a classificação C (CAPAG ) e Gestão em Dificuldade (IFGF) e os máximos a classificação A
+(CAPAG) e Gestão em Dificuldade (IFGF).
+4.1.3 Região Centro-Oeste
+A região Centro-Oeste é composta por apenas três estados, sendo as suas capitais Campo
+Grande (MS), Cuiabá (MT) e Goiás (GO). Todos os dados foram apurados e/ou coletados, não
+havendo eliminação de nenhum ano ou capital para os cálculos apurados a seguir:
+Tabela 3: Estatísticas descritivas das capitais da região Centro-Oeste
+Parâmetros CAPAG IFGF
+Amostra 9 9
+Média 2,33 0,546
+Mediana 2 0,503
+Moda 2 0,399
+Desvio Padrão 0,5 0,111
+Variância 0,25 0,012
+Mínimo 2 0,399
+Máximo 3 0,691
+Fonte: Elaborado a partir dos dados da pesquisa
+Tais cidades apresentaram uma mediana de 2 para CAPAG e 0,503 para o IFGF, sendo
+este o ponto central da amostra. A maioria dessas cidades tiveram o conceito C de CAPAG,
+como demonstrado pela moda e para o IFGF, foi apresentado o me nor valor como nos casos
+anteriores. As amostras seguem muito próximas quando analisa do o desvio padrão e pouco
+dispersos, conforme visto na variância para ambos os índices. O mínimo para o IFGF é
+classificado como Gestão Crítica e C para CAPAG e o máximo como B para este, enquanto
+aquele foi Boa Gestão.
+4.1.4 Região Sudeste
+Belo Horizonte (MG) , Rio de Janeiro (RJ), São Paulo (SP) e Vitória (ES) foram as
+capitais incluídas na amostra para a análise a seguir e formam a mais desenvolvida e populosa
+regiãos do país. As quatro foram classificadas pelo Instituto Brasileiro de Geografia e Estatística
+(IBGE) como metrópoles, sendo São Paulo a única Grande Metrópole Nacional e representar
+17,7% do Produto Interno Bruto (PIB) de 2016 (IBGE, 2020).
+29
+Tabela 4: Estatísticas descritivas das capitais da região Sudeste
+Parâmetros CAPAG IFGF
+Amostra 12 12
+Média 2,75 0,690
+Mediana 3 0,687
+Moda 2 / 3 0,555
+Desvio Padrão 0,754 0,068
+Variância 0,568 0,050
+Mínimo 2 0,555
+Máximo 4 0,799
+Fonte: Elaborado a partir dos dados da pesquisa
+A média para as capitais referente aos três anos em análise corresponde ao conceito Boa
+Gestão no conceito do IFGF, sendo a maior média dentre as regiões brasileiras, e 2,75 para a
+CAPAG. A mediana do IFGF também é a maior de todas as regiões, atestando qu e a maioria
+dos conceitos apresentados foram de Boa Gestão e para a CAPAG a classificação B.
+Como moda para o IFGF foi apresentado o menor valor apurado pela não possibilidade
+de determinação uma vez que os dados não se repetem. Já a moda da CAPAG foi 2 e 3 já que
+a amostra possui 5 conceitos 2 e 5 conceitos 3, ou seja, um empate na determinação. O desvio
+padrão e variância calculados de ambos os índices mostraram, assim como nas outras regiões,
+uma concentração da amostra próximas a média e pouca dispersão. Como mínimos e máximos
+tivemos as classi ficações C e A para CAPAG e Gestão em Dificuldade e Boa Gestão para o
+IFGF, respectivamente.
+4.1.5 Região Sul
+A tabela 5 apresenta as estatísticas descritivas referentes às cidades Curitiba (PR),
+Florianópolis (SC) e Porto Alegre (RS):
+Tabela 5: Estatísticas descritivas das capitais da região Sul
+Parâmetros CAPAG IFGF
+Amostra 9 9
+Média 2,22 0,516
+Mediana 2 0,590
+Moda 2 0,00
+Desvio Padrão 0,441 0,201
+Variância 0,194 0,040
+Mínimo 2 0,000
+Máximo 3 0,628
+Fonte: Elaborado a partir dos dados da pesquisa
+A média das referidas capitais equivale a classificação C da CAPAG e Gestão em
+Dificuldade para o IFGF. A mediana e a moda foram 0,590 e 0 (mínimo da amostra) para o
+IFGF e 2 para a CAPAG (classificação C). O desvio padrão foi 0,441 e 0,201 para CAPAG e
+IFGF, sendo os menores valores analisando entre as regiões, ou seja, a maioria dos dados
+ficaram centralizados próximos a média.
+30
+A variância encontrada comprova a proximidade dos dados junto a média, assim como
+nos outros casos. A CAPAG teve a classificação C como mínima e B como máxima, e o IFGF
+apresentou o mínimo 0 uma vez que não houve dados para o IFGF de 2016 para Florianópolis
+e máximo de 0,628 (Boa Gestão). O mínimo exceto Florianópolis de 2016 foi o valor de 0,474,
+que é o valor apurado de Florianópolis no ano de 2015.
+4.1.6 Comparativo das regiões brasileiras por dimensão
+A fim de melhor comparabilidade, a Tabela 6 foi elaborada para clarear as análises para
+cada índice e região em análise, apresentado a seguir:
+Tabela 6: Estatísticas descritivas da CAPAG para cada região brasileira
+Parâmetros
+CAPAG
+Região Norte Região
+Nordeste
+Região
+Centro-Oeste
+Região
+Sudeste
+Região Sul
+Amostra 18 24 9 12 9
+Média 3,11 2,46 2,33 2,75 2,22
+Mediana 3 2 2 3 2
+Moda 4 2 2 2 / 3 2
+Desvio Padrão 0,9 0,721 0,5 0,754 0,441
+Variância 0,81 0,52 0,25 0,568 0,194
+Mínimo 2 2 2 2 2
+Máximo 4 4 3 4 3
+Fonte: Elaborado a partir dos dados da pesquisa
+A média da Região Norte foi a maior dentre as cinco regiões, onde a maioria dos dados
+são superiores a nota 3, ou seja, a classificação B da CAPAG. Já a Região Sul apresenta-se com
+a pior média, onde a maiori a dos estados tiveram a classificação C, representada como nota 2
+na análise estatística.
+Quanto a mediana, que verifica o ponto central da amostra, para a região Norte e Sudeste
+foram 3 (nota B) e as demais tiveram o valor de 2 (nota C). A moda da região Norte também
+foi a melhor frente as regiões, revelando que a maioria das capitais dessa região tiveram
+classificação A.
+O menor desvio padrão e, consequentemente, menor variância são os da Região Sul,
+interpretando-se que os dados estão menos dispersos, me nos distantes da média. A Região
+Norte já apresenta o inverso, ou seja, uma maior dispersão quanto aos dados obtidos de
+CAPAG. Quanto a mínimo e máximo, as regiões Centro -Oeste e Sul não obtiveram
+classificação A (nota 4) em nenhum dos anos sob análise, e nquanto as demais regiões
+apresentaram classificações entre A e C.
+Quanto às estatísticas descritivas obtidas por me io dos dados coletados do IFGF, foram
+descritos na Tabela 7 evidenciada a seguir:
+31
+Tabela 7: Estatísticas descritivas do IFGF para cada região brasileira
+Parâmetros
+IFGF
+Região Norte Região
+Nordeste
+Região
+Centro-Oeste
+Região
+Sudeste
+Região Sul
+Amostra 18 24 9 12 9
+Média 0,666 0,612 0,546 0,690 0,516
+Mediana 0,663 0,606 0,503 0,687 0,590
+Moda 0,477 0,434 0,399 0,555 0,00
+Desvio Padrão 0,083 0,088 0,111 0,068 0,201
+Variância 0,007 0,008 0,012 0,050 0,040
+Mínimo 0,477 0,434 0,399 0,555 0,000
+Máximo 0,780 0,766 0,691 0,799 0,628
+Fonte: Elaborado a partir dos dados da pesquisa
+A média do IFGF apurada para a Região Sudeste foi a maior comparada as demais, ou
+seja, equivale a classificação de Boa Gestão e a Região Sul apresenta a pior, sendo classificada
+como Gestão em Dificuldade. O ponto central da amostra do Centro-Oeste foi de 0,503 (Gestão
+em Dificuldade), o menor ponto central em comparativo com as demais localidades.
+Como não existe repetição de dados na amostra do IFGF, não foi possível observar o
+valor mais frequente dentre os dados, tendo sido demonstrado o menor valor apresentado em
+cada região como moda. Dessa maneira, a moda e o mínimo são os mesmos valores. O desviopadrão e a variância, por refletirem a dispersão d a distribuição de dados nos revelam que a
+Região Sudeste teve menos variaram em torno da média, se concentrando mais próx imos da
+mesma.
+Como mínimo, com a não disponibilidade de dados do IFGF Geral de 2016 para a capital
+de Santa Catarina, Florianópolis, o mínimo foi apresentado como 0,000. O mínimo para a
+Região, exceto pelo não apurado, foi também de Florianópolis para 2015, o valor de 0,474.
+Dessa maneira, o mínimo caso considerado o dado de 2015 como o mínimo para a Região Sul,
+foi apresentado pela Regi ão Centro-Oeste o valor de 0,399 (Gestão Crítica), que foi apurado
+para Campo Grande (MS) em 2016. O máximo verificado quando comparadas as regiões foi
+verificado na Região Sudeste para o Rio de Janeiro em 2014, o valor de 0,799.
+Vale ressaltar que, quando comparadas as médias da CAPAG e IFGF por região, vemos
+que a única diferença entre a classificação do maior para a menor média foi entre a Região
+Norte e Sudeste as quais obtiveram o primeiro e segundo lugar na CAPAG, respectivamente,
+enquanto no IFGF a Região Sudeste assumiu o primeiro lugar, passando a Região Norte para a
+segunda posição. As demais regiões obtiveram as mesmas posições quanto a mé dia: Região
+Nordeste – 3ª posição, Região Centro-Oeste - 4ª posição e Região Sul - 5ª posição.
+32
+4.2 Análise dos dados por ano
+As 24 capitais em análise produziram estatísticas descritivas que estão evidenciados na
+Tabela 8. Tais dados foram divididos entre os anos abrangidos pelo trabalho, buscando verificar
+a evolução de ambos os critérios de avaliação da gestão fiscal.
+Tabela 8: Estatísticas descritivas das capitais brasileiras entre 2014 e 2016
+2014 2015 2016
+Parâmetros CAPAG IFGF CAPAG IFGF CAPAG IFGF
+Amostra 24 24 24 24 24 24
+Média 2,79 0,641 2,50 0,619 2,58 0,595
+Mediana 2,50 0,650 2,00 0,621 2,00 0,610
+Moda 2 0,423 2 0,474 2 0,000
+Desvio Padrão 0,884 0,097 0,722 0,102 0,717 0,152
+Variância 0,781 0,009 0,522 0,010 0,514 0,023
+Mínimo 2 0,423 2 0,474 2 0,000
+Máximo 4 0,799 4 0,791 4 0,765
+Fonte: Elaborado a partir dos dados da pesquisa
+A média apresentada manteve-se em linha para a CAPAG e relativamente estável para
+o IFGF já que, as notas de 2014 e 2015 já estavam próximas a queda de classificação (de Boa
+Gestão para Gestão em Dificuldade). Já a mediana mostra que a metade dos dados mantiveram
+a classificação C da CAPAG e de Boa Gestão para o IFGF. A moda para CAPAG também foi
+C, tendo sido novamente evidenciado o menor valor apresentado para o IFGF por não haver
+repetição na amostra, impossibilitando a apuração dela.
+O desvio padrão e a variância apresentaram queda no caso da CAPAG e ligeiro aumento
+para o IFGF, evidenciando que ao longo dos três anos as classificações da CAPAG se
+aproximaram da média na distribuição e as avaliações do IFGF se dispersaram levemente. O
+mínimo para a CAPAG para os três anos foi a classificação B e quanto ao IFGF, apresentou-se
+um aumento de 2014 para 2015, mantendo a mesma classificação (Gestão em Dificuldade). Em
+2016, o menor valor foi o de Florianópolis que, conforme visto na análise da Região Sul, não
+foi analisada.
+O segundo menor valor de IFGF apresentado foi o montante de 0,399 referente a capital
+do Mato Grosso do Sul, a Prefeitura de Campo Grande, que foi classificada como Gestão
+Crítica. Em comparativo com 2015, viu-se uma queda brusca de quase 0,1 ponto na mínima. Já
+a máxima do IFGF e da CAPAG foram classificadas como Boa Gestão e letra A,
+respectivamente. Não houve modificação relevante entre os anos com relação ao IFGF.
+33
+4.3 Gráficos de Dispersão e Teste de Correlação de Spearman
+Foi elaborado gráfico para a evidenciação da dispersão dos dados obtidos na CAPAG
+Geral com base na maior frequência (moda) por capital em análise , conforme apresentado a
+seguir:
+Tabela 9: Tabela de dados obtidos da CAPAG e Moda por Estado
+Estados 2014 2015 2016 Moda
+AC A A A A
+AL C C C C
+AM A C A A
+BA A A B A
+CE C B B B
+ES A C A A
+GO C C C C
+MA C C C C
+MG C C B C
+MS C C C C
+MT B B B B
+PA B B B B
+PE A C C C
+PI C C B C
+PR C C C C
+RJ B B C B
+RN C C C C
+RO A C B B
+RR C C C C
+RS B B C B
+SC C C C C
+SE B C C C
+SP C B B B
+TO A A C A
+Fonte: Elaborado a partir dos dados da pesquisa
+34
+Gráfico 1: Gráfico da variação da moda por Estado
+Fonte: Elaborado a partir dos dados da pesquisa
+Podemos verificar pelo gráfico que a maio ria das capitais dos Estados tiveram moda
+respectiva a classificação C da CAPAG. Como disposto no Art. 11, apenas o ente que tiver
+classificação A ou B da CAPAG poderá pleitear a Verificação de Limites e Condições, além de
+necessitar comprovar a suficiênci a de contragarantias e concordar com o custo efetivo da
+operação de crédito.
+Com isso, apenas as cidades de Rio Branco (AC), Manaus (AM), Salvador (BA),
+Fortaleza (CE), Vitória (ES), Cuiabá (MT), Belém (PA), Rio de Janeiro (RJ), Porto Velho (RO),
+Porto Alegre (RS), São Paulo (SP) e Palmas (TO) atenderiam o requisito de desempenho obtido
+na CAPAG para a solicitação do aval da União.
+Vale lembrar que, como a o gráfico acima relaciona a moda do período de 2014 a 2016,
+no mínimo em 2 dos 3 anos em análise, as capitais citadas anteriormente estariam habilitadas.
+Apenas as capitais do Acre, Bahia, Mato Grosso e Pará não obtiveram nota C e estariam
+qualificadas para obter o aval para os três anos.
+Além disso, foram elaborados gráficos de dispersão para evidenciação da relação entre
+os dados coletados do IFGF e elaborados para CAPAG para os anos de 2014, 2015 e 2016,
+conforme apresentados a seguir:
+1,5
+2
+2,5
+3
+3,5
+4
+4,5
+AC
+AL
+AM
+BA
+CE
+ES
+GO
+MA
+MG
+MS
+MT
+PA
+PE
+PI
+PR
+RJ
+RN
+RO
+RR
+RS
+SC
+SE
+SP
+TO
+35
+Gráfico 2: Dispersão CAPAG e o IFGF - Ano 2014
+Fonte: Elaborado a partir dos dados da pesquisa
+Gráfico 3: Dispersão CAPAG e o IFGF - Ano 2015
+Fonte: Elaborado a partir dos dados da pesquisa
+Gráfico 4: Dispersão CAPAG e o IFGF - Ano 2016
+Fonte: Elaborado a partir dos dados da pesquisa
+1
+2
+3
+4
+0,400000 0,500000 0,600000 0,700000 0,800000
+CAPAG
+IFGF
+1
+2
+3
+4
+0,400000 0,500000 0,600000 0,700000 0,800000
+CAPAG
+IFGF
+1
+2
+3
+4
+0,350000 0,450000 0,550000 0,650000 0,750000 0,850000
+CAPAG
+IFGF
+36
+Como evidenciado nos gráficos 2, 3 e 4, vemos que a classificação de Gestão em
+Dificuldade (conceito 0,4 a 0,599) do IFGF populam, em sua maioria, a linha 2 da CAPAG
+(nota C), assim como o conceito de Boa Gestão do IFGF (conceito 0,6 a 0, 799) aparecem na
+linha 3 (nota B) da CAPAG. Em nenhum dos anos em análise as capitais apresentaram conceitos
+acima de 0,8 do IFGF (Gestão em Excelência). Dessa maneira, os dados apresentados na linha
+4 (nota A) da CAPAG tem o conceito Boa Gestão do IFGF.
+Alguns dados se diferenciaram um pouco dos demais como é o caso de Boa Vista em
+2014, 2015 e 2016 , qu e teve um IFGF de 0,775, 0,75 1 e 0,695, respectivamente (todos
+classificados como Boa Gestão), e uma CAPAG de nota C para os três anos. O Rio de Janeiro
+também se diferenciou, tendo uma classificação B de CAPAG e o valor de 0,799 para o IFGF
+em 2014, chegando a quase ser uma Gestão de Excelência e em 2016 uma nota C de CAPAG
+e o valor de 0,733 (Boa Gestão).
+Belém e Palmas também foram observações relativament e distantes da maioria dos
+dados no ano de 2015. A capital paraense apresentou um conceito B para a CAPAG e um IFGF
+de Gestão em Dificuldade (3 e 0,47 8, respectivamente), enquanto Palmas apresentou um
+conceito A para a CAPAG e também o conceito de Gestão em Dificuldade no caso do IFGF (4
+e 0,592, respectivamente).
+Já em 2016, Campo Grande teve o conceito Gestão Crítica para o IFGF (0,399), menor
+valor apresentado no ano, com exceção de capital de Santa Catarina, para a qual o IFGF não foi
+apurado. A CAPAG da capital sul-mato-grossense foi 2, que corresponde a nota B da CAPAG.
+O coeficiente de correlação p or postos de Spearman é uma possibilidade para estimar
+correlações lineares quando se há a violação da suposição de normalidade conjunta para
+variáveis X e Y (BAUER, 2007). Silva (2020) descreve que o coeficiente de Spearman leva em
+consideração a ordem da s variáveis e não o valor inerente a cada uma delas. Ele faz uso da
+ordem das observações ao invés dos próprios valores observados, aferindo dessa maneira a
+intensidade da relação de variáveis ordinais.
+Na tabela 10 (a seguir), apresentou-se o resultado da correlação de Spearman realizada:
+Tabela 10: Correlação de Spearman
+CAPAG IFGF
+CAPAG
+Amostra 72 72
+Coef. de Correlação 1 0,514
+Significância n.a. 0,000
+IFGF
+Amostra 72 72
+Coef. de Correlação 0,514 1
+Significância 0,000 n.a.
+Fonte: Elaborado a partir dos dados da pesquisa
+37
+Silva (2020) pondera que o coeficiente da correlação resulta em um número apresentado
+no intervalo fechado de [ -1;1]. Quando ele é zero ou próximo a zero, sugere -se não existir
+correlação ent re as variáveis. Quando as variáveis seguem entorno do mesmo padrão,
+convergindo assim para o mesmo tipo de comportamento, temos uma correlação positiva, com
+um resultado acima de 0. Já na situação inversa, ou seja, quando as variáveis são inversamente
+proporcionais, temos uma correlação negativa, apresentando um fator abaixo de 0 chegando ao
+valor negativo de 1.
+Com base nessa descrição, vemos que a análise gerada entre a CAPAG e o IFGF possui
+correlação na ordem de 0,514. Esse resultado demonstra que as v ariáveis possuem o mesmo
+padrão de comportamento e, dessa maneira, uma correlação positiva. O nível de significância
+adotado para o presente estudo foi de 99% - p < 0,01. O p-valor encontrado na análise foi de
+0,00, o que evidencia que a correlação é estatisticamente significativa.
+5. CONSIDERAÇÕES FINAIS
+O presente estudo buscou averiguar a relação entre a capacidade de pagamento, apurada
+segundo a Portaria nº 501/2017 das capitais brasileiras para o período de 2014 a 2016 e a
+qualidade da gestão fiscal, medida pela Federação das Indústrias do Estado do Rio de Janeiro
+(FIRJAN) por meio do Índice FIRJAN de Gestão Fiscal.
+Como diversas literaturas já expressaram que existem muitas perspectivas de avaliação
+da gestão pública e a importância de ratificar tal ente ndimento. Com isso, foi realizada uma
+contextualização histórica das portarias emitidas durantes os anos para análi se da capacidade
+de pagamento dos entes, bem como de estudos anteriores que abordaram o IFGF ou a
+capacidade de pagamento.
+Neste sentido, fo ram coletados dados de 26 capitais brasileiras para cada um dos três
+anos em análise, tendo sido excluídas as capitais Macapá e João Pessoa por ausência de dados,
+totalizando uma amostra com 72 observações. Diante do exposto, foram elaboradas estatísticas
+descritivas do IFGF e da CAPAG Geral por região brasileira e por ano em análise.
+A análise por região evidenciou qu e a Região Norte obteve notas superiores quando
+comparado a outras regiões, apresentando a maior média e moda para a variável CAPAG e um
+desvio padrão e variância menores para a Região Sul frente aos demais estados e maiores para
+a Região Norte.
+Quanto as estatísticas descritivas regionais para o IFGF, a Região Sudeste apresentou a
+maior média e moda equivalentes a classificação de Boa Gestão, enquanto a Região Sul
+38
+apresenta os menores valores para os parâmetros citados, obtendo a classificação de Gestão em
+Dificuldade. O mínimo valor encontrado na amostra do IFGF compõe a Região Centro -Oeste
+e equivale a 0,399 e o máximo foi verificado na Região Sudeste, o valor de 0,799.
+As estatís ticas descritivas relativas aos anos de 2014 a 2016 evidenciaram uma
+aderência quanto a variação da média visualizada tanto para a CAPAG quanto para o IFGF uma
+vez que a média da CAPAG variou três décimos de 2014 par a 2015 e aproximadamente dois
+décimos quanto ao IFGF, ficando em 2016 próxima a margem das classificações Boa Gestão e
+Gestão em Dificuldade.
+A moda da CAPAG não apresentou variação, representando a classificação C e a moda
+do IFGF foi representada pelo mínimo apresentado na amostra de cada ano. A justificativa para
+tal fato é que a variável elaborada pela Firjan não p ossui repetição, impossibilitando sua
+apuração.
+O mínimo e máximo da CAPAG correspondem a classificação C e A, respectivamente
+em todos os a nos em análise. Quanto ao IFGF, os mínimos verificados em 2014 e 2015
+correspondem a classificação Gestão em Dificu ldade e para 2016, com a não identificação do
+índice para Florianópolis, o valor foi 0,00. No entanto, o segundo menor valor apresentado foi
+da cidade de Campo Grande (MT), o valor de 0,399, na margem limite para o enquadramento
+ainda como Gestão Crítica, o pior cenário encontrado no IFGF Geral.
+Para averiguação da relação entre as variáveis da CAPAG e o IFGF, foi feito um teste
+de Correlação de Spearman, o qual evidenciou que existe correlação positiva e significativa as
+duas variáveis, ou seja, ambas possuem o mesmo padrão de comportamento.
+Dessa maneira, comprova-se que há relação entre a capacidade de pagamento e o Índice
+Firjan de Gestão F iscal, cumprindo assim o definido como objetivo deste estudo. Como
+trabalhos a serem desenvolvidos a partir deste, recomenda-se comparar os dados da capacidade
+de pagamento pela Portaria nº 306/2012 e a capacidade de pagamento sob a ótica da Portaria nº
+501/2017 a fim de verificar se houve perda informacional , de forma a não comprometer os
+recursos públicos com garantias sem fundamentos.
+39
+REFRÊNCIAS
+BAUER; L. Estimação do coeficiente de correlação de Spearman ponderado. Porto Alegre,
+abril de 2007. Disponível em:
+<https://www.lume.ufrgs.br/bitstream/handle/10183/11499/000616112.pdf>. Acesso em:
+2021.
+BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília: Presidência da
+República, 1988. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. Acesso em 2020.
+BRASIL. Lei Complementar nº 101, de 0 4 de maio de 2000. Brasília: Presidência da
+República, 2000. Disponível em: < http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm>.
+Acesso em 2020.
+BRASIL. Manual de Contabilidad e Aplicada ao Seto r Público Brasília: Ministério da
+Fazenda, Secretaria do Tesouro Nacional , 8ª edição, 2019. Disponível em: <
+https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-aosetor-publico-mcasp/2019/26>. Acesso em 2020.
+BRASIL. Manual de Demonstrativos Fiscais. Brasília: Ministério da Fazenda, Secretaria do
+Tesouro Nacional , 11ª edição, 2020. Disponível em : <
+https://www.tesourotransparente.gov.br/publicacoes/manual-de-demonstrativos-fiscaismdf/2020/26>. Acesso em 2020.
+BRASIL. Portaria nº 89, d e 25 de abril de 1997. Brasília, Ministério da Fazenda, 1997.
+Disponível em:
+<http://www.fazenda.rj.gov.br/tesouro/content/conn/UCMServer/uuid/dDocName%3A17400
+10>. Acesso em 2020.
+BRASIL. Portaria nº 306, de 10 de setembro de 2012. Brasília: Ministério da Fazenda,
+Gabinete do Ministro, 2012. Disponível em: < http://www.fazenda.gov.br/acesso-a-
+40
+informacao/institucional/legislacao/portarias-ministeriais/2012/portaria-no.-306-de-10-desetembro-de-2012>. Acesso em 2020.
+BRASIL. Portaria nº 5 01, de 23 de novembro de 2017. Brasília: Ministério da Fazenda,
+Gabinete do Ministro, 2017. Dispon ível em: <http://www.fazenda.gov.br/acesso-ainformacao/institucional/legislacao/portarias-ministeriais/2017/arquivos/portaria-no-501-de-
+23-de-novembro-de-2017-0.pdf/view> . Acesso em 2020.
+BRASIL. Portaria nº 882, de 18 de dez embro de 2018. Brasília: Ministério da Fazenda,
+Secretaria do Tesouro Nacional , 201 8. Disponível em: < https://www.in.gov.br/materia/-
+/asset_publisher/Kujrw0TZC2Mb/content/id/56128201/do1-2018-12-20-portaria-n-882-de-
+18-de-dezembro-de-2018-56128189>. Acesso em 2020.
+BRASIL. Resolução nº 40 , de 20 de dezembro de 2001. Brasília: Senado Federal, 2001.
+Disponível em: <https://legis.senado.leg.br/norma/562458/publicacao/16418336>. Acesso em
+2020.
+BRASIL. Resolução nº 4 3 , de 2 6 de dezembro de 2001. Brasília: Senado Federal, 2001.
+Disponível em: <https://legis.senado.leg.br/norma/582604/publicacao/15732530>. Acesso em
+2020.
+BRASIL. Resolução nº 4 8 , de 21 de dezembro de 200 7. Brasília: Senado Federal, 200 7.
+Disponível em: <https://legis.senado.leg.br/norma/576233/publicacao/16433642>. Acesso em
+2020.
+COSTA, J. A.; SILVA, W. S. Lei de Responsabilidade Fiscal: Observância dos Limites de
+Gastos com Pessoal no Poder Executivo dos Estados da Região Nordeste de 2013 a 2015,
+Período de Início da Recessão Econômica Brasileira. Revista Controle – Doutrina e Artigos,
+Fortaleza: TCE-CE, v.14, n.2, p. 328-356, Jul/Dez. 2016.
+41
+CRUZ, C. F.; AFONSO, L. E. Gestão fiscal e pilares da Lei de Responsabilidade Fiscal:
+evidências em grandes municípios. Revista de Administração Pública, Rio de Janeiro, v. 52
+(1), p.126-148, Jan./Fev. 2018.
+CRUZ, C. F. Responsabilidade na Gestão Fiscal: um estudo em grandes municípios com
+base nos pilares da Lei de Responsabilidade Fiscal no período de 2010 -2013. Disponível
+em:<https://www.teses.usp.br/teses/disponiveis/12/12136/tde-25062015-
+094403/publico/TeseClaudiaCruzVC.pdf>. Acesso em 2020.
+GERICK, W .; CLEMENTE, A.; RIBEIRO, F. O padrão do endividamento público nos
+municípios brasileiros de porte médio após a lei de responsabilidade fiscal. Revista
+Ambiente Contábil, Natal, v. 6, n. 1, p.122-140, Jan./Jul. 2014.
+HONÓRIO; E. G. Análise da dívida consol idada (DC) e a capacidade de pagamento
+(CAPAG) dos estados brasileiros. Disponível em: <
+http://dspace.sti.ufcg.edu.br:8080/xmlui/handle/riufcg/10487?locale-attribute=es>. Acesso em
+2021.
+FIRJAN – Federação das Indústrias do Estado do Rio de Janeiro. Anexo Medotológico –
+Índice Firjan de Gestão Fiscal (201 7). Disponível em:<
+https://www.firjan.com.br/data/files/E2/82/21/A0/9AF3E5107210A3E5A8A809C2/Anexo%2
+0Metodol%C3%B3gico%20IFGF%202017.pdf>. Acesso em 2020.
+FIRJAN – Federação das Indústrias do Estado do Rio de Janeiro. Anexo Medotológico –
+Índice Firjan de Gestão Fiscal (2019) . Disponível em:<
+https://www.firjan.com.br/ifgf/metodologia/>. Acesso em 2020.
+FIRJAN – Federação das Indústrias do Estado do Rio de Janeiro. IFGF – Série Histórica:
+Evolução do IFGF por indicador (2013 a 2018). Disponível em:<
+https://www.firjan.com.br/ifgf/downloads/>. Acesso em 2020.
+LIMA, S. C.; DINIZ; J. A. Contabilidade Pública: Análise Financeira Governamental. 1ª
+ed. São Paulo: Atlas, 2016
+42
+LIMA; F. Z. Sustentabilidade fiscal no estado do Paraná: Marco legal, panorama fiscal e
+indicadores de sustentabilidade e sinalizadores de vulnerabilidade fiscais. Disponível em:
+< https://acervodigital.ufpr.br/handle/1884/61404>. Acesso em 2020.
+LOPES, L. C. Evolução da capacidade de pagamento de Minas Gerais entre 2012 e 2017:
+aplicação da metodologia do Tesouro Nacional. Disponível em:
+<http://monografias.fjp.mg.gov.br/handle/123456789/2618>. Acesso em 2020.
+MACEDO, J.; CORBARI, E. Efeitos da Lei de Responsabilidade Fiscal no endividamento
+dos Municípios Brasileiros: uma análise de dados em painéis. Revista Contabilidade e
+Finanças – USP, São Paulo, v. 20, n. 51, Set./Dez. 2009.
+MARTINS, A.; MARQUES, H. R. A cont ribuição da lei de responsabilidade fiscal na
+gestão pública. Revista Controle – Doutrina e Artigos, Fortaleza: TCE -CE, v.9, n.1, p. 145 -
+169, Jan/Jun. 2013.
+MEDEIROS, A. L.; OLIVEIRA, N. M.; CAMINHA, F. S. Gestão fiscal dos municípios do
+Tocantins: o que mo stra o índice Firjan?. Revista Brasileira de Desenvolvimento Regional
+– Universidade Regional de Blumenau, Blumenau, v.7 (2), p. 79-108, 2019.
+MIRANDA, W. L. L. C. ; ARAÚJO, R. J. R.; LEITE, I. F.; NOBRE, C. J. F . Avaliação da
+gestão fiscal nos estados bra sileiros: análise no quinquênio 2011 a 2015 . RMC - Revista
+Mineira de Contabilidade , Conselho Regional de Contabilidade de Minas Gerais, Belo
+Horizonte, v.19, n.1, art. 5, p. 55-67, jan./fev./mar./abr. 2018.
+PELLEGRINI, J. A. A nova metodologia de cálcul o da capacidade de pagamento dos
+estados e municípios. Instituição Fiscal Independente. Nota técnica nº 13. Brasília: Senado
+Federal, 2017. Disponível em: <
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/535877/NT13_Capacidade_de_pagamen
+to_dos_Estados.pdf>. Acesso em 2020.
+43
+PELLEGRINI, J. A; BARROS, G. L. Metodologias para a avaliação da capacidade de
+pagamento dos estados. Instituição Fiscal Independente. Estudo Especial nº 2. Brasília:
+Senado Federal, 2017. Disponível em: <
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/529826/Estudo%20Especial%20n%202.
+pdf?sequence=1>. Acesso em 2020.
+PONTES; A. P. Sistema de garantias a entes subnacionais e a atual metodologia de cálculo
+da capacidade de pagamento dos estados e municípios. Revista de Estudos Legislativos,
+Assembleia Legislativa de Pernambuco. Ano 4, n. 4, p. 38 -51, Dez/2019. Disponível em:
+<http://www.alepe.pe.gov.br/estudoslegislativos/arquivos/revista04/revista-estudoslegislativos-04.pdf>. Acesso em 2020.
+ROGERS, P.; SENA, L. B. Análise agregada dos municípios mineiros de grande porte
+quanto à adequa ção à Lei de Responsabilidade Fiscal (LRF). Revista Contemporânea de
+Contabilidade. Ano IV, v.1, n. 8, p. 99-119, Jul./Dez. 2007.
+SILVA, M. C.; MARTINS, J. D. M.; SOUZA, F. J. V.; CÂMARA, R. P. B. Fatores
+explicativos da gestão fiscal em municípios brasil eiros. Revista Contemporânea de
+Contabilidade, Florianópolis, v.17, n. 42, p. 26-37, jan./mar. 2020.
+SILVA, M. P. G. Estatística: Uma visão introdutória dos Coeficientes de Correlação . 1ª
+Edição. Kindle, 2020.
+SOARES, L. L. C. Despesa Total com Pessoal do Poder Executivo dos Estados
+Brasileiros/Distrito Federal e os Limites estabelecidos pela Lei de Responsabilidade
+Fiscal, período 2014 - 2016. Disponível em: <
+https://monografias.ufrn.br/jspui/handle/123456789/4975>. Acesso em 2020.
+TESOURO NACIONAL. Programa d e Reestruturação e de Ajuste Fiscal (PAF).
+Disponível em: < https://www.gov.br/tesouronacional/pt-br/estados-e-municipios/programade-reestruturacao-e-de-ajuste-fiscal-paf>. Acesso em 2021.

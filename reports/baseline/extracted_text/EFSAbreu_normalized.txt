@@ -1,0 +1,683 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+FACULDADE DE ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS
+DEPARTAMENTO DE ADMINISTRAÇÃO
+ERIC FERNANDO SÁ DE ABREU
+DRE: 116110393
+FATORES LEVADOS EM CONSIDERAÇÃO PELOS ESTUDANTES DE
+ADMINISTRAÇÃO NA BUSCA DE PRIMEIRO ESTÁGIO PROFISSIONAL
+RIO DE JANEIRO
+2021
+FATORES LEVADOS EM CONSIDERAÇÃO PELOS ESTUDANTES DE
+ADMINISTRAÇÃO NA BUSCA DE PRIMEIRO ESTÁGIO PROFISSIONAL
+Monografia apresentada como requisito parcial a obtenção do
+grau de Bacharel em Administração à Faculdade de Administração
+e Ciências Contábeis da Universidade Federal do Rio de Janeiro
+(FACC/UFRJ).
+Professor orientador: Paulo Roberto S. Falcão, Esp.
+Professor leitor: Synval de Sant’anna Reis Neto, DSc.
+AGRADECIMENTOS
+Primeiramente, gostaria de agradecer à minha família por todo apoio, incentivo e colaboração
+durante todo o período acadêmico. Em seguida, aos meus amigos que me apoiaram e
+contribuíram para a realização da minha pesquisa. Agradeço, também, aos professores por
+toda a experiência e conhecimentos passados e, principalmente ao meu orientador no
+desenvolvimento da minha pesquisa, professor Paulo R. S. Falcão, por todo auxílio, atenção e
+grande exemplo para o meio acadêmico. Agradeço à UFRJ pela grand e oportunidade de
+estudo e por me ter permitido conhecer pessoas incríveis e feito grandes amizades que, com
+certeza, levarei comigo.
+RESUMO
+O presente trabalho apresenta um estudo com graduandos em Administração da Universidade
+Federal do Rio de Janeiro, visando identificar os fatores levados em consideração na busca de
+primeiro estágio. Para isso, foi realizado um levantamento e divulgado em grupos de redes
+sociais, onde posteriormente os resultados obtidos foram extraídos e transformad os em
+gráficos para melhor análise. Os resultados foram apresentados através da junção de questões,
+criando cenários e perfis para facilitação da análise e melhor entendimento da conclusão. Ao
+final da pesquisa, conclui-se que os jovens possuem necessidade s, características, identidades
+e vieses divergentes, o que interferem diretamente em seu processo de tomada de decisão
+tanto profissional quanto acadêmico e demonstra que cada exp eriência é única, também
+devido às dificuldades apresentadas, como a grande desigualdade social presente no cenário
+brasileiro.
+Palavras-chave: estágio, fatores, busca, primeiro, administração
+LISTA DE GRÁFICOS
+Gráfico 1 – Faixa etária 18
+Gráfico 2 – Ocupação 19
+Gráfico 3 – Conclusão de curso 19
+Gráfico 4 – Tempo de curso 20
+Gráfico 5 – Motivo para busca 20
+Gráfico 6 – Fonte de busca 21
+Gráfico 7 – Fatores considerados 21
+Gráfico 8 – Dificuldades encontradas 22
+ANEXO
+Anexo I – Questionário
+SUMÁRIO
+1. INTRODUÇÃO ........................................................................................................... 8
+1.1. O problema de pesquisa ............................................................................................ 8
+1.2. Objetivos ................................................................................................................... 9
+1.2.1. Objetivo Principal .................................................................................................. 9
+1.2.2. Objetivos Intermediários ........................................................................................ 9
+1.3. Justificativa ............................................................................................................... 9
+2. REFERENCIAL TEÓRICO ........................................................................................11
+2.1. Administração .......................................................................................................... 11
+2.2. Estágio Profissional ................................................................................................. 12
+3. METODOLOGIA ....................................................................................................... 15
+3.1. Tipo de Pesquisa ...................................................................................................... 15
+3.2. Universo e Amostra ................................................................................................. 16
+3.3. Procedimentos de Coleta e de Análise de Dados ..................................................... 16
+3.4. Limitações do Método ..............................................................................................17
+4. A PESQUISA ............................................................................................................. 18
+4.1. Realização da Pesquisa ............................................................................................ 18
+4.2. Apresentação do Resultado ..................................................................................... 18
+4.3. Análise do Resultado ............................................................................................... 22
+5. CONCLUSÃO ............................................................................................................ 25
+REFERÊNCIAS ............................................................................................................. 28
+ANEXO .......................................................................................................................... 31
+8
+1. INTRODUÇÃO
+1.1. O problema de pesquisa
+Nos últimos anos, com a intensificação dos avanços tecnológicos, o mercado de
+trabalho buscou se adaptar cada vez mais à modernidade. Desta forma, principalmente devido
+ao avanço da internet, o mercado profissional tem se tornado cada vez mais competitivo, visto
+a maior facilidade de acesso e grande abrangência de informação e material disponível.
+Diante disso, as empresas buscam profissionais com perfis mais extensos, englobando
+variadas competências como flexibilidade, pro atividade , e colaboração definidas como
+essenciais da polivalência multifuncional (CARVALHO, 1994; HELAL, NEVES,
+FERNANDES, 2007).
+Dentro do mercado de trabalho, o estágio profissional caracteriza -se por ser uma
+experiência vivida durante a formação universitária, de caráter obrigatório em alguns cursos,
+onde os estudantes são admitidos em organizações a fim de colocarem em prática os
+fundamentos teóricos estudados durante o curso escolhido, visando adquirir experiência no
+cotidiano organizacional. A experiência atu a como marco fundamental na formação e
+preparação dos estudantes para o começo na jornada profissional e vem sendo fortemente
+difundida entre os estudantes, organizações e docentes (Caires, 2001, 2003; Melo-Silva, 1999,
+2003).
+Contudo, com base nos avanços tecnológicos, frisou-se cada vez mais a valorização do
+capital humano. Logo, os candidatos têm sido cada vez mais exigidos quanto ao grau de
+capacitação e especialização, acarretado pelo desejo de alinhar os objetivos individuais junto
+aos da organização, visando a competitividade. Assim, é essencial compreender a visão do
+funcionário perante a organização, visto que a trajetória profissional é associada à vida
+pessoal, atuando como uma espécie de espelho e fazendo com que o emprego seja
+caracterizado como uma forma de identidade e de construção social (HANDY, 1976 apud
+MORAES, 1996).
+Diante do cenário apresentado, concentrando -se na realidade de estágios profissionais
+no ensino superior, surge o seguinte questionamento: quais os fatores levados em
+consideração pelos estudantes do curso de graduação em Administração na busca do primeiro
+estágio profissional?
+9
+1.2. Objetivos
+1.2.1. Objetivo principal
+O Trabalho de Conclusão de Curso que se pretende realizar terá como objetivo geral a
+identificação dos fatores levados em consideração pelos estudantes de Administração na
+busca do primeiro estágio profissional, de forma a compreender os principais critérios
+considerados pelos jovens no momento de busca de oportunidades.
+1.2.2. Objetivos intermediários
+ Compreender o processo de tomada de decisão, o perfil da atual juventude brasileira e
+a nova perspectiva de carreira nas Organizações pelo olhar destes estudantes;
+ Relacionar os fatores encontrados ao longo da realização do levantamento com o
+processo decisório.
+1.3. Justificativa
+Devido à diversidade de áreas de conhecimento abordadas pelo curso de
+Administração, é comum que os estudantes tenham incertezas sobre seu futuro profissional.
+Com isso, professores consideram o estágio durante o ensino superi or, juntamente de uma
+especialização pós-formação, experiências essenciais de um futuro administrador para melhor
+conhecimento das áreas de atuação do curso no mercado de trabalho. (TENENTE, 2017).
+De acordo com dados levantados pelo Centro de Integração E mpresa-Escola (CIEE)
+(2019), o número de vagas de estágio abertas vem crescendo constantemente desde 2018,
+assim como, da mesma maneira, o número de contratos assinados. Vale ressaltar, também,
+que a pesquisa apresenta que estudantes do curso de administra ção são os terceiros colocados
+no quesito de busca de est ágio, o que demonstra a grande demanda e relevância do curso nos
+estágios profissionais (CARAMORI, 2019). Desta forma, o presente poderá auxiliar as
+organizações em seus planejamentos de adaptação nos processos seletivos e possível mudança
+de identidade organizacional.
+A necessidade de abordagem do tema foi identificada a partir do momento em que se
+entende que existe uma responsabilidade por parte da universidade em desenvolver o
+estudante e de auxiliar no processo de transição para o mercado de trabalho. Dessa forma, s eu
+10
+propósito se dá em auxiliar os estudantes para que tomem conhecimento da influência que
+fatores internos e externos podem ter nesse processo decisório, para que consigam decifrar as
+perspectivas limitadoras (MELO; BORGES, 2007).
+No campo acadêmico, o pr oposto estudo visa contribuir com informações mais
+específicas sobre o tema relacionado a escolhas profissionais de alunos de administração.
+Além disso, o resultado do estudo poderá contribuir como sugestão para futuras pesquisas
+para um melhor entendimento do comportamento no mercado de trabalho das gerações Y e Z.
+11
+2. REFERENCIAL TEÓRICO
+2.1. Administração
+De acordo com Chiavenato (2004), a palavra administração é derivada do latim, onde
+ad é definido como direção e minister caracteriza-se pela subordinação ou submissão, sendo
+um indivíduo que acata ordens de um outro.
+Segundo Stoner (1999 p.4), “A Administração é o processo de planejar, organizar,
+liderar e controlar os esforços realizados pelos membros da organização e o uso de todos os
+outros recursos organizacionais para alcançar os objetivos estabelecidos."
+Desta forma, o processo de administrar contempla cinco funções, em ordem. São elas:
+planejamento, organização, direção, controle. A primeira, planejamento, caracteriza -se pela
+definição dos objetivos e métodos de alcance. A organização se baseia em identificar e
+organizar os recursos requeridos para alcance do objetivo proposto. Respectivamente, a
+liderança contempla a coordenação dos recursos e pessoal na execução das tarefas já
+planejadas e organizadas. E, por fim, a função de controle caracteriza -se pelo
+acompanhamento e analise dos resultados, em comparação com anteriores ou previsões. Esta
+também é uma função corretiva, onde todo o processo é analisado, com desvios identificados
+e elaboração de propostas alternativas para alcance do objetivo.
+Com isso, é necessário compreender brevemente características do perfil e certas
+habilidades necessárias de um administrador para melhor adequação ao mercado de trabalho.
+De acordo com Lacombe e Heilborn (2008), é imprescindível que um administrador
+possua a habilidade de gestão de pessoas, adquirir experiência, lidar com altas
+responsabilidades e conhecimento de ferramentas administrativas.
+Desta forma, conforme Chiavenato (2004), o administrador passa por uma evolução de
+habilidades, iniciando -se pelo domínio da habilidade técnica, seguindo para a humana e,
+posteriormente, a habilidade conceitual. Este processo ocorre de forma gradual, considerando
+o avanço de ganho de experiência e conhecimen to por parte do administrador, o que acarreta
+na vontade de aprendizado de demais habilidades.
+12
+No Brasil, o ensino superior em Administração teve início em 1941 com a criação da
+Escola Superior de Administração de Negócios – ESAN em São Paulo, sendo a prim eira
+escola do curso no país e na América Latina (PINTO; JUNIOR, 2012).
+Assim, de acordo com Pinto e Junior (2012), é criada em 1944 a Fundação Getúlio
+Vargas – FGV, com foco maior na produção de pesquisa e ensino na área de Administração.
+Posteriormente, em 1952, é criada a primeira escola Administração Pública do Brasil e da
+América Latina pela Fundação Getúlio Vargas.
+Pinto e Junior (2012) apresentam que, somente no ano de 1965, a profissão de
+administrador foi regularizada e oficializada, junto do surgi mento do Conselho Federal e
+Conselhos Regionais de Administração, através da Lei 4.769 de 09 de setembro.
+Desta forma, devido à variedade de possibilidades de abordagens do tema e o mesmo
+estar presente desde o início do século XX, diversas pesquisas e est udos foram produzidos,
+enriquecendo o material disponível para realização deste estudo acadêmico.
+Com base no apresentado, visto a alta competitividade de mercado decorrida pela
+globalização e aumento no fluxo de informação, os recém -chegados estudantes de
+administração cada vez mais buscam experiências que agreguem valor à sua formação
+profissional (GUIMARÃES; ALMEIDA, 2013). Um exemplo de experiência
+majoritariamente buscada é o estágio profissional.
+2.2. Estágio profissional
+De acordo com a Lei 11.788 de setembro de 2008, o estágio tem como conceito o “ato
+educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à
+preparação para o trabalho produtivo de educandos” (BRASIL, 2008, p.1). Segundo
+VELUDO-DE-OLIVEIRA et al (2013 ), trata-se da aplicação prática dos conceitos passados
+em sala de aula em cenário do mercado de trabalho, a fim de preparar o jovem.
+O estágio profissional é praticado em duas modalidades: estágio obrigatório e não
+obrigatório. O primeiro, “é uma atividad e assegurada na matriz curricular do curso, cuja
+prática varia de acordo com o curso e pode ser realizado em organizações públicas, privadas,
+organizações não governamentais ou por meio de programas permanentes de extensão da
+universidade” (SCALABRIN; MOLI NARI, 2013, p.2). Entretanto, a modalidade não
+13
+obrigatória contempla atividades complementares opcionais e que “propicia maior tempo de
+intercâmbio entre a universidade e os espaços de atuação, melhorando desta forma o método
+de aprendizagem, podendo ser d esenvolvidos em organizações que mantém convênio com a
+universidade” (SCALABRIN; MOLINARI, 2013, p.2).
+Desta forma, a realização das modalidades de estágio supracitadas é de total relevância
+para a etapa de aprendizagem e conhecimento prático do estudante (SILVA; COELHO;
+TEIXEIRA, 2013), uma vez que o estágio permite a troca de conhecimentos e experiências
+com profissionais de diferentes áreas e perfis. Contudo, a realização de estágios profissionais
+contribui diretamente para a inserção e introdução ao mer cado de trabalho através do
+desenvolvimento de competências e habilidades cruciais de um bom profissional (SILVA et
+al., 2013).
+Carrão e Montebelo (2009) entendem que a linguagem empresarial reforça a distinção
+entre teoria e prática, visto que a empresa a tua como espaço de aplicação pratica das teorias e
+conhecimentos repassados no ambiente acadêmico.
+Segundo Palmeira Sobrinho (2008), o estágio teve o início de sua formação no Brasil
+em meados de 1930, com os avanços industriais. Assim, o mercado de trabal ho e educadores
+passaram a dar mais atenção ao assunto. Em seguida, surgem as Leis Orgânicas de Ensino
+Industrial (Decreto -lei 4.073/1942) e de Ensino Comercial (Decreto -lei 6.141/1943). A
+primeira regularizou o ensino principalmente para funcionários do r amo industrial (BRASIL,
+1942). Já a segunda regulamentou a área de ensino, visando gerar profissionais para a área
+comercial (BRASIL, 1943).
+Devido às recorrentes mudanças sofridas pelo mercado de trabalho e nas instituições
+de ensino, a perspectiva de car reira da mesma forma teve grandes mudanças. Isso se dá
+devido à globalização, que aumentou a competitividade, fazendo com que as pessoas
+pudessem ampliar suas áreas de atuação para o mercado global, além de fronteiras visando
+melhores condições de vida (CHOO, 2006). Também, o acesso às universidades foi ampliado
+e a educação oferecida em aspecto nacional pode não mais satisfazer as Organizações e as
+levar à busca de capital humano além das fronteiras.
+Por conta da grande preocupação das Organizações em busc arem por funcionários
+cada vez mais qualificados, é notável que o processo de escolha do curso de graduação possa
+14
+ser elaborado com base em um estudo de retorno do investimento. Ou seja, priorizara -se por
+cursos que pudessem ofertar melhores oportunidades de carreiras com maiores taxas de
+empregabilidade e benefícios. Como, da mesma forma, é possível que este mesmo processo
+ocorra com a escolha da universidade, visto questão de renome, representatividade e
+diferencial competitivo que a mesma poderá ofertar ao estudante.
+Desta forma, apesar da grande abrangência do tema, estão disponíveis diversos
+materiais específicos na área de Administração, que contribuirão para melhores análises neste
+estudo. Pode ser citado o estudo de caso realizado por Murari e Helal (2009), que acaba
+abordando ambos os tópicos deste estudo, visando analisar como a prática do estágio se
+relaciona com a formação de competências profissionais de alunos do curso de
+Administração, de uma instituição de ensino privada em Belo Horizonte – MG. Seu resultado
+brevemente se conclui por estagiários, empresas e agentes de integração entenderem o estágio
+profissional como “um mecanismo que possibilita formar um profissional de acordo com os
+interesses das organizações” e, também, que o estágio em Ad ministração é um mecanismo
+que permite a formação de competências profissionais, e contribui de maneira significativa
+para a inserção do aluno no mercado de trabalho (MURARI; HELAL, 2009).
+15
+3. METODOLOGIA
+Nesta seção, serão apresentados o tipo de pesq uisa, o universo e amostra utilizados,
+métodos de coleta e análise de dados e as limitações identificadas.
+3.1. Tipo de Pesquisa
+Diante do tema e seu objetivo apresentado s, a pesquisa deste estudo será realizada
+através da pesquisa de campo em conjunto com a elaboração de levantamento visando
+analisar o perfil dos estudantes através da obtenção de certas informações pessoais,
+acadêmicas e profissionais para criação de cenários que possam viabilizar uma melhor análise
+dos resultados. De acordo com Vergara (2003), a pesquisa de campo é baseada na experi ência
+que está sendo aplicada na investigação e é realizada exatamente no local onde são
+observados os fenômenos estudados.
+Com relação aos fins da pesquisa, a mesma será descri tiva, que segundo Vergara
+(2003), é aquela que exibe características claras e bem delineadas de determinada população
+ou fenômeno, para isso envolve técnicas padronizadas e bem estruturad as de coletas de seus
+dados.
+O levantamento será de caráter quantita tivo, visto que serão fornecidas alternativas de
+escolha nas perguntas com intuito de se facilitar a codificação dos dados obtidos, assim como
+sua interpretação e análise. Ainda assim, foi disponibilizado no levantamento um campo com
+texto livre e opcional para que os estudantes possam sinalizar informações que julguem
+necessárias para a pesquisa, a fim de buscar reduzir a limitação de respostas pré -definidas de
+uma pesquisa quantitativa.
+A escolha de uma pesquisa quantitativa se deu pela simplicidade e ra pidez no
+preenchimento, além de sua facilidade de divulgação, visto que poderia ser acessada através
+de um endereço eletrônico do Google Forms. Com a quantia de oito perguntas objetivas no
+questionário, entende -se que foi possível obter maior participação na pesquisa devido aos
+motivos mencionados acima. Além disso, a alternativa de escolha por uma pesquisa
+qualitativa poderia ser impactada negativamente, no quesito de acessibilidade, devido à
+pandemia da COVID-19 presente no momento desta pesquisa.
+16
+3.2. Universo e Amostra
+Como mencionado anteriormente, o objetivo desta pesquisa é identificar os fatores
+levados em consideração pelos estudantes do curso de Administração na busca de seu
+primeiro estágio profissional. Sendo assim, o universo da pesquisa contempla
+aproximadamente 800 estudantes de graduação do curso de Administração matriculados na
+Universidade Federal do Rio de Janeiro (UFRJ) e a amostra selecionada abrange o número
+estimado de 400 estudantes do referido curso, participantes dos grupos das redes so ciais onde
+fora disponibilizado o questionário.
+A escolha da amostragem é classificada por acessibilidade. Este tipo de classificação
+pode ser definido de acordo com Costa Neto (2002 p. 41), “embora se tenha a possibilidade
+de atingir toda a população, ret iramos a amostra de uma parte que seja prontamente
+acessível”, visto maior facilidade de acesso aos estudantes da UFRJ por parte do autor deste
+estudo.
+A quantidade de participantes foi definida posteriormente, assim que o prazo fornecido
+para preenchiment o do questionário foi encerrado. No final, foram obtidos 112
+preenchimentos.
+3.3. Procedimentos de Coleta e de Análise de Dados
+Para a elaboração da pesquisa, foi realizado um questionário a ser respondid o pelos
+estudantes do curso de A dministração. O questionário foi elaborado através da plataforma
+Google Forms com oito perguntas objetivas e uma de livre texto e opcional para informações
+complementares, como já mencionados, e divulgados aos estudantes por meio de grupos em
+redes sociais. O levanta mento foi realizado de forma anônima, para garantia de uma maior
+acuracidade nos dados obtidos e garantia de privacidade dos participantes.
+Após encerramento, inicia-se a análise de dados, onde foi feito o agrupamento das
+respostas do levantamento e inseridas em um arquivo de Excel, onde foram transformadas em
+gráficos para uma melhor visualização e análise das informações, que auxiliaram na
+elaboração da conclusão deste estudo.
+17
+3.4. Limitações do Método
+Visto que a pesquisa tem sua amostra class ificada como acessibilidade e o autor deste
+trabalho estar abordando em seu objetivo principal um tema de seu curso superior, é possível
+que o resultado da pesquisa apresente apenas a realidade de sua Instituição de Ensino (IE),
+uma vez que se pode considerar que majoritariamente serão consultados estudantes da mesma
+IE. Desta fo rma, vale ressaltar que nossa sociedade possui uma vasta variação cultural e,
+portanto, é difícil conseguir representar todas as variações de ideologias em uma pesquisa
+limitada.
+Dado envolvimento do autor com a realidade estudada, é possível que não seja possível
+abdicar-se das percepções do pesquisador quanto à realidade estudada, no momento da
+interpretação dos resultados uma vez que é requisitada uma interpretação subjetiva, que
+necessitará uma posição neutra do pesquisador, deixando de apontar sua visão do tema
+durante a realização do estudo.
+Ainda assim, como já mencionado, o questionário fora divulgado em grupos de redes
+sociais, sendo alguns destes grupos de perfis similares ao do pesquisador. Dessa forma, é
+possível que certas questões possam ter tido maior representatividade com estudantes de
+perfis semelhantes a alunos em seus períodos finais do curso, fazendo com que a parcela de
+alunos recém -chegados ao curso seja inferio r e, conseqüentemente, podendo influenciar
+diretamente no resultado obtido. Porém, vale ressaltar a tentativa do pesquisador de tentar
+maior inclusão destes estudantes recém -chegados através de seus grupos, o que não foi bem -
+sucedido devido à falta de cont atos que pudessem facilitar esta aproximação e também a
+suspensão de aulas presenciais , visto a pandemia da COVID -19, que influenciou diretamente
+na melhor aproximação dos estudantes e divulgação do questionário.
+18
+4. A PESQUISA
+Nessa seção, será apresentado o objeto de estudo dessa pesquisa e os resultados obtidos
+através da aplicação dos questionários , a fim de identificarmos os fatores levados em
+consideração pelos estudantes de Administração no momento da busca de seu primeiro
+estágio profissional.
+4.1. Realização da Pesquisa
+A pesquisa objeto deste estudo foi elaborada através da plataforma Google Forms e
+divulgada através de grupos nas redes sociais WhatsApp e Facebook. Desta forma, esteve
+disponível aos estudantes para respostas pelo período de cinco dias corridos. O questionário
+contemplava oito questões de múltipla escolha obrigatórias e uma última questão de caráter
+opcional, com livre texto, para inclusão de informações que o estudante julgasse necessárias.
+O universo da pesquisa se dá e m aproximadamente 800 estudantes do curso de
+Administração da UFRJ. No entanto, a amostra contempla 400 estudantes, somado s os
+participantes dos grupos das redes sociais onde foi divulgado o questionário. Diante
+apresentada a amostra, houve uma taxa de participação de 28% destes estudantes,
+ocasionando em 112 preenchimentos.
+4.2. Apresentação do Resultado
+Após conclusão do período estipulado de cinco dias corridos para coleta de respostas, o
+questionário foi fechado e seus dados foram extraídos visando a elaboração de gráficos para
+uma melhor visualização e análise dos resultados obtidos.
+Gráfico 1: Faixa etária
+Fonte: Autor (2021)
+19
+O gráfico 1 apresenta os resultados obtidos na primeira pergunta sobre a faixa etária
+dos estudantes, onde 62,5% dos estudantes possuem entre 20 -23 anos, 24,1% possui entre 24-
+27 anos, 8% possui menos de 20 anos, 3,6% possuem mais de 31 anos e 1,8% possuem entre
+28-31 anos.
+Gráfico 2: Ocupação
+Fonte (Autor 2021)
+O gráfico 2 apresenta os resultados obtidos para a segunda pergunta, sobre a ocupação
+dos estudantes, onde 43,8% estagia e estuda, 25% busca estágio e estuda, 20,5% trabalha e
+estuda, 7,1% se dedica somente ao estudo e 3,6% busca trabalho e estuda.
+Gráfico 3: Conclusão de curso
+Fonte (Autor 2021)
+O gráfico 3 nos exibe os resultados para a terceira pergunta da pesquisa, sobre o ano
+planejado pelo estudante para concluir o curso. Os resultados são apresentados da seguinte
+20
+forma: 42,9% planeja para 2021, 33,9% para 2022, 16,1% para 2023, 4,5% para 2024 e 2,6%
+para 2025.
+Gráfico 4: Tempo de curso
+Fonte (Autor 2021)
+O gráfico 4 é representado pelas respostas da quarta pergunta, acerca do tempo de
+curso de Administração para busca do primeiro estágio, onde 50,9% cursavam até 1 ano,
+43,8% em 2 anos e 5,3% em 3 anos.
+Gráfico 5: Motivo para busca
+Fonte (Autor 2021)
+O gráfico 5 representa os resultados da quinta pergunta, sobre o maior motivo que
+incentivou o estudante para a busca de seu primeiro estágio. O gráfico revela que 40,2% busca
+adquirir experiência no currículo, 36,6% necessita de renda, 17% visa ampliar seu
+21
+conhecimento sobre as áreas de atuação no mercado, 4,5% cumprir a grade curricular
+obrigatória e 1,8% para a ocupação de seu tempo livre.
+Gráfico 6: Fontes de busca
+Fonte (Autor 2021)
+No gráfico 6, é representado os valores a respeito da fonte de busca de estágio
+utilizada pelos estudantes. Os resultados obtidos são 54,5% para os Agentes de Integração,
+17,9% pesquisa no Google, 15,2% pelos colegas de faculdade, 8% pelo LinkedIn e 4,5%
+diretamente nos sites das Organizações.
+Gráfico 7: Fatores considerados
+Fonte (Autor 2021)
+O gráfico 7 apresenta os resultados obtidos perante a questão relativa ao maior fator
+considerado pelo estudante para a busca de seu primeiro estágio. São estes os resultados:
+22
+34,8% para atividades a serem exercidas, 32,1% benefícios concedidos, 12,5% imag em da
+Organização, 11,6% localização da Organização e 8,9% campo de atuação da Organização.
+Gráfico 8: Dificuldades encontradas
+Fonte (Autor 2021)
+E, por fim, o gráfico 8 representa as dificuldades encontradas pelos estudant es no
+momento de busca de seu primeiro estágio, onde 30,4% identificaram a falta de experiência
+perante demais candidatos, 25% para falta de autoconhecimento sobre a área de interesse de
+atuação, 22,3% para compatibilidade de horários entre as disciplinas matriculadas e os
+exigidos pela realização de estágio, 12,5% para a falta de requisitos mínimos que atendam a
+vaga e 9,8% para a conciliação do estudo com o estágio.
+4.3. Análise do Resultado
+Após apresentados os dados obtidos em cada resposta do questionário, será feita a
+apresentação do resultado. Com isso, o questionário já foi elaborado e organizado com base
+nos tipos de perguntas, onde existem questões voltadas para traçar o perfil do estudante, seus
+objetivos e experiência com a busca de primeiro estágio.
+Para aspecto mais amplo, os estudantes que contribuíram com a pesquisa,
+majoritariamente possuem até 27 anos (94,6%) e, em outra perspectiva, estão empregados ou
+buscando oportunidades (92,9%).
+Além disso, grande parte dos entrevistados deci diu buscar seu primeiro estágio ainda no
+primeiro ano de curso, representados por 50,9%. Porém, de forma geral, 94,7% buscou seu
+primeiro estágio até os dois anos, o que representa metade do tempo do curso superior de
+Administração.
+23
+Estes dados comprovam a alta concentração de respostas no gráfico 8, como falta de
+autoconhecimento sobre área de interesse de atuação e falta de experiência perante demais
+candidatos. Isso também se dá devido à 62,5% da amostra ser composta por jovens de 20 -23
+anos, o que pode ser considerada uma faixa etária de amadurecimento e aumento das
+responsabilidades, onde muitos destes ainda não traçaram seus objetivos profissionais e detém
+de pouco conhecimento do mercado de trabalho perante o curso de Administração.
+Assim, seguindo a mesma linha de raciocínio, a grande concentração de respostas obtidas,
+conforme gráfico 5 sobre o maior motivo para a busca de primeiro estágio, são apresentadas
+como 40,2% dos estudantes almejam adquirir experiência no currículo e 36,6% necessitam da
+renda do estágio. Portanto, os dados obtidos nas questões já citadas estão diretamente ligados
+aos resultados das questões 4 e 8, representadas pelos gráficos 4 e 8, onde os estudantes estão
+buscando sua primeira oportunidade de estágio majoritariamente ainda até a metade do curso
+de Administração e se deparam com a falta de experiência perante demais candidatos e falta
+de autoconhecimento sobre a área de interesse de atuação.
+De acordo com os resultados da pesquisa, 94,7% dos participantes possuem até 27 anos , o
+que os caracteriza, majo ritariamente, como “Geração Z”. No entanto, de acordo com
+Fagundes (2011), a mudança rápida, a necessidade de novidades em suas vidas e a falta de um
+objetivo em longo prazo é determinante na definição desta Geração de jovens. Características
+estas que estão associadas aos resultados obtidos para as questões voltadas aos objetivos
+profissionais e acadêmicos, como esboçado no gráfico 8 representado por 25% dos estudantes
+identificarem o não conhecimento da área de interesse de atuação.
+Entende-se por Geração Z, conforme Oliveira (2010), uma geração de jovens surgida em
+seguida da Geração Y. Tem como característica principal pessoas nascidas entre 1995 e 2010,
+período este em que foi marcado por grandes avanços tecnológicos. Dessa f orma, o convívio
+desde crianças com os aparelhos tecnológicos influenciou diretamente no comportamento
+desta geração, fazendo com que aprendessem a dominar várias tecnologias ao mesmo tempo.
+Assim, de acordo com Oliveira (2010), os jovens pertencentes à Geração Z possuem
+características como a facilidade de manuseio de aparelhos tecnológicos, a adoção de
+multitarefa, grande fluxo de informações e outras. Por outro lado, também é visível a
+dependência tecnológica, o consumo excessi vo da tecnologia e a dificuldade da própria
+desenvoltura das relações interpessoais e também da criatividade. No entanto, estes atributos
+demonstram que estamos diante de uma geração que vive de maneira acelerada e virtual, o
+24
+que pode se destacar dificulda des de relações interpessoais e aumentos expressivos de casos
+envolvendo ansiedade e limitação de criatividade.
+Conforme gráfico 6, vale ressaltar a importância e eficiência do papel dos Agentes de
+Integração, visto que 54,5% dos estudantes sinalizou utili zar este tipo de fonte de busca para
+sua primeira oportunidade. Ainda assim, os dados mencionados para os Agentes de
+Integração, em conjunto de 17,9% para pesquisa no Google e 15,2% para colegas de
+faculdade, comprovam a falta de objetividade e incerteza p or parte dos estudantes com
+relação a seus desejos profissionais, como também mencionado acima. Em contrapartida,
+apenas 4,5% dos estudantes sinalizou buscar as oportunidades diretamente nos sites das
+Organizações, feito este que pode ser visto como mais o bjetivo quanto à seus objetivos
+profissionais e identificação de valores.
+Em contrapartida, outro cenário que pode ser observado é a relação entre 94,7% dos
+estudantes buscarem seu primeiro estágio até dois anos de curso, conforme gráfico 4, e 22,3%
+dos entrevistados identificarem como maior dificuldade encontrada no momento de busca, a
+compatibilidade de horários entre as disciplinas matriculadas e os exigidos pela realização de
+estágio, conforme gráfico 8. Também pode ser considerada neste cenário, no grá fico 8, a
+parcela de 9,8% dos estudantes que identificaram a conciliação do estudo com o estágio como
+a maior dificuldade encontrada durante a busca de primeiro estágio. Isso pode ser observado
+dado que o curso de Administração, mais especificamente da Uni versidade Federal do Rio de
+Janeiro, seja ofertado em tempo integral. Ou seja, do ingresso do estudante à sua metade,
+grande parte das disciplinas da grade curricular obrigatória é ofertada no período da tarde e a
+outra metade do curso é ministrada à noite , o que dificulta a conciliação de horários
+prioritariamente até os dois primeiros anos de curso entre estágio ou trabalho e a faculdade.
+Da mesma forma, 12,5% dos participantes identificaram como maior dificuldade
+encontrada a falta de requisitos mínimos que atendam a vaga. Este resultado pode ser refletido
+no momento de tomada de decisão por parte das Organizações na elaboração dos requisitos
+mínimos para a oportunidade, onde é possível que algumas das oportunidades voltadas para
+os estudantes com até dois anos de curso possam estar sendo supervalorizadas, dificultando o
+ingresso destes estudantes.
+25
+5. CONCLUSÃO
+Nossa sociedade é bastante mutável, o que faz com que nos dias hoje vivenciemos um
+ambiente de frequentes mudanças e incertezas. (BARTALOTTI; MENEZES -FILHO, 2007;
+CHOO, 2006; PAZETO, 2005; PEREIRA et al., 2016; PERRONE et al., 2013).
+Contudo, algumas destas mudanças podem ser observadas na pesquisa através da
+influência dos avanços tecnológicos, mudança do p erfil de consumidor e aspectos sociais e
+políticos.
+O objetivo principal deste estudo está na identificação dos fatores levados em
+consideração pelos estudantes do curso de Administração na busca de seu primeiro estágio.
+Para isso, é necessário ter em ment e que os participantes deste estudo, majoritariamente,
+compõem a “Geração Z ”, a partir do momento em que 94,7% se encontra no intervalo
+estipulado para a idade desta geração. Portanto, ainda que os jovens pertençam à mesma
+geração, em nenhuma questão apres entada foi possível ter um resultado unânime ou próximo
+a isso, principalmente nas questões voltadas para o âmbito profissional.
+Vale salientar a responsabilidade das universidades de preparar seus alunos para atuarem
+no mercado de trabalho e contam com diversos métodos para isso, sendo o estágio uma
+atividade obrigatória em alguns casos. Entretanto, apesar desse esforço para prepar ar os
+indivíduos para o mercado de trabalho, poucos lugares desenvolvem sua capacidade de
+ingresso nesse ambiente. Isso quer dizer que o período de transição universidade -mercado de
+trabalho ainda é muito difícil para esses graduandos que precisam decidir que área seguir e a
+empresa onde irão trabalhar (MELO; BORGES, 2007).
+Contudo, considerando a grande dificuldade encontrada pelos jovens nessa etapa de suas
+vidas, visto que essas decisões precisam ser feitas apesar de um número pequeno de
+informações dis poníveis (MELO; BORGES, 2007), foi elaborado um levantamento para
+identificar os fatores levados em consideração pelos estudantes do curso de Administração na
+obtenção de seu primeiro estágio. Dessa forma, buscou -se identificar, com a aplicação do
+questionário, as diferentes trajetórias utilizadas pelos estudantes em seu momento de busca.
+Atualmente, os jovens cada vez mais priorizam a busca pela satisfação pessoal ante sua
+realização profissional (FREITASDE-SÁ; LEMOS; CAVAZOTTE, 2014; OLIVEIRA;
+SECCO, 2016 ). Dessa forma, muitas empresas precisam mudar sua maneira de atuação e
+26
+recrutamento e seleção para se tornarem capazes de reter esses novos funcionários. Para isso,
+como apontam os resultados da pesquisa, majoritariamente os estudantes mais valorizam as
+atividades exercidas na vaga e os benefícios concedidos.
+Apesar da busca pela realização pessoal se mostrar significante, vale ressaltar o cenário
+social brasileiro de tamanha desigualdade. Dessa forma, muitos dos jovens se vêem inclinados
+a aceitar oportun idades em Organizações nas quais não se viam atuando por conta da
+dificuldade de ingresso no mercado de trabalho e da necessidade de sustentar e auxiliar seus
+familiares financeiramente. Esta informação se mostrou presente na pesquisa principalmente
+com o elevado número de respostas para a indicação de necessidade de renda como principal
+motivação para a busca de primeiro estágio.
+Também foi possível identificar através da pesquisa que há um confronto de horários entre
+universidade, mais especificamente UFR J, e Organizações, o que dificulta ainda mais a
+disponibilidade dos estudantes para oportunidades de ingresso no mercado de trabalho.
+Dessa maneira, foi possível notar com a realização do levantamento que cada um dos
+participantes possui características, objetivos e necessidades diferentes, o que interferem
+diretamente em suas escolhas acadêmicas e planejamentos profissionais e alcançamos nosso
+objetivo identificando os principais fatores motivadores no momento de busca de primeiro
+estágio e suas variáveis, o que torna única cada experiência de maneira geral.
+Além disso, como recomendação para próximos estudos, seria interessante também
+estudar o ol har das áreas de recrutamento e seleção das empresas, e como seus funcionários
+fazem a escolha de um candidato adequado para a primeira oportunidade. Com estudos desse
+gênero, poderíamos entender a outra perspectiva desse processo de tomada de decisão e os
+fatores mais valorizados pelos recrutadores.
+Com isso, finaliza -se o estudo com a perspectiva de que foi poss ível contribuir com o
+fornecimento de informações para que os jovens aprimorem seu processo de tomada de
+decisão e elaboração de objetivos profissionais e acadêmicos nesse início de inserção no
+mercado de trabalho. Também, por outro lado, foi possível agregar com informações para
+análise e revisão dos processos seletivos por parte das Organizações, para que seja possível
+cada vez mais alinhar as oportunidades do mercado com as necessidades identificadas pelos
+candidatos.
+27
+Assim, espera -se que a pesquisa pos sa incentivar novos estudo s acerca deste tema e
+similares, uma vez que se trata de um tema que possa ser estudado periodicamente, visando a
+identificação de novas características, tendências e alterações no processo de tomada de
+decisão para que cada vez mais possa se analisar a juventude moderna e suas características.
+28
+REFERÊNCIAS
+BARTALOTTI, O.; MENEZES-FILHO, N. A relação entre o desempenho da carreira no
+mercado de trabalho e a escolha profissional dos jovens. Revista Economia Aplicada, São
+Paulo, v. 11, n. 4, p. 487-505, out./dez., 2007.
+BRASIL. Decreto-Lei nº 6.141, de 28 de dezembro de 1943. Lei Orgânica do Ensino
+Comercial. Brasília, DF: DOU, 1943.
+BRASIL. Lei nº 11.788, de 25 de setembro de 2008. Dispõe sobre o estágio de estudantes;
+altera a redação do art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada pelo
+Decreto-Lei no 5.452, de 1o de maio de 1943, e a Lei no 9.394, de 20 de dezembro de 1996;
+revoga as Leis nos 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o
+parágrafo único do art. 82 da Lei no 9.394, de 20 de dezembro de 1996, e o art. 6o da Medida
+Provisória n° 2.164-41, de 24 de agosto de 2001; e dá outras providências. Brasília, DF:
+DOU, 2008.
+CAIRES, S. Vivências e percepções do estágio no Ensino Superior. Grupo de Missão para
+a Qualidade do Ensino/Aprendizagem. Minho: 2001.
+CAIRES, S. Vivências e percepções do estágio pedagógico: a perspectiva dos estagiários
+da Universidade do Minho. 2003. Tese (Doutorado em Psicologia da Educação)
+Universidade do Minho Departamento de Psicologia, Braga, 2003.
+CAMORI, Iana. Brasil abriu 343 mil vagas de estágio em 10 meses deste ano. Metrópoles.
+2019. Disponível em: https://www.metropoles.com/concursos-e-empregos/brasil-abriu-343
+mil-vagas-de-estagio-em-10-meses-deste-ano. Acesso em: 15 set. 2020.
+CARRÃO, A. M. R.; MONTEBELO, M. I. de L. Os conceitos de teoria e prática na
+percepção de egressos do curso de Administração. Revista ANGRAD, v. 10, n. 3, 2009.
+BRASIL. Decreto-Lei nº 4.073, de 30 de janeiro de 1942. Lei orgânica do ensino industrial.
+Brasília, DF: DOU, 1942.
+CHIAVENATO, Idalberto. Introdução à teoria geral da administração: uma visão
+abrangente da moderna administração das organizações: edição compacta. 3. ed. Rio de
+Janeiro: Elsevier, 2004.
+CHOO, C. W. A organização do conhecimento: uma visão holística de como as organizações
+usam a informação. In: CHOO, C. W. A organização do conhecimento: como as
+organizações usam a informação para criar significado, construir conhecimento e tomar
+decisões. 2. ed. Tradutor Eliana Rocha. São Paulo: SENAC, 2006.
+COSTA NETO, P. L. O. Estatística. 2.ed. São Paulo: Edgar Blücher, 2002.
+FAGUNDES, Marina Miranda. Competência informacional e geração Z: um estudo de
+caso de duas escolas de Porto Alegre. 2011. 105 f. Trabalho de Conclusão de Curso
+(Graduação) - Departamento de Ciências da Informação, Universidade Federal do Rio Grande
+do Sul, Porto Alegre. 2011.
+29
+FREITAS-DE-SÁ, P.; LEMOS, A. H. C.; CAVAZOTTE, F. S. C. N. Expectativas de carreira
+na contemporaneidade: o que querem os jovens profissionais? Revista ADM. MADE, Rio de
+Janeiro, v. 18, n. 2, p. 8-27, mai./ago. 2014.
+GUIMARÃES, A. Q.; ALMEIDA, M. E. Os jovens e o mercado de trabalho: evolução e
+desafios da política de emprego no Brasil. Temas de Administração Pública, v. 8, n. 2,
+2013.
+HANDY, C. B. Como compreender as organizações. Rio de Janeiro: Zahar, 1976.
+HELAL, D. H.; NEVES, J.; FERNANDES, D. C. Empregabilidade Gerencial no Brasil.
+RAC – eletrônica – Revista de Administração Contemporânea. V. 1, n. 2, mai/ago. 2007.
+LACOMBE, Francisco; HEILBORN, Gilberto. Administração: princípios e tendências. 2.
+ed. Rio de Janeiro: Saraiva, 2008.
+MELO, S. L.; BORGES, L. O. A transição da universidade ao mercado de trabalho na ótica
+do jovem. Revista Psicologia: Ciência e Profissão, Brasília, v. 27, n. 3, p. 376-395, set./dez.
+2007.
+MELO-SILVA, L. L. Estágio profissionalizante em orientação profissional: A visão de alguns
+psicólogos-estagiários. Revista da ABOP, Porto Alegre, v.3, n.1, p.137-159, jun. 1999.
+MELO-SILVA, L. L. Formação do psicólogo: A contribuição da orientação profissional.
+PSIC: Revista da Vetor Editora, São Paulo, v.4, n.1, p.42-53, 2003.
+MIRANDA, Dilson; BERTOCCHI, Dirlei; GONÇALVES, Jeferson. Geração Z no mercado
+de trabalho. Porto Alegre, 2015. 30 p. Trabalho de Conclusão de Curso (Pós-Graduação em
+Dinâmica de Grupos) - FACULDADE MONTEIRO LOBATO.
+MURARI, J. de M. F.; HELAL, D. H. O estágio e a formação de competências profissionais
+em estudantes de Administração. Revista Gestão e Planejamento, v.10, n. 2, p. 262-280,
+2009.
+OLIVEIRA, Gustavo Medeiros. Geração Z: uma nova forma de sociedade. 2010. 92 p.
+Trabalho de Conclusão de Curso (Bacharelado em Sociologia) - Universidade Regional do
+Noroeste do Estado do Rio Grande do Sul, Rio Grande do Sul, 2010.
+PINTO, Vera Regina Ramos; JUNIOR, Mario Divo Motter. Uma abordagem histórica sobre o
+ensino da administração no Brasil. Revista Pensamento Contemporâneo em
+Administração, v. 6, n.4, p. 1-28, out./dez, 2012.
+SCALABRIN, I. C.; MOLINARI, A. M. C. A importância da prática do estágio
+supervisionado nas licenciaturas. UNAR, v. 17, n. 1, 2013.
+SILVA, C. S. C. da; COELHO, P. B. M.; TEIXEIRA, M. A. P. Relações entre experiências
+de estágio e indicadores de desenvolvimento de carreira em universitários. Revista Brasileira
+de Orientação Profissional, v. 14, n. 1, p. 35-46, 2013.
+STONER, James A. F.; FREEMAN, R. Edward. Administração. 5 ed. Rio de Janeiro:
+Prentice Hall do Brasil, 1999.
+30
+TENENTE, Luiza. Estágio e especialização são essenciais para quem faz administração,
+dizem alunos e professores. G1. 2017. Disponível em: https://g1.globo.com/educacao/guiade-carreiras/noticia/estagio-e-especializacao-sao-essenciais-para-quem-faz-administracaodizem-alunos-e-professores.ghtml. Acesso em: 15 set. 2020.
+VELUDO-DE-OLIVEIRA, T. M. et al. Empregabilidade e seus antecedentes para conquista
+da vaga de estágio por universitários. Revista Brasileira de Orientação Profissional, v.
+14, n. 1, p. 47-59, 2013.
+VERGARA, Sylvia Constant. Projetos e relatórios de pesquisa em administração. São
+Paulo: Atlas, 2003.
+31
+ANEXO
+I. QUESTIONÁRIO
+1 - Qual sua faixa etária?
+A) Menos de 20 anos
+B) 20 - 23 anos
+C) 24 - 27 anos
+D) 28 - 31 anos
+E) Acima de 31 anos
+2 - Atualmente você:
+A) Se dedica somente ao estudo
+B) Estagia e estuda
+C) Busca estágio e estuda
+D) Trabalha e estuda
+E) Busca trabalho e estuda
+3 - Em que ano você planeja concluir o curso?
+A) 2021
+B) 2022
+C) 2023
+D) 2024
+E) 2025
+32
+4 - Quando você decidiu buscar seu primeiro estágio, estava há quanto tempo cursando na
+FACC?
+A) 1 ano
+B) 2 anos
+C) 3 anos
+D) 4 anos
+E) 5 anos
+5 - Qual o motivo maior para a busca de seu primeiro estágio?
+A) Necessidade de renda
+B) Cumprir a grade curricular obrigatória
+C) Ampliar conhecimento sobre as áreas de atuação no mercado
+D) Adquirir experiencia no meu currículo
+E) Ocupação de meu tempo livre
+6 – Qual foi a fonte que você utilizou para busca de seu primeiro estágio?
+A) LinkedIn
+B) Colegas de faculdade
+C) Pesquisa no Google
+D) Agentes de Integração (Ex: CIEE, Mudes, Super Estágios e outros)
+E) Diretamente nos sites das Organizações
+7 – Durante a busca de seu primeiro estágio, o que você mais levou em consideração?
+A) Atividades a serem exercidas
+B) Benefícios concedidos
+C) Imagem da Organização
+33
+D) Campo de atuação da Organização
+E) Localização da Organização
+8 - Qual a maior dificuldade você identificou na busca do primeiro estágio?
+A) Falta de autoconhecimento sobre área de interesse de atuação
+B) Falta de experiência perante demais candidatos
+C) Falta de requisitos mínimos que atendam a vaga
+D) Conciliação do estudo com o estágio
+E) Compatibilidade de horários entre as disciplinas matriculadas e os exigidos pela realização
+de estágio
+9 - Comentários adicionais que você julgue necessário:

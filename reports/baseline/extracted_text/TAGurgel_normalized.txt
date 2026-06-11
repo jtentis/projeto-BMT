@@ -1,0 +1,1927 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+FACULDADE DE LETRAS
+DEPARTAMENTO DE LETRAS ANGLO-GERMÂNICAS
+LICENCIATURA EM LETRAS – PORTUGUÊS/INGLÊS
+THAÍSSA ACETI GURGEL
+ATRA VÉS DO OLHAR DE JANE EYRE:
+UMA CRÍTICA À OCULTAÇÃO DOS PERSONAGENS SECUNDÁRIOS
+RIO DE JANEIRO
+2025
+THAÍSSA ACETI GURGEL
+ATRA VÉS DO OLHAR DE JANE EYRE:
+UMA CRÍTICA À OCULTAÇÃO DOS PERSONAGENS SECUNDÁRIOS
+Trabalho de conclusão de curso apresentado a
+Universidade Federal do Rio de Janeiro com
+requisito parcial para obtenção do título de
+Licenciatura em Letras na habilitação
+Português/Inglês.
+Orientador: Prof. Dr. Thiago Rhys Bezerra
+Cass
+RIO DE JANEIRO
+2025
+CIP - Catalogação na Publicação
+Elaborado pelo Sistema de Geração Automática da UFRJ com os dados fornecidos pelo(a)
+autor(a), sob a responsabilidade de Miguel Romeu Amorim Neto - CRB-7/6283.
+Gurgel, Thaíssa Aceti
+G979a ATRAVÉS DO OLHAR DE JANE EYRE: UMA CRÍTICA À
+OCULTAÇÃO DOS PERSONAGENS SECUNDÁRIOS / Thaíssa
+Aceti Gurgel. -- Rio de Janeiro, 2025.
+53 f.
+Orientador: Thiago Rhys Bezerra Cass.
+Trabalho de conclusão de curso (graduação) -
+Universidade Federal do Rio de Janeiro, Faculdade
+de Letras, Licenciado em Letras: Português -
+Inglês, 2025.
+1. Jane Eyre. 2. Personagens secundários. 3.
+Recursos estilísticos . I. Cass, Thiago Rhys
+Bezerra, orient. II. Título.
+AGRADECIMENTOS
+Aos meus pais, Andréa e Alexandre, pelo incentivo, encorajamento e apoio em toda a
+minha trajetória. Obrigada, mãe pela enorme admiração que me inspira e me motiva a
+prosseguir, espero poder retribuir toda a gratidão inspiradora.
+Ao meu n oivo, Caio Jun, conselheiro , apoiador, pelo companheirismo, discussões e
+sugestões inestimáveis.
+Aos meus avós, Eneida, Almira e Paulo pelos exemplos de fé , generosidade e carinho
+que muito me inspiraram. Ao meu avô Adenir (in memoriam), que não teve a oportunidade de
+presenciar esse momento, mas, mesmo distante demonstrou seu carinho.
+Ao Professor Dr. Thiago Rhys Bezerra Cass, meu orientador, pela paciência , atenção,
+apontamentos preciosos e pelo incentivo que m e motivou nessa etapa final da minha jornada
+acadêmica.
+Gostaria de expressar minha sincera gratidão à Professora Drª Michela Rosa Di Candia
+pela leitura crítica e por suas valiosas sugestões que foram fundamentais para a conclusão deste
+trabalho.
+Sou grata à UFRJ na pessoa do coordenador Prof. Dr. Rogério, que demonstrou em toda
+a minha trajetória universitária , paciência, atenção , fazendo jus à proposta pedagógica da
+instituição.
+Agradeço a Deus por ter me abençoado, escolhendo cada pessoa que direta ou
+indiretamente contribuíram e que fizeram e fazem diferença em minha vida.
+RESUMO
+O romance da escritora inglesa Charlotte Brontë, Jane Eyre, narra a jornada de uma
+jovem órfã em busca de sua identidade e lugar no mundo. A história é contada pelo ponto de
+vista da narradora-personagem, Jane Eyre, o que nos oferece uma visão de seus pensamentos,
+sentimentos e experiências em sua trajetória como protagonista em seu processo de formação e
+transformação. No entanto, a narrativa não se limita à perspectiva de Jane, ela é acompanhada
+por um rico elenco de personagens secundários, cada um com suas próprias histórias,
+motivações e perspectivas, mas essa narrativa apresenta uma peculiaridade: a relativa ausência
+de detalhes sobre os seus personagens secundários.
+Quanto à forma, chamamos de romance o gênero que permitia abranger a lógica da
+moral burguesa, enquanto, no que diz respeito ao conteúdo, o romance realista, que tem como
+objetivo retratar de forma detalhada a vida humana e a sociedade, exist indo um elemento que
+desafia sua estrutura tradicional. Esse desafio não vem exatamente da riqueza de detalhes
+descritivos, mas da diversidade de personagens que o gênero costuma apresentar. Ao incluir
+uma variedade de figuras, cada uma com seus próprios desejos, pontos de vista e histórias, o
+romance realista se afasta da estrutura clássica centrada em um único protagonista. Essa
+multiplicidade de vozes e trajetórias torna a narrativa mais complexa — e, às vezes, até menos
+coesa — justamente porque tenta mostrar como essas vidas se cruzam, se chocam ou se
+conectam dentro de um mesmo universo social.
+Finalmente, o romance, Jane Eyre, se destaca pela narrativa e pelos recursos estilísticos
+empregados. A escolha da perspectiva em primeira pessoa, o uso do discurso indireto livre, a
+focalização interna, e a regulação da informação , constroem uma teia narrativa complexa e
+multifacetada que contribui para a profundidade e o impacto da obra.
+O presente trabalho acadêmico tem como objetivo principal analisar as diferentes vozes
+dos personagens secundários que concorrem com a protagonista, Jane Eyre. Através de uma
+análise cuidadosa dos diálogos, ações e pensamentos desses personagens, pretendem os
+demonstrar como suas vozes moldam a percepção do leitor sobre a história de Jane e contribuem
+para a complexa teia de relações que define o romance.
+Palavras-chave: Jane Eyre, personagens secundários, romance realista, recursos estilísticos.
+ABSTRACT
+The novel by English writer Charlotte Brontë, Jane Eyre, narrates the journey of a young
+orphan in search of her identity and place in the world. The narrative is presented from the
+perspective of the narrator -character, Jane Eyre, providing a comprehensive view of her
+thoughts, feelings, and experiences throu ghout her process of formation and transformation.
+However, the narrative is not limited to Jane's perspective; it is enriched by a diverse cast of
+secondary characters, each with their own stories, motivations, and viewpoints. Nevertheless,
+this narrative presents a peculiarity: the relative absence of details about the secondary
+characters.
+As for form, we call the novel the genre that allowed the logic of bourgeois morality to
+be encompassed, while in terms of content, the realist novel aims to portray human life and
+society in detail, with an element that challenges its traditional structure. Thi s challenge does
+not come exactly from the wealth of descriptive details, but from the diversity of characters that
+the genre usually presents. By including a variety of figures, each with their own desires, points
+of view and stories, the realist novel moves away from the classic structure centered on a single
+protagonist. This multiplicity of voices and trajectories makes the narrative more complex —
+and, at times, even less cohesive — precisely because it tries to show how these lives intersect,
+clash or connect within the same social universe.
+Finally, the novel Jane Eyre stands out not only for its narrative but also for the stylistic
+resources employed. The choice of first -person perspective, the use of free indirect discourse,
+internal focalization, and information regulation construct a complex and multifaceted narrative
+web that contributes to the depth and impact of the work.
+The present academic work aims to analyze the different voices of secondary characters
+that compete with the protagonist, Jane Eyre. Through careful examination of the ir dialogues,
+actions, and thoughts, we seek to demonstrate how their voices shape the reader's perception of
+Jane's story and contribute to the complex network of relationships that characterizes the novel.
+Keywords: Jane Eyre, secondary characters, realist novel, stylistic resources.
+SUMÁRIO
+INTRODUÇÃO ................................................................................................................ 8
+CAPÍTULO I: Charlotte Brontë: conhecendo a autora e sua obra ......................................... 12
+CAPÍTULO II: Os personagens secundários: moldando a protagonista, revelando a sociedade
+.................................................................................................................................................. 26
+2.1. Personagens secundários e suas vozes distintas ............................................................... 26
+2.2. Através da lente de Woloch .............................................................................................. 30
+CAPÍTULO III: Silêncio ensurdecedor: a omissão dos personagens secundários ................ 38
+3.1. Vozes silenciadas .............................................................................................................. 39
+3.2. Consequências do silenciamento ....................................................................................... 40
+3.3. Motivações por trás da omissão ....................................................................................... 44
+CAPÍTULO IV : A teia narrativa de Jane Eyre : elementos narrativos para omissão dos
+personagens secundários .......................................................................................................... 47
+4.1. Voz e visão de Jane .......................................................................................................... 47
+4.2. Liberdade de expressão de Jane ........................................................................................ 50
+4.3. Limitando a visão através da voz de Jane ......................................................................... 53
+CONSIDERAÇÕES FINAIS ................................................................................................ 56
+REFERÊNCIAS ..................................................................................................................... 58
+7
+8
+INTRODUÇÃO
+A Inglaterra vitoriana, período que se estendeu de 1837 a 1901 sob o reinado da Rainha
+Vitória, representou um momento histórico de transformações profundas , frequentemente
+compreendido como o alvorecer da modernidade. Intelectualmente, a época testemunhou a
+ascensão da ciência e a valorização do cotidiano, como se manifestou no realismo literário,
+acompanhadas por uma crescente rejeição da dependência religiosa como explicação exclusiva
+para os fenômenos do mundo. Paralelamente a essa efervescência intelectual, o país
+experimentou um acelerado processo de industrialização, conforme aponta Hobsbawm (1962),
+que impulsionou um significativo êxodo rural e um cres cimento desordenado das cidades.
+Londres, emblemática dessa transformação, tornou -se a metrópole mais populosa do mundo,
+concentrando não apenas progresso, mas também graves problemas sociais como pobreza,
+insalubridade, a proliferação de doenças infeccios as e epidemias, e condições de trabalho
+exaustivas, especialmente para a crescente classe trabalhadora, conforme detalha Thompson
+(1963). Nesse contexto de intensas mudanças sociais, econômicas e intelectuais, marcado pela
+coexistência de uma aristocracia e uma classe alta detentoras de poder e uma classe trabalhadora
+em luta pela sobrevivência, emerge a obra Jane Eyre de Charlotte Brontë, um romance que
+dialoga com as complexidades e as tensões da sua época.
+Temos conhecimento que existem várias pesquisas sobre o romance Jane Eyre , de
+Charlotte Brontë , mas geralmente são discursos construídos sob a ótica da contribuição e
+reflexão sobre o papel da mulher na sociedade vitoriana, muitas vezes fazendo relação com os
+dias atuais , assim como a busca por liberdade , os desejos da protagonista, e até mesmo a
+religiosidade abordada no romance. Portanto, podemos até dizer que não encontramos trabalhos
+realizados sobre os personagens secundários como objeto principal de análise, como também a
+ocultação desses pela narradora do romance em quest ão. No entanto, temos consciência que
+não iremos esgotar todas as possibilidades desse texto literário , mas proporcionaremos uma
+leitura centrada nesses personagens que tornam a história narrada um clássico da literatura.
+Sendo assim, este trabalho tem como objetivo principal analisar as diferentes vozes dos
+personagens secundári os que concorrem com a protagonista, Jane Eyre . O romance foi
+publicado pela primeira vez em 1847 e assinado por Currer Bell, um pseudônimo criado pela
+autora, Charlotte Brontë . N essa obra , Jane Eyre é protagonista e narradora da sua própria
+história, na qual, a autora busca revelar os sentimentos da personagem, em luta pela liberdade,
+transformando-a por meio de suas experiências com os personagens secundários.
+9
+Através da perspectiva d a protagonista , os leitores são imersos em sua jornada de
+pobreza e abandono à independência e autodeterminação. No entanto, ela é cercada por
+personagens secundários, cada um com suas próprias vozes e perspectivas distintas.
+A escolha da obra Jane Eyre é pertinente, pois propicia uma discussão sobre a relação
+entre a personagem principal e os secundários, que são essenciais para a história da
+protagonista. Eles são os espelhos que refletem as qualidades e os defeitos de Jane, sendo
+agentes que a ajudam crescer e se desenvolver. A relação entre Jane Eyre e os personagens
+secundários é complexa e ambivalente, pois ela é uma personagem forte e independente, mas
+ao mesmo tempo vulnerável e dependente, precisando da ajuda dos personagens secundários
+para sua continuidade. Como, por exemplo, no início da narrativa quando Jane com somente
+10 anos de idade, já apaixonada pela leitura, pega um livro na estante da sala de almoço, fecha
+a cortina ao seu redor fazendo um esconderijo na tentativa de não ser vista. Porém, John Reed,
+seu primo, 4 anos mais velho, a encontra, e no momento de tensão diz:
+V ocê não tem nada que ficar pegando os nossos livros, a mamãe diz que você
+é uma dependente. Não tem dinheiro, seu pai não lhe deixou nada, você devia
+estar pedindo esmolas, e não vivendo aqui com filhos de cavalheiros como
+nós, comendo a mesma comida e ve stindo as roupas que a mamãe lhe dá
+(BRONTË, 2010, p. 16).
+As palavras proferidas por um dos jovens Reed à protagonista Jane Eyre em sua infância
+é carregada de preconceito de classe com uma afirmação de superioridade social, qualificando
+Jane como uma intrusa que não pertence àquele ambiente privilegiado.
+Ao citar os livros, símbolos de conhecimento e status social na época , estabelece uma
+hierarquia intelectual e cultural , negando a Jane o acesso ao saber e reforçando sua posição
+marginalizada. A palavra "dependente" ecoa a vulnerabilidade de Jane , órfã e sem recursos
+próprios, sua sobrevivência está intrinsecamente ligada à caridade da Sra. Reed. A falta de
+recursos financeiros é equiparada à mendicância, uma condição socialmente desprezível. A
+presença de Jane na mesma casa que os "filhos de cavalheiros" é vista como uma afronta à
+ordem social estabelecida. A constatação final ressalta a humilhação da dependência , na qual
+são apresentadas como dádivas da Sra. Reed, constantemente lembrando -a de sua dívida e
+inferioridade.
+Em suma, as palavras do jovem Reed ecoa ao longo da narrativa, moldando as
+experiências e as escolhas de Jane, e sua compreensão é essencial para apreciar a profundidade
+da crítica social e a força da personagem criada por Brontë.
+Em um momento futuro da narrativa, após Jane fugir de Thornfield Hall, a mansão do
+senhor Rochester, ela encontra a humilde casa onde vivem o St. John e suas duas irmãs, e recebe
+auxílio, moradia e comida desses personagens , ajuda essa que foi essencial para sua
+10
+sobrevivência. Porém, alguns dias depois ela já deseja ter a sua independência novamente.
+Como podemos ver na conversa entre St. John e Jane abaixo:
+– V ocê não gostaria de depender da nossa hospitalidade por muito tempo e
+deseja, pelo que vejo, dispensar a compaixão das minhas irmãs tão logo possa.
+E, acima de tudo, quer dispensar a minha caridade (estou consciente da
+distinção que você fez, mas não me sinto ofendido... acho justo). Quer ser
+independente de nós?
+– Quero, como já disse. Mostre -me onde trabalhar ou como conseguir
+trabalho: isso é tudo que lhe peço agora. Depois deixe -me ir, nem que seja
+para uma humilde cabana. Até lá, permita que eu fique aqui. Temo
+experimentar de novo os horrores da falta de um t eto (BRONTË, 2010, p.
+436).
+Justificamos a nossa pesquisa sobre o romance Jane Eyre e os personagens secundários
+que a autora busca ocultar em sua narrativa por sua relevância em alguns aspectos. Em primeiro
+lugar, esta obra é um importante marco no “cânone” da literatura inglesa, que nos cativou em
+sua leitura, que tem “promovido revisões críticas”, conforme Lima:
+(...) Jane Eyre continuou a ecoar até os dias atuais, como também parte da
+crítica literária da década de 70 tornou -se tão canônica quanto o próprio
+romance de Brontë. E mesmo que o emprego do termo “canônico” tenha se
+tornado problemático, tendo sido questionado em muitos estudos, essa
+“tradição” crítica permanece sendo constantemente referenciada por estudos
+mais recentes.
+Assim, a partir de artigos publicados em importantes periódicos nas últimas
+três décadas, observamos que há algumas temáticas recorrentes em alguns
+deles, que parecem ter intrigado, inquietado e promovido revisões críticas por
+parte dos estudos mais recentes. Isso, além de comprovar a inesgotabilidade
+de sentidos e de interpretações em Jane Eyre, colabora para a manutenção
+dessa importante obra no universo das letras ocidentais (LIMA, 2013, p. 62-
+63).
+Em segundo lugar, os personagens secundários desempenham papéis importantes na
+narrativa, no qual eles ajudam a moldar a personagem Jane, contribuindo para sua trajetória,
+fornecendo novos insights sobre a sociedade vitoriana e colaborando para o desenvolvimento
+dos temas abordados na obra, como : a educação e independência feminina, o casamento, a
+religião, a busca pela identidade e a luta contra a opressão.
+Entendemos que e ssa pesquisa poderá contribuir ao analisar as diferentes vozes dos
+personagens secundários que interagem com a protagonista, proporcionando uma compreensão
+mais ampla das dinâmicas narrativas e das relações que enriquecem a história. Além disso, essa
+análise pode revelar como essas vozes influenciam o desenvolvimento da trama e a construção
+da protagonista.
+Outra relevância que consideramos na pesquisa é a utilidade para outros estudiosos da
+literatura, sendo uma pesquisa promissora com potencial para fornecer novas perspectivas sobre
+11
+a ocultação de personagens secundários pela narradora da história. Para isso, examinaremos os
+seguintes aspectos: a escolha da perspectiva em 1ª pessoa; o uso do discurso indireto livre; a
+focalização interna; e a regulação da informação . Portanto, procuramos assim, com essa
+pesquisa contribuir para uma melhor compreensão da narrativa e da sua estrutura.
+Essa pesquisa de cunho bibliográfico se desdobra em quatro capítulos: O primeiro,
+intitulado “ Charlotte Brontë: compreendendo a autora e sua obra” apresentamos um breve
+panorama; O segundo, “ Os personagens secundários: moldando a protagonista, revelando a
+sociedade”, encontramos alguns personagens secundários que desempenham papéis
+importantes na trajetória de Jane , e percebemos que estes personagens não são meros
+coadjuvantes, mas sim, peças fundamentais na construção da narrativa e no desenvolvimento
+da pr otagonista; No terceiro capítulo, “ Silêncio ensurdecedor: a omissão dos personagens
+secundários”, abordamos que a decisão d a autora em omitir detalhes sobre os personagens
+secundários não é acidental, essa escolha é deliberada e serve a um propósito específico ; E no
+quarto e último capítulo, “A teia narrativa de Jane Eyre: uma análise dos elementos narrativos”,
+analisamos as ferramentas que a autora escolhe e utiliza para construir uma teia narrati va
+envolvente. Ao co ncluirmos, discutimos como a interação l imitada com os personagens
+secundários é fundamental para o desenvolvimento de Jane e para a construção da narrativa,
+destacando a complexidade da história e a voz da protagonista.
+12
+CAPÍTULO I
+Charlotte Brontë: conhecendo a autora e sua obra
+Assim, desde sempre, entre os fatos narrados
+e o público, se interpôs um narrador.
+(LEITE, 2005, p.5)
+Charlotte Brontë, proeminente escritora do século XIX, nasceu em 21 de abril de 1816,
+em Thornton1, Yorkshire, e é reconhecida por suas contribuições significativas para a literatura
+vitoriana. Suas obras são estudadas até os dias atuais e seguem inspirando gerações de leitores
+e escritores.
+Charlotte Brontë (...), é uma autora consagrada do período vitoriano. Ela é
+reconhecida, principalmente, por seus romances, (...). Contudo, em 1847, Jane
+Eyre foi publicado e se tornou, rapidamente, grande sucesso de público e de
+crítica, sendo a obra responsável pela inserção de seu nome na história da
+literatura ocidental (LIMA, 2013, p. 13).
+Charlotte foi a terceira filha do Reverendo Patrick Brontë e Maria Branwell Brontë, “Em
+21 de abril de 1816, Maria deu à luz à terceira filha, Charlotte” (CAMPANA, 2017, p. 17). Ela
+passou sua infância em Haworth, uma pequena vila no norte da Inglaterra, onde seu pai atuava
+como vigário, conforme Campana: “Um pouco antes do nascimento de Anne, foi oferecido a
+Patrick um posto numa nova igreja que levaria a família para uma outra localidade, Haworth,
+no condado de Yorkshire, no norte da Inglaterra” (CAMPANA, 2017, p. 18).
+Sua trajetória foi marcada por tragédias e desafios, elementos que eventualmente se
+refletiriam em suas obras. Perdeu sua mãe quando tinha apenas cinco anos, e sua irmã mais
+velha, Maria, faleceu no início da adolescência, após um breve período em uma escola para
+filhas de clérigos, conforme Campana: “Em dezembro Maria começou a demonstrar sintomas
+de tuberculose, mas seu pai não foi avisado. Em fevereiro de 1825 ela estava muito doente.
+Levada para casa, não resistiu e morreu no dia 6 de maio aos onze anos de idade ”
+(CAMPANHA, 2017, p. 22). O mesmo ocorreu com a sua irmã Elizabeth : “Nesse período,
+Elizabeth também ficou doente”. (CAMPANHA, 2017, p. 22).
+Foi mandada para casa no dia 31 de maio. (...) Elizabeth não resistiu e morreu em 15 de
+junho de 1825, aos 10 anos de idade ” (CAMPANA, 2017, p. 22). As experiências dolorosas,
+juntamente com a morte prematura de suas irmãs, Emily e Anne, influenciaram profundamente
+a perspectiva e a sensibilidade de Charlotte como escritora.
+Charlotte e suas irmãs, Emily e Anne, desenvolveram um interesse precoce pela escrita,
+criando histórias e poemas desde muito jovens. Em 1847, sob os pseudônimos masculinos de
+1 BARKER, Op. Cit., p. 69-71. Apud Campana 2017.
+13
+Currer, Ellis e Acton Bell, respectivamente, as irmãs publicaram uma coleção de poemas. A
+escolha dos nomes Currer, Ellis e Acton conforme Campana: “foi objeto de muita especulação
+e debate. Foram mantidas, porém, as iniciais das irmãs sob a capa dos novos nomes e
+identidades” (CAMPANHA, 2017, p. 34).
+Publicado em 1847, em plena Inglaterra vitoriana, um período marcado por rígidas
+convenções sociais e pela emergência de novas vozes literárias, Jane Eyre de Charlotte Brontë
+alcançou um sucesso imediato e notável. Conforme Campana (2017, p.36) destaca, "a demanda
+por Jane Eyre foi sem precedentes", com a primeira edição de 2.500 cópias esgotando -se em
+apenas três meses. Esse sucesso, culminando em uma segunda edição em janeiro de 1848 e uma
+terceira em abril do mesmo ano, demonstra o impacto q ue a narrativa de uma jovem órfã
+desafiando as normas estabelecidas teve sobre o público da época. O romance, ao apresentar
+uma protagonista com uma voz interior forte e um desejo por autonomia, ressoou com os
+leitores, sinalizando um interesse crescente por histórias que exploravam a individualidade e
+questionavam as estruturas sociais vigentes.
+Sua obra mais renomada, Jane Eyre, não apenas cativa os leitores com sua narrativa,
+mas também oferece uma visão intensa da condição humana, explorando questões complexas
+de identidade, moralidade e sociedade. A história narra a jornada de uma jovem órfã, Jane Eyre,
+da infância à fase adulta, em busca de independência e amor em meio a uma série de desafios
+e adversidades. Ela enfrenta uma infância difícil em Gateshead Hall sob a tutela de sua tia,
+depois é enviada à escola Lowood, uma instituição rígida para meninas órfãs e de classe baixa,
+e já com mais idade ela se torna preceptora da jovem Adèle em Thornfield Hall, onde se
+apaixona pelo misterioso senhor Rochester. A história explora temas de amor, moralidade e
+independência, enquanto Jane luta para manter sua dignidade e princípios em face das
+adversidades e segredos ocultos.
+Conforme Santos e Laufer:
+A narrativa passa por cinco momentos nos quais percebe-se o amadurecimento
+da personagem, que busca seu lugar na sociedade, mas não através da beleza
+física e sim através da moralidade (marca importante do período vitoriano) e
+trabalho. Os momentos são: A mansão Gates Reed onde ela vive por um
+período com seus parentes por parte de mãe, é a casa da tia maldosa e seus
+primos mimados, o internato Loowood lugar no qual a menina passa por
+muitas privações e conhece Hellen e tornam -se muito amigas, a mansão de
+Thornfield, casa do Sr. Rochester, ponto central do enredo onde ela acontece
+o grande amor de Jane, onde se torna governanta; Moor House, passagem em
+que descobre que não está sozinha no mundo e tem família; e finalmente sua
+volta para a mansão de Thornfield (SANTOS E LAUFER, 2021, p. 5-6).
+14
+Segundo a análise de Santos e Laufer, Jane Eyre é estruturado em cinco fases marcadas
+por diferentes espaços que, mais do que cenários, atuam como forças ativas na formação da
+protagonista. Cada ambiente representa um momento -chave de desenvolvimento emocional,
+moral e identitário para Jane.
+Gateshead, onde enfrenta a hostilidade da Sra. Reed e de seus filhos, desperta em Jane
+a noção de injustiça e a necessidade de lutar por respeito e dignidade. Lowood, com sua rigidez
+e privações, mas também com as influências positivas de Helen Burns e Miss Temple,
+contribuiu para sua formação moral e para o desenvolvimento de resiliência e solidariedade.
+Thornfield marca a fase da paixão e do amadurecimento emocional, mas também a de
+um grande dilema moral: ao descobrir o segredo de Rochester, Jane escolhe manter sua
+integridade mesmo diante do amor. Já em Moor House, ao lado dos Rivers, ela experimenta o
+pertencimento familiar e enfrenta o conflito entre seus desejos e as pressões do dever religioso,
+representadas por St. John.
+Por fim, o retorno a uma Thornfield destruída simboliza um novo começo. Agora em
+igualdade com Rochester, Jane escolhe o amor baseado no respeito e na vulnerabilidade mútua.
+Essa nova fase representa a maturidade emocional e a consolidação de seus princípios.
+No conjunto, a leitura proposta por Santos e Laufer mostra como cada espaço vivido
+por Jane influencia diretamente suas escolhas, seus valores e sua jornada de autonomia. O
+espaço, portanto, não é passivo, mas essencial para entender sua transformação ao l ongo da
+narrativa.
+A obra Jane Eyre combina elementos de drama, romance e literatura gótica2, destacando
+a jornada de Jane em busca de uma identidade e um lugar no mundo, desafiando as normas
+sociais da época , procurando autodeterminação em um mundo dominado por expectativas
+patriarcais.
+Poovey destaca a importância de Jane Eyre como um ícone literário do feminismo, um
+modelo que rompe com os papéis tradicionais da época, questiona a autoridade masculina, ela
+busca construir sua própria vida e busca pela felicidade. Ela inspira as mulheres a questionarem
+as normas sociais e lutarem por sua independência e autodeterminação. Jane Eyre é um exemplo
+paradigmático da mulher que desafia as expectativas do patriarcado na sociedade vitoriana. Ela
+2 A literatura gótica na Inglaterra não apresenta os excessos subjetivista típicos do Romantismo, ao mesmo tempo
+em que se utiliza do poder descritivo do Realismo para suscitar o sobrenatural e o fantástico. Portanto, o gótico na
+Literatura Inglesa é um gêne ro que não pode ser chamado de Romântico, tampouco de Realista, sendo antes,
+porém, um misto híbrido dos dois que encontrou no romance (tão híbrido quanto) seu principal veículo de
+manifestação. (ROSSI, 2008, p. 62).
+15
+recusa-se a se submeter às figuras masculinas autoritárias em sua vida e busca encontrar o amor
+e a felicidade em seus próprios termos” (POOVEY , 1984, p. 122).
+Além de Jane Eyre, Charlotte Brontë escreveu outros romances, como Shirley (1849),
+“livro que tinha começado a escrever com grandes expectativas quando seu irmão e irmãs ainda
+estavam vivos e no qual a personagem Shirley representava Emily, se essa tivesse vivido com
+saúde e prosperidade” (CAMPANA, 2017, p.40). “Villette” (1853), “teve uma reimpressão de
+15.000 em dezembro e mais 5.000 seis meses depois ” ( CAMPANHA, 2017, p. 47); e “O
+professor” (1857), “Apesar de suas vendas não terem sido tão ruins, cinco anos após seu
+lançamento ainda havia cópias à venda e uma edição econômica só foi lançada em 1860 ”
+(CAMPANHA, 2017, p. 46).
+Mas Jane Eyre (1847) não só se tornou a obra -prima da curta carreira de Charlotte
+Bontë, como também ofuscou as demais obras dessa autora, desconsiderando as características
+únicas, as particularidades e distinções , esses livros foram injustamente considerados
+“fracassos”, conforme Rocha:
+Dessa forma, The Professor (escrita em 1846 e publicada postumamente em
+1857), Shirley (1849) e Villette (1853) não apenas tiveram suas singularidades
+narrativas desconsideradas, mas também foram frequentemente taxadas como
+sequências frustradas por não manterem o mesmo foco e perspectiva em
+relação à Jane Eyre (ROCHA, 2008, p. 14).
+A breve e trágica vida de Charlotte Brontë, encerrada aos 38 anos em 1855, poucos
+meses após seu casamento, inevitavelmente ecoa em sua obra mais célebre, Jane Eyre . A
+tuberculose, doença que ceifou seus irmãos e irmãs, foi a causa oficial de sua morte, embora a
+gravidez e as intensas náuseas tenham certamente contribuído para seu debilitado estado físico.
+Conforme Campana (2017):
+Charlotte morreu na manhã do dia 31 de março de 1855, apenas três semanas
+antes de seu aniversário de 39 anos. A causa certificada da morte foi
+tuberculose pulmonar, mas parece haver poucas dúvidas de que foi a gravidez
+e as violentas náuseas que sentia que a desgastaram e a levaram à morte (p.
+44).
+Essa experiência pessoal de perda, sofrimento e talvez até mesmo a esperança fugaz de
+uma nova fase em sua vida, permeia a atmosfera emocional e as temáticas encontradas em seus
+escritos.
+Conforme aponta Duarte (2018), um traço distintivo da obra de Brontë, notavelmente
+em Jane Eyre , é a narração em primeira pessoa. Essa escolha estilística permite à autora
+explorar profundamente a subjetividade da protagonista, Jane, imbuindo -a com características
+que ressoam com a própria experiência de Charlotte. As personagens femininas criadas p or
+16
+Brontë frequentemente carregam consigo uma melancolia e uma solidão reais, muitas vezes
+agravadas por sua posição social desfavorecida e pela falta de proteção. A trajetória de Jane,
+desde a infância órfã e maltratada até a busca por independência e um amor genuíno, reflete,
+em certa medida, as lutas e as aspirações de mulheres em uma sociedade que frequentemente
+lhes impunha limitações. A intensidade emocional, a busca por autonomia e a exploração das
+complexidades da alma feminina presentes em Jane Eyre podem ser vistas, portanto, como um
+reflexo da sensibilidade e das vivências da própria Charlotte Brontë, tornando a obra um
+poderoso testemunho literário de sua perspectiva sobre o mundo.
+Para desvendarmos essa obra literária, é necessário um olhar analítico, embarcarmos
+numa viagem de exploração, desvendando os recursos literários, co mpreendendo o cenário
+histórico e apreciando os temas que ressoam nas suas páginas.
+A narração presente na obra nos transporta diretamente para a mente da protagonista,
+revelando seus pensamentos íntimos, atraindo o leitor para suas experiências, promovendo uma
+conexão. Conforme Lima: “(...), mas nós, leitores, que temos acesso a sua interioridade,
+sabemos do turbilhão de emoções , contraditórias, conflituosas e intensas, que Jane vivencia
+sem externá-las” (LIMA, 2013, p. 91).
+O romance está impregnado de elementos sombrios , criando uma atmosfera de
+suspense, um ambiente misterioso que reflete a turbulência interna de Jane. Por exemplo, em
+Gateshead Hall, local em que Jane vive durante sua infância, ela compara o quarto vermelho,
+aposento onde seu tio faleceu, com uma jaula e o descreve:
+No lado esquerdo ficavam as opressivas janelas. Um enorme espelho entre
+elas refletia a vazia majestade da cama e do quarto. Eu não estava bem certa
+se haviam efetivamente trancado a porta, e quando ousei me mover fui lá
+verificar. Ai de mim! Nenhuma jaula seria mais segura! Ao voltar tinha que
+passar em frente ao espelho, e meu olhar fascinado involuntariamente
+explorou a profundidade que ele revelava. Tudo parecia mais frio e escuro
+naquele vazio fantasioso do que na realidade (BRONTË, 2010, p. 22).
+Em Thornfield Hall, mansão em que trabalha como governanta, também percebemos os
+elementos sombrios impregnados. A começar pela tradução de seu nome que é “campo de
+espinhos”, simbolizando o sofrimento e as provações pela qual ela passa durante sua moradia
+na casa. Conforme Gordon: “Thornfield expõe Jane para um caminho espinhoso – quando ela
+tenta suprimir seu desejo por uma resposta ao seu amor, e mais tarde, quando ela tiver que
+enfrentar a perversão da paixão no passado de Rochester” (GORDON, 1997, p. 93).
+17
+Jane Eyre é considerado por alguns estudiosos, um clássico Bildungsroman3, também
+conhecido como romance de formação . Este é um gênero literário que se concentra no
+desenvolvimento psicológico, moral, e/ou físico do protagonista, geralmente desde a infância
+até a idade adulta. Dessa forma, à medida que a história avança, acompanhamos o crescimento
+de Jane, desde uma criança órfã de 10 anos de idade vivendo sob a tutela cruel de sua tia, até se
+tornar uma jovem mulher casada com Edward Rochester quando finalmente encontra a sua
+felicidade e seu lugar no mundo. Conforme Lima:
+Jane Eyre é um romance autobiográfico no qual a narradora relata a sua
+trajetória formativa, desde os dez anos de idade até os seus, aproximadamente,
+vinte e oito anos de idade, quando já é uma mulher adulta, casada há dez anos
+com Rochester e mãe de seus filhos, enquadrando-se a obra no que a tradição
+literária convencionou chamar de romance de formação (Bildungsroman ). O
+romance, apesar de estar inserido no período vitoriano e apresentar as
+características desse momento da história literária inglesa, é no tavelmente
+influenciado pela estética romântica, em especial no tocante à mistura de
+gêneros, pois, a despeito de ser uma narrativa, apresenta significativas
+instâncias dramáticas. (LIMA, 2013, p. 14).
+O cenário desse romance se passa na Inglaterra do século XIX, uma época de rígidas
+hierarquias sociais, papéis de gênero e fervor religioso. Compreender este contexto é crucial
+para apreciar as lutas e triunfos da personagem Jane.
+A Era vitoriana é, reconhecidamente, um período de grande notabilidade para
+a Inglaterra, (...). Entretanto, mesmo sendo a potência industrial mundial do
+século XIX , (...) a Inglaterra acolhia valores extremamente conservadores,
+adotando normas sociais de comportamento que tendiam ao constrangimento
+da espontaneidade, ao comedimento das emoções (LIMA, 2013, p. 13).
+Charlotte Brontë critica as injustiças sociais e as desigualdades de gênero de seu tempo,
+desafiando as normas sociais. Segundo Alexander Silva (2006), a obra trouxe a público a
+transparência das emoções da sociedade patriarcal, com críticas veladas através da história de
+uma pobre órfã, sozinha e rejeitada , ressaltando a maneira como a autora utilizou a narrativa
+em primeira pessoa para dar voz a uma perspectiva feminina marginalizada. Ao centrar a
+história na experiência subjetiva de Jane, ela expôs as emoções e os anseios de uma mulher que
+se encontrava à margem da sociedade patriarcal vitoriana.
+A estrutura da narrativa, ao apresentar os eventos através dos olhos de Jane, desafia as
+normas sociais que frequentemente silenciavam as mulheres e relegavam suas experiências a
+3 Bildungsroman é o nome dado aos romances que se concentram no desenvolvimento ou na educação de um
+personagem central. De origem alemã, “Bildung” significa formação e “roman” significa romance. Disponível em:
+https://www.encyclopedia.com/people/literature-and-arts/classical-literature-biographies/agathon#3279300013
+Acesso em: 11/05/2024
+18
+um segundo plano. A "pobre órfã, sozinha e rejeitada" torna-se o foco central, e suas emoções
+– sua raiva diante da injustiça, sua busca por amor e reconhecimento, seu desejo por
+independência intelectual e emocional – ganham uma proeminência que subverte as
+expectativas de uma sociedade que valorizava a discrição e a submissão feminina.
+Ao dar voz a Jane, Brontë não apenas expõe as dificuldades enfrentadas por mulheres
+como ela, mas também questiona ativamente as desigualdades de gênero. A busca de Jane por
+igualdade em seus relacionamentos, sua recusa em se submeter a papéis predefinidos e sua
+insistência em manter sua integridade e autonomia desafiam diretamente as normas patriarcais
+que limitavam as oportunidades e a expressão das mulheres. As "críticas veladas" mencionadas
+por Silva se manifestam na própria trajetória de Jane, em suas interações com figuras
+masculinas autoritárias como a Sra. Reed e até mesmo Mr. Rochester, e em sua luta constante
+por respeito e reconhecimento em um mundo que lhe oferecia pouco. Através da voz singular
+e poderosa de Jane, Charlotte Brontë ilumina as "emoções" muitas vezes invisíveis da sociedade
+patriarcal e planta as sementes do "empoderamento feminino" em sua obra.
+O romance Jane Eyre é uma representação da identidade feminina, que luta pela
+independência, pelo respeito próprio e pela igualdade em uma sociedade patriarcal. Quando
+criança, a personagem Jane era considerada uma criança ruim, malcriada , mentirosa e maleducada, isso tudo por simplesmente não se conformar com as injustiças que sofria. Porém,
+todas as vezes que ela revidava, de alguma forma ela era repreendida por suas atitudes. Como
+podemos ver no diálogo entre as criadas Bessie, Miss Abbot, e Jane:
+– Segure os braços dela, Miss Abbot. Parece uma gata brava. – Que vergonha!
+Que vergonha! – exclamava a criada de Mrs. Reed. – Que conduta mais
+chocante, Miss Eyre! Atacar um jovem cavalheiro, o filho da sua benfeitora!
+Seu patrãozinho. – Meu patrão! Por q ue meu patrão? Por acaso sou uma
+criada? – Não, a senhorita é menos que uma criada, pois não faz nada para
+pagar o seu sustento. Sente ali, vamos, e pense sobre a sua maldade.
+(BRONTË, 2010, p. 19)
+As personagens de Bessie Lee, Miss Abbot e a jovem Jane Eyre são introduzidas logo
+nos primeiros capítulos de Jane Eyre, ambientados na sombria e opressiva mansão Gateshead,
+o lar da cruel Sra. Reed, tia de Jane, e de seus mimados filhos. Nesse contexto inicial, as
+dinâmicas de poder e a solidão da protagonista são estabelecidas de forma contundente, e essas
+duas figuras femininas da casa desempenham papéis significativos na experiência de Jane.
+Bessie é uma das criadas da mansão Gateshead. Embora faça parte da servidão e,
+portanto, ocupe uma posição inferior na hierarquia social da casa, ela demonstra momentos de
+gentileza e até mesmo afeto para com a jovem Jane. Em um ambiente dominado pela hostilidade
+da Sra. Reed e a crueldade dos primos, Bessie representa uma das poucas fontes de conforto e
+19
+familiaridade para a órfã. Suas canções e histórias oferecem um breve refúgio para a imaginação
+fértil de Jane. No entanto, a posição de Bessie a impede de oferecer uma proteção maior, e sua
+atitude por vezes vacila entre a simpatia e a adesão às ordens da Sra. Reed.
+Miss Abbot é outra criada em Gateshead, mas sua postura em relação a Jane é bem
+diferente da de Bessie. Ela personifica a rigidez e a falta de empatia presentes na casa. Miss
+Abbot frequentemente se alinha com a Sra. Reed e participa ativamente da punição de Jane.
+Suas palavras são muitas vezes duras, acusatórias e destinadas a reforçar a posição inferior da
+órfã. Ela representa a face mais severa do ambiente hostil em que Jane é forçada a viver,
+contribuindo para o sentimento de isolamento e injustiça experimentado pela protagonista.
+Já a personagem Bertha é a representação de muitas mulheres da época vitoriana que
+eram oprimidas e silenciadas p ela sociedade. Segundo Felski (2003, p. 67), Bertha pode ser
+comparada a uma espécie de reflexo das mulheres daquele tempo. ― A louca trancada no sótão
+era tanto um eco como uma paródia grotesca da mulher da classe média Vitoriana acorrentad a
+pela feminilidade e presa nos limites sufocantes da sala de desenho.
+No romance, uma das personagens mais enigmáticas e perturbadoras é Bertha Mason, a
+esposa secreta de Mr. Rochester, mantida trancada no sótão da mansão Thornfield. A figura da
+"louca trancada no sótão" pode parecer inicialmente um elemento de suspense, no entanto, ao
+observarmos sua função dentro da história, percebemos que Bertha transcende a mera figura
+assustadora, carregando consigo uma carga simbólica sobre a condição feminina na Inglaterra
+vitoriana.
+Bertha não é apresentada como uma personagem com voz própria ou com uma história
+contada diretamente por ela. A conhecemos através dos relatos de outros, principalmente de Mr.
+Rochester e da perspectiva da narradora, Jane Eyre. Ela é descrita como selvagem, irracional e
+perigosa, manifestando comportamentos violentos e destrutivos. Essa imagem construída em
+torno dela é crucial para entender como a sociedade da época lidava com mulheres que não se
+encaixavam nos padrões de feminilidade idealizados: a mulher dócil, submissa e confinada à
+esfera doméstica.
+A metáfora da "louca trancada no sótão" representa, assim, uma alegoria da repressão e
+da marginalização enfrentadas por muitas mulheres vitorianas, especialmente aquelas da classe
+média.
+A presença de Bertha no sótão de Thornfield, um segredo vergonhoso que assombra a
+vida de Rochester, também pode ser interpretada como uma crítica à hipocrisia da sociedade
+vitoriana, que, sob uma fachada de moralidade e ordem, escondia as "loucuras" e as
+transgressões que não se encaixavam em seus códigos. A existência de Bertha, silenciada e
+20
+invisível, é um lembrete constante das mulheres cujas vozes e desejos foram reprimidos em
+nome de um ideal de feminilidade restritivo.
+Ao nos depararmos com a relação entre Jane e Rochester que desafia as noções
+convencionais de amor, paixão e moralidade, investiga mos as complexas emoções humanas e
+seus desejos. Por exemplo, quando Jane descobre que o Sr. Rochester é casado com outra
+mulher, ela passa por um momento difícil ao lidar com sua frustração de não poder se casar
+com o homem que ama, pois não seria certo casar-se com um homem comprometido. Portanto,
+esta mulher, Bertha, depois de descoberta, passa a ser mais do que uma prisioneir a, mas um
+obstáculo para a união de Jane e Rochester. Segundo Geason (1997): Bertha trata-se da parte
+mais difícil que Jane Eyre tem que enfrentar, haja vista que ela entra em conflito com os seus
+princípios, que não admitem que ela se case com alguém que já tem compromisso.
+A trajetória de Jane, marcada por uma ascensão social a partir de uma origem humilde,
+revela as lutas , os desafios , as oportunidades e as possibilidades da mobilidade social na
+Inglaterra vitoriana. Portanto, p ara entendermos o universo de Jane Eyre, é importante nos
+atermos ao contexto histórico e social da Inglaterra vitoriana, época em que se passa o romance
+de Charlotte Brontë.
+O fim da Revolução Industrial na Inglaterra, ocorrido em 1837, coincidiu com o início
+da era vitoriana, período que foi caracterizado pela influência do Iluminismo, um movimento
+filosófico que passou a conceber o ser humano como um indivíduo autônomo, autossuficiente,
+universal e guiado pela racionalidade.
+Durante esse período, a ciência e o cotidiano eram exaltados (como, por exemplo, no
+realismo literário), enquanto a dependência religiosa era rejeitada. Diante desse contexto,
+podemos afirmar que a era vitoriana foi uma época de intensas mudanças sociais, tanto no
+âmbito intelectual quanto nas formas práticas de produção. Neste contexto, entendemos que a
+era vitoriana é compreendida como o período histórico e social que marca o início da
+modernidade.
+A era vitoriana foi marcada por um acelerado processo de industrialização,
+impulsionando o êxodo rural e o inchaço das cidades. Londres, por exemplo, se tornou a
+metrópole mais populosa do mundo da época. Essa rápida urbanização trouxe consigo
+problemas como pobreza, insalubridade, doenças infecciosas e epidemias, e más condições de
+trabalho, especialmente para as classes mais baixas (HOBSBAWN, 1963, p. 44). Thompson,
+identifica a aristocracia e a classe alta como detentoras do poder político e econômico, enquanto
+a classe trabalhadora lutava para sobreviver em condições precárias.
+21
+A sociedade vitoriana era caracterizada por uma estratificação social rígida e
+por uma profunda divisão entre as classes. A aristocracia e a classe alta
+detinham o poder político e econômico, (...) enquanto a classe trabalhadora
+lutava para sobreviver em condições precárias . (...) Eles não tinham voz na
+política ou na economia e eram frequentemente marginalizados e explorados
+pelas classes dominantes (THOMPSON, 1963, p. 23).
+A sociedade vitoriana era extremamente hierarquizada e rígida. A classe alta, composta
+por aristocratas e grandes proprietários de terras, ostentavam riqueza e poder. Já a classe média,
+formada por profissionais liberais e comerciantes, ascendia gradativamente. A classe
+trabalhadora, por sua vez, vivia em condições precárias, com longas jornadas de trabalho,
+baixos salários e poucas perspectivas de ascensão social. Para Michel Foucault: “A sociedade
+vitoriana era caracterizada por um forte controle social e por um sistema punitivo severo. A
+disciplina e a ordem eram vistas como valores essenciais para a manutenção da hierarquia social
+e para a repressão da dissidência” (FOUCAULT, 1977, p. 152).
+Na Inglaterra vitoriana, o papel da mulher era condicionado ao âmbito doméstico. A
+docilidade, a submissão e a dedicação ao lar eram as principais virtudes femininas. A educação
+formal e as oportunidades de trabalho para as mulheres eram limitadas. O casamento era visto
+como o destino natural das mulheres, sendo crucial para sua segurança e status social. A rainha
+Vitória, líder do império na época, compartilhava dos valores patriarcais, portanto não era um
+exemplo para as mulheres que lutavam por seus direitos civis. Segundo Monteiro:
+A mulher com o perfil assim delineado tinha todo o apoio da rainha Vitória,
+que atribuía o sucesso do seu reinado à moralidade da corte e à harmonia da
+vida doméstica. Consequentemente, olhava o movimento em defesa dos
+Direitos da Mulher como ameaça à virt ude do sexo ‘frágil’. Tal situação,
+obviamente, viria a repercutir, ainda que de forma silenciosa, na vida privada,
+onde a repressão, principalmente a sexual, se agrava e se intensifica
+incrivelmente (MONTEIRO, 1998, p. 61).
+Nancy Fraser em “A busca por justiça social”, dedica especial atenção às desigualdades
+de gênero, raça e classe, analisando como essas interseccionalidades moldam as experiências
+de diferentes grupos sociais. Ela argumenta que a justiça social exige não apenas a
+redistribuição de recursos, mas também o reconhecimento das identidades e valores dos grupos
+marginalizados. “A sociedade vitoriana era permeada por desigualdades de gênero, raça e
+classe. As mulheres eram relegadas ao âmbito doméstico, os trabalhadores enfrentavam longas
+jornadas de trabalho e condições precárias, e as minorias étnicas eram marginalizadas e
+discriminadas” (FRASER, 1984, p. 78).
+A sociedade vitoriana era profundamente religiosa e moralista. A Igreja Anglicana
+exercia grande influência sobre a vida das pessoas, ditando normas de comportamento e valores
+22
+sociais. A rigidez moral era evidente em diversos aspectos da vida cotidiana, desde a vestimenta
+até o comportamento em público. Para Thompson: “A religião era vista como um instrumento
+de controle social pelas elites vitorianas, que utilizavam sermões e outras formas de propaganda
+religiosa para inculcar valores como a obediência, a submissão e a resignação nas classes
+trabalhadoras” (THOMPSON, 1963, p. 256).
+Em diversos momentos do romance, a protagonista se depara com situações que
+desafiam sua moral e seus valores. Ela é obrigada a tomar decisões difíceis que colocam em
+risco sua reputação e seu futuro. Ela enfrenta as rígidas normas morais da época, questionando
+hipocrisias e buscando autenticidade em suas relações. A autora explora as contradições da
+sociedade vitoriana e as lutas que as mulheres enfrentavam para encontrar a sua própria voz e
+identidade.
+O Império Britânico atingiu seu auge durante a era vitoriana, dominando grande parte
+do mundo. O nacionalismo e o sentimento de superioridade cultural eram fortes entre os
+britânicos, que viam o imperialismo como uma missão civilizadora. Hobsbawm identifica o
+patriotismo, o orgulho naci onal, a missão civilizadora como características centrais do
+nacionalismo vitoriano.
+"O nacionalismo vitoriano era caracterizado por um forte sentimento de
+patriotismo e orgulho nacional. Os britânicos se viam como uma nação
+excepcional, destinada a liderar o mundo e promover a civilização e o
+progresso. Essa crença era alimentada por uma série de fatores, incluindo a
+expansão do Império Britânico, a Revolução Industrial e a ascensão da ciência
+e da tecnologia. Os britânicos acreditavam que sua cultura, sua forma de
+governo e seus valores eram superiores aos de outras nações, e que tinham o
+dever de espalhá -los pelo mundo. Essa crença levou a uma série de
+intervenções imperialistas, que muitas vezes resultaram em violência e
+opressão" (HOBSBAWM, 1989, p. 87).
+Ao pensarmos sobre o contexto histórico e social da Inglaterra vitoriana, podemos ter
+uma melhor compreensão do mundo de Jane Eyre. Sua trajetória como órfã em Lowood,
+governanta em Thornfield Hall e, por fim, mulher independente, reflete os desafios e as
+contradições da época.
+Assim, os valores burgueses encontrou respaldo na forma do romance, pois esse gênero
+literário que procura construir um relato completo e autêntico da experiência de vida (embora
+saibamos que essa autenticidade dificilmente será alcançada). De acordo com Ian Watt, essa
+característica é chamada de realismo formal:
+O método narrativo pelo qual o romance incorpora essa visão circunstancial
+da vida pode ser chamado seu realismo formal; formal porque aqui o termo
+"realismo" não se refere a nenhuma doutrina ou propósito literário específico,
+mas apenas a um conjunto de procedimentos narrativos que se encontram tão
+23
+comumente no romance e tão raramente em outros gêneros literários que
+podem ser considerados típicos dessa forma. (WATT, 2010, p. 34)
+Segundo Ian Watt, o realismo formal não se refere ao tipo de vida que o romance
+apresenta, mas sim à maneira como ele a apresenta . Trata-se de um conjunto de técnicas
+narrativas que visam construir no leitor a ilusão de que a história é uma representação autêntica
+e completa da experiência humana, mesmo sabendo que a ficção nunca alcançará uma
+autenticidade absoluta.
+O realismo formal conforme Watt: “permite uma imitação mais imediata da experiência
+individual situada num contexto temporal e espacial do que outras formas literárias” (WATT,
+2010, p. 35).
+Na teoria do romance, o realismo se define, antes de tudo, por uma técnica narrativa que
+busca criar a ilusão de realidade, ocultando os artifícios da ficção. De acordo com Silva: “O
+romance realista produz a análise psicológica. Interessa ao escritor analisar as causas internas
+das ações, ou suas consequências. O romance precisa desenvolver modos de olhar para essa
+interioridade” (2009, p. 97). Nesse contexto, a análise psicológica é realizada a partir do ponto
+de vista do narrador.
+Dessa forma, ao aproximar-se da escrita de relatos cotidianos, a vida privada passa a ser
+tratada com seriedade. Assim, o romance ganha autoridade como o gênero mais expressivo
+dessa época, pois sua forma permite a experimentação de discursos individuais e a fusão das
+linguagens coloquial e culta. O r omance se torna, portanto, a própria representação da
+complexificação da sociedade burguesa moderna, refletindo a cultura dos valores burgueses.
+Realismo formal para Watt é:
+(...) a expressão narrativa de uma premissa que Defoe e Richardson aceitaram
+ao pé da letra, mas que está implícita no gênero romance de modo geral: a
+premissa, ou convenção básica, de que o romance constitui um relato
+completo e autêntico da experiência h umana e, portanto, tem a obrigação de
+fornecer ao leitor detalhes da história como a individualidade dos agentes
+envolvidos, os particulares das épocas e locais de suas ações - detalhes que
+são apresentados através de um emprego da linguagem muito mais referencial
+do que é comum em outras formas literárias. (WATT, 2010, p. 23)
+O enredo de Jane Eyre (a problematização da história e o encadeamento dos eventos na
+narrativa) surge como uma representação da ascensão dos valores burgueses, que estavam se
+consolidando na Europa no século XIX.
+As experiências de Jane como órfã em Lowood e governanta em Thornfield revelam as
+precárias condições de trabalho e a exploração dos trabalhadores na era vitoriana. Thompson
+relata detalhadamente as condições de trabalho precário e da exploração dos trabalhadores nesse
+24
+período, descrevendo longas jornadas de trabalho, baixos salários, ambientes de trabalho
+precários, trabalho infantil como características marcantes da era vitoriana.
+"Para a grande massa de trabalhadores não qualificados, a vida era uma rotina
+interminável de labuta extenuante, baixos salários e insegurança. A jornada de
+trabalho de 12 horas era comum, e muitas vezes se estendia por 14 ou 16 horas.
+Os salários eram mis eráveis, mal suficientes para cobrir as necessidades
+básicas de alimentação, vestuário e moradia. Os locais de trabalho eram
+frequentemente perigosos e insalubres, com pouca ou nenhuma proteção
+contra acidentes ou doenças. E o trabalho infantil era general izado, com
+crianças de apenas cinco ou seis anos sendo obrigadas a trabalhar longas horas
+em fábricas e minas" (THOMPSON,1963, p. 234).
+Jane experimenta as duras realidades da pobreza e da marginalização sendo
+constantemente confrontada com as diferenças sociais e a falta de oportunidades para mulheres
+de sua classe. Ela luta contra as expectativas sociais impostas às mulheres, buscando autonomia
+e realização pessoal em um mundo dominado pelos homens.
+Espera-se que as mulheres sejam geralmente calmas: mas as mulheres sentem
+como os homens; elas precisam exercitar suas faculdades e de um treino para
+sua força tanto quanto seus irmãos; elas sofrem de uma repressão tão rígida,
+uma estagnação tão absoluta, precisamente como os homens sofreriam; e é um
+raciocínio pobre de seus companheiros mais privilegiados dizer que elas
+devam se limitar a fazer pudins e tecer meias, a tocar piano e bordar bolsas.
+Não é sensato condená-las ou rir delas, se procuram mais ou aprendem mais
+do que o costume pronunciou como necessário para elas (BRONTË, 2010, p.
+65).
+Jane Eyre, a protagonista é contratada como preceptora em Thornfield Hall, a mansão
+do Senhor Rochester. Esse trecho constitui a parte mais extensa do enredo, o que pode ser
+justificado como uma forma de reforçar a noção de realismo formal.
+Jane na mansão do Sr. Rochester, além de ter plena consciência de seu papel na
+sociedade, agindo de forma exemplar como preceptora, começa a se conhecer mais
+profundamente, explorando seus impulsos e desejos amorosos.
+Ao entendermos o contexto histórico e social da Inglaterra vitoriana, podemos apreciar
+a riqueza da obra de Charlotte Brontë e a profundidade d os personagens, especialmente Jane
+Eyre, que se torna um símbolo de força, resiliência e busca por liberdade em um mundo hostil.
+Os temas atemporais, os personagens complexos e com uma narrativa envolvente de
+Jane Eyre a consagram como um clássico que continua a inspirar e emocionar leitores de todas
+as idades, com sua mensagem de empoderamento feminino, da busca pela autoestima e do poder
+do amor em meio à adversidade.
+25
+A cada nova leitura de Jane Eyre, embarcamos em uma aventura de descobertas , um
+convite para desvendar novos significados, aprofundando ainda mais nossa compreensão da
+obra e nossa apreciação ao gênero literário e genialidade de Charlotte Brontë.
+26
+CAPÍTULO II
+Os personagens secundários: moldando a protagonista, revelando a sociedade
+O romance Jane Eyre se concentra principalmente na jornada interna d a protagonista,
+em seu processo de amadurecimento e autodescoberta. Através de seus olhos, Jane nos conduz
+a uma jornada limitada até a conquista da sua independência e autodeterminação , mas, no
+entanto, sua história não se resume a ela, a qual é entrelaçada por um elenco de personagens
+secundários, cada um com suas próprias vozes e perspectivas singulares.
+Jane Eyre é órfã, mora com parentes que a hostilizam, foi enviada à Lowood School,
+uma instituição de caridade, na qual é tirana e repressora. Aos 18 anos, ela decide deixar
+Lowood, em busca da liberdade, a qual se torna preceptora de Adèle, tutelada de Rochester.
+Ao longo do romance, encontramos uma série de personagens secundários que
+desempenham papéis importantes na trajetória de Jane. Cada um desses personagens possui sua
+própria voz distinta, que contribui para a rica tapeçaria da narrativa.
+2.1. Personagens secundários e suas vozes distintas
+No romance, os parentes biológicos de Jane desempenham um papel crucial em sua
+formação e moldam sua perspectiva de mundo. A Família Reed: Tia Reed, uma mulher amarga
+e invejosa, nutre um profundo ressentimento por Jane, ela a humilha, castiga e a culpa
+constantemente. Cruel e negligente, representa a figura materna ausente na trajetória de Jane,
+sua voz, carregada de hostilidade e indiferença, contribui para a visão d a protagonista sobre si
+mesma como uma órfã indesejada.
+Mrs. Reed às vezes me olhava de forma severa, mas raramente me dirigia a
+palavra. Desde que eu ficara doente ela traçara com mais firmeza ainda a linha
+de separação que me isolava dos seus próprios filhos. Determinou que eu
+devia dormir sem companhia num pequen o quartinho, fazer as refeições
+sozinha e passar todo o tempo no quarto das crianças, enquanto meus primos
+viviam constantemente na sala de estar. Mas não fez uma insinuação sequer
+sobre mandar-me para a escola. Eu tinha uma certeza instintiva de que ela não
+conseguiria mais suportar-me sob o mesmo teto. Seu olhar, quando se voltava
+para mim, expressava uma profunda e insuperável aversão, agora mais do que
+nunca (BRONTË, 2010, p. 38).
+Os primos, John, Eliza e Georgiana, egoístas e mimados, tratam -na com desprezo e
+crueldade, eles a provocam, zombam dela e a excluem das atividades familiares.
+Havia momentos em que eu ficava atordoada com o terror que ele me
+inspirava, pois não tinha a quem apelar contra suas ameaças ou castigos. Os
+criados não queriam ofender seu jovem patrão tomando meu partido contra
+ele. E Mrs. Reed, nesse assunto, era cega e surda: nunca via ele me bater, nem
+jamais ouvia os insultos que ele me fazia, embora ele fizesse ambas as coisas
+27
+em sua presença a toda hora e, com mais frequência ainda, pelas costas dela
+(BRONTË, 2010, p. 16).
+Bessie Lee, a empregada dos Reed, é a única figura que demonstra algum tipo de
+compaixão por Jane, ela oferece um pouco de afeto durante sua infância difícil. “Eram tão
+interessantes quanto as histórias que Bessie às vezes contava nas noites de inverno, quando
+acontecia de estar de bom humor” (BRONTË, 2010, p. 14).
+Adele Varens é a pupila francesa do Sr. Rochester, ela se torna uma amiga próxima de
+Jane e representa para ela a figura de uma irmã mais nova que nunca teve. “E então, logo no
+começo do outono, a pequena Adele Varens veio com a sua ama. Uma criança enche uma casa
+de vida. E agora que você está aqui, vou ficar bem feliz” (BRONTË, 2010, p. 125).
+É importante notar que, embora os parentes de Jane desempenhem um papel
+significativo em sua trajetória, ela também encontra força e apoio em outros personagens, como
+Helen Burns, amiga de Jane da instituição Lowood School, devota e resignada, submissa e sem
+ambição, serve como um contraste direto à rebelde e independente Jane , sua voz, impregnada
+de submissão e auto abnegação, desafia as crenças de Jane sobre a força e a autonomia
+femininas.
+E embora eu fosse um ser imperfeito, com muitas falhas e poucas coisas para
+me redimir, ainda assim nunca me cansei de Helen Burns. Nunca deixei de
+nutrir por ela um sentimento de afeto, tão forte, terno e respeitoso como
+nenhum outro jamais animou meu coração. Como poderia ser de outra forma,
+quando Helen, sempre e em qualquer circunstância, mostrou por mim uma
+serena e fiel amizade, que o mau humor nunca azedou e a irritação nunca
+perturbou? (BRONTË, 2010, p. 101)
+A governanta de Thornfield Hall, “Mrs. Fairfax revelou-se o que realmente parecia: uma
+pessoa de temperamento plácido, natureza bondosa, boa educação e inteligência mediana”
+(BRONTË, 2010, p. 139), oferece a Jane a oportunidade do primeiro emprego na residência do
+Sr. Rochester como preceptora de Adele Varens.
+O Sr. Rochester, enigmático, com seus segredos obscuros e caracterização complexa,
+ele representa uma voz poderosa que desafia a perspectiva d a protagonista, sua autoridade e
+seriedade o colocam em uma posição de poder, e suas palavras e ações muitas vezes moldam a
+percepção de Jane sobre seus sentimentos e desejos. “Ele era orgulhoso, sardônico, e duro com
+a inferioridade de qualquer espécie. No fundo da alma eu sabia que sua grande bondade para
+comigo era contrabalançada por uma injusta severidade em relação a vários outros. Ele era malhumorado também, e enigmático ” (BRONTË, 2010, p. 1 87). Com ele, ela conhece o amor e
+descobre mais sobre o mundo ao seu redor.
+28
+Através de suas interações com ess es p ersonagens, e por meio das diferenças
+apresentadas, Jane é moldada e constrói sua própria identidade, ou seja, cada encontro, seja ele
+marcado pela crueldade, pela bondade, pela imposição ou pela afinidade, serve como um
+catalisador para o seu crescimento pessoal.
+Outros personagens, mas não sem importância: Blanche Ingram, arrogante e superficial,
+representa o ideal de beleza e status que Jane se recusa a seguir, sua voz é carregada de desprezo
+e condescendência, serve como um lembrete constante das normas sociais que Jane deve
+desafiar; St. Jo hn Rivers, severo e religioso , representa um ideal masculino, sua voz,
+impregnada de moralismo e rigidez, desafia a busca da personagem principal por amor e paixão;
+o reverendo, Brocklehurst, de Lowood; Maria Temple, membro importante da instituição
+Lowood School; e Miss Scatchart, a repressora. Sendo assim, cada personagem aponta para
+uma questão significativa, seja essa, religião, amor, amizade, repressão, etc.
+Finalmente, Bertha Mason e seu irmão Richard, provenientes da Jamaica, na qual Bertha
+Mason é considerada louca e não tem voz na narrativa, mas é evidente seu papel de destaque,
+por grande parte da trama circundar em torno do silêncio da personagem.
+O silenciamento da personagem de Bertha Mason, a "louca trancada no sótão" em Jane
+Eyre, é uma das características significativas da narrativa. Bertha não tem voz própria no
+romance; suas aparições são marcadas por gritos, risos considerados insanos e ações violentas,
+sempre mediadas pela percepção e descrição de outros personagens, principalmente Jane Eyre
+e Mr. Roche ster. As implicações desse silenciamento são carregadas de críticas sociais e de
+gênero.
+Em primeiro lugar, o silenciamento de Bertha a desumaniza. Ao não ter acesso à fala,
+ela é reduzida a uma criatura animalesca, irracional e puramente instintiva, despojada de sua
+individualidade e complexidade como ser humano. A ausência de sua perspectiva impede o
+leitor de compreender seus sentimentos, suas motivações ou a possível razão por trás de sua
+"loucura". Tudo o que sabemos sobre ela é filtrado e interpretado por narradores que têm seus
+próprios interesses e preconceitos, levantando questões sobre a confiabilidade dessas
+representações.
+A teoria pós -colonial de Gayatri Spivak, particularmente em seu ensaio "Pode o
+Subalterno Falar?", oferece uma lente crítica para analisar o silenciamento de Bertha. Spivak
+argumenta que as estruturas de poder dominantes frequentemente impedem que os grupo s
+subalternizados tenham suas vozes ouvidas e compreendidas. No caso de Bertha, sua posição
+como mulher, como "louca" e como "outra" racial e culturalmente a coloca em uma posição de
+subalterna, tornando o acesso a sua fala dentro do discurso do romance quase impossível.
+29
+Ao discorrermos sobre as diferentes vozes dos personagens secundários, podemos
+observar como elas competem com a perspectiva d a protagonista e contribuem para a
+complexidade da narrativa. As vozes desses personagens não apenas fornecem diferentes
+pontos de vista sobre os eventos da história, mas também desafiam as crenças e valores de Jane,
+forçando-a a confrontar suas próprias experiências e percepções.
+Poderíamos mesmo sustentar a hipótese de que o eixo dessa narrativa
+formativa é construído a partir dos eventos dramáticos e trágicos da trajetória
+de Jane, sendo a tentativa de conciliação entre o desejo de emancipação
+feminina da protagonista, a observân cia a seus valores morais e a luta pela
+concretização do amor romântico as linhas de força que engendram os
+conflitos dramáticos do romance (LIMA, 2013, p. 21).
+Ao discorrermos sobre as vozes de cada personagem na narrativa , observamos dois
+grupos distintos: aqueles que representam a opressão e a injustiça, e aqueles que representam a
+serenidade e esperança.
+O grupo que representa a opressão e a injustiça que Jane enfrenta ao longo de sua
+jornada, começa com a família Reed, que é responsável por criá-la em um ambiente hostil e
+abusivo. Os primos de Jane, Eliza, John e Georgiana, são figuras cruéis e egoístas . A tia, Mrs
+Reed, é uma mulher fria e calculista que não se importa com o bem -estar da sobrinha. Nesse
+contexto, Jane era frequentemente chamada por eles por termos degradantes que a
+desumanizam como “rata” (BRONT Ë, 2010, p.16), “gata brava” (p. 19) e “menos que uma
+criada” (p. 19). Eles são a manifestação do mundo cruel e hostil em que ela vive, no qual Jane
+é constantemente submetida ao poder e crueldade, o que a força a desenvolver uma força de
+vontade e uma determinação inabalável. “Mrs. Reed, impaciente com os soluços selvagens e o
+frenesi de angústia que se apossara de mim empurrou-me para o quarto bruscamente e trancou
+a porta, sem dizer mais nada” (BRONTË, 2010, p. 26).
+Havia momentos em que eu ficava atordoada com o terror que ele me
+inspirava, pois não tinha a quem apelar contra suas ameaças ou castigos. Os
+criados não queriam ofender seu jovem patrão tomando meu partido contra
+ele. E Mrs. Reed, nesse assunto, era cega e surda: nunca via ele me bater, nem
+jamais ouvia os insultos que ele me fazia, embora ele fizesse ambas as coisas
+em sua presença a toda hora e, com mais frequência ainda, pelas costas dela
+(BRONTË, 2010, p. 16).
+O outro grupo que representa a serenidade e esperança, inclui os personagens que
+ajudam Jane a encontrar seu lugar no mundo. A Sra. Fairfax, a governanta de Thornfield Hall,
+por exemplo, que é uma figura maternal que oferece a ela um lar e um senso de comunidade,
+além do amor, apoio e compreensão. Outro exemplo é a Srta. Temple, uma das professoras de
+Jane no Colégio Lowood, que é uma mulher gentil e compassiva que a ensina a importância da
+30
+educação, da autoaceitação e a desenvolver seu potencial. E, obviamente, o Sr. Rochester, o
+protagonista masculino do romance, que é um homem apaixonado que oferece a Jane o amor e
+o apoio que ela sempre desejou, sendo um companheiro que ajuda a protagonista encontrar um
+sentido para sua jornada. “Era grata a Mrs. Fairfax pela sua bondade, e pelo prazer da sua
+companhia, proporcionado pelo tranquilo afeto que ela tinha por mim e a moderação de sua
+mente e caráter ” (BRONTË, 2010, p. 139). “Miss Temple sorrira com aprovação. Prometeu
+ensinar-me a pintar e permitir que eu aprendesse francês, se eu continuasse melhorando nos
+próximos dois meses” (BRONTË, 2010, p. 89). “Devo aos seus ensinamentos a maior parte do
+que sei. Sua amizade e companhia foram meu contínuo consolo. Ela esteve ao meu lado no
+lugar de mãe, mestra e, nos últimos tempos, companheira” (BRONTË, 2010, p. 108).
+Sei o que é viver inteiramente para e com aquilo que mais amo no mundo.
+Considero-me abençoada –muito mais do que as palavras podem exprimir,
+pois sou a vida do meu marido tanto quanto ele é a minha. Nenhuma mulher
+jamais foi sua companheira tanto quanto eu sou: nem se tornou mais carne da
+sua carne, ou sangue do seu sangue. Não me canso da companhia do meu
+Edward, nem ele da minha. Nossos corações, embora batam em peitos
+separados, são um só –por isso estamos sempre juntos (BRONTË, 2010, p.
+564).
+Esses personagens representam a esperança e a possibilidade que Jane encontra em sua
+trajetória, sendo eles a manifestação do mundo bom e justo que ela deseja. Jane é nutrida pelo
+amor e pela compreensão, o que a ajuda a crescer e a se desenvolver.
+Através de suas experiências, a protagonista aprende a lidar com a opressão, a injustiça,
+aprendendo a importância da autoaceitação e da conquista, como vemos a seguir: “Apesar de
+Jane madura nunca conseguir suprimir totalmente sua revolta, ela finalmente ascende para a
+classe que sempre julgou ter direito de pertencer e sua autobiografia pode ser lida como uma
+tentativa de organização e controle de seu passado” (CALDAS, 2017, p. 115).
+Ao longo do romance, Jane Eyre se depara com situações a confrontam com a opressão
+e as complexidades do amor. Ela enfrenta maus-tratos na infância, é obrigada a trabalhar como
+governanta em condições precárias e se apaixona por um homem casado. Através de suas
+experiências, a personagem aprende a discernir o verdadeiro amor do falso, a defender seus
+valores e a construir um caminho independente e significativo.
+2.2. Através da lente de Woloch
+31
+A obra de Alex Woloch “O Um contra os Muitos: Personagens Menores e o Espaço do
+Protagonista no Romance”4, se destaca por um olhar perspicaz sobre um elemento importante
+na narrativa : os personagens secundários. Woloch, professor de Crítica Literária e Teoria
+Narrativa na Universidade de Stanford, nos Estados Unidos, apresenta a teoria do romance
+realista5 e sua relação com a distribuição da atenção entre os personagens.
+Em termos de sua posição formal essencial (os seres subordinados que são
+delimitados em si mesmos enquanto desempenham uma função para outra
+pessoa), os personagens secundários são o proletariado do romance; e o
+romance realista — com sua intensa consciênc ia de classe e atenção à
+desigualdade social — faz muito uso de tais processos formais (WOLOCH,
+2003, p. 27, tradução nossa)6.
+Essa abordagem destaca o papel das narrativas em gerenciar a atenção do leitor,
+dividindo-a de forma estratégica entre as diversas figuras apresentadas na história.
+Quero argumentar que o romance realista é estruturalmente desestabilizado
+não por muitos detalhes, cores ou cantos, mas por muitas pessoas . É a
+reivindicação de indivíduos que são incompletamente puxados para a
+narrativa que está por trás da maior precisão empírica da estética realista
+(WOLOCH, 2003, p. 19, tradução nossa)7.
+Ao invés de deixá-los à sombra do protagonista, Woloch os coloca sob os holofotes,
+revelando seu papel fundamental na construção da história e na jornada do personagem
+principal.
+Em sua obra, Woloch tece uma análise complexa do papel dos personagens secundários
+na narrativa, desafiando a visão tradicional de que se trata de figuras meramente acessórias e
+pouco desenvolvidas, conforme Malik em sua crítica: Woloch define o personagem secundário
+pouco desenvolvido como um personagem cuja subjetividade não foi completamente
+4 The One vs the Many: Minor Characters and the Space of the Protagonist in the Novel , Princeton University
+Press, 2003.
+5 “o verdadeiro romance realista deve conservar o caráter épico, manter a centralidade da ação pela intensificação
+do conflito . Justamente para manter essas características, o elemento descritivo se torna mais essencial nesse
+momento, quando a sociedade apresenta novas configurações e, portanto, exige a formulação de novos métodos
+para a sua figuração” (CARVALHO, 2017, p. 21).
+6 “In terms of their essential formal position (the subordinate beings who are delimited in themselves while
+performing a function for someone else), minor characters are the proletariat of the novel; and the realist
+novel—with its intense class-consciousness and attention toward social inequality—makes much use of such
+formal processes” (woloch, 2003, p. 27).
+7 “I want to argue that the realist novel is structurally destabilized not by too many details or colors or corners,
+but by too many people. It is the claim of individuals who are incompletely pulled into the narrative that lies
+behind the larger empirical precision of realist aesthetics” (WOLOCH, 2003, p. 19).
+32
+“eliminada”8 (MALIK, 2004, p. 132, tradução nossa), mas ele também reconhece a presença de
+uma subjetividade persistente, mesmo que não completamente “eliminada”, ainda demonstram
+indícios de individualidade e voz própria.
+Woloch argumenta que, mesmo com pouco tempo de exposição, os personagens
+secundários levam consigo uma subjetividade própria, que se manifesta em suas ações,
+pensamentos e emoções , e essa subjetividade, mesmo que latente, pode influenciar
+significativamente o desenvolvimento da trama e na jornada da protagonista, gerando conflitos,
+desafios e aprendizados. Cada personagem secundário, mesmo com suas características
+limitadas, possui uma perspectiva e experiências únicas que contribuem para o enriquecimento
+da narrativa.
+A análise de Woloch nos leva a valorizar a multiplicidade de vozes que compõem a
+narrativa, reconhecendo que cada personagem contribui para a construção do universo
+ficcional, desafiando a visão tradicional dos personagens secundários como meros coadjuvantes
+ao reconhecer a subjetividade desses personagens, sendo assim, somos convidados a realizar
+uma leitura, captando nuances e sutilezas que poderiam passar despercebidas.
+Woloch vai além da mera descrição dos personagens secundários, ele analisa suas
+motivações, conflitos, relações e impactos na trama. Através dessa análise, o autor eleva o status
+dos personagens secundários, reconhecendo -os como peças fundamentais para o sucesso da
+narrativa. A obra de Woloch demonstra como os personagens secundários não apenas
+complementam o protagonista, mas também o desafiam, o impulsionam e o ajudam a
+desenvolver, com “suas insistentes distorções do s personagens secundários – é a fonte de sua
+força afetiva” (WOLOCH, 2003, p. 129, tradução nossa)9.
+Ao destacar a importância dos personagens secundários, Woloch oferece uma nova
+perspectiva sobre obras literárias já conhecidas. Ao reconhecer o papel crucial dos personagens
+secundários, somos capazes de apreciar ainda mais a riqueza e a complexidade da narrativa. A
+análise de Woloch nos leva a entender melhor as motivações e os conflitos dos personagens,
+tanto protagonistas quanto secundários.
+Para Woloch , os p ersonagens secundários, que representam extremos delimitados,
+tornam-se alegóricos, e essa alegoria é voltada para um ser singular: o protagonista, que ocupa
+8 “Woloch define el personaje secundário poco desarrollado como um personaje cuya subjetividade no há sido
+totalmente eliminada” (MALIK, 2004, p. 132).
+9 “His insistent distortions of secondary characters—is the wellspring of their affective force”. (WOLOCH,
+2003, p. 129)
+33
+o centro do significado simbólico da estrutura do text o (WOLOCH, 20 03, p. 18, tradução
+nossa)10.
+Assim, Woloch demonstra como os personagens secundários podem ser utilizados para
+gerar incerteza na história, mantendo o interesse narrativo.
+A contínua assimilação de personagens secundários em uma relação temática
+ou funcional com o protagonista não diminui o fato de que esses mesmos
+personagens permanecem como forças potenciais, embora submersas, de
+interesse narrativo, baseado e colocado em relação à centralidade, e não à sua
+personalidade interior (WOLOCH, 2003, p. 197, tradução nossa)11.
+Através dos personagens secundários, os autores podem aprofundar a exploração de
+temas relevantes, como amor, ódio, justiça, preconceito e outros aspectos da condição humana,
+servindo assim como pontes entre a história ficcional e o contexto histórico e social em que a
+obra se insere, retratando costumes, valores e crenças da época.
+Ao compreender o papel dos personagens secundários, o leitor enriquece sua
+experiência de leitura, sendo assim, a análise de Woloch nos leva a apreciar a forma como o
+autor utiliza os personagens secundários para alcançar seus objetivos, seja criando suspense,
+explorando temas ou fornecendo contexto. E ao analisarmos como os personagens secundários
+são utilizados na narrativa, desenvolvemos nossa capacidade crítica e nossa percepção das
+técnicas literárias empregadas pelo autor.
+Woloch em The one vs. The many: minor characters and the space of the protagonist
+in the novel, de 2003, Woloch traça um novo caminho para a análise dos lugares do personagem
+no romance , especialmente no contexto do realismo. Ao invés de se limitar à descrição
+tradicional dos espaços físicos e sociais, Woloch explora novas dimensões que moldam a
+experiência do personagem e a construção da narrativa. “Independentemente de onde olhemos,
+a relação discursiva entre os espaços dos personagens s ecundários está i nscrita na própria
+história, constituindo-se mutuamente” (WOLOCH, 2003, p. 201, tradução nossa)12.
+Woloch destaca a importância dos espaços psicológicos e ideológicos que habitam o
+interior do personagem, revelando como seus pensamentos, sentimentos, crenças e valores
+moldam sua percepção do mundo e influenciam suas ações , demonstrando como os lugares,
+10 “Secondary characters —representing delimited extremes —become allegorical, and this allegory is directed
+toward a singular being, the protagonist, who stands at the center of the text’s symbolic structure, (…).”
+(WOLOCH, 2003, p. 18)
+11 “(…) the continuous absorption of secondary characters into a thematic or functional relationship to the
+protagonist does not negate the way that the same characters also stand as potential, if submerged, forces
+of narrative interest, bearing upon and cast in relation (…) centrality rather than his interior personality ”.
+(WOLOCH, 2003, p. 197)
+12 everywhere we look, the discursive relationship between (mutually constituting) subordinate character -spaces
+is inscribed within the story itself. (WOLOCH, 2003, p. 201)
+34
+tanto físicos quanto psicológicos, contribuem para a construção da subjetividade do
+personagem, definindo sua identidade, seus valores e suas relações com o mundo exterior. Ele
+propõe uma visão dinâmica da relação entre o personagem e o lugar, reconhecendo que ambos
+se influenciam mutuamente, moldando a trajetória individual e o desenvolvimento da narrativa.
+(...) demonstra apropriadamente como um personagem secundário pode ser
+introduzido em um romance em um momento específico e especificamente
+significativo dentro do desenvolvimento narrativo: um momento que moldará
+então tanto sua configuração e sua posição dentro do romance como um todo
+(WOLOCH, 2003, p. 193, tradução nossa)13.
+Ao considerar os espaços psicológicos e ideológicos, Woloch nos leva a uma
+compreensão mais profunda do personagem, revelando suas nuances e complexidades,
+contribuindo para uma interpretação mais abrangente da obra, considerando a influência dos
+lugares na construção da narrativa e na caracterização dos personagens. Ao analisarmos a
+relação entre o personagem e o lugar sob a ótica de Woloch, desenvolvemos uma visão crítica
+mais apurada, reconhecendo as diversas camadas de significado presentes na obra literária.
+Em sua obra, Woloch propõe uma visão intrigante do protagonista no romance moderno,
+defendendo a tese de que ele surge como uma “tecnologia” essencial para dar forma aos
+conflitos entre o eu e o outro no contexto das grandes cidades em constante crescimen to e
+heterogeneidade. Através de uma análise de obras de autores como: Charles Dickens 14, Jane
+Austen15 e Honoré de Balzac, Woloch tece um argumento convincente sobre o papel crucial do
+13 (…) aptly demonstrates how a minor character can get introduced into a novel at a specific and specifically
+significant moment within the narrative development: a moment that will then shape both his configuration and
+his position within the novel as a whole. (WOLOCH, 2003, p. 193)
+14 Em obras como Oliver Twist e David Copperfield, Charles Dickens utiliza o protagonista para retratar as duras
+realidades da vida nas cidades industriais da Inglaterra do século XIX, explorando os temas da pobreza, da
+exploração e da marginalização, no qual os protagonistas são ofuscados p or alguns personagens secundários, e
+estes servem como apoiadores da narrativa, conforme Woloch: Os romances de Dickens raramente rompem
+com um protagonista central, assim como a presença vigorosa de seus personagens secundários não
+altera sua posição como personagens secundários. Quase todos os romances mantêm a casca superficial
+da assimetria, mas o conteúdo real foi enormemente alterado. De Samuel Pickwick, Oliver Twist e
+Nicholas Nickleby a Arthur Clennam, Pip e John Harmon, as figuras centrais de Dickens são ofuscadas
+pelos personagens secundários que as cercam (WOLOCH, 2017, p. 132, tradução nossa).
+Os personagens secundários de Dickens certamente cumprem as funções mais comuns de ajudantes,
+opositores ou apoiadores que servem para realçar a trama e o desenvolvimento dos personagens
+principais na narrativa. Eles são usados para mapear as relações sociais, para externalizar diferentes
+aspectos psicológicos do protagonista (talvez mais claramente nos romances em primeira pessoa
+Grandes Esperanças e David Copperfield) (WOLOCH, p. 127, tradução nossa).
+15 Em obras como “Orgulho e Preconceito” e Emma, Jane Austen utiliza o protagonista para explorar as complexas
+relações de gênero na sociedade inglesa do século XVIII, destacando as expectativas sociais, as lutas por poder e
+a busca por amor e casamento. (...) no início da história e no centro da sua teia de personagens – estão as cinco
+irmãs Bennet, que partilham uma única situação narrativa: uma propriedade vinculada que exige a sua entrada na
+competição entre muitas mulheres por uma quantidade limitada de riqueza. Esta competição fundamenta a nuance
+persistente e a discriminação da voz irónica de Austen. Irônico e onisciente, o narrador configura a situação central
+35
+protagonista na construção da narrativa e na exploração das complexas relações sociais e
+individuais que caracterizam a modernidade.
+Na obra-prima “Comédia Humana” de Honorè de Balzac utiliza o protagonista para
+retratar a ascensão da classe burguesa na França do século XIX, explorando temas como
+ambição social, materialismo e a busca por status.
+Honoré de Balzac é um autor que se destacou em sua época, (...), pelo fato de
+ter sido um escritor que pensava a realidade social a partir de uma perspectiva
+materialista; e essa perspectiva foi apresentada amplamente em A comédia
+humana, (...) contendo uma quantidade significativa de narrativas que
+explicitavam as transformações sociais ocorridas na sociedade francesa (...).
+Esse panorama também forneceria subsídios para o modo de como a
+sociologia passou a adotar e consolidar seu modo de abordagem acerca dos
+fenômenos sociais (MELO, 2011, p. 11).
+Em “Romeu e Julieta”, Woloch demonstra como Mercúcio, apesar de sua breve aparição
+na peça, exerce um papel fundamental na caracterização de Romeu e no desenvolvimento da
+trama, demonstrando uma visão de mundo própria e influencia as decisões de Romeu.
+O personagem secundário se destaca porque o autor fez muito com pouco:
+iluminou aquela cena, aquelas poucas linhas, aquele momento crucial em que
+o personagem aparece. (Podemos pensar, por exemplo, em Mercúcio em
+Romeu e Julieta: a brevidade de sua vida e seu espaço comprimido dentro da
+peça parecem se fundir na intensidade e pressão de sua linguagem, produzindo
+aquela energia que o projeta para fora da trama.) (WOLOCH, 2017, p. 49,
+tradução nossa)16.
+Em Hamlet de Shakespeare, o personagem de Ofélia é fundamental para o
+desenvolvimento da tragédia do protagonista. Conforme Carneiro “Na narrativa, é ela quem
+sugere a Hamlet fingir loucura para enganar Polônio e o Rei, admitindo, logo no prólogo ao
+romance, que ela mesma “desempenhou um papel nesta tragédia.” (CARNEIRO, 2014, p. 135)
+O protagonista, segundo Woloch, serve como um espelho para refletir as transformações
+individuais e sociais, através de suas experiências, dilemas e conflitos, o protagonista encarna
+os desafios e as contradições da vida . Ele atua como um ponto de intersecção entre diferentes
+grupos sociais, revelando as tensões, as hierarquias e as disparidades existentes na sociedade .
+das cinco irmãs em uma estrutura assimétrica, transformando Elizabeth Bennet em uma protagonista central forte
+e transformando Lydia, Catherine, Mary e Jane em diferentes tipos de personagens secundários. A centralidade de
+Elizabeth emerge apenas na intera ção dinâmica com o desenvolvimento destes (e de outros) personagens
+secundários, de modo que o preço narrativo da sua interioridade alcançada é a distorção de muitas outras figuras
+humanas (WOLOCH, 2017, p. 45-46, tradução nossa).
+16 the minor character stands out because the writer has done a lot with a little: illuminated that one scene, those
+few lines, that one pivotal moment in which the character appears. (We can think here, for example, of Mercutio
+in Romeo and Juliet: the brevity of his life and his compressed space within the play seem to flow into the intensity
+and pressure of his language, producing that energy which catapults him right out of the plot.) (WOLOCH, 2003,
+p.49)
+36
+Através de suas interações com outros personagens, o protagonista explora a complexa teia de
+relações interpessoais que molda a vida individual.
+A relação entre os personagens secundários e o protagonista pode ser de amizade, amor,
+ódio, rivalidade ou qualquer outra combinação. Essa relação é fundamental para a compreensão
+da dinâmica da narrativa e do desenvolvimento do protagonista como personagem. Ao
+analisarmos essa relação, podemos identificar os temas e as mensagens que o autor deseja
+transmitir através da obra.
+Ao compreendermos o papel dos personagens secundários, podemos obter uma visão
+mais completa da obra e apreciar melhor sua complexidade, além de poder nos ajudar a entender
+melhor as relações interpessoais.
+Para Woloch, os personagens secundários não são meros coadjuvantes, eles são
+importantes para o desenvolvimento da trama, do tema e da caracterização do protagonista .
+Woloch valoriza o papel dos personagens secundários, reconhecendo que eles vão além de
+simples figuras de apoio na história.
+Personagens secundários não são simplesmente ornamentais e não podem ser
+analisados apenas como um suplemento ou contraponto colorido à trama
+principal e aos personagens centrais, porque a estrutura metafórica
+predominante, o “tema, enredo e propósito” que podemos mapear a partir da
+densidade da narrativa, é construída através dos personagens secundários e,
+mais salientemente, através da própria menor importância deles, e dos
+processos de compressão, externalização, abstração, distorção e fragmentação
+que s ustentam o sistema de personagens assimétrico ( WOLOCH, 20 03, p.
+144-145, tradução nossa)17.
+Ao reconhecer que os personagens secundários oferecem ao autor a flexibilidade de
+abordar temas delicados ou controversos de maneira indireta, agregando camadas de
+significado à narrativa, o autor pode explorar temas e ideias que seriam difíceis de abordar
+diretamente com o protagonista.
+O poder que os personagens secundários têm de cativar o leitor e permanecer em sua
+memória, mesmo que sua participação na trama seja menor, se dá pela boa construção do
+personagem. Em uma história, os personagens secundários são como peças fundamentais de
+um quebra-cabeça, eles não ocupam o centro do palco, mas sua presença é crucial para dar vida
+à trama, construir o mundo ficcional e, acima de tudo, cativar o leitor. Ao povoar o mundo da
+17 Minor characters are not simply ornamental and cannot be analyzed as merely a supplement of or colorful
+counterpoint to the main plot and central characters because the overriding metaphoric structure, the “theme, plot
+and purpose” that we can map out of the thickness of the narrative, is built through the minor characters, and, more
+saliently, through their very minorness, and the processes of compression, externalization, abstraction, distortion,
+and fragmentation that underlie the asymmetric character system. (WOLOCH, 2003, p. 144-145)
+37
+história com personagens secundários realistas, o autor torna a narrativa mais autêntica para o
+leitor.
+Mais do que meros coadjuvantes, os personagens secundários bem construídos
+aprofundam a história ao trazerem perspectivas e experiências diversas, podendo deixar uma
+impressão duradoura no leitor.
+Através da interação com os personagens secundários, o protagonista é confrontado com
+diferentes pontos de vista, desafios e dilemas, o que o impulsiona a crescer e se desenvolver
+como personagem.
+38
+CAPÍTULO III
+Silêncio ensurdecedor: a omissão dos personagens secundários em Jane Eyre
+Ao refletirmos sobre os personagens do romance, sentimos a necessidade de olharmos
+para o texto literário a partir da perspectiva dos personagens secundários, que são ocultados
+pela narradora. Encontramos alguns exemplos específicos de personagens ocultos em Jane
+Eyre, como seus pais, a esposa de Rochester e a governanta em Lowood.
+Nos primeiros capítulos do romance, Jane relembra memórias fragmentadas e
+incompletas de seus pais, descrevendo seus falecimentos quando Jane era apenas um bebê.
+Que meu pai fora um pobre clérigo; que minha mãe se casara contra a vontade
+da família, que considerava o casamento indigno de sua condição; que meu
+avô Reed ficou tão irritado com a desobediência da filha que a cortou do
+testamento, deixando-a sem um tostã o; que meus pais estavam casados há
+apenas um ano, quando ele pegou a febre tifóide, ao visitar a população pobre
+de uma grande cidade industrial pertencente à sua paróquia e onde
+predominava a epidemia dessa doença; que minha mãe pegou a doença dele,
+e ambos morreram com um mês de diferença um do outro (BRONTË, 2010,
+p. 36).
+Esse episódio reflete a perda que ela sofreu e o impacto que esse fato lhe causou. Apesar
+da dor, as memórias de la sobre seus pais também são uma fonte de força e conforto para ela ,
+como “Meu tio Reed está no céu, e pode ver tudo que a senhora faz e pensa. Papai e mamãe
+também. Eles sabem que a senhora me deixa trancada todo o dia, e que quer me ver morta ”
+(BRONTË, 2010, p. 39).
+Durante sua infância em Gateshead, Jane fantasia sobre sua mãe como um anjo protetor
+que a vigia do céu. “Ou então fazer surgir da escuridão do quarto algum rosto coberto por uma
+auréola, para se debruçar sobre mim com expressão piedosa ”. (BRONTË, 2010, p. 2 3)
+Posteriormente, quando se referia a um anjo que poderia iluminar: “Iluminava seus traços
+marcantes, seu rosto fino, seus fundos olhos cinzentos, como o reflexo da aura de um anjo ”!
+(BRONTË, 2010, p. 88), ou um anjo que sabe que ela é inocente das acu sações: “E se
+estivermos morrendo em dor e vergonha, se o desprezo nos sufocar por todos os lados e o ódio
+nos esmagar, os anjos veem as nossas torturas e reconhecem a nossa inocência ” (BRONTË,
+2010, p. 91).
+Em Lowood, Jane encontra conforto na certeza de que sua mãe está presente em espírito,
+guiando-a e oferecendo -lhe apoio. Como nessas frases: “Enxuguei minhas lágrimas e calei
+meus soluços, profundamente temerosa de que qualquer sinal de violenta tristeza acabasse por
+acordar alguma voz sobrenatural e trazê-la para me dar conforto” (BRONTË, 2010, p. 25). “É
+uma sensação muito estranha para uma jovem inexperiente sentir que está totalmente sozinha
+39
+no mundo , sem contato com qualquer parente, sem saber se o porto de destino pode ser
+alcançado e impedida, por muitas razões, de voltar ao lugar que deixou ” (BRONTË, 2010, p.
+120).
+Charlotte Brontë captura a essência da vulnerabilidade e da independência forçada que
+Jane Eyre experimenta. A "sensação muito estranha" de total solidão, especialmente para uma
+"jovem inexperiente", sublinha a fragilidade de sua posição. A incerteza do "p orto de destino"
+e a impossibilidade de "voltar ao lugar que deixou" enfatizam a natureza irrevogável de sua
+jornada e a ausência de um sistema de apoio familiar tradicional. Essa breve passagem condensa
+a luta de Jane por autonomia em um mundo que frequen temente impõe a dependência,
+marcando um ponto em sua trajetória, onde a solidão se torna tanto um fardo quanto um
+catalisador para a busca de seu próprio caminho e identidade.
+3.1. Vozes silenciadas
+A voz narrativa de Jane, a protagonista, silencia algumas vozes, e sua perspectiva limita
+a exploração da subjetividade de outros personagens , criando uma narrativa parcial e
+incompleta. As experiências internas e os pensamentos de personagens como Rochester, Bertha
+e até mesmo as criadas são relegados a segundo plano, revelando as complexas relações de
+poder e as dinâmicas sociais da época.
+São silenciadas algumas vozes de mulheres que ocupam posições marginalizadas na
+sociedade, como as criadas de Thornfield Hall, como a Sra. Fairfax e outras funcionárias, tendo
+suas histórias e experiências pessoais relegadas à obscuridade, sem serem valorizadas. Elas são
+retratadas como figuras submissas e passivas, confinadas a seus papéis domésticos e sem voz
+própria.
+A invisibilidade das mulheres subalternas em Jane Eyre, contribui para a perpetuação
+da marginalização social desse grupo. Ao negar -lhes voz e espaço na narrativa, o romance
+reforça a ideia de que suas histórias e experiências não são relevantes , sendo chamadas de
+“insignificantes”. Sem suas vozes, a narrativa oferece uma visão parcial das relações de poder
+da época. “Era estranho: um cavalheiro destemido, vingativo e arrogante parecia de alguma
+forma em poder de uma das suas criadas mais insignificantes. Estava sob tal poder, que quando
+ela levantara a mão para tirar-lhe a vida, não ousara acusá-la abertamente dessa tentativa, muito
+menos puni-la” (BRONTË, 2010, p. 198).
+A classe trabalhadora, como os de Thornfield Hall são silenciadas na narrativa, suas
+perspectivas sobre os eventos do romance e suas lutas cotidianas não são exploradas, reforçando
+a invisibilidade social desse grupo. Como vemos no diálogo de Jane com a Mrs. Fairfax, onde
+40
+a senhora expõe que: “Leah é uma boa moça, e John e a esposa são ótimas pessoas, mas, você
+sabe, são apenas criados, e não se pode conversar com eles em plano de igualdade. Deve -se
+manter a devida distância, ou então se perde a autoridade” (BRONTË, 2010, p. 124).
+O domínio dos homens em espaços públicos e o poder no romance, personagens como
+o Sr. Rochester, que ocupa uma posição social privilegiada, sua voz inicialmente representa a
+desigualdade entre os dois , suas histórias que são contadas pela perspectiva d a narradora ,
+conforme Caldas , revela uma desestabilidade : “Contudo, prestando atenção no discurso de
+Rochester é possível perceber que, além de manipular Jane com o ciúme, ele também a deprecia,
+distorce informações e mina sua percepção” ( CALDAS, 2017, p. 89); “Rochester ainda a
+depreciará e desestabilizará de outras formas, desmentindo suas afirmações de igualdade e
+marcando uma postura abusiva em relação a ela” (CALDAS, 2017, p. 92).
+3.2. Consequências do silenciamento
+O silenciamento de diversas vozes em Jane Eyre tem consequências importantes para a
+compreensão da história e dos personagens. A narrativa de Jane limita nossa capacidade de
+compreender as relações de poder e as dinâmicas sociais da época. Ao silenciar as vozes dos
+marginalizados, o romance reforça as estruturas de opressão e invisibilidade presentes na
+sociedade.
+Alex Woloch entende que a distribuição dos espaços textuais dedicados ao protagonista
+e aos personagens secundários, ou “menores”, como os chama, evidencia o contraste, o conflito
+entre a interioridade individual do protagonista e a superficialidade da vida social ret ratada. O
+autor, ao explanar sobre a divisão do trabalho na sociedade industrial, destaca como essa
+realidade se reflete na construção de personagens secundários no romance. As contradições
+entre a vida social aparente (exterior) e a realidade indiv idual complexa (interior) determinam
+as condições existenciais desses personagens (WOLOCH, 2003, p. 26, tradução nossa).
+A esposa de Rochester, Bertha Antoinette Mason, uma mulher jamaicana, que é uma
+personagem importante na história, a qual é escondida do leitor até meados do romance ,
+mantida presa num quarto do terceiro andar da mansão.
+Fiquei feliz quando finalmente a coloquei em Thornfield e a vi alojada em
+segurança no terceiro andar. Ela ocupa aquele aposento secreto há dez anos, e
+o transformou na caverna de um demônio, na cela de um duende. Tive algum
+trabalho para encontrar alguém que tomasse conta dela. Teria que ser uma
+pessoa em quem eu confiasse plenamente, pois em seus ataques de raiva ela
+inevitavelmente trairia o segredo (BRONTË, 2010, p. 388).
+41
+Enquanto Jane Eyre narra a sua história, Bertha Mason é uma personagem que durante
+toda a narrativa tem a sua voz silenciada, sufocada pelas normas sociais e patriarcais da época.
+Embora Bertha não tenha voz própria, sua presença serve como um poderoso lembrete das
+injustiças enfrentadas pelas mulheres marginalizadas. Sua história entrelaçada com a de Jane
+revela as consequências do imperialismo, onde culturas e indivíduos são subjugados em nome
+do poder e da dominação.
+Ao longo da narrativa, Jane também contribui para o silenciamento de Bertha, limitada
+por sua própria posição social e pelos valores da época, Jane , portanto, de uma certa forma, se
+torna cúmplice da opressão, perpetuando a marginalização de Bertha. Confirma Silveira:
+Em virtude desses comportamentos agressivos de Bertha Mason, de seus
+constantes ataques nervosos, causando terror na mansão, Jane Eyre reprova a
+sua permanência lá. Embora não lhe quisesse nenhum mal, não considerava
+correto manter, em um ambiente aristocr ático inglês, uma bêbada, uma
+devassa, uma estranha, incapaz de transformar -se em uma senhora britânica,
+em uma mulher como a própria Jane Eyre, verdadeiro exemplo de dama
+inglesa mesmo estando deserdada (SILVEIRA, 2013, p. 78).
+A ocultação da voz de Bertha pode ser uma forma da escritora explorar os temas do
+casamento, da loucura e da violência doméstica. Sua presença silenciosa, porém, significativa,
+serve de lembrete constante da necessidade d e Jane e Rochester de desafiar as estruturas
+patriarcais e imperiais, o que fazem ao diante da situação em que se depararam no decorrer da
+narrativa. Conforme Lima:
+Jane e Rochester formam um casal desafiador às convenções sociais, pois este,
+debilitado pelo acidente trágico que tirou a sua visão e uma de suas mãos,
+encontra-se rebaixado de seu status de “macho” provedor, viril e
+autossuficiente, aceitando a condição de dependente de Jane, que, por sua vez,
+empoderada por suas conquistas afetivas e financeiras, torna-se mais segura
+diante do seu master, tornando a frente da relação, liderando e guiando o seu
+amado, mostrando -lhe, literal e simbolicamente, quais caminho s trilhar,
+posição nada convencional para uma mulher no contexto da Inglaterra
+vitoriana (LIMA, 2013, p. 334).
+Através da perspectiva narrativa de Jane, somos apresentados a uma visão tendenciosa
+de Bertha Mason a “louca do sótão”, reforçando sua exclusão e invisibilidade na história. Bertha
+é destituída de voz, e sua história é contada exclusivamente pelo olh ar da protagonista, assim
+também como de Rochester, seu marido, que a retrata como uma mulher violenta, insana e
+incontrolável. De acordo com o personagem Rochester:
+Seus vícios brotaram e cresceram muito depressa. Eram tão violentos que
+apenas a crueldade era capaz de contê -los, e eu não era capaz de usar a
+crueldade. Que intelecto anão e que tendências gigantescas ela tinha! Como
+eram medonhas as maldiçoes que atirava sobre mim! Bertha Mason, a legítima
+filha de uma mãe infame, arrastou -me a todas as agonias abomináveis e
+42
+degradantes que deve suportar um homem ligado a uma esposa ao mesmo
+tempo descontrolada e dissoluta (BRONTË, 2010, p. 385).
+Ao considerar a representação de Bertha Mason em Jane Eyre, torna-se crucial observar
+a dinâmica narrativa que a silencia. O leitor, desprovido da perspectiva da própria Bertha,
+inevitavelmente recebe informações filtradas e interpretadas por outros personagens. Jane Eyre,
+nossa narradora, não é imune a essa influência. As descrições que ela nos oferece de Bertha são
+construídas a partir de relatos de terceiros, inevitavelmente carregados de seus próprios
+preconceitos e medos. Essa internalização de uma visão negativa, perpetuada por aqueles que
+a cercam, contribu i significativamente para a marginalização de Bertha dentro da narrativa.
+Dessa forma, todo o nosso conhecimento sobre a enigmática "louca do sótão" é mediado pelas
+relações que ela estabelece com outros personagens, levantando uma questão fundamental
+sobre a confiabilidade dessas representações e a ausência da sua própria voz.
+Ao descrever Bertha no romance, ela é frequentemente comparada a animais selvagens,
+como uma “fera em fúria” ou uma “hiena rindo”. Essa linguagem contribui para desumanizar
+Bertha e torná-la um objeto de medo e repulsa, reforçando sua exclusão da sociedade.
+Bertha é literalmente escondida do mundo, confinada no sótão de Thornfield Hall , sua
+presença física é apagada da narrativa, simbolizando seu silenciamento e invisibilidade social ,
+essa reclusão física reflete sua exclusão simbólica da história e da sociedade. Bertha é negada
+a oportunidade de expressar seus próprios pensamentos e sentimentos, sendo reduzida a um
+estereótipo de mulher louca e perigosa. De acordo com Lima: “Essa personagem é, de fato,
+textualmente, enclausurada, escondida e emudecida. Temos acesso apenas a ruídos, grunhidos
+e gargalhadas, e sua história nos é conhecida por meio do relato, altamente parcial, de Rochester,
+o que faz com que Bertha seja mascarada e emudecida pela própria narrativa” (LIMA, 2013, p.
+81). A análise do silenciamento de Bertha é um convite para uma reflexão crítica sobre os
+mecanismos de poder que silenciam e marginalizam grupos minoritários.
+Uma leitura instigante sobre o fenômeno do silenciamento encontra eco profundo no
+ensaio seminal de Gayatri Spivak, "Pode o Subalterno Falar?". Spivak argumenta que a própria
+estrutura do discurso hegemônico frequentemente impede que as vozes dos grupos
+subalternizados sejam ouvidas e compreendidas em seus próprios termos. Esse silenciamento
+não se limita à ausência física da fala, mas opera em um nível mais profundo, onde as categorias
+de pensamento e os modos de expressão dominantes obscurecem e distorcem as experiências e
+as perspectivas daqueles que estão à margem. A análise de Spivak nos convida a questionar
+quem tem o poder de falar, como essa fala é moldada e quais vozes são sistematicamente
+43
+excluídas do diálogo, oferecendo uma lente crítica essencial para examinar as dinâmicas de
+poder e representação em diversos contextos.
+Uma das professoras de Jane em Lowood , Miss Scatcherd, é uma personagem cruel e
+abusiva, ela é uma representação da opressão que as mulheres sofriam na sociedade vitoriana.
+Como podemos ver em suas repreensões à amiga de Jane a seguir:
+Burns, você está pisando com o lado do sapato, endireite os pés
+imediatamente. – Burns, você cutuca o queixo de forma muito desagradável!
+Olhe a postura! – Burns, você levanta a cabeça com ar superior. Não admito
+essa atitude diante de mim! (...) – Menina suja e desleixada! V ocê não limpou
+as unhas esta manhã! (BRONTË, 2010, p. 71)
+Ao negar voz e individualidade aos personagens, Jane os transforma em meros cenários
+em sua história. Essa estratégia permite que Jane domine a narrativa e controle a percepção do
+leitor sobre os eventos que se desenrolam. Lima (2013) ao contrapor London (1991)18 discorre
+sobre o domínio e controle da narrativa por Jane Eyre.
+Compreendemos que a narradora, após ter passado pelas experiências que
+relata, possui discernimento e a capacidade de organização, de integração e de
+controle (...), conseguindo entender e construir as relações de causa e efeito,
+alcançando um entendimento mais totalizante do pró prio eu, (...). Todavia,
+acreditamos que contestar a força de Jane como narradora é ir de encontro à
+teoria da narrativa, pois é inegável que, ao apreendermos, na qualidade de
+leitores, as situações, as personagens e os conflitos pe la perspectiva do
+narrador(a)-protagonista, conferimos a este(a) o evidente poder de envolver a
+recepção, de provocar empatia para si mesmo(a), de direcionar a imaginação
+e as emoções do público. Portanto, acreditamos que Jane é,
+incontestavelmente, revestida de poder e de influência sobre o público, o que,
+consequentemente, atesta o seu poder como mulher e o poder de seu olhar
+sobre as situações da narrativa, (...) (LIMA, 2013, p. 91-92).
+O excerto apresentado discute a complexa questão do controle narrativo em Jane Eyre,
+com Lima (2013) argumentando a favor do domínio de Jane sobre a percepção do leitor, uma
+característica inerente à narrativa em primeira pessoa. Lima enfatiza a capacidade da narradoraprotagonista de organizar os eventos, estabelecer relações de causa e efeito e,
+consequentemente, influenciar a recepção da história, provocando empatia e direcionando as
+emoções do público. Essa perspectiva atribui a Jane um poder significativo, tanto como
+narradora quanto como mulher dentro da estrutura da narrativa.
+Lima contrapõe London, que explora as dinâmicas de poder presentes na narrativa sob
+uma lente diferente, possivelmente questionando a ideia de um domínio narrativo unilateral por
+parte de Jane. Sua análise pode se concentrar nas maneiras sutis pelas quais a protagonista se
+18 LONDON, Bette. “The Pleasures of Submission: Jane Eyre and the Production of the Text”. In: ELH. V ol 58,
+nº 1 (Spring, 1991), pp. 195-213.
+44
+submete a certas normas sociais ou a figuras de autoridade, e como essa submissão
+paradoxalmente contribui para a produção do texto . London argumenta que o poder de Jane
+como narradora não é absoluto, mas sim negociado dentro de um contexto de restrições sociais
+e de gênero.
+Concordo em grande parte com a análise de Lima sobre o poder narrativo de Jane Eyre.
+É inegável que a escolha da primeira pessoa confere à protagonista uma posição privilegiada
+na construção da realidade textual. Somos apresentados aos eventos, personagens e conflitos
+através de seu olhar, filtrados por suas emoções, julgamentos e compre ensão posterior dos
+acontecimentos.
+Enquanto Lima destaca o poder de Jane como narradora de envolver e influenciar o
+público, a perspectiva de London nos convida a considerar as complexas dinâmicas de poder e
+submissão que a própria personagem Jane experimenta e como essas dinâmicas podem também
+influenciar a recepção do texto . Portanto, a força de Jane como narradora é inegável em sua
+capacidade de nos envolver em sua perspectiva, mas a análise de London nos lembra que essa
+força coexiste com as complexas e, por vezes, paradoxais dinâmicas de poder e submissão que
+moldam a vida da protagonista.
+3.3. Motivações por trás da omissão
+A infância de Jane foi marcada pela marginalização, a qual a sociedade a silenciava,
+portanto, a omissão dos personagens secundários pode ser vista como uma forma de
+autoafirmação, uma maneira de reivindicar seu próprio espaço na narrativa, recusando-se a ser
+definida pelos outros.
+Ao priorizar a exploração da psique de Jane Eyre, o romance focaliza intensamente seu
+desenvolvimento pessoal e sua busca por identidade. Essa concentração na jornada interior da
+protagonista, acompanhada da omissão de informações detalhadas sobre os perso nagens
+secundários, funciona como uma estratégia narrativa. Ao fazer isso, a atenção do leitor é
+deliberadamente conduzida para o universo íntimo de Jane, seus processos mentais, suas
+emoções e suas vivências subjetivas, moldando assim a nossa compreensão da história através
+de sua perspectiva singular.
+Também podemos entender que a ocultação dos personagens secundários pode ser
+interpretada como uma crítica social à rigidez da sociedade vitoriana, que muitas vezes limitava
+a liberdade individual e impunha papéis sociais rígidos.
+45
+Apesar da omissão de detalhes, a relação de Jane com os personagens secundários é
+crucial para o desenrolar da história. Vejamos alguns exemplos:
+Com Rochester, o amor que Jane sente por ele a leva a questio nar as normas sociais da
+época e a lutar por sua própria felicidade. Ao mesmo tempo, seus segredos e obscuridades a
+forçam a confrontar seus próprios “demônios” e a buscar a “redenção”.
+A morte de Helen Burns, por exemplo, vai muito além de uma perda afetiva: ela desperta
+em Jane a consciência da necessidade de pensar por si mesma. Embora Helen seja um modelo
+de resignação cristã, sua morte faz Jane perceber que aceitar passivamente as in justiças não é
+uma opção. A partir daí, ela começa a questionar a autoridade e a entender a importância de
+defender suas próprias crenças, mesmo quando isso a coloca em oposição ao que é esperado.
+Já a convivência com Blanche Ingram serve como um espelho invertido que reforça a
+identidade de Jane. Blanche, símbolo da beleza aristocrática e do comportamento socialmente
+aceito, evidencia tudo aquilo que Jane não é — e que se recusa a fingir ser. Ao compararem-se,
+Jane aprende a valorizar a própria inteligência, sensibilidade e autenticidade. Ela recusa a ideia
+de se moldar aos padrões de feminilidade e status da época, afirmando silenciosamente que seu
+valor não está nas aparências, mas em quem ela é.
+Por fim, a proposta de casamento de St. John Rivers representa um momento de grande
+tensão entre dever e desejo. Embora ele lhe ofereça uma vida “correta” aos olhos da religião e
+da sociedade, Jane reconhece que esse tipo de união apagaria sua essência. Ela entende, então,
+que não quer apenas cumprir um papel social ou moral, mas viver um amor verdadeiro e
+respeitoso. Essa recusa mostra sua maturidade emocional e a clareza com que agora enxerga
+suas próprias necessidades.
+A crueldade da Senhora Reed motiva a busca de Jane por independência e amor, ela
+aprende a se defender e a lutar por seus próprios direitos, recusando -se a ser vítima das
+circunstâncias: “Logo que disse essas palavras minha alma ficou aliviada. Senti -me exultante,
+com uma estranha sensação de liberdade, de triunfo, como nunca sentira antes. ” (BRONTË,
+2010, p. 50).
+A senhora acha que não tenho sentimentos, que posso viver sem uma migalha
+de amor ou bondade. Mas não posso viver assim, e a senhora não tem pena.
+Devo lembrar-lhe como a senhora me empurrou – me empurrou violenta e
+cruelmente – para o quarto vermelho, e m e trancou lá para que morresse.
+Mesmo eu estando em agonia, mesmo gritando sufocada de angústia “Tenha
+piedade! Tenha piedade, tia...” E me fez sofrer essa punição apenas porque o
+malvado do seu filho me atacou – bateu-me a troco de nada. V ou contar essa
+história a todos que me perguntarem. As pessoas pensam que a senhora é boa,
+mas a senhora é má e sem coração. A senhora é fingida ( BRONTË, 2010, p.
+50).
+46
+A confrontação de Jane com a Sra. Reed, culminando na declaração de sua necessidade
+de amor e na acusação das crueldades passadas, representa um ponto crucial em sua jornada. A
+"estranha sensação de liberdade" que acompanha sua assertividade sinaliza o despertar de sua
+autonomia e a recusa em internalizar o papel de vítima imposto por sua tia. Essa afirmação de
+seus sentimentos e a promessa de denunciar o tratamento injusto não apenas libertam Jane de
+um fardo emocional, mas também prenunciam sua busca incessante por relações baseadas no
+respeito mútuo e na afeição genuína, pavimentando o caminho pa ra as futuras lutas por sua
+individualidade e felicidade.
+Portanto, e sses episódios mostram como Jane cresce a partir dos encontros com os
+outros — não por se moldar a eles, mas por reafirmar, em contraste, quem ela realmente é.
+47
+CAPÍTULO IV
+A teia narrativa de Jane Eyre: elementos narrativos para omissão dos personagens
+secundários
+Entendemos que a maneira como Jane oculta os personagens secundários da narrativa,
+está primeiramente na escolha da perspectiva da narradora, que é um dos principais fatores que
+contribuem para essa ocultação . Ao narrar sua história, a protagonista é naturalmente
+tendenciosa e seleciona informações que são relevantes para sua perspectiva , assim, os
+personagens secundários são frequentemente apresentados de forma superficial e
+unidimensional. Os personagens secundários são vistos a partir da perspectiva de Jane, o que
+dificulta o desenvolvimento de um conhecimento mais aprofundado sobre eles.
+4.1. Voz e visão de Jane
+A história de Jane que é narrada de forma autobiográfica, leva o leitor a buscar uma voz
+em sua narrador a, concedendo -lhe acesso direto aos seus pensamentos, sentimentos e
+experiências, à medida em que prossegue sua jornada. Permitindo ao leitor se conectar com a
+protagonista e vivenciar a história através de seus olhos. Criando uma experiência imersiva para
+o leitor, que se sente parte da história e vivencia as emoções da narradora como se fossem suas
+próprias, criando uma conexão entre o leitor e a prota gonista. Conforme observamos nessas
+referências: A história de Jane, narrada ao modo autobiográfico, pode ser lida como a da busca
+por uma voz, (...) entre a protagonista narrada e sua narradora, que vai se concretizando à
+medida que a heroína avança na aprendizagem da vida (GENETTE, 1995, p. 251-252):
+Jane evolui até ser capaz de narrar a si mesma. Partimos, assim, já de uma
+dupla presença: a de Jane madura, dona da voz narrativa , e a de Jane em
+processo de amadurecimento, que é narrada pela outra. A essa duplicidade,
+acrescenta-se a interação, pois Jane não evolui sozinha; sua voz é concebida
+em um espírito de diálogo, tornando -se “uma voz capaz de confrontações
+dialógicas com outras vozes narrativas” (COSTA e PISETTA, 2023, p. 139).
+A partir da perspectiva de Jane, significa que o leitor tem acesso às informações que a
+protagonista escolhe compartilhar. Jane é uma narradora perspicaz e inteligente, mas também
+parcial, podendo omitir informações ou interpretar eventos de acordo com sua própria
+perspectiva, como neste momento: “ Minhas lembranças dos três dias e três noites que se
+seguiram são muito vagas. Recordo de algumas coisas que senti nesse período, mas não me
+lembro de ter tido um pensamento lúcido ou de ter praticado alguma ação ” (BRONTË, 2010,
+p. 424).
+48
+Através da voz d a personagem principal , somos levados para dentro da história para
+experimentarmos seus pensamentos, sentimentos e emoções. Quando Jane revela que é sozinha
+no mundo “– Tem uma coisa: não tenho pai nem mãe, nem irmãos ou irmãs” (BRONTË, 2010,
+p. 34), podemos sentir a dor da solidão, aumentando a nossa empatia, compreendendo seus
+medos, motivações e desejos da autora no lugar de narradora. Portanto, a narrativa torna mais
+fácil a conexão com a protagonista em um nível pessoal, trazendo uma atmosfera de
+autenticidade ainda maior na história. Lima, ao citar V irgínia Woolf19 “Ao se tratar mais
+especificamente de Charlotte Brontë e de Jane Eyre , afirma que Brontë “advoga em causa
+própria”, deixando transparece sua “indignação e raiva, por sua condição feminina servil e
+inerte” (LIMA, 2013, p. 22).
+O romance Jane Eyre ao narrar sua história , dá voz à protagonista em um a sociedade
+patriarcal e opressora, funcionando como um diário, revelando gradativamente a identidade da
+protagonista. Através da voz de Jane, somos convidados a acompanhar de perto seus desafios e
+superações, as lutas contra as injustiças, por independência e autodeterminação, e a construção
+de sua identidade, desvendando a mulher forte em face às adversidades. Conforme Lima: “Jane
+se fortalece, tornando-se mais madura e mais mulher, o que a prepara para uma união igualitária
+com Rochester no final da narrativa” (LIMA, 2013, p. 45).
+Consideramos Jane uma personagem complexa e contraditória , a qual tem uma forte
+crença na justiça e na igualdade, mas também é capaz de ser preconceituosa e julgar as pessoas;
+ela pode ser generosa e compassiva, mas também pode ser egoísta e vingativa. As próprias
+contradições de Jane contribuem para demonstrar como a protagonista é tendenciosa em sua
+narração.
+Dizem que o talento é presunçoso. Não sei dizer se Miss Ingram era talentosa,
+mas presunçosa ela era (...) notavelmente presunçosa, aliás. Engajou-se numa
+discussão sobre botânica com a gentil Mrs. Dent. Parece que Mrs. Dent não
+entendia muito dessa ciência, mas gostava de flores, como disse,
+“especialmente das flores silvestres”. Miss Ingram sim, conhecia o assunto, e
+começou a desfilar o vocabulário apropriado com ares superiores (BRONTË,
+2010, p. 217-218).
+Adele não é culpada pelos erros da mãe nem pelos erros do senhor. Tenho
+carinho por ela, e agora que sei que ela é, de certa forma, órfã – abandonada
+pela mãe e renegada pelo senhor – devo ficar ainda mais próxima dela do que
+antes. Como eu poderia preferir o rebento mimado de uma família rica, que
+odiaria sua governanta como um estorvo, a uma pequenina órfã solitária, que
+se atira para a governanta como uma amiga? (BRONTË, 2010, p. 185)
+Eu não conhecia meios -termos. Nunca na minha vida, ao lidar com
+personalidades positivas e duras, antagônicas à minha, encontrara um meio -
+termo entre a submissão absoluta e a revolta determinada. Sempre observava
+a primeira, fielmente, até o momento em que me precipitava na segunda, às
+19 WOOLF, Virgínia. Um teto todo seu. Tradução de Vera Ribeiro. 2ª ed. Rio de Janeiro: Nova Fronteira, 2004.
+49
+vezes com vulcânica veemência. Mas agora, como nem as circunstâncias
+justificavam, nem meu estado de espírito se inclinava para a revolta, segui
+cuidadosamente as ordens de St. John (BRONTË, 2010, p. 500).
+O primeiro excerto revela a natureza compassiva e o senso de justiça de Jane Eyre ao
+lidar com a pequena Adèle Varens. Diante da revelação da origem de Adèle – fruto de um
+relacionamento extraconjugal de Mr. Rochester e, portanto, marginalizada e abandonad a –, a
+reação de Jane não é de julgamento ou distanciamento, mas sim de empatia e senso de
+responsabilidade. A frase "Adele não é culpada pelos erros da mãe nem pelos erros do senhor"
+demonstra uma maturidade e uma capacidade de separar a criança das falhas dos adultos, um
+traço marcante de sua personalidade.
+A comparação que Jane estabelece entre Adèle e um hipotético "rebento mimado de
+uma família rica" evidencia seus valores e sua aversão à superficialidade e à arrogância. Sua
+escolha de se aproximar da "pequenina órfã solitária" reforça a identificação de Jane com
+aqueles que são marginalizados e sua disposição em oferecer apoio e cuidado onde eles são
+mais necessários, ecoando suas próprias experiências de isolamento na infância.
+O segundo excerto, por outro lado, expõe uma faceta diferente da personalidade de Jane:
+sua tendência a extremos em suas interações com "personalidades positivas e duras, antagônicas
+à [sua]". A ausência de "meios-termos" em seu passado, oscilando entre a "submissão absoluta"
+e a "revolta determinada", revela uma história de lutas por autoafirmação em ambientes
+desafiadores. Essa polaridade sugere uma dificuldade em encontrar um equilíbrio nas relações
+de poder, reagindo passivamente até atingir um ponto de ruptura, onde sua reação se torna
+"vulcânica".
+No entanto, a situação presente, ao seguir as ordens de St. John Rivers, marca uma
+mudança em seu comportamento. A afirmação de que "nem as circunstâncias justificavam, nem
+meu estado de espírito se inclinava para a revolta" indica um crescimento pessoal e uma
+capacidade de agir de maneira mais ponderada e controlada. Essa nova abordagem sugere que
+as experiências vividas por Jane, incluindo o sofrimento e a busca por autonomia, a levaram a
+desenvolver uma maior autoconsciência e uma forma mais maleável de se relacionar com a
+autoridade. A obediência a St. John, portanto, não representa uma regressão à "submissão
+absoluta" do passado, mas sim uma escolha consciente, sem agir por impulso ou revolta como
+antes.
+Como o romance foi escrito no contexto da sociedade vitoriana , na qual era uma
+sociedade patriarcal e classista, em que as mulheres eram subordinadas aos homens e as classes
+sociais mais baixas eram discriminadas. As próprias crenças e valores de Charlotte Brontë, a
+50
+autora do livro, influenciaram nas ações tendenciosas da narradora, questão essa que de acordo
+com Booth, “ O autor tem que dar a ilusão de que não existe. Se, por um momento que seja,
+suspeitarmos de que ele está nos bastidores, controlando as vidas dos personagens, estes não
+parecerão livres” (BOOTH, 1980, p. 68). A seguir, temos um exemplo do livro: “Fiz como ele
+pediu, embora tivesse preferido ficar um pouco mais na sombra. Mas Mr. Rochester tinha um
+modo tão incisivo de dar ordens, que parecia natural o bedecer-lhe prontamente” (BRONTË,
+2010, p. 167).
+Quando Jane descreve a governanta Mrs. Reed, por exemplo, ela a caracteriza como
+uma mulher cruel e intolerante. No entanto, essa descrição é baseada na perspectiva de Jane,
+que foi uma criança maltratada por Mrs. Reed. É possível que Mrs. Reed tivesse suas próprias
+razões para agir da forma como agiu, conforme Lima, “Inclusive, Mrs Reed também se sente
+incomodada com o olhar desafiador de Jane, assim como também com a sua falta de resignação
+e de autocomiseração, o que a faz tomar a decisão de enviá -la a Lowood School” (BRONTË,
+2013, p. 135).
+4.2. Liberdade de expressão de Jane
+Outra suposição que levantamos sobre a ocultação dos personagens secundários é o uso
+do “discurso indireto livre - o narrador se apresenta o mais próximo possível das palavras do
+personagem sem deixar que o próprio personagem as enuncie ” (MAGALHÃES, 2021, p. 22),
+sendo uma ferramenta que a personagem utiliza para ocultar os personagens secundários. Esse
+recurso permite que a narradora expresse seus pensamentos e sentimentos de forma indireta,
+através da voz dos personagens. Assim, as falas e ações dos pers onagens secundários são
+frequentemente interpretadas por Jane, o que pode levar a uma distorção da realidade.
+O discurso indireto livre é uma técnica literária que consiste em reproduzir o discurso
+de outra pessoa sem utilizar aspas, no qual o narrador não apenas relata o que foi dito, mas
+também interpreta e avalia as palavras dos personagens.
+O discurso indireto livre oferece ao narrador uma ferramenta para revelar a interioridade
+dos personagens gradualmente, permitindo ao leitor interpretar ao longo da narrativa seus
+pensamentos, sentimentos e motivações, transitando entre a objetividade e a subjetividade.
+Através do discurso indireto livre em uma obra literária, o narrador se torna um mediador entre
+o leitor e os personagens, moldando a forma como eles são vistos e compreendidos . Essa
+influência do narrador pode gerar distorções da realidade, mas também pode enriquecer a
+experiência d a leitura ao convidar o leitor a uma análise crítica da narrativa. Para isso, é
+51
+necessário considerar o contexto histórico, social e cultural em que a narrativa foi escrita ao
+utilizar essa técnica.
+Ao se utilizar da ferramenta do discurso indireto, Jane Eyre seleciona e interpreta as
+palavras dos personagens secundários de acordo com sua própria perspectiva, significando que
+o leitor só tem acesso à visão da protagonista sobre os outros personagens.
+Os modos de apresentação do pensamento têm características semelhantes
+àquelas dos modos de apresentação da fala; entretanto, alguns de seus efeitos
+são distintos. Em primeiro lugar, os autores ressaltam que a apresentação do
+pensamento, incluindo o seu mo do mais indireto, é um artifício da narrativa
+literária. Não é possível ver o que se passa na mente das pessoas; no entanto,
+com o objetivo de deixar claro para os leitores as motivações dos personagens
+para agir e se posicionar de certa maneira, aos autor es é concedida a licença
+para representar pensamentos daqueles personagens. Quando o escritor
+escolhe representar os pensamentos de um personagem, em forma direta ou
+indireta, somos convidados a ver as coisas do ponto de vista daquela
+personagem, que se torna a refletora da ficção (MAGALHÃES, 2021, p. 46).
+Como por exemplo, Jane ao se encontrar com Bertha Mason, a “esposa louca de
+Rochester”, a narradora descreve Bertha como uma mulher “selvagem” uma “fera”, descrição
+essa que é baseada na perspectiva d a narradora. “Que criatura era aquela que, disfarçada no
+corpo e rosto de uma mulher, articulava as palavras ora como um demônio insolente, ora como
+uma selvagem ave de rapina? ” (BRONTË, 2010, p. 264). O leitor não tem acesso às palavras
+ou pensamentos de Bertha, portanto, a personagem só é vista através do olhar de Jane.
+Se era uma fera ou um ser humano, não se poderia dizer à primeira vista.
+Rastejava, de quatro, saltando e rosnando como um estranho animal selvagem.
+Mas estava coberto com roupas, e uma massa de cabelos escuros e
+emaranhados, revoltos como uma juba, escond ia-lhe a cabeça e a face
+(BRONTË, p. 369).
+4.3. Limitando a visão através da voz de Jane
+Outra ferramenta que a personagem Jane utiliz a, é a focalização interna . Técnica
+desenvolvida por Gérard Genette (1995) que nos permite entender a partir do estudo da sua
+teoria a narrativa através da personagem narradora. Técnica narrativa que restringe a
+perspectiva do leitor à visão do narrador , limita o ponto de vista da narrativa a um único
+personagem, dificulta o acesso do leitor aos pensamentos e sentimentos dos personagens
+secundários, sendo vistos apenas através dos olhos da narradora, limitando a compreensão do
+leitor sobre eles, isso significa que o leitor só tem acesso às informações e sentimentos que o
+personagem da narrativa sabe, compreende ou experimenta . Por ser uma técnica eficaz para
+52
+ocultar os personagens secundários, permite que a narradora controle a narrativa e crie uma
+perspectiva única para o leitor.
+Para Magalhães: “(...) a focalização interna, ocorre quando os eventos da estória são
+focalizados através de um ou mais person agens refletores, internos à estória. Nesse caso, a
+informação narrativa fica restrita à percepção, à cognição e ao pensamento destes personagens”
+(MAGALHÃES, 2021, p. 17).
+Esta técnica pode ser utilizada para criar uma sensação de suspense, como o leitor está
+limitado à perspectiva do personagem protagonista, isso poderá limitar a compreensão do leitor
+sobre outros personagens , questionando seus pensamentos e sentimentos , e por outro lado, à
+medida que o leitor tem acesso aos pensamentos e sentimento do personagem protagonista, ele
+obtém uma compreensão mais profunda das motivações, medos e desejos do personagem.
+A focalização interna é usada na ocultação dos personagens secundários, para limitar o
+leitor a conhecer os pensamentos e sentimentos desses personagens, como também limita o
+leitor a ver apenas através dos olhos da narradora, que pode ser parcial ou tendenciosa em suas
+percepções.
+Conforme Magalhães: “Quando se dirige o foco para o personagem refletor da estória,
+a narrativa deixa os elementos da exposição para ser filtrada pela mente do refletor e o leitor
+deixa de ser destinatário para ser testemunha do que é visto pelo personagem” (MAGALHÃES,
+2021, p. 15).
+A focalização interna também pode ser utilizada para omitir informações sobre os
+personagens secundários , isso ocorre porque o leitor só tem acesso às informações que o
+personagem principal sabe ou experimenta, limitando ao leitor informações.
+Por exemplo, quando Jane encontra Blanche Ingram, uma mulher interessada em
+Rochester, o leitor tem poucas informações sobre a personagem, apenas que é bonita e rica, sem
+saber sobre sua personalidade e pensamentos, isso ocorre porque a própria Jane não tem
+conhecimento sobre Blanche.
+Como o leitor só tem acesso às informações que a narradora sabe ou experimenta, criase uma atmosfera de mistério em torno dos personagens secundários , causando no leitor
+curiosidade.
+Quando Jane passa a conviver com St. John Rivers, o leitor conhece apenas que esse
+personagem é um homem religioso , devoto, mas não tem informações sobre seu verdadeiro
+sentimento em relação a personagem, isso ocorre porque ela não tem dados para afirmar.
+Outra questão que gostaríamos de nos atermos , é o fato de que Jane seleciona as
+informações que relata de forma a favorecer sua própria perspectiva, sendo assim, os
+53
+acontecimentos que são importantes para ela são destacados, enquanto os acontecimentos que
+não são relevantes para sua história são ignorados.
+A regulação da informação é uma técnica narrativa que consiste em escolher quais
+informações serão reveladas ao leitor, ocorrendo uma possível ocultação dos personagens
+secundários. Essa técnica pode ser usada para omitir informações sobre os personagens
+secundários, porque o narrador pode simplesmente escolher ou não as revelar . Conforme
+Genette (1995, p. 183): “o modo de regulação da informação , que procede da escolha ou não
+de um ‘ponto de vista’ restritivo”.
+Essa técnica também poderá ser usada para interpretar as informações sobre os
+personagens secundários de acordo com a perspectiva d a narradora, significando que o leitor
+só terá acesso à visão da protagonista, às informações que ela deseja compartilhar sobre esses
+personagens, sendo assim, Jane controla a narrativa e cria uma perspectiva única para o leitor.
+Alguns exemplos de como Jane Eyre oculta os personagens secundários utilizando a
+regulação da informação : a infância de Bertha Mason não é revelada, o que dificulta a
+compreensão de sua psique e motivações; as verdadeiras intenções de St. John Rivers e do
+senhor Rochester também não são reveladas a princípio , tornando esse s personagens mais
+misteriosos e intrigantes; como as relações entre Jane com as governantas de Thornfield Hall,
+as tornando menos significativas como personagens secundárias da obra.
+Os autores geralmente empregam uma liberação gradual de informações sobre
+personagens secundários, revelando pouco a pouco suas personalidades, motivações e ações.
+Essa divulgação gradual pode manter o leitor focado na perspectiva do protagonista, ao mesmo
+tempo que constrói sutilmente a presença dos personagens secundários ao fundo.
+Ao focar principalmente nas interações entre o protagonista e os personagens
+secundários, os autores podem controlar a quantidade de informações reveladas sobre estes
+últimos. Os personagens secundários são frequentemente vistos através da voz das experiências
+do protagonista, limitando o acesso direto do leitor aos seus pensamentos e sen timentos mais
+íntimos.
+A autora pode usar descrições ambíguas ou indiretas ao retratar personagens
+secundários, esta imprecisão pode contribuir para a sensação de ocultação, deixando ao leitor
+preencher as lacunas , o que pode ocorrer distorções . Conforme Woloch destaca: “Ele
+compreende e problematiza est e paradoxo: personagens secundários tendem a se distorcer à
+54
+medida que ficam obscurecidos (ou “restringidos” de atenção narrativa), torna ndo-se, assim
+mais memoráveis à medida que ficar distorcido”20 (WOLOCH, 2003, p. 178, tradução nossa).
+Em alguns casos, a autora pode desviar a perspectiva narrativa do personagem
+protagonista e focar brevemente em um personagem secundário. No entanto, essas mudanças
+são muitas vezes temporárias e o foco retorna rapidamente ao protagonista, mantendo a
+ocultação geral dos personagens secundários.
+Se Grace fosse jovem e bonita, eu seria tentada a pensar que sentimentos mais
+ternos que a prudência ou o medo influenciaram Mr. Rochester a seu favor.
+Mas, pouco favorecida pela natureza e matronal como era, essa ideia não era
+admissível. “Ainda assim” pensei “ela já foi bonita uma vez. Deve ter sido
+jovem na mesma época que o patrão. Mrs. Fairfax contou -me que ela vive
+aqui há muitos anos. Não acho que ela algum dia tenha sido bonita mas, por
+menos que eu saiba, ela deve possuir originalidade e força d e caráter para
+compensar a falta de atrativos pessoais. Mr. Rochester é um admirador de tudo
+que é excêntrico. Grace é excêntrica ao extremo. Que outra coisa senão um
+antigo capricho (uma extravagância bastante possível, para uma natureza tão
+impulsiva e teimosa como a dele) o colocou sob o poder dessa mulher? E ela
+agora exercia uma secreta influência sobre ele, resultado da sua própria
+indiscrição, da qual ele não podia se libertar nem ousava desprezar.” (...)
+“Ainda assim,” sugeriu -me a voz secreta que nos fala do fundo do coração
+“você também não é bonita, e talvez Mr. Rochester goste de você. De qualquer
+modo, você muitas vezes pensou que ele sentisse isso. E na noite passada...
+lembre-se das palavras dele, do seu olhar, da sua voz!” (BRONTË, 2010, p.
+198)
+Embora essas estratégias funcionem para ocultar os personagens secundários, é
+importante notar que essa ocultação não diminui necessariamente sua importância na narrativa.
+Os personagens secundários ainda podem desempenhar papéis significativos na formação das
+experiências da protagonista, conduzindo a trama adiante e adicionando profundidade e
+complexidade à história.
+Finalmente, o uso de adjetivos que Jane utiliza para caracterizar os personagens
+secundários são frequentemente subjetivos e reflet em a visão de la sobre eles, dificultando a
+formação de uma imagem objetiva , pois podem ser descritos de forma tendenciosa pela
+protagonista.
+Ao descrever Bertha Mason, ela usa dos adjetivos negativos “selvagem” e “louca” como
+a seguir: “A manhã fora bastante calma, com exceção da breve cena com a louca. O incidente
+na igreja não fora barulhento. Não houvera explosão de cólera, nem altercação em voz alta, nem
+disputa, nem desafio, nem lágrimas ou soluços” (BRONTË, 2010, p. 371), sugerindo que ela é
+uma ameaça à Jane e a Rochester ; os adjetivos positivos utilizados para Blanche Ingram,
+20 He grasps and problematizes this crucial paradox: minor characters tend to become more distorted as they get
+obscured (or “stinted” of narrative attention) and then become more memorable as they get distorted.
+55
+“bonita” e “rica” são usados de forma superficial ; e o St. John é chamado de “religioso” e
+“devoto”, mesmo sendo adjetivos positivos, são estáticos, o tornando misterioso e intrigante.
+Mas além da sua ausência frequente, havia outra barreira para a minha
+amizade com St. John: ele parecia ter uma natureza reservada, difícil e mesmo
+rancorosa. Zeloso nos seus deveres pastorais, irrepreensível na sua vida e nos
+seus hábitos, ainda assim não parecia desfrutar da serenidade de alma e da
+alegria interior que deviam ser a recompensa de todo cristão sincero e do
+filantropo militante (BRONTË, 2010, p. 440).
+Ao ponderar que a Sra. Reed era uma mulher severa e rígida , que o Sr. Rochester era
+um homem misterioso e intrigante, e que a Srta. Fairfax era gentil e bondosa gover nanta, a
+utilização de adjetivos mais uma vez pode ser tendenciosa.
+Após toda a demonstração de emancipação em Jane Eyre, verificamos conforme Caldas,
+que:
+Mesmo depois de todo o processo de Bildung narrado no romance, de todos
+os manifestos e declarações de independência e igualdade, bem como depois
+de ascender por meio da herança e do casamento com Rochester, Jane ainda
+busca ser aceita, pedindo nosso aval para sua inserção e ascensão. (...) O
+adjetivo que melhor parece caracterizar Jane e sua história, é triste (CALDAS,
+2017, p. 57).
+Apesar da trajetória de Jane Eyre ser marcada por momentos de emancipação e pela
+conquista de sua independência financeira e afetiva, a observação de Caldas lança um tom
+melancólico sobre sua vitória. A necessidade de buscar a aprovação do leitor, mesmo após
+ascender socialmente e encontrar o amor, sugere uma insegurança, uma possível internalização
+das humilhações sofridas no passado. Essa busca por validação externa, mesmo ao final de sua
+jornada, insinua uma fragilidade emocional que perdura. Sob essa perspectiva, o adjetivo
+"triste" citado por Caldas não resume toda a experiência de Jane, mas acrescenta uma nuance
+que acompanha sua conquista, revelando as marcas deixadas por uma vida de luta e pela busca
+por reconhecimento verdadeiro.
+56
+CONSIDERAÇÕES FINAIS
+A narradora-personagem do romance, Jane Eyre oculta os personagens secundários da
+história, para isso, ela utiliza algumas técnicas narrativas. Por ser a protagonista da narrativa,
+Jane enfatiza somente o que considera relevante para a sua história e da maneira que julga
+interessante, tornando-a o centro das atenções, e moldando a atenção do leitor de acordo com
+sua perspectiva.
+A obra de Woloch nos ajudou a repensar o papel dos personagens secundários na
+literatura, reconhecendo seu poder como ferramentas para criar tensão narrativa, explorar temas
+centrais e fornecer contexto histórico e social, como sua subjetividade persistente e sua
+influência crucial na construção da narrativa. Ao valorizar a importância dos coadjuvantes, a
+multiplicidade de vozes e a riqueza de perspectivas, somos capazes de apreciar ainda mais essa
+obra literária.
+Ao ouvir as vozes dos personagens secundários, os leitores podem ter uma compreensão
+mais completa da história de Jane Eyre. Eles podem aprender mais sobre a protagonista, sua
+jornada e os desafios que ela enfrenta.
+Assim, a ocultação dos personagens secundários é um elemento importante da narrativa
+de Jane Eyre. Ela contribui para a construção da protagonista como uma personagem complexa
+e independente.
+Através da escolha de Brontë em ocultar os personagens secundários, ela oferece uma
+crítica à sociedade vitoriana, permite que Jane tenha uma autoafirmação, aprofunda a análise
+de sua jornada interna e impacta a percepção do leitor sobre a história. A omissão dos
+personagens secundários, portanto, é um elemento crucial para a compreensão da complexa teia
+narrativa do romance em questão.
+Jane Eyre ao omitir detalhes sobre os personagens secundários , utiliza estratégias
+narrativas que contribuem para consolidação de sua própria voz. As interações da protagonista
+com os personagens secundários, mesmo que limitadas em detalhes, são importantes para seu
+desenvolvimento como personagem e para o desenrolar da história.
+Podemos concluir, portanto, que os personagens citados no decorrer desse trabalho
+contribuíram para a formação da identidade da personagem principal, além disso, notamos que
+a protagonista em momentos distintos procura ocultar, silenciar personagens secundários no
+romance.
+57
+A cada nova leitura em diferentes fases da vida, assim como em cada estudo realizado
+sob diversas vertentes desse romance de Brontë, a obra se revele e renasça constantemente,
+abrindo espaços para novas pesquisas e interpretações.
+58
+REFERÊNCIAS
+BOOTH, Wayne C. A retórica da ficção. Tradução de Maria Teresa H. Guerreiro. Editorial
+Minerva, Lisboa, 1980. Disponível em: https://literaturaemodernidade.wordpress.com/wpcontent/uploads/2013/09/a-retc3b3rica-da-ficc3a7c3a3o.pdf Acesso em: 19/05/2024.
+BOOTH, Wayne. The Company We Keep. An Ethics of Fiction. Chicago, 1988.
+BRONTË, Charlotte. Jane Eyre. Tradução de Lenita Esteves e Almiro Piseta . Rio de Janeiro:
+Paz e Terra, 1996.
+________, Charlotte. Jane Eyre. Edição Bilíngue, Editora Landmark LTDA. São Paulo, 2010.
+CALDAS, Marina Oliveira. Pelos olhos de Jane: o in between em Jane Eyre. São Paulo, 2017.
+Disponível em: https://teses.usp.br/teses/disponiveis/8/8147/tde-09012018-
+181955/publico/2017_MarinaOliveiraCaldas_VCorr.pdf Acesso em: 04/02/2024.
+CAMPANA, Crislaine Aline. A irmã silenciosa: Anne Brontë e a escrita de autoria feminina na
+Inglaterra do início do século XIX. Universidade Federal do Paraná, Curitiba, 2017. Disponível
+em:https://www.academia.edu/40747605/UNIVERSIDADE_FEDERAL_DO_PARAN%C3%
+81_CRISLAINE_ALINE_CAMPANA_A_IRM%C3%83_SILENCIOSA_ANNE_BRONT%
+C3%8B_E_A_ESCRITA_DE_AUTORIA_FEMININA_NA_INGLATERRA_DO_IN%C3%
+8DCIO_DO_S%C3%89 Acesso em: 06/10/2023.
+CARNEIRO, Leonardo Bérenger Alves . “THY NAME IS WOMAN”: A (RE)CONSTRUÇÃO
+DAS IDENTIDADES FEMININAS EM ADAPTAÇÕES NARRATIVAS DE HAMLET .
+Universidade Federal do Rio de Janeiro – UFRJ, Rio de Janeiro, 2014. Disponível em:
+http://www.letras.ufrj.br/linguisticaaplicada/site/teses/2014-leonardocarneiro.pdf Acesso em:
+01/10/2024.
+CARV ALHO, Dâmaris Bacon. Balzac e a formação do romance moderno: uma análise do
+realismo de Ilusões Perdidas . Universidade de Brasília , DF, 2017. Disponível em:
+http://icts.unb.br/jspui/bitstream/10482/24699/1/2017_D%C3%A2marisBaconCarvalho.pdf
+Acesso em: 16/01/2025.
+COSTA, Cynthia Beatrice e PISETTA, Lenita Maria Rimoli . As múltiplas vozes narrativas de Jane
+Eyre: romance e filme. TradTerm, São Paulo, v.44, junho/2023, p.138-156 Número Especial – IV Jota
+www.revistas.usp.br/tradterm. Disponível em:
+file:///C:/Users/prale/Downloads/As_multiplas_vozes_narrativas_de_Jane_Eyre_romance.pdf Acesso
+em: 25/06/2024.
+59
+DUARTE, Paloma Mariano. Jane Eyre, de Charlotte Brontë: Uma leitura patriarcalista. Centro
+de Formação de Professores, da Universidade Federal de Campina Grande, Campus de
+Cajazeiras, PB, 2018. Disponível em:
+http://dspace.sti.ufcg.edu.br:8080/jspui/bitstream/riufcg/4344/3/PALOMA%20MARIANO%2
+0DUARTE%20-%20TCC.%20LICENCIATURA%20EM%20LETRAS%20-
+%20L%C3%8DNGUA%20INGLESA.%202018.pdf Acesso em: 05/05/2024.
+FOUCAULT, Michel. F86v Vigiar e punir: nascimento da prisão ; tradução de Raquel
+Ramalhete. Petrópolis, Vozes, 1987. 288p. Do original em francês: Surveiller et punir. 20ª
+edição. Disponível em: https://www.ufsj.edu.br/portal2-
+repositorio/File/centrocultural/foucault_vigiar_punir.pdf Acesso em: 02/05/2024.
+FRASER, Nancy . A busca por justiça social . 1984. Disponível em:
+https://doi.org/10.15448/1984-7289.2018.3.29834 Acesso em: 27/04/2024.
+GENETTE, Gérard. Discurso da Narrativa . Tradução de Fernando Cabral Martins, Lisboa:
+Vega, 1995.
+GORDON, Lyndall. A Public V oice. In: GEASON, Susan (Org.). Regarding Jane Eyre. New
+South Wales: Vintage,1997.
+HOBSBAWM, E. J. Nations and Nationalism Since 1780: Programme, Myth, Reality.
+Cambridge University Press, 1989.
+HOBSBAWN, Eric J. A era das revoluções: 1789-1848. Rio de Janeiro: Paz e Terra, 2004.
+LEITE, Lígia Chiappini Moraes. O Foco Narrativo. São Paulo: Ática, 2002. Disponível em:
+https://teoriadaliteraturaifb.wordpress.com/wp-content/uploads/2014/07/texto-02-o-foconarrativo-ligia-chiapinni.pdf Acesso em: 13/01/2024.
+LIMA, Danielle Dayse Marques de. Dramaticidade, subjetividade e sacralidade em Jane Eyre,
+o romance de formação de Charlotte Brontë . Tese de Doutorado. Universidade Federal da
+Paraíba. João Pessoa, PB. 2013 . Disponível em:
+https://repositorio.ufpb.br/jspui/bitstream/tede/6234/1/ArquivoTotal.pdf Acesso em:
+29/09/2024.
+MAGALHÃES, Célia M. Focalização na tradução de textos literários . UFMG. Tribo Ilha
+Editora. Florianópolis, 2021 . Disponível em: http://www.letras.ufmg.br/site/elivros/Focaliza%C3%A7%C3%A3o-Digital-celia.pdf Acesso em: 29/09/2024.
+MALIK, Rachel. Somos demasiados , 2004. Disponível em:
+https://newleftreview.es/issues/28/articles/rachel-malik-somos-demasiados.pdf Acesso em:
+01/06/2024.
+60
+MELO, Michele Alves de . Matéria e ilusão: sociedade e literatura em Balzac e Marx .
+UNIVERSIDADE FEDERAL DO AMAZONAS , Manaus, AM, 2011. Disponível em:
+https://riu.ufam.edu.br/bitstream/prefix/2331/2/Michele%20Alves%20de%20Melo.pdf.
+Acesso em: 01/10/2024.
+MONTEIRO, Maria Conceição. Figuras errantes na época vitoriana: a preceptora, a prostituta
+e a louca. UFF – Universidade Federal Fluminense, Niterói, RJ, 1998. Disponível em:
+file:///C:/Users/prale/Downloads/administrador,+conceicao-b.pdf Acesso em: 01/07/2024.
+POOVEY, Mary. Uneven Development: The Colonialization of the Victorian Womanhood.
+Chicago: University of Chicago Press, 1984.
+________, Mary. The Subject and Its Shadow: Gender in Romantic Literature . University of
+Chicago Press, 1984.
+PRINCE, Gerald. A Dictionary of Narratology. Lincoln: University of Nebraska Press, 1987.
+_______, Gerald. Classical and/or Postclassical Narratology. L'Esprit Créateur, vol. 48, no. 2,
+2008, pp. 115–123.
+ROCHA, Patrícia Carvalho. A Estética da Dissonância nas obras de Charlotte Brontë.
+Faculdade de Letras da UFMG, Belo Horizonte, 2008. Disponível em:
+http://www.educadores.diaadia.pr.gov.br/arquivos/File/2010/artigos_teses/Ingles/patriciarocha
+.pdf Acesso em 28/04/2024.
+ROSSI, A, D. Manifestações e configurações do gótico nas literaturas inglesa e norte -
+americana: um panorama. Ícone. v. 2, p. 55-76, São Luís de Montes Belos, jul. 2008. Disponível
+em:http://www. slmb.ueg.br/iconeletras/artigos/volume2/primeiras_letras/aparecido_rossi.pdf.
+Acesso em: 26 de agosto de 2024.
+SANTOS, Melissa Francisca Silva Lara e LAUFER, Albertina . “JANE EYRE” E “A
+INTRUSA”: A INTERTEXTUALIDADE FEMININA NO SÉCULO XIX . Centro Universitário
+Internacional UNINTER , Rio de Janeiro RJ, 2021. Disponível em:
+https://repositorio.uninter.com/bitstream/handle/1/688/SANTOS%2c%20Melissa%20Francisc
+a%20Silva%20Lara.pdf?sequence=1&isAllowed=y Acesso em: 03 de fevereiro de 2024.
+SILV A, Edson Ribeiro da. A FICCIONALIDADE DA NARRATIVA EM PRIMEIRA PESSOA .
+Universidade Estadual de Londrina , Londrina , 2009 . Disponível em:
+file:///C:/Users/prale/Downloads/A_ficcionalidade_da_narrativa_em_primeir.pdf Acesso em:
+14 de dezembro de 2024.
+SILVEIRA, Vanalucia Soares da. UMA LEITURA DUPLA SOBRE O SILÊNCIO E A
+LOUCURA EM JANE EYRE. UERN/BC, Pau dos Ferros, Rio Grande do Norte. Disponível em:
+61
+https://www.uern.br/controledepaginas/disserta%C3%A7%C3%B5es2013/arquivos/1698disse
+rtacao_de_vanalucia_soares_da_silveira.pdf Acesso em: 01/10/2024.
+SPIV AK, Gayatri Chakravorty. Pode o subalterno falar? Belo Horizonte: Editora UFMG, 2014.
+THOMPSON, E. P. The Making of the English Working Class . New York: Vintage
+Books,1963.
+WATT, Ian. A ascensão do romance. Tradução de Hildegard Feist. São Paulo: Companhia de
+Bolso, 2010.
+WOLOCH, Alex. The one vs. the many: minor characters and the space of the protagonist in
+the novel. Princeton: Princeton University Press, 2003.
+Disponível em: https://www.ufmg.br/centrocultural/wp-content/uploads/2020/05/6-Jane-EyreCharlotte-Bront%C3%AB.pdf Acesso em: 20/05/2024.
+Encyclopedia.com. Disponível em: https://www.encyclopedia.com/people/literature-andarts/classical-literature-biographies/agathon#3279300013 Acesso em: 11/05/2024.

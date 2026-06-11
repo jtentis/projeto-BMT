@@ -1,0 +1,1711 @@
+i
+Estratégias Empresariais de Bioeconomia e
+Economia Circular na Indústria de
+Cosméticos
+Nathalie Rocha Verly
+Monografia em Química Industrial
+Orientadora:
+Prof. Clarice Campelo de
+Melo Ferraz, D. Sc., EQ/UFRJ
+Fevereiro de 2020
+ii
+ESTRATÉGIAS EMPRESARIAIS DE BIOECONOMIA
+E ECONOMIA CIRCULAR NA INDÚSTRIA DE
+COSMÉTICOS
+Nathalie Rocha Verly
+Monografia em Química Industrial submetida ao Corpo Docente da Escola de Química,
+como parte dos requisitos necessários à obtenção do grau de Química Industrial.
+Aprovado por:
+Suzana Borschiver, D. Sc., EQ/UFRJ
+Maria Clara Reis Nucci, B. Sc., EQ/UFRJ
+Marcelo Mendes Viana, D. Sc., EQ/UFRJ
+Orientado por:
+Clarice Campelo de Melo Ferraz, D. Sc., EQ/UFRJ
+Rio de Janeiro, RJ - Brasil
+Fevereiro de 2020
+iii
+Ficha Catalográfica
+Verly, Nathalie Rocha.
+Estratégias empresariais de bioeconomia e economia circular na indústria de
+cosméticos/ Nathalie Rocha Verly. Rio de Janeiro: UFRJ/EQ, 2020.
+ix, 60 p.; il.
+(Monografia) – Universidade Federal do Rio de Janeiro, Escola de Química,
+2020.
+Orientadora: Clarice Campelo de Melo Ferraz.
+1. Bioeconomia. 2. Economia Circular. 3. Indústria de Cosméticos. 4. Monografia.
+(Graduação – UFRJ/EQ). 5. Clarice Campelo de Melo Ferraz I. Título.
+iv
+AGRADECIMENTOS
+À Deus, pela força, saúde e coragem durante essa longa caminhada.
+À minha fam ília, por todo amor e suporte , por todo incentivo à educação e ao
+conhecimento e por acreditarem tanto em mim.
+Aos amigos que fiz na graduação, por toda a hist ória, empatia, compaixão, troca e
+aprendizados. Tenho a certeza que levarei a marca de todos para o resto da vida e tudo que
+aprendi ao longo dessa caminhada juntos.
+À Clarice Ferraz, pela disponibilidade e boa vontade em me ajudar, pela troca de
+informações e discussões sobre o tema abordado.
+Aos professores da Escola de Química, que compartilham não só conteúdos, mas
+visão crítica e experiências, tornando -os responsáveis pela formação de químicos e
+engenheiros conceituados nas áreas de atuação.
+À UFRJ, por ter me tornado uma pessoa mais humana, humilde e com vontade de
+mudar o mundo através do conhecimento.
+v
+Resumo da Monografia apresentada à Escola de Química como parte dos requisitos
+necessários para obtenção do grau de Química Industrial.
+ESTRATÉGIAS EMPRESARIAIS DE BIOECONOMIA E ECONOMIA
+CIRCULAR NA INDÚSTRIA DE COSMÉTICOS
+Nathalie Rocha Verly
+Fevereiro, 2020
+Orientadora: Prof. Clarice Campelo Melo Ferraz, D.Sc., EQ/UFRJ
+O uso desregrado dos recursos naturais e a produção industrial com geração de poluentes e
+resíduos são característica s da atual indústria de cosméticos . Contudo, motivada pela
+preocupação da preservação e da qualidade do meio ambiente, começa a haver pressão
+pela melhoria dos processos usados e no desenvolvimento de novas tecnologias mais
+eficazes para minimizar os impactos gerados pela produção dos produtos cosméticos. O
+consumidor mais preocupado e consciente com relação aos bens que consome tem
+influenciado a forma como as grandes em presas operam. A bioeconomia e a economia
+circular são propostas para a transição dos processos de produção atuais , conhecidos como
+lineares, para outros que sejam compatíveis com o desenvolvimento sustentável. Nesse
+contexto, o presente trabalho teve por objetivo analisar as tendências nacionais e
+internacionais da indústria de cosméticos d o setor de higiene p essoal, perfumaria e
+cosméticos no Brasil em relação às estrat égias empresariais adotadas de bioeconomia e
+economia circular, na transição para um mo delo de negócio mais sustentável. De acordo
+com nossas análises, foi possível definir quais são as ações que algumas d as grandes
+empresas estão seguindo para mudar o cenário atual de produção e consumo do setor de
+cosméticos, além de quais países estão sendo pioneiros no estudo deste tema.
+vi
+ÍNDICE
+Capítulo I – Introdução 1
+I.1 – Objetivo 2
+Capítulo II – A Indústria de Higiene Pessoal, Perfumaria e Cosméticos (HPPC) 2
+II.1 – Panorama do Mercado 2
+II.2 – Tendências Globais de Consumo 5
+II.3 – Tendências Nacionais de Consumo 8
+Capítulo III – A Indústria de Cosméticos 9
+III.1 – Definição de Cosméticos 9
+III.2 – Características da Indústria de Cosméticos 11
+III.3 – Insumos na Indústria de Cosméticos 17
+III.4 – Componentes Químicos nos Cosméticos 19
+III.5 – Regulação Internacional 22
+III.5.1 – Diretrizes Ambientais Internacionais 23
+III.6 – Regulação Nacional 27
+III.6.1 – Diretrizes Ambientais Nacionais 28
+Capítulo IV – Bioeconomia e Economia Circular 29
+IV.1 – Definição 29
+IV.2 – Políticas Públicas de Bioeconomia e Economia Circular 32
+IV.2.1 – Políticas Públicas de Bioeconomia e Economia Circular Nacionais 34
+Capítulo V – Metodologia 35
+Capítulo VI – Estratégias Empresariais 36
+VI.1 – Iniciativas de Sustentabilidade 38
+VI.1.1 – Avon 41
+VI.1.2 – P&G 43
+VI.1.3 – L’Oréal 44
+VI.1.4 – Lush 46
+VI.1.5 – Natura 47
+VI.1.6 – Gupo Boticário 48
+VI.2 – Patentes 49
+vii
+Capítulo VII – Conclusão 52
+Referências Bibliográficas 54
+viii
+ÍNDICE DE FIGURAS
+Figura 1 Panorama do Setor 3
+Figura 2 Evolução do Mercado Consumidor Brasileiro 9
+Figura 3 Esquema Geral do Tratamento de Efluentes Industriais 13
+Figura 4 Fluxograma Geral do Setor de HPPC 16
+Figura 5 Segmentação da Indústria de Insumos para Cosméticos 18
+Figura 6 Ciclo Biológico e Técnico da Economia Circular 31
+Figura 7 Objetivos de Desenvolvimento Sustentável 33
+Figura 8 Contribuição da L’Oréal para os ODS das Nações Unidas 45
+Figura 9 Circular and Economy 50
+Figura 10 Bio and Economy 50
+Figura 11 Cosmetic and Industry 51
+Figura 12 Environment and Cosmetic and Industry 51
+Figura 13 Circular and Economy and Cosmetic 52
+ix
+ÍNDICE DE TABELAS
+Tabela 1 Top 20 Empresas de Beleza do Mundo 4
+Tabela 2 Top 10 Consumidores Mundiais de HPPC 7
+Tabela 3 Palavras-Chave na Busca de Publicações Científicas 36
+Tabela 4 Palavras-Chave na Busca de Pantentes 49
+1
+I. INTRODUÇÃO
+A Indústria de Higiene Pessoal, Perfumaria e C osméticos (HPPC) é conhecida por
+fornecer itens essenciais à população e, ao longo dos anos, se tornou um setor de relevância
+global. A indústria de HPPC é classificada como um dos segmentos da indústria química em
+razão da utilização e sinte tização de ingredientes, mantendo uma ligação com a indústria
+farmacêutica para desenvolvimento e pesquisa de princípios ativos, além de fitoterápicos ou
+medicamentos originados de material botânico e de seus extratos . É uma indústria composta por
+três seg mentos: c osméticos propriamente ditos, produtos de higiene pessoal e produtos de
+perfumaria. Sendo assim, esses três segmentos formam um conjunto heterogêneo de atividades
+que permitem às empresas atuantes adotarem diferentes posicionamentos estratégicos a nível
+corporativo1.
+A cadeia produtiva dessa indústria gera muitos poluentes e resíduos. Entretanto, cada vez
+mais os consumidores estão adotando novos valores e hábitos de consumo preocupados com a
+degradação acelerada do meio ambiente e em alternativas de desenvolvimento sustentável
+durante todas as etapas da cadeia produtiva, tais como os insumos utilizad os, no consumo de
+água e energia, nos resíduos de produção, nas embalagen e no descarte dos produtos finais após
+sua utilização.
+A partir dessa preocupação social e da demanda dos consumidores, surgem novas
+regulamentações e a criação de novos mercados . É possível notar um movimento de gr andes
+empresas de todos os setores para um meio de produção mais limpo e com menor geração de lixo
+e resíduos, respeitando a preservação d o meio ambiente e das matérias primas utilizadas e isso
+não é diferente para a indústria de cosméticos. Assim, o setor vem se reinventando para aten der
+às demanas mundias de sustentabilidade, quali dade e integridade dos produtos , e isto te m
+influenciado de modo significativo a rotina de muitas empresas.
+Com isso , na busca por um desenvolvimento mais sustentável se destacam duas
+iniciativas: a Bioeconomia e a Economia Circular. A Comi ssão Européia (2012) definiu a
+bioeconomia como a produção de recursos biológicos renováveis e a conversão destes em novos
+recursos e seus resíduos em pr odutos de valor agregado. Já a economia c ircular foi definida pela
+1BNDES Setorial – Panorama da Indústria de Higiene Pessoal, Perfumaria e Cosméticos.
+<https://web.bndes.gov.br/bib/jspui/bitstream/1408/6541/1/BS%2025%20Panorama%20da%20ind%C3%BAstria%
+20de%20higiene_P_BD.pdf> Acesso em 24/03/2019.
+2
+Fundação Ellen MacArthur como uma alternativa para o modelo de produção atual, baseada nos
+princípios de eliminar resíduos e poluição desde o princípio da cadeia, manter produtos e
+materiais em uso sempre e regenerar sistemas naturais e assim, veêm sendo adotados como
+políticas de ação em grandes indús trias ao redor do mundo para enfrentar o s desafios da
+transição do atual modelo de negócio para um mais sustentável e circular, sendo utilizados como
+ferramentas de transformação.
+De acordo com o Euromonitor (2018) , o Brasil representa 6,7% do market share da
+produção mundial de cosméticos e com isso, fica evidente a necessidade de alinhamento com
+essas mudanças no modelo de produção. Assim, a Associação Brasileira de Indústria de Higiene,
+Perfumaria e Cosméticos (ABIHPEC) vem fazendo um papel importante ao incentivar debates e
+promover eventos em relação ao tema, mostrando a necessidade do desenvolvimento sustentável
+na indústria de HPPC. Contudo, ainda já muito o que se fazer para acelerar essa transformação
+por parte das empresas e das políticas públicas.
+I.1. Objetivo
+O objetivo deste trabalho é analisar as tendências nacionais e internacionais da indústria
+de cosméticos do setor de Higiene Pessoal, Perfumaria e Cosméticos (HPPC) no Brasil em
+relação às estratégias empresariais adotadas de Bioeconomia e Economia Circular na transição
+para um modelo de negócio mais sustentável.
+II. A INDÚSTRIA DE HIGIENE PESSOAL, PERFUMARIA E COSMÉTICOS (HPPC)
+II.1. Panorama do Mercado
+A indústria de HPPC movimentou R $ 48 bi em 2018 de acordo com a ABIHPEC2,
+gerando cerca de 125,7 mil empregos em 2018, uma alta de 4,3% na comparação com 2017 3.
+Para 2019, o resultado do primeiro semestre é de um alta de 1,5% em relação ao mesmo período
+2Setor de Beleza Cresce e Estima Superar os R$ 50 bi em 2019. < https://www.cosmeticinnovation.com.br/setor-debeleza-cresce-e-estima-superar-os-r-50-bi-em-2019/> Acesso em 10/10/2019.
+3Mercado da Beleza Cresce Lento, Mas Continua em Alta. <https://www.cosme ticinnovation.com.br/mercado-debeleza-cresce-lento-mas-continua-em-alta/ > Acesso em 10/10/2019.
+3
+de 2018, com um aumento no faturamento de vendas, entretanto, o volume de produção diminuiu
+em 10, 9%, com um total de 1,2 mil toneladas de itens produzidos nas categorias de higiene
+pessoal, cosméti cos e perfumaria. Os dados divulgados pela ABIHPEC 4 seguem o mesmo
+patamar de 2018 e ainda refletem os desafios gerados devido à crise econômica do país.
+Além disso, é uma indústria que apresenta taxas muito elevadas de crescimento, como
+ilustra a Figura 1, provenientes das estratégias empresariais que visam alcançar cada vez mais
+consumidores. Essas estratégias se utilizam de aumentos de escala de produção, da aceleração do
+processo de desenvolvimento e lançamento de produtos e da diferenciação voltada para
+diferentes estratos, como gênero, idade, faixa de renda, tipo de inserção social, além do uso
+intenso de instrumentos de publicidade para comunica r qualid ades e funcionalidades (ABDI,
+2015).
+Figura 1 - Panorama do Setor.
+Fonte: ABIHPEC (2017).
+Em geral, ao se tratar do consumidor do setor de HPPC, observa-se uma correlação direta
+entre o consumo per capita de HPPC com a renda per capita. O setor possui elevada elasticidaderenda, o que significa que qualquer aumento de renda incremental da população implica em
+aumento de suas vendas.
+4Indústria de HPPC Registra Crescimento Real de 1,5% em 2019. <https://abihpec.org.br/comunicado/industria -dehigiene-pessoal-perfumaria-e-cosmeticos-registra-crescimento-real-de-15-entre-janeiro-e-julho-de-2019/> Acesso
+em 21/10/2019.
+4
+O setor é caracterizado pela presença de grandes empresas internacionais, com atuação
+global, diversificadas ou especiali zadas nos segmentos de higiene pessoal, perfumaria e
+cosméticos e pelas pequenas e médias empresas nacionais, em grande número, focadas na
+produção de cosméticos. A revista americana Beauty Pack aging apresenta as 2 0 maiores
+empresas mundias do ramo da beleza5 que estão apresentadas na Tabela 1 a seguir.
+Tabela 1 - Top 20 Empresas de Beleza do Mundo, 2018.
+Empresas U$ (Billion) Market Share
+L’Oréal 31.2 19,39%
+Unilever 24.8 15,41%
+The Esteé Lauder
+Procter & Gamble CO.
+13.7
+12.4
+8,51%
+7,71%
+Coty 9.4 5,84%
+Shiseido 8.9 5,53%
+Beiersdorf
+LVMH
+Johnson & Johnson
+Amorepacific Group
+6.9
+6.7
+6.1
+5.6
+4,29%
+4,16%
+3,79%
+3,48%
+Kao Corp. 5.2 3,23%
+Henkel
+Avon
+L Brands
+Mary Kay
+4.7
+4.2
+4.2
+3.5
+2,92%
+2,61%
+2,61%
+2,18%
+Chanel 3.2 1,99%
+Colgate-Palmolive 2.9 1,80%
+Natura & Co. 2.9 1,80%
+Revlon
+Kose
+2.7
+1.7
+1,68%
+1,06%
+Fonte: Beauty Packaging, 2018. Elaboração própria.
+Outra importante característica desse setor é a constante necessidade de apresentar
+novidades, gerando uma necessidade alta de investimentos para o lançamento de novos produtos.
+Entre os fatores relevantes para a competitividade das empresas, destaca -se a importância dos
+ativos comerciais, como a marca, embalagens, canais de comercialização e distribuição. No que
+tange à diversific ação dos produtos, nota -se uma segmentação das empresas no mercado
+consumidor de acordo com faixa etária, gênero e poder aquisitivo. Assim, por s e tratar de um
+5Top 20 Global Beauty Companies , 2018. <https://www.beautypackaging.com/heaps/view/5163> Acesso em
+10/10/2019.
+5
+setor muito segmentado, os principais componentes de custo das empresas variam de acordo com
+os produtos fabricados.
+II.2. Tendências Globais de Consumo
+O segmento de HPPC vem passando por mudanças extremamente significativas na forma
+de consumo de seus produtos, pri ncipalmente em relação às questões de sustentabilidade,
+personalização, valor social, tecnologia e transparência , que passam a ser decisivos na hora da
+escolha de um produto pelo consumidor. Com isso, o que as empr esas do setor têm pela frente é
+um novo mundo de oportunidades (ABIHPEC, 2018).
+Assim, se torna cada vez mais necessário saber para onde está o interesse do consumidor,
+o que ele deseja, e principalmente o que ele não quer mais. Além de e ntender as mudanças do
+mercado e enxergar possibilidades que ajudem a posicionar a empresa de forma mais produtiva,
+se tornou necessário acompanhar para on de o mundo está caminhando e de que maneira isso vai
+afetar o negócio de cosméticos.
+Uma empresa de pesquisa de mercado, a Euromonitor International, lançou um relatório
+anual sobre as 10 Principais Tendências Globais de Consumo 2019 6, que revelam tendências que
+majoritariamente abordam os novos valores e hábitos dos consumidores e como este novo
+comportamento está afetando os negócios globalmente. Dentre as 10 principais tendências,
+quatro são sobre um novo comportamento do consumidor, cada vez mais voltado para um
+consumo consciente e sustentável. Sendo eles, “A volta ao básico como símbolo de status”, onde
+os consumidores buscam por produtos e experiências autênticos, afastando -se do materialismo e
+dos produtos genéricos em favor da simplicidade e de produtos de maior qualidade ; “Um
+consumidor cada vez mais consciente”, cujo posicionamento ético das empresas é algo relevante
+na hora da escolha de produtos que trazem maior preocupação com o bem -estar animal; “Hoje
+todos são considerados especialistas”, ou seja, os consumidores que antes dependiam de uma
+determinada marca ou fonte de informação, hoje preferem as empresas que inovam
+constantemente para atrai r compradores mais inquisitivos; e “A preocupação com u m mundo
+6As 10 Principais Tendências Globais de Consumo, 2019. <https://www.cosmeticinnovation.com.br/as-10-
+principais-tendencias-globais-de-consumo-em-2019/> Acesso em 24/03/2019.
+6
+livre de plástico ”, que é uma i niciativa de alcançar uma socie dade livre de plástico , criando um
+círculo virtuoso onde as empresas ganham ao melhorar suas práticas de sustentabilidade.
+Há muitas maneiras pelas quais os fabricantes do segmento de beleza e cuidados pessoais
+competem estrategicamente. Hoje, existem três tendências nesse mercado: o crescente número de
+iniciativas relacionadas à sus tentabilidade, enfrentando os desafios no horizontes e cenário
+competitivo desigual entre grandes, médias e pequenas empresa, além de u ma série de mudanças
+tecnológicas, ambientais e econômicas que estão impulsionando a demanda por ingredientes
+mais naturais, e por fim, o novo conceito de “beleza verde”.
+Nesse sentido, a lguns dos desafios mais importantes que a indústria enfrenta incluem o
+rápido aumento da concorrência local nos mercados mais atraentes e o crescente número de
+novos modelos de negócios. O s desafios internos estão relacionados à complexidade da
+integração de novos ativos em larga escala, equilibrando o reposicionamento da marca a fim de
+seguir as principais tendências versus o lançamento de novas marcas. Por último, um dos
+desafios decisivo s nos últimos anos tem sido a crescente concorrência dos fabricantes
+internacionais, assim como as marcas de nichos e os conceitos de negócios disruptivos.
+Os avanços tecnológicos permitiram que as marcas atingissem seus consumidores mais
+diretamente através das redes sociais, contudo, a venda direta, ou porta-a-porta, continua sendo o
+canal de varejo mais representativo para a indústria da beleza, depois do varejo com lojas físicas.
+Entretanto, o varejo pela internet apresentou taxas de crescimento mais f ortes e deverá
+ultrapassar as v endas diretas nos próximos anos, sendo a grande t endência global para o
+mercado. Embora os vendedores diretos estejam adaptando seus modelos de negócios a fim de
+incorporar muitos aspectos das redes sociais existentes, a comp etição com a era digital é algo
+muito difícil.
+De acordo com estudos de marketing digital, a partir de 2020, a experiência com a marca
+será mais decisiva na hora da compra do q ue o próprio produto e o preço. As grandes tendências
+na forma de consumir para os próximos anos estão de acordo com os conceitos de personalização
+do produto e da experiência de compra, representatividade e diversid ade relacionadas à fluidez
+de gênero, digital influencers e o e-commerce, beleza com o foco em ingredientes naturais, foco
+no bem-estar, no self care, na longevidade e não mais na estética . A causa passa a interessar aos
+consumidores, ou seja, a valorização de produtos sem origem animal está em foco , além da
+preocupação com o meio ambiente, a escassez de água, levando ao uso de embalagens
+7
+sustentáveis e a valorização do produto local. A Euromonitor International deu a essa tendência o
+nome de Ethical Living (Modo de Vida Ético) (SEBRAE, 2018).
+Os atributos greens (verdes) dos produtos de beleza tê m influenciado os fabricantes de
+produtos de beleza, que estão se comprometendo cada vez mais com o engajamento digital a fim
+de reforçar a transparência da marca e oferecer aos consumidores mais acesso a informações
+sobre os ingredientes e processo de fabr icação dos produtos. A Unilever, desde 2017, começou a
+expandir sua tecnologia SmartLabel7 para seus produtos de cuidados pessoais. Como a
+tecnologia permite que os consumidores acessem informações instantaneamente no ponto de
+compra, isso pressionará os fabricantes a s erem transparentes sobre suas reivindicações,
+ingredientes e processos sustentáveis (COSMETIC INNOVATION, 2018).
+A Tabela 2 apresenta os 10 maiores países consumidores da indústria de HPPC . Os
+principais influenciadores do consumo são a p articipação cr escente da mulher no mercado de
+trabalho, o aumento da expectativa de vida, o lançamento constante de produtos, a c ultura
+voltada cada vez mais para cuidados com saúde e bem -estar e a participação do ho mem no
+consumo de produtos HPPC, que vem aumentando consideravelmente.
+Tabela 2 - Top 10 Consumidores Mundiais de HPPC (2017).
+Países U$ (Billion) %
+Estados Unidos 86.1 18,5%
+China 53.5 11,5%
+Japão 36.1 7,8%
+Brasil 32.1 6,9%
+Alemanha 18.6 4,0%
+Reino Unido 16.4 3,5%
+França 14.5 3,1%
+Índia
+Coreia do Sul
+Itália
+13.6
+12.6
+11.2
+2,9%
+2,7%
+2,4%
+Fonte: ABIHPEC (2017). Elaboração própria.
+7SmartLabel é uma ferramenta digital usada pela Unilever e outras de empresas de bens de consumo nos EUA com
+intuito de oferecer aos consumidores acesso a informações sobre os produtos além do que está no rótulo.
+8
+II.3. Tendências Nacionais de Consumo
+Vários fatores contribuíram nas últimas décadas para o crescimento do setor de HPPC no
+Brasil e um deles foi o aumento da renda dos brasileiros, que possibilitou o acesso das classes
+mais baixas aos diversos produtos do setor, como shampoos, tinturas, perfumes e maquiagens e
+também os lançamentos constantes do setor, que vieram atender justamente as necessidades de
+um mercado em expansão. Entre 2009 e 2016, o segmento de HPPC, que inclui corte e
+tratamento de cabelos, manicure, pedicure, atividades de estética e outros serviços relacionados
+aos cuidados com a beleza, recebeu cerca de 645 mil novos Microempreendedores Individuais
+(MEI) e mais 26 mil Microempresas (ME) e Empresas de Pequeno Porte (EPP). Dados da
+ABIHPEC mostram que a venda direta garantiu trabalho para 3,99 milhões de pessoas em 2017.
+Em seguida, vieram os serviços de beleza, represe ntados pelos salões, com 1,33 milhão de
+pessoas ocupadas. As franquias aparecem em terceiro lugar, com 221 mil vagas, à frente da
+indústria, que garantiu 120,5 mil postos de trabalho (SEBRAE, 2018).
+A categoria de beleza premium foi a que mais cresceu, com uma evolução de 69% entre
+2012 e 2017, e uma projeção de crescimento de 22,2% até 2022. As fragrâncias são a sub
+categoria com os melhores índices, atingindo aumento de vendas de 61,3% nos últimos 5 anos,
+enquanto a maquiagem só cresceu 42,9% no mesmo período.
+De acordo com um estudo realizado pela Euromonitor International (2019), o mercado de
+beleza cresceu 42,5% nos últimos cinco anos na América Latina. O faturamento regional em
+beleza e cosméticos deve crescer pelo menos 18, 4% até 2022 e atingir 77 bilhões de dólares ao
+ano. O Brasil continua liderando o top 5 da região, com vendas de 32.129 milhões de dólares por
+ano em beleza. Na área de gastos per capita, o Chile lidera a tabela com um gasto anual de 182
+dólares, seguido por Uruguai e Brasil, com 170 e 153 dólares por ano, respectivamente. México,
+Colômbia, Peru, Equador e Paraguai tiveram gastos anuais per capita com beleza abaixo de 90
+dólares, ou seja, 50% a menos que o Chile.
+Atualmente, o consumidor brasileiro vem se preocupando cada vez mais com cuidados
+pessoais e como eles têm maior conexão com a saúde e o bem -estar do que com a vaidade.
+Assim, a categoria de perfumaria se tornou a maior em consumo no mercado brasileiro. Segundo
+dados da Euromonitor Internati onal, enquanto no mundo a categoria representa 11% do total de
+HPPC, no Brasil representa 23%. Isso mostra o quanto o setor faz parte da rotina de cada
+9
+brasileiro. Na F igura 2, pode -se observar a evolução do crescimento do mercado consumidor
+brasileiro para o setor de HPPC. Nos últimos 10 anos houve um crescimento médio de 8,2% e o
+setor fechou o ano de 2017 com um crescimento de 3,2%.
+Figura 2 - Evolução do Mercado Consumidor Brasileiro.
+Fonte: ABIHPEC (2017). Elaboração Própria.
+III. A INDÚSTRIA DE COSMÉTICOS
+III.1. Definição de Cosméticos
+A Indústria de Higiene Pessoal, Perfumaria e C osméticos é dividida nas seguintes
+categorias:
+ Higiene pessoal : C omposta por sabonetes, produtos para higiene oral, desodorantes,
+absorventes higiênicos, produtos par a barbear, fraldas descartáveis, talcos e produtos
+para higiene capilar;
+24,081
+28,657
+33,194 37,408
+42,228
+46,689
+54,586
+62,064
+68,406
+78,317
+88,012
+97,315 96,600 99,320 102,472
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+*Valores em R$ Milhões
+10
+ Cosméticos: Englobam produtos de coloração e tratamento de cabelos, fixadores e
+modeladores, maquiagem, protetores solares, cremes, loções para pele e depilatórios;
+ Perfumaria: Abarca perfumes e extratos, águas de colônias e produtos pós -barba. Os
+produtos, por sua vez, são divididos em quatro ca tegorias: Produtos para higiene,
+Cosméticos, Perfumes e Produtos para bebês.
+A Resolução RDC Nº 211/05, de 14 de julho de 2005, da Agência Nacional de Vigilância
+Sanitária (ANVISA), define produtos de higiene pessoal, pe rfumes e cosméticos (HPPC) como
+“Preparações constituídas por substâncias naturais ou sintéticas, de uso externo nas diversas
+partes do corpo humano, pele, sistema capilar , unhas, lábios, órgãos genitais externos, dentes e
+membranas mucosas da cavidade oral, com o objetivo exclusivo ou principal de limpá -los,
+perfumá-los, alterar sua aparência e ou corrigir odores corporais e ou protegê -los ou mantê -los
+em bom estado”.
+Além disso, os produtos são classificados quanto ao seu risco à saúde, como Risco Nível
+1 sendo p rodutos de higiene pessoal, cosméticos e perfumes que se caracterizam por possuírem
+propriedades básicas ou elementares, cuja comprovação não seja inicialmente necessária e não
+requeiram informações detalhadas quanto ao seu modo de usar e suas restrições de uso, por causa
+das características intrínsecas do produto. Constam nesse nível produtos tais como sabões,
+shampoos, cremes de barbear, loções pós -barba, escovas dentais, fios dentais, pós, cremes de
+beleza, loções de beleza, óleos, maquiagens , batom, pr odutos para os olhos e perfumes e Risco
+Nível 2 sendo p rodutos de higiene pessoal, cosméticos e perfumes que possuem indicações
+específicas, cujas característica s exigem comprovação de segurança e/ou eficácia, bem como
+informações e cuidados, modo e restrições de uso. Nesse nível se encontram produtos que
+apresentam risco potencial, tais como shampoos anticaspa, cremes dentais anticárie e antiplaca,
+desodorantes í ntimos femininos, desodorantes de axilas, esfoliantes químicos para a pele,
+protetores para os lábios com proteção solar, certos produtos para a área dos olhos, filtros UV,
+loções bronzeadoras, tinturas para cabelos, descolorantes, clareadores, produtos pa ra ondulação
+permanente, produtos para crescimento de cabelos, depiladores, removedores de cutícula,
+removedores químicos de manchas de nicotina, endurecedores de unhas e repelentes de insetos
+(ANVISA, 2005).
+11
+III.2. Características da Indústria de Cosméticos
+Como mencionado anteriormente, a indústria de cosméticos nem sempre teve como
+preocupação a que stão ambiental no seu processo de pr odução e na escolha dos insumos.
+Durante anos, a indústria de cosméticos foi responsável por criar resíduos de compostos
+químicos altamente poluentes, microplásticos, excesso de embalagens, além de contribuir com a
+extração de matéri a prima de maneira não sustentável e com isso, vem enfrentando desafios
+grandes no redirecionamento para um modo de ser e produzir de maneira mais sustentável. A
+tendência do consumidor atual na busca de um estilo de vid a mais sustentável e consciente
+demanda que a indústria de cosméticos aprimore seus processos de produção, a qualidade dos
+insumos utilizados e que novas estratégias sejam elaboradas para atender este consumidor mais
+exigente.
+Sendo assim, os ingredientes usados na indústria cosmética devem ser os primeiros a
+serem repensados. De forma geral, os principais poluentes que causam impacto ao meio
+ambiente nesta categoria são filtros solares, parabenos e outros conservantes, microplásticos,
+corantes, neutralizantes, polímeros sintéticos e algumas ceras. Muitos desses ingredientes estão
+sendo proibidos em alguns países, forçando a indústria a bu scar alternativas para as suas
+formulações.
+O papel de alguns ingredientes cosméticos na poluição ambiental é bem conhecido, como
+o dos surfactantes. Como resultado de sua presença em uma ampla gama de produtos para
+higiene pessoal, como sabonetes líquidos e shampoos, grandes quantidades de surfactantes são
+despejados diariamente em ambientes aquáticos e terrestres, com riscos ecológicos e efeitos
+tóxicos amplamente reconhecidos. sobre espécies vegetais e animais e sobre a saúde humana
+(JULIANO e MAGRINI, 2017).
+Esses ingredientes, que são considerados poluentes emergentes, são despejados em
+ambientes aquáticos e terrestres e se tornaram uma grande preocupação, pois seu impacto
+ecológico e ambiental está associado às grandes quantidades utilizadas diariamen te e ao fato de
+que em alguns casos, eles são ambie ntalmente persistentes, bioativos e capazes de bioacumular.
+Além disso, as estações de tratamento de esgoto nem sempre são eficazes na remoção de
+produtos químicos usados como ingredientes cosméticos, como acontece com os musks
+sintéticos, que são os componentes utilizados para garanti r aderência das fragrâncias nos
+12
+perfumes, com alguns filtros solares e com os microplásticos. Outra preocupação é que alguns
+desses produtos podem se acumular no lodo de esgoto durante o tratamento de águas residuais e
+depois esse lodo ser utilizados como fertilizante nas lavouras.
+Os cosméticos representam os problemas ecológicos mais urgentes em comparação
+com os produtos farmacêuticos porque são usados em quantidades muito maiores e sendo
+destinados à aplicação externa, não são submetidos à transforma ção metabólica, portanto, elas
+são introduzidas inalteradas no ambiente em grandes quantidades durante lavagens ou banhos.
+Como ainda pouco se sabe sobre o destino e a toxicidade dos produtos de higiene pessoal
+liberados no meio ambiente, cada vez mais atenção está sendo dada à sua ocorrência, persistência
+e potencial ameaça aos ecossistemas e à saúde humana (JULIANO e MAGRINI, 2017).
+Outro grande ofensor da indústria de cosméticos é o resíduo da produção. Existem
+alguns poluentes comuns deste tipo de pro dução que normalmente estão presentes nesses
+efluentes residuais, como os óleos e graxas, que dificultam o tratamento biológico do efluente e o
+tratamento da água, impedindo a transferência do O2 da atmosfera para o meio hídrico causando
+problemas para a vida aquática; os sulfetos, gerados no processo de tinturas, é um componente
+tóxico, além de possuir um odor desagradável; os rejeitos amoniacais, que também são tóxicos e
+necessitam de neutralização antes do despejo, pois em certas concentrações pode caus ar
+eutrofização no corpo d’água; os tensoativos, que não são biodegradáveis, mas são lipossolúveis
+e com isso agem como um agente bactericida, prejudicando assim os processos bio lógicos do
+ecossistema aquático e por fim, os f osfatos e polifosfato, que estão presentes nos detergentes e
+limpadores, e ao ser em despejado no corpo d’água em grandes concentrações pode causar a
+eutrofização. A Figura 3 apresenta um esquema geral para o tratamento dos efluentes industriais.
+13
+Figura 3 - Esquema Geral de Tratamento de Efluentes Industriais.
+Fonte: Guia Técnico Ambiental da Indústria de Higiene Pessoal, Perfumaria e Cosméticos, ABIHPEC (2012).
+Outra característica da indústria de cosméticos é o grande consumo de água. A água é
+considerada, em termos de quantidade, como uma das principais matérias -primas na fabricação
+dos produtos, pois além da incorporação em muitos produtos, ela também é utilizada em sistemas
+de resfriamento e na geração de vapor, bem como em procedimentos de limpeza e sanitização de
+máquinas, equipamentos, tubulações de transferência e mangueiras. O uso de recursos hídricos
+subterrâneos tem sido a alternativa mais atraente para a indústria. No entanto, a exploração
+desregrada tem levado à crescente degradação das reservas, apontando para a urgência do
+desenvolvimento de uma política de exploração racional desses recur sos. A diminuição do nível
+dos aq uíferos subterrâneos, pela perfuração exagerada ou exploração excessiva de poços já
+existentes, gradativamente le vam a um aumento dos custos de bombeamento, diminuição do
+rendimento da operação, afundamento de terrenos e, em casos extremos, à exaustão dos
+aqüíferos. É necessário conscientizar os usuários quanto a formas de minimizar o consumo de
+água não apenas na planta produtiva, mas também nas práticas cotidianas de cada indivíduo.
+Além disso, a indústria também é caracterizada pela produção por batelada, uma
+produção de forma descontínua (processo pelo qual as matérias -primas adicionada s são
+convertidas em produt o fi nal), em uma determinada quantidade, num prazo de tempo
+14
+determinado, o que implica variáveis a serem controladas de uma batelada para outra. É
+utilizada, principalmente, em função da diversidade de produtos e das quantidades necessárias
+para suprir a demanda de mercado.
+Outro ponto de atenção são as emissões atmosféricas geradas, pois uma característica
+desta indústria é a produção de principalmente material particulado e VOC’s ( Volatile Organic
+Compounds), como tolueno, álcoois, acetatos de etila e n -butila. Os particulados são gerados nas
+operações de moagem ou micronização, processo de moagem ultrafina de produtos químicos e
+envase da linha de talcos, pós descolorantes e maquiagem em pó. Os VOC´s são geradas n o
+processo produtivo de produtos de limpeza, esmaltes e perfumes, durante o envase e nas
+operações de armazenamento, transferência e manuseio das matérias -primas. Sem tratamento
+podem ser um risco à saúde e ao meio ambiente.
+Em contra partida, o setor de cosméticos não é grande consumidor de energia, pois a
+maioria de suas reações ocorre à temperatura ambiente, apesar de existirem alguns produtos
+originados a partir de operações que necessitam de aquecimento. A maior parte do consumo de
+energia se dá por máquinas e equipamentos, tais quais bombas, motores e misturadores. Além
+disso, para o aquecimento é comum o uso de caldeiras alimentadas por óleo combustível e para
+esses casos é essencial um controle mais rígido da queima, pois é fundamental para minimi zar as
+emissões de monóxido de carbono, óxidos de enxofre (SOx) e material particulado para a
+atmosfera. Contudo, além do controle rígido da eficiência de queima da caldeira, é importante
+atentar para os resíduos resultantes de sua operação e manutenção, c omo borras oleosas, estopas
+sujas e incrustações da parede. Outra opção é o uso do gás natural, que é considerado mais
+adequado ambientalmente e de custo menor, porém também são necessárias medidas de controle
+das emissões. Algumas operações exigem rápido resfriamento, sendo necessário o uso de
+unidades de refrigeração de alta capacidade, que consomem muita energia elétrica.
+E por fim, o conjunto de matérias-primas e produtos auxiliares empregados pelo setor é
+extremamente variado. De forma resumida, os ma is comumentes utilizados são água,
+detergentes, emulsificantes, ésteres de ácidos graxos, polímeros (PEG), sais quaternários de
+amônio, corantes, pigmentos, solventes orgânicos, álcalis (como soda e potassa), conservantes
+(como metilparabeno, propilparaben o e formol), peróxido de hidrogênio, óleos essenciais e
+outros. Várias dessas substâncias apresentam propriedades tóxicas, irritantes ou corrosivas, o que
+torna imprenscindível o conhecimento de seus efeitos colaterais sobre a saúde humana e o meio
+15
+ambiente, assim como sobre os procedimentos emergenciais em caso de derramamentos
+acidentais, contaminações ou intoxicações e assim, vale ressatar a importância do uso de
+equipamentos de proteção individual (EPI’s) e coletiva (EPC’s) (ABIHPEC, 2012).
+A Figura 4 apresenta um fluxograma geral do setor de Higiene Pessoal, Perfumaria e
+Cosméticos, com as etapas de produção mais comuns entre os segmentos do setor e seus
+respectivos fluxos de alimentação e saída.
+16
+Figura 4 - Fluxograma Geral do Setor de HPPC.
+Fonte: Guia Técnico Ambiental da Indústria de Higiene Pessoal, Perfumaria e Cosméticos, ABIHPEC (2012).
+17
+III.3. Insumos na Indústria de Cosméticos
+O desenvolvimento do segmento de cosméticos impacta diretamente a indústria
+fornecedora de seus insumos. Os avanços da ciê ncia e da tecnologia, produzem novos
+conhecimentos sobre os efeitos dos produtos, identificando as substâncias, e assim atendendo às
+expectativas do consumidor, cada vez mais bem informado, de forma que este pode orientar o
+desenvolvimento e inovação de novos produtos.
+Os ingredientes mais comuns como base para os cosméticos são os:
+ Hidroxi-ácidos, conhecidos com o ácidos das frutas, são eles: ácido cítrico, ácido
+málico e ácido láctico. Eles melhoram a textura da pele e reduzem os sinais da
+idade através da descamação das células nas camadas mais externas;
+ Ingredientes botânicos que são considerados i ngredientes para produtos
+funcionais8, como por exemplos o extrato de chá verde e o ácido ferulíco;
+ Agentes de despigmentação, u tilizados para clareamento da pele, como a
+hidroquinona, ácido ascórbico e ácido kójico;
+ Esfoliantes, que promovem a renovação da pele pela remoção das células aderidas
+na camada externa da pele e através do uso de ácido salicílico, ácido láctico e
+ácido glicólico;
+ Hidratantes, que restauram a concentração de água da epiderme, criando uma
+camada protetora;
+ Retinóides, que são os i ngredientes mais comuns encont rados em cosméticos
+funcionais e que c onsistem em substâncias naturais e sintét icas derivadas da
+vitamina A, como por exemplo, o ácido retinóico, retinol e retinaldeído;
+ Antioxidantes que reduzem os danos causados pelos radicais livres. Os
+antioxidantes mais comuns são o ácido alfa -lipóico, ácido L -ascórbico,
+niacinamida (vitamina B3), N -acetil-glucosamina (NAG), α-tocoferol e
+ubiquinona.
+8Cosméticos funcionais são produtos que incluem em sua formulação ingredientes ativos, criando uma conexão
+entre indústria de cosméticos e a indústria farmacêutica.
+18
+A indústria de insumos químicos para cosméticos pode ser classificada em quatro grandes
+segmentos: C ommodities, Semi -Commodities, Ingredientes Funcionais e Ingredientes Ativos,
+representados na Figura 5 . Existem empresas que possuem ampla cobertura, atuando em todos
+estes quatro segmentos, como por exemplo a BASF. Além disso, existem aquelas que
+tipicamente produzem e fornecem às empresas de cosméticos os insumos químicos de volume
+elevado que compõem as formulações, como é o caso da Stepan. No Brasil, a principal empresa
+desse segmento do mercado de insumos é a Oxiteno, uma empresa química vincul ada ao Grupo
+Ultra. Existem também na indústria de insumos químicos para cosméticos empresas que podem
+ser consideradas especializadas, pois produzem e vendem produtos que são ditos especialidades,
+no sentido de possuírem propriedades bem precisas, atuação funcional, constituindo a base das
+reivindicações técnicas e da inserção mercadológica do produto cosmético final. Se destacam
+nesse segmento as empresas Croda e a Givaudan (ABDI, 2015).
+Figura 5 - Segmentação da Indústria de Insumos para Cosméticos.
+Fonte: ABDI (2015).
+19
+III.4. Componentes Químicos nos Cosméticos
+Um dos maiores problemas da i ndústria de cosméticos e um dos principais motivos
+pela mudança no estilo de consumo das pessoas está relacionado com os insumos químicos que
+compõe a formulação dos produtos cosméticos e são poluentes e/ou são prejudiciais a saúde do
+consumidor de alguma forma. Os maiores ofensores estão listados a seguir:
+ Alquilamidas (Dietanolamina (DEA), Monoetanolamina (MEA),
+Trietanolamina (TEA))
+O MEA é um composto utilizado como espessante, emoliente, sobreengordurante
+e como estabilizador de espuma, favorecendo a cremosidade em preparações contendo
+tensoativos. Contudo, estudos indicam que este composto provoca ataques de asma ou
+outros problemas pulmonares e das vias respiratórias, além de riscos para a reprodução
+humana e desenvolvimento do feto.
+O TEA é utilizado para ajust ar o pH ou a viscosidade do produto. Embora
+correspondam a menor porcentagem de uma fórmula, provocam instabilidade no produto
+e podem causar alergias e irritações na pele, problemas oculares, secura do cabelo e da
+pele e pode ser tóxica quando absorvidos pelo corpo se utilizado frequentemente.
+E o DEA é um agente umectante usado na maioria das loções, cremes e em todas
+as formas de maquiagem líquidas. Este produto tem propriedades cancerígenas e também
+diminui os níveis de colina na pele e inibe o funcionamento dos neurônios.
+Estes compostos já foram inclusive proibidos por alguns governos, por serem
+considerados como tóxicos, irritante s para a pele, e quando combinados com
+conservantes que contém formaldeído e com agentes nitrosantes tornam -se cancerígenos
+e perigosos para o meio ambiente.
+ Ftalatos
+São substâncias normalmente utilizadas em esmaltes de unhas e em algumas
+fragrâncias químicas. Podem provocar irritação nos olhos, perda do cabelo e a
+ressequidão da pele causando a formação de uma e scamação branca. Além disso, podem
+causar danos ao fígado, aos rins e ao pulmão. Essas substâncias estão classificados como
+20
+potenciais causadoras de câncer e por isso, a União Européia restringiu o seu uso.
+ Microesferas de Plástico
+As microesferas são usad as como esfoliantes que atuam como agentes da
+renovação celular do tecido cutâneo através da fricção mecânica das microesferas contra
+a pele. São usados em cremes corporais e esfoliantes faciais, cremes dentais, sabonetes
+líquidos e em barra. São feitas pr incipalmente de polietileno (PE), mas também podem
+ser feitas de polipropileno (PP), polietileno tereftalato (PET), polimetilmetacrilato
+(PMMA) e nylon. São substâncias usadas em lavagens e banhos, dessa forma, não sendo
+biodegradáveis, são ofensores para organismos aquáticos.
+ Musk Xileno
+É usado como fixador de perfumes em substituição ao fixador natural. O
+fixador natural é feito do almíscar de madeiras ou sementes, contudo, o mais comum é o
+extraído da glândula de cervos. É uma matéria prima muito utilizada na perfumaria, pois
+prolonga a permanência das essências no perfume. Atualmente foi substituído pelo
+almíscar sintético, o musk xileno, mas seu uso ainda é controverso devido à toxicidade. A
+União Européia baniu o musk xileno , pois foi revelado como tóxico para organismos
+aquáticos.
+ Parabenos (Metil, Etil e Propilparabeno)
+São usados como inibidores de crescimento microbiano e dessa forma, prolongam
+a data de validade dos produtos, além de serem componentes de custo bem baixo. Alguns
+estudos encontraram parabenos em tecido canceroso mamário, além disso, podem causar
+reações alérgicas e irritações cutâneas.
+ Óleos de Petróleo (Vaselina, Petrolatum, Parafina líquida, Óleo mineral)
+Esses ól eos são utilizados pela sua ação emoliente. São encontrados em
+maquiagem e em óleos para o corpo. Contudo, eles criam uma barreira na superfície da
+pele que bloqueia os poros, o que acaba não deixando a pele respirar, e com isso,
+aceleram o processo de env elhecimento da pele ao encorajar a geração de radicais livres.
+21
+Na União Européia o uso de Petrolatum é muito restritivo, pois é potencialmente um
+risco à saúde e tóxico para o meio ambiente.
+ PVP / VA Copolímero
+É um produto químico derivado do petróleo e normalmente encontrado em sprays.
+É considerado tóxico, pois suas partículas podem penetram nos pulmões e causar danos.
+ Lauril Sulfato de Sódio
+Os sulfatos em geral são utilizados na fabricação de shampoo e sabonetes para
+garantir a formação de espumas destes produtos. Podem provocar irritação nos olhos,
+dermatites, queda de cabelo e descamações semelhante à caspa.
+ Timerosal
+É a forma do mercúr io usado em produtos de maquiagem. Segundo estudos, tem
+um alto risco de desencadear alergias nos olhos e nas pálpebras, pois o mercúrio é uma
+substância altamente tóxica para os seres vivos.
+ Triclosano
+É um agente antisséptico eficaz contra bactérias e fungos, normalmente
+encontrado em sabonetes, loções e cremes dentais. Essa substância é altamente tóxica,
+além de estar ligada a problemas como câncer e alterações da glândula tireóide.
+ Uréia imidazolidinil e Uréia Diazolidinil
+São os conservantes mais usados, depois dos parabenos, e presentes em
+cosméticos antienvelhecimento. Quando em contato com a pele promovem a formação de
+formaldeído, o que o torna potencialmente tóxico, e consequentemente, pode causar
+infecções na pele, inflamação e vermelhidão.
+22
+III.5. Regulação Internacional
+O orgão regulatório dos Estados Unidos responsável pela indústria de cosméticos é a
+Food and Drug Administration (FDA). Para este órgão, o crescimento dos produtos funcionais,
+aqueles que criam uma conexão entre indústria de cosméticos e a indústria farmacêutica, na área
+de cuidados pessoais , traz importantes preocupações acerca da sua segurança e eficácia, o que
+acaba por constituir um enorme desafio para órgão regulatório, pois a instituição não reconhece a
+existência desta categoria de produtos no seu Federal Food, Drug, and Cosmetic Act (FD&C
+Act). Para esta instituição, ou um produto é um cosmético ou um fármaco e o que diferem esses
+dois produtos é a intenção de uso conforme discriminada pelo produtor, entretanto, esta
+diferenciação nem sempre é trivial. Como por exemplo, um determinado shampoo pode ser
+considerado cosmético porque se destina à limpeza dos cabelos, mas pode também ser
+considerado como tratamento anticaspa e, neste caso, ser classificado como fármaco . Outros
+produtos que se enquadram nesta situação são os cremes dentais que contém flúor, desodorantes
+que são antitranspirantes e maquiagens e hidratantes que também protegem contra a radiação
+solar (SEBRAE, 2018).
+Outra instituição estadunidense cuja atu ação também atinge os cosméticos funcionais é a
+Federal Trade Commission (FTC). Esta instituição atua na prevenção de práticas de negócios
+fraudulentas, que visem enganar o consumidor. Um exemplo de caso recente envolvendo
+cosméticos funcionais foi a proibição de produtos que estimulassem a produção de Hormônio do
+Crescimento Humano com a finalidade de retardar o envelhecimento da pele.
+Contudo, n a União Européia, a produção e o desenvolvimento de produtos cosméticos
+são regulamentados pela Cosmetics Directive - Regulation (EC) Nº 1223/2009. No entanto, por
+mais clara que a definição legal seja, ela não é capaz de dar conta do alto dinamismo de uma
+indústria na qual o lançamento de novos produtos, muitas vezes baseado em avanços científicos,
+é um elemento de competitividade relevante. De modo geral, a definição se um produto é ou nã o
+um cosmético se dá pela análise de cada caso. Assim, de modo a auxiliar essa tomada de decisão,
+a Comissão Européia desenvolveu o Manual On The Scope Of Application Of The Cosmet ics
+Regulation, que busca definir de forma mais precisa as fronteiras ent re produtos cosméticos e
+outros produtos. Segundo o manual, o restauro, a correção e a modificação de funções
+fisiológicas são, a princípio, funções de fármacos. No entanto, se estas alterações forem mínimas,
+23
+o produto pode ser considerado um cosmético. Apenas conter princípios ativos utilizados pela
+indústria farmacêutica não significa que determina do produto seja um medicamento, sendo
+necessário considerar características como absorç ão, concentração, rota de administração,
+frequência de aplicação, local de aplicação e grau de penetração.
+Na China, o órgão regulatório para o setor de cosméticos é o China Food and Drug
+Administration (CFDA) e tem um posicionamento forte em relação aos testes dos produtos, dessa
+forma, por lei, a China ainda exige que todos os cosméticos fabricados no país passem por testes
+em animais antes de serem comercializados . Entretanto, de acordo com a Associação Bras ileira
+de Cosmet ologia, esse tipo de regula ção vem sendo flexibilizad a e a CFDA concordou em
+permitir a entrada de cosméticos específicos de primeira importação para através de um processo
+simplificado de gerenciamento que substituirá o sistema de registro existente. O governo
+aprovou nove métodos que não envolvem testes em animais, e que deverão entrar em vigor até o
+final de 2020. Assim, as empresas que não seguirem a nova regulamentação serão multadas. O
+Instituto de Ciências In Vitro (IIVS) trabalhou em parceria com a Associação Nacional de
+Produtos Médicos da China (NMPA) para conseguir a mudança.
+III.5.1. Diretrizes Ambientais Internacionais
+De acordo com o IPEA, um marco regulatório é um conjunto de normas, leis e diretrizes
+que regulam o funcionamento dos setores9. Assim, têm se tornado cada vez mais necessário uma
+legislação ambiental mais severa para previnir danos ao meio ambiente e às pessoas. Com isso, a
+indústria deve se conformar às novas exigências, podendo inclusive ir além de forma proativa, de
+modo a atender a evolução do mercado consumidor.
+Historicamente essas transições exigiram muitas décadas, porém não há tempo suficiente
+para permitir que isso aconteça atualmente, dada a magnitude dos desafios sendo enfrentados
+pela sociedade. Portanto, o poder público deve examinar maneiras de acelerar a transição. Muitos
+países vêm lutando para criar formas sustentáveis e comercialmente viáveis nas suas cadeias de
+valor. Faz-se necessária uma análise mais profunda no papel que as políticas públicas 10 devem
+desempenhar para incentivar essas ações, porém e ssa se torna complicada ao se tratar de
+9IPEA < http://desafios.ipea.gov.br/index.php?option=com_content&view=article&id=2093:catid=28&Itemid=23>
+Acesso em 16/01/2020.
+10Políticas Públicas são ações e programas desenvolvimentos pelo governo para garantir o que foi previsto nas leis.
+24
+economias tão diferentes, com fatores regionais diversos, disponibilidade de matérias primas,
+tipos de produtos, tipos de resíduos, coletas de lixo e infraestrutura.
+Um estudo sobre Inovações na Bioeconomia realizado pela OCDE (2019) se aprofundou
+em estudos de casos de diferentes países para analisar as políticas públicas relacionadas ao
+desenvolvimento sustentável. Algumas observações importantes podem ser concluídas do
+trabalho:
+ A Bioeconomia é uma oportunidade pa ra criar empregos e riqueza em setores
+industriais, como vem sendo observado na Bélgica, Canadá, França, Itália e
+Estados Unidos.
+ A ação e coordenação do governo através de agências relevantes são
+extremamente importantes e essenciais para o gerenciamento da transição do
+modelo, assim como instrumentos e ações mais direcionadas.
+ A consistência política por longos períodos de tempo é essencial para resultados
+à longo prazo e isto é observado na Noruega e Suécia.
+ As parcerias público-privadas são poderosas e trazem benefícios para ambas as
+partes interessadas e isto vem ocorrendo na Noruega e Estados Unidos, por
+exemplo.
+ É possível e importante valorizar o mercado doméstico para construir o modelo
+de negócios de manufatura distribuída11. Países como Itália, Noruega, Finlândia,
+França, Japão, Suécia e Estados Unidos vêm aplicando este modelo com
+sucesso.
+ A valorização de resíduos de produção e reaproveitamento em outras indústrias
+está no centro do conceito de Bioeconomia Circular e vêm sendo aplicada em
+larga escala na China.
+ Vincular a Bioeconomia Circular à sustentabilidade e proteção da
+biodiversidade vêm trazendo bons resultados para Bélgica, Japão, Suécia e
+Estados Unidos, por exemplo, garantindo uma maior visibilidade política.
+11Forma de manufatura desc entralizada praticada por empresas que utilizam uma rede de instalações de produção
+geograficamente dispersas que são coordenadas usando a tecnologia da informação.
+25
+ A análise do ciclo de vid a deve indicar se as vantagens de redução de emissões
+não são anuladas pela utilização de insumos energéticos, como combustíveis
+fósseis, por exemplo.
+ As necessidades de educação e treinamento da população sugerem a
+necessidade de adaptações radicais em to dos os níveis educacionais e vêm
+surtindo efeito na Bélgica, Canadá, França e Itália.
+Analisando a Europa em geral, é possível observar que a preocupação com a questão
+ambiental tem aumentando nas últimas décadas devido uma regulamentação ambiental mais
+rigorosa, a melhoria da eficiência energética, a tendência generalizada da indústria europeia para
+abandonar determinados tipos de produção pesados e mais poluentes e a participação das
+empresas em programas voluntários destinados a reduzir o seu imp acto ambiental. Apesar destes
+progressos, a indústria continua a ter um peso considerável, tanto em termos de poluição como
+de resíduos gerados no ambiente, pois as maiores indústrias europeias são responsáveis por uma
+parte significativa das emissões totais de importantes poluentes atmosféricos e gases estufa, além
+da liberação de poluentes na água e nos solos, produção de resíduos e excessivo consumo de
+energia (AGÊNCIA EUROPEIA DO AMBIENTE, 2019).
+Para acompanhar as medidas adotadas para reversão deste cenário, atualmente existem
+políticas públicas aplicadas a toda União Europeia para limitar a poluição industrial, tais quais:
+ Diretiva relativa às emissões industriais (DEI)
+ Diretiva relativa às médias instalações de combustão
+ Diretiva relativa à concessão ecológica
+ Regime de Comércio de Licenças de Emissão da União Europeia
+ Diretiva-Quadro da Água
+ Diretiva relativa ao tratamento de águas residuais urbanas
+De acordo com a Agência Europeia do Ambiente (AEA), f oram igualmente introduzidos
+critérios de sustentabilidade destinados a reduzir o impacto da indústria no ambiente. A adoção
+de práticas de gestão ambiental, através do Sistema Comunitário de Ecogestão e Auditoria
+26
+(EMAS) e da norma ISO 14001, constitui um exemplo das iniciativas do setor industrial. Além
+desses, também existem iniciativas voluntárias no âmbito da responsabilidade social das
+empresas (RSE) tendo em vista a determinação de objetivos sociai s e ambientais que vão além
+dos requisitos legais. Entre elas, encontram -se a iniciativa Responsible Care da indústria
+química, a iniciativa Global e-Sustainability (GeSI), a política do Conselho de Administração do
+Conselho Internacional de Mineração e Me tais e a rede empresarial RSE Europa. Ao nível das
+políticas da UE, a Comissão adotou uma estratégia em matéria de responsabilidade social das
+empresas e, no p lano internacional, a norma ISO 26000 relativa à responsabilidade social que
+incluiu orientações sobre o modo como as empresas e as organizações podem agir de forma
+socialmente responsável.
+Já para os Estados Unidos, essas políticas públicas sobre sustentabilidade e meio
+ambiente não são tão rigorosas e inclusive algumas vêm se ndo revogad as nos últimos anos,
+principalmente as que impunham restrições ao uso de combustíveis fósseis como fontes
+energéticas. Dessa forma, o discurso da política norte americana vem sendo pautado apenas na
+economia. Além disso , os Estados Unidos deixaram o Acordo de Paris sobre mudanças
+climáticas, pois foi alegado que as ações voltadas para a contenção do aqu ecimento global
+prejudicavam a economia . Contudo, por ser a maior economia do mundo, sua influência nos
+modelos de produção industriais mundiais é de enorme relevância, assim como o seu impacto no
+meio ambiente.
+Na China, a economia circular faz parte da Lei de Promoção da Produção Limpa,
+promulgada em 2002. Medidas como a rotulagem ecológica de produtos, difusão de informações
+sobre questões ambientais na mídia e cursos oferecidos pelas instituições de ensino são
+importantes para familiarizar a sociedade com a Economia Circular.
+Ao comparar as políticas públicas na Euro pa e na China, as duas maiores potências na
+aplicação do modelo circular, é observado que a pesar desse conceito ter origem na Europa, a
+China apresentou alguns avanços, ao considerar o modelo circular na pauta go vernamental em
+2002 e implementá-lo com a Lei de Promoção da Economia Circular em 2009. Enquanto isso, o
+plano de ação europeu denominado “Closing the Loop - An Action Plan for the Circular
+Economy” só ocorreu em 2015. Além disso, apesar de muitos objetivos em comum entre ambas
+as regiões, particularmente em torno dos recursos, o foco da elaboração de políticas pela China
+reflete uma preocupação maior com a produção industrial, água, poluição e coloca maior atenção
+27
+à escala . Assim , a política do país com foco neste modelo é enquadrada como parte de uma
+resposta mais ampla aos desafios ambientais criados pelo rápido crescimento e industrialização
+(NEITEC, 2019).
+III.6. Regulação Nacional
+No Brasil, a regulação de produtos cosméticos é papel da Agência Nacional de Vigilância
+Sanitária (ANVISA), amparada pela RDC Nº 211/05. Como mencionado antes, o s produtos
+cosméticos são classificados em duas classes, os Produtos de Grau 1, que são produtos que se
+caracterizam por possuírem propriedades básicas ou elementares, cuja comprovação não seja
+inicialmente necessária e não requeiram informações detalhadas quanto ao seu modo de usar e
+suas restrições de uso, devido às suas características intrínsecas e os Produtos de Grau 2, que são
+produtos que possuem indicações específicas, cujas características exigem comprovação de
+segurança e/ou eficácia, bem como informações e cuidados, modo e restrições de uso. Produtos
+funcionais são classificados como de Grau 2, necessitando de registro prévio, diferentemente dos
+de grau 1.
+Entretanto, não há ainda no país uma diretriz clara sobre como devem ser classificados
+produtos que se situem na fronteira entre a cosmetologia e a indústria farmacêutica, por exemplo.
+A definição ocorre c aso a caso, mas se m diretrizes gerais, como na Comunidade Europeia e
+Estadunidense. Isto se deve, em parte, ao fato de que no Brasil predomina o desenvolvimento e a
+comercialização de produtos de baixa sofisticação (cerca de 90% do total) e, portanto, de b aixo
+“conteúdo científico”. No entanto, espera -se que esta realidade seja modificada, pois s eria
+extremamente desejável que a instância regulatória se antecipasse a este fato, proporcionando
+segurança jurídica para os investimentos empresariais em um segme nto de reconhecida
+importância para o crescimento do setor de HPPC (ABDI, 2015).
+Algumas ações de política pública e iniciativas foram compartilhadas para promover o
+desenvolvimento da indústria de insumos químicos para cosméticos, como por exemplo,
+revigorar o tecido industrial existente como forma de transformação do modelo atual, que
+envolve elevado grau de dependência de importações, proveniente da decisão de importar os
+insumos e os produtos químicos que antes eram produzidos no Brasil. Além das import ações, a
+estruturação de projetos em fatores competitivos existentes na economia brasileira, mas agora
+28
+com escala regional (América do Sul), continental ou global.
+Existem propostas promissora s para esta ampliação da escala de atuação das empresas
+através do programa de apoio aos negócios da indústria de insumos para cosméticos baseados em
+biodiversidade. O programa conjunto do BNDES -Finep Inova constitui na mobilização de
+competências e recursos privados, apoiando empreendimentos dotados de potencial para criarem
+produtos brasileiros de alcance mundial partindo da biodiversidade ou associados a valores
+capazes de projetarem a indústria de insumos sobre alguns dos valores que devem servir como
+base na economia global do futuro.
+Além disso, outras propostas do programa incluem adequação do marco regulatório do
+acesso à biodiversidade brasileira ao objetivo prioritário de sua valorização, investimentos em
+pesquisas científico-tecnológicas para desenvolvimento de negócios baseados em biodiversidade
+e sustentabi lidade e valoriza ção das atividades de pesquisa e desenvolvimento para
+aproveitamento da biodiversidade e para a promoção dos centros de P&D.
+III.6.1. Diretrizes Ambientais Nacionais
+Em relação às diretrizes nacionais, o Ministério do Meio Ambiente (MMA) apresenta
+alguns programas do governo para o meio ambiente:
+ Diretiva relativa ao tratamento de águas residuais urbanas
+ Programa de Águas Doces e Subterrâneas
+ Programa de Áreas Protegidas da Amazônia (ARPA)
+ Programa de Apoio à Conservação Ambiental Bolsa Verde
+ Programa Cerrado Sustentável
+ Combate à Desertificação
+ Projeto Corredores Ecológicos
+ Programa de Educação Ambiental
+ Progaram Nacional de Florestas
+ Proteção das Florestas Tropicais
+ Revitalização de Bacias
+ Zoneamento Ecológico Econômico
+29
+Assim como o Ministério do Meio Ambiente, existem outros orgãos responsáve is pelo
+controle dessas polític as ambientais, como o Conselho Nacional do Meio Ambiente
+(CONAMA), o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+(IBAMA), as Secretarias Estaduais do Meio Ambiente e as Secretarias Municipais do Meio
+Ambiente.
+Além disso, a Política Nacional de Resíduos Sólidos (PNRS), lei implantada no Brasil em
+2010, que visa garantir a responsabilidade compartilhada pelo ciclo de vida dos produtos, a
+operação reversa e o acordo setorial. Assim, todos os agentes do ciclo produtivo, os
+consumidores e os serviços públicos devem minimizar o volume de resíduos sólidos e adotar
+práticas que assegurem que os produtos sejam reintegrados ao ciclo produtivo (ELLEN
+MACARTHUR, 2018).
+Contudo, existe uma tendência de afrouxamento legislativo que está relacionado com as
+práticas de extração de recursos e desenvolvimento industrial no Br asil. Sendo assim, há uma
+grande preocupação por parte dos ambientalistas em relação aos posicionamentos públicos sobre
+temas como o desmatamento dos biomas brasileiros, a crise sanitária na qual estão inseridas as
+cidades brasileiras e a atuação do govern o na política ambiental internacional, principalmente
+sobre as mudanças climáticas. Fica mais evidente ainda a gravidade da situação brasileira com
+recentes casos de desastres ambientais como rompimentos de barragens na atividade de
+mineração em Mariana (MG) e Brumadinho (MG) e as queimadas na Amazônia.
+Dessa forma , o ideal é que o go verno brasileiro atue mais próximo dos países
+europeus para delinear sua política ambiental do que dos Estados Unidos, pois este tem adotado
+ações de flexibilização das políticas ambientais como mencionado anteriormente. Sendo assim,
+essas alterações na legislação ambiental podem comprometer a durabilidade e a eficácia das
+áreas protegidas atualmente.
+IV. BIOECONOMIA E ECONOMIA CIRCULAR
+IV.1. Definição
+A Organização para a Cooperação e Desenvolvimento E conômico (OCDE) definiu a
+Bioeconomia como “Aquela parte das atividades econômicas que capturam valor a partir de
+processos biológicos e biorrecursos para produzir saúde, crescimento e desenvolvimento
+30
+sustentável”. Segundo dados da OECD, a Bioeconomia movimenta no mercado mundial cerca de
+2 trilhões de euros e gera cerca de 22 milhões de empregos (FIESP, 2016).
+De acordo com a Comissão Européia ( 2012), a Bioeconomia engloba a produção de
+recursos biológicos renovávei s e a conversão destes em novos recursos e seus resíduos em
+produtos de valor agregado, como alimentos, rações, bioprodutos e bioenergia. Estão inclusos os
+setores de agricultura, produção florest al, pesqueira, alimentícia e papel e celulose, além de
+indústrias de biotecnologia e energia, pois esses setores tem um forte potencial de inovação
+devido a vasta utilização de ciências, possibilitando tecnologias industriais.
+Dessa forma, a Bioeconomia está evoluindo rapidamente, especialmente em as áreas de
+bioplásticos e biocompósitos. Alguns dos bioplásticos são biodegradáveis, mas muitos ainda não
+são. Além disso, a p rodução de bioplásticos em relação ao total da produção de plásticos ainda é
+baixa, atualmente abaixo de 1%. A projeção de 2019 é que menos de 20% dos bioplásticos
+produzidos serão biodegradáveis (SCHOENMAKERE et al, 2018).
+Em relação a Economia Circular, para a Fundação Ellen MacArthur , uma organização
+sem fins lucrativos voltada para o estudo e disseminação do conceito da Economia Circular, é
+necessário o lhar para além do atual modelo industrial extrativista take-to-waste (extrair para
+descartar). Assim, uma Economia C ircular visa uma proposta de mudança no crescimento,
+concentrando-se em benefícios p ositivos para toda a sociedade, de forma a g radualmente
+dissociar a atividade econômica do consumo de recursos finitos e pr ojetar resíduos fora do
+sistema, apoiado por uma transição para fontes de energia renováveis, o modelo circular constrói
+capital econômico, natural e social.
+A transição para uma Economia Circular não significa apenas ajustes destinados a reduzir
+os impactos negativos da economia linear. Pelo contrário, representa uma mudança sistêmica que
+cria resiliência de longo prazo, gera oportunidades comerciais e econômicas e proporciona
+benefícios ambientais e sociais (ELLEN MACARTHUR, 2013).
+A Comissão Europeia propõe que na Economia Circular, o valor dos produtos e materias
+sejam mantidos na economia o quanto for possível e a geração de resíduos minimizada. O foco é
+dado na eficiência do uso dos recursos, econômicos e ecológicos, e não apenas nos resíduos
+(CARUS e DAMMER, 2017).
+O modelo proposto pela Fundação Ellen MacArthur faz a diferenciação entre os ciclos
+biológicos e técnicos, como pode ser exemplificado na Figura 6. O que difere um do outro é que
+31
+o consumo acontece apenas em ciclos biológicos, onde os alimentos e os materiais de base
+biológica, são projetados para retornar ao sistema por meio de processos como compostagem e
+digestão anaeróbica. Esses ciclos regeneram os sistemas vivos, como o solo, que fornecem
+recursos renováveis para a economia. Já o s ciclos técnicos recuperam e restauram prod utos,
+componentes e materiais por meio de estratégias como reutilização, repa ro, remanufatura e
+reciclagem.
+Figura 6 - Ciclo Biológico e Técnico da Economia Circular.
+Fonte: Ellen MacArthur Foundation (2013).
+Como uma forma de classificar os estudos de caso relacionados com a economia circular,
+a Fundação Ellen MacArthur criou 4 tipos de Building Blocks que são definidos como Design
+Circular, Novos Modelos de Negócios, Ciclo Reverso e Fatores Viabilizadores e Condições
+Sistêmicas Favoráveis (FVCSF). O Design Circular é relacionado às mudanças nos componentes
+dos materiais selecionados ou no desenho do produto de modo que ele possa ser remanufaturado,
+reutilizado ou reciclado , o s Novos Modelos de Negócios tratam de inovações em negócios de
+32
+modo que a companhia se torne circular, o Ciclo Reverso trata das ações na cadeia produtiva que
+acarreta no reuso, remanufatura, reparo ou reciclagem e por fim, os Fatores Viabilizadores e
+Condições Sistêmicas Favoráveis estão a ssociados com projetos colaborativos de modo geral e
+viabilizados pela gestão pública, que podem envolver instituições educacionais, governos e
+organizações.
+A Bioec onomia e a Economia Circular podem ser consideradas direcionamentos
+estratégicos complementares, pois apesar de compartilharem algumas de suas metas, como um
+mundo mais sustentável e eficiente em recursos com um baixo uso de carbono, também
+apresentam visões complementares, que ao serem aplicadas de forma conjunta, tornam as ações
+mais efetivas. Um exemplo é que tanto a E conomia Circular como a B ioeconomia evitam o uso
+de carbono fóssil adicional de forma a contribuir com os objetivos climáticos. Assim, a
+Economia Circular fortalece a eficiência dos recursos de processos e uso de materiais recicl ados
+para reduzir o uso de carbono fóssil adicional (incorporado no material ou emitido duran te os
+processos de fabricação e/ou extração). J á a Bioeconomia substitui o carbono fóssil por carbono
+renovável da biomassa de agricultura, silvicultura e ambiente marinho. Estas são abordagens
+diferentes, mas complementares.
+O conceito de B ioeconomia se concentra em mais do que o fluxo de biomassa em si,
+existem a spectos importantes da Bioeconomia que estão estruturalmente fora do conceito da
+Economia Circular, que tem como foco "manter o valor dos produtos, materiais e recursos na
+economia o tanto quanto possível” e aumentar a ecoeficiência dos proce ssos. Dessa forma, A
+“Bioeconomia Circular” é definida como a interseção de Bioeconomia e Economia Circular, pois
+listam tópicos em comum (SCHOENMAKERE et al, 2018).
+IV.2. Políticas Públicas de Bioeconomia e Economia Circular
+A União Europeia é a principal pa rceira de estudo e de criação de política s para a
+Economia Circular. Por exemplo, é um dos principais blocos econômicos a realizar progressos
+significativos no c ombate às alterações climáticas, principalmente através da dimi nuição das
+emissões de carbono, pois é entendido que a Economia Circular é uma realidade e uma
+necessidade, sendo fundamental desenvolver conhecimento, monitorar o progresso e garantir que
+33
+os responsáveis políticos dispõem dos dados e da informação de que necessitam para orientar o
+desenvolvimento de políticas de apoio flexíveis.
+Um estudo feito pela European Environment Agency ( 2017), demonstrou que a redução
+das emissões não é prejudicial para o crescimento da economia. Desde 1990, o produto interno
+bruto da União Européia cresceu 50%, ao passo que os gases com efeito de estufa registaram
+uma diminuição de 24%. Isso ocorreu devido um número cada vez maior de pessoas dispostas a
+desempenhar um papel ativo através da partilha de automóveis, da redução do con sumo de
+energia ou da reciclagem e separação do lixo doméstico. Contudo, apesar de esses serem passos
+positivos, estas medidas não serão suficientes para garantir um futuro com baixas e missões de
+carbono.
+Como a necessidade de políticas a nível global foi sendo cria da, a Organização das
+Nações Unidas ( ONU) definiu os chamados Objetivos de Desenvolvimento Sustentável (ODS) ,
+apresentados na Figura 7. Estes objetivos são metas que devem pautar as ações para os próximos
+15 anos em áreas de importância crucial para a humanidade e para o planeta. Para que isto seja
+possível, foi criada a Agenda 2030 em 2015, onde líderes mundiais reuniram-se na sede da ONU
+em Nova York e decidiram um plano de ação qual con tém o conjunto de 17 Objetivos de
+Desenvolvimento Sustentável (ODS) para erradicar a pobreza, proteger o planeta e garantir que
+as pessoas alcancem a paz e a prosperidade através de um desenvolvimento sustentável até 2030.
+Figura 7 - Objetivos de Desenvolvimento Sustentável (2015).
+Fonte: ONU (2015).
+A Agenda 20 30 e os ODS afirmam que para colocar o mu ndo em um caminho
+sustentável é necessário tomar med idas ousadas e transformadoras de forma urgente . Os ODS
+constituem uma ambiciosa lista de tarefas para todas as pessoas a serem cumpridas até 2030. Se
+estas metas forem cumpridas, a porposta é de que podemos ser a primeira geração a erra dicar a
+pobreza extrema e assim poupar as gerações futuras dos efeitos adversos da s mudanças
+34
+climáticas. Contudo, é evidente o desafio a ser enfrentado para garantir a execução com
+eficiência dessas metas e assim obter o resultado final esperado.
+A nova Agenda é guiada pelos propósitos e princípios da Carta das Nações Unidas,
+incluindo o pleno respeito pelo dir eito internacional. Fundamenta -se na Declaração Universal
+dos Direitos Humanos, tratados internacionais de direitos humanos, a Declaração do Milênio e os
+resultados da Cúpula Mundial de 2005. Ela é informada por outros instrumentos, tais como a
+Declaração sobre o Direito ao Desenvolvimento.
+IV.2.1. Políticas Públicas de Bioeconomia e Economia Circular Nacionais
+Tendo em vista a ampla gama de assuntos tratados nas negociações dos ODS, é do
+interesse do Brasil seguir aprimorando as discussões no âmbito do esforço coletivo empreendido
+pela coordenação brasileira. Para isso, o Grupo de Trabalho Interministerial (GTI) sobre a
+Agenda para o Desenvolvimento Pós -2015 foi oficialmente lançado em cerimônia realizada no
+dia 31 de março de 2014. O GTI está integrado por representantes de instituições diversas,
+ministérios e órgãos do Governo12.
+A Agenda Pós-2015 corresponde a todo o conjunto de progr amas, ações e diretrizes que
+estão orientando os trabalhos das Nações Unid as e de seus países -membros em direção ao
+desenvolvimento sustentável visando a Agenda 2030. Construída sobre a experiência
+internacional com os Objetivos de Desenvolvimento do Milênio (ODM), cuja vigência se
+encerrou em 2015, a nova Agenda de Desenvolvime nto tem como desafio estruturar, de forma
+simultânea e equilibrada, os esforços globais em prol da erradicação da pobreza e da integração
+efetiva das dimensões econômica, social e ambiental do desenvolvimento sustentável.
+Diferentemente dos ODM, que propun ham metas set oriais, a Agenda Pós -2015 conta com uma
+perspectiva abrangente e universal, com compromissos que se aplicam tanto a países em
+desenvolvimento quanto aos desenvolvidos.
+Além disso, o incentivo as indústrias de biotecnologia influencia positivi amente para que
+algumas políticas sejam cumpridas. Dessa forma, o Centro Brasileiro d e Análise e Planejamento
+(CEBRAP), em parceria com a Associação Brasileira de Biotecnologia (BrBiotec), com
+financiamento do Parque Tecnológico do Rio de Janeiro (Fundação BIO-RIO) e da Agência
+12Instituições colaboradoras disponíveis em <https://odsbrasil.gov.br/>. Acesso em 10/11/2019.
+35
+Brasileira de Promoção de Investimentos (Apex -Brasil), realizou uma pesquisa com o objetivo
+de identificar as empresas que têm a biotecnologia como atividade principal, bem como aquelas
+empresas que desenvolvem projetos na área. A pesquisa mapeou 237 empresas e como resultado
+obteve que 63% dessas empresas foram criadas na última década e a grande maioria (80 %) são
+pequenas e microempresas, e a maio r parte destas (78%) afirmou depender de financiamento do
+governo. Outro estudo recente sobre biotecnologia para saúde no Brasil apontou a existência de
+três conjuntos de produtos nesse setor que utilizam téc nicas da biotecnologia moderna como
+vacinas preventivas e terapêuticas, substâncias terapêuticas de base biotecnológica, como
+proteínas recombinantes, anticorpos monoclonais e hemoderivados recombinantes; e reagent es e
+kits de diagnóstico (DIAS e CARVALHO, 2017).
+A biotecnologia é a principal parceira no desenvolvimento de inovações que tornam cada
+vez mais palpável as aplicações da Economia Circular no cotidiano. Com isso, a OCDE estima
+que, até 2030, a contribuição global da biotecnologia será de US$ 1 trilhão/an o, distribuído entre
+os setores de saúde (US$ 260 bilhões/ano), produção primária (US$ 380 bilhões/ano) e industrial
+(US$ 420 bilhões/ano). Além disso, esse mesmo estudo estima que 80% dos produtos
+farmacêuticos até 2030 passarão a ser desenvolvidos com o uso de biotecnologia (DIAS e
+CARVALHO, 2017).
+Contudo, para que novas medidas de ação sejam implementadas e se tenha o
+desenvolvimento de uma Bioeconomia nacional forte, é necessário que o Brasil invista em
+desenvolver competências nessa área do conhecimento, para que seja possível o aproveitamento
+completo da biodiversidade e toda a disponib ilidade de biomassa que se tem de forma
+sustentável.
+V. METODOLOGIA
+Para a classificação da metodologia aplicada à pesquisa, foi tomada como base à
+taxonomia de Gil (1991) e Vergara ( 1997). Dessa forma, a pesquisa é classificada como
+exploratória, descritiva e explicativa.
+Na revisão bibliográfica foram aprofundados os principais conceitos referentes à indústria
+de cosméticos, sua estruturação, principais proce ssos, matérias primas, práticas de mercado,
+estudos setoriais e pesquisas de mercado. Além disso, foram estudados os principais conceitos e
+aplicabilidades da Bioeconomia e da Economia Circular. A fundamentação teórica foi obtida
+36
+através de pesquisa biblio gráfica em publicações científicas como teses e dissertações, assim
+como a internet, pois essa se caracterizou como uma fonte muito rica na busca de informações
+sobre empresas e seus modelos de negócio, pois além do volume de informações disponíveis,
+possibilitou o acesso a dados mais atualizados . As palavras -chave utilizadas nas buscas por
+artigos estão dispostas na Tabela 3.
+Tabela 3 - Palavras-chave na Busca de Publicações Científicas.
+Palavras-
+Chave
+Período Scopus Science
+Direct
+Circular AND Economy AND - 2014 - 2019 3.554 12.489
+Bio AND Economy AND - 2014 – 2019 1.619 15.652
+Cosmetic AND Industry AND - 2014 – 2019 4.219 26.604
+Environment AND Cosmetic AND Industry 2014 – 2019 346 15.188
+Circular AND Economy AND Cosmetic 2014 – 2019 17
+562
+Fonte: Elaboração Própria.
+Na etapa de análise das estratégias empresariais, os critérios de comparação escolhidos
+foram as iniciativas de sustentabilidade e a quantidade de patentes que relacionam cosméticos e
+práticas sustentáveis, bem como a escolha para comparação com Estados Unidos, União
+Europeia e China foram devido às suas relevâncias econômicas no mundo e suas contribuições
+globais para a indústria de HPPC.
+Dessa forma, foi possível estruturar uma argumentação acerca das princ ipais medidas
+adotadas atualmente e realizar uma análise crítica em relação ao uso da Bioeconomia e da
+Economia Circular como ferramentas de desenvolvimento. Por fim, foi possível comparar a
+atuação dos Estados Unidos, União Europeia e China com as políticas adotadas no Brasil.
+VI. ESTRATÉGIAS EMPRESARIAIS
+De acordo com o SEBRAE (2019)13, as estratégias adotadas por uma empresa são a
+forma com esta vai alcançar seus objetivos almejados na sua Administração Estratégica, ou seja,
+é a definição de diretrizes e ações da forma como esta em presa vai operar e as metas que
+13SEBRAE, 2019. Disponível em : <https://www.sebrae.com.br/sites/PortalSebrae/artigos/o-que-sao-estrategiasempresariais,e4df6d461ed47510VgnVCM1000004c00210aRCRD>. Acesso em 23/12/2019.
+37
+pretende alcançar em determinados prazos.
+Assim, para se adequar a um novo estilo de consumo e de produção mais sustentável
+existe um forte movimento de “marcas verdes ” que vem crescendo nesse setor de cosméticos.
+Estas marcas buscam um menor impacto ambiental para se adequar à s exigências de consumo
+atuais, pois o consumidor tem demonstrado uma preferência maior por ingredientes naturais,
+embalagens biodegradáveis e produtos “ eco-friendly” (“amigos do meio ambiente”) ,
+incentivando um consumo mais sustentável e consciente.
+Entretanto, é importante que o consumidor se mantenha atento aos casos de
+greenwhasing14 (“lavagem verde”), onde algumas empresas se aproveitam da questão ambiental
+para promover um marketing falso e apelativo de que estão preocupadas com o meio ambiente,
+porém não existe comprovação de ações verdadeiras, apenas uma comunicação especulativa.
+Uma das apostas para o desenvolvime nto da indústria de cosméticos nos campos do
+conhecimento e das inovações é a biotecnologia, pois a partir de novas técnicas e aplicações, é
+possível gerar novos ingredientes, como produtos focados em perfis genéticos específicos, com
+inovações baseadas em células-tronco, de forma a desacelerar e até retroceder o envelhecimento
+dos tecidos da pele . No desenvolvimento de novos insumos para cosmétic os o uso de
+biotecnologias gera bastante interesse através do aumento da busca por produtos e processos que
+sejam ambientalmente e socialmente mais sustentáveis. Um exemplo de aplicação da
+biotecnologia é o laboratório de pele humana reconstruída inaugurado pela L’Oréal no seu centro
+de pesquisa e inovação, a Episkin, de forma a reduzir cada vez mais a necessidade de testes em
+animais no mundo.
+De acordo com o Manual de Oslo da OCDE (2005), documento que atua como diretriz
+para a coleta e interpretação de dados sobre inovação, a s empresas engajam-se em inovações em
+virtude de inúmeras razões. Seus objetivos podem envolver produtos, mercados, eficiência,
+qualidade ou capacidade de aprendizado e de implementação de mudanças. Sendo assim, o pilar
+do meio ambiente tem sido uma forte motivação para as empresas inovarem, tanto para
+contribuírem com o desenvolvimento sustentável, quanto para não perderem mercado
+consumidor.
+Assim, o Manual de Oslo defende que o desenvolvimento econômico é conduzido pela
+14Instituto Brasileiro de Defesa do Consumidor. Disponível em : < https://idec.org.br/greenwashing>. Acesso em
+23/12/2019.
+38
+inovação por meio de um processo dinâmico em que as novas tec nologias substituem as antigas.
+Com isso, para ajudar na quantificação dessas inovações, foi proposta uma lista de cinco tipos de
+inovação: Introdução de novos produtos, Introdução de novos métodos de produção, Abertura de
+novos mercados, Desenvolvimento de novas fontes provedoras de m atérias-primas e outros
+insumos e Criação de novas estruturas de mercado em uma indústria.
+Outro fator importante para a necessidade de inovar abordado pelo Manual é a demanda,
+pois esta afeta o des envolvimento de novos produtos, uma vez que as empresas modificam e
+diferenciam os produtos para aumentar suas vendas e seu market share (tamanho do mercado).
+Os fatores de demanda podem forçar as empresas a melhorar em seus processos de produção e
+abastecimento com o objetivo de reduzir custos e preços. Em muitos casos, eles são também o
+principal condutor da inovação. As empresas muitas vezes despendem recursos substanciais para
+pesquisar a demanda e podem adotar medid as de marketing para influenciar ou criar a demanda
+para seus produtos. Fatores de mercado determinam o sucesso comercial de tecnologias e
+produtos específicos e afetam a trajetória de mudança tecnológica.
+Dessa forma, é possível analisar algumas das grandes empresas do setor de cosmé ticos
+como a Avon, P&G, L’Oréal, Lush, Natura e o Grupo Boticário através de suas estratégias de
+Bioeconomia e Economia Circular adotadas para se tornarem empresas mais sustentáveis através
+da forma como estão atudando em relação a alguns pilares importantes como matérias primas
+utilizadas, resíduos de produção, emissões atmoféricas, embalagens e ações sociais.
+VI.1. Iniciativas de Sustentabilidade
+As p olíticas públicas podem ajudar a permitir a transição necessária para uma nova
+economia que utiliza menos energia, gera menos desperdício e inspira uma abordagem mais
+circular. Muitos países vê m a Bioeconomia como um caminho promissor, prevendo uma
+substituição gradual de combustíveis fósseis como fonte de matérias -primas, contudo, tanto a
+Bioeconomia quanto a Economia Circular exigem uma mudança de mentalidade e, além disso, é
+muito difícil implantar uma nova tecnologia baseada apenas em credenciais ambien tais; o
+argumento econômico também deve ser sólido. A transformação para uma Bioeconomia Circular
+exigirá uma grande transição para a sociedade, longe da dependência fóssil e rumo a uma
+39
+economia e um futuro mais sustentáveis. A ideia central da Bioeconomia está em unidades de
+produção pequenas e médias, próximas à matéria prima e em conformidade com o concei to de
+fabricação e distribuição (OCDE, 2019).
+Dentro do setor de cosméticos, há um a grande dependência da indústria de embalagens
+e d e acordo com o portal Cosmetic Innovation 15, existem sinais de uma mudança contínua na
+atuação da indústria de embalagens de um modelo linear para um mais circular. A inovação nas
+embalagens plásticas desde a concepção até a recuperação e reutilização, segu indo os princípios
+da economia circular, serve para reduzir a dependência do suprimento finito de plásticos à base
+de petróleo, otimizando o uso por meio de projetos e fontes responsáveis ou através de materiais
+alternativos renováveis para minimizar a pegada ambiental.
+Para que isso seja possível, a otimização do design pa ra um modelo mais circular ajuda
+a abordar a escassez de material, o esgotamento dos recursos naturais e o consequente impacto
+ambiental do modelo de produção atual, além de ratificar a crescente demanda dos consumidores
+por produtos e serviços de origem ética. O repensar ético e inovador do design de produtos e
+embalagens até a recuperação está na prática na indústria de plásticos e continuará aumentando
+em todos os materiais e indústrias à medida que a importância e a exigência de embalagens
+sustentáveis aumentam. Além das embalagens plásticas que acondicionam os produtos, outras
+embalagens tais quais papel celofane, papelão, papel de seda e caixas, são utilizadas para
+armazenagem e embelezamento dos produtos e são 100% descartados no primeiro uso.
+Quando analisamos a questão dos resíduos de produção, encontramos iniciativas
+relevantes, como a união de c erca de 250 das maiores empresas da atualidade , que representam
+20% de t odas as embalagens de plástico do mundo , com a Fundação Ellen MacArthur com o
+intuito de acabar com o lixo plástico. Empresas como a SC Johnson, PepsiCo, H&M, ColgatePalmolive Company, L´Oré al, Selfridges, Johnson e Johnson Consumer Inc e Unilever se
+comprometeram a eliminar o plástico quando desnecessário e, em alguns casos, mudar para
+embalagens reutilizáveis. Até 2025, eles planejam tornar todas as embalagens plásticas
+reutilizáveis, recicláveis ou compostáveis (THE INDEPENDENT, 2019).
+A Fundação Ellen MacArthur é um dos grandes agentes na difusão do conceito da
+Economia Circular no mundo e apoia a mudança das empresas para um modelo mais circular.
+15Cosmetic Innovation, 2019. Disponível em: <https://www.cosmeticinnovation.com.br/inovacao -plastica-o-futuroe-sustentavel/> Acesso em: 27/08/2019
+40
+Desta forma, outra iniciaiva foi a criação de uma rede de parceria entres diversas empresas ao
+redor do mundo para colaborarem e dividirem estratégias para alcançar esse objetivo em comum.
+Essa rede se chama Circular Economy 100 (CE100). Além da vantagem comercial, a parceria
+também cria uma rede c oletiva de solução de problemas e cria mecanismos para integrar a
+economia circular dentro de cada empresa. Alguns dos membros são a BASF, Apple, Coca Cola ,
+e em relação ao setor de cosméticos, a rede conta com a presença da P&G e da Estee Lauder16.
+Em relação ao pilar das matérias primas, foi observado que existe uma tendência mundial
+de vegetalização das matérias primas utilizada em cosméticos. Assim, alguns estados dos
+Estados Unidos, como Illinois e Califórnia, já adequaram suas legislações para a proibição do
+uso das microesferas de polietileno em produtos. Grandes empresas pretendem substituir o uso
+do polietileno até 2017. Assim, c ientistas estão pesquisando formas de tratar a enorme
+quantidade de lixo encontrada nos oceanos através da degradação do plástico por
+microorganismos e uma dessas formas é através da biorremediação (ORUÉ, 2016).
+Analisando o cenário nacional, o uso de biotecnologias é um instrumento vantajoso para
+o Brasil, pois é possível aproveitar a imensa biodiversidade existente no meio ambiente, além da
+exploração de novos processos produtivos. Um exemplo é o desenvolvimento e a produção de
+insumos químicos a partir da soja e de seus derivados. Avanços recentes em biotecnologia
+vegetal, principalmente através do uso de recombinação genética, permitiram uma alteração do
+conteúdo de li pídios desta oleaginosa, de modo a aumentar o conteúdo passível de aplicação
+industrial. Por exemplo, amidas, ésteres e acetatos podem ser utilizados como plastificantes ou
+desmoldantes para fabricação de polímeros sintéticos. Compostos ligados às aminas, álcoois,
+fosfatos e grupos de enxofre são utilizados como amaciadores, surfactantes, emulsificantes,
+inibidores de corrosão, condicionadores de cabelo, solventes biodegradáveis, bases de
+cosméticos e perfumes. O Brasil é um importante produtor de soja, o q ue poderia colocar firmas
+brasileiras em vantagem com relação à exploração de seus subprodutos (MARQUES, 2011).
+Além disso, a utilização dos recursos naturais do Brasil é uma excelente oportunidade
+para criar bases produtivas e de desenvolvimento de alguns insumos químicos para cosméticos
+para abastecimento do mercado interno e externo, de forma a diminuir o atual déficit da balança
+comercial da indústria química.
+16Membros da rede Circular Economy 100. Disponíve l em < https://www.ellenmacarthurfoundation.org/ourwork/activities/ce100/members>. Acesso em: 29/10/2019.
+41
+De acordo com a empresa brasileira ASSESSA, especializada no desenvolvimento e
+produção de i ngredientes bioativos de alta eficácia para a indústria cosmética, a quantidade de
+lançamentos de produtos de baixo impacto ambiental, direcionados para um público cada vez
+mais preocupado com a origem dos cosméticos que consome, confirma esta tendência. Uma das
+iniciativas da empresa é o CARBOGREEN A.E17, uma combinação de polímeros naturais que
+formam hidrogéis estáveis, capazes de reter grandes quantidades de água e fluidos biológicos que
+aumentam a viscosidade de soluções aquosas e emulsões, formando em ulsões estáveis e com
+uma textura única para as formulações cosméticas. Ele pode ser utiliz ado em fórmulas de
+emulsões e sérums para alcançar um desempenho superior, impacto visual e estético únicos . Isto
+demonstra que as empresas brasileiras estão atentas as novas tendências de consumo globais e
+cada vez mais buscam formas inovadoras e mais sustentáveis de produção.
+Dessa forma, em 2019 o Conselho Empresarial Brasileiro para o Desenvolvim ento
+Sustentável (CEBDS) elaborou o Compromisso Empresarial Brasileiro para a Biodiversidade
+com o intuito de enfatizar a importância da biodiversidade para as empresas e o papel que estas
+podem desempenhar na conservação e no uso sustentável das matérias primas nos processos de
+consumo e produção. Dentre as e mpresas parceiras que aderiram a este compromisso, pode -se
+observar a presença de duas empresas do segmento de cosméticos, a Natura e o Grupo Boticário,
+mostrando que o engajamento do setor está sendo cada vez maior.
+Ao analisar mais especificamente as grandes empresas do setor de higiene pessoal,
+perfumaria e cosmético, pode -se observar que os maiores players são empresas fundadas nos
+Estados Unidos ou em países europeus. Dessa forma, é importante analisar como algumas delas
+estão se comportando e suas iniciativas relacionadas a um desenvolvimento sustentável.
+VI.1.1. Avon
+A Avon é uma empresa norte americana de cosméticos criada em 1886 , que atua no
+Brasil desde 1958 e que conquistou espaço no mercado através da venda direta dos seus
+produtos. De acordo com o Beauty Packaging (2018), a empresa é responsável por 2,61% de
+Market Share e em 2019, foi comprada pela empresa brasileira Natura. Ela apresenta algumas
+iniciativas alinhadas com a transição para um meio de p rodução mais sustentável através de
+17Carbogreen, ASSESSA. <http://assessa.com.br/carbogreen-e-a-pw/> Acesso em 18/05/2019.
+42
+metas até 2020 e divide sua atuação no desenvolvimento sustentável em três frentes:
+desenvolvimento econômico, social e ambiental.
+Algumas das ações encontradas em seu relatório, chamado de Responsible Bussiness18
+são de redução de emissões atmosféricas de 15,4% desde 2005, aumento da reciclagem em 93%
+nas suas plantas, eliminação de todas as embalagens de PVC (cloreto de polivinila) dos produtos
+acabados e acabou com os testes em animais em todas as marcas ao redor do mundo. Ela também
+vem diminuindo o consumo de água desde 2005, onde havia um consumo de 223 milhões de
+galões por unidade para 137 milhões de galões por unidade em 2018.
+Contudo, em relação à diminuição de resíduos sólidos e reciclagem, ela já ultrapasso u
+sua meta para 2020 e apresenta um projeto com parceiras com instituições como ABIHPEC para
+promover a reciclagem e logística reversa de embalagens 19. Desde 2013 a empresa financia um
+programa de reciclagem de embalagens no Brasil, conhecido como TerraCycl e, onde os
+consumidores enviam suas embalagens vazias e assim é feita a separação por resíduo e tipo de
+material. No Brasil, a Avon também ingressou como membro da Rede de Cooperação para o
+Plástico (REDE), que atua com o objetivo de desenvolver a economia circular em vários setores
+e discutir o fechamento do ciclo em embalagens plásticas.
+Além disso, a empresa mostra estar alinhada com os ODS da ONU, pois conecta três
+frentes de trabalho com os ODS, sendo eles: Ser uma empresa para as mulheres, Melhorar o
+impacto ambiental e Operar com responsabilidade. Pode-se observar também que a empresa tem
+um forte trabalho social em relação ao empoderamento feminino, com ações suportando
+mulheres ao redor do mundo.
+Entretato, pode -se observar que estas metas estabel ecidas e seus percentuais de
+atingimento ainda são de baixa relevância para mudar o cenário mundial da produção de
+cosméticos. A Avon está mais voltada para projetos sociais do que no impacto ambiental.
+18Responsible Bussiness, 2018. Disponível em < https://www.avonworldwide.com/responsible-business/responsiblebusiness-sustainability-report-2018> Acesso em: 29/10/2019.
+19A Beleza de Reciclar, 2017. Disponível em < https://www.avon.com.br/a-beleza-de-reciclar>. Acesso em:
+29/10/2019.
+43
+VI.1.2. P&G
+A P&G é uma empresa de bens de consumo que atua nos mais diversos segmentos,
+sendo um deles o de cosméticos. Foi criada nos Estados Unidos em 1837 e sua operação se
+iniciou no Brasil em 1988. Em 2018, ocupava o 4º lugar de maior empresa de beleza do mundo.
+No mesmo ano, definiu metas de responsabilidade social a serem atingidas até 2030 e estas são
+chamadas de Ambiç ão 2030 20. Em relação às metas ambientais, a empresa tem como objetivo
+que 100% das suas marcas líderes inspirem o consumo responsável e que 100% das embalagens
+sejam recicladas e renováveis, e nesse caso já atingiram 96% do objetivo em 2019. Em relação
+à cadeia de suprimentos como um todo, foram estabelecida s metas para a redução do impacto
+ambiental e na busca de soluções circulares baseadas em regeneração e restauração, como o uso
+de 100% de energia elétrica renovável, redução das emissões em 50%, contudo até 2019
+obtiveram apenas 20% de reduções das emissões, e redução do uso de água nas fábricas em 20%
+por unidade de produção , e nesse caso já alcançaram a meta total com 24% de redução. A
+empresa também tem como objetivo buscar parcerias significativas na cadeia de suprimentos
+para impulsion ar a circularidade relacionada aos pilares de consumo de água e produção de
+resíduos.
+Outras iniciativas importantes são voltadas para proteger e aumentar as florestas das
+quais são dependentes, melhorar a subsistência de pequenos agricultores e soluções para a
+reciclagem, como por exemplo, estão produzindo algumas embalagens de produtos com plásticos
+removidos dos oceanos. Dessa forma, para garantir a eficácia dessas met as, a P&G tem investido
+em ações de educação e conscientização de seus funcionários.
+Contudo, por ser uma empresa tão grande no setor de bens de consumo, a P&G poderia
+focar em ações maiores e de maior impacto para transformar o setor de forma mais rápida . Os
+número apresentados mostram um crescimento lento para um modelo de desenvolvimento mais
+sutentável.
+20Ambição 2030 P&G. Disponível em <
+https://assets.ctfassets.net/07r0ntg05edn/4UYNMOdltHp6R0uGvYbOY2/b93aeabcde4205e1898c56a82aace089/PG
+-Ambition2030-Targets-Final_4.9.19.pdf>. Acesso em 29/10/2019.
+44
+VI.1.3. L’Oréal
+A L’Oréal é uma empresa francesa fundada em 1909 e que está pre sente no Brasil
+desde 1959. A empresa tem investido na adaptação do seu negócio para um modelo mais
+sustentável através seu programa de sustentabilidade intitulado de “ Sharing Beauty With All ”
+lançado em 2013 e que estabelece compromissos tangíveis até 202 0. Estes compromissos estão
+organizados em quatro pilares: inovar de forma sustentável, produzir de forma sustentável, viver
+de forma sustentável e compartilhar o crescimento com os funcionários, os fornecedores e as
+comunidades com as quais a L’Oréal interage. Assim, está contribuindo com 14 dos 17 Objetivos
+de Desenvolvimento Sustentável definidos pelas Nações Unidas em 2015.
+Os compromissos da empresa estão focados em seus impactos ao longo de toda cadeia de
+valor, desde a concepção de produtos até a distribuição dos mesmo e incluindo o processo de
+produção e o fornecimento de matérias -primas. Sendo assim, em 2018, 79% dos produtos novos
+ou renovados tem um perfil ambiental melhorado, devido uma fórmula com menor pegada
+ambiental ou por utilizarem matérias primas renováveis e que são obtidas de forma responsável.
+A cada ano, a L’Oréal mede o seu progresso quantitativamente disponibilizando seus
+resultados e recentemente foi lançado o relatório de progresso de 2018 21 com os resultados
+atigidos ao longo dos últimos anos. Dessa forma, algumas das ações efetivas obtidas foram a
+redução em 29% das emissões de CO 2 na área de transportes, ou seja, e m termos absolutos, a
+estimativa é que a L’Oréal deixou de emitir em torno de 80 mil toneladas de CO 2 nos últimos 7
+anos através de oportunidades e otimizações em reduções nos números de viagens e aumento na
+ocupação dos veículos. Além disso, a empresa tem como objetivo a implementação de um
+circuito (SP-RJ) movido 100% a Biometano.
+Um foco importante da companhia é nas embalagens, pois é onde há a maior parte do
+consumo de plásticos. Assim, algumas das ações utilizadas são reduzir o peso e as dimensões das
+embalagens, assim como substituir as matérias primas comumente utilizadas por alternativas
+recicladas ou renová veis. Além disso, no Brasil, todas as unidades da empresa apresentam uso
+100% de energia eólica. Essa medida evita a emissão de 7.000 toneladas de CO 2 na atmosfera, o
+equivalente ao plantio de mais de 43.000 árvores22 e para minimizar a perda de água, utiliza água
+21Relatório de Progresso L’Oréal Brasil, 2018. Disponível em < https://www.loreal.com.br/responsabilidade -
+corporativa/sharing-beauty-with-all> Acesso em 21/08/2019.
+22L’Oréal, 2019. Disponível em: < https://www.loreal.com.br/imprensa/not%C3%ADcias/2019/jun/loreal-brasilfirma-parceria-com-engie-para-uso-de-energia-eolica-em-todas-as-suas-unidades>. Acesso em 29/10/2019.
+45
+de reuso na maioria de suas instalações prediais.
+Com isso, os resultados de 2018 mostram uma redução de 77% de emissões de CO 2,
+redução de 48% de consumo de água e uma redução de 37% de geração de resíduos e m fábricas
+e centros de distribuição desde 2005. Outro compromisso forte da marca é o de não ter nenhum
+resíduo de nenhuma instalação enviado para aterros sanitários.
+Em relação a o laboratório de pele humana recon struída, inaugurado no seu centro de
+pesquisa e inovação , a proposta é de que essa pele seja comercializada para outras empresas de
+cosméticos23 de forma que no longo prazo nenhuma empresa necessite fazer testes em animais.
+Figura 8 – Contribuição da L’Oréal para os ODS das Nações Unidas.
+Fonte: Relatório de progresso de 2018, L’Oréal.
+23L’Oréal, 2019. Disponível em: < https://www.loreal.com.br/imprensa/not%C3%ADcias/2019/setembro/centro-depesquisa-e-inovacao-da-loreal-brasil-recebe-laboratorio-de-pele-humana-reconstruida>. Acesso em 23/12/2019.
+46
+VI.1.4. Lush
+A Lush é uma empresa do Reino Unido fundada em 1995 que vêm crescendo muito nos
+últimos anos, operando atualmente em 49 países, e conquistando cada vez mais consumidores,
+pois já foi criada sendo totalmente cruelty free, ou seja, sem realizar testes em animais, além de
+combater essa prática dentro da própria indústria de cosméticos. Apesar de não estar entre as 20
+maiores empresas de beleza do mundo, ela vem sendo reconhecida pe lo seu modelo de negócio
+totalmente voltado para o impacto ambiental e tem conquistado cada vez mais mercado. De
+acordo com a sua política ambiental 24, todas as decisões da empresa que são tomadas
+diariamente seguem a questão ambiental e têm o compromisso d e continuarem sendo
+sustentáveis mesmo com a empresa crescendo.
+Em relação ao uso de embalagens, a empresa incentiva que seus clientes levem os
+produtos para casa sem nenhuma embalagem e quando isto não é possível, utilizam um material
+90% reciclado. Além disso, vendem shampoos em barras e não líquidos, economizando 6
+milhões de garrafas de plástico por ano e em relação aos produtos finais que apresentam
+embalagens, a marca oferece produtos para os consumidores que devolverem as embalagens para
+eles reciclarem , garantindo que ap roximadamente 89% de todas suas embalagens sejam
+recicladas.
+Em relação às matérias primas, buscam utilizar ingredientes naturais e produzidos de
+forma sustentável, sendo cerca de 70% de seu portfólio de preservação própria. Além disso,
+como muitos dos seus produtos finais são sólidos, evitam de usar cerca de 450.000 litros de água
+para produzir produtos cremosos e líquidos.
+Assim, conseguimos observar que a criação de marcas já alinhadas com as necessidades
+atuais de consumo e produção são uma tendência e que são capazes de conquistar enormes
+mercados, corroborando com o aumento no número de consumidores preocupados com o
+impacto ambiental.
+24Lush Environmental Policy. Disponível em: < https://uk.lush.com/article/our-environmental-policy> . Acesso em
+15/01/2020.
+47
+VI.1.5. Natura
+A Natura é a maior empresa brasileira de cosméticos e é pioneira no desenvolvimento de
+produtos à base de ingredientes naturais. Ela foi fundada em 1969 e vem trabalhando desde então
+para se tornar uma “marca verde” . Durante o ano de 2019, a empresa fez a aquisição da norte
+americana Avon e com isso, a partir de 2020, a estimativa é de que o grupo irá ocu par o 4º lugar
+no ranking mundial das empresas de cosméticos.
+Para ser reconhecida como referência de “marca verde”, primeiramente, ela se concentra
+em tornar seus processos mais verdes, com menores emissões de gases do efeito estufa, menor
+geração de resí duos, redução e reutil ização de água. Alguns dos exemplos do que vêm sendo
+feito pela Natura são a reformulação de produtos pós -banho, como cremes de pentear que tem
+ação mais rápida e com menor tempo de aplicação para ajudar a reduzir o consumo de água no
+chuveiro, além de trocar máquinas e caldeiras por modelos mais eficientes, a fabricação de
+processos a frio, fórmulas com menos ingredientes e uso de plástico verde e vidro reciclado para
+embalagens finais.
+A empresa apresenta suas metas e progressos relacionadas à sustentabilidade através do
+relatório denominado Visão de Sustentabilidade 205025. Algumas dessas diretrizes englobam que
+todos os produ tos da marca tenham seus impactos ambientais divulgadas, formulações dos
+produtos mais otimizadas e concentradas para que sejam necessárias menores quantidades de
+ingredientes, embalagens mais conscientes, redução das emissões atmosféricas e as que não
+puderems ser evitadas serão compensadas por meio de compra de créditos de carbono,
+aprimoramento da eficiência energética nos processos e utilização de fontes alternativas e
+renováveis em toda a cadeia de valor. Contudo, os últimos dados disponíveis de atingimento das
+metas são de 2014.
+Alguns dos compromissos mais relevantes são a utilização de 74% de material reciclável
+em todas as embalagens da Natura e até 2014 havia sido alcançado 8% da meta. Por outro lado, a
+Natura é muito reconhecida pelas embalagens refis lançadas em 1983 e utilizadas até hoje. Outra
+meta importante é a de reduzir em 33% a emissão de gases de efeito estufa e até 2014 o
+atingimento era de 20%. Além disso, a marca quer implementar a diversificação de fontes de
+energia renovável para todas as operações, contudo, até 2014 esta transição não tinha sido
+25Visão de Sustentabilidade 2050. Disponível em <https://static.rede.natura.net/html/home/2019/janeiro/home/visaosustentabilidade-natura-2050-progresso-2014.pdf>. Acesso em 29/10/2019.
+48
+iniciada.
+Assim, observa-se que a Natura tem forte compromisso com a questão ambiental, mas
+suas metas foram estipuladas à longo prazo e não foi divulgado nenhum relatório atualizado
+desde 2014, o que dificulta o acompanhamento da eficácia das metas estabelecidas.
+VI.1.6. Grupo Boticário
+O Grupo Boticário foi fundado em 2010 a partir da empresa O Boticário, criada em 1977,
+com o intuito de se reorg anizar e buscar aquisições para diversificar sua atuação no mercado , e
+assim, atualmente possui 4 marcas, sendo a 2ª maior empresa de cosméticos do Brasil. O Grupo
+divulgou o Relatório de Sustentabilidade 2018 26 para ilustrar suas diretrizes em relação à uma
+produção mais sustentável com metas até 2024, abrangindo alguns grandes temas como:
+ecoeficiência, logística reversa e gestão de resíduos, sustentabilidade em produtos e construções
+mais verdes.
+Ao se tratar de ecoeficiência, os assuntos abordados são consumo de água, energia e
+emissões atmosféricas. Ao analisar o consumo e água, a meta do Grupo é de diminuir o consum o
+médio por tonelada e aumentar o uso de água de reuso em 50%. Em 2018, foi observado um
+aumento no consumo médio devido o crescimento das operações, contudo, cerca de 40% da água
+consumida foi proveniente de água da chuva e foi atingido uma média de 20% d e água de reuso
+nas instalações. Em relação ao consumo de energia, a empresa tem algumas metas até 2024 ,
+como reduzir o consumo de energia através do aumento da eficácia das plantas e teve como
+resultado em 2018, em comparação à 2017, uma redução de 21,7% no consumo de energia
+elétrica. Além disso, a empresa também planeja que toda sua matriz energética seja baseada em
+fontes renováveis e que 20% do seu consumo, seja produzido por meios próprios. Ao se tratar
+das emissões, em 2018, houve um aumento de 8% em algumas plantas industriais devido o
+aumento da produção, porém houve a diminuição de cerca de 80% nos centros de distribuição.
+Além disso, outras iniciativas foram implementadas pela marca, como a logística reversa
+das embalagens de seus produtos. Ao tod o, são 4 programas de coleta de embalagens dos
+produtos finais para a reciclagem, alguns oferecem produtos para incentivar o consumidor a
+devolver nas lojas essas embalagens. Outra iniciativa é a de incentivo à construções sustentáveis,
+26Relatório de Sustentabilidade 2018. Disponível em: < http://relatoriogrupoboticario.com.br/>. Acesso em
+15/01/2020.
+49
+ou seja, são lojas construídas com madeiras certificadas, iluminação em LED e práticas de
+economia de água e energia.
+VI.2. Patentes
+Outra forma de analisar o progresso ambiental da indústria de cosméticos ao longo dos
+anos em diferentes países é através da quantidade de patentes publicadas. Para essa análise,
+foram utilizadas as mesmas palavras chaves da busca de publicações na platafo rma Patent
+Inspiration, como mostrado na Tabela 4.
+Tabela 4 - Palavras-chave na Busca de Patentes.
+PalavrasChave
+Circular AND Economy AND -
+Bio AND Economy AND -
+Cosmetic AND Industry AND -
+Environment AND Cosmetic AND Industry
+Circular AND Economy AND Cosmetic
+Fonte: Elaboração Própria.
+Como resultado, foram obtidos gráficos com os totais de publicações desde 2000 até
+2018 e os países que mais contribuíram com essas publicações de patentes. Pode-se observar o
+aumento exponencial de publicações ao longo dos anos, explicado pelo aumento da relevância e
+preocupação com a sustentabilidade e circularidade no mundo. Em relação às publicações que
+relacionam indústria de cosméticos e sustentabilidade ou circularidade, é possível observar que o
+número de patentes diminui. Assim, também é possível notar que são os mesmos países que
+estão à frente das diferentes pesquisas ao longo dos anos.
+50
+Figura 9 – Circular and Economy.
+Fonte: Patent Inspiration, 2019.
+Para as palavras -chave Circular and Economy foram obtidas 1.713 publicações de
+patentes de 2000 até 2018, onde 1.221 foram na China, 337 nos Estados Unidos, 143 na União
+Europeia e 12 em outros países. Não houve nenhuma publicação do Brasil.
+Figura 10 – Bio and Economy.
+Fonte: Patent Inspiration, 2019.
+Já para as palavras-chave Bio and Economy foram obtidas 82 publicações no período em
+questão. Destas 82 publicações, 55 foram na China, 15 nos Estados Unidos, 9 na União Europeia
+e 9 em outros países e nesse caso também não houveram publicações do Brasil.
+51
+Figura 11 – Cosmetic and Industry.
+Fonte: Patent Inspiration, 2019.
+Ao analisar as palavras -chave Cosmetic and Industry foram obtidas um total de 3.674
+patentes publicadas. Sendo assim, 2.055 foram na União Europeia , 969 n a China , 550 nos
+Estados Unidos, 64 em outros países e 36 no Brasil. Dentre essas patentes, pode -se observar o
+nome de grandes empresas como a L’Oréal, BASF e Colgate-Palmolive.
+Figura 12 – Environment and Cosmetic and Industry.
+Fonte: Patent Inspiration, 2019.
+Para as palavras -chave Environment and Cosmetic and Industry foram obtidas 1 44
+publicações no total entre 2000 e 2018, onde 76 foram na China, 33 na União Europeia, 19 nos
+Estados Unidos, 15 em outros países e 1 no Brasil.
+52
+Figura 13 – Circular and Economy and Cosmetic.
+Fonte: Patent Inspiration, 2019.
+Já para as palavras -chave Circular and Economy and Cosmetic foram obtidas apenas 3
+publicações, que se concentram na China.
+VII. CONCLUSÃO
+A partir de nossa análise, pudemos concluir que existe um movimento claro e cresc ente
+de empresas se preocupando, estudando e adotando medidas concretas para se tornarem mais
+sustentáveis. Destacam -se como fatores impulsionadores as exigências dos consumidores
+voltadas para um consumo sustentável e por produtos de qualidade para sua saúde.
+Assim, foi possível observar que a ca deia de produção da indústria de cosméticos tem
+sido repensada como um todo, desde a escolha dos insumos, utilização de recursos como água e
+energia, emissões atmosféricas ocasionadas pelo processo industrial, resíduos de produção e seus
+tratamentos, até a s embalagens do produto final e seu descarte. Es te é um processo muito
+estimulado pela União Europeia e suas diretrizes e pela ONU com seus ODS, pois uma regulação
+mais exigente em relação aos impactos sobre a saúde humana e sobre o meio ambiente influencia
+muito nas estratégias que as empresas irão adotar em cada país. Dessa forma, deve -se analisar
+que tipos de políticas ajudariam a estimular o desenvolvimento tecnológico e a formação de
+novos tipos de cadeias de valor e pressionar o poder público por açõe s concretas e eficazes para
+que esse movimento se intensifique no Brasil, através de uma regulação mais rígida.
+53
+Como resultado, pode -ser observar o aumento de publicações acadêmicas ao longo dos
+últimos anos, justificado pelo aumento da preocupação com o tema e consequentemente, o
+aumento das iniciativas verdadeiras por parte das grandes empresas do setor, tomando cuidado
+com as práticas de greenwhasing. Assim, estas marcas buscam um menor impacto ambiental
+para se adequar às exigências de consumo atuais e de longo prazo.
+Contudo, ainda são observadas ações de baixo impacto para a indústria de cosméticos e a
+estimativa da eficácia dessas ações a longo prazo não é muito grande, pois são medidas paliativas
+e emergenciais para o cenário mundial atual de preocupação ambiental, porém esta ainda é uma
+indústria que produz muito resíduo, consome muit os recursos naturais de forma não sustentável,
+produz muito plástico e têm um enorme consumo de água e com isso, são necessárias políticas,
+leis e ações mais radicais para uma transformação real deste mercado.
+54
+REFERÊNCIAS BIBLIOGRÁFICAS
+AGÊNCIA BRASILEIRA DE DESENVOLVIMENTO INDUSTRIAL - ABDI. Estudo técnico
+sobre as relações entre a indústria química e a indústria de cosméticos: Identificação de
+aperfeiçoamentos institucionais para alcançar o potencial de desenvolvimento de ambos os
+segmentos industriais. Relatório - A Indústria de Insumo s Químicos Para Cosméticos ,
+Brasília, p. 1 -75, jul. 2015. Disponível em:
+https://old.abdi.com.br/Estudo/_Insumos_Quim_Cosm_RF_02%2002%2015.pdf. Acesso em: 24
+mar. 2019.
+AGÊNCIA EUROPEIA DO AMBIENTE - AEA. Economia Circular na Europa: Todos
+Temos um Papel a Desempenhar . Copenhague, Dinamarca, 2017. Disponível em:
+https://www.eea.europa.eu/pt/articles/economia-circular-na-europa-todos. Acesso em: 11 maio
+2019.
+AGÊNCIA EUROPEIA DO AMBIENTE - AEA. Indústria: Políticas da União
+Europeia. Copenhague, Dinamarca, 2019. Disponível em:
+https://www.eea.europa.eu/pt/themes/industry/intro. Acesso em: 21 out. 2019.
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA - ANVISA. Resolução nº 211, de 14
+de julho de 2015 . Definição e a Classificação de Produtos de Higiene P essoal, Cosméticos e
+Perfumes. 14 jul. 2015. Disponível em:
+http://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2005/rdc0211_14_07_2005.html. Acesso em:
+24 mar. 2019.
+ASSESSA. CARBOGREEN E.A PW . Rio de Janeiro, 2018. Disponível em:
+https://assessa.com.br/carbogreen-e-a-pw/. Acesso em: 18 maio 2019.
+ASSESSA. O IMPACTO AMBIENTAL DOS COSMÉTICOS . Rio de Janeiro, 2018.
+Disponível em: https://assessa.com.br/o -impacto-ambiental-dos-cosmeticos/. Acesso em: 18
+maio 2019.
+55
+ASSOCIAÇÃO BRASILEIRA DE COSMETOLOGIA - ABC. O Novo Regulamento da China
+Remove o Procedimento de Teste com Animais . 2017. Disponível em: http://www.abc -
+cosmetologia.org.br/peta-o-novo-regulamento-da-china-remove-o-procedimento-de-teste-comanimais/. Acesso em: 29 out. 2019.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE HIGIENE PESSOAL, PERFUMARIA E
+COSMÉTICOS - ABIHPEC. ABIHPEC Reune Institutos de Pesquisa e Empresas para
+Discutir a Sustentabilidade no Setor , São Paulo, 2019. Disponível em:
+https://abihpec.org.br/comunicado/abihpec-reune-institutos-de-pesquisa-e-empresas-paradiscutir-a-sustentabilidade-no-setor/. Acesso em: 21 out. 2019.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE HIGIENE PESSOAL, PERFUMARIA E
+COSMÉTICOS - ABIHPEC. Caderno de tendências - Higiene Pessoal, Perfumaria e
+Cosméticos, 2019 -2020. Caderno de tendências , São Paulo, p. 1 -105, 2018. Disponível em:
+https://abihpec.org.br/publicacao/caderno-de-tendencias-2019-2020/. Acesso em: 24 mar. 2019.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE HIGIENE PESSOAL, PERFUMARIA E
+COSMÉTICOS - ABIHPEC. Guia Té cnico Ambiental da Indústria de Higiene Pessoal,
+Perfumaria e Cosméticos – Por uma produção mais limpa. Guia Técnico Ambiental, São Paulo,
+2012. Disponível em: https://abihpec.org.br/publicacao/guia -tecnico-ambiental/. Acesso em: 18
+maio 2019.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE HIGIENE PESSOAL, PERFUMARIA E
+COSMÉTICOS - ABIHPEC. Indústria de Higiene Pessoal, Perfumaria e Cosméticos
+Registra Crescimento Real de 1,5% entre Janeiro e Julho de 2019 , São Paulo, 2019.
+Disponível em: https://abihpec .org.br/comunicado/industria-de-higiene-pessoal-perfumaria-ecosmeticos-registra-crescimento-real-de-15-entre-janeiro-e-julho-de-2019/. Acesso em: 21 out.
+2019.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE HIGIENE PESSOAL, PERFUMARIA E
+56
+COSMÉTICOS - ABIHPEC. Panorama do Setor - Higiene Pessoal, Perfumaria e Cosméticos,
+2018. Panorama do Setor , São Paulo, p. 1 -30, 2018. Disponível em:
+https://abihpec.org.br/publicacao/panorama-do-setor-2018/. Acesso em: 24 mar. 2019.
+AVON. A Beleza de Reciclar. Brasil 2019. Disponível em: https://www.avon.com.br/a-belezade-reciclar. Acesso em: 29 out. 2019.
+AVON. Responsible Business. Estados Unidos 2019. Disponível em:
+https://www.avonworldwide.com/responsible-business. Acesso em: 29 out. 2019.
+BEAUTY PACKAGING. Top 20 Global Beauty Companies. Estados Unidos, 2018.
+Disponível em: https://www.beautypackaging.com/heaps/view/5163. Acesso em: 10 out. 2019.
+CAPANEMA, Luciana Xavier de Lemos; VELASCO, Luciano Otávio Marques de; FILHO,
+Pedro Lins Palmeira. Panorama da indústria de higiene pessoal, perfumaria e
+cosméticos. BNDES Setorial , Rio de Janeiro, p. 131 -155, 2007. Disponível em:
+https://web.bndes.gov.br/bib/jspui/bitstream/1408/6541/1/BS%2025%20Panorama%20da%20in
+d%C3%BAstria%20de%20higiene_P_BD.pdf. Acesso em: 24 mar. 2019.
+CARUS, Michael; DAMMER, Lara. The “Circular Bioeconomy” – Concepts, Opportunities and
+Limitations. Nova Papers on Bio-Based Economy, Hürth, Alemanha, p. 1-9, 2018.
+CONSELHO EMPRESARIAL BRASILEIRO PARA O DESENVOLVIMENTO
+SUSTENTÁVEL - CEBDS. Compromisso Empresarial Brasileiro para a Biodiversidade.
+Brasil, 2019. Disponível em: https://cebds.org/publicacoes/compromisso -empresarial-brasileiropara-a-biodiversidade/#.XdHU6vlKjIU. Acesso em: 29 out. 2019.
+COSMETIC INNOVATION. As 10 Principais Tendências Globais de Consumo em 2019 .
+Brasil, 2019. Disponível em: https://www.cosmeticinnovation.com.br/as -10-principaistendencias-globais-de-consumo-em-2019/. Acesso em: 24 mar. 2019.
+57
+COSMETIC INNOVATION. Inovação Plástica: O Futuro é Sustentável . Brasil, 2019.
+Disponível em: https://www.cosmeticinnovation.com.br/inovacao -plastica-o-futuro-esustentavel/. Acesso em: 27 ago. 2019.
+COSMETIC INNOVATION. Mercado de Beleza Cresceu 42,5% na América Latina . Brasil,
+2018. Disponível em: https://www.cosmeticinnovation.com.br/mercado -de-beleza-cresceu-425-
+na-america-latina/. Acesso em: 24 mar. 2019.
+COSMETIC INNOVATION. Mercado da Beleza Cresce Lento, Mas Continua Crescendo
+em Alta. Brasil, 2019. Disponível em: https://www.cosmeticinnovation.com.br/mercado-debeleza-cresce-lento-mas-continua-em-alta/ Acesso em: 10 out. 2019.
+COSMETIC INNOVATION. Setor de Beleza Cresce e Estima Superar os R$ 50 bi em 2019.
+Brasil, 2018. Disponível em: https://www.cosmeticinnovation.com.br/setor-de-beleza-cresce-eestima-superar-os-r-50-bi-em-2019/. Acesso em: 10 out. 2019.
+DIAS, Rodnei Fagundes; FILHO, Carlos Alberto Aragão de Carvalho. Bioeconomia no Brasil e
+no Mundo: Panorama Atual e Perspectivas. Revista Virtual de Química , Universidade Federal
+do Rio de Janeiro, RJ., p. 1-21, 2016.
+ELLEN MACARTHUR FOUNDATION. Circular Economy 100. Reino Unido, 2018 .
+Disponível em: https://www.ellenmacarthurfoundation.org/our-work/activities/ce100. Acesso
+em: 29 out. 2019.
+ELLEN MACARTHUR FOUNDATION. What is a Circular Economy? Reino Unido, 2017.
+Disponível em: https ://www.ellenmacarthurfoundation.org/circular-economy/concept. Acesso
+em: 11 maio 2019.
+EUROMONITOR INTERNACIONAL. Como os Fabricantes de Beleza Competem
+Estrategicamente? Inglaterra, 2018. Disponível em: https://blog.euromonitor.com/como -osfabricantes-de-beleza-competem-estrategicamente/. Acesso em: 24 mar. 2019.
+58
+EUROPEAN COMMISSION. COMMUNICATION FROM THE COMMISSION TO THE
+EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND
+SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS - Innovating for
+Sustainable Growth: A Bioeconomy for Europe . Bruxelas, Bélgica, p. 1 -9, 2012. Disponível
+em: https://ec.europa.eu/research/bioeconomy/pdf/official-strategy_en.pdf. Acesso em: 11 maio
+2019.
+FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DE SÃO PAULO - FIESP. O Que é
+Bioeconomia. São Paulo. Disponível em: https://www.fiesp.com.br/o -que-e-bioeconomia/.
+Acesso em: 11 maio 2019.
+INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR - IDEC. Greenwhasing.
+Disponível em: https://www.idec.org.br/greenwashing. Acesso em: 23 dez 2019.
+ITAMARATY. Negociações da Agenda de Desenvolvimento Pós -2015: Elementos
+Orientadores da Posição Brasileira. Brasília, 2014. Disponível em:
+http://www.itamaraty.gov.br/images/ed_desenvsust/ODS-pos-bras.pdf. Acesso em: 11 maio
+2019.
+JULIANO, Claudia Clelia; MAGRINI, Giovanni Antonio. Cosmetic Ingredients as Emerging
+Pollutants of Environmental and Health Concern. A Mini -Review. University of Sassari,
+Itália, p. 1-18, 2017.
+L’ORÉAL BRASIL. Centro de Pesquisa e Inovação da L’Oréal Brasil Recebe Primeiro
+Laboratório de Pele Humana Reconstruída das Américas . Brasil, 2019. Disponível em:
+https://www.loreal.com.br/imprensa/not%C3%ADcias/2019/setembro/centro-de-pesquisa-einovacao-da-loreal-brasil-recebe-laboratorio-de-pele-humana-reconstruida. Acesso em: 23 dez.
+2019.
+L’ORÉAL BRASIL. L’Oréal Brasil Firma Parceria com Engie para Uso de Energia Eólica
+em Todas as Suas Unidades. Brasil, 2019. Disponível em:
+59
+https://www.loreal.com.br/imprensa/not%C3%ADcias/2019/jun/loreal-brasil-firma-parceria-
+com-engie-para-uso-de-energia-eolica-em-todas-as-suas-unidades. Acesso em: 29 out. 2019.
+L‘ORÉAL BRASIL. Relatório de Progresso 2018 . Rio de Janeiro, 2019. Disponível em:
+https://www.loreal.com.br/responsabilidade-corporativa/sharing-beauty-with-all. Acesso em: 21
+ago. 2019.
+MARQUES, Guilherme de Oliveira. Janelas de Oportunidade para Catching Up
+Tecnológico: perspectiva e desafios a empresas brasileiras frente ao advento das novas
+rotas biotecnológicas de desenvolvimento e fabricação de produtos químicos industriais .
+Orientador: Dr. João Eduardo de M. P. Furtado. 2011. 147 p. Dissertação (Mestrado em Política
+Científica e Tecnológica) - Universidade Estadual de Campinas, Campinas, São Paulo., 2011.
+NATURA. Visão de Sustentabilidade 2050. Brasil 2019. Disponível em:
+https://static.rede.natura.net/html/home/2019/janeiro/home/visao-sustentabilidade-natura-2050-
+progresso-2014.pdf. Acesso em: 29 out. 2019.
+NÚCLEO DE ESTUDOS INDUSTRIAIS E TECNOLÓGICOS - NEITEC. Políticas Públicas
+Voltadas para Economia Circular: Um Olhar Sobre as Experiências na Europa e na China.
+2019. Disponível em: https://neitec.com/blog/politicas-publicas-voltadas-para-economiacircular-um-olhar-sobre-as-experiencias-na-europa-e-na-china/. Acesso em: 29 out. 2019.
+OBJETIVOS DE DESENVOLVIMENTO SUSTENTÁVEL. Brasil, 2019. Disponível em:
+https://odsbrasil.gov.br//. Acesso em: 10 nov. 2019.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU. Agenda 2030 . Nova Iorque, Estados
+Unidos., 2015. Disponível em: https://nacoesunidas.org/pos2015/agenda2030/. Acesso em: 11
+maio 2019.
+ORGANIZAÇÃO PARA COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO - OCDE.
+Innovation Ecosystems in The Bioeconomy. OECD Science, Technology and Industry Policy
+60
+Papers, p. 1 -74, 2019. Disponível em: https://www.oecd -ilibrary.org/science-andtechnology/innovation-ecosystems-in-the-bioeconomy_e2e3d8a1-en. Acesso em: 21 out. 2019.
+ORGANIZAÇÃO PARA COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO - OCDE;
+EUROSTAT; FINEP. Manual de Oslo: Diretrizes p ara Coleta e Interpretação de Dados
+sobre Inovação , ed. 3ª, p. 1 -184, 2005. Disponível em: http://www.finep.gov.br/images/a -
+finep/biblioteca/manual_de_oslo.pdf. Acesso em: 21 out. 2019.
+ORUÊ, BEATRIZ. Poluentes da indústria de Higiene Pessoal, Perfumaria e Cosméticos .
+2016. Disponível em: https://energiaquimica.wordpress.com/2016/09/16/poluentes -da-industriade-higiene-pessoal-perfumaria-e-cosmeticos/. Acesso em: 18 maio 2019.
+P&G. Ambição 2030. Estados Unidos 2019. Disponível em:
+https://assets.ctfassets.net/07r0ntg05edn/4UYNMOdltHp6R0uGvYbOY2/b93aeabcde4205e1898
+c56a82aace089/PG-Ambition2030-Targets-Final_4.9.19.pdf. Acesso em: 29 out. 2019.
+PATENT INPIRATION. Disponível em: https://app.patentinspiration.com/. Acesso em: 29 out.
+2019.
+SEBRAE. O Que São Estratégias Empresariais . Brasil, 2019. Disponível em:
+https://www.sebrae.com.br/sites/PortalSebrae/artigos/o-que-sao-estrategias-
+empresariais,e4df6d461ed47510VgnVCM1000004c00210aRCRD/. Acesso em: 23 dez. 2019.
+SCHOENMAKERE, Mieke et al. The Circular Economy and the Bioeconomy: Partners in
+Sustainability. European Environment Agency Report, Copenhague, Dinamarca, 2018.
+THE INDEPENDENT. Is The Beauty Industry Doing Enough to Tackle Plastic Pollution?
+Inglaterra, 2019. Disponível em: https://www.independent.co.uk/news/long_reads/beauty -
+industry-plastic-pollution-environment-climate-change-cosmeticsa8697951.html?fbclid=IwAR1_Q8D6DTlq8wsMY4eNOUNTQZ9bxkOu7vKQ_kmx8XmRAJ2
+dl0zjeUaWCOc. Acesso em: 21 ago. 2019.

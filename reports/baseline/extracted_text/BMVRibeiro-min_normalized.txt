@@ -1,0 +1,2139 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO - UFRJ
+CENTRO DE CIÊNCIAS JURÍDICAS E ECONÔMICAS - CCJE
+FACULDADE NACIONAL DE DIREITO - FND
+A INVESTIGAÇÃO DEFENSIVA NA ADVOCACIA CRIMINAL
+BÁRBARA MARIA VERSIANI RIBEIRO
+RIO DE JANEIRO
+2024
+BÁRBARA MARIA VERSIANI RIBEIRO
+A INVESTIGAÇÃO DEFENSIVA NA ADVOCACIA CRIMINAL
+Monografia de final de curso, elaborada no âmbito da graduação
+em Direito da Universidade Federal do Rio de Janeiro, como prérequisito para obtenção do grau de bacharel em Direito, sob a
+orientação do Professor Dr. Diogo Rudge Malan.
+RIO DE JANEIRO
+2024
+BÁRBARA MARIA VERSIANI RIBEIRO
+A INVESTIGAÇÃO DEFENSIVA NA ADVOCACIA CRIMINAL
+Monografia de final de curso, elaborada no âmbito da graduação
+em Direito da Universidade Federal do Rio de Janeiro, como pré -
+requisito para obtenção do grau de bacharel em Direito, sob a
+orientação do Professor Dr. Diogo Rudge Malan.
+Data da Aprovação: __ / __ / ____.
+Banca Examinadora:
+______________________________
+Orientador
+______________________________
+Membro da Banca
+______________________________
+Membro da Banca
+RIO DE JANEIRO
+2024
+RESUMO
+O direito de defesa, garantia constitucional indiscutível no ordenamento pátrio , precisa ser
+assegurado de forma que extrapole o plano formal e se ja consolidado de maneira eficaz e
+segura. A investigação criminal defensiva, nesse sentido, surge como ferramenta cujo intuito é
+promover a melhor e mais ampla defesa do representado , por meio da obtenção de elementos
+de prova que contribuam para a construção da tese defensiva. Logo, o objetivo desta monografia
+é oferecer uma contribuição sobre a importância da atuação investigativa do advogado criminal
+na defesa dos interesses de seu representado e os principais desafios para alcançar o êxito, a
+partir de estudos d e princípios correlacionados, marcos do direito estrangeiro e brasileiro,
+doutrinas, além da análise de conteúdos legislativos e jurisprudenciais do tema.
+Palavras-chaves: Investigação criminal . Investigação defensiva . Direito à prova . Ampla
+defesa.
+ABSTRACT
+The right to defence, an indisputable constitutional guarantee in the Brazil's legal system, needs
+to be secured in a way that goes beyond the formal plane and is consolidated in an effective and
+safe manner. In this sense, defensive criminal investigations are a tool aimed at promoting the
+best and broadest defence of the defendant, by obtaining evidence that contributes to the
+construction of the defence thesis. Therefore, the aim of this final course assignment is to offer
+a contribution on the importance of the criminal lawyer's investigative role in the defence of his
+client's interests and the main challenges to achieving success, based on studies of related
+principles, milestones in foreign and Brazillian law, doctrines, as well as an analysis of
+legislative content and court cases on the subject.
+Keywords: Criminal Investigation. Defence investigation. Right to evidence. Broad defence.
+SUMÁRIO
+INTRODUÇÃO
+1. DO DIREITO À PROVA
+1.1 DOS PRINCÍPIOS CORRELACIONADOS
+1.2 O CONTEXTO HISTÓRICO DO DIREITO À PROVA
+1.3 CONCEITO, OBJETIVO, NATUREZA JURÍDICA, TITULARES, ESTRUTURA
+NORMATIVA E LIMITES.
+1.4 A VERDADE NO PROCESSO PENAL
+2. A INVESTIGAÇÃO CRIMINAL DEFENSIVA
+2.1 HISTÓRICO DA INVESTIGAÇÃO CRIMINAL
+2.2 DEFINIÇÃO E NATUREZA JURÍDICA
+2.3 CARACTERÍSTICAS DA INVESTIGAÇÃO DEFENSIVA
+2.4 PROBLEMATIZAÇÕES DA INVESTIGAÇÃO DEFENSIVA
+2.5 A INVESTIGAÇÃO DEFENSIVA NO PROJETO DO NOVO CÓDIGO DE PROCESSO
+PENAL
+2.6 A INVESTIGAÇÃO DEFENSIVA NA JURISPRUDÊNCIA
+3. A UTILIZAÇÃO DA PROVA ILÍCITA NO PROCESSO PENAL
+CONCLUSÃO
+REFERÊNCIAS
+INTRODUÇÃO
+Nesta dissertação serão analisadas temáticas a respeito da investigação defensiva, as
+quais foram compreendidas por intermédio de doutrinas, textos legais , artigos e estudos de
+especialistas referentes à matéria.
+Nessa luz, a investigação defensiva é o meio pelo qual se obtém elementos de prova que
+permitam a construção da defesa técnica do representado para, assim, contribuir em um
+julgamento favorável.
+Tal ferramenta é utilizada tanto na fase pré-processual, na qual há atuação sobretudo da
+Polícia Judiciária, mas não exclusivamente, como também na fase de instrução processual,
+iniciando-se para a defesa no momento da resposta à acusação. Segundo André Mendes1, além
+de ser um avanço para a defesa técnica do imputado, a investigação defensiva serve também
+para promover o equilíbrio das partes, haja vista as atribuições investigativas do Ministério
+Público.
+É, nesse sentido, a definição do Provimento número 188/2018 da Ordem dos Advogados
+do Brasil2:
+Art. 1° Compreende -se por investigação defensiva o complexo de atividades de
+natureza investigatória desenvolvido pelo advogado, com ou sem assistência de
+consultor técnico ou outros profissionais legalmente habilitados, em qualquer fase da
+persecução penal, procedimento ou grau de jurisdição, visando à obtenção de
+elementos de prova destinados à constituição de acervo probatório lícito, para a tutela
+de direitos de seu constituinte.
+Além do referido Provimento, foi elaborado, em setembro de 2023, o chamado Código
+Deontológico de Boas Práticas da Investigação Defensiva3, a fim de expressamente reconhecer,
+complementar e nortear a atuação dos advogados nessa área tão nova e cheia de
+questionamentos.
+1 MACHADO, André Augusto Mendes. Investigação criminal defensiva . 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 11.
+2 ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro de 2018 . Disponível
+em https://www.oab.org.br/leisnormas/legislacao/provimentos/188-2018. Acesso em 18 de junho de 2023.
+3 ASSOCIAÇÃO BRASILEIRA DOS ADVOGADOS CRIMINALISTAS. Código Deontológico de Boas Práticas
+da Investigação Defensiva. Florianópolis: Emais Editora, 2023.
+Vale frisar que o direito à investigação defensiva não é ilimitado, havendo restrições
+relevantes, como a vedação à prova ilícita4, as quais serão discutidas na presente pesquisa.
+No contexto brasileiro, esta ferramenta defensiva não está prevista de forma expressa
+no Código de Processo Penal5, muito embora não haja também sua proibição. Somado a isso, a
+Lei número 13.432, de 2017 6, a qual dispõe da temática do exercício da profissão de detetive
+particular, não é feliz em assegurar ao advogado criminal sua atuação defensiva ao definir que
+o detetive particular deve se restringir à “coleta de dados e informações de natureza não
+criminal”7.
+Nessa ótica, com base no artigo 5º da referida Lei8, é possível observar de imediato que
+há pelo menos restrições acerca da atuação investigativa do advogado criminal na fase
+preliminar, porquanto depende da autoridade policial para realizar sua atuação, mas também
+falta de previsão legislativa específica quanto às diretrizes para esta efetiva prática.
+Além disso, segundo Evinis Talon9, a prática defensiva ainda hoje atua sobretudo como
+uma contestação da peça acusatória, sendo certo que apenas a minoria dos advogados se
+direciona para uma advocacia artesanal, buscando estratégias e provas em prol do representado.
+A fim de adentrar nas raízes dessa ferramenta, faz-se imprescindível iniciar a exposição
+do tópico por meio do estudo do direito à prova no capítulo I, expondo os princípios correlatos,
+4 “Art. 157. São inadmissíveis, devendo ser desentranhadas do processo, as provas ilícitas, assim entendidas as
+obtidas em violação a normas constitucionais ou legais.” BRASIL. Código de Processo Penal (Decreto -lei nº.
+3.689), de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto -lei/del3689.htm.
+Acesso em 20 de junho de 2023.
+5 MACHADO, André Augusto Mendes. Investigação criminal defensiva . 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 45.
+6 BRASIL. Lei número 13.432, de 11 de abril de 2017. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13432.htm. Acesso em 20 de junho de 2023.
+7 “Art. 2º Para os fins desta Lei, considera-se detetive particular o profissional que, habitualmente, por conta própria
+ou na forma de sociedade civil ou empresarial, planeje e execute coleta de dados e informações de natureza não
+criminal, com conhecimento técnico e utilizando recursos e meios tecnológicos permitidos, visando ao
+esclarecimento de assuntos de interesse privado do contratante.” BRASIL. Lei número 13.432, de 11 de abril de
+2017. Disponível em: https://www.planalto.gov.br/ccivil_03/_Ato2015 -2018/2017/Lei/L13432.htm. Acesso em
+20 de junho de 2023.
+8 “Art. 5º O detetive particular pode colaborar com investigação policial em curso, desde que expressamente
+autorizado pelo contratante. Parágrafo único. O aceite da colaboração ficará a critério do delegado de polícia, que
+poderá admiti-la ou rejeitá-la a qualquer tempo.” BRASIL. Lei número 13.432, de 11 de abril de 2017. Disponível
+em: https://www.planalto.gov.br/ccivil_03/_Ato2015 -2018/2017/Lei/L13432.htm. Acesso em 20 de junho de
+2023.
+9 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 11.
+seu histórico, natureza jurídica, conceitos relacionados, estrutura normativa e limites, por
+exemplo, além de tópico destinado à discussão da verdade dentro do processo penal.
+Em seguida, no capítulo II, será estudado o direito à investigação defensiva,
+apresentando s ua definição, suas demarcações históricas no mundo e no Brasil, natureza
+jurídica, marcos legislativo s e garantias que já se encontram asseguradas, entendimentos
+jurisprudenciais e desafios para a sua integral eficácia.
+Por fim, no capítulo III, será feita uma abordagem com relação à viabilidade da
+utilização da prova ilícita , sob a perspectiva da investigação defensiva, na busca da
+comprovação da inocência do representado.
+Diante de todo o exposto, será possível , a partir dos pontos levantados, tecer
+considerações acerca da importância da investigação defensiva para o processo penal e, além
+disso, expor eventuais ponderações acerca da temática.
+1. DO DIREITO À PROVA
+1.1. DOS PRINCÍPIOS CORRELACIONADOS
+Em primeira análise, a fim de tecer comentários mais aprofundados sobre a investigação
+defensiva no direito processual penal, cabe adentrar na definição de direito à prova e em seus
+princípios processuais correlacionados que, por certo, influenciam diretamente na sua
+efetividade.
+O primeiro a ser evidenciado é princípio do contraditório, que, em seu modo, surge da
+expressão latim audiatur et altera pars , a qual se traduz por “ouça -se também a outra parte”.
+Dessa forma, o contraditório consiste na garantia das partes de serem ouvidas e na vedação de
+decisão sem que haja a real participação dos envolvidos no processo de forma igualitária .10
+Nessa mesma perspectiva, Aury Lopes Jr. 11 entende que o contraditório é um método
+de confrontação da prova, com a finalidade de se comprovar a verdade e assegurar a estrutura
+dialética do processo penal.
+Segundo Bernardo Braga e Silva12, há uma intima relação entre a atividade defensiva e
+o contraditório:
+O direito de defesa, em verdade, traduz-se em duas vertentes: uma ligada exatamente
+à possibilidade de diálogo, refletindo o contraditório, e outra relacionada à
+possibilidade de iniciativa dos atos processuais, ou seja, à busca pela realização de
+condutas proativas do réu, visando combater as teses apresentadas pelo autor.
+10“Pode-se definir por princípio do contraditório como aquele segundo o qual ninguém pode ser atingido por uma
+decisão judicial na sua esfera de interesses sem ter tido a ampla possibilidade de influir eficazmente na sua
+formação e igualdade de condições com a sua parte contrária.” GRECO, Leonardo. Instituições de Processo Civil.
+Introdução ao Direito Processual Civil – volume 1. 5ª. Edição – Rio de Janeiro: Forense, 2015.
+11 “O contraditório pode ser inicialmente tratado como um método de confrontação da prova e comprovação da
+verdade, fundando-se não mais sobre um juízo potestativo, mas sobre o conflito, disciplinado e ritualizado, entre
+partes contrapostas: a acusação (expressão do interesse punitivo do Estado) e a defesa (expressão do interesse do
+acusado [e da sociedade] em ficar livre de acusações infundadas e imune a penas arbitrárias e desproporcionadas).
+É imprescindível para a própria existência da estrutura dialética do processo.” NERY JR., Aury. Direito processual
+penal. 18ª Edição. São Paulo: Saraiva Educação, 2021. Página 110.
+12 SILVA, Bernardo Braga e. O direito à admissão da prova do acusado no processo penal brasileiro. 1ª. Edição.
+Curitiba: CRV, 2019. Página 39.
+Ainda, destaca Nelson Nery Júnior13
+O princípio do contraditório, além de fundamentalmente constituir -se em
+manifestação do princípio do Estado de Direito, tem íntima ligação com o da
+igualdade das partes e o do direito de ação, pois o texto constitucional, ao garantir aos
+litigantes o contraditório e a ampla defesa, quer significar que tanto o direito de ação,
+quanto o direito de defesa são manifestação do princípio do contraditório
+A ampla defesa, por sua vez, é a garantia que o réu tem de possuir condições
+satisfatórias, efetivas e concretas de se defender ao que lhe foi imputado, sem que haja qualquer
+impedimento que não assegure os seus direitos fundamentais constitucionais.
+Essa garantia fundamental consiste na possibilidade de utilização de todos os
+mecanismos previstos nos textos legais para que haja a devida defesa. Exemplo dessa
+ferramenta de defesa é a autodefesa , muito evidente no momento do interrogatório , o qual
+ocorre na fase instrutória do processo . Há, além disso, a possibilidade de pedir e apresentar
+provas, dentre outras possibilidades.
+Ainda sobre os direitos assegurados nes ses princípios, às partes deve ser assegurado o
+direito de defender-se provando. Isso significa que a prova deve ser um dos componentes do
+direito de defesa, não sendo restrito apenas a sua proposição, mas deve também abarcar a sua
+produção14.
+De acordo com Vanessa Morais Kiss, “ É possível falar -se na existência de um
+verdadeiro direito à investigação, na medida em que a prerrogativa de pesquisar e reunir
+elementos de forma autônoma é condição para o exercício adequado do direito à prova e para
+uma defesa efetiva.”15
+13 NERY JR., Nelson. Princípios do processo civil na Constituição Federal. 2ª. Edição. São Paulo: Revista dos
+Tribunais, 1995.
+14“Dessa maneira, embora historicamente tenha se apresentado um caminho tortuoso no sistema europeu
+continental acerca da relação das partes com a prova, principalmente em razão da “subalternidade” destas, na
+tradição inquisitória, na tarefa de obtenção de e lementos de prova, tem -se assentado atualmente que, no plano
+probatório, as partes exercem o direito processual de se utilizar dos meios de comprovação daquilo que alegam,
+com vistas a corroborar as hipóteses por elas apresentadas. Isso porque as faculdades que decorrem dos direitos de
+ação e de defesa não se encerram somente no ato inicial da propositura da demanda, ou mesmo na sua primeira
+refutação, mas se desenrolam ao longo de todo o procedimento.” SILVA, Bernardo Braga e. O direito à admissão
+da prova do acusado no processo penal brasileiro. 1ª. Edição. Curitiba: CRV, 2019. Página 43.
+15 KISS, Vanessa Morais. A investigação defensiva no Direito Processual Penal Brasileiro. - São Paulo: [s.n.],
+2021. Página 24. Disponível em:
+https://tede.pucsp.br/bitstream/handle/24841/1/Vanessa%20Morais%20Kiss.pdf. Acesso em 18 de abril de 2024.
+O contraditório efetivo, então, presume que os contra interessados possuam o direito de
+defesa, além da possibilidade de discutir os efeitos da sentença que tenha sido produzida sem a
+sua plena participação. Assim, evidencia-se que o direito à prova é consequência lógica do
+contraditório, sendo certo que pode ser considerado um subprincípio da garantia da ampla
+defesa16.
+O princípio da motivação das decisões judiciais também é relevante dentro do direito de
+defesa. Segundo a Constituição Federal, em seu artigo 93, inciso IX, todas as decisões judiciais
+devem ser fundamentadas, sob pena de nulidade. Essa garantia permite às partes adentrar no
+raciocínio construído pelo juiz para justificar o seu agir e, assim, caso conveniente, tenha a
+possibilidade de contestar em via recursal17.
+Além da Constituição, a mais relevante redação legislativa atual acerca da motivação
+das decisões judiciais na seara penal está ao longo do artigo 315 do Código de Processo Penal18,
+sendo certo que foi um recente marco para reafirmar a possibilidade de defesa do acusado
+criminalmente ao determinar preceitos de uma decisão ideal.
+16 “Ressalte-se, todavia, que o direito à prova, quando titularizado pelo réu, além de se revelar como decorrência
+natural do contraditório, surge principalmente como um corolário, ou subprincípio, do princípio da ampla defesa,
+além de garantia primária do processo.” SILVA, Bernardo Braga e. O direito à admissão da prova do acusado no
+processo penal brasileiro. 1ª. Edição. Curitiba: CRV, 2019. Página 44-45.
+17 BADARÓ, Gustavo. Processo Penal. 11ª Edição. São Paulo: Revista dos Tribunais, 2023. Página 73.
+18 “Art. 315. A decisão que decretar, substituir ou denegar a prisão preventiva será sempre motivada e
+fundamentada. (Redação dada pela Lei nº 13.964, de 2019) (Vigência)
+§ 1º Na motivação da decretação da prisão preventiva ou de qualquer outra cautelar, o juiz deverá indicar
+concretamente a existência de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada.
+(Incluído pela Lei nº 13.964, de 2019) (Vigência)
+§ 2º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+(Incluído pela Lei nº 13.964, de 2019) (Vigência)
+I - limitar-se à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou
+a questão decidida; (Incluído pela Lei nº 13.964, de 2019) (Vigência)
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+(Incluído pela Lei nº 13.964, de 2019) (Vigência)
+III - invocar motivos que se prestariam a justificar qualquer outra decisão; (Incluído pela Lei nº 13.964, de 2019)
+(Vigência)
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada
+pelo julgador; (Incluído pela Lei nº 13.964, de 2019) (Vigência)
+V - limitar-se a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem
+demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; (Incluído pela Lei nº 13.964, de 2019)
+(Vigência)
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a
+existência de distinção no caso em julgamento ou a superação do entendimento. (Incluído pela Lei nº 13.964, de
+2019) (Vigência)”
+Outro princípio relevante para o direito à prova é o devido processo legal. De acordo
+com o artigo 5º, inciso LIV , da Constituição Federal: “Ninguém será privado da liberdade ou
+de seus bens sem o devido processo legal.” Desse modo, pode-se entender por devido processo
+legal o princípio no qual é assegurado a todos o direito ao processo com todas as devidas
+garantias constitucionais e etapas previstas no texto legal.
+Tal princípio faz luz à Declaração Universal dos Direitos do Homem de 194819, em seu
+artigo XI, nº. 1, quando expõe que o acusado deve ser presumido inocente até que a lei prove
+sua culpabilidade, em julgamento público e com todas as garantias defensivas protegidas.
+Diante ao exposto, e em relação ao devido processo legal no cenário constitucional de
+1988, Alexandre de Moraes 20 diz que este princípio protege o indivíduo tanto no cenário
+material quanto no formal. Material quando assegura o direito de liberdade, e formal quando
+garante a paridade com relação ao Estado por meio do direito de defesa. Além disso, Moraes
+ainda aponta que o devido processo legal possui como “corolários a ampla defesa e o
+contraditório”.
+Ainda nessa perspectiva, Gustavo Badaró21 entende que o devido processo legal seria
+uma espécie de síntese de todos princípios processuais.
+Outro princípio intrinsecamente ligado ao direito à prova é a isonomia22. Na aplicação
+processual, este princípio, denominado também de paridade de armas, determina que se deve
+tratar os desiguais de forma desigual, na medida em que se tem a desigualdade das partes.
+19 “Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que sua culpabilidade
+tenha sido provada de acordo com a lei, em julgamento público no qual lhe tenham sido asseguradas todas as
+garantias necessárias à sua defesa.” ORGANIZAÇÃO DAS NAÇÕES UNIDAS. Declaração Universal dos
+Direitos Humanos, 1948. Disponível em: <https://www.unicef.org/brazil/declaracao -universal-dos-direitoshumanos>. Acesso em: 24 de out. de 2023.
+20 “O devido processo legal configura dupla proteção ao indivíduo, atuando tanto no âmbito material de proteção
+ao direito de liberdade, quanto no âmbito formal, ao assegurar -lhe paridade total de condições com o Estado -
+persecutor e plenitude de defesa” MORAES, Alexandre de. Direito constitucional. 23ª Edição. São Paulo: Atlas,
+2008.
+21 “De outro lado, o devido processo legal ainda mantém a sua face processual. O princípio do devido processo
+legal, em seu aspecto processual, é um princípio síntese, que engloba os demais princípios e garantias processuais
+assegurados constitucionalmente. Assim, bastaria que a Constituição assegurasse o devido processo legal e todos
+os demais princípios dele defluiriam.” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos
+Tribunais, 2022. Página 101.
+22 “Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo -se aos brasileiros e
+residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade”.
+BRASIL. Constituição da República Federativa do Brasil de 1988. Disponível em:
+https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em 22 de junho de 2023.
+Ou seja, é papel do juiz no caso concreto garantir que haja, de fato, a isonomia material.
+De acordo com Evinis Talon23, “a paridade de armas exige a possibilidade de atuação ampla da
+defesa, com todos os meios possíveis, e não apenas uma participação passiva, vazia e
+meramente formal.”
+Exemplo disso é a garantia do acusado de ter acesso a todo o acervo de documentos
+utilizados pelo Ministério Público quando do oferecimento da denúncia. Nesse sentido, não se
+pode abrir prazo para a resposta à acusação se a totalidade do material não estiver à disposição
+da defesa técnica.
+Ainda nesse aspecto, de acordo com Gabriel Bulhões Nóbrega Dias24,
+Para que o processo penal seja efetivamente democrático é imprescindível a chamada
+paridade de armas que objetiva que as instituições integrantes do sistema de justiça
+aprimorem seus procedimentos tendo por referência os direitos e garantias
+fundamentais constitucionalmente reconhecidos
+Por fim, a garantia à razoável duração do processo também é relevante no que se refere
+ao direito à prova, isso porque assegura ao acusado uma resposta jurisdicional efetiva e
+consideravelmente célere, conforme a complexidade e demandas específicas do caso concreto.
+Sobre a duração razoável do processo , é importante mencionar que a prova passa por
+quatro momentos dentro da relação processual: quando se é proposta; quando se é admitida;
+quando se é produzida; e, por fim, quando se é valorada/apreciada. 25 Logo, deve-se ponderar
+dentro dessas etapas a razoabilidade, já que há possibilidade dilações indevidas, as quais, se
+ocorrerem, devem ensejar na liberdade do acusado, caso este esteja preso cautelarmente26.
+23 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 21.
+24 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal brasileira.
+2ª. edição. Florianópolis: EMais, 2022. Página 65
+25 “Dentro da estrutura processual, a prova passa por quatro momentos distintos: proposição, admissão, produção
+e apreciação. Primeiro, há a indicação ou o requerimento da prova. Em seguida, ocorre a análise judicial da
+admissibilidade, que, se resultar em juízo positivo, leva à introdução da prova no processo. Por fim, há a valoração
+da prova pelo juiz.” MACHADO, André Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo:
+Revista dos Tribunais, 2010. Página 113.
+26 “O direito ao processo em prazo razoável deve ser analisado em um dúplice aspecto: (1) o direito a um processo
+penal ou de qualquer outra natureza (civil, trabalhista...), em prazo razoável ou sem dilações indevidas; (2) o direito
+ao desencarceramento do acusado preso cautelarmente, caso não seja julgado em um tempo razoável ou sem
+Em sentido oposto, é entendimento jurisprudencial, com base nas Súmulas 52 e 64 do
+Superior Tribunal de Justiça27, que não se considera constrangimento ilegal , logo, não há que
+se falar em imediata liberdade do acusado preso cautelarmente, se o excesso de prazo durante
+a instrução for provocado pela defesa.
+Contudo, o que se evidencia na prática forense é que, embora as demandas defensivas
+sejam pertinentes para o deslinde processual, o aparato que efetua estas diligências não está ao
+alcance da defesa técnica . Exemplo disso ocorre quando do cumprimento da intimação das
+testemunhas arroladas pela defesa, mas executada por órgãos estatais, que por vezes podem não
+ser efetivos, o que prejudica por certo a duração razoável do processo, mas que certamente não
+é provocada pela defesa do representado.
+Outra crítica considerável a respeito do exposto é que não há na legislação nenhuma
+determinação de prazo que pondere o que é razoável ou não 28, o que prejudica fortemente a
+eficácia deste princípio. Consequência disso deveria ser a imposição da soltura do réu 29, mas
+não é sempre o que ocorre. Como dito acima, muitas vezes, recai à defesa técnica a culpa por
+tentar alcançar o apropriado direito de defesa.
+1.2. O CONTEXTO HISTÓRICO DO DIREITO À PROVA
+Acerca do contexto histórico do direito à prova, cabe adentrar no estudo dos dois
+sistemas processuais penais existentes: acusatório e inquisitório.
+dilações indevidas.” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais , 2022.
+Página 91.
+27SÚMULA N.52. Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de
+prazo.” Terceira Seção, em 17.09.1992 . DJ 24.09.1992, p. 16.070 . Disponível em:
+https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-sumulas-2006_4_capSumula52.pdf. Acesso em
+05 de março de 2024. SÚMULA N.64. “Não constitui constrangimento ilegal o excesso de prazo na instrução,
+provocado pela defesa” . Terceira Seção, em 03.12.1992 . DJ 09.12.1992, p. 23.482 . Disponível em:
+file:///C:/Users/MLA/Downloads/5258-19586-1-SM%20(2).pdf. Acesso em 05 de março de 2024.
+28 “Não há definição legal do que se deve entender por razoabilidade da duração do processo. Essa posição,
+conhecida como “doutrina do não prazo”, é extremamente criticável.” BADARÓ, Gustavo. Processo Penal. 10ª
+Edição. São Paulo: Revista dos Tribunais, 2022. Página. 93.
+29 “Imprescindível, para a eficácia do direito fundamental, que a lei preveja o prazo máximo de duraão da prisão e
+imponha, como consequência automática do excesso, a soltura do réu.” BADARÓ, Gustavo. Processo Penal. 10ª
+Edição. São Paulo: Revista dos Tribunais, 2022. Página. 93-94.
+Surgido em Roma, cerca de um século antes de Cristo, o sistema acusatório dividia o
+processo penal em três personagens: juiz, acusador e acusado 30. A função principal desse
+modelo processual era a separação entre quem acusa e quem julga31, com o intuito de que seja
+assegurada a imparcialidade do julgamento.
+Ainda nessa perspectiva, a gestão e produção de provas era de competência exclusiva
+das partes32. O procedimento era público, contraditório e oral, sendo certo que a liberdade do
+acusado era tida como regra (presunção de inocência) 33, podendo inclusive a defesa técnica
+participar da investigação em prol de seu representado. Ou seja, o acusado era um sujeito
+processual com direitos assegurados, inclusive sendo disposto o direito ao silêncio34.
+O sistema inquisitório, por sua vez, tinha por figura principal processual o juiz
+inquisidor, o qual concentrava ambas as funções de acusar e julgar 35. O procedimento poderia
+ser iniciado tanto de ofício como também através de uma investigação secreta na qual, por certo,
+não havia possibilidade de utilizar -se do contraditório 36. Prezava -se também por um
+procedimento escrito e secreto. Sobre a produção das provas, caberia ao juiz a sua gestão 37,
+30 “O processo acusatório é essencialmente um processo de partes, no qual acusação e defesa se contrapõem em
+igualdade de posições, e que apresenta um juiz sobreposto a ambas.” BADARÓ, Gustavo. Processo Penal. 10ª
+Edição. São Paulo: Revista dos Tribunais, 2022. Página 110.
+31 “Há uma nítida separação de funções, atribuídas a pessoas distintas, fazendo com que o processo se caracterize
+como um verdadeiro actum trium personarum, sendo informado pelo contraditório.” BADARÓ, Gustavo.
+Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 202 2. Página 110.
+32 “Ainda do ponto de vista histórico, o juiz não possuía qualquer iniciativa probatória, sendo um assistente passivo
+e imóvel da atividade das partes, a quem incumbia a atividade probatória.” BADARÓ, Gustavo. Processo Penal.
+10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 110.
+33 “E, além de suas características históricas de oralidade e publicidade, vigora, no processo acusatório, o princípio
+da presunção de inocência, permanecendo o acusado em liberdade até que seja proferida a sentença condenatória
+irrevogável.” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 202 2. Página
+110.
+34 “Já no modelo acusatório o acusado é um sujeito de direito, a quem se assegura a ampla defesa, com o direito
+de produzir provas aptas a demonstrar a versão defensiva de um lado, e sendo -lhe assegurado, de outro, o direito
+ao silêncio, eliminando qualquer dever de colaborar com a descoberta da verdade.” BADARÓ, Gustavo. Processo
+Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 111.
+35 “Já no processo inquisitório, as funções de acusar, defender e julgar encontram -se enfeixadas em uma única
+pessoa, que assume assim as vestes de um juiz acusador, isto é, um inquisidor.” BADARÓ, Gustavo. Processo
+Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 110.
+36 “A ação iniciava-se ex officio, por ato do juiz. Em tal processo não havia contraditório, que não seria nem mesmo
+concebível em virtude da falta de contraposição entre acusação e defesa. Excluída a dialética entre acusação e
+defesa, a investigação cabia unilateralmente ao inquisidor.” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São
+Paulo: Revista dos Tribunais, 2022. Página 110.
+37 “O juiz inquisidor tinha liberdade de colher provas, independentemente de sua proposição pela acusação ou pelo
+acusado.” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 110.
+sendo o réu mero objeto processual 38. Ainda, era muito comum a utilização da tortura como
+ferramenta para a confissão do acusado39 e a prisão era preceito basilar40.
+Segundo Antonio Magalhães Gomes Filho41,
+Não é difícil concluir que diante dessa postura metodológica ganha importância a
+figura do juiz na colheita do material probatório, “ para que a punição seja mais
+apropriada à personalidade do réu ”, ao mesmo tempo em que a participação da
+acusação e da defesa no procedimento é vista como forma historicamente superada,
+relacionada aos tempos em que a perseguição dos criminosos não era considerada uma
+função social; a presença das partes, o contraste de forças, a luta, não são compatíveis
+com o método de investigação objetiva e conscenciosa da verdade; no processo penal,
+os sujeitos participantes não têm qualquer poder dispositivo sobre as provas,
+limitando-se a fornecer uma ajuda ao juiz para o acertamento da verdade.
+Hoje, embora prevaleça um sistema acusatório na maio r parte dos países, onde há
+distinta separação entre acusar, julgar e defender, com relação à produção probatória , esse
+sistema sofreu uma certa alteração, podendo hoje ser considerado um sistema misto42.
+Nesse sentido, ainda prevalece às partes a iniciativa probatória, contudo, cabe também
+ao juiz , em caráter suplementar, determinar de ofício a sua produção, caso entenda por
+pertinente, como é o caso de requerer a oitiva de uma testemunha referida ao longo da audiência
+de instrução e julgamento43.
+38 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 202 2. Página 110.
+39 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 110 -111.
+40 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 110 .
+41 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 35.
+42 “A combinação entre os padrões inquisitório e acusatório, introduzida pelo Code d’ instruction criminelle
+francês teve grande aceitação, influenciando desde logo os demais ordenamentos continentais e, como já disse,
+representa até os dias atuais o modelo inspirador da maioria das legislações.” GOMES FILHO, Antonio
+Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais, 1997. Página 31.
+43 “Art. 209. O juiz, quando julgar necessário, poderá ouvir outras testemunhas, além das indicadas pelas partes.
+§ 1o Se ao juiz parecer conveniente, serão ouvidas as pessoas a que as testemunhas se referirem.” BRASIL. Código
+de Processo Penal ( Decreto-lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 20 de junho de 2023.
+Vale ressaltar, além disso, que o direito à prova das partes não é limitado pelo poder
+instrutório do juiz 44, nem tampouco põe em risco a sua imparcialidade 45, o que assegura que
+esses poderes não alteram a essência democrática do sistema46. Pelo contrário, a introdução da
+prova no processo deve ocorrer por intermédio das partes, devendo o juiz atuar de forma
+complementar, através do que é permitido por lei.47
+Na realidade brasileira, o processo penal foi inicialmente vinculado ao sistema
+inquisitório através do Código de 1941, inspirado no fascismo italiano de 1930. No entanto,
+atualmente é entendido como um sistema misto, porquanto sofrera alterações essenciais com
+base na Constituição de 1988 e nas Convenções Internacionais de Direitos Humanos , mais
+especificamente na Convenção Americana de Direitos Humanos.
+Além disso, em momento recente, alterou -se com base na Lei número 13.964/2019 48
+(Pacote Anticrime), criada com o intuito de lapidar a legislação penal e processual penal,
+aprimorando as bases acusatórias até na fase preliminar.
+Exemplo disso foi a criação do juiz de garantias, criado com o intuito de equilibrar a
+lógica processual, assegurando às partes o equilíbrio necessário e relevante para a lógica
+acusatória, o que evita, assim, a contaminação cognitiva prévia do magistrado49.
+44 “Além disto, as partes ainda conservam a sua iniciativa probatória, sendo, aliás, cada vez mais destacado o seu
+direito à prova. No entanto, além de as partes continuarem a ter iniciativa probatória, também o juiz passou a poder
+determinar, ex officio, a produção de provas. Em outras palavras, a atividade probatória deixa de ser monopólio
+das partes, que passam a compartilhá -la com o juiz. Os poderes instrutórios do juiz, contudo, não limitam ou
+impedem o direito à prova das partes. ” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos
+Tribunais, 2022. Página 112.
+45 “Partindo da distinção de fontes de prova e meios de provas, percebe-se, facilmente, que a imparcialidade corre
+perigo quando o juiz é um pesquisador, ou um “buscador” de fontes de provas. Já o juiz que, diante da notícia de
+uma fonte de prova, por exemplo, a informação de que certa pessoa presenciou os fatos, determina a produção do
+meio de prova correspondente – o testemunho -, para incorporar ao processo os elementos de informações contidos
+na fonte de prova, não está comprometido com uma hipótese prévi a, não colocando em risco a sua posição de
+imparcialidade. Ao contrário, o resultado da produção daquele meio de prova pode ser em sentido positivo ou
+negativo, quanto à ocorrência do fato. ” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos
+Tribunais, 2022. Página 112.
+46 “Do ponto de vista ideológico, trata -se de uma forma democrática do exercício do poder, permitindo que o
+destinatário do ato possa influenciar na sua formação .” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São
+Paulo: Revista dos Tribunais, 2022. Página 112.
+47 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997, p. 70.
+48 “Artigo 3-A. O processo penal terá estrutura acusatória, vedadas a iniciativa do juiz na fase de investigação e a
+substituição da atuação probatória do órgão de acusação”. BRASIL. Lei número 13.964, de 24 de dezembro de
+2019. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019 -2022/2019/lei/l13964.htm. Acesso em 16
+de abril de 2024.
+49 “A já citada Lei Federal nº 13.964/2019 trouxe, por exemplo, a figura do Juiz de Garantias (artigo 3º- B do CPP),
+que equilibra em certa medida o jogo processual, tendo em vista a garantia de equidistância do julgador para com
+Com relação à fase pré -processual50, identifica -se que o procedimento, através
+sobretudo do inquérito policial51, realizado pela Polícia Judiciária 52, ainda é englobado por
+características do modelo inquisitório, já que é secreto, escrito e sem contraditório53.
+O controle externo é realizado pela figura do Ministério Público, podendo, inclusive,
+requisitar diligências, com base no artigo 129, inciso VIII, da Constituição de 198854 e também
+o artigo 38 da Lei Complementar 75/93 55, bem como arquivar os autos do inquérito policial,
+caso entenda que não há indícios de autoria e materialidade delitiva para consubstanciar a
+propositura da ação penal56.
+Hoje, houve uma certa mitigação do procedimento oculto na fase preliminar , isso
+porque, de acordo com a Súmula Vinculante 14, do Supremo Tribunal Federal, “é direito do
+defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já
+as teses processuais lançadas pelas partes (acusação e defesa), evitando fenômenos psicológicos como o da
+dissonância cognitiva ou da contaminação cognitiva prévia do Juízo para com os elementos de informação
+angariados pelo Estado na etapa pré -processual.” DIAS, G. B. N. Manual Prático de Investigação Defensiva: um
+novo paradigma na advocacia criminal brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 74.
+50 “A persecução penal se desenvolve, ordinariamente, em duas fases: investigação preliminar e processo judicial.”
+BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 137.
+51 “Historicamente, a condução da investigação preliminar no Brasil sempre esteve a cargo de órgãos responsáveis
+pela persecução penal e aplicação do jus puniendi estatal. Por força do que estabelece o art. 144 da Constituição
+Federal e reforçado pelo advento da Lei 12.830/2013, a apuração da prática de infrações penais majoritariamente
+é instrumentalizada por intermédio do inquérito policial cuja atribuição compete às policias civil e federal (...)”
+(DIAS, 2023, p. 30)
+52 “A polícia se divide em polícia de segurança, que exerce atividade preventiva, bem como atividade de repressão
+imediata ao delito, no caso das polícias militares, e polícia judiciária, também chamada “repressiva”, que exerce
+atividade de investigação do d elito, o que fica a cargo da Polícia Civil dos Estados e da Polícia Federal.” (...)
+“Embora denominada polícia “judiciária”, tal palavra designa apenas a finalidade de sua atividade, posto que o
+inquérito por ela desenvolvido servirá de base para que se dê início a um processo penal, que tramitará perante o
+Poder Judiciário.” BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022.
+Página 137.
+53 “Entre as características do inquérito policial, destaca -se tratar -se de um procedimento escrito e sigiloso.”
+BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 143.
+54 “Art. 129. São funções institucionais do Ministério Público:
+VIII - requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos
+de suas manifestações processuais;” BRASIL. Constituição da República Federativa do Brasil de 1988. Disponível
+em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em 16 de março de 2024.
+55 “Art. 38. São funções institucionais do Ministério Público Federal as previstas nos Capítulos I, II, III e IV do
+Título I, incumbindo-lhe, especialmente:
+II - requisitar diligências investigatórias e instauração de inquérito policial, podendo acompanhá -los e apresentar
+provas;” BRASIL. Lei Complementar número 75, de 20 de maio de 1993. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp75.htm. Acesso em 16 de abril de 2024.
+56 “Art. 28. Ordenado o arquivamento do inquérito policial ou de quaisquer elementos informativos da mesma
+natureza, o órgão do Ministério Público comunicará à vítima, ao investigado e à autoridade policial e encaminhará
+os autos para a instância de revisão ministerial para fins de homologação, na forma d a lei.” BRASIL. Código de
+Processo Penal (Decreto -lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 16 de abril de 2024.
+documentados em procedimento investigatório realizado por órgão com competência de polícia
+judiciária, digam respeito ao exercício do direito de defesa.”57
+Além disso, o Código de Processo Penal, em seu artigo 1458, expõe que “o ofendido, ou
+seu representante legal, e o indiciado poderão requerer qualquer diligência, que será realizada,
+ou não, a juízo da autoridade.”
+Contudo, esse direito não é amplo, ao passo que, caso a autoridade policial entenda o
+requerimento defensivo como protelatório, permite -se o seu indeferimento por decisão
+motivada, o que não ocorre quando das requisições ministeriais.
+Em um momento posterior, ou seja, na fase do processo judicial, evidencia-se que o
+sistema brasileiro mantém as características do sistema acusatório de separação probatória entre
+quem acusa, julga e defende, sendo não só as partes capazes de produzir provas, mas também
+há possibilidade de o juiz atuar de ofício e em caráter subsidiário ou complementar . Assim,
+caberá ao juiz, segundo Gustavo Badaró59, “a missão de igualar os desiguais”.
+Logo, é possível concluir que algumas das causas que justificam a dificuldade que se é
+ampliar o direito à prova é, sem dúvidas, a tradição do sistema inquisitório nos ordenamentos
+continentais. 60
+Contudo, como exposto, é crescente a discussão acerca da importância da produção
+probatória eficaz no processo penal, sobretudo elaborada pela defesa técnica do representado ,
+sendo certo que há novas determinações assegurando essa lógica. Nesse sentido, o sistema
+acusatório traz inúmeras garantias para o acusado, sobretudo com relação à produção
+probatória, em que há margem para a defesa técnica se insurgir em momentos oportu nos para
+defender o representado da melhor forma.
+57 BRASIL. Supremo Tribunal Federal. Súmula Vinculante 14, de 2009. Disponível em:
+https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1230. Acesso em 24 de junho de
+2023.
+58 BRASIL. Código de Processo Penal (Decreto -lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 11 de março de 2024.
+59 “Subjetivamente, porque a missão de igualar os desiguais é atribuída ao juiz e, assim, o contraditório não só
+permite a atuação das partes, como impõe a participação do julgador.” BADARÓ, Gustavo. Processo Penal. 10ª
+Edição. São Paulo: Revista dos Tribunais, 2022. Página 65.
+60 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997, p. 63.
+1.3. CONCEITO, OBJETIVO, NATUREZA JURÍDICA, TITULARES,
+ESTRUTURA NORMATIVA E LIMITES.
+Por definição, prova nada mais é do que um instrumento para a constatação de um fato.
+De acordo com Franklin Roger61, “a prova deve ser compreendida como o conjunto de atos
+produzidos dentro ou fora do processo e que se destinam à verificação e elucidação de
+determinado fato, sendo submetidos ao contraditório e à valoração na relação processual.”
+Segundo Gustavo Badaró, há pelo menos três conceitos de prova: atividade probatória,
+meio de prova e resultado probatório.62
+Por atividade probatória, pode -se entender que é o conjunto de atos com vistas a
+reproduzir os fatos do passado que estão em análise. É atividade exercida sobretudo pelas partes
+e, quando necessário, pelo juiz.
+Com relação à concepção como meio de prova, evidencia-se que a prova é instrumento
+de introdução de elementos no processo, a fim de que se busque um resultado do conflito dentro
+dos moldes da lei.
+Por fim, o termo resultado probatório se dá com o intuito de evidenciar o resultado
+obtido através dos elementos juntados aos autos, os quais por certo influenciam no
+convencimento do juiz acerca dos fatos.
+Dessa forma, o princípio processual do direito à prova se mostra essencia l, tendo em
+vista a necessidade de se garantir segurança jurídica às partes envolvidas através da busca, em
+tese, da verdade real63, a qual será evidenciada mais à frente.
+61 SILVA, Franklyn Roger Alves. Investigação direta pela defesa. 4ª Edição. São Paulo: Juspodivm, 2023, página
+64.
+62 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022, p. 439.
+63 SILVA, Franklyn Roger Alves. Investigação direta pela defesa. 4ª Edição. São Paulo: Juspodivm, 2023, página
+74-75.
+Mas não somente isso, segundo Bernardo Braga64,
+Não se pode diminuir a extrema importância do direito à prova do acusado sob o
+simplório – e falso – fundamento de que se trataria de mero direito individual, de
+interesse unicamente privado, que justificaria, portanto, sua subserviência frente aos
+interesses públicos e coletivos. Isso porque sempre haverá um interesse público
+subjacente ao respeito aos direitos fundamentais do indivíduo, configurando -se sua
+proteção algo relevante a toda sociedade, e não apenas àquele cidadão individualizado
+que eventualmente teve o seu direito à prova relativizado no caso concreto.
+Em se tratando da esfera penal, entende-se que o valor probatório é de suma relevância,
+já que os bens jurídicos envolvidos são os mais sensíveis e, por esse motivo, faz-se necessário
+limitar o poder punitivo do Estado, concepção esta advinda do pensamento iluminista do século
+XVIII e que se mantém até hoje.
+Por certo, os mecanismos de confecção probatória servem para formar a convicção do
+juiz ao analisar o caso concreto, que, por sua vez, decide de acordo com seu livre convencimento
+motivado65.
+Antonio Magalhães66 diz que além dessa responsabilidade intraprocessual, a fim de que
+seja formada o entendimento jurisdicional mais coerente, os elementos probatórios elaborados
+nos autos servem também como uma assimilação de “valores e símbolos vigentes na
+sociedade”.
+Nesse sentido, o direito à prova não deve se limitar aos aspectos jurídicos, mas também
+avaliar aspectos culturais, sociais e políticos, além do tempo e espaço, tendo em vista que a
+prova é um meio de se assegurar à população uma resposta jurisdicional de um conflito social67.
+64 SILVA, Bernardo Braga e. O direito à admissão da prova do acusado no processo penal brasileiro. 1ª. Edição.
+Curitiba: CRV, 2019, página 234.
+65 “Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não
+podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação,
+ressalvadas as provas cautelares, não repe tíveis e antecipadas” BRASIL. Código de Processo Penal ( Decreto-lei
+nº. 3.689), de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decretolei/del3689.htm. Acesso em 15 de março de 2024.
+66 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997, p. 13.
+67 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997, p. 14 e 18.
+Sobre a natureza jurídica, o direito à prova possui natureza subjetiva, porque são os
+próprios personagens processuais os possibilitados a atuar na tentativa de formar convicção do
+magistrado na atividade jurisdicional através da oportunidade de produção de provas e do
+exercício pleno do contraditório e da ampla defesa.
+De acordo com Gustavo Badaró68, o contraditório deve ser efetivo e equilibrado, ou seja,
+“deve haver real e igualitária participação dos sujeitos processuais ao longo de todo o processo,
+assegurando a efetividade e a plenitude do contraditório.”
+Os destinatários das provas, portanto, são os mesmos personagens: o juiz e as partes.
+Segundo Franklyn Roger 69, o acusado tem interesse na produção probatória, porquanto não
+basta a motivação da decisão que decide sobre sua conduta, mas sim o caminho percorrido pela
+prova que constata a sua responsabilização ou não em determinada conduta enquadrada no
+Código Penal.
+No Código de Processo Penal, o direito à prova sofreu alterações com a Lei
+11.690/2008. Em seu artigo 155, o texto legal estabeleceu uma clara diferenciação entre
+elementos informativos e prova.
+Sobre isso, cabe ressaltar que os elementos informativos são colhidos em sede
+investigativa e sem a oportunidade de ciência e participação das partes (contraditório) – salvo
+as provas cautelares, não repetíveis e antecipadas, ao passo que a prova é feita de forma
+diametralmente oposta em sede judicial70.
+68 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022, p. 65.
+69 “O acusado possui interesse na prova produzida e na constatação de sua efetiva responsabilidade, e não somente
+na motivação da decisão que o condena ou absolve”. SILVA, Franklyn Roger Alves. Investigação direta pela
+defesa. 4ª Edição. São Paulo: Juspodivm, 2023, p. 67.
+70 “Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não
+podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação,
+ressalvadas as provas cautelares, não repetíveis e antecipadas.” BRASIL. Código de Processo Penal (DECRETOLEI Nº 3.689), de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decretolei/del3689.htm. Acesso em 22 de março de 2024.
+Houve também, no artigo 157 71, expressa menção à vedação à prova ilícita, devendo
+esta ser desentranhada dos autos. Prova ilícita é aquela contrária às determinações previstas na
+Constituição Federal72.
+Nesses casos, sua punição é tanto com relação ao direito material, devendo ser aplicada
+pena ao delito praticado nessa ilegalidade, mas também no plano processual, devendo a prova
+ser inadmitida.
+Vale também diferenciar prova ilícita da ilegítima. Esta última não viola norma
+constitucional, mas sim norma processual. Sua consequência, portanto, é a nulidade dessa
+prova.
+1.4 A VERDADE NO PROCESSO PENAL
+Um tópico bastante debatido na seara do direito à prova é a busca pela de verdade real
+ou material.
+Em primeiro ponto, ressalta-se que o processo penal tem por escopo servir de ferramenta
+para a aplicação da lei penal. Ou seja, faz -se necessária a constatação dos fatos ao longo do
+processo, mais especificamente na fase instrutória, para que haja, por consequência, a aplicação
+sanção penal. Logo, é evidente concluir que há uma expectativa com relação à produção das
+provas, como se fosse viável “atingir ou reproduzir a realidade dos fatos.”73
+Assim, o princípio da verdade real foi criado com o ideal de demostrar que iniciativa
+probatória do juiz se justificaria como meio para alcançar a verdade dos fatos , como se os fins
+justificassem os meios.
+71 “Art. 157. São inadmissíveis, devendo ser desentranhadas do processo, as provas ilícitas, assim entendidas as
+obtidas em violação a normas constitucionais ou legais.” BRASIL. Código de Processo Penal (DECRETO-LEI Nº
+3.689), de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm.
+Acesso em 22 de março de 2024.
+72 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022, p. 460.
+73 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 12.
+Diante dessa lógica, a ilicitude com relação a como a prova foi obtida, por exemplo, não
+seria considerada para fins de formação do convencimento pelo juiz. 74 Ou seja, independente
+da consequente sanção penal que o infrator poderia vir a sofrer, a prova seria admitida no plano
+processual sob a intenção de alcançar a “verdade real”.
+Contudo, d e acordo com Franklyn Roger 75, a busca pela verdade real pode ser vista
+como um dos grandes mitos do processo penal, tendo em vista a incapacidade humana de se
+alcançar a verdade de um fato ocorrido no passado. Fato é que o processo penal é uma
+contraposição de “verdades”, sendo certo que o mais difícil é promover a reconstrução dos
+fatos.76
+Ainda nesse sentido,
+A construção da doutrina processual penal passou por um percurso que erigiu a
+verdade real como verdadeiro ícone da atividade probatória e objetivo final da relação
+processual, o que, durante muito tempo, orientou uma jornada incessante para o seu
+alcance, criando quase que mitos de que a verdade do processo era absoluta e, em
+muitos casos, manifestações divinas (ordálios).77
+Gustavo Badaró vai além e afirma que, além de inatingível, a verdade real não deve ser
+a finalidade do processo penal , até porque se fosse, haveria um excesso de poderes, com
+características do modelo inquisitório, com o intuito de alcançar essa verdade , sobretudo na
+figura do juiz.78 O escopo do processo, portanto, deve ser a correta aplicação da lei penal, onde
+a busca pela verdade é o meio.79
+Evinis Talon80 expõe uma crítica com relação a o princípio da verdade real , pontuando
+que este é utilizado no processo penal com o intuito de deferir requerimentos do Ministério
+74 DE SOUZA, Alexander Araújo. A Inadmissibilidade, no Processo Penal, das Provas Obtidas por Meios IlÌcitos:
+Uma Garantia Absoluta?. Revista da EMERJ, v.7, n.27. 2004. Disponível em:
+https://www.emerj.tjrj.jus.br/revistaemerj_online/edicoes/revista27/revista27_185.pdf . Acesso em 26 de abril de
+2024.
+75 SILVA, Franklyn Roger Alves. Investigação direta pela defesa. 4ª Edição. São Paulo: Juspodivm, 2023, páginas
+73-74.
+76 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 433.
+77 SILVA, Franklyn Roger Alves. Investigação direta pela defesa. 4ª Edição. São Paulo: Juspodivm, 2023, página
+74.
+78 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 437.
+79 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 439.
+80 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 12.
+Público que, muitas vezes, são intempestivos ou excessiv os, sempre com a justificativa de
+atingir o maior grau de proximidade dos fatos.
+Exemplo disso ocorre no momento da inquirição das testemunhas. Por vezes, o juiz
+defere a oitiva uma testemunha indicada pelo órgão ministerial fora do prazo.81 Assim, embora
+haja previsão legal 82 nesse sentido, há uma discrepância com relação à paridade de armas,
+porquanto não se vê na prática o mesmo tratamento com relação a pedidos de oitivas de
+testemunhas requeridos pela defesa técnica, como é o caso das chamadas testemunhas
+referidas83.
+Antônio Magalhães Gomes Filho também expõe análise sobre a dificuldade de se buscar
+a verdade no processo penal. Isso porque, diferentemente de outros tipos de estudos, como o da
+ciência experimental, a reprodução dos fatos é impossível, já que não se pode reproduzir sua
+ocorrência mais de uma vez. 84
+No caso das ciências experimentais, por exemplo, é possível reproduzir perfeitamente o
+mesmo resultado e observá-lo inúmeras vezes até obter uma conclusão, o que não ocorre na
+fase de produção probatória no processo penal, porquanto se referem a eventos findos, no qual
+o meio a se alcançar uma decisão justa e coerente ocorre através de mecanismos indiretos de
+reprodução dos fatos.
+Dessarte, c onceitos utilizados para se alcançar a verdade processual são a
+verossimilhança e a probabilidade.85 Contudo, independentemente de conceitos, os quais irão
+aproximar-se ou não da realidade do caso, fato é que a busca da verdade no processo penal é
+81 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 23.
+82 “Art. 209. O juiz, quando julgar necessário, poderá ouvir outras testemunhas, além das indicadas pelas partes.”
+BRASIL. Código de Processo Penal ( Decreto-lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 12 de março de 2024.
+83 “Art. 209 § 1o Se ao juiz parecer conveniente, serão ouvidas as pessoas a que as testemunhas se referirem .”
+BRASIL. Código de Processo Penal ( Decreto-lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 12 de março de 2024.
+84 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 44.
+85 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 46.
+um valor a ser alcançado que traz legitimidade à atividade jurisdicional ,86 porém deve haver
+limitações.
+Outro aspecto a ser analisado sobre a impossibilidade de se alcançar a busca da verdade
+real no processo penal é a inevitável formação das chamadas falsas memórias (FM), que ocorre
+quando um indivíduo se lembra de um fato que na verdade não ocorreu. As falsas memórias
+podem ocorrer tanto devido a uma distorção interna, quanto por uma falsa informação oferecida
+pelo ambiente externo.
+Com relação a fatos emocionais , como em casos de traumas decorrentes de crimes,
+estudos mostram que as falsas memórias podem ser ainda mais evidentes:
+estudos mais recentes também vêm indicando que, especialmente em se tratando de
+eventos emocionais, o aumento no índice de memória verdadeira (MV) pode vir
+acompanhado por um aumento no índice de FM (Brainerd et al., 2008). Em outras
+palavras, o fato de le mbrarmos mais de eventos emocionais não significa que essas
+lembranças sejam imunes à distorção.87
+Nesse ponto, levando em consideração que a prova testemunhal é uma das mais
+relevantes no processo penal, sobretudo nos crimes que não deixam vestígios, torna-se
+impossível assegurar a reprodução fidedigna dos fatos , o que torna a verdade real um plano
+inatingível, porquanto os meios de prova são passíveis de falha.
+Logo, é possível concluir que é impossível haver uma verdade absoluta quando se trata
+de reprodução de um fato ocorrido e finalizado no passado. O que se pode ter, diante da
+instrução probatória correta, é a constatação de uma verdade processual adequada e coerente ao
+caso concreto88.
+Assim, segundo Gustavo Badaró, “a “verdade” atingida no processo – e também fora
+dele – nada mais é do que um elevado ou elevadíssimo grau de probabilidade de que o
+86 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 54.
+87 STEIN, Lilian Milnitsky. Falsas Memórias: Fundamentos Científicos e suas Aplicações Clínicas e Jurídicas. 1ª.
+Edição. Porto Alegre: Artmed, 2010, página 88.
+88 SILVA, Franklyn Roger Alves. Investigação direta pela defesa. 4ª Edição. São Paulo: Juspodivm, 2023, página
+76.
+enunciado fático seja verdadeiro, porque os fatos ocorreram conforme as provas
+demonstram.”89
+89 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 433.
+2. A INVESTIGAÇÃO CRIMINAL DEFENSIVA
+2.1. HISTÓRICO DA INVESTIGAÇÃO CRIMINAL
+A persecução penal é dividida em duas fases: a fase pré -processual (investigação
+criminal) e a processual (processo judicial).
+Segundo Vanessa Morais Kiss90,
+a investigação criminal constitui gênero do qual são espécies a investigação policial;
+a investigação desenvolvida pelo Ministério Público; a investigação privada, levada a
+efeito por detetive profissional; a investigação defensiva; e, ainda, a investigação
+parlamentar, materializada nas comissões parlamentares de inquérito.
+No Brasil, a investigação criminal surgiu ainda na fase colonial. No entanto, foi em 1841
+que esta passou a ser conduzida da forma que vemos majoritariamente hoje: sob os cuidados
+das autoridades policiais91, no denominado inquérito policial.
+Em definição, o inquérito policial é um procedimento de cunho administrativo,
+desempenhado pela Polícia Judiciária, com a finalidade de obter elementos de prova capazes
+de evidenciar indícios de autoria e materialidade delitiva para que, caso queira, o titular da ação
+penal (seja ela públi ca ou privada) dê prosseguimento ao procedimento judicial. É um
+procedimento dispensável, caso se consiga obter tais informações por outros meios92.
+90 KISS, Vanessa Morais. A investigação defensiva no Direito Processual Penal Brasileiro. - São Paulo: [s.n.],
+2021. Página 24. Disponível em:
+https://tede.pucsp.br/bitstream/handle/24841/1/Vanessa%20Morais%20Kiss.pdf . Acesso em 06 de abril de 2024.
+91 “Apenas com a Lei 261, de 03.12.1841, é que a investigação criminal passou a ser conduzida pela Autoridade
+Policial.” MACHADO, André Augusto Mendes. Investigação criminal defensiva . 1ª. edição. São Paulo: Revista
+dos Tribunais, 2010. Página 50.
+92 “Há casos em que não se necessita de inquérito policial, por ser despicienda a investigação da ocorrência do
+crime e de sua autoria (p. ex.: um crime contra a honra cometido pela imprensa, em uma matéria assinada). Em
+outros casos, os elementos de informa ção podem ter sido colhidos por outros meios (p. ex.: processos
+administrativos disciplinares, inquéritos civis públicos, comissões parlamentares de inquérito etc.) BADARÓ,
+Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 137.
+Regulamentado em 1871 93, o inquérito policial ainda é o meio mais utilizado de
+investigação criminal preliminar no Brasil 94, não comporta a ampla defesa do investigado no
+cenário atual, isso porque possui as características do já mencionado sistema processual penal
+inquisitório, quais sejam, procedimento sigiloso e sem contraditório. Além disso, sua
+fiscalização depende apenas do Ministério Público e do Judiciário95.
+Por sua vez, a investigação defensiva também surgiu muito antes da sua atual definição.
+Nesse sentido, faz-se necessário mencionar os dois principais modelos referentes à temática: o
+italiano e o norte-americano, a fim de que possa servir de base para a presente análise.
+Na realidade italiana, embora haja anterior respaldo constitucional sobre o assunto96, a
+necessidade de impulsionar a atuação da defesa técnica do representado em sede investigativa
+se deu a partir da década de 1990, quando da chamada “Operação Mãos Limpas” 97, a qual
+desvendou esquemas de corrupção entre políticos e empresários.
+Assim, a reforma trazida pelo Código de Processo Penal Italiano, que entrou em vigor
+em 1989, assegurou o direito à investigazioni difensive98 de diversas formas a partir do exposto
+em seus artigos.
+93 BRASIL. Decreto nº. 4.824, de 22 de novembro de 1871. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto/historicos/dim/dim4824.htm . Acesso em 04 de abril de 2024.
+94 “O inquérito policial, desde a sua positivação inaugural no direito brasileiro na segunda metade do século XIX,
+continua a ser o principal modelo legal de apuração de fatos criminosos.” MACHADO, André Augusto Mendes.
+Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos Tribunais, 2010. Página 51.
+95 “Por sua vez, no inquérito policial, o defensor não possui o mesmo espaço, uma vez que a direção das
+investigações cabe à Autoridade Policial, sob a fiscalização do Ministério Público e da Autoridade Judiciária.”
+MACHADO, André Augusto Mendes. Investigaçã o criminal defensiva. 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 13.
+96 “Art. 111. (...) No processo penal a lei assegura que a pessoa acusada de um crime seja, no mais breve tempo
+possível, informada reservadamente sobre a natureza e os motivos da acusação dirigida ao seu cargo, disponha de
+tempo e das condições necessárias para preparar a sua defesa; tenha faculdade, perante o juiz, de interrogar ou de
+fazer interrogar as pessoas que fazem declarações sobre ele, obter a convocação e o interrogatório de pessoas para
+sua defesa nas mesmas condições da acusação e adquiri r qualquer outro meio de prova a seu favor; seja assistido
+por um intérprete, se não compreender ou não falar a língua utilizada num processo. ” Constituição da República
+Italiana (traduzida para português). Disponível em: https://www.areaseg.com/bib/29%20-
+%20Constituicao%20de%20Paises/Constituicao-Italia.pdf. Acesso em 10 de abril de 2024.
+97 “Na Itália, após anos dessa nova realidade trazida, a advocacia percebeu que estava a exercer um papel
+meramente protocolar, formal, no desempenho da Defesa nas Ações Penais envolvendo a Mani Pulite. Com isso,
+surge a necessidade de reinventar a participação defensiva no Processo Penal, a partir da instrumentalização
+probatória proativa e não mais refém da produção probatória estatal. Surge, assim, a Investigazione Difensive.”
+DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal brasileira.
+2ª. edição. Florianópolis: EMais, 2022.
+98 “O artigo 190 do CPPI, que consagrou o direito à prova, constitui pressuposto básico da investigação defensiva.
+No artigo 38 do CPPI, por outro lado, se facultava ao defensor apresentar diretamente ao Juiz os elementos
+produzidos e/ou coletados na investigação particular. Essa interface proporcionou o efetivo direito de se defender
+No contexto norte -americano, ao adotar desde cedo um modelo de processo penal
+adversarial, restou direcionar às partes o papel de investigar, com o intuito de promover a
+produção probatória99.
+Assim, evidencia-se que este modelo de prática forense está enraizado na cultura local,
+ou seja, não só na área criminal, mas em tudo referente ao “estilo de vida norte -americano”.
+Segundo Gabriel Bulhões Nóbrega Dias, o modelo de processo penal adversarial é evidenciado
+também com relação à Justiça Penal Negociada, hoje muito evidenciada também na realidade
+jurídica brasileira:
+O próprio conceito de barganha penal, ou Justiça Penal Negociada – tema o qual não
+caberia aqui e foge ao escopo desta obra –, é sintomático desse modelo, onde até
+mesmo os bens jurídicos penalmente relevantes, bem como suas ofensas mais graves
+passam à es fera da disponibilidade e integram um “balcão de negócios” no qual a
+moeda é informação e o objetivo sistêmico é a celeridade, o utilitarismo e o
+eficientismo (em detrimento de direitos e garantias materiais e processuais). 100
+Segundo a própria American Bar Association (Associação dos Advogados dos Estados
+Unidos), a atividade defensiva do advogado não é uma possibilidade, mas sim um dever , ou
+seja, há diretrizes que evidenciam como o advogado criminal deve atuar, inclusive na prática
+investigativa, denominada duty to investigat e. Desse modo , o advogado “deve conduzir
+imediatamente uma investigação defensiva para apurar as circunstâncias do fato posto sob seu
+escrutínio, explorando todas as vias disponíveis”101.
+Vale ressaltar, ainda, que a realidade norte-americana possui determinação que impede
+que o advogado utilize de meios ilegais para obtenção de meios de prova com o intuito de
+beneficiar o seu representado.
+provando.” DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 53.
+99 “Nessa trilha, bem de se ver que alguns ordenamentos jurídicos estrangeiros previram a investigação defensiva.
+Em realidade, cuida -se de prática antiga e usual do direito norte -americano, o qual, por observar um modelo
+processual penal “adversarial”, conc edeu às partes iniciativa probatória e investigatória.” MACHADO, André
+Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos Tribunais, 2010. Páginas 47-
+48.
+100 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 56.
+101 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 57.
+Na perspectiva latino -americana, evidencia -se que a investigação defensiva,
+inicialmente debatida também na década de 1990 na Argentina, depende de um livre arbítrio
+dos juízes, os quais têm a capacidade de autorizar ou não a produção probatória de forma
+autônoma pelo advogado102. Ou seja, está na jurisprudência e não na lei o modo de operar da
+defesa técnica do representado103.
+Em seu modo, na concepção uruguaia, há determinação recente da investigação
+defensiva (de 2017) permitindo a capacidade de produção probatória autônoma, porém esta é
+genérica104, o que impossibilita a integral eficácia desse método de defesa.
+Voltando à realidade brasileira, nota -se que ainda prevalece um modelo
+tradicionalmente inquisitório, embora já haja projeto de lei a fim de reformar o processo penal
+no sentido de trazer garantias do sistema acusatório ao acusado e promovendo as garantias
+constitucionais advindas da Constituição de 1988105.
+Além disso, não há no Brasil regulamentação legislativa que contemple expressamente
+o tema da investigação defensiva 106, o que reduz a eficácia desta ferramenta ao reduzir a
+segurança jurídica da atividade do advogado de defesa.
+Contudo, embora não se tenha à vista alteração próxima que inclua o tema no
+ordenamento pátrio, pontua-se que, de acordo com Gabriel Bulhões Nóbrega Dias107 que:
+Nesse sentido, desde que respeite os tratados internacionais de direitos humanos, as
+normas do bloco constitucional, as leis e deveres ético-administrativos, a advocacia já
+102 “(...) a capacidade autônoma de produzir elementos probatórios, por parte da Defesa, depende da boa vontade
+dos juízes”. DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 60.
+103 “Não há garantia, portanto, para a advocacia argentina, em qualquer dos códigos analisados, de produzir provas
+de forma independente e autônoma.” DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo
+paradigma na advocacia criminal brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 61.
+104 “Quanto à experiência uruguaia, tem -se igualmente um modelo de regulamentação legal, ainda no novo CPP
+que teve sua vigência iniciada em 2017. No novel código instrumental penal uruguaio, à menção expressa, porém
+genérica, à capacidade de produção probatória autônoma por parte da Defesa.” DIAS, G. B. N. Manual Prático de
+Investigação Defensiva: um novo paradigma na advocacia criminal brasileira. 2ª. edição. Florianópolis: EMais,
+2022. Página 61.
+105 Projeto de Lei do Senado n° 156, de 2009
+106 “A matéria da Investigação defensiva, como se sabe, nunca despertou a atenção do Legislador brasileiro, não
+havendo, até então, qualquer regulamentação, seja por um diploma legal próprio, ou por qualquer dispositivo
+esparço.” DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 66.
+107 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 67.
+pode se valer da investigação defensiva, tendo em vista que, ao particular, “tudo aquilo
+que não for proibido, lhe é permitido fazer.”
+Nesse interesse, surgiu o já mencionado Provimento número 188/2018, do Conselho
+Federal da OAB, o qual foi elaborado pela Comissão de Advogados Criminalistas da Seccional
+do Rio Grande do Norte da Ordem dos Advogados do Brasil, a fim de trazer um “modelo
+teórico, axiológico e documental”108.
+É evidente que o referido provimento foi um marco infralegal na realidade brasileira,
+sendo objeto de estudo nos mais diversos cenários, inclusive na chamada investigação defensiva
+corporativa, também chamada de Compliance, caracterizada por investigações internas
+conduzidas por pessoas jurídicas, com o intuito de apurar fatos que possam responsabilizar a
+empresa e seus similares.
+Acerca do tema das investigações corporativas, o Código Deontológico de Boas Práticas
+da Investigação Defensiva da Associação Brasileira de Advogados Criminalistas (ABACRIM),
+também dedicou capítulo específico com relação ao tema. Segundo o artigo 100 do referido
+código,
+A investigação interna se configura como um procedimento de cunho investigatório
+de natureza privada a ser realizado no âmbito de pessoas jurídicas a fim de apurar
+fatos sensíveis e determinados que possam estar vinculados à prática de condutas que
+atentem contra a ética no ambiente de trabalho ou empresarial e/ou que possam se
+configurar como infrações penais, nos termos da legislação federal, com a devida e
+justa apuração.
+Nesses casos, segundo Diogo Rudge Malan, a atuação do advogado externo se mostra a
+mais recomendada, porquanto evita subordinações hierárquicas dentro da estrutura empresarial
+que poderiam prejudicar o trâmite das investigações, além de não haver conflito de interesses.109
+2.2. DEFINIÇÃO E NATUREZA JURÍDICA
+O artigo 133, da Constituição Federal de 1988, expõe que a advocacia é atividade
+indispensável à administração da justiça . Logo, é plenamente viável, sob o aspecto
+108 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 68.
+109 MALAN, Diogo Rudge. Advocacia criminal contemporânea. Rio de Janeiro: Lumen Juris, 2022. Página 94.
+constitucional, a inserção do advogado, em sede de investigação, com o intuito de defender os
+interesses de seu cliente.
+Dessarte, a título de definição, a investigação defensiva pode ser entendida por ser um
+procedimento investigatório conduzido pelo defensor, com independência com relação aos
+órgãos públicos, a fim de que sejam colhidos elementos lícitos em benefício do ora
+representado110.
+Com relação à investigação defensiva per si, pode-se concluir que a natureza jurídica
+desta é de procedimento com vistas a consubstanciar tanto a fase preliminar, bem como a fase
+processual e até em sede posterior, como é o caso da revisão criminal, por exemplo.
+Fato é que a investigação em questão não deve ser vista de forma simplória, até porque,
+como acima exposto, pode ser realizada em qualquer fase processual em prol do representado,
+a fim de que logre êxito em compilar elementos probatórios que favoreçam a melhor defesa do
+interessado.
+2.3. CARACTERÍSTICAS DA INVESTIGAÇÃO DEFENSIVA
+De acordo com André Augusto Mendes Machado, são premissas da investigação
+defensiva:
+(I) prática de atos de investigação (e não de prova); (II) pelo defensor do imputado,
+com ou sem o apoio de auxiliares técnicos; (III) em qualquer momento da persecução
+penal; (IV) fora dos autos da investigação pública e como contraponto a esta; (V) com
+o objetivo de reunir elementos de convicção lícitos e relevantes para a defesa do
+imputado.
+Assim, ressalte-se que a investigação defensiva pode ser utilizada nas mais diversas
+fases da persecução penal, seja na investigação preliminar, na instrução processual, na fase
+110 “Na investigação defensiva, o defensor dita os rumos do trabalho investigatório, com total autonomia em relação
+aos entes públicos, de forma a reunir elementos materiais lícitos em favor do imputado.” MACHADO, André
+Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos Tribunais, 2010. Página 13.
+recursal, em sede de execução ou até mesmo em revisão criminal , dentre outras
+possibilidades111.
+Suas finalidades são diversas. Isso porque a investigação defensiva pode contribuir para
+o não oferecimento da ação penal, para a declaração de nulidade ou para a absolvição, por
+exemplo, sempre com vistas a favorecer o melhor interesse do representado. Outras
+possibilidades estão previstas no rol exemplificativo do artigo 3º do Provimento número
+188/2018112.
+Há também a possibilidade de, visando os interesses da vítima, angariar elementos para
+embasar um pedido de instauração do inquérito policial, o qual, por certo, aliado a um despacho
+com o Delegado de Polícia, poderá servir de base para o direcionamento da s investigações
+policiais. Nesse sentido, ainda diminui drasticamente os riscos de responsabilização por
+denunciação caluniosa113.
+111 “Art. 3° A investigação defensiva, sem prejuízo de outras finalidades, orienta -se, especialmente, para a
+produção de prova para emprego em:
+I - pedido de instauração ou trancamento de inquérito;
+II - rejeição ou recebimento de denúncia ou queixa;
+III - resposta a acusação;
+IV - pedido de medidas cautelares;
+V - defesa em ação penal pública ou privada;
+VI - razões de recurso;
+VII - revisão criminal;
+VIII - habeas corpus;
+IX - proposta de acordo de colaboração premiada;
+X - proposta de acordo de leniência;”
+112 “Art. 3° A investigação defensiva, sem prejuízo de outras finalidades, orienta -se, especialmente, para a
+produção de prova para emprego em:
+I - pedido de instauração ou trancamento de inquérito;
+II - rejeição ou recebimento de denúncia ou queixa;
+III - resposta a acusação;
+IV - pedido de medidas cautelares;
+V - defesa em ação penal pública ou privada;
+VI - razões de recurso;
+VII - revisão criminal;
+VIII - habeas corpus;
+IX - proposta de acordo de colaboração premiada;
+X - proposta de acordo de leniência;
+XI - outras medidas destinadas a assegurar os direitos individuais em procedimentos de natureza criminal.
+Parágrafo único. A atividade de investigação defensiva do advogado inclui a realização de diligências
+investigatórias visando à obtenção de elementos destinados à produção de prova para o oferecimento de queixa,
+principal ou subsidiária.” ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de
+dezembro de 2018. Disponível em https://www.oab.org.br/leisnormas/legislacao/provimentos/188 -2018. Acesso
+em 20 de abril de 2024.
+113 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 83.
+Em sentido oposto, é plenamente possível a atuação defensiva no sentido de trancar o
+inquérito policial, como ocorre em casos que a investigação defensiva contribui para compilar
+elementos de prova que comprovem que o fato investigado não é crime ou até mesmo não é
+punível, por exemplo.
+Ressalte-se que o artigo 231 114, do Código de Processo Penal, permite a junta de
+documentos aos autos em qualquer fase processual, inclusive sob qualquer procedimento ou
+grau de jurisdição115. Assim, em sede processual, os elementos obtidos através da investigação
+defensiva podem ser juntados a qualquer tempo, restando ao juiz determinar intimação dos
+autos à parte contrária para ciência de seu teor116.
+Sobre a atuação em sede processual, Evinis Talon 117 entende que “a investigação
+defensiva significaria uma instrução paralela àquela do processo, que tem participação do
+Ministério Público, querelante ou, eventualmente, do assistente de acusação, com filtro do Juiz
+para deferir ou não os requerimentos defensivos.”
+Uma estratégia comumente utilizada pela defesa ao longo da instrução criminal é
+requerer a juntada de documentos resultantes da investigação defensiva no momento da
+audiência. Tal atitude contribui na medida em que poderá indagar as testemunhas com base
+nesses elementos, além de assegurar que o Ministério Público não saiba previamen te da
+estratégia adotada118.
+114 “Art. 231. Salvo os casos expressos em lei, as partes poderão apresentar documentos em qualquer fase do
+processo.” BRASIL. Código de Processo Penal (Decreto -lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 17 de abril de 2024.
+115 “Art. 1° Compreende -se por investigação defensiva o complexo de atividades de natureza investigatória
+desenvolvido pelo advogado, com ou sem assistência de consultor técnico ou outros profissionais legalmente
+habilitados, em qualquer fase da persecução pe nal, procedimento ou grau de jurisdição, visando à obtenção de
+elementos de prova destinados à constituição de acervo probatório lícito, para a tutela de direitos de seu
+constituinte.” ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro de 2018.
+Disponível em https://www.oab.org.br/leisnormas/legislacao/provimentos/188 -2018. Acesso em 17 de abril de
+2024.
+116 “Insta salientar que o art. 231 do CPP permite a juntada de documentos em qualquer fase do processo. Portanto,
+é possível inclusive a juntada de elementos obtidos na investigação defensiva no momento de apresentar os
+memoriais, hipótese em que, normalmente, para garantir o contrário, o Juiz determinará a intimação do Ministério
+Público ou querelante para ter ciência dos documentos juntados pela defesa.” TALON, Evinis. Investigação
+criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 69.
+117 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 91.
+118 “Juntar os resultados da investigação defensiva no momento da audiência terá como vantagem estratégica para
+a defesa a surpresa do Ministério Público, que não terá conhecimento prévio de todo o contexto probatório.”
+TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 73.
+Em outro aspecto, a Lei 12.850/2013, que versa sobre as chamadas Organizações
+Criminosas, dispõe, em seu artigo 3 -C, parágrafo quarto, que “i ncumbe à defesa instruir a
+proposta de colaboração e os anexos com os fatos adequadamente descritos, com todas as suas
+circunstâncias, indicando as provas e os elementos de corroboração.”119
+Ou seja, a proposta de colaboração premiada, muito utilizada na realidade criminal
+contemporânea, deve ser precedida de elementos de prova que contribuam para que o benefício
+seja efetivamente concedido, devendo ressaltar que tal ato constitui marco de confidencialidade,
+conforme o artigo 3 -B da referida Lei 120. Nesse mesmo sentido funciona m as Leis número
+12.529/2011 e 12.846/2013, as quais versam sobre o acordo de leniência.
+Por outro lado, em sede recursal, deve-se atentar às delimitações próprias dessa fase, já
+que, com base em entendimentos jurisprudenciais, os Tribunais Superiores não são passíveis de
+análise de fatos e provas, além da possibilidade de ser recusada a juntada da documentação,
+tendo em vista que o Provimento número 188/2018 não possui força de lei.
+Logo, a melhor perspectiva para a efetividade da investigação defensiva é o seu início
+desde a fase preliminar ou em primeiro grau, ou seja, em fase de instrução121. Isso se dá, tendo
+em vista que os magistrados muitas vezes entendem que a produção probatória é protelatória,
+ou seja, caberá à discricionaridade do julgador aceitar ou não a produção de provas em momento
+posterior.
+Vale ressaltar, ainda, que a investigação defensiva pode ocorrer até mesmo antes da
+investigação preliminar, instaurada por meio de inquérito policial ou diretamente pelo
+Ministério Público, a fim de que, por exemplo, junte-se elementos para registrar uma ocorrência
+em sede policial122.
+119 BRASIL. Lei 12.850, de 2 de agosto de 2013. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2011-
+2014/2013/lei/l12850.htm. Acesso em 21 de abril de 2024.
+120 “Art. 3º -B. O recebimento da proposta para formalização de acordo de colaboração demarca o início das
+negociações e constitui também marco de confidencialidade, configurando violação de sigilo e quebra da confiança
+e da boa-fé a divulgação de tais tratativas iniciais ou de documento que as formalize, até o levantamento de sigilo
+por decisão judicial.” BRASIL. Lei 12.850, de 2 de agosto de 2013. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm. Acesso em 21 de abril de 2024.
+121 “Com essas limitações, seria recomendável realizar a investigação defensiva o mais cedo possível, ainda durante
+a tramitação do inquérito policial ou durante a instrução do processo no primeiro grau.” TALON, Evinis.
+Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 70.
+122 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 71.
+Infelizmente, o que ocorre na prática é a ausência de atuação do advogado em sede
+preliminar, tendo em vista que o inquérito policial, procedimento administrativo de
+características inquisitoriais, não contempla as garantias constitucionais do contraditór io e da
+ampla defesa.
+Ainda, a investigação defensiva, de acordo com o supramencionado Provimento, pode
+ser utilizada quando da execução penal. Exemplo disso seria o advogado, de forma diligente,
+contribuir para comprovação de que seu cliente não cometeu falta grave, nos termo s do artigo
+50 da Lei de Execução Penal123, ou para fins de contabilização de dias trabalhados para remissão
+da pena, dentre outras as possibilidades.
+Com relação à primeira hipótese , com base no artigo 47 da referida lei 124, o preso, no
+curso da execução de sua pena, terá que ser avaliado pelo diretor do presídio acerca do
+cometimento ou não de faltas leves, médias ou graves, tratando -se, portanto, de processo
+administrativo disciplinar, no qual deve ser respeitado o direito de defesa 125. É nesse contexto
+que o advogado de defesa pode atuar, trazendo à tona elementos que comprovem o não
+cometimento de nenhuma conduta negativa.
+Ainda, segundo Evinis Talon 126, “a investigação defensiva seria útil, v.g, para tentar
+justificar a fuga do apenado, comprovando que ele sofreu graves ameaças no interior do cárcere
+e que sua vida estava em risco.”
+123“Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+I - incitar ou participar de movimento para subverter a ordem ou a disciplina;
+II - fugir;
+III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem;
+IV - provocar acidente de trabalho;
+V - descumprir, no regime aberto, as condições impostas;
+VI - inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei.
+VII – tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação
+com outros presos ou com o ambiente externo.
+VIII - recusar submeter-se ao procedimento de identificação do perfil genético.” BRASIL. Lei nú mero 7.210, de
+11 de julho de 1984. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l7210.htm. Acesso em 18 de abril
+de 2024.
+124 “Art. 47. O poder disciplinar, na execução da pena privativa de liberdade, será exercido pela autoridade
+administrativa conforme as disposições regulamentares.” BRASIL. Lei número 7.210, de 11 de julho de 1984.
+Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l7210.htm. Acesso em 18 de abril de 2024.
+125 “Art. 59. Praticada a falta disciplinar, deverá ser instaurado o procedimento para a sua apuração, conforme
+regulamento, assegurado o direito de defesa.” .” BRASIL. Lei número 7.210, de 11 de julho de 1984. Disponível
+em: https://www.planalto.gov.br/ccivil_03/leis/l7210.htm. Acesso em 18 de abril de 2024.
+126 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 76.
+Com relação à possibilidade de utilizar-se da investigação defensiva em sede de revisão
+criminal, com base no artigo 621 do Código de Processo Penal 127, nota-se que esta pode ser
+bastante eficiente , porquanto servirá para embasar o pedido com base no direcionamento
+apontado nos incisos, valendo ressaltar que, nesses casos, conforme entendimento
+jurisprudencial, não há presunção de inocência.
+Ao levarmos em consideração que a revisão criminal não comporta fase para produção
+de provas, evidencia-se uma prévia necessidade de compilar tais evidências em sede de primeiro
+grau, procedimento este denominado justificação criminal. Nessa fase preliminar, seria
+evidentemente viável a participação efetiva da defesa em formar elementos para o subsequente
+ajuizamento da revisão criminal perante o Tribunal.
+Evinis Talon128, nesse aspecto, entende que a investigação defensiva poderia até mesmo
+servir de substituto à essa fase precedente, até como “forma de evitar a dependência da pauta
+do Juiz de primeiro grau e qualquer filtro arbitrário pelo Magistrado, que, para omitir erros
+próprios ou de seus colegas, poderia conduzir a justificação com certa indisposição.”
+Contudo, evidencia-se que se torna necessário determinação legal expressa para que tal
+ferramenta seja validada em plano concreto perante o Tribunal , ou, em segunda alternativa,
+utilizar-se da ferramenta defensiva ora em análise em momento anterior ao procedimento de
+justificação.
+Segundo o artigo 4º, do Provimento número 188/2018, da Ordem dos Advogados do
+Brasil,
+Poderá o advogado, na condução da investigação defensiva, promover diretamente
+todas as diligências investigatórias necessárias ao esclarecimento do fato, em especial
+a colheita de depoimentos, pesquisa e obtenção de dados e informações disponíveis
+em órgãos públicos ou privados, determinar a elaboração de laudos e exames periciais,
+e realizar reconstituições, ressalvadas as hipóteses de reserva de jurisdição.
+127 “Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que
+determine ou autorize diminuição especial da pena.” BRASIL. Código de Processo Penal (Decreto -lei nº. 3.689),
+de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto -lei/del3689.htm. Acesso
+em 20 abril de 2024.
+128 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 78.
+Parágrafo único. Na realização da investigação defensiva, o advogado poderá valer -
+se de colaboradores, como detetives particulares, peritos, técnicos e auxiliares de
+trabalhos de campo.
+Dessa forma, vale ressaltar que, embora não haja no ordenamento jurídico expressa
+determinação que autorize a atuação da investigação defensiva, as movimentações relacionadas
+ao tema são recentes e evidenciam o interesse em promover segurança jurídica aos
+advogados129.
+Exemplo disso ocorreu quando da elaboração do Código Deontológico de Boas Práticas
+da Investigação Defensiva da Associação Brasileira de Advogados Criminalistas
+(ABACRIM)130, no ano de 2023.
+A obra foi pensada por 24 especialistas das mais diversas áreas: advogados, defensores
+públicos, peritos, professores, para a “ estruturação de normas de conduta ético -profissionais
+para o exercício da atividade, propondo parâmetros de atuação com a finalidade de auxiliar as
+ações próprias da investigação defensiva .”131
+Ainda, ressalta-se que, diante da perspectiva acusatória ministerial, focada em compilar
+elementos de provas desfavoráveis ao investigado, evidencia -se que se torna insustentável a
+dinâmica da isonomia material132.
+129 “A investigação criminal defensiva é matéria estranha ao ordenamento jurídico pátrio, que, no modelo atual,
+prevê procedimento investigatório dirigido apenas pela Polícia Judiciária. Todavia, tal possibilidade vem sendo
+cada vez mais discutida pela doutri na jurídica nacional e estrangeira, por ser vista como forma de compensar o
+movimento em favor da atribuição de poderes investigatórios ao Ministério Público.” MACHADO, André
+Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos Tribunais, 2010. Página 45.
+130ASSOCIAÇÃO BRASILEIRA DOS ADVOGADOS CRIMINALISTAS. Código Deontológico de Boas
+Práticas da Investigação Defensiva. Florianópolis: Emais Editora, 2023. Disponível em:
+https://web.abracrim.adv.br/abracrim-disponibiliza-codigo-deontologico-de-boas-praticas-da-investigacaodefensiva/. Acesso em 04 de abril de 2024.
+131ASSOCIAÇÃO BRASILEIRA DOS ADVOGADOS CRIMINALISTAS. Abracrim disponibiliza Código
+Deontológico de Boas Práticas da Investigação Defensiva . Publicado em: 19 de março de 2024. Disponível em:
+https://web.abracrim.adv.br/abracrim-disponibiliza-codigo-deontologico-de-boas-praticas-da-investigacaodefensiva/ Acesso em 04 de abril de 2024.
+132 “Infere-se dos sobreditos excertos doutrinários que o Ministério Público, enquanto encarregado da instrução
+preliminar, atua parcialmente, com o propósito de demonstrar a tese acusatória, descurando -se dos informes
+favoráveis ao imputado. Por tal motivo, se o Parquet for o responsável pela investigação pública, é de rigor, em
+atenção aos postulados da igualdade e da ampla defesa, que se faculte ao imputado a possibilidade de exercer
+atividade investigatória, a fim de reunir elementos de convicção aptos a afastar a imputação que pesa contra si. De
+outra parte, se a investigação preliminar for dirigida pela Polícia Judiciária, a investigação defensiva, a princípio,
+não seria imprescindível, em razão do dever de imparcialidade deste órgão. Entretanto, o que se constata
+empiricamente é que mesmo a investigação policial é tendenciosamente acusatória e, em certa medida, restringe a
+Até porque, muito embora haja permissão da participação do advogado na investigação
+preliminar133, ela não deve ser confundida com a permissão para investigar de forma defensiva,
+na medida em que sua atuação carece de ampla defesa e está submetida aos moldes das
+autoridades públicas, que atua com base nas características do modelo inquisitorial.
+Nesse sentido , a investigação criminal defensiva, além de assegurar o princípio da
+paridade de armas ao possibilitar que o imputado tenha meios e elementos viáveis para
+defender-se, também permite que, em sede preliminar, atue de forma preventiva e evite que o
+imputado sofra equivocadamente a instauração de uma ação penal134135.
+Outro ponto relevante é que a investigação penal defensiva amplia a própria eficiência
+da justiça penal, porquanto amplia a produção de provas do suposto crime e, assim, promove e
+melhor constatação dos fatos136.
+Há também de se levar em consideração que a investigação defensiva, se feita de
+maneira eficaz por meio de advogados especializados, promove a delimitação do objeto
+investigado137, assegurando as garantias do imputado ao impedir que sejam tomadas atitudes
+arbitrárias por meio dos órgãos estatais, como é o caso de pedidos de busca e apreensão
+infundados.
+participação da defesa.” MACHADO, André Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São
+Paulo: Revista dos Tribunais, 2010. Página 46.
+133 BRASIL. Supremo Tribunal Federal. Súmula Vinculante 14, de 2009. Disponível em:
+https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1230. Acesso em 24 de junho de
+2023.
+134 “De fato, esse tipo de investigação garante a indispensável paridade de armas entre a acusação e o imputado,
+pois permite a obtenção dos meios de prova relevantes para a defesa e que, no momento oportuno, serão utilizados
+para confrontar os dados materiais reunidos na investigação pública, tendencialmente acusatória. Mais do que isso,
+a investigação defensiva serve para efetivar os referidos postulados, pois assegura ao imputado, desde o início da
+persecução penal, a possibilidade de afastar a acusação que lhe foi feita e, dessarte, evitar a instauração de ação
+penal infundada.” MACHADO, André Augusto Mendes . Investigação criminal defensiva. 1ª. edição. São Paulo:
+Revista dos Tribunais, 2010. Página 12.
+135 o direito à prova também deve ser reconhecido antes ou fora do processo, até como meio de se obter elementos
+que autorizem a persecução, ou possam evitá -las.” GOMES FILHO, Antonio Magalhães. Direito à prova no
+processo penal. São Paulo: Revista dos Tribunais, 1997. Página 86-87.
+136 “Por outra perspectiva, a investigação defensiva proporciona melhor averiguação dos fatos tidos como
+criminosos e, com isso, aumenta a eficiência da Justiça Penal. É que ela serve de contrapeso à perquirição realizada
+pelos entes públicos e amplia o campo cognitivo do magistrado, fornecendo-lhe dados adicionais àqueles coligidos
+na investigação pública” MACHADO, André Augusto Mendes. Investigação criminal defensiva . 1ª. edição. São
+Paulo: Revista dos Tribunais, 2010. Página 12.
+137 OLIVEIRA, Francisco da Costa. A defesa e a investigação do crime. 1ª. Edição. Coimbra: Almedina, 2004.
+Página 21-24, apud MACHADO, André Augusto Mendes. Investigação Criminal Defensiva. 1ª. edição. São Paulo:
+Revista dos Tribunais, 2010.
+Vale ressaltar que, embora o investigado não tenha recursos financeiros para arcar com
+a investigação defensiva, é papel do Estado, na figura da Defensoria Pública, assumir ess a
+função, a fim de que seja assegurada a isonomia das partes138. Exemplo dessa lógica ocorre na
+realidade chilena que, aprimorando seu código de processo penal após períodos ditatoriais,
+incluiu como diretriz o custeio de “profissionais de fora do quadro do Estado para realização
+de tarefas relacionadas à Defesa e à produção de prova técnica”139.
+Ainda, é de se mencionar as alterações trazidas pela Lei número 13.964/2019 140,
+denominada Pacote Anticrime, a qual foi criada com o objetivo de aprimorar a legislação penal
+e processual penal, trazendo raízes do modelo acusatório para o ordenamento pátrio. Por certo,
+essa alteração mudou a direção da seara criminal, que já vinha se alterando desde a Constituição
+Federal de 1988, tendo em vista que o Código de Processo Penal é anterior e elaborado em
+tempos ditatoriais141.
+Sobre as possíveis atividades exercidas pelo advogado em sede de investigação
+defensiva, é possível citar: juntada de documentos, fotografias e gravações aos autos, perícia
+técnica; tomada de depoimentos; reconhecimento de pessoas e coisas; entre outras
+possibilidades142.
+138 “Não obstante, há quem sustente que a investigação defensiva, apesar de plausível no plano teórico, seria
+impossível na prática, principalmente no Brasil, devido à precária situação econômica dos imputados, que não
+teriam condições de sustentar defensor p articular. Por conta disso, haveria uma maior desigualdade entre os
+imputados, já que apenas uma minoria seria capaz de efetuar atividade investigatória. Tal posição não se afigura a
+mais adequada, pois, se o imputado não puder arcar com advogado, o Estado deve fornecer defensor público para
+conduzir a investigação. Diga -se: a condição econômica do imputado não inviabiliza a investigação defensiva.”
+MACHADO, André Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 46-47.
+139 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 62-63.
+140 “Artigo 3-A. O processo penal terá estrutura acusatória, vedadas a iniciativa do juiz na fase de investigação e a
+substituição da atuação probatória do órgão de acusação”. BRASIL. Lei número 13.964, de 24 de dezembro de
+2019. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019 -2022/2019/lei/l13964.htm. Acesso em 16
+de abril de 2024.
+141 “A matriz do CPP de 1941 é declaradamente inquisitória, sendo um texto imposto em plena ditadura Varguista
+(Estado Novo), com inspiração nada disfarçada por parte do então Ministro da Justiça brasileiro, Francisco
+Campos, ao regime fascista italiano, chef iado por Benito Mussolini e que havia em 1930 publicado o seu próprio
+Código de Processo Penal italiano, por obra de Alfredo Rocco, em texto que foi quase integralmente copiado para
+edição do CPP brasileiro de 1941.” DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma
+na advocacia criminal brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 74.
+142 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 57.
+Dessa forma, a partir das inúmeras possibilidades evidenciadas para promover a melhor
+atuação defensiva em prol do representado, deve o advogado, em análise minuciosa do caso
+concreto, atuar de forma prudente para que a sua impulsão nos autos seja a mais adequada e
+eficiente possível.
+Segundo Evinis Talon143,
+Há crimes, como os patrimoniais, que poderão demandar a elaboração de um auto de
+avaliação da coisa subtraída. Outros, como os crimes de trânsito e de homicídio,
+poderão exigir perícias complexas no local, no veículo, na arma utilizada ou em uma
+pessoa.
+Se houver questionamento sobre a autoria, o reconhecimento de pessoa poderá ser
+útil. Noutro sentido, em crimes que envolvam contratos ou imóveis, a obtenção e a
+juntada de documentos é uma medida possível.
+Outra característica da investigação defensiva é que esta é atividade privativa da
+advocacia, com base no artigo 7º, do Provimento número 188/2018 144, devendo pontuar, no
+entanto, que outros indivíduos pratiquem atos investigativos, como o próprio
+investigado/acusado, ou peritos, por exemplo.
+Dessa arte, nota-se que o sujeito principal da investigação defensiva é o advogado ou
+defensor público, sendo certo que, a seu critério, pode atuar em colaboração com demais
+profissões complementares à prática forense, quais sejam, peritos, técnicos, detetives
+particulares, auxiliares de um modo geral, dentre outras possibilidades 145. Caso o laudo
+elaborado por profissional não seja considerado favorável para a defesa pelo advogado, caberá
+a este não juntar aos autos oficiais tal documentação.
+Ainda, faz -se necessário mencionar o dever de sigilo da investigação defensiva.
+Conforme dispõe o artigo 5º do sobredito Provimento, “durante a realização da investigação, o
+143 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 57.
+144 “Art. 7º As atividades descritas neste Provimento são privativas da advocacia, compreendendo -se como ato
+legítimo de exercício profissional, não podendo receber qualquer tipo de censura ou impedimento pelas
+autoridades.” ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro de 2018.
+Disponível em https://www.oab.org.br/leisnormas/legislacao/provimentos/188 -2018. Acesso em 16 de abril de
+2024.
+145 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 65.
+advogado deve preservar o sigilo das informações colhidas, a dignidade, privacidade,
+intimidade e demais direitos e garantias individuais das pessoas envolvidas.”146
+Nessa luz, nada difere do dever profissional do advogado criminal fora da investigação,
+porquanto o dever de sigilo já está abarcado no Código de Ética e Disciplina da Ordem dos
+Advogados do Brasil, em seu artigo 35 : “O advogado tem o dever de guardar sigilo dos fatos
+de que tome conhecimento no exercício da profissão.” 147
+Por fim, evidencia-se que a investigação criminal defensiva é uma investigação
+imparcial com fins parciais. Isso se dá na medida em que ela representa o melhor interesse do
+cliente, mas serve inclusive para descobrir fatos “negativos” do ora investigado/acusado, os
+quais evitarão surpresas para a defesa ao longo de toda a persecução penal148.
+2.4. PROBLEMATIZAÇÕES DA INVESTIGAÇÃO DEFENSIVA
+Acerca da temática, é possível mencionar algu mas possíveis problematizações
+evidenciadas no estudo do tema.
+A primeira a ser observada é que a investigação defensiva, por ser tratada em
+determinações infralegais, ou seja, por não possuir determinação legislativa expressa, carece de
+integral eficácia e segurança jurídica, na medida em que caberá às autoridades c ompetentes a
+sua admissão ou não aos autos.
+Em outro aspecto, há também necessidade de se atentar à responsabilidade do advogado
+criminal na condução da investigação defensiva, já que muitas vezes a atividade é
+criminalizada149, isso porque, diante de um cenário predominantemente autoritário, defender os
+interesses do representado perante eventuais abusos e ilegalidades se torna um risco concreto,
+146 ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro de 2018. Disponível
+em https://www.oab.org.br/leisnormas/legislacao/provimentos/188 -2018. Acesso em 22 de abril de 2024.
+147ORDEM DOS ADVOGADOS DO BRASIL. Código de Ética e Disciplina da OAB. Disponível em:
+https://www.oab.org.br/publicacoes/AbrirPDF?LivroId=0000004085 . Acesso em 22 de abril de 2024.
+148 TALON, Evinis. Investigação criminal defensiva. 2ª. Edição. Rio de Janeiro: Lumen Juris. 2021. Página 113.
+149 MALAN, Diogo Rudge. Advocacia criminal contemporânea. Rio de Janeiro: Lumen Juris, 2022. Página 113.
+como pode ser o caso da acusação do advogado pelo crime de fraude processual, com base no
+artigo 347 do Código Penal pátrio150.
+Ademais, a prática forense investigativa pode vir a sofrer riscos à sua integridade física.
+Inclusive, nesse sentido, está sendo discutido no Congresso Nacional o PL 5109/2023 151, cujo
+intuito é incluir no Estatuto da OAB medidas protetivas em favor dos advogados agredidos no
+exercício da profissão.
+Outro fator que o advogado criminal deve ponderar é que a investigação defensiva ainda
+é vista por parte das autoridades competentes de forma negativa. Isso porque, de acordo com
+essa perspectiva, há margem para ser vista como estratégia de coa ção de testemunhas no
+momento de seus respectivos depoimentos152, por exemplo.
+Em outro aspecto, embora o artigo 6º do Provimento número 188/2018153 assegure que
+o advogado não possui o dever de informar às autoridades competentes os fatos investigados,
+sobretudo os que possam vir a prejudicar os interesses do representado, é discutido no plano
+ético sua validade.
+Com relação à investigação criminal corporativa, evidencia-se que o advogado pode ser
+submetido à responsabilização cível, penal ou ético -disciplinar, na medida em que for
+comprovado negligência ou imperícia, por exemplo.154 Exemplos de infrações ético-disciplinar
+estão previstos no artigo 34 da Lei 8.906/94, valendo ressaltar, nesses casos, o inciso IX:
+“prejudicar, por culpa grave, interesse confiado ao seu patrocínio”
+Por certo, o maior problema evidenciado com relação à investigação defensiva é que
+não há no ordenamento jurídico pátrio determinação legal que permita expressamente que o
+150 BRASIL. Código Penal (Decreto-lei n º. 2.848), de 7 de dezembro de 1940. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm. Acesso em 02 de julho de 2024.
+151 Disponível em: https://www.camara.leg.br/propostas-legislativas/2398301. Acesso em 20 de abril de 2024.
+152 TALON, Evinis. Investiga ção criminal defensiva: cuidado! Youtube, publicado em 7 de abril de 2020.
+Disponível em: https://www.youtube.com/watch?v=n8IQ10bCDQg. Acesso em 20 de abril de 2024.
+153 “Art. 6º O advogado e outros profissionais que prestarem assistência na investigação não têm o dever de
+informar à autoridade competente os fatos investigados.
+Parágrafo único. Eventual comunicação e publicidade do resultado da investigação exigirão expressa autorização
+do constituinte.” ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro de
+2018. Disponível em https://www.oab.org.br/leisnormas/legislacao/provimentos/188-2018. Acesso em 21 de abril
+de 2024.
+154 MALAN, Diogo Rudge. Advocacia criminal contemporânea. Rio de Janeiro: Lumen Juris, 2022. Página 95.
+advogado pratique a investigação defensiva, ao contrário do já mencionado ordenamento
+jurídico italiano.
+Contudo, não só não há nenhuma vedação, como também há cada vez mais movimentos
+no sentido de regularizar essa atuação, ainda que de forma infralegal, por meio de provimento
+e código deontológico promovidos com o intuito de orientar a advocacia criminal155.
+Exemplo disso é o Provimento número 188, de 11 de dezembro de 2018 156, o qual ,
+inspirado nos moldes italianos, tem por finalidade regulamentar “ o exercício da prerrogativa
+profissional do advogado de realização de diligências investigatórias para instrução em
+procedimentos administrativos e judiciais.”
+Além do exposto, uma relevante consideração é que não se evidencia, no plano das
+prerrogativas da profissão, determinações que assegurem a atuação do advogado com relação à
+investigação defensiva.
+Há também quem julgue que o amplo acesso do advogado de defesa na fase preliminar
+poderia vir a prejudicar o trâmite investigativo que, muitas vezes, exige sigilo em determinados
+atos por parte das autoridades estatais.
+Outro aspecto a se considerar é que , no Brasil, há uma carência de debate em tópicos
+costumeiramente debatidos acerca da investigação defensiva em outros ordenamentos, como a
+valorização dos elementos de prova produzidos pela defesa, sua admissão pelos órgãos
+públicos, além da possibilidade de utilização de provas ilícitas para inocentar o representado
+(este último será pormenorizado no subsequente capítulo).
+Com o intuito de prevenir tal inconveniência, é necessário que o advogado se resguarde
+das maneiras mais seguras possíveis.
+155 “O provimento 188, editado pelo CFOAB em dezembro de 2018, abre portas para uma dimensão prática de um
+tema que foi praticamente desprezado pela Academia jurídica brasileira ao longo das duas últimas décadas. Não
+por outra razão, dada a inovação normativa , ainda que infralegal, impulsionou -se uma proliferação de escritos,
+contra e a favor do Instituto.” DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na
+advocacia criminal brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 70.
+156 ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro de 2018. Disponível
+em https://www.oab.org.br/leisnormas/legislacao/provimentos/188-2018. Acesso em 18 de junho de 2023.
+Exemplo disso ocorre quando o advogado delimita o escopo da investigação
+corporativa, pontuando o cliente , a fim de que delimite seus deveres éticos e legais, além de
+evitar eventuais conflitos de interesse, como defender o ente empresarial e o administrador em
+cenários distintos, ou seja, para além do escopo da investigação.157
+Outra alternativa viável de prevenção ocorre por meio do registro da instauração da
+investigação defensiva na OAB. Além disso, é proposto como modelo documental próximo ao
+ideal o denominado “Autos de Investigação Defensiva (AID)”.158
+Nesse sentido, uma recomendação apontada é que as informações acerca das diligências
+já realizadas sejam pontuadas a partir de um relatóri o instruído com todos os anexos
+necessários: “documentos, filmagens, fotos, objetos entre outros suportes físicos e/ou digitais
+que possam comprovar a legalidade e legitimidade das medidas tomadas e das conclusões
+apresentadas.”159
+2.5. A INVESTIGAÇÃO DEFENSIVA NO PROJETO DO NOVO CÓDIGO DE
+PROCESSO PENAL
+Em um primeiro momento, a investigação defensiva apresentou -se através do Projeto
+de Lei do Senado (PLS) número 156/2009. Em seguida, na Câmara dos Deputados, o projeto
+do novo Código de Processo Penal (substitutivo ao PL 8.045/10) também pontuou a
+investigação defensiva como novidade no cenário brasileiro, contemplada como exercício do
+direito à ampla defesa, sendo, portanto, consequência direta do consagrado na Constituição, em
+seu artigo 5, inciso LV.160
+Nesse sentido, segundo o artigo 13 , caput, do supramencionado projeto de novo CPP,
+“É facultado ao investigado, por meio de seu advogado, de defensor público ou de outros
+157 MALAN, Diogo Rudge. Advocacia criminal contemporânea. Rio de Janeiro: Lumen Juris, 2022. Página 96.
+158 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 217.
+159 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 222.
+160 CUNHA, Rogério Sanches. Webinar Projeto do novo CPP Investigação defensiva. Youtube, publicado em 3
+de jul. de 2021. Disponível em: https://www.youtube.com/watch?v=PySy3py92Oc. Acesso em 15 de maio de
+2024.
+mandatários com poderes expressos, tomar a iniciativa de identificar fontes de prova em favor
+de sua defesa, podendo inclusive entrevistar pessoas.”161
+Contudo, evidencia-se, ao longo dos parágrafos do mesmo artigo 13, que há restrições
+consideráveis à atuação investigativa defensiva. Vejamos:
+§ 1º As entrevista s realizadas na forma do caput deste artigo deverão ser precedidas
+de esclarecimentos sobre seus objetos e do consentimento formal das pessoas ouvidas.
+§ 2º A vítima não poderá ser interpelada para os fins de investigação defensiva, salvo
+se houver autorização do juiz das garantias, sempre resguardado o seu consentimento.
+§ 3º Na hipótese do § 2º deste artigo, o juiz das garantias poderá, se for o caso, fixar
+condições para a realização da entrevista.
+§ 4º Os pedidos de entrevista deverão ser feitos com discrição e reserva necessárias,
+em dias úteis e com observância do horário comercial.
+§ 5º O material produzido poderá ser juntado aos autos do inquérito, a critério da
+autoridade policial.
+§ 6º As pessoas mencionadas no caput deste artigo responderão civil, criminal e
+disciplinarmente pelos excessos cometidos.
+No parágrafo primeiro, nota -se a necessidade de esclarecimento sobre a intenção da
+defesa técnica e consentimento formal das pessoas a serem ouvidas. No segundo e terceiro
+parágrafos, há o impedimento com relação à oitiva da vítima, salvo se autorizado e d e acordo
+com as condições fixadas pelo juiz de garantias, o qual atua em sede de investigação preliminar
+e é o responsável pelo controle da legalidade da investigação criminal e garantidor dos direitos
+dos investigados.
+Já no quarto parágrafo, há limitação com relação ao período de entrevista, além de
+determinar discrição e reserva. No quinto parágrafo, nota -se, por certo, a mais grave das
+determinações: a inserção dos elementos probatórios formulados pela defesa nos auto s do
+inquérito dependerá da discricionaridade da autoridade policial, a qual terá o papel de avaliar a
+pertinência do que foi produzido em sede de investigação defensiva.
+Nota-se, aqui, um relevante problema, porquanto o projeto de novo Código de Processo
+Penal insere a chamada teoria da canalização, a qual foi criada na Itália e determina que todo o
+161 BRASIL. Projeto de Lei número 8.045, de 22 de dezembro de 2010. Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1638152&filename=PL%208045/201
+0. Acesso em 15 de maio de 2024.
+material produzido a partir da investigação defensiva deve ser apreciado de forma discricionária
+pela autoridade pública.162
+Segundo Gabriel Bulhões Nóbrega Dias, tal decisão influi no “esvaziamento do
+instituto, bem como do seu potencial ora de impedir erros judiciais, condenações injustas,
+destroçamento midiático de honras, ora de conferir voz às vítimas de crimes, sejam elas pessoas
+físicas, sejam pessoas jurídicas.”163
+De fato, chego a mesma conclusão. Ora, se tanto a Polícia Judiciária quanto o Ministério
+Público podem exercer o papel investigativo, por que não o advogado, tão qualificado quanto
+estes, não pode? De fato, conceder autorização expressa e permitir a atuação ampla do advogado
+através da investigação defensiva é pôr em prática a paridade de armas.
+Por fim, a legislação, em seu parágrafo sexto, do artigo 13 acima evidenciado, pontua a
+possibilidade de responsabilização civil, criminal e disciplinar por eventuais excessos
+cometidos.
+Em 2021, o Deputado João Campos, presidente do Grupo de Trabalho e da Comissão
+Especial para análise do projeto de novo Código de Processo Penal (PL 8.045/2010), apresentou
+um relatório substitutivo muito pertinente à presente análise.
+Isso porque, segundo Gabriel Bulhões Nóbrega Dias, um modelo que prevê “pontual e
+genericamente a existência do instituto da Investigação Defensiva) não seria suficiente para
+viabilizar a plena implementação da investigação defensiva no Brasil” 164, na medida em que
+prevalece uma cultura de raízes inquisitórias.
+Assim, o relatório substitutivo direcionou uma seção inteira à temática da investigação
+defensiva, dos artigos 44 ao 49 do projeto do novo Código de Processo Penal.
+162 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 93.
+163 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 93.
+164 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 96.
+Nesse sentido, vejamos as seguintes disposições acerca da investigação defensiva:
+Art. 13. O material produzido em investigação defensiva poderá ser juntado ao
+inquérito, a critério da autoridade policial, que fundamentará eventual indeferimento.
+(...)
+Seção VIII
+Da Investigação Defensiva
+Art. 44. A investigação defensiva é realizada por advogado ou defensor público no
+exercício da ampla defesa do imputado cujos interesses são por eles patrocinados.
+Art. 45. Compreende -se por investigação defensiva o complexo de atividades de
+natureza investigatória desenvolvido pelo advogado ou defensor público, no exercício
+da ampla defesa técnica, com ou sem assistência de perito, consultor técnico ou outros
+profissionais legalmente habilitados, visando à produção de elementos informativos
+lícitos destinados exclusivamente à tutela defensiva.
+Art. 46. Os elementos informativos produzidos em investigação defensiva podem
+instruir pedidos formulados em quaisquer medidas defensivas destinadas a assegurar
+os direitos individuais em procedimentos de natureza criminal.
+Art. 47. Poderá o advogado ou defensor público, na condução da investigação
+defensiva, promover diretamente diligências investigatórias necessárias ao
+esclarecimento de determinado fato, em especial a coleta de depoimentos, pesquisa e
+obtenção de dados e informações disponíveis em órgãos públicos ou privados,
+elaboração de laudos e exames periciais por profissionais privados, ressalvadas as
+hipóteses de reserva de jurisdição e os procedimentos previstos na legislação de
+acesso à informação.
+§ 1º Na realização da investigação defensiva, o advogado ou defensor público poderá
+valer-se de profissionais, como detetives particulares, peritos, técnicos e auxiliares de
+trabalhos de campo, que serão identificados. No caso de juntada de diligência
+realizada por tais profissionais aos autos da persecução penal, a qualificação dos
+referidos profissionais será mantida em sigilo, tendo acesso a tal informação apenas o
+juiz, a autoridade policial, o Ministério Público, o querelante e o assistente da
+acusação.
+§ 2º O depoente receberá cópia das declarações prestadas.
+§ 3º O advogado ou o defensor público poderá formular pedido de cooperação jurídica
+internacional à autoridade central brasileira, desde que haja previsão em acordo
+internacional ou promessa de reciprocidade.
+Art. 48. Durante a realização da investigação defensiva, o advogado ou defensor
+público preservará o sigilo das informações colhidas e zelará pelos direitos e garantias
+das pessoas naturais ou jurídicas envolvidas, especialmente em relação à dignidade,
+privacidade, intimidade, direitos autorais, propriedade intelectual e segredo industrial,
+sob pena de responsabilização disciplinar, cível, administrativa e criminal.
+Parágrafo único. O advogado, o defensor público e os outros profissionais que
+prestarem assistência na investigação não têm o dever de informar à autoridade
+judicial ou policial os fatos investigados defensivamente.
+Art. 49. A investigação e a utilização dos elementos informativos deverão ser
+solicitadas e autorizadas prévia e expressamente pela pessoa defendida.
+Parágrafo único. O abuso do direito de defesa e a prática de atos de investigação
+defensiva em desacordo com o disposto nesta seção poderão configurar, isolada ou
+cumulativamente, ilícitos de natureza cível, disciplinar, administrativa e criminal.
+Nesse cenário, nota-se que, embora o texto ainda possa ser alterado e esteja pendente de
+aprovação, é possível concluir um avanço com relação à inserção expressa e ampla da
+investigação defensiva no relatório substitutivo do projeto de Código de Processo Penal pátrio,
+ao contrário do que estava disposto anteriormente . As mencionadas alterações, por certo, irão
+contribuir para a ampliação e efetividade do sistema acusatório na realidade brasileira.
+Além do exposto, há também o projeto de lei número 2642/2021165, do deputado
+Cezinha de Madureira (PSD/SP), o qual tem por objetivo modificar a legislação processual
+penal no sentido de aprimorar as garantias processuais e as prerrogativas advocatícias. Em 19
+de setembro de 2023, o referido projeto de lei foi desapensado do projeto de novo Código de
+Processo Penal, submetendo-se à tramitação em regime ordinário.
+Essa proposta tem por intuito modificar o Código de Processo Penal atual ao inserir
+disposições referentes à investigação defensiva, em título próprio, tais como as já evidenciadas
+pelo Provimento número 188/2018, mas não somente, dedicando-se a esclarecer e pormenorizar
+tópicos sobre a temática. Exemplo disso é a possibilidade do réu de responder apenas a s
+perguntas formuladas pela sua defesa técnica quando do momento do interrogatório.
+Além disso, o projeto de lei número 2642/2021 também tem por objetivo alterar a lei de
+drogas e o Estatuto da OAB, sendo este último para inserir a investigação defensiva como ato
+privativo de advogado, além de determinar que a defesa se situe no mesmo plano topográfico
+da acusação nas sessões e audiências criminais.
+2.6. A INVESTIGAÇÃO DEFENSIVA NA JURISPRUDÊNCIA
+O primeiro marco jurisprudencial que mencionou a expressão investigação defensiva
+foi dentro da Justiça Militar estadual do Tribunal de Justiça de São Paulo, no ano de 2019. No
+caso, os advogados tiveram seu pleito de acesso a documentos indeferido no plano
+165 BRASIL. Projeto de Lei número 2642, de 02 de agosto 2021. Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2049305&filename=PL%202642/202
+1. Acesso em 27 de maio de 2024.
+administrativo do Batalhão da Polícia Militar, razão pela qual pugnou, pela via judicial, a sua
+pretensão defensiva.166
+No Supremo Tribunal Federal, a investigação defensiva foi expressamente pontuada no
+ano de 2021, tratando-se de uma decisão monocrática do Ministro Gilmar Mendes, ora relator,
+que concedeu ordem de ofício para trancar procedimentos criminais em desfavor de um
+advogado, no contexto da operação Lava Jato, que exercia a função investigativa de fontes
+lícitas, a qual é regulamentada pelo Provimento número 188/2018.167
+Ainda nesse aspecto, Gilmar Mendes ainda afirma que “a advocacia é uma das funções
+essenciais à justiça brasileira” e “representa, portanto, um munus público, uma função que deve
+ser respeitada em todas as suas prerrogativas.”168
+Por sua vez, no Superior Tribunal de Justiça, houve julgamento acerca da temática, de
+relatoria do Ministro Sérgio Kukina. Neste mandado de segurança 26627/DF, foi afirmado ato
+ilegal, no âmbito da Operação Lava Jato, atribuído ao Ministro de Estado da Justiça e Segurança
+Pública, “consistente na alegada negativa de acesso do impetrante a informações e documentos
+relativos a atos de cooperação jurídica eventualmente realizados entre a República Federativa
+do Brasil e os Estados Unidos da América”.169
+Nessa luz, foi entendido:
+Legítima se revela a pretensão do impetrante de "conduzir Investigação Defensiva,
+objetivando a constituição de acervo probatório lícito, cujo direito lhe é assegurado
+em qualquer procedimento ou fase da persecução penal, nos termos do Provimento nº
+188/2018 do Conselho Federal da OAB", devendo -se, no ponto, levar em estima a
+cláusula constitucional da ampla defesa (art. 5º, LV), no que esta busca garantir a
+paridade de armas entre os interesses probatórios do órgão acusatório e da defesa
+técnica da parte ré, ambos almejando certificar a veracidade de suas versões.
+166 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 99.
+167 BRASIL. SUPREMO TRIBUNAL FEDERAL. Rcl 36542 AgR. Relator: Ministro Gilmar Mendes, julgamento
+ocorrido em 20 de abril de 2021. Disponível em:
+https://portal.stf.jus.br/processos/downloadPeca.asp?id=15347429536&ext=.pdf . Acesso em 22 de maio de 2024.
+168 BRASIL. SUPREMO TRIBUNAL FEDERAL. Rcl 36542 AgR. Relator: Ministro Gilmar Mendes, julgamento
+ocorrido em 20 de abril de 2021. Disponível em:
+https://portal.stf.jus.br/processos/downloadPeca.asp?id=15347429536&ext=.pdf . Acesso em 22 de maio de 2024.
+169 BRASIL. Superior Tribunal de Justiça. Mandado de Segurança 26627/DF. Relator: Ministro Sérgio Kukina,
+julgamento ocorrido em 09 de março de 2022. Disponível em:
+https://scon.stj.jus.br/SCON/SearchBRS?b=ACOR&p=false&operador=E&livre=%28%28+%28%27PROVIME
+NTO+188%2F2018%27%29%29%29+E+%40CDOC%3D%272158368%27 . Acesso em 22 de maio de 2024.
+Outra decisão relevante foi a do Tribunal Regional Federal da Terceira Região, de
+relatoria do desembargador federal Maurício Kato, no ano de 2020. Segundo seu entendimento,
+seria “o juízo criminal em que movidas as ações e investigações penais (...) o competente para
+a apreciação e julgamento de qualquer processo ou procedimento a elas relacionadas”.170
+Com base no exposto, nota -se, no plano jurisprudencial, uma utilização e
+reconhecimento da investigação defensiva como direito interligado aos direitos fundamentais
+da ampla defesa e isonomia.
+Portanto, t endo em vista o recente marco pelo Provimento número 188/2018, do
+Conselho Federal da OAB, é de se vislumbrar uma crescente e contínua discussão dessa
+ferramenta defensiva na jurisprudência, na medida em que, como mencionado no subcapítulo
+anterior, já estão encaminhadas determinações legislativas a fim de assegurar o advogado no
+exercício da investigação criminal defensiva. Ainda nesse aspecto, Gabriel Bulhões Nóbrega
+Dias conclui que “resta cristalina a legitimidade reconhecida das atividades r elacionadas à
+investigação defensiva, ainda que sem qualquer regulamentação legal.”171
+No próximo capítulo, será posto em ênfase a análise da legitimidade da utilização da
+prova ilícita pela defesa técnica, através da investigação defensiva, para produzir elementos
+probatórios que confirmem a inocência do representado.
+170 BRASIL. Tribunal Regional Federal da 3ª. Região. Apelação número 5001789 -10.2020.4.03.6181. Relator:
+desembargador federal Maurício Kato. Julgamento em 02 de junho de 2020.
+171 DIAS, G. B. N. Manual Prático de Investigação Defensiva: um novo paradigma na advocacia criminal
+brasileira. 2ª. edição. Florianópolis: EMais, 2022. Página 105.
+CAPÍTULO III – A UTILIZAÇÃO DA PROVA ILÍCITA NO PROCESSO PENAL
+O objetivo do presente capítulo é analisar especificamente a possibilidade, dentro do
+contexto da investigação defensiva, de se utilizar da prova ilícita com o intuito de provar a
+inocência do acusado. Para isso, será pontuado, inicialmente, sobre a utilização da prova ilícita
+no contexto do processo penal de forma geral, para, assim, adentrar ao questionamento central.
+Além disso, será feita uma exposição das prerrogativas e proibições d a atuação do advogado
+no exercício da ampla defesa para, ao fim, ponderar e concluir a pauta levantada.
+De início, Gustavo Badaró confirma que a parte mais difícil do processo penal é a
+reconstrução dos fatos conforme as determinações legais que regulam a investigação, a
+admissão, a produção e a valoração das provas.172 Assim, pode-se perceber que há limites com
+relação à investigação, produção, admissão e valoração das provas para que se atinja a
+finalidade almejada, as quais precisam ser levadas em consideração, a fim de que se tenha um
+julgamento dentro dos conformes da lei.
+Exemplo disso está evidenciado no artigo 400, parágrafo primeiro, do Código de
+Processo Penal, quando assegura ao juiz a possibilidade de não admitir determinadas provas a
+seu critério .173 Além disso, com relação à valoração da prova, o artigo 155 do Código de
+Processo Penal afirma que a livre convicção do juiz será formada por meio da apreciação da
+prova produzida em contraditório judicial. 174 Isso porque, segundo Aury Lopes Jr., deve-se
+atentar aos limites da atividade probatória, tendo em vista a necessidade de garantia dos atos
+processuais decorrentes de uma evolução do processo penal.175
+Desse modo, c omo constatado no capítulo I, a verdade real é inatingível, sendo certo
+que se faz necessário ponderar os meios de obtenção das provas, a fim de que a finalidade do
+processo penal não seja a busca pela suposta verdade real, mas sim uma verdade processual,
+172 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 433.
+173 “As provas serão produzidas numa só audiência, podendo o juiz indeferir as consideradas irrelevantes,
+impertinentes ou protelatórias .” BRASIL. Código de Processo Penal (Decreto -lei nº. 3.689), de 3 de outubro de
+1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto -lei/del3689.htm.
+174 “O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo
+fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as
+provas cautelares, não repetíveis e antecipadas.” BRASIL. Código de Processo Penal (Decreto-lei nº. 3.689), de 3
+de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto -lei/del3689.htm.
+175 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+cuja conclusão vem de um juízo de probabilidade e verossimilhança 176 dentro do que foi
+apresentado e ponderado ao longo de todo o procedimento , em respeito às normas do
+ordenamento pátrio, para que haja a correta aplicação da lei penal177. Logo, com relação à busca
+pela verdade, os fins não justificam os meios no processo penal.178
+Nesse aspecto, seguindo a lógica de evolução processual acima apontada por Aury, foi
+incluída no Código de Processo Penal, através da Lei nº 11.690, de 2008 179, vedação legal
+explícita acerca da utilização de provas ilícitas. Conforme expõe o artigo 157, do Código de
+Processo Penal, as provas ilícitas são inadmissíveis e devem ser desentranhadas do processo.180
+Assim, embora o texto legal pontue apenas as provas ilícitas, a doutrina estabelece uma
+diferenciação entre os seguintes termos: provas ilegais, ilegítimas e ilícitas , as quais serão
+distinguidas a seguir.
+Em primeiro ponto, a prova será ilegal quando violar as normas e princípios previstos
+no ordenamento jurídico. Esta, por sua vez, pode ser dividida em duas: provas ilegítimas e
+provas ilícitas. Logo, a prova ilegal é gênero, sendo as provas ilegítimas e ilícitas espécies.
+A prova ilegítima se dá quando há violação à uma norma de direito processual penal
+quando do momento de sua produção, ou seja, dentro do próprio processo. Exemplo disso
+ocorre quando há oitiva de uma testemunha sem participação das partes para perguntas.181
+Por sua vez, as provas ilícitas ocorrem quando há violação de normas de direito material
+ou de garantias previstas na Constituição, tendo como exemplos a interceptação telefônica não
+autorizada por decisão judicial ou as provas obtidas mediante tortura.182
+176 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 46.
+177 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 439.
+178 GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista dos Tribunais,
+1997. Página 438.
+179 BRASIL. Lei nº. 11.690, de 09 de junho de 2008. https://www.planalto.gov.br/ccivil_03/_Ato2007 -
+2010/2008/Lei/L11690.htm#art1. Acesso em 25 de abril de 2024.
+180 “Art. 157: São inadmissíveis, devendo ser desentranhadas do processo, as provas ilícitas, assim entendidas as
+obtidas em violação a normas constitucionais ou legais.” BRASIL. Código de Processo Penal (Decreto -lei nº.
+3.689), de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto -lei/del3689.htm.
+Acesso em 26 de abril de 2024.
+181 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 460.
+182 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 460.
+Usualmente, a obtenção da prova ilícita é tida como um delito, o que não ocorre em sede
+de prova ilegítima. A consequência da prova ilegítima é a sua nulidade, já a consequência da
+prova ilícita é, muitas vezes, a sanção penal, além de ser ter de ser desentranhada do processo,
+conforme o já mencionado artigo 157, do Código de Processo Penal.
+No entanto, a lógica nem sempre foi essa . Como já mencionado no subcapítulo “A
+verdade no processo penal”, do capítulo I, anteriormente, as provas ilícitas eram vistas de outra
+forma dentro do processo penal . Na busca da chamada “verdade real”, parte da doutrina
+acreditava que, embora houvesse ilicitude com relação à obtenção da prova, esta deveria ser
+mantida no processo para fins de formação do conhecimento do juiz.
+Isso porque, de acordo com essa corrente doutrinária, a busca pela verdade seria o fim
+do processo, ou seja, os meios se justificariam para a “correta” busca da verdade, ainda que a
+prova tenha sido obtida violando normas materiais. A consequência ao infrator, portanto, seria
+apenas a aplicação da norma penal, mas a prova não seria desentranhada.
+Essa teoria era chamada de male captum, bene retetum , que significa prova “mal
+recolhida, mas bem recebida”. Ou seja, por não haver sanção processual por violação de norma
+material, a prova ilícita era inserida e recebida no processo assim como as outras obtidas por
+meios lícitos.183
+Por outro lado, corrente contrária , influenciada pelo constitucionalismo norte -
+americano, entendia que o direito não poderia validar “comportamento antijurídico, nem
+consentir que dele tire proveito quem haja desrespeitado o preceito legal, com prejuízo
+alheio”.184
+Portanto, essa alteração se deu justamente com base nessa segunda convicção . Em
+primeiro momento, o Código de Processo Civil de 1973 adotou, em seu artigo 332, que “todos
+183 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 460 -461.
+184 DE SOUZA, Alexander Araújo. A Inadmissibilidade, no Processo Penal, das Provas Obtidas por Meios IlÌcitos:
+Uma Garantia Absoluta?. Revista da EMERJ, v.7, n.27. 2004. Disponível em:
+https://www.emerj.tjrj.jus.br/revistaemerj_online/edicoes/revista27/revista27_185.pdf . Acesso em 26 de abril de
+2024.
+os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código,
+são hábeis para provar a verdade dos fatos, em que se funda a ação ou a defesa.”185
+Tal disposição se consolidou no atual Código de Processo Civil , de 2015, no capítulo
+das provas, da seguinte forma: “As partes têm o direito de empregar todos os meios legais, bem
+como os moralmente legítimos, ainda que não especificados neste Código, para provar a
+verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do
+juiz.”186
+A Constituição Federal de 1988, seguindo o pioneirismo do processo civil , inseriu a
+inadmissibilidade das provas obtidas por meios ilícitos.187
+Segundo Gustavo Badaró,
+A Constituição, ao assegurar a inadmissibilidade processual da prova ilícita,
+estabeleceu uma “ponte” entre os dois planos, do direito material e do direito
+processual. A “inadmissibilidade” é uma “sanção” processual, para uma violação de
+uma regra material.
+Ou seja, pode-se concluir que a ilicitude da prova, a partir desse marco, atinge o infrator
+tanto no plano material (sanção penal), como também no plano processual (nulidade da prova),
+porquanto foi assegurada na Constituição como cláusula pétrea , asseguradas no rol das
+garantias fundamentais, não sendo passíveis de emenda.
+Antonio Magalhaes Gomes Filho, nesse sentido, diz que, influenciado pela análise
+norte-americana, o dispositivo entendeu que “somente a vedação absoluta do ingresso no
+processo da prova resultante de violação dos direitos fundamentais pode servir de obstáculo
+eficaz às práticas ilegais para sua obtenção”.188
+185 BRASIL. Código de Processo Civil, de 11 de janeiro de 1973. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l5869.htm. Acesso em 10 de maio de 2024.
+186 BRASIL. Código de Processo Civil, de 16 de março de 2 015. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm. Acesso em 10 de maio de 2024.
+187 “Art. 5º LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos; ” BRASIL. Constituição da
+República Federativa do Brasil de 1988. Disponível em:
+https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em 26 de abril de 2024.
+188 GOMES FILHO, Antonio Magalhães. A inadmissibilidade das provas ilícitas no processo penal brasileiro.
+Revista Brasileira de Ciências Criminais | vol. 85/2010 | p. 393 - 410 | Jul - Ago / 2010 Doutrinas Essenciais
+Processo Penal | vol. 3 | p. 213 - 229 | Jun / 2012 DTR\2010\221.
+Após essa implementação, outras disposições vieram nessa mesma lógica no plano
+infraconstitucional. Além do que já foi mencionado no caput do artigo 157, do Código de
+Processo Penal, o parágrafo primeiro do mesmo artigo ainda afirma que também são
+“inadmissíveis as provas derivadas das ilícitas, salvo quando não evidenciado o nexo de
+causalidade entre umas e outras, ou quando as derivadas puderem ser obtidas por uma fonte
+independente das primeiras.”
+Nesse ponto, é importante fazer menção à teoria dos frutos da árvore envenenada, que
+tem origem no direito norte -americano, e que entende que, se há uma prova obtida através de
+meios ilícitos, essa prova deve ser considerada ilícita igualmente. De acordo Gustavo Badaró,
+“a prova ilícita por derivação é uma prova que, em si mesma, é lícita, mas que somente foi
+obtida por intermédio de informações ou elementos decorrentes de uma prova ilicitamente
+obtida.”
+Exemplo disso ocorre quando há uma confissão realizada mediante tortura, na qual as
+informações obtidas fundamentam um pedido de busca e apreensão que é posteriormente
+deferido e cumprido. Assim, caso se obtenha a prova do crime nessa busca e apreensão, es ta
+não deve ser admitida, pois, se fosse, burlaria “a própria inadmissibilidade da prova ilícita”.189
+Contudo, faz-se necessário ressaltar que a vedação à prova ilícita não é absoluta, ou seja,
+“quando não evidenciado o nexo de causalidade entre umas e outras, ou quando as derivadas
+puderem ser obtidas por uma fonte independente das primeiras.”
+Nesse sentido, evidencia-se que o legislador abriu margem para a utilização de provas
+que seriam descobertas por fonte outra, ou seja, para além da prova ilícita. Assim, em seu
+parágrafo segundo, expõe que: “Considera-se fonte independente aquela que por si só, seguindo
+os trâmites típicos e de praxe, próprios da investigação ou instrução criminal, seria capaz de
+conduzir ao fato objeto da prova.”
+Com base no parágrafo segundo acima mencionado, e com relação à temática ora em
+análise, caso haja uma boa investigação em prol do representado pela defesa técnica, conclui -
+se que é possível comprovar que os elementos obtidos seriam igualmente encontrados por fonte
+189 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 46 8.
+diversa de prova ou através de uma descoberta inevitável, a fim de que seja utilizado o que foi
+reunido, caso se entenda pertinente.
+Em uma análise crítica, Gustavo Badaró entende que é utilizado, no parágrafo segundo
+do artigo 157, do Código de Processo Penal, termos tão amplos que seria possível “anular a
+própria regra geral da vedação das provas ilícitas derivadas”.190
+Para Aury Lopes Jr., a inadmissibilidade das provas ilícitas não deve ser vista de forma
+absoluta, isso porque a própria ciência jurídica atual vem adotado critérios de relativização com
+base no princípio da proporcionalidade. Conforme apontado, “ não há mais espaço para tais
+teorias que têm a pretensão de serem “absolutas”, ainda mais quando é evidente que todo saber
+é datado e tem prazo de validade e, principalmente, que a Constituição, como qualquer lei, já
+nasce velha, diante da incrível velocidade do ritmo social.”191
+Nesse aspecto, segundo essa corrente, que ainda é pouco adotada na realidade criminal,
+a prova ilícita poderia vir a ser obtida e admitida em determinadas circunstâncias consideradas
+excepcionais e graves, como, por exemplo, em casos em que seria a única maneira “possível e
+razoável para proteger a outros valores fundamentais”, a fim de que seja evitado julgamentos
+injustos.192
+Contudo, nota -se que, na prática, esse princípio de proporcionalidade deve ser
+ponderado apenas a favor do réu, isso porque, se assim não fosse, poderiam haver restrições de
+direitos fundamentais pelo Estado com base nesses conceitos indeterminados, como a
+sobreposição dos interesses públicos em detrimento dos privados, tornando-se um verdadeiro
+retrocesso.193
+Nesse sentido, Aury entende que a
+sociedade deve ser compreendida dentro da fenomenologia da coexistência, e não
+mais como um ente superior, de que dependem os homens que o integram.
+Inadmissível uma concepção antropomórfica, na qual a sociedade é concebida como
+190 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 469.
+191 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+192 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+193 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+um ente gigantesco, no qual os homens são meras células, que lhe devem cega
+obediência.194
+De acordo com essa lógica, prevalece o direito de liberdade do acusado inocentemente
+em detrimento de “ eventual direito sacrificado na obtenção da prova ”. Exemplo disso ocorre
+quando o réu, ao violar as comunicações telefônicas de alguém (Artigo 5º, XII, da Constituição
+Federal de 1988) para comprovar a sua inocência.195
+Assim, a conclusão que se tira é de que é mais grave a condenação de um inocente do
+que uma violação de um preceito legal, na medida em que “a condenação de um inocente fere
+de morte o valor “justiça”, pois o princípio supremo é o da proteção dos inocentes no processo
+penal.”196
+Outro possível tese a ser arguida pela defesa técnica do réu é de que ele estaria munido
+de legítima defesa, de estado de necessidade ou da excludente de culpabilidade inexigibilidade
+de conduta diversa (a depender do caso) quando do momento da obtenção da prova ilícita.
+Assim, tais argumentos excluiriam a ilicitude da prova.197
+No entanto, vale ressaltar que tais excludentes de ilicitude somente poderiam ser
+utilizadas para inocentar o réu, mas não para utilizá-la contra terceiros em processo penal
+diverso, em respeito ao princípio da razoabilidade, porquanto essa prova agora lícita está
+vinculada ao processo e especificamente ao réu. Ou seja, em outros procedimentos, a prova será
+ilícita.198
+Vale ressaltar, ainda sobre a temática, a possível contaminação das provas lícitas pela
+ilícita, o que acarretaria, de acordo com o artigo 573, parágrafo primeiro, do Código de Processo
+Penal, a sua nulidade, nos seguintes termos: “A nulidade de um ato, uma vez declarada, causará
+a dos atos que dele diretamente dependam ou sejam consequência.”199
+194 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+195 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+196 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020, apud GRECO FILHO,
+Vicente. Tutela Constitucional das Liberdades, p. 112-113, apud SCARANCE FERNANDES, Antonio. Processo
+Penal Constitucional, cit., p. 81.
+197 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 202 0.
+198 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+199 BRASIL. Código de Processo Penal (Decreto -lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 20 de junho de 2023.
+Contudo, evidencia -se na prática forense que a jurisprudência evita reconhecer a
+contaminação das provas, “ sob o argumento de que não está demonstrada claramente uma
+relação de causa e efeito”, além da possibilidade de utilizar, no plano hipotético, da
+fundamentação de que seria possível adquirir a prova através de fonte independente.200
+Ainda segundo Aury,
+Para o CPP, “considera -se fonte independente aquela que por si só, seguindo os
+trâmites típicos e de praxe, próprios da investigação ou instrução criminal, seria capaz
+de conduzir ao fato objeto da prova”. A redação é péssima: o que significa “trâmites
+típicos e de praxe”? Será aquilo que quiser o intérprete... Sem falar no perigo de
+recorrer à “praxe” investigatória como argumento para justificar uma fonte
+independente hipotética ou imaginária. Ou seja: essa prova é derivada de outra ilícita,
+mas, seguindo os trâmites típicos e de praxe, nós – talvez e não se sabe quando ou
+como – também teríamos chegado àquela prova. É, sem dúvida, uma validação de
+uma prova derivada e ilícita. Reparem a perigosa abertura para o decisionismo, para
+o julgador fazer o que quiser.
+Assim, a lógica é que se há prova que lícita que fundamente a decisão condenatória,
+mesmo que se evidencie a prova ilícita, não se fala em anulação da condenação.
+Dessa forma, é possível concluir que a lógica dessas incorporações legais ao
+ordenamento jurídico pátrio são uma afirmação da limitação à busca da verdade material “a
+todo custo”201, sendo necessário, com base no artigo 155, do Código de Processo Penal, que o
+juiz formule sua convicção com base na “livre apreciação da prova produzida em contraditório
+judicial”.202
+Inclusive, nesse sentido, prevalece no processo criminal a regra do in dubio pro
+probatione, ou seja, “na dúvida, a favor da prova”. Nesse sentido, às partes é assegurado a
+produção das provas e, caso haja dúvida por parte do juiz em autorizar a sua produção ou não,
+deve autorizá-las.
+200 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+201 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 460 -461.
+202 “Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial,
+não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação,
+ressalvadas as provas cautelares, não repetí veis e antecipadas” BRASIL. Código de Processo Penal (Decreto -lei
+nº. 3.689), de 3 de outubro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto -
+lei/del3689.htm. Acesso em 26 de abril de 2024.
+Ainda, há que se levar em consideração a questão psicológica envolvida com relação às
+provas ilícitas. Isso porque, ainda que a prova não seja valorada no processo, o magistrado em
+questão te m acesso aos autos, “seja para inadmitir a prova, seja para excluir a prova
+indevidamente admitida.” 203 Assim, torna -se um obstáculo não valorar intimamente essas
+provas para fins de convicção, ainda que não as utilize de forma expressa na fundamentação da
+decisão.204
+Nesse sentido, ressalta-se:
+O juiz que ouve uma confissão registrada em uma conversa telefônica ilicitamente
+obtida, dificilmente conseguirá desconsiderar, no ato de decidir, o seu conhecimento
+sobre a autoria delitiva. Mesmo excluída a prova ilícita, o julgador, consciente ou
+inconscientemente, poderá ser levado a supervalorizar os demais elementos de prova
+no mesmo sentido.205
+A fim de garantir a imparcialidade do juiz, foi incluído no parágrafo quinto do artigo
+157, do Código de Processo Penal, por meio da Lei número 13.964/2019, que “o juiz que
+conhecer do conteúdo da prova declarada inadmissível não poderá proferir a sentença ou
+acórdão”206.
+No entanto, tal determinação foi suspensa em decisão do Ministro Luiz Fux, no ano de
+2020, através das ações diretas de inconstitucionalidade 6298, 6299, 6300 e 6305, tendo sido o
+julgamento no sentido de confirmar a inconstitucionalidade do referido parágrafo quinto.
+Assim, na prática, a prova ilícita ainda pode ser considerada intimamente pelo
+magistrado, já que este continua atuando no processo mesmo tendo acesso ao conteúdo que não
+pode ser valorado.
+Gustavo Badaró, ao contrário do que foi determinado pelo Supremo Tribunal Federal,
+entende que o juiz deveria ser substituído do processo assim que tivesse tido contato com a
+prova reconhecidamente ilícita, e não aguardar até a elaboração da sentença para se afastar .207
+203 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 461.
+204 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 461.
+205 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 46 2.
+206 BRASIL. Código de Processo Penal (Decreto -lei nº. 3.689), de 3 de outubro de 1941. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 26 de abril de 2024.
+207 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 462.
+Aury Lopes Jr., por sua vez, também entende que não basta desentranhar a prova, é preciso
+desentranhar igualmente o juiz.208
+Outro ponto extremamente relevante, e que deve ser pontuado com a devida
+importância, é a atuação do advogado na obtenção da prova ilícita para comprovar a inocência
+de seu representado. Isso porque, como dito anteriormente no capítulo II, há, dentro das novas
+proposições legislativas, determinações que imputam responsabilidade cível, criminal e ética
+aos advogados que cometerem excessos na prática da investigação defensiva, como é o caso do
+artigo 13, parágrafo sexto, do Projeto de Lei número 8045/2010.
+Por certo, o defensor técnico, ao tentar angariar elementos probatórios favoráveis para
+o seu cliente, pode acabar por vir a cometer atos ilícitos. Tal temática já foi pontuada na
+realidade italiana, onde se afirma que o defensor está proibido de juntar provas sabidamente
+falsas ou ilícitas, tampouco destruir provas, sob pena do cometimento de crime de
+favorecimento pessoal.209
+Na realidade norte-americana, a American Bar Association (ABA) também determina,
+ao longo do Criminal Justice Standards for The Defense Function , que o advogado não deve
+utilizar de meios ilegais ou antiéticos para obter elementos de provas, nem tampouco delegar,
+instruir ou encorajar terceiros a fazê -lo.210 Além disso, ações como remunerar as testemunhas
+são expressamente vedadas.211
+208 LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+209 MACHADO, André Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 163-164.
+210 “Standard 4 -4.2 Illegal and Unethical Investigation Prohibited Defense counsel should not use illegal or
+unethical means to obtain evidence or information, or employ, instruct, or encourage others to do so.” AMERICAN
+BAR ASSOCIATION. Fourth Edition (2017) of the criminal justice standards for the defense function. Disponível
+em: https://www.americanbar.org/groups/criminal_justice/standards/DefenseFunctionFourthEdition/. Acesso em
+15 de junho de 2024.
+211 “Standard 4-4.3 (e) Defense counsel should be permitted to compensate a witness for reasonable expenses such
+as costs of attending court, depositions pursuant to statute or court rule, and pretrial interviews, including
+transportation and loss of income. No other benefits should be provided to witnesses, other than expert witnesses,
+unless authorized by law, regulation, or well -accepted practice. All benefits provided to witnesses should be
+documented so that they may be disclosed if required by law or cou rt order. Defense counsel should not pay or
+provide a benefit to a witness in order to, or in an amount that is likely to, affect the substance or truthfulness of
+the witness’s testimony.” AMERICAN BAR ASSOCIATION. Fourth Edition (2017) of the criminal justice
+standards for the defense function. Disponível em:
+https://www.americanbar.org/groups/criminal_justice/standards/DefenseFunctionFourthEdition/. Acesso em 15
+de junho de 2024.
+Na perspectiva brasileira, o Estatuto da Ordem (Lei 8.906/94) assegura as prerrogativas
+dos advogados no plano legislativo , as quais podem ser definidas por direitos mínimos
+necessários para o desempenho ideal da advocacia, sendo essenciais para as mais diversas
+atividades exercidas . Em seu artigo 2º, é exposto a essencialidade do advogado para a
+administração da justiça, sendo certo que presta serviço público e exerce função social. 212
+Contudo, fato é que o advogado atua inegavelmente em caráter privado, no interesse de seu
+cliente, ainda que haja relevância pública.213
+Nesse sentido, ao passo que o advogado atuante na seara da investigação defensiva não
+tem o dever de juntar elementos de prova desfavoráveis ao seu representado, não há que se falar
+em poder coercitivo do advogado “para compelir terceiros a fornecerem informações e
+documentos”214, por exemplo, como ocorre na investigação realizada pela autoridade judiciária.
+Muito pelo contrário, o advogado deve restringir a sua atuação para que não sofra eventuais
+penalizações com base em prática de ilícitos para a obtenção de elementos de prova.
+Segundo Franklyn Roger, há uma extrema necessidade de se organizar, no plano
+legislativo, a investigação defensiva, com vistas a assegurar a atuação do advogado criminal, a
+fim de que estes saibam os limites da condução dessa atividade. Assim, deve-se promover dois
+níveis de alterações legislativas: no Código de Processo Penal e também nas determinações
+destinadas a advogados e defensores públicos, assegurando -se as prerrogativas necessárias ,
+além de normas deontológicas nesse mesmo sentido. 215
+Com base em todo o exposto, conclui -se acerca da temática em análise que a
+investigação criminal defensiva terá como contribuir na seara da ilicitude da prova, seja para
+comprovar que o réu agiu em legitima defesa, por exemplo, devendo, assim, a prova ser
+recebida para inocentar o representado, ou para assegurar os direitos do acusado de não possuir
+uma decisão condenatória em seu desfavor com base em prova ilícita. Nesse sentido,
+infelizmente, a decisão recente do Supremo Tribunal Federal no sentido de
+212 BRASIL. Lei número 8.906, de 04 de julho de 1994. Disponível em
+https://www.planalto.gov.br/ccivil_03/LEIS/L8906.htm. Acesso em 10 de junho de 2024.
+213 MACHADO, André Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 176.
+214 MACHADO, André Augusto Mendes. Investigação criminal defensiva. 1ª. edição. São Paulo: Revista dos
+Tribunais, 2010. Página 176.
+215 SILVA, Franklyn Roger Alves. Investigação direta pela defesa. 4ª Edição. São Paulo: Juspodivm, 2023. Página
+557.
+inconstitucionalidade do artigo 157, parágrafo quinto, do Código de Processo Penal, não é
+favorável, pois, por certo, o juiz contaminado por informação de prova ilícita poderá vir a
+prejudicar a condição do acusado.
+Contudo, deve-se atentar às prerrogativas e limitações com relação à prática forense, as
+quais estão mais evidenciadas em propostas no plano legislativo, tendo em vista que o advogado
+não está munido de legítima defesa como o acusado , além de precisar responder perante ao
+conselho ético, por exemplo. Assim, a atividade do advogado por certo é e deve ser mais restrita
+do que a do acusado , sobretudo no que tange à obtenção de prova ilícita no contexto da
+investigação defensiva.
+CONCLUSÃO
+O objetivo da presente dissertação foi analisar o papel da investigação defensiva dentro
+da advocacia criminal contemporânea. Desse modo , em um primeiro momento, foi exposto
+capítulo destinado ao estudo do direito à prova, expondo os princípios correlatos ao direito de
+defesa, seu histórico, natureza jurídica, conceitos, estrutura normativa e limites.
+Ainda nesse capítulo, foi exposto o problema da busca pela verdade real no processo
+penal, o qual é fortemente discutido em sede doutrinária. Dessarte, constata-se que é impossível
+haver uma verdade absoluta quando se trata de reprodução de um fato ocorrido e finalizado no
+passado, tendo como exemplo o fenômeno das falsas memórias. Logo, o que se pode ter, diante
+da instrução probatória correta, é a constatação de uma verdade processual adequada e coerente
+ao caso concreto.
+Em seguida, no capítulo II, adentrou-se mais especificamente à temática da investigação
+defensiva, apresentando o direito à investigação defensiva, sua definição, demarcações
+históricas no Brasil e no direito comparado, sua natureza jurídica, marcos legislativos, garantias
+que já se encontram asseguradas e desafios para a sua integral eficácia , além de proposições
+legislativas em trâmite e sua presença na jurisprudência mais recente . Nesse sentido, foi
+possível concluir que, para que haja a maior eficácia , a investigação criminal defensiva deve
+ser iniciada o quão antes, idealmente na fase preliminar ou até mesmo antes dela. Isso se deve
+porque a s fases mais avançadas, como é o caso da etapa recursal, apresentam certas
+delimitações, sendo certo que os Tribunais Superiores não são passíveis de análise de fatos e
+provas.
+Além disso, outro problema levantado foi que os elementos formulados pelo advogado
+em sede de investigação defensiva podem ser recusados, n a medida em que o Provimento
+número 188/2018 não possui força de lei. Desse modo, entendo que a investigação defensiva
+somente alcançar á a devida eficácia na realidade brasileira quando for inserida no plano
+legislativo, assim como foi em países como a Itália e os Estados Unidos, ordenamentos
+notadamente relevantes na seara em análise. Tal proposições, conforme evidenciado, estão em
+trâmite na realidade brasileira, tanto em legislação própria, quanto no novo projeto do Código
+de Processo Penal.
+Após isso, no último capítulo, buscou-se analisar a possibilidade, dentro do contexto da
+investigação defensiva, de se utilizar da prova ilícita com a finalidade de se provar a inocência
+do acusado. Primeiramente, foi necessário pontuar que a lógica processual é de que os fins são
+tão relevantes quanto os meios216, ou seja, é necessário que se respeite às regras do ordenamento
+jurídico pátrio para que se logre êxito na verdade processual, com limitações legislativas com
+relação à recepção da prova.
+Ainda, foi exposto a questão da utilização da prova ilícita em prol do réu, porquanto a
+conclusão que se tira é de que é mais grave a condenação de um inocente do que uma violação
+de um preceito legal . Nota-se, contudo, que ess e entendimento somente poderia ser utilizado
+para inocentar o réu, mas não contra terceiros em processo penal diverso, em respeito ao
+princípio da razoabilidade.
+Além disso, foram expostos problemas como a lógica de que se há prova que lícita que
+fundamente a decisão condenatória, mesmo que se evidencie a prova ilícita, não se fala em
+anulação da condenação, e também a questão mais recente envolvendo a decisão do S upremo
+Tribunal Federal com relação à inconstitucionalidade do artigo 157, parágrafo quinto, do
+Código de Processo Penal, no sentido de entender que não há motivo para desvincular o juiz
+que teve acesso à prova tida como ilícita.
+Outro ponto relevante e necessário de ser discutido é que não poderá o advogado agir
+da mesma forma que o réu quando se trata de prova ilícita, visto que o defensor precisa se
+atentar às eventuais responsabilizações nos âmbitos cível, penal e disciplinar , fazendo -se
+necessário que as proposições legislativas em trâmite se concretizem na realidade brasileira,
+com o intuito de assegurar as prerrogativas dos advogados, assim como foi feito na Itália e nos
+Estados Unidos, países que já utilizam da investigação defensiva de forma mais segura.
+Diante de todo o exposto , ao longo dos três capítulos, foi possível constatar a
+multifacetada atuação d a investigação criminal defensiva em prol do representado, sendo
+notória a necessidade, para a sua melhor e mais eficiente atuação, maior delimitação legislativa
+quanto à prática, a fim de que sejam resguardados os direitos dos clientes, mas também dos
+advogados atuantes.
+216 BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022. Página 461.
+REFERÊNCIAS
+AMERICAN BAR ASSOCIATION. Fourth Edition of the criminal justice standards for
+the defense function . Publicado em 2017. Disponível em:
+https://www.americanbar.org/groups/criminal_justice/standards/DefenseFunctionFourthEditio
+n/. Acesso em 15 de junho de 2024.
+ASSOCIAÇÃO BRASILEIRA DOS ADVOGADOS CRIMINALISTAS. Abracrim
+disponibiliza Código Deontológico de Boas Práticas da Investigação Defensiva . Publicado
+em: 19 de março de 2024. Disponível em: https://web.abracrim.adv.br/abracrim-disponibilizacodigo-deontologico-de-boas-praticas-da-investigacao-defensiva/. Acesso em 04 de abril de
+2024.
+ASSOCIAÇÃO BRASILEIRA DOS ADVOGADOS CRIMINALISTAS. Código
+Deontológico de Boas Práticas da Investigação Defensiva . Florianópolis: Emais Editora,
+2023. Disponível em: https://web.abracrim.adv.br/abracrim-disponibiliza-codigodeontologico-de-boas-praticas-da-investigacao-defensiva/. Acesso em 04 de abril de 2024.
+BADARÓ, Gustavo. Processo Penal. 10ª Edição. São Paulo: Revista dos Tribunais, 2022.
+BADARÓ, Gustavo. Processo Penal. 11ª Edição. São Paulo: Revista dos Tribunais, 2023.
+BRASIL. Código de Processo Civil, de 11 de janeiro de 1973 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l5869.htm. Acesso em 10 de maio de 2024.
+BRASIL. Código de Processo Civil, de 16 de março de 2015 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l5869.htm. Acesso em 10 de maio de 2024.
+BRASIL. Código de Processo Penal ( Decreto-lei nº. 3.689), de 3 de outubro de 1941.
+Disponível em: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm. Acesso em 20
+de junho de 2023.
+BRASIL. Código Penal (Decreto -lei nº. 2.848), de 7 de dezembro de 1940. Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm. Acesso em 02 de
+julho de 2024.
+BRASIL. Constituição da República Federativa do Brasil de 1988. Disponível em:
+https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em 22 de junho
+de 2023.
+BRASIL. Decreto n úmero 4.824, de 22 de novembro de 1871 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/decreto/historicos/dim/dim4824.htm. Acesso em 04 de
+abril de 2024.
+BRASIL. Lei Complementar número 75, de 20 de maio de 1993 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp75.htm. Acesso em 16 de abril de 2024.
+BRASIL. Lei número 7.210, de 11 de julho de 1984. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l7210.htm. Acesso em 18 de abril de 2024.
+BRASIL. Lei número 8.906, de 04 de julho de 1994 . Disponível em
+https://www.planalto.gov.br/ccivil_03/LEIS/L8906.htm. Acesso em 10 de junho de 2024.
+BRASIL. Lei número 12.846, de 1º de agosto de 2013 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm. Acesso em 21 de abril de
+2024.
+BRASIL. Lei número 12.850, de 2 de agosto de 2013 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm. Acesso em 21 de
+abril de 2024.
+BRASIL. Lei número 13.245, de 12 de janeiro de 2016. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13245.htm. Acesso em 24
+de junho de 2023.
+BRASIL. Lei número 13.432, de 11 de abril de 2017. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13432.htm. Acesso em 20
+de junho de 2023.
+BRASIL. Lei número 13.964, de 24 de dezembro de 2019 . Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm. Acesso em 16 de
+abril de 2024.
+BRASIL. Projeto de Lei número 8.045, de 22 de dezembro de 2010 . Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1638152&filenam
+e=PL%208045/2010. Acesso em 15 de maio de 2024.
+BRASIL. Projeto de Lei número 2 .642, de 02 de agosto 2021 . Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2049305&filenam
+e=PL%202642/2021. Acesso em 27 de maio de 2024.
+BRASIL. Superior Tribunal de Justiça. Habeas Corpus número 190.917 . Relator Ministro
+Celso Limongi. São Paulo. 06/12/2010. Publicado em 28/03/2011. Disponível em:
+https://processo.stj.jus.br/processo/pesquisa/?termo=hc+190917&aplicacao=processos.ea&tip
+oPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO. Acesso em
+25 de junho de 2023.
+BRASIL. Superior Tribunal de Justiça. Mandado de Segurança 26627/DF. Relator: Ministro
+Sérgio Kukina, julgamento ocorrido em 09 de março de 2022. Disponível em:
+https://scon.stj.jus.br/SCON/SearchBRS?b=ACOR&p=false&operador=E&livre=%28%28+
+%28%27PROVIMENTO+188%2F2018%27%29%29%29+E+%40CDOC%3D%272158368
+%27. Acesso em 22 de maio de 2024.
+BRASIL. S upremo Tribunal Federal. Rcl 36542 AgR . Relator: Ministro Gilmar Mendes,
+julgamento ocorrido em 20 de abril de 2021. Disponível em:
+https://portal.stf.jus.br/processos/downloadPeca.asp?id=15347429536&ext=.pdf. Acesso em
+22 de maio de 2024.
+BRASIL. Supremo Tribunal Federal. Súmula Vinculante 14, de 2009 . Disponível em:
+https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1230. Acesso
+em 24 de junho de 2023.
+CONSTITUIÇÃO DA REPÚBLICA ITALIANA. Tradução para português. Disponível em:
+https://www.areaseg.com/bib/29%20-%20Constituicao%20de%20Paises/ConstituicaoItalia.pdf. Acesso em 10 de abril de 2024.
+CUNHA, Rogério Sanches. Webinar Projeto do novo CPP Investigação defensiva. Youtube,
+publicado em 3 de jul. de 2021. Disponível em:
+https://www.youtube.com/watch?v=PySy3py92Oc. Acesso em 15 de maio de 2024.
+DA ROSA, Alexandre de Moraes. RUDOLFO, Fernanda Mambrini. A teoria da perda de
+uma chance probatória aplicada ao processo penal . Volume 13, n.3, p. 455 -471. Passo
+Fundo: Revista Brasileira de Direito, 2017. Disponível em:
+file:///C:/Users/MLA/Downloads/Teoria%20da%20perda%20de%20uma%20chance%20prob
+at%C3%B3ria%20(1).pdf. Acesso em 19/01/2024.
+DE SOUZA, João Fiorillo. Revisitando a verdade no Processo Penal a partir do garantismo
+de Luigi Ferrajoli. Revista Jurídica da Presidência. Brasília, v. 14 n. 103. p. 477 a 494. 2012.
+Disponível em: https://revistajuridica.presidencia.gov.br/index.php/saj/issue/view/18/6.
+Acesso em 25 de abril de 2024.
+DIAS, G. B. N . Manual Prático de Investigação Defensiva: um novo paradigma na
+advocacia criminal brasileira. 2ª. edição. Florianópolis: EMais, 2022.
+GRECO, Leonardo. Instituições de Processo Civil. Introdução ao Direito Processual Civil
+– volume 1. 5ª. Edição – Rio de Janeiro: Forense, 2015.
+GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: Revista
+dos Tribunais, 1997.
+GOMES FILHO, Antonio Magalhães. A inadmissibilidade das provas ilícitas no processo
+penal brasileiro. Revista Brasileira de Ciências Criminais | vol. 85/2010 | p. 393 - 410 | Jul -
+Ago / 2010 Doutrinas Essenciais Processo Penal | vol. 3 | p. 213 - 229 | Jun / 2012
+DTR\2010\221.
+KISS, Vanessa Morais. A investigação defensiva no Direito Processual Penal Brasileiro . -
+São Paulo: [s.n.], 2021. Disponível em:
+https://tede.pucsp.br/bitstream/handle/24841/1/Vanessa%20Morais%20Kiss.pdf. Acesso em
+06 de abril de 2024.
+LOPES JUNIOR, Aury. Direito processual penal. 17ª Edição. São Paulo: Saraiva, 2020.
+MACHADO, A ndré Augusto Mendes . Investigação Criminal Defensiva . 1ª. edição. São
+Paulo: Revista dos Tribunais, 2010.
+MALAN, Diogo Rudge. Advocacia criminal contemporânea. Rio de Janeiro: Lumen Juris,
+2022.
+MORAES, Alexandre de. Direito constitucional. 23ª Edição. São Paulo: Atlas, 2008.
+NERY JR., Nelson. Princípios do processo civil na Constituição Federal . 2ª. Edição. São
+Paulo: Revista dos Tribunais, 1995.
+NERY JR., Aury. Direito processual penal. 18ª Edição. São Paulo: Saraiva Educação, 2021.
+ORDEM DOS ADVOGADOS DO BRASIL. Código de Ética e Disciplina da OAB.
+Disponível em: https://www.oab.org.br/publicacoes/AbrirPDF?LivroId=0000004085. Acesso
+em 22 de abril de 2024.
+ORDEM DOS ADVOGADOS DO BRASIL. Provimento número 188, de 11 de dezembro
+de 2018. Disponível em https://www.oab.org.br/leisnormas/legislacao/provimentos/188-2018.
+Acesso em 18 de junho de 2023.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS. Declaração Universal dos Direitos Humanos,
+1948. Disponível em: <https://www.unicef.org/brazil/declaracao -universal-dos-direitoshumanos>. Acesso em: 24 de out. de 2023.
+SILVA, Bernardo Braga e. O direito à admissão da prova do acusado no processo penal
+brasileiro. 1ª. Edição. Curitiba: CRV, 2019.
+SILVA, Franklyn Roger Alves . Investigação direta pela defesa. 4ª Edição. São Paulo:
+Juspodivm, 2023.
+SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA número 52. Terceira Seção, em 17. De
+setembro de 1992. DJ 24.09.1992, p . 16.070. Disponível em:
+https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-sumulas-
+2006_4_capSumula52.pdf. Acesso em 05 de março de 2024.
+SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA número 64. Terceira Seção, em 03 de
+dezembro de 1 992. DJ 09.12.1992, p. 23.482. Disponível em:
+file:///C:/Users/MLA/Downloads/5258-19586-1-SM%20(2).pdf. Acesso em 05 de março de
+2024.
+STEIN, Lilian Milnitsky. Falsas Memórias: Fundamentos Científicos e suas Aplicações
+Clínicas e Jurídicas. 1ª. Edição. Porto Alegre: Artmed, 2010.
+TALON, Evinis. Investigação criminal defensiva . 2ª. Edição. Rio de Janeiro: Lumen Juris.
+2021.
+TALON, Evinis. Investigação criminal defensiva: cuidado! Youtube, publicado em 7 de abril
+de 2020. Disponível em: https://www.youtube.com/watch?v=n8IQ10bCDQg. Acesso em 20 de
+abril de 2024.

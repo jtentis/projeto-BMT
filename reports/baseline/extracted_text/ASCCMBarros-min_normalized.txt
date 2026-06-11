@@ -1,0 +1,1477 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO - UFRJ
+CENTRO DE CIÊNCIAS JURÍDICAS E ECONÔMICAS - CCJE
+FACULDADE NACIONAL DE DIREITO - FND
+ALEXANDRE SOUZA CARNEIRO DA CUNHA MORAES BARROS
+UMA LEITURA DOS REAJUSTES DE PLANOS DE SAÚDE SOB A ÓTICA ESTATUTO DO
+IDOSO
+RIO DE JANEIRO
+2022
+2022
+ALEXANDRE SOUZA CARNEIRO DA CUNHA MORAES BARROS
+UMA LEITURA DOS REAJUSTES DE PLANOS DE SAÚDE SOB A ÓTICA ESTATUTO DO
+IDOSO
+Trabalho de Conclusão de Curso
+apresentado à Faculdade Nacional de
+Direito da Universidade Federal do Rio de
+Janeiro, como parte dos requisitos
+necessários à obtenção do grau de bacharel
+em Direito.
+Orientador(a): Prof.ª. Fabiana Rodrigues
+Barletta
+RIO DE JANEIRO
+2022
+ALEXANDRE SOUZA CARNEIRO DA CUNHA MORAES BARROS
+UMA LEITURA DOS REAJUSTES DE PLANOS DE SAÚDE SOB A ÓTICA ESTATUTO DO
+IDOSO
+Monografia de final de curso, elaborada no
+âmbito da graduação em Direito da
+Universidade Federal do Rio de Janeiro,
+como pré-requisito para obtenção do grau de
+bacharelem Direito, sob a orientação da
+Professora Dra. Fabiana Rodrigues
+Barletta.
+Data da Aprovação: / / .
+Banca Examinadora:
+Orientador
+Co-orientador (Opcional)
+Membro da Banca
+Membro da Banca
+Rio de Janeiro
+Em homenagem aos que, assim como eu,
+acreditam que a magia (a verdadeira magia)
+pode mudar o mundo.
+3
+ATA DE APRESENTAÇÃO DE TRABALHO DE CONCLUSÃO DE CURSO
+DATA DA APRESENTAÇÃO: 21/ 12/ 2022
+Na data supramencionada, a BANCA EXAMINADORA integrada pelos (as) professores (as)
+1. Fabiana Barletta
+2. Daniela Barcellos
+3. Carolina Silvino
+4 Reuniu-se para examinar o TRABALHO DE CONCLUSÃO DE CURSO - TCC do discente:
+NOME COMPLETO DO ALUNO:
+Alexandre Souza Carneiro da Cunha Moraes Barros ,
+DRE 117200701,
+TITULO DA MONOGRAFIA: “ Uma leitura dos reajustes dos planos de saúde sob a ótica do Estatuto do Idoso”
+.
+APÓS A EXPOSIÇÃO DO TRABALHO DE MONOGRAFIA PELO (A) DISCENTE, ARGUIÇÃO DOS MEMBROS DA BANCA E DELIBERAÇÃO SIGILOSA,
+FORAM ATRIBUÍDAS AO DISCENTE AS SEGUINTES NOTAS POR EXAMINADOR (A):
+MÉDIA FINAL
+Assinatura do PROF. ORIENTADOR (A): Fabiana Barletta NOTA: 9,0
+Assinatura PROF. MEMBRO 01: Daniela Barcellos NOTA: 9,0
+Assinatura PROF. MEMBRO 02: Carolina Silvino NOTA: 9,0
+Assinatura PROF. MEMBRO 03: NOTA:
+MÉDIA FINAL (Disciplina MONOGRAFIA JURÍDICA III):
+Rua Moncorvo Filho, 8 - Centro, Rio de Janeiro - RJ, CEP 20211-340
+Telefone: 21 3938-1009 E-mail: monografia@direito.ufrj.br
+www.fnd.ufrj.br
+OBS: Professor Orientador tem prerrogativa de referendar as notas dos membros
+da BANCA EXAMINADORA assinando por todos.
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+Centro de Ciências Jurídicas e Econômicas
+Faculdade Nacional de Direito
+Coordenação de Monografia
+9,0
+Respeito à
+Forma
+(Até 2,0)
+Apresentação
+Oral
+(Até 2,0)
+Conteúdo
+(Até 5,0)
+Atualidade e
+Relevância
+(Até 1,0)
+TOTAL
+Prof. Orientador(a) 2,0 1,0 5,0 1,0 9,0
+Prof. Membro 01 2,0 1,0 5,0 1,0 9,0
+Prof. Membro 02 2,0 1,0 5,0 1,0 9,0
+Prof. Membro 03
+9,0
+AGRADECIMENTOS
+Uma pessoa muito importante uma vez me transmitiu dois ensinamentos. O
+primeiro é que alguns momentos marcantes em nossas vidas não são somente nossos, mas
+sim de diversas pessoas que tornaram aqueles momentos possíveis. O segundo
+ensinamento é que existe mais de uma forma de se dizer que acredita na capacidade de
+uma determinada pessoa.
+Tendo esses dois ensinamentos em mente, estou escrevendo essesagradecimentos,
+pois todos aqui contribuíram das mais variadas formas na minha jornadapara que tudo
+desse certo.
+A primeira pessoa que vou agradecer é a minha orientadora que literalmente foi
+uma mãe para mim ao longo da graduação, me orientou para muito além de somente um
+trabalho ou esclarecer uma dúvida de disciplina, mas uma pessoa que acreditou em mim
+desde o primeiro momento, e me orientou e ainda me orienta para a vida. Uma pessoa que
+sempre agregou com palavras positivas e fez além do que outros orientadores fariampara
+que o presente trabalho fosse concretizado. Se não fosse pelos cuidados especiais
+dispensados a mim, talvez meu caminho tivesse sido mais difícil. Muito obrigado Dra.
+Fabiana Rodrigues Barletta, a senhora para mim é bem mais que uma professora.
+No meu caminho a vida foi me presenteando com pessoas muito especiais que me
+ajudaram muito, e esse trabalho, também pertence a essas pessoas: Tia Márcia, tia Fátima,
+professora Renata professora Mirian Duque, professora Graciete, professora Eulália,
+professora Maria Teresa, professora Ana Maria, professora Marina, professora Gabriela,
+professora Zélia, professora Darlene, professora Mariza, professor Vinícius, professor
+Pedro Paulo, professor Ivair, professor Guinancio, professor Marcelo, professor Werner,
+professor Airton. Os senhores, todos professores em toda a extensão do termo, são pessoas
+conscientes da importância de seu trabalho de desenvolvimentos dos jovens e foram
+fundamentais para que eu pudesse me desenvolver e chegar até aqui, muito obrigado a
+todos.
+Amigos são pessoas que nos conhecem bem e com suas palavras tem o poder de
+nos levantar, e eu queria agradecer a essas pessoas, pois em todos os momentos, foram
+pessoas que somente vieram somar com palavras e energias positivas, sempre
+incentivando e acreditando na minha capacidade. Muito obrigado Bia e Aninha, pois
+vocês duas são amigas de longa data e que gostam de mim de graça. Encontrar pessoas
+assim não é tarefa fácil e eu tenho sorte de ter vocês na minha vida. Muito obrigado por
+todo o apoio e carinho que me dedicaram e ainda dedicam, sabem sempre o que dizer e
+como direcionar as coisas da melhor forma quando preciso de ajuda.
+Duas outras pessoas que são amigos, mas merecem um agradecimento à parte são
+o Hugo e a Thamires, pois além de amigos são também dois doutores formados em Direito
+e sabem por sentir na própria pele quais são as dificuldades da caminhada dessa formação.
+Muito obrigado Hugo, por vir sentar perto de mim lá no 3º período, eu não imaginava que
+eu faria um amigo tão especial que me ajudaria tanto na caminhada ao longo da FND,
+tive o privilégio de partilhar da sua amizade e de descobrir que anjos existem sim na vida
+real.
+Thamires uma moça linda e inteligente, que sem nem me conhecer direito, me
+orientou e ajudou muito no ambiente de trabalho e fora dele também, me ensinando muito
+sobre a vida, pois quando encontramos pessoas generosas que partilham suas experiências
+conosco devemos aprender com elas, pois ao partilhar suas experiências elas acreditam
+que nós somos pessoas que valem a pena e isso é uma forma de falar que se acredita na
+capacidade de alguém sem falar diretamente.
+Uma pessoa que influenciou diretamente para que o presente trabalho pudesse ser
+feito foi a Dra. Ana Maria, uma pessoa que me ajuda e cuida de mim desde os 13 anos.
+Nesse momento de finalização de curso só ela sabe o quanto ela conversou comigo
+falando coisas positivas e buscando ponderar as po ssibilidades de futuro, mas sempre
+buscando pensar no que é melhor para que o Alexandre seja feliz e esteja sempre com os
+olhos brilhando. Profissionais interessados como a senhora são raros e eu fico muito feliz
+de ter tido a sorte de cair no seu consultório, muito obrigado.
+Entro nesse momento em agradecimentos para família e parentes que são pessoas
+pavimentam nosso caminho antes de nós, contribuindo literalmente para que nosso
+caminhar possa ser mais fácil. Muito obrigado vô Clóvis, vó Lita, vô Barros e vó Maria.
+Os senhores foram pessoas que contribuíram diretamente para que minha caminhada
+fosse mais fácil e que hoje eu pudesse estar finalizando esse trabalho. Logo, esse trabalho
+também pertence aos senhores.
+Por último, mas não menos especial quero agradecer aos meus pais e minha irmã
+primeiramente por me compreenderem em minhas particularidades e buscarem sempre
+1
+pensar no que é melhor para mim levando em consideração todas as minhas
+características. Muito obrigado por serem pessoas tão generosas e se é verdade que são
+os filhos que escolhem seus pais eu posso afirmar que fiz uma excelente escolha.
+2
+RESUMO
+O presente trabalho busca trazer luz para as práticas abusivas de aumentos das
+contribuições dos planos de saúde para com os idosos. O primeiro capítulo busca realizar
+uma breve contextualização histórica sobre o os serviços de saúde no Brasil ao longo do
+tempo que conhecemos o Brasil como Brasil, isto é colônia de exploração portuguesa e
+como os idosos se fazem presentes na história. A questão da exploração dos idosos na
+nossa história é bem importante, pois a sociedade que vivemos é uma sociedade ocidental,
+que tem como raízes as sociedades grega e romana. Outro ponto abordado e talvez o mais
+importante é a Constituição da República Federativa do Brasil de 1988, pois ela é um
+marco bastante importante em termos de Dignidade da pessoa humana que é um dos
+pilares que guiarão o presente trabalho. No capítulo 2 se aborda a questão da legislação
+atual brasileira sobre a dignidade da pessoa humana, a inserção do indivíduo idoso em
+nossa sociedade e quais princípios devemos levar em consideração no momento de
+analisar quaisquer questões que envolvam idosos. Por fim no capítulo 3 se torna possível
+abordar o posicionamento atual das cortes brasileiras em face dos aumentos abusivos das
+contribuições dos planos de saúde de pessoa idosas, inclusive analisando brevemente
+julgados e observando as posições das cortes brasileiras através dos nãos, sobre como a
+proteção ao idoso se manteve ou foi alterada agasalhado ou desagasalhando o idoso.
+Palavras-chave: idoso; dignidade da pessoa humana; planos de saúde; legislação;
+proteção.
+ABSTRACT
+The present work seeks to shed light on the abusive practices of increases in health
+insurance contributions for the elderly. The first chapter seeks to provide a brief historical
+contextualization of the health services in Brazil throughout the time that we have known
+Brazil as a colony of Portuguese exploitation and how the elderly have been present in
+history. The issue of the exploitation of the elderly in our history is very important,
+because the society we live in is a western society, which has its roots in Greek and Roman
+societies. Another point addressed, and perhaps the most important one, is the 1988
+Constitution of the Federative Republic of Brazil, because it is a very important landmark
+in terms of the Dignity of the human person, which is one of the pillars that will guide
+this work. Chapter 2 deals with the current Brazilian legislation on the dignity of the
+human person, the insertion of the elderly individual in our society, and which principles
+we must take into consideration when analyzing any issues involving the elderly. Finally,
+in chapter 3, it becomes possible to address the current position of the Brazilian courts in
+the face of abusive increases in contributions to health plans for the elderly, including by
+briefly analyzing judgments and observing the positions of the Brazilian courts through
+the noes, on how the protection of the elderly has been maintained or has been changed,
+protecting or disfavoring the elderly.
+Keywords: elderly; dignity of human person; health insurance; legislation; protection.
+SUMÁRIO
+Sumário
+INTRODUÇÃO ................................................................................................................................... 14
+1) UM OLHAR HISTÓRICO SOBRE A SAÚDE NO BRASIL .................................................. 16
+2) O MELHOR INTERESSE DO IDOSO ..................................................................................... 28
+3) UMA ANÁLISE DA REALIDADE FORENSE ........................................................................ 38
+CONCLUSÃO...................................................................................................................................... 49
+REFERÊNCIAS .................................................................................................................................. 51
+14
+INTRODUÇÃO
+Na atualidade com todos os avanços tecnológicos a sociedade mudou em diversos
+aspectos e um deles foi a expectativa de vida das pessoas que aumentou bastante e por
+consequência a forma de ver a vida também mudou bastante. A curta expectativa de vida
+das pessoas impunha um outro ritmo de vida e amadurecimento dos indivíduos.
+Desse modo, como a expectativa de vida aumentou as pessoas passaram a viver
+mais e por esse motivo surgiram problemáticas ligadas a fase da velhice, problemáticas
+essas que antes não eram tão exploradas, pois antigamente as pessoas morriam cedo e não
+se tinha a noção da importância da dignidade da pessoa humana como se tem na
+atualidade.
+Por esse motivo, como novas demandas criam novos serviços, foi identificado que
+os idosos necessitam de cuidados especiais específicos para esse determinado público
+devido a sua condição de idoso e por esse motivo o assunto escolhido para o presente
+trabalho foi “os reajustes abusivos dos pla nos de saúde abusivos de idosos e como essa
+relação fere o estatuto do idoso”.
+O tema escolhido visa analisar o posicionamento do legislador pátrio para com os
+idosos e se a essa proteção é efetiva na atualidade em face dos aumentos expressivos
+feitos pelos planos de saúde quando o cliente completa 60 anos, sendo oficialmente
+considerado como um cliente idoso.
+A escolha desse tema foi pautada também nos meus pensamentos sobre direitos
+humanos e a diginidade do indivíduo em nossa sociedade, sobre como o Direito pode e
+deve ser utilizado como um mecanismo com o objetivo final de tutelar e garantir o bem -
+estar dos seres humanos, pois tudo correndo bem todos os seres humanos passarão por
+diversas fases na vida, inclusive a velhice.
+Por ter essa consciência de que todos as pessoas um dia irão envelhecer foi um
+fator motivador para a escolha do tema do presente trabalho, pois a condição de idoso traz
+consigo demandas de saúde bastante específicas que devem ser supridas para que assim,
+a pessoa possa ter uma ve lhice confortável e com o máximo de qualidade, pois é muito
+importante olhar para o idoso com carunho e cuidado, pois outrora quandojovem essa
+15
+pessoa contribuiu na construção de uma sociedade melhor para todos nós na atualidade.
+Tendo essa ideia de controbuição social em mente, não existe retribuição melhor
+para esse idoso do que um trbaalho que busque garantirou pelo buscar questionar as
+práticas abusivas dos planos de saúde, seriço esse que está intrinsecamente ligado com o
+bem estar e dignidade da pessoa idosa.
+A presente pesquisa buscará tratar sobre as práticas realizadas pelos planos de
+saúde na atualidade, mas também observando como agiam os planos de saúde desde a
+constituição da recpública de 1988, passando pelo estatuto do idoso que entrou em vigor
+em 2003 e como os planos de saúde e o poder judiciário brasileiro se posicinaram e como
+se posicionam na atualidade na proteção ou não proteção dos idosos.
+Essa escolha bem específica do reajuste dos planos de saúde dos idosos se deve a
+justamente uma questão de justiça social, pois como já dito anteriormente, o idoso quando
+jovem contribuiu para a contrução de uma boa sociedade para os jovens e quando atinge
+a maturidade o idoso deve ser tutelado com carinho e não largado à própria sorte como
+vemos acontecer com idosos que devido as cobranças abusivas dos planos de saúde são
+obrigados a romper o contrato e ficam sem assisntencia médica que para eles na
+condiçaõde idosos é algo fundamental.
+O objetivo do presente tabalho é trazer luz sobre uma prática abusiva realizada
+pelos planos de saúde para com um público que não tem uma voz tão forte na nossa
+sociedade, pois por não ter mias força de trsbalhoo idoso é deixado de lado nesse mundo
+moderno e dinâmico que vivemos na atualidade e por esse motivo se tal questionamento
+a respeito das cobranças e reajustes abusivos feitos por planos de saúde não for realizado
+estaremos nós mesmos fadados a mesma triste realidade no futuro, pois como já di to
+anteriormente, tudo correndo bem todos os seres humanos irão enevelhecer um dia e terão
+que encarar de frente as consequências e exigências que o corpo disos faz aos seu dono.
+O trabalho a ser desenvolvido consistirá em um estudo exploratório do tipo
+levantamento cujas fontes são: material midiático, literatura e jurisprudência.
+Mediante tal metodologia, realizar-se-á consulta a bibliografia e seleção de dados
+relacionados à realidade dos idosos vulneráveis (hipossuficientes) quando buscam acessar
+o sistema de saúde público brasileiro. Tal esforço tentará compreender como a relação
+entre aqueles dois elementos não é efetivamente protegida pelas normas estabelecidas na
+Lei 10.471/ano (Estatuto do Idoso).
+16
+1) UM OLHAR HISTÓRICO SOBRE A SAÚDE NO BRASIL
+Para ser possível iniciar o presente trabalho, é necessário realizar uma
+contextualização histórica a respeito da vida no Brasil, e da prestação de serviços de saúde
+no Brasil.
+Primeiramente é necessário lembrar que o Brasil era uma colônia de exploração 1
+e não uma colônia de povoamento 2. Tendo essa característica em mente, o que buscava
+nessas terras era a obtenção máxima de lucro, não a construção de uma sociedade
+duradoura e desenvolvida em conformidade os padrões apresentados pelas grandes
+metrópoles europeias da época.
+Não existia no Brasil a ideia de construir cidades estruturadas ou algo nesse
+sentido. As cidades existentes aqui careciam de muitas coisas, inclusive algumas
+localidades careciam de gêneros alimentícios importantíssi mos como o sal, que em uma
+época onde não existia geladeira, era um produto extremamente necessário para a
+conservação dos alimentos3.
+O Brasil era uma terra de oportunidades, para quem procurava “riqueza fácil”, e
+além disso, era também um local de degredo. Todos os grupos sociais que eram
+discriminados e perseguidos na metrópole, dependendo da pena de seus crimes podiam
+1 Colônia de exploração é o termo utilizado para definir as terras do “novo mundo” descobertas e
+colonizadas pelas nações europeias, as colônias de exploração eram utilizadas como fonte de riqueza para
+as metrópoles, pois a administração estatal buscava explorar e extrair ao máximo toso os recursos naturais
+disponíveis nas colônias. As grandes metrópoles não enxergavam tais locais, como locais dignos de serem
+povoados e serem desenvolvidos, eram locais usados única e exclusivamente para obtenção de lucro.
+Muitos países da Américas (o Brasil inclusive), países da África (o Estado Livre do Congo foi uma famosa
+colônia de exploração do rei Leopoldo III da Bélgica no século XIX) e Ásia (a Índia foi a maior e mais
+preciosa colônia de exploração da Inglaterra) foram colônias de exploração de grandes nações Europeias.
+A colônia de exploração é caracterizada por dois pontos fundamentais, primeiramente o fato de ser uma
+fonte geradora de lucro para a metrópole e a segunda característica é o pacto colonial que garante a relação
+de comércio da colônia única e exclusivamente com a metrópole.
+2 Colônia de povoamento significa que a metrópole tinha interesse em buscar desenvolver a colônia,
+proporcionando as melhores condições de vida para os cidadãos que lá habitassem, buscando trazer todo
+tipo de desenvolvimentos possível para aquele local. Esse tipo de administração a longo prazo, acabaria por
+emancipar a colônia da metrópole, pois a dentro de algum tempo a colônia seria financeiramente
+autossuficientes. Exemplos de colônias de povoamento são as trezes colônias inglesas, Canadá e Austrália
+(todas ex -colônias britânicas). No caso dos três exemplos citados, os Estados Unidos de fato se tornou
+independente enquanto que a “liberdade” da Austrália e do Canada foram condidas pela coroa britânica e
+esses dois países ainda reconhecem o monarca britâ nico como o seu chefe de Estado e integram a
+Comonwealth.
+A Comonwealth é uma comunidade formada pelas ex -colônias britânicas que apesar de independentes
+reconhecem o monarca britânico como seu legítimo chefe de Estado.
+3 SILVA, J.L e SÁ, A. A fome no Brasil: Do período Colonial até 1940.
+17
+escolher o degredo para uma das colônias portuguesas. Os detentos podiam escolher entre
+as colônias portuguesas na América, África ou a Ásia4.
+Não haviam muitas oportunidades de trabalho no Brasil, que não estivesse
+diretamente ou indiretamente ligadas à mineração de metais e pedras preciosas, ou a
+atividade de lavoura. Mesmo as maiores cidades da época que existiam no Brasil, eram
+bastante limitadas em termos de oportunidades, e limitadas também, qu anto ao leque de
+prestação de serviços que podiam oferecer, fosse em termos de diversão ou termos de
+serviços básicos como serviço de saúde por exemplo5.
+O primeiro médico que esteve no Brasil, foi Mestre João Menelau. Esse senhor
+acompanhou a expedição de Pedro Alvarez Cabral6.
+O senhor João Menelau detinha os títulos de cirurgião, médico, astrólogo e
+astrônomo do rei. Dentro do contexto da época, muitos médicos possuíam conhecimento
+sobre as estrelas, pois dentro do contexto temporal analisado a medicina ainda não era tão
+desenvolvida, e se resumia a uma mistura do legado de misticismo e das práticas médicas
+duvidosas do período medieval7.
+Alguns exemplos, das práticas médicas utilizadas no medievo 8, eram a aplicação
+de sanguessugas no corpo do enfermo e a aplicação de claras de ovos batidas em feridas
+abertas9. Tais práticas são procedimentos médicos, que eram amplamente utilizados no
+período medieval, e foram documentadas sendo possível para historiadores na atualidade
+escreverem sobre tais práticas tranquilamente10.
+Após a expedição de Pedro Alvarez Cabral, o Brasil ficou sem a presença de um
+médico, durante um longo espaço de tempo. O segundo médico a vir para essa país foi o
+senhor Jorge Valadares que acompanhou o senhor Tomé de Sousa, governador g eral. O
+médico Jorge Valadares permaneceu no cargo de 1549 a 1553, que era o período firmado
+em contrato com a coroa portuguesa, e recebeu nesse tempo o valor de 2.000 réis que para
+4 TOMA, Maristela. Punição e Razão de Estado: o degredo no império colonial português.
+5 Sociedade e Cotidiano no Brasil Colônia: Aula 10. Disponível em:
+https://cesad.ufs.br/ORBI/public/uploadCatalago/17300005102012Historia_do_Brasil_Colonia_Aula_10.
+pdf.
+6 História da Colonização Portuguesa do Brasil, Carlos Malheiro Dias, Litografia Nacional, Porto, Portugal,
+1926
+7 GURGEL, Cristina Brant Friedrich Martin. Médicos do Brasil Colonial.
+8 Período medieval
+9 A prática médica de colocar claras de ovos batidas em feridas abertas foi administrada no rei Henrique II
+da França após ter seu crânio perfurado por uma lança de madeira durante uma justa num torneio
+10 FRIEDA, Leonie. Catarina de Médici, São Paulo: Planeta do Brasil, 2019.
+18
+a época era um valor “baixo”11.
+A medicina era uma carreira pouco valorizada, no contexto social da época. As
+famílias aristocráticas portuguesas da época, preferiam que seus filhos seguissem
+carreiras no poder judiciário ou na Igreja. A medicina, não era uma atividade bem vista,
+para ser desenvolvida pelos filhos da elite, por ess e motivo era deixada de lado. A
+medicina acabava sendo escolhida por jovens de famílias judias que haviam se convertido
+recentemente (cristãos novos)12.
+O tempo de formação de um médico nessa época, levava em média 10 anos e os
+formados deviam se submeter a um exame, para que pudessem receber autorização para
+exercer a profissão. Os médicos, que buscavam se afastar dos grandes centros,
+necessitavam de um determinado meio de transporte da época, que recebia o nome de
+muares13, que apesar de extremamente necessário para a realização do trabalho de médico
+no interior, era algo de difícil obtenção.
+Logo, fica claro, que trabalhar fora dos grandes centros era algo complicado em
+se tratando de Europa. Trabalhar em colônias era algo muito mais complicado, devido ao
+estigma de se tratar primeiramente de uma colônia, e também pela precariedade de
+recursos e as dificuldades da vida da época.
+Para que possamos falar sobre a presença de hospitais, primeiramente é necessário
+“estudar” o conceito de hospital que conhecemos hoje.
+O conceito moderno de hospital como “ o estabelecimento de saúde destinado a
+prestar assistência médico-sanitária a uma população, em área geográfica definida, sem
+internação de pacientes, podendo, como atividade complementar, prestar assistência
+médica a pessoas” 14. Isso é o que conhcemos como hospital na atualidade, um local
+próprio para atividades médicas, e onde podemos ir buscar atendimento, quando não nos
+sentimos bem.
+Esse conceito específico de hospital, como conhecemos hoje, estava começando
+a ser desenvolvido na época do Brasil colônia. Porém, tal conceito estava sendo
+11 GURGEL, Cristina Brant Friedrich Martin. Médicos do Brasil Colonial.
+12 GURGEL, Cristina Brant Friedrich Martin. Médicos do Brasil Colonial.
+13 Mueares são mulas e burros
+14 MINISTÉRIO DA SAÚDE- Secretária Nacional de Ações Básicas de Saúde- Coordenação de assistência
+Médica e Hospitalar, Conceitos e definições em saúde, impresso na seção de artes gráficas da FSESP, Rio
+de Janeiro-1977.
+19
+desenvolvido somente nas grandes metrópoles.
+Apesar de ser uma profissão desvalorizada, como já foi falado anteriormente, na
+Europa somente as pessoas que possuíam uma condição financeira confortável tinham
+acesso a médicos, e eram atendidas em seus domicílios. O que existia no máximo como
+local de atendimento médico era o que conhecemos hoje de consultório médico, onde a
+pessoa poderia ir se não desejasse ser atendida em casa.
+Geralmente a nobreza era atendida em casa pelos médicos e as parcelas mais
+carentes da população era tratada por pessoas curiosas, geralmente mulheres que eram
+chamadas de “bruxas”, pois preparava nedicamentos com plantas e raízes disponíveis na
+época.
+Com a transferência da corte portuguesa para o Brasil, uma das primeiras
+providências da realeza, foi a fundação de duas escolas de cirurgia15, que posteriormente
+vieram se tornar escolas médicas, pois a situação no novo centro administrativo (cidade
+do Rio de Janeiro) do governo português era extremamente precária.
+Segundo pesquisas de histori adores, a média de vida dos brasileiros livres no
+século XIX era de 27 anos, enquanto que a média de vida dos escravos era de 19 anos.
+Apesar de a expectativa de vida no Brasil ter aumentado bastante com o passar do tempo,
+ainda existe uma discrepância bem grande nas expectativas de vida entre idosos negros e
+idosos brancos, tal diferença é resquício da época colonial e imperial16.
+Os cuidados médicos sendo eles “estranhos” ou não ao longo da história estavam
+diretamente ligados ao poder econômico do cidadão. Logo, quem possuía mais dinheiro
+teria acesso a uma prestção melhor de serviço de saúde.
+A questão dessa prestação de serviço de saúde engloba diversos aspectos, que vão
+desde um maior acesso a alimentos até os cuidados médicos necessários. O exemplo
+clássico dessa relação, era a sociedade Estamental17 que vigorava na Europa no século
+XVIII. Nessa época a nobreza e o alto clero contavam com acesso a pensões concedidas
+15 GURGEL, Cristina Brant Friedrich Martin. Médicos do Brasil Colonial.
+16 NOGUEIRA, Luiz Fernando Veloso. Expectativa de vida e mortalidade de escravos. Disponível em:
+http://www.historica.arquivoestado.sp.gov.br/materias/anteriores/edicao51/materia01/#:~:text=Ao%20ana
+lisar%20dados%20de%20diversas,em%20torno%20de%2019%20anos.
+17 A sociedade Estamental era o modelo de sociedade que vigorava na Europa no período que prece deu a
+revolução industrial. Nesse sistema de sociedade existiam 3 grupos que eram a nobreza, clero e os
+camponeses. Nesse formato de sociedade quase não existia mobilidade social e o local de nascimento do
+indivíduo de praticamente determinante a respeito das expectativas de vida da pessoa.
+20
+pelo Estado, Isenção de impostos e rendas acumuladas pelo recolhimento de impostos
+pagos pelos camponeses que trabalhavam nas terras da nobreza. Todo esse sistema,
+possibiliva um acesso da nobreza a maiores quantias de dinheiro, e que por consequência,
+oportunizavam uma vida melhor, com uma oferta maior de alimentos e outros confortos
+da vida como cuidados médicos quando necessário, para essa classe privilegiada.
+No objetivo de endossar a linha de pensamento exposta no parágrafo anterior a
+doença que hoje chamamos de gota era conhecida por “ doença dos reis”, já que acometia
+indíviduos abastados, que tinham acesso à uma alimentação farta e rica em bebidas
+alcóolicas. A gota se caracteriza por crises de dor e inflamação nas articulações,
+inicialmente acometendo os pés.
+Outra vertente muito importante da prestação de saúde na história no Brasil é a
+sua relação com a Igreja Católica e como essa relação teve desdobramentos até o século
+XX18.
+Portugal e a Espanha foram os dois países responsáveis pela colonização da maior
+parte da América do Sul, e ambos os reinos eram amplamente reconhecidos na Europa
+como reinos extremamente católicos, reinos esses que buscavam seguir todos os ditames
+da Igreja, fosse através da aplicação rigorosa da legislação vigente ou pelas aplicação
+exemplar das punições para expiação dos pecados, indo desde trabalhos de caridade até
+o cidadão transgressor ser queimado vivo na fogueira em praça pública19.
+A presença e a influência da Igreja na organização e administração estatal era
+considerável, pois assuntos importantes como leis, registros de nascimentos, casamentos
+e óbitos tinham grande controle exercido pela instituição da Igreja Católica20.
+As primeiras escolas e Universidades no Brasil foram fundadas pela Igreja
+Católica e na Europa a educação dos rapazes da nobreza também era controlada pela
+Igreja21. Essa instituição exercia um grande poder na sociedade, tanto que a religião
+católica figurava como religião oficial do império português e posteriormente religião
+18 PINTO, Tales dos Santos. "A Igreja Católica no Brasil"; Brasil Escola. Disponível em:
+https://brasilescola.uol.com.br/historiab/igreja-catolica-no-brasil.htm.
+19 Oficialmente a inquisição só acabou de fato no final do século XIX, em 1891 quando de fato ocorreu a
+extinção do tribunal da Inquisição.
+20 PINTO, Tales dos Santos. "A Igreja Católica no Brasil"; Brasil Escola. Disponível em:
+https://brasilescola.uol.com.br/historiab/igreja-catolica-no-brasil.htm.
+21 BERNARDES, Luana. Escolas Jesuítas. Disponível em:
+https://www.todoestudo.com.br/historia/escolas-
+jesuitas#:~:text=Em%20mat%C3%A9ria%20de%20educa%C3%A7%C3%A3o%20escolar,Studiorum%2
+0a%20sua%20express%C3%A3o%20m%C3%A1xima%20.
+21
+oficial do império brasileiro.
+Ao longo da história, além de exercer esse grande papel de poder, nos campos
+“corretos” da sociedade em busca de realizar a manutenção de seu poder e privilégios
+como a isenção de impostos, a Igreja realizava um trabalho de caridade de cuidado da
+saúde dos pobres22.
+Esse trabalho de caridade era muitas vezes realizado pelas freiras. Era um trabalho
+feito de forma “amadora”, pois não existia a profissão de enfermeira como conhecemos
+hoje, as mulheres simplesmente assumiam essa posição de cuidado para com os doentes.
+Elas não possuíam nenhuma instrução formal sobre cuidados de um enfermo, esse
+cuidado das mulheres para com os enfermos era algo atribuído a natureza piedosa e o
+instinto maternal de cuidado das mulheres (entendimento da época).
+As enfermeiras, além das freiras eram também mulheres que eram mandadas para
+os conventos por suas famílias, pela polícia ou pelo judiciário, pois desde o período do
+Brasil-colônia não existiam presídios femininos, pois o conceito de presídio foi
+desenvolvido para encarcerar e punir homens23.
+A mulher “transgessora”,deveria ser enviada para um convento para ser cuidada,
+e estar realizando atividades mais adequadas para o seu gênero, como bordado, costura e
+outros trabalhos manuais que lhe ocupariam a mente e fariam bem ao seu espírito no
+objetivo de buscar a readequação dessa mulher ao seu papel social da época, de boa esposa
+e mãe.
+Após essa breve análise do perfil, de quem cuidava dos pobres nas instituições de
+caridade da Igreja, fica claro que faltava “mão de obra qualificada”, faltava a profissional
+capacitada, instruída e treinada para cuidar de uma pessoa enferma, faltava uma visão
+profissional, faltava uma visão séria a respeito desse assunto. A saúde era algo voltado
+para o ramo da caridade.
+Esse tipo de pensamento e estrutura vinha desde a época da colônia e um exemplo
+dessa estrutura é o primeiro hospital do Rio de Janeiro que é a Santa Casa da Misericórdia
+22 A história de misericórdia das Santas Casas. Disponível em:
+https://www.cmb.org.br/cmb/index.php/institucional/quem-somos/historico
+23 CURY, Jessica Santiago. MENEGAZ, Mariana Lima. Mulher e o Cárcere: Uma história de Violência,
+Invisibilidade e Desigualdade Social.
+22
+do Rio de Janeiro24.
+A história dessa instituição data do século XVI. O Padre José de Ancheita foi o
+responsável pela fundação e a organização das instalações tendo como motivação cuidar
+da tripulação da esquadra de Diogo Flores de Valdé que estavam com escorbuto que na
+época era uma doença bastante comum nos marinheiros devido a uma grave deficiência
+de vitamina C na dieta das pessoas.
+Até o período da revolução de 1930, os serviços de saúde no Brasil eram prestados
+pelas Santas Casas de Misericórdia ou Casas de Caridadade. Já na Era Vargas houve uma
+alteração no sistema de prestação de saúde no Brasil, que passou a ser prestada pelos
+institutos de previdência de cada categoria profissional, e custeada pelos próprios
+trabalhadores com as suas contribuições sociais.
+Getúlio Vargas retirou da Igreja a primazia de Educação e Saúde. O período da
+ditadura militar unificou os institutos e retirou dos trabalhadores a gestão do que lhes
+pertencia. A partir desse momento, passamos a ter dois sistemas, um sistema garantia o
+direito à Saúde de quem fosse segurado da Previdência Social e outro prestado como
+assistência a quem não tinha direito25.
+A constituição de 1988 instituiu o Sistema Único de Saúde (SUS) e a promoção,
+proteção e recuperação da Saúde como Direito de “todos” e dever do Estado, garantidas
+por meio de políticas sociais e econômicas que visem à redução de risco de doença, com
+acesso “universal” e igualitário aos serviços26.
+A universalidade de acesso igualitário aos serviços públicos de saúde decorre do
+princípio de que é direito de todos, sejam ricos ou pobres.
+Após falarmos brevemente sobre a história da saúde no Brasil se faz extremamente
+24 Santa Casa da Misericórdia do Rio de Janeiro. Disponível em:
+https://dichistoriasaude.coc.fiocruz.br/iah/pt/verbetes/stcasarj.htm
+25 RIBEIRO, Paulo Silvino. "O início das políticas públicas para a saúde no Brasil: da República Velha à
+Era Vargas"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/sociologia/o-inicio-das-
+politicas-publicas-para-saude-no-brasil-republica.htm.
+26 O sistema único de saúde segundo explicação retirada do site oficial do governo é “O Sistema Único de
+Saúde (SUS) é um dos maiores e mais complexos sistemas de saúde pública do mundo, abrangendo desde
+o simples atendimento para avaliação da pressão arterial, por meio da Atenção Primária, até o transplante
+de órgãos, garantindo acesso integral, universal e gratuito para toda a população do país. Com a sua criação,
+o SUS proporcionou o acesso universal ao sistema público de saúde, sem discriminação. A atenção integral
+à saúde, e não somente aos cuidados assistenciais, passou a ser um direito de todos os brasileiros, desde a
+gestação e por toda a vida, com foco na saúde com qualidade de vida, visando a prevenção e a promoção
+da saúde”.
+23
+necessário que falemos um pouco sobre o idoso ao longo da história.
+O conceito de idoso ao longo da história mudou bastante, pois remédios, exames,
+guerras, doenças, oferta de alimentos e estruturação de modelo econômico e social são
+fatores que andam de mãos dadas com o conceito de velhice.
+Nos tempos antigos a vida era extremamente dura. Logo, a necessidade de correr,
+caminhar e caçar era algo para os jovens e as pessoas que perdiam essas capacidades
+começavam a ser vistas como “peso morto”pous existia um certo estigma em torno das
+pessoas que compunham o grupo social, mas não tinham mais condições de contribuir
+tanto como outrora, pois a caça e pesca eram atividades que exigiam vigor físico.
+Na época das sociedades grega e depois romana (berços das sociedades
+ocidentais), a juventude era algo muito valorizado, existia naquele contexto o culto ao
+corpo belo, jovem e saudável. O corpo jovem era o corpo que exalava saúde e vigor, já o
+corpo idoso era o corpo indesejável e mais próximo da morte (essa lógica ainda persiste
+na atualidade, se manifestando no culto a imagem do belo e jovem).
+Se a velhice nas sociedades grega e romana já era algo complicado, com todo o
+conhecimento, usos e costumes sobre higiene que era presente nessas sociedades, como
+sistema de esgoto e banhos públicos, já nas sociedades da época medieval e renascentista
+onde não se tinha essa noção da importância do asseio a situação dos idoso foi bem mais
+complicada, pois o asseio está diretamente ligado com saúde que por sua vez está ligado
+com a longevidade de uma pessoa.
+Não somente por uma questão de higiene a vida dos idoso s nesses dois períodos
+históricos foi difícil, mas a estruturação social excluía os idosos por não terem forças para
+participarem das tarefas diárias, principalmente no campesinato. No contexto medieval é
+muito importante que seja levado em consideração que se tratavam de sociedades
+agrárias. No contexto das famílias nobres a força física para os homens era necessária,
+devido aos conflitos armados na manutenção do poder sobre as terras e para as mulheres
+os sucessivos partos eram um risco para a saude e vida das senhoras.
+Os idosos eram “pesos” para suas famílias, pois era uma pessoa que demandava
+cuidados especiais em uma época onde a subsistência era difícil e estava ligada
+diretamente ao vigor físico, ou relações de poder que se relacionavam com vigor físico, e
+essas pessoas devido a condição de idosas, não contribuíam ativamente no sustento de
+suas famílias ou para manutenção do poder de suas famílias.
+24
+Com as alterações no mundo, a expectativa de vida das pessoas aumentou bastante
+e se desenvolveu a ideia de “envelhecer com dignidade”, mas devido ao sistema
+econômico, os idosos continuam excluídos em suas sociedades, pois eles não possuem
+mais força de trabalho e a configuração familiar também se alterou. Infelizmente na
+atualidade, muitos idosos são encaminhados para viverem longe de suas famílias em
+instituições especializadas em cuidados para eles27.
+Após realizar essa rápida contextualização histórica, sobre o idoso ao longo da
+história ocidental, outro ponto que deve ser abordado é a questão de hipervulnerabilidade.
+A constituição de 1988 é conhecida como a “constituição cidadã” pois foi através
+dela que muitos grupos antes excluídos e privados de “humanidade” como mulheres,
+crianças, negros, idosos e deficientes passaram a ter maior visibilidade a respeito de suas
+questões e direito a “cidadania plena”28. O texto da constituição de 1988 deixa claro que
+seus fundamentos são compostos por cidadania e dignidade da pessoa humana. Essa
+cidadania e dignidade tem como alvo as pessoas q ue são excluídas, os não sujeitos de
+direito29.
+O sujeito de direito é homem, branco, cristão, detentor dos meios de produção,
+não portador de deficiências físicas, heterossexual e em idade produtiva. Qualquer
+indivíduo que seja diferente desse perfil estabelecido é uma pessoa vulnerável, sendo
+variável o nível dessa vulnerabilidade dependendo da raça, classe, gênero etc.
+No período de 1990 se observa o surgimento da temática da “vulnerabilidade”,
+sendo acompanhado de diversas expressões dessa nova preocupação com os “excluídos”.
+Uma expressão é o Estatuto da Criança e do Adolescente de data de 13 de julho de 1990,
+em seguida temos a lei n°8078 de 11 de setembro de 1990 que visava proteger o
+consumidor.
+Desse modo, após usar o exemplo de duas leis, fica claro que existem vários tipos
+de vulnerabilidade, variando de acordo com os vários contextos e situações. O conceito
+de vulnerabilidade é oriundo do latim vulnerabilis que significa pode ser ferido, se trata
+27 Dia Internacional do Idoso: O papel do Idoso ao longo da história. Disponível em:
+https://blog.stannah.pt/cuidador/papel-dos-idosos-ao-longo-da-
+historia/#:~:text=Tempos%20antigos,fardo%2C%20ignorados%20e%20at%C3%A9%20mortos.
+28 Cidadania Plena é um termo retirado do livro “Cidadão de papel” do autor Gilberto Dimenstein que busca
+realizar uma crítica sobre a diferença do exercício da cidadania das pessoas que ocorre na prática e a
+cidadania cheia de direitos prevista em lei que não é exercida e fica somente no papel.
+29 Sujeito de direito é o indivíduo que é titular de direitos e deveres, sendo plenamente capaz de ser parte
+em relações jurídicas.
+25
+de qualquer indivíduo que possa vir a ser “vulnerado” dependendo da situação. Alguns
+grupos sociais são devido as circunstâncias vulneráveis, desamparados ou fragilizados.
+As palavras de Fermin Roland Schramm ajudam a compreender melhor o conceito
+de vulnerabilidade: “ Historicamente, um princípio moral de proteção está implícito nas
+obrigações do Estado que deve proteger seus cidadãos contra calamidades, guerras etc,
+chamado também de Estado mínimo. Entretanto, poderia muito bem ser chamado de
+Estado protetor, pois parece intuitivamente compreensível que todos os cidadãos não
+conseguem se proteger sozinhos contra tudo e todos, podendo tornar-se suscetíveis e até
+vulnerados em determinadas circunstâncias. Mas, neste caso, devemos distinguir a mera
+vulnerabilidade, condição ontológica de qualquer ser vivo, portanto, característica
+universal que não pode ser prot egida, da suscetibilidade ou vulnerabilidade secundária,
+por oposição da vulnerabilidade primária ou vulnerabilidade em geral. Ademais os
+suscetíveis podem tornar-se vulnerados, ou seja, diretamente afetados, estando na
+condição existencial de não poder exercer suas potencialidades para ter uma vida digna e
+de qualidade. Portanto, dever-se-ia distinguir graus de proteção de acordo com a condição
+existencial de vulnerabilidade, suscetibilidade e vulneração, o que pode ser objeto de
+discussões infindáveis sobre como quantificar e qualificar tais estados existenciais”.
+Partindo das palavras de Fermin Roland Schramm, o objetivo maior é se chegar à
+conclusão de quem são de fato os indivíduos suscetíveis e a partir dessa delimitação,
+conseguir se prestar a devida assistência para que essas pessoas deixem de ser vulneráveis
+respeitando as diversidades culturais, as variadas visões de mundo, as moralidades
+diversas e hábitos diversos que compõem a vida em sociedade.
+A igualdade formal é bem diferente da igualdade substancial como se observa na
+vida em sociedade, essa diferença, esse abismo é extremamente ruim, pois a existência
+dessa discrepância não permite que haja a igualdade de fato entre os indivíduos,
+dificultando que todos os cidadãos possam ter seus direitos, dignidade e humanidade
+devidamente respeitadas. Determinados grupos são solenemente ignorados em sua
+humanidade e dignidade, são exemplos dessa falta de respeito: Negros, deficientes físicos
+e LGBTs.
+A dignidade da pessoa humana se torna con creta na tutela da pessoa humana,
+sendo que essa tutela não ocorre de forma efetiva, devido a esse abismo existente, para
+que essa tutela possa ser percebida como efetiva deve -se ser levado em consideração as
+“particularidades”, vulnerabilidades existentes entre as pessoas, para que a partir desse
+26
+reconhecimento se possa de fato buscar uma igualdade substancial. A proteção que deve
+se buscar conceder a essas pessoas deve ser integral, para todas as situações, sejam elas
+referentes a questões patrimoniais ou existenciais.
+Existe uma tendência por parte da dinâmica social em acabar por expor as pessoas
+a situações de vulnerabilidade. Porém, existem situações nas quais a vulnerabilidade, já
+vêm do berço, através de deficiências, questões socioeconômicas ou outras situações.
+Para essas pessoas que já são “marcadas” desde o nascimento é muito mais complicado
+conseguir exercer sua cidadania, exercer seus direitos da forma mais plena possível.
+Desse modo, se faz necessário que o direito possibilite a essas pessoas os meios
+necessários para que elas sejam capazes de exercer os seus direitos.
+Há a necessidade da existência de uma tutela geral que abarque todos os
+indivíduos de um modo geral, de modo a suprir, combater a vulnerabilidade onto lógica
+do ser humano. Porém, além dessa tutela geral é necessário que haja uma tutela específica
+para atender as demandas desses grupos marginalizados, que se encontram em situações
+de desigualdade devido a contextos se tornem suas vulnerabilidades mais agravadas.
+Nesse momento é necessário se saber quais os parâmetros que devem ser analisados para
+que se possa conferir a tutela devida aos indivíduos.
+Como foi dito todas as pessoas são vulneráveis em determinada medida e é
+necessária muita atenção e análise de “situações substanciais específicas” para que se
+possa definir corretamente o tipo de tutela a ser concedida para aquele determinado
+indivíduo. Não é justo nem eficaz somente invocar a tutela geral que é prevista na
+constituição da república. É extremamente necessária a análise mais profunda das
+particularidades de cada grupo social que receberá a tutela. Essa análise mais apurada é
+observada em alguns grupos como mulheres, idosos, consumidores e crianças. Porém,
+outros grupos como os LGBTS continuam sendo solenemente ignorados em sua
+necessidade de ajuda, humanidade e dignidade.
+O Direito em seu estudo a respeito da vulnerabilidade se atém de um modo geral,
+as “relações de consumo” existindo três espécies: vulnerabilidade técnica, contábil e
+socioeconômica (fática). Algumas doutrinas compreendem que hipossuficiência e
+vulnerabilidade são compreendidas como a mesma coisa, já outras doutrinas
+compreendem que há uma distinção entre esses dois termos.
+A melhor compreensão é a de que não há diferença entre os termos
+27
+hipossuficiência e vulnerabilidade. Com essa ideia de hipossuficiência vêm a reboque
+algumas categorias de consumidores como idosos e crianças, os quais possuem
+tratamento diferenciado previsto em lei. Todo consumidor é vulnerável, pois é um leigo
+que precisa dos serviços que estão sendo oferecidos por um especialista organizado em
+cadeia de fornecimentos de serviços. Apesar de se ter essa compreensão é necessária
+também a compreensão de que alguns grupos soc iais, tem suas vulnerabilidades mais
+agravadas por razões outras que não somente “relações de consumo”.
+28
+2) O MELHOR INTERESSE DO IDOSO
+Como já foi falado anteriormente, desde a constituição de 1988 grupos antes
+excluídos passaram a ser ag asalhados pelo manto da Constituição e um desses grupos
+foram os idosos.
+Uma mudança significativa ocorreu ao logo dos anos a respeito de como enxergar
+a velhice, pois antigamente se tinha a ideia de que velhice era algo ruim, uma doença.
+Inclusive a Organização Mundial de Saúde realizou uma mudança não classificando mais
+a velhice como uma doença30.
+Os estigmas buscam cada vez mais ser combatidos, mostrando que existe a
+possibilidade de se envelhecer com dignidade e qualidade de vida. A velhice é uma fase
+da vida pela qual tudo correndo bem todas as pessoas irão passar, não devendo ser temida
+e nem encarada como algo ruim, mas somente uma determinada fase da vida com suas
+particularidades próprias.
+Dando o devido destaque a essa questão das particularidades da velhice é
+necessário ressaltar a questão da hipervulnerabilidade do idoso, principalmente na
+atualidade, pois estamos vivendo em um mundo de tecnologias.
+O idoso é hipervulnerável, pois já possui uma idade avançada, onde seu vigor
+físico não é mais o mesmo, fase essa na qual o corpo começa a se alterar e requer novos
+cuidados que na juventude não eram necessários. Esses fatos por si só já o tornam
+vulnerável.
+Na juventude em regra geral a pessoa goza de boa saúde e vigor físico para realizar
+atividades. Já na velhice, as mudanças do corpo muitas vezes tornam comlicadas
+atividades simples do cotidiano, pois a pessoa não possui a mobilidade necessária e nem
+o vigor que possuía.
+O corpo antes forte, saudável e rijo com a entrada na velhice começa a involuir,
+perde-se tônus muscular e outros comprometimentos tanto no ramo físico como mental
+começam a se apresentar, um exemplo de comprometimento físico seria a maior
+30 DUARTE, Yeda. Após pressão OMS recua em classificar a velhice como doença. Disponível em:
+https://jornal.usp.br/atualidades/apos-pressao-oms-recua-em-classificar-a-velhice-como-doenca/
+29
+suscetibilidade as quedas (quedas na velhice são questões extremamente sérias, pois
+devido a desmineralização dos ossos muitas vezes os ossos se quebram ou se fraturam)31,
+já um exemplo de comprometimento mental seria o desenvolvimento de Alzheimer
+(condição essa que contribui muito para isolar o idoso, mesmo que os familiares busquem
+continuar a inseri-lo no círculo social).
+A velhice traz consigo o desenvolvimento de uma maior quantidade de doenças32.
+Contudo, não é somente das doenças do corpo, sejam elas físicas ou mentais que o idoso
+é vítima, de um modo geral o idoso vai ficando isolado na velhice. O ritmo corrido da
+vida acaba deixando o idoso isolado da sociedade e a tecnologia que na atualidade não
+para de avançar contribui para asseverar esse isolamento, pois a tecnologia não é algo
+natural para o idoso, ele precisa se adaptar a ela e muitas vezes essa adaptação é difíci l,
+contribuindo assim, para aumentar ainda mais o abismo dessa pessoa para com a
+sociedade como um todo33.
+Na atualidade, se busca trazer uma luz maior para as questões ligadas à saúde
+mental das pessoas. Questões como depressão, que antigamente não eram discutidas hoje
+em dia são amplamente conversadas pela sociedade. Essa doença, que é a depressão e
+outras mais, como por exemplo a ansiedade, são doenças que estão muito presentes dentro
+da realidade de isolamento do idoso, pois a pessoa que vive isolada, tem maiores chances
+de vir a desenvolver depressão severa, com altos riscos de suicídios e necessidade de
+medicamentos fortes para conseguir superar essa enfermidade.
+Para uma pessoa que já está frágil fisicamente e também frágil psicologicamente,
+some-se a isso ainda o isolamento, e em seguida a depressão, a possibilidade de o idoso
+ir definhando cada vez mais é bem grande.
+O processo de envelhecimento apesar de possuir essas questões das doenças 34 e
+isolamento não deve ser assim, existe a possibilidade um envelhecimento com dignidade
+31 AMERICAS SERVIÇOS MÉDICOS. Fratura em idosos: economia de tempo salva vidas. Disponível
+em: https://www.americasmed.com.br/central-de-conteudo/informativos/fratura-em-idosos-economia-de-
+tempo-salva-vidas
+32 As doenças que mais causam mortes em idoso são doenças cardiovasculares, neoplásticas, respiratórias
+e por último são as doenças respiratórias.
+33 MASSALI, Fábio. Pesquisa mostra exclusão do idoso do mundo digital e da escrita. Disponível em:
+https://agenciabrasil.ebc.com.br/geral/noticia/2020-08/pesquisa-mostra-exclusao-de-idosos-do-mundo-
+digital-e-da-escrita
+34 CABRERA, Marcus Aparecido Sarria. ANDRADE, Selma Maffei. WAJNGARTEN, Maurício. Causas
+de mortalidade em idosos: Estudo de seguimento de nove anos. Disponível em:
+http://ggaging.com/details/353/pt-
+BR#:~:text=O%20principal%20grupo%20de%20causas,nervoso%20(9%2C4%25).
+30
+e muita qualidade de vida, devido à cada vez maior valoração dos direitos humanos e
+também pelos avanços da medicina.
+Os tratamentos para as doenças estão cada vez mais modernos e melhores, e
+mesmo para as doenças que ainda não possuem cura, já existem tratamentos paliativos
+para trazer um maior conforto para o paciente, de forma a diminuir as dores ou aliviar ao
+máximos os sofrimentos da enfermidade.
+Após falar um pouco sobre as problemáticas do processo de envelhecimento e
+sobre a possibilidade de um envelhecimento com conforto e dignidade se torna possível
+adentrar nas questões relacionadas à planos de saúde.
+Como já foi abordado anteriormente a saúde é um direito fundamental previsto na
+nossa Cosntituição e ela está intimamente relacionada com a dignidade da pessoa
+humana35.
+Segundo o dicionário jurídico “A dignidade é um valor da pessoa humana e deve
+ter por princípio garantir uma existência humana adequada, virtuosa, honrada em termos
+materiais e espirituais, digna.
+O homem é digno de ser homem porque possui a essência, que é a humanidade.
+Tem direito à vida, à igualdade, à liberdade, à saúde, à assistência, à previdência, a ser
+tratado com respeito, a ser tratado como não como um meio, mas como um fim em si
+mesmo, por ser considerado um ser superior a todos os outros seres, por possuir
+consciência e razão”.
+Logo após essa definição sobre dignidade da pessoa humana se torna claro que a
+saúde é de fato um pilar fund amental da existência digna dos seres humanos e por isso
+deve ser prestada da melhor forma possível, pois se trata de um direito de segunda
+geração36.
+35 Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas
+que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e
+serviços para sua promoção, proteção e recuperação. (CRF 1988)
+36 Os direitos se dividem entre 1º, 2º e 3º geração num nível básico. Esses direitos tiveram como inspiração
+os ideais defendidos pela revolução francesa (liberdade, igualdade e fraternidade).
+Os direitos de 1º geração se tratam de direitos ligados à liberdade, 3 exemplos de direitos de primeira
+geração são: direito à vida, direito à liberdade e direito à liberdade de expressão.
+Já os direitos de 2º geração são direitos sociais e 3 exemplos são: direito a saúde, direito a educação e
+direito a segurança.
+Por fim os direitos de 3º geração são os direitos ligados ao valor da fraternidade. 3 bons exemplos de direitos
+de 3º geração são: direito a seguridade, direito à autodeterminação dos povos e direito ao meio ambiente.
+31
+Como já foi abordado no capítulo anterior, o texto constitucional estabelece que a
+saúde no Brasil é um ramo que pode ser explorado pela iniciativa privada e dessa forma,
+quando o cliente, seja ele idoso ou não, busca a prestação desse determinado serviço, o
+que ele está a buscar é um direito fundamental.
+A busca do direito à saúde, como já dito no parágrafo anterior é um direito
+fundamental a qualquer cidadão, mas se torna ainda mais fundamental quando o indivíduo
+que busca esse direito se trata de um cidadão idoso, pois cuidar de sua saúde para esse
+cidadão é uma questão importante, e que devido ao seu contexto, se torna imprescindível
+para que esse determinado indivíduo, possa usufruir das outras facetas da sua vida com
+mais qualidade.
+Desse modo, cobranças abusivas ou cláusulas lesivas impostas pelos planos de
+saúde devem ser avaliadas com mais cuidado pelo judiciário e se possível com um maior
+rigor nas questões lesivas ao cliente, pois como já dito se trata de um direito fundamental.
+No ano de 2003 foi promulgada uma legislação muito importante para os idosos,
+a lei 10741 que é o Estatuto do Idoso. O seu artigo 15 em seu parágrafo 3º se estabelece
+um ponto importante que merece ser analisado para que possamos prosseguir.
+O art.15, §3º, do Estatuto do Idoso veda a discriminação do idoso nos planos de
+saúde pela cobrança de valores diferenciados em razão da idade (Lei 10741).
+O §3º do art. 15 do Estatuto do idoso estabelece essa proibição de forma bastante
+clara, no objetivo de garantir que os idosos tenham suas mensalidades dos planos de saúde
+encarecidas tendo como motivação a sua idade.
+Apesar de a Constituição e o Estatuto do Idoso, garantirem o direito a saúde do
+idoso, se faz necessário uma rápida análise de outra legislação. A lei 9656 que é a lei dos
+planos de saúde, nesta lei vamos analisar o art.15 e o art.16 inciso V para podermos
+retomar a questão de cobranças abusivas por parte dos planos de saúde.
+O artigo 15 da lei dos planos de saúde estabelece que que a existem sim a
+possibilidade aumento da mensalidade do plano de saúde tendo como motivação o
+aumento da idade do cliente desde que essa cláusula esteja presente no contrato e preveja
+o valor que será acrescido de acordo com cada idade.
+Já no art. 16 estabelece que deve constar no contrato as questões referentes as
+faixas etárias e seus respectivos aumentos.
+32
+Devido a essas legislações estabelecerem normas divergentes que tratam a
+respeito de um mesmo assunto, a situação se tornou um pouco confusa e o Superior
+Tribunal de Justiça deixou todo o contexto mais confuso, oferecendo posicionamentos
+ora mais favoráveis aos idosos, e em outros momentos voltando atrás na proteção
+conferida esse grupo.
+Contudo, antes que seja possível falar sobre julgados e posições jurisprudenciais
+é necessário abordar um princípio muito relevante, que é o “o princípio do melhor
+interesse do idoso”.
+O texto constitucional estabelece nos direitos sociais em seu art.6º, o direito à
+saúde e estabelece que no art. 230 que a família, a sociedade e o Estado têm o dever de
+amparar as pessoas idosas, assegurando a sua participa ção na comunidade, defendendo
+sua dignidade e bem-estar e garantindo-lhes o direito à vida37.
+No art.1° da lei 10741 está estabelecido que é objetivo do Estatuto do idoso regular
+os direitos assegurados destinados às pessoas com idade igual ou superior a sessenta anos.
+Ao analisar essas normas se torna clara a intenção do legislador de proteger o
+idoso e como busca priorizar o bem-estar38 do cidadão idoso.
+A questão de bem-estar está intimamente relacionada com o princípio do melhor
+interesse do idoso. Tal princípio se subdivide em dois subprincípios que são a absoluta
+prioridade outorgada ao idoso e a proteção integral do idoso. Quando juntos eles
+compõem o princípio do melhor interesse do idoso39.
+O melhor interesse do idoso é oriundo da lei 10741 e da co nstituição também,
+pois como foi dito ao se realizar análise das legislações se torna claro o objetivo do
+legislador de proteger o idoso40. O princípio da dignidade da pessoa humana
+anteriormente trabalhado neste capítulo é basilar para esse princípio também em
+37 NASCIMENTO, Sibhelle Katherine. A proteção do idoso no ordenamento jurídico brasileiro
+38 De acordo com o dicionário jurídico a expressão bem-estar transmite a ideia de comodidade,
+tranquilidade, sossego e segurança pública, que devem ser mantidos pelos poderes públicos. Assim será
+assegurado o bem -estar público. A ideia de bem -estar também pode ser voltada na noção de soma de
+benefícios ou utilidades, que serão promovidos para uso e gozo de uma pessoa ou coletividade.
+39 BARLETTA, Fabiana Rodrigues. MARTINS, Flávio Alves. Divergências no entendimento do STJ sobre
+o reajuste da prestação mensal por mudança de faixa etária em planos privados de saúde contratados com
+consumidores idosos e o princípio do melhor interesse do idoso. São Paulo: Editora Foco, 2020.
+40 BARLETTA, Fabiana Rodrigues. A pessoa idosa e seu direito prioritário à saúde: apontamentos a
+partir do melhor interesse do idoso
+33
+consonância com a obrigação constitucional de amparo aos idoso estabelecida em seu art.
+230 que diz se tratar de um dever da família, sociedade e Estado cuidar do idoso, se trata
+de um trabalho conjunto, uma responsabilidade compartilhada.
+Tendo isso em mente é possível concluir que a interpretação das legislações como
+um todo devem semp re ser interpretada buscando a maior proteção ao grupo dos idoso,
+pois se a norma máxima do ordenamento jurídico brasileiro estabelece que esse grupo
+merece um cuidado especial, as outras legislações e interpretações devem seguir essa
+mesma linha.
+Agora se torna possível tratar da proteção integral do idoso. Esse subprincípio
+busca realizar uma proteção do idoso em todos os aspectos possíveis.
+O art. 2° da lei 10741 estabelece um norte para esse trabalho de proteção. Está
+estabelecido que:
+Art.2. O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem
+prejuízo da proteção integral de que trata esta Lei, assegurando-lhe, por lei ou por outros
+meios, todas as oportunidades e facilidades, para preservação de sua saúde física e
+mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de
+liberdade e dignidade.
+Esse artigo serve como norte no objetivo de proteção integral do idoso, pois o
+idoso sofre com diversas questões complicadas devido ao seu envelhecimento e ten do
+como ponto de partida os direitos humanos o legislador deve buscar protege -lo, inseri-lo
+na sociedade mantendo assim a dignidade do idoso.
+O idoso deve ser protegido de todas as formas possíveis, deve-se levar em
+condição as suas particularidades, levando em consideração as questões de igualdade
+material e igualdade formal.
+Antes de realizarmos a definição de igualdade formal e material é preciso falar
+sobre a definição de igualdade, pois essa palavra é nosso ponto de partida.
+Igualdade é oriundo do latim aequalitas, é indicativo de semelhança de caracteres
+ou elementos componentes de duas coisas.
+Assim, a igualdade é a uniformidade de grandeza, de razão, de proporção, de
+extensão, de peso, de altura, enfim, de tudo que possa haver entre duas ou mais coisas.
+É a evidência de coisas perfeitamente similares ou idênticas, de modo que uma se
+apresenta como uma semelhança da outra, com os mesmos requisitos e elementos em que
+se possam exibir.
+34
+Embora a igualdade tenha consigo o sentido de identidade, as coisas iguais não se
+confundem numa só: distinguem-se de per si, mostrando, entanto, estreita uniformidade
+entre elas.
+Em certos casos, porém, a igualdade não deve ser tomada com tanto rigor, de modo
+que se exija um realismo absoluto, em relação ao seu conceito jurídico.
+É assim, verbi gratia, que duas coisas podem não se apresentar materialmente
+iguais, e, no entanto, podem exprimir uma igualdade.
+Assim ocorre na divisão ou partilha de bens em que a igualdade se infere da
+equivalência ou proporção de quinhão, quanto a seu valor, atendida, quanto possível, a
+natureza ou qualidade de bens. Traz aí o sentido de proporcionalidade.
+Desse modo, não se exibe uma mera divisão aritmética em que as partes se
+mostrariam efetivamente iguais. Correspon de à que vem promover um favorecimento
+recíproco, em que todos os interesses sejam, não só economicamente atendidos, mas
+também igualdados na qualidade dos bens.
+Igualdade é a designação dada ao princípio jurídico instituído
+constitucionalmente, em virtude do qual todas as pessoas, sem distinção de sexo ou
+nacionalidade, de classe ou posição, de religião ou de fortuna, têm perante a lei os mesmos
+direitos e as esmas obrigações.
+Mas, pela instituição do princípio, não dita o Direito de igualdade absoluta. A
+igualdade redunda na igual proteção a todos, na igualdade das coisas que sejam iguais e
+na proscrição dos privilégios, isenções pessoais e regalias de classe, que se mostrariam
+desigualdades.
+Desse modo, a igualdade é perante a lei e perante a justiça, par a a proteção ou
+castigo, para a segurança de direitos ou imposição de normas coercitivas”.
+A definição de igualdade trabalhada acima inclusive abordou questões relativas a
+igualdade formal e material, mas não foi algo tão explícito, mas após uma explicação tão
+detalhada sobre igualdade as definições de igualdade formal e material podem ser mais
+breves.
+Na igualdade formal que também recebe o nome de igualdade jurídica, ou
+igualdade perante a lei se trata de um tratamento igualitário entre todos os cidadãos sem
+qualquer tipo de discriminação. Todos são iguais não importando suas diferenças.
+35
+Já na igualdade material se trata sobre a igualdade de fato realizada na prática,
+tratando os desiguais na medida exata de sua desigualdade, para que de fato todos tenham
+as mesmas chances e oportunidades.
+Logo, o princípio da proteção integral do idoso busca realizar de fato um a
+proteção integral em todos os âmbitos da vida da idoso. A lei 10.741busca legislar levando
+em consideração as particularidades e desafios únicos que os idosos enfrentam no objetivo
+de conferir igualdade material a esse determinado público, estabelecendo o que seria visto
+garantias e privilégios aos olhos de pessoas sem instrução, mas esses benefícios e
+privilégios são extremamente necessários para que os idosos possam de fatoexercerem
+sua cidadania com igualdade.
+O outro subprincípio é o da absoluta prioridade assegurada ao idoso.
+Art.3 É obrigação da família, da comunidade, da sociedade assegurar ao idoso,
+com absoluta prioridade , a efetivação do direito à saúde, à alimentação, à educação, à
+cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito
+e à convivência familiar e comunitária.
+§1º A garantia do direito de prioridade compreende:
+I) Atendimento preferencial imediato e individualizado junto aos órgãos
+públicos e privados prestadores de serviços à população;
+II) Preferência na formulação e na execução de políticas sociais públicas
+específicas;
+III) Destinação privilegiada de recursos públicos
+IV) Viabilização de formas alternativas de participação, ocupação e
+convívio do idoso com as demais gerações;
+V) Priorização do atendimento do idoso por sua própria família, em
+detrimento do atendimento asilar, exceto dos que não a possuam ou careçam de
+condições de manutenção da própria sobrevivência;
+VI) Capacitação e reciclagem dos recursos humanos nas áreas de geriatria
+e gerontologia e na prestação de serviços aos idosos;
+VII) Estabelecimento de mecanismo que favoreçam a divulgação de
+informações de caráter educativo sobre os aspectos biopsicossociais de
+envelhecimento;
+VIII) Garanta de acesso à rede de serviços de saúde e de assistência social
+locais;
+IX) Prioridade no recebimento da restituição do Imposto de Renda.
+§2º Dentre os idosos, é assegurada prioridade especial aos maiores de oitenta
+anos, atendendo-se suas necessidades sempre preferencialmente em relação aos demais
+idosos.
+O inciso I estabelece o atendimento preferencial e isso significa que tanto em
+órgãos públicos como em empresas prestadores de serviços privados deve sempre ser
+observada a prioridade no atendimento do idoso, isso se traduz de um modo geral em filas
+36
+especiais que tem um ritmo de atendimento mais rápido e por esse motivo o tempo de
+espera dos clientes é menos. Nos estabelecimentos onde existem pelo menos dois pontos
+de atendimento ao cliente o que acontece é um deles ser preferencial. No caso de existir
+somente um ponto de atendimento/guichê/ caixa se criam duas filas, uma normal e outra
+preferencial e sempre que houver alguém presente na fila preferencial o funcionário tem
+a obrigação de atender essa pessoa no mais curto prazo de tempo possível.
+Algumas pessoas acreditam que as filas preferenciais são algo desnecessário e que
+geram uma diferenciação injusta entre os cidadãos. Contudo, a materialização de tais filas
+é a igualdade material na prática.
+Nem todos os países possuem esse entendimento a respeito do tratamento
+prioritários aos idosos, a Rússia é um país onde esse tipo de atendimento preferencial é
+algo inexistente.
+No inciso II, o legislador estabeleceu que existe uma preferência na formulação,
+e na execução de políticas sociais públicas específicas. Um bom exemplo de políticas
+públicas para a pessoa idosa se faz presente no “plano de ação para o enfrentamento da
+violência contra a pessoa idosa”.
+O plano citado no parágrafo acima conversa bastante com o estabelecido no inciso
+III, pois ele normatiza a destinação privilegiada de recursos para áreas que tenham como
+temática a proteção do idoso.
+Já no inciso IV se busca a integração do idoso na vida em sociedade e isso se dá
+por meio de bailes, oficinas especiais, atividades variadas, viagens para idosos, grupos de
+apoio. Um bom lugar onde os idosos podem socializar são os espaços dos clubes, onde
+existem diversas atividades e pessoas com quem podem ter uma interação e passarem um
+tempo de qualidade.
+A priorização do atendimento do idoso pela família é a temática do inciso V e é
+perfeitamente pertinente, pois o idoso que está junto de sua família tem uma tendência de
+ser melhor cuidado, receber maior carinho. Inclusive existem diversas pesquisas que o
+amor e carinho ajudam na longevidade das pessoas.
+No inciso VI se aborda um dos pontos mais importantes aos meus olhos que é a
+constante renovação dos métodos de atendimento e abordagens realizados pelos serviços
+de geriatria e gerontologia, pois a um atendimento humanizado tendo como norte a
+dignidade da pessoa humana é essencial para a manutenção da dignidade do idoso.
+37
+Já no inciso VII trata sobre esclarecimento das questões ligadas ao
+envelhecimento de forma ampla e efetiva. Programas educativos e a distribuição de
+cartilhas por órgãos como a defensoria pública realizam o trabalho estabelecido no inciso
+VII.
+A garantia de acesso ao sistema de saúde é tratada pelo inciso VIII e é algo
+essencial, pois para a conversação da saúde do idoso é necessário que tenha acesso à
+saúde, de forma a estar bem para poder aproveitar melhor sua vida.
+No último inciso se trata a prioridade do recebimento do valor a ser restituído pelo
+Imposto de renda. Essa questão de restituição dos valores é uma questão lógica, pois pela
+idade avançada o idoso deve ter acesso à sua restituição antes para que possa usar seu
+dinheiro, se o idoso aguardar muito ele pode acabar falecendo d urante seu período de
+espera. Logo, garantir prioridade na restituição do imposto de renda é a materialização da
+igualdade material.
+No parágrafo 2 que versa sobre atendimento diferenciado para idosos com idade
+superior a 80 anos é algo que é posto em crítica pela Dra. Fabiana Barlleta, pois segundo
+ela o que ocorre nessa situação é uma discriminação tendo como base a idade mais
+longeva ou não dos idoso e é um ponto de análise não muito bom, pois a idade do idoso
+não reflete de fato o grau ou não de comprometimento do idoso em questão.
+Esse questionamento da Dra. Barletta é bastante pertinente, pois ao estabelecer
+essa norma, o legislador está discriminando os idoso com base somente em suas idades e
+presumindo que a condição física melhor ou pior de um idoso está diretamente associada
+somente com o avanço de sua idade, deixando de se levar em consideração uma série de
+fatores que influenciam no estado físico que as pessoas chegarão a velhice.
+38
+3) UMA ANÁLISE DA REALIDADE FORENSE
+Antes de qualquer discussão sobre valores de contribuições de planos de saúde é
+necessário falar sobre o funcionamento dos planos de saúde no Brasil.
+Na estrutura dos planos de saúde se utilizam o sistema do mutualismo 41 para
+realizar a estruturação dos planos de s aúde privado. Funciona da seguinte forma, os
+clientes pagam uma determinada taxa mensal de forma a terem acesso a uma determinada
+prestação que no caso em tela se trataria de uma prestação de um serviço de saúde.
+A operadora de plano de saúde lida com um serviço bastante específico que se
+trata de um serviço de alto risco, pois as variáveis são muitas que podem influir na
+prestação e cobranças do serviço prestado.
+Os médicos, exames, laboratórios, serviços de transportes são valores pagos
+posteriormente à prestação do serviço para essas empresas e profissionais e são valores
+variáveis, são custos que sempre se alteram. Principalmente, por esse motivo a atividade
+das operadoras de planos de saúde se tornam de alto risco.
+Os planos de saúde lucram do seguinte modo. A operadora define um determinado
+valor de acordo com o perfil do cliente. O cálculo para se definir esse “valor” leva em
+consideração o perfil do cliente, isso inclui o sexo, a idade, o local de moradia e outros
+diversos atributos.
+Todos esses fatores são levados em consideração no momento de ser “desenhar”
+o perfil do potencial consumidor do plano de saúde, pois se é traçado previamente o tipo
+de demanda específica daquela faixa etária daquele que habita aquele determinado local
+e provavelmente quais serão as necessidades específicas daquele determinado grupo e
+quanto isso vai custar para a operadora.
+Os cálculos feitos pelas operadoras, no momento de definir o valor da prestação
+41 Mutualidade é derivado de mutual (recíproco), exprime o regime de cooperação adotado em certas
+espécies de sociedades, em que os próprios sócios são aqueles que se inscrevem para concorrer aos
+benefícios distribuídos pela sociedade.
+Nelas, assim, em princípio, não há capital: este irá se compondo pelas reservas constituídas pelos lucros da
+sociedade, que não possuindo sócios, não os distribui.
+Por seus efeitos, a mutualidade assemelha-se à cooperativa, que se organiza com semelhante finalidade,
+apenas se distinguindo da mutualidade por ter um capital que nesta não existe.
+Diz-se, também, sociedade mútua. E, por simplificação, somente mútua.
+Aos sócios dela que são precisamente as pessoas que tomam inscrição para concorrer a seus benefícios, em
+regra constantes de seguros, construções de prédios, chamam de mutualistas.
+39
+são feitos de forma estimativa, tentando prever para o “futuro” de quanto a operadora do
+plano de saúde gastará com aquele determinado grupo, e como balancear as receitas e
+despesas, de forma a manter uma certa margem mínima de lucro considerada aceitável
+pelos administradores da operadora42.
+Um exemplo, desse tipo de mecanismo operando, seria a pesquisa realizada para
+traçar as necessidades do perfil infantil em um plano de saúde. Quais as maiores
+demandas das crianças na faixa etária de 3 a 6 anos? Qual tipo de médico elas usam mais?
+Qual tipo de medicamento e quantas vezes por ano elas ativam o serviço do plano de
+saúde?
+Todos os questionamentos, apresentados no parágrafo anterior são levados em
+consideração, no momento de se definir o valor da prestação que será cobrada de forma
+a garantir que o plano de saúde possa vir a ter lucros ou o mínimo de perdas possíveis.
+O pagamento do plano de saúde, ocorre como uma contribuição que vai para um
+fundo, que viabiliza a prestação do serviço de saúde. Foi a forma encontrada para custear
+esse sistema. Esse tipo de sistema é justamente o mutualismo ocorrendo. Logo, ao pagar
+a contribuição do plano de saúde, o cliente estará viabilizando a prestação de um serviço
+de saúde, e mesmo que naquele determinado momento, ele não ative aquela prestação de
+serviço não será “dinheiro jogado fora”.
+O sistema único de saúde (SUS) adota o mesmo mecanismo para viabilizar a sua
+manutenção. Por meio das arrecadações dos impostos, uma parte dos valores arrecadados
+é repassado para o funcionamento e manutenção do SUS, mesmo que alguns cidadãos
+não utilizem o sistema público é de seu direito usar o SUS e também é sua obrigação
+custear sua manutenção por meio dos impostos, pois mesmo que por questões pessoa is,
+esses determinados cidadãos realizem a opção de não utilizar tal sistema, é seu direito
+garantido por lei utilizarem o SUS se assim desejarem ou precisarem.
+Desse modo, após essa rápida explicação sobre o modo de estruturação e
+funcionamentos dos planos de saúde se torna claro a importância das contribuições 43para
+42 Portal da Indústria. Saúde suplementar: o que é e como funciona. Disponível em:
+https://www.portaldaindustria.com.br/industria-de-a-z/saude-suplementar-o-que-e-e-como-funciona/
+43 Contribuição derivado do latim contributio, de cont ribuere (dar para o monte, fornecer sua parte), na
+terminologia jurídica, não possui sentido diverso daquele que lhe vem do latim: entende -se a parte que se
+atribui a uma pessoa ou a participação que deve ter para formação de qualquer acervo ou cumprimento de
+qualquer obrigação.
+A contribuição, em sentido comum, pode ser voluntária. A pessoa contribui com a sua parte, porque
+espontaneamente que.
+40
+a manutenção do funcionamento dos serviços de saúde.
+Agora se torna viável falar sobre a posição das cortes brasileiras, e o caminho
+percorrido sobre a questão da majoração do valor da contribuição dos planos de saúde,
+pelo fato do cliente se tornar idoso.
+Como já foi falado anteriormente o estatuto do idoso veda o aumento do valor do
+plano de saúde tendo como fator base a idade, e felizmente na realidade do judiciário
+brasileiro essa posição foi respeitada durante um certo período. Os tribunais entendiam
+como ilegal o aumento do valor da contribuição devido o cliente atingir a idade de 60
+anos.
+O grande debate desde a instauração do Estatuto do Idoso é se devido ao
+estabelecido no art. 15 §3º vedava de forma absoluta a possibilidade de aumento dos
+valores das contribuições dos clientes com idade igual ou superior a 60 anos.
+Os planos de saúde buscaram manter os aumentos dos contratos anteriores ao
+Estatuto do Idoso, alegando que o Estatuto não protegia aqueles clientes e a proteção da
+lei 10741 só teria validade para os contratos celebrados a partir da data de sua vigência
+em diante.
+Porém, o estebelcido no art 2º do Decreto Lei 4567- Lei de Introdução as normas
+do Direito Brasileiro (LINDB) não estava sendo respeitado. O que está estabelecido é o
+seguinte:
+Art. 2o Não se destinando à vigência temporária, a lei terá vigor até que outra a
+modifique ou revogue.
+§ 1o A lei posterior revoga a anterior quando expressamente o declare, quando seja com
+ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior.
+Mas, na esfera jurídica, em regra, a contribuição, resultante de obrigação ou de imposição legal, é
+obrigatória, seja tomada no sentido fiscal, ou seja, tida no conceito do Direito Civil ou Comercial.
+No conceito fiscal a contribuição, a contribuição é o imposto: é a parte a que está sujeito o cidadão, para
+que contribua para a formação dos fundos necessários ao custeio das despesas públicas.
+No direito civil ou comercial, é a parte que cabe aos coobrigados pelo pagamento de uma dívida comum ou
+de um fato de interesse comum, tal como, na avaria grossa, para cumprimento da obrigação ou regularização
+da avaria.
+A contribuição, assim, é a parte de cada um no rateio, que se promove, e a que é obrigado em virtude estar
+a seu cargo o pagamento da dívida, ou a responsabilidade do pagamento, que por este modo se efetiva.
+Desse modo, contribuição sempre possui este significado sob o ponto de vista de jurídico: é a
+parte com que, obrigatoriamente, a pessoa deve entrar ou deve fornecer para adimplemento da
+obrigação, de que é também solidário, ou para satisfazer o pagamento de despesas que direta ou
+indiretamente, se põem a seu cargo.
+41
+No caso em tela, a LINDB é bem clara, a lei posterior revoga a anterior. Desse
+modo, se o entendimento do legislador ao criar a lei 10741 foi proteger o idoso dentre
+outras, contra os aumentos dos planos de saúde, esse posicionamento deve ser repsietado,
+revogando todas as dispoções contrárias vigentes até então.
+Alguns posicionamentos de tribunais são taxativos, em relação ao aumento
+enquanto outros são mais flexíveis, buscando um “equilíbrio” entre o idoso vulnerável e
+as necessidades do mercado.
+O fato de se buscar um equilíbrio é bastante razoável, pois conforme foi falado
+anteriormente o cálculo das cobranças é realizado no objetivo de buscar gerar lucros e
+minimizar as perdas para as operadoras dos planos de saúde e os cálculos das
+contribuições levam em considerações especificidades de cada grupo.
+Os idosos, devido a sua condição especial nessa fase da vida, requerem uma maior
+gama de cuidados médicos e pel a lógica do capitalismo, sistema econômico que impera
+em peso no mundo ocidental, é perfeitamente lógico que os planos de saúde desejem
+aumentar drasticamente o valor das contribuições.
+Contudo, esse aumento deve ser algo comedido e razoável e é justamente a falta
+de “bom senso” por parte dos planos que causa uma problemática grande que muitas vezes
+acaba sendo judicializada por idosos que buscam combater aumentos abusivos porplanos
+de saúde.
+Primeiramente, abordaremos uma decisão de 2008 que entende como totalmente
+ilegal a possibilidade aumento dos planos de saúde de cliente com idade de 60 anos. Em
+seguida observaremos uma segunda decisão num sentido de um aumento dos valores das
+contribuições, mas um aumento que seja razoável e equilibrado.
+Primeiro posicionamento:
+“Em julgamento de ação civil pública movida pelo Ministério Público contra Amil
+Assistência Médica Internacional Ltda., a Justiça da Capital reconheceu que as regras do
+Estatuto do Idoso também se aplicam aos contratos de planos de saúde firmados antes da
+entrada em vigor do Estatuto, no que diz respeito à proibição de reajuste por mudança de
+faixa etária do usuário a partir dos 60 anos de idade. A sentençaé da juíza Laura de Mattos
+Almeida, da 12ª Vara Cível de São Paulo.
+42
+Na ação civil pública, a promotora de Justiça Adriana Borghi Fernandes Monteiro,
+coordenadora da área do Consumidor do Centro de Apoio Operacional Cívele de Tutela
+Coletiva do MP, sustenta ser ilegal o reajuste aplicado pela Amil no valor dos planos de
+saúde em razão da mudança de faixa etária do seguro, a partir de 60 anos de idade. De
+acordo com a promotora, o reajuste viola o Estatuto do Idoso, que proíbe discriminação
+às pessoas com 60 anos ou mais. Ainda segundo a promotora, por ser lei federal de ordem
+pública, com aplicabilidade imediata, o Estatuto do Idoso aplica-se aos contratos
+firmados anteriormente ao início de sua vigência, em janeiro de 2004.
+Na sentença, a juíza Laura de Mattos Almeida julgou procedente a ação,
+declarando nula a cláusula dos contratos da Amil que autorizava o reajuste aos segurados
+com mais de 60 anos. A juíza também condenou a Amil a abster-se de aplicartal reajuste,
+sob pena de multa diária de R$ 50 mil, e a reparar os danos patrimoniais causados aos
+usuários idosos, que receberão de volta os valores pagos a mais por causa do reajuste
+indevido.
+De acordo com a sentença, não se justificam “reajustes expressivos impostos
+àqueles que, justamente com o avanço da idade, mais necessitam e, por já se encontrarem
+fora do mercado de trabalho, têm seus rendimentos sensivelmente diminuídos, não
+podendo suportar aumentos além dos reajustes decorrentes da inflação”.
+A decisão abre importante precedente, na medida em que afirma a aplicaçãodo
+Estatuto do Idoso a todos os contratos, afastando a discriminação aos idosos e os
+reajustes abusivos, proibidos pelo Código de Defesa do Consumidor”, avalia a
+promotora Adriana Borghi. (BRASIL, 2019, pg. 16)
+Nesse primeiro posicionamento fica claro que a juíza compreende que o art.15
+§3 do Estatuto do Idoso deve ser respeitado de forma absoluta e colocar toda uma
+argumentação extremamente pertinente para justificar tal decisão.
+Agora segue um segundo posicionamento do ano de 2014 que fala sobre um
+aumento equilibrado e razoável por parte dos planos de saúde:
+O ministro Marco Buzzi defende um equilíbrio por parte dos aumentos feitos pelos
+planos de saúde de forma a não serem aumentos abusivos. O aumento deve ser feito de
+forma equilibrada respeitando a boa-fé e a razoabilidade44.
+44 Buscador Dizer o Direito. Reajuste de mensalidade de seguro-saúde em razão de alteração de faixa-
+etária- Buscador Dizer o Direito.
+43
+(...) 2.1. Da análise do artigo 15, § 3º, do Estatuto do Idoso, depreende -se que resta
+vedada a cobrança de valores diferenciados com base em critério etário, pelas pessoas
+jurídicas de direito privado que operam planos de assistência à saúde, quando
+caracterizar discriminação ao idoso, ou seja, a prática de ato tendente a impedir ou
+dificultar o seu acesso ao direito de contratar por motivo de idade.
+Ao revés, a variação das mensalidades ou prêmios dos planos ou seguros saúde em
+razão da mudança de faixa etária não configurará ofensa ao princípio constitucional da
+isonomia, quando baseada em legítimo fator distintivo, a exemplo do incremento do
+elemento risco nas relações jurídicas de natureza securitária, desde que não evidenciada
+a aplicação de percentuais desarrazoados, com o condão de compelir o idoso à quebra
+do vínculo contratual, hipótese em que restará inobservada a cláusula geral da boa -fé
+objetiva, a qual impõe a adoção de comportamento ético, leal e de cooperação nas fases
+pré e pós pactual.
+Consequentemente, a previsão de reajuste de mensalidade de plano de saúde em
+decorrência da mudança de faixa etária de segurado idoso não configura, por si só,
+cláusula abusiva, devendo sua compatibilidade com a boa -fé objetiva e a equidade ser
+aferida em cada caso concreto. (...)
+(STJ. 2ª Seção. REsp 1280211/SP, Rel. Min. Marco Buzzi, julgado em 23/04/2014)
+Nesse momento se faz necessária uma breve ponderação sobre os princípios da
+razoabilidade e proporcionalidade que estão diretamente relacionados com a pauta que
+está sendo abordada, pois se os aumentos dos planos não forem controlados e continuarem
+a ocorrer aumentos abusivos a consequência é que muitos idoso não terão mais condições
+de arcar com os custos das contribuições dos planos de saúde. Sendo que no momento da
+vida onde esses indivíduos mais precisam da prestação desse determinado serviço que é
+a fase da velhice, esses idoso não possuirão nenhum amparo e não possuirão os cuidados
+médicos tão necessários para uma velhice com qualidade de vida.
+O princípio da proporcionalidade45 também recebe o nome de princípio da
+proibição de excessos. Esse princípio busca garantir que haja sempre um equilíbrio entre
+uma causa e a sua respectiva consequência. Esse princípio representa a necessidade de
+adequação dos meios adotados para um resultado justo e equilibrado.
+Já o princípio da razoabilidade é o princípio que garante que as decisões sigam
+minimamente os preceitos morais geralmente aceitos. O direito deve ser acessível a todos
+os cidadãos, usando como ponto de referência para a avaliação dos conflitos o nível de
+45 Proporcional do latim proportionalis de proportio (proporção relação), entende -se o que se mostra numa
+relação de igualdade ou de semelhança entre várias coisas.
+É o que está em proporção, isto é, apresenta a disposição ou a correspondência devida entre as partes e o
+seu todo.
+A proporcionalidade, assim revela -se numa igualdade relativa, consequente da relação das diferentes partes
+de um todo já comparadas entre si.
+44
+conhecimento e valores do chamado “homem médio” que representa a maioria dos grupos
+sociais. Garantindo assim que os pontos de análise sejam os aceitos e compreendidos pela
+maioria dos cidadãos que compõem o grupo social.
+Tais princípios estão intimamente ligados com a questão trabalhada aqui, pois os
+aumentos das contribuições devem respeitar uma certa proporcionalidade, pois um pilar
+muito importante que deve ser levado em consideração é o fato de o Brasil ser um estado
+social 46que visa sempre garantir o princípio da dignidade da pessoa humana e o bem -
+estar de seus cidadãos.
+Logo, permitir que os valores de contribuições de planos de saúde aumentem
+desenfreadamente não é o exercício da justiça social sendo feito e sim o contrário. Esse
+tipo de situação como já foi abordado anteriormente não se guia pelo princípio da boa-fé
+e levaria muitos idosos a romperem os contratos com as operadoras de planos de saúde
+por não possuírem os meios necessários para arcar com os custos das contribuições
+extremamente onerosas.
+A boa -fé segundo o dicionário jurídico significa que “s empre teve boa fé no
+sentido de expressar a intenção pura, isenta de dolo ou engano, com que a pessoa realiza
+o negócio ou executa o ato, certa de que está agindo na conformidade do direito,
+consequentemente, protegida pelos preceitos legais.
+Dessa forma, quem age de boa -fé, está capacitado de que o ato de que é agente,
+ou do qual participa, está sendo executado dentro do justo e do legal.
+É, assim evidentemente, a justa opinião, leal e sincera, que se tem respeito de fato
+ou do ato, em que se vai praticar, opinião esta tida sem malícia e sem fraude, porque se
+diz justa, é que está escoimada de qualquer vício, que lhe empane a pureza da intenção.
+Protege a lei todo aquele que age de boa -fé, quer resilidindo o ato, em que se
+prejudicou, que mantendo aquele que deve ser respeitado, pela boné fiei actiones.
+É assim que a boa -fé provada ou deduzida de fatos que mostram sua existência,
+justifica a ação pessoal, pela qual s eleva à consideração do juiz o pedido para que se
+anule o ato praticado, ou se integre aquele que agiu de boa-fé no direito, que se assegurou,
+quando sua execução.
+46 Estado de bem -estar social, Estado -providência ou Estado social é um tipo de organização política e
+econômica que coloca o Estado como agente da promoção social e organizador da economia. Cabe, ao
+Estado do bem-estar social, garantir serviços públicos e proteção à população.
+45
+Na posse, a boa -fé sempre se presume, salvo quando a própria lei estabelece
+presunção contrária. E, quando a própria lei estabelece presunção contrária. E quando
+assim não é, aquele que alega a má fé, é que deve provar. Consequentemente, na ausência
+de qualquer prova de malícia ou má fé é a intenção que levou a pessoa a agir daquele
+modo”.
+Após essa vasta explicação do conceito de boa-fé, se torna claro como já dito
+anteriormente, que se houvesse um aumento das contribuições dos planos de saúde
+respeitando a boa -fé, por parte das operadoras e respeitando também a dignidade da
+pessoa humana, por consequência seria respeitado o melhor interesse do idoso, princípio
+esse trabalhado no capítulo anterior, e que é fundamental para a presente análise sobre os
+reajuste realizados pelos planos de saúde para os idosos.
+Apesar de buscar lidar com essa questão de uma forma equilibrada, para ambos
+os lados, na atualidade a posição dos tribunais é desfavorável aos idosos.
+Apesar de alguns posicionamentos expressarem concordância com o aumento das
+contribuições, mesmo que seja tendo como referência os princípios da razoabilidade,
+proporcionalidade e boa-fé, o estatuto do idoso que é uma lei específica sobre o cuidado
+e tratamento com os idosos está sendo desrespeitado.
+O princípio da especialidade estabelece que a norma especial tem precedência
+sobre a norma geral, evitando dessa forma o bis in idem. O estatuto do idoso (lei 10741)
+é uma lei especial e por essa razão, ela tem precedência sobre qualquer outra norma que
+possa vir a regular os direitos dos idoso de modo mais geral.
+Está estabelecido no capítulo IV (Do Direito à saúde) no art. 15 § 3º que:
+Art. 15. É assegurada a atenção integral à saúde da pessoa idosa, por intermédio do
+Sistema Único de Saúde (SUS), garantindo -lhe o acesso universal e igualitário, em
+conjunto articulado e contínuo das ações e serviços, para a prevenção, promoção,
+proteção e recuperação da saúde, incluindo a atenção especial às doenças que afetam
+preferencialmente as pessoas idosas.
+§ 3º É vedada a discriminação da pessoa idosa nos planos de saúde pela cobrança de
+valores diferenciados em razão da idade.
+Logo, se torna claro que qualquer disposição contrária ao estabelecido no artigo
+acima é uma violação direta ao estabelecido no Estatuto do Idoso e na atualidade o
+posicionamento dos tribunais está justamente no sentido de permitir que os valores das
+cobranças sejam alterados contanto que alguns requisitos sejam seguidos.
+46
+A mudança que está sendo autorizada na atualidade, é um posicionamento que não
+beneficia os idosos, e sim os onera. Não segue nem mesmo a forma de aumento que foi
+defendida anteriormente pelo ministro Marco Buzzi, de se realizar uma mudança nos
+valores cobrados usando a razoabilidade, boa-fé e proporcionalidade, sem lesar os idosos,
+e levando em consideração a maior demanda requerida pelo grupo dos idosos, devido a
+sua condição fisiológica que requer maiores cuidados médicos.
+Na atualidade o que é feito é o seguinte, apesar de o Estatuto do Idoso proibir de
+forma clara o aumento do valor do plano de saúde em função da idade do cliente, os
+tribunais não respeitam muito essa pro ibição. Porém, as operadoras de planos de saúde
+encontraram uma forma de contornar essa questão evitando até a possibilidade de
+judicialização dessa questão, os planos de saúde encontraram uma forma de “burlar” a
+norma.
+Porém, antes que possamos falar sobre a forma encontrada pelos planos de saúde
+para contornar essa questão do aumento das contribuições é necessário falar rapidamente
+sobre o conceito de idoso na própria lei.
+Art. 1º É instituído o Estatuto da Pessoa Idosa, destinado a regular os direitos
+assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos.
+Após lermos o artigo 1 da lei 10741 fica claro que os idosos no Brasil são pessoas
+com idade ou igual ou superior a 60 e esse fato será crucial para observarmos o modo
+como os planos de saúde contornam a proibição imposta no art.15 §3º do Estatuto do
+Idoso.
+Como o objetivo central das operadoras dos planos é ter lucros, com o mínimo de
+perdas possíveis, os planos desejam sempre “cobrar” de quem usa mais seus serviços.
+Logo, com a demanda maior do uso dos serviços dos planos por parte dos idosos, os
+planos desejam cobrar contribuições maiores desse determinado grupo.
+Contudo, os planos ficam em uma situação complicada, pois o estatuto do idoso
+proíbe os aumentos tendo como motivação a idade do cliente, mas mesmo assim os planos
+buscam alternativas para conseguir continuar lucrando mesmo que essa determinada
+norma os impeça de realizar a cobrança para os cidadãos com idade igual ou superior a
+60 anos.
+47
+Após essa explicação sobre o conceito de idoso estabelecido em lei, podemos falar
+sobre os planos de saúde.
+A forma encontrada na prática foi realizar aumentos astronômicos das
+contribuições dos planos de saúde quando o cliente completa 59 anos, pois como a lei
+10741 “impede” que os clientes com idade igual ou superior a 60 anos sejam onerados,
+os planos buscam aumentar o valor da contribuição de forma a preencher todo o valor que
+eles gostariam de aumentar de acordo com o que a pessoa fosse envelhecendo.
+Os planos se adiantam e realizam a mudança dos valores aos 59 anos do paciente,
+desse modo evitam a possibilidade de ação judicial por aumentar o valor da contribuição
+do plano de saúde de um paciente de 60 anos. Contudo, o aumento das taxas é tão grande
+que em alguns casos se torna inviável o cliente continuar arcando com os custos daquela
+determinada operadora.
+Esse tipo de solução arquitetada peloas operadores tem embasamento na
+Resolução Normativa nº 63, de dezembro de 2003, expedida pela Agência Nacional de
+Saúde determina de acordo com o art. 3º, que: “o valor fixado para a última faixa etária
+não poderá ser superior a seis vezes o valor da primeira faixa etária”.
+Para entender melhor o estabelecido é preciso olhar rapidamente a divisão de
+faixas etárias:
+As faixas etárias foram inicialmente disciplinadas pela Resolução CONSU nº 06, de
+1998, e devem ser adotadas para os planos comercializados entre 02/01/1998 e
+31/12/2003, a saber: I - 0 (zero) a 17 (dezessete) anos de idade; II - 18 (dezoito) a 29
+(vinte e nove) anos de idade: III - 30 (trinta) a 39 (trinta e nove) anos de idade; IV - 40
+(quarenta) a 49 (quarenta e nove) anos de idade; V - 50 (cinquenta) a 59 (cinquenta e
+nove) anos de idade; VI - 60 (sessenta) a 69 (sessenta e nove) anos de idade; VII - 70
+(setenta) anos de idade ou mais.
+Cada faixa etária arcaria com um determinado valor e a forma encontrada pelos
+pelas operadoras foi cumular todo o aumento das faixas 6 e 7 quando o paciente completa
+59 anos, onerando muito o paciente.
+Os tribunais estão se posicionando de forma favorável a essa forma de aumento
+que acontece aos 59 anos dos clientes, protegendo e endossando assim essa forma de agir
+dos planos de saúde e desagasalhando os cidadãos.
+Os contratos dos planos de saúde são contratos padrão que os clientes
+simplesmente assinam, não existindo a menor possibilidade de se negociar as cláusulas,
+esse tipo de contrato são realidade são contratos de adesão.
+48
+Esse tipo de relação torna clara a posição de hipervulnerabilidade do cliente em
+face das operadoras dos planos de saúde, que impõem seus termos abusivos e os clientes
+frágeis em face da pessoa jurídica das operadoras devem passivamente aceitar tais termos
+abusivos.
+Os planos de saúde estabelecem em seus contratos, a previsão de aumentos dos
+valores, de acordo com o envelhecimento dos pacientes, e devido a essa cláusula
+preexistente muitas vezes os clientes ficam de mãos atadas sem poder contestar tais
+aumentos abusivos, pois não é reconhecido tal questionamento pelos tribunais po is os
+clientes assinaram os contratos com “conhecimento” das cláusulas de aumento dos
+valores das contribuições47.
+47 FUX e Associados- Avocacia empresarial. Aumentos de planos de saúde aos 59 e 6 -0 anos. O que pode
+ser feito? Disponível em: https://fuxeassociados.adv.br/aumentos-de-planos-de-saude-aos-59-e-60-anos-o-
+que-pode-ser-feito/
+49
+CONCLUSÃO
+Após a finalização do presente trabalho fica claro que é necessária uma mudança
+da postura da sociedade de um modo geral para com o bem-estar do idoso e uma proteção
+mais efetiva por parte do judiciário.
+Um dos grandes questionamentos que moveram o trabalho era a discussão era se
+era aceitável ou não alterações nos valores das prestações dos planos de saúde de idosos.
+Foi possível avaliar posições totalmente contrárias a qualquer tipo de alteração e
+que defendiam a aplicação literal do artigo15 §3º da lei 10741 (Estatuto do Idoso).
+Enquanto que também, foi possível avaliar posições mais moderadas qu e aceitavam a
+possbilidade um aumento equilibrado e justo já que o perfil de cliente em análise, de fato
+demandava mais daquela prestação de serviço.
+Apesar de a Agência Nacional de Saúde estabelecer legislações também e formas
+de calcular os aumentos das prestações, a legislação no Estatuto do Idoso é bastante clara,
+proibindo qualquer tipo de aumento, e levando em consideração o princípio da
+especialidade, juntamente com a Constituição Federal de 1988, acho perfeitamente
+pertinenente, defender um posicionamento para que os tribunais brasileiros apliquem de
+forma literal o estabelecido no art.15 §3º do Estatuto do Idoso.
+A proibição estabelecida na lei 10741 deve ser respeitada, pois se trata de uma
+legislação específica, que busca defender um público que possui diversas
+vulnerabilidades.
+Outro fator que deve ser levado em conta nessa relação, é a questão dos contratos
+de adesão, pois ao contratar os serviços das prestadoras de serviço os cientes não tem a
+menor possibilidade de negociar nenhuma clásula, resultando numa relação abusiva, onde
+uma parte impõem termos absurdos, e a outra parte necessitada do serviço e frágil, é
+obrigada a aceitar todos os termos por mais absurdos que sejam.
+Fica claro também no trabalho, as maneiras encontradas pelas operadoras para
+contornar as proibições de lei, esses artifícios usados pelas operadoras, apesar de não
+ferirem a lei são feitos de má-fé, e deveriam ser impedidos pelo poder judiciário, pois aqui
+estamos tratando de prestação de serviço de saúde, que é um direito básico do ser humano,
+e anda de mãos dadas com a dignidade da pessoa humana, pilar fundamental
+50
+que rege essa nação, pois está estebelecido no art. 1, III da Constotuição da República
+Federativa do Brasil de 1988.
+Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados
+e Municípios e do Distrito Federal, constitui -se em Estado Democrático de Direito e
+tem como fundamentos:
+I - a soberania;
+II - a cidadania;
+III - a dignidade da pessoa humana;
+IV - os valores sociais do trabalho e da livre iniciativa;
+V - o pluralismo político.
+Parágrafo único. Todo o poder emana do povo, que o exerce por meio de
+representantes eleitos ou diretamente, nos termos desta Constituição.
+A dignidade da pessoa humana é tão importante em nosso país, que se encontra
+em seu art.1,III. Logo, fica claro que a dignidade da pessoa humana, deve estar acima das
+relações de consumidor, e deve ser defendida a todo custo.
+51
+REFERÊNCIAS
+AMERICAS SERVIÇOS MÉDICOS. Fratura em idosos: economia de tempo salva vidas.
+Disponível em: https://www.americasmed.com.br/central-de-
+conteudo/informativos/fratura-em-idosos-economia-de-tempo-salva-vidas
+BARLETTA, Fabiana Rodrigues. A pessoa idosa e seu direito prioritário à saúde:
+apontamentos a partir do melhor interesse do idoso
+BARLETTA, Fabiana Rodrigues. MARTINS, Flávio Alves. Divergências no
+entendimento do STJ sobre o reajuste da prestação mensal por mudança de faixa etária
+em planos privados de saúde contratados com consumidores idosos e o princípio do
+melhor interesse do idoso. São Paulo: Editora Foco, 2020.
+BARLETTA, Fabiana Rodrigues. O Direito à saúde da Pessoa Idosa
+BERNARDES, Luana. Escolas Jesuítas. Disponível em:
+https://www.todoestudo.com.br/historia/escolas-
+jesuitas#:~:text=Em%20mat%C3%A9ria%20de%20educa%C3%A7%C3%A3o%20esc
+olar,Studiorum%20a%20sua%20express%C3%A3o%20m%C3%A1xima%20
+CABRERA, Marcus Aparecido Sarria. ANDRADE, Selma Maffei. WAJNGARTEN,
+Maurício. Causas de mortalidade em idosos: Estudo de seguimento de nove anos.
+Disponível em: http://ggaging.com/details/353/pt-
+BR#:~:text=O%20principal%20grupo%20de%20causas,nervoso%20(9%2C4%25)
+CAVALCANTE, Márcio. Buscador Dizer o Direito. Reajuste de mensalidade de seguro-
+saúde em razão de alteração de faixa-etária- Buscador Dizer o Direito.
+CONFEDERAÇÃO DAS SANTAS CASAS E HOSPITAIS FILANTRÓPICOS. A
+história de misericórdia das Santas Casas. Disponível em:
+https://www.cmb.org.br/cmb/index.php/institucional/quem-somos/historico.
+CURY, Jessica Santiago. MENEGAZ, Mariana Lima. Mulher e o Cárcere: Uma história
+de Violência, Invisibilidade e Desigualdade Social.
+DIAS, Carlos Malheiro. História da Colonização Portuguesa do Brasil, Litografia
+Nacional, Porto, Portugal, 1926.
+DIMENSTEIN, Gilberto. Cidadão de Papel: A infância a adolescência e os Direitos
+Humanos no Brasil. Rio de Janeiro, Editora Ática, 1997.
+DUARTE, Yeda. Após pressão OMS recua em classificar a velhice como doença.
+Disponível em: https://jornal.usp.br/atualidades/apos-pressao-oms-recua-em-classificar-
+a-velhice-como-doenca/.
+FRIEDA, Leonie. Catarina de Médici, São Paulo: Planeta do Brasil, 2019.
+52
+FUX e Associados - Avocacia empresarial. Aumentos de planos de saúde aos 59 e 6 -0
+anos. O que pode ser feito? Disponível em: https://fuxeassociados.adv.br/aumentos-de-
+planos-de-saude-aos-59-e-60-anos-o-que-pode-ser-feito
+GURGEL, Cristina Brant Friedrich Martin. Médicos do Brasil Colonial.
+MASSALI, Fábio. Pesquisa mostra exclusão do idoso do mundo digital e da escrita.
+Disponível em: https://agenciabrasil.ebc.com.br/geral/noticia/2020-08/pesquisa-mostra-
+exclusao-de-idosos-do-mundo-digital-e-da-escrita
+MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO. Justiça proíbe reajuste de
+plano de saúde de maiores de 60 anos por mudança de faixa etária. Disponível em:
+https://mp-sp.jusbrasil.com.br/noticias/124907/justica-proibe-reajuste-de-plano-de-
+saude-de-maiores-de-60-anos-por-mudanca-de-faixa-etaria
+MINISTÉRIO DA SAÚDE- Secretária Nacional de Ações Básicas de Saúde-
+Coordenação de assistênc ia Médica e Hospitalar, Conceitos e definições em saúde,
+impresso na seção de artes gráficas da FSESP, Rio de Janeiro-1977
+NASCIMENTO, Sibhelle Katherine. A proteção do idoso no ordenamento jurídico
+brasileiro.
+NOGUEIRA, Luiz Fernando Veloso. Expectativa de vida e mortalidade de escravos.
+Disponível em:
+http://www.historica.arquivoestado.sp.gov.br/materias/anteriores/edicao51/materia01/#:
+~:text=Ao%20analisar%20dados%20de%20diversas,em%20torno%20de%2019%20ano
+s.
+PINTO, Tales dos Santos. "A Igreja Católica no Brasil"; Brasil Escola. Disponível em:
+https://brasilescola.uol.com.br/historiab/igreja-catolica-no-brasil.htm.
+Portal da Indústria. Saúde suplementar: o que é e como funciona. Disponível em:
+https://www.portaldaindustria.com.br/industria-de-a-z/saude-suplementar-o-que-e-e-
+como-funciona/
+RIBEIRO, Paulo Silvino. "O início das políticas públicas para a saúde no Brasil: da
+República Velha à Era Vargas"; Brasil Escola. Disponível em:
+https://brasilescola.uol.com.br/sociologia/o-inicio-das-politicas-publicas-para-saude-no-
+brasil-republica.htm
+SILVA, J.L e SÁ, A. A fome no Brasil: Do período Colonial até 1940
+Sociedade e Cotidiano no Brasil Colônia: Aula 10. Disponível em:
+https://cesad.ufs.br/ORBI/public/uploadCatalago/17300005102012Historia_do_Brasil_
+Colonia_Aula_10.pdf
+TOMA, Maristela. Punição e Razão de Estado: o degredo no império colonial português.

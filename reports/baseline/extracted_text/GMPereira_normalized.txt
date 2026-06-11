@@ -1,0 +1,2195 @@
+Análise da Viabilidade Econômica da utilização de Bagaço de Malte
+para Produção de Etanol 2G e Querosene de Aviação
+Carolina Ferreira de Abreu
+Gustavo Martins Pereira
+Trabalho de Conclusão de Curso
+Orientadoras
+Yordanka Reyes Cruz
+Neyda de la Caridad Om Tapanes
+21 de outubro de 2021
+Análise da Viabilidade Econômica da Utilização de Bagaço de Malte
+para Produção de Etanol 2G e Querosene de Aviação
+Carolina Ferreira de Abreu
+Gustavo Martins Pereira
+Trabalho de Conclusão de Curso para obtenção do título de Bacharel em Engenharia
+Química, apresentado ao Corpo Docente da Escola de Química da Universidade
+Federal do Rio de Janeiro
+Aprovado em: __/__/__
+Aprovado por:
+Marcelo Mendes Viana, DSc.
+Leonard Guimarães Carvalho, DSc.
+Orientado por:
+Profa. Yordanka Reyes Cruz, DSc.
+Profa. Neyda de la Caridad Om Tapanes, DSc.
+Rio de Janeiro, RJ – Brasil
+21 de outubro de 2021
+FICHA CATALOGRÁFICA
+Abreu, Carolina Ferreira de
+Pereira, Gustavo Martins
+Análise da Viabilidade Econômica da Utilização de Bagaço de Malte para
+Produção de Etanol 2G e Querosene de Aviação / Carolina Ferreira de Abreu,
+Gustavo Martins Pereira: UFRJ/EQ, 2021
+(Trabalho de Conclusão de Curso) – Universidade Federal do Rio de Janeiro,
+Escola de Química, 2021.
+Orientadora: Yordanka Reyes Cruz
+Coorientadora: Neyda de la Caridad Om Tapanes
+1. Bagaço de malte. 2. Etanol de segunda geração. 3. Bioquerosene de aviação.
+4. Trabalho de Conclusão de Curso (Graduação UFRJ/EQ).
+AGRADECIMENTOS
+Gustavo Martins Pereira
+Agradeço,
+Primeiramente a Deus, por ter me abençoado durante toda minha vida, me
+dando saúde e força para seguir em frente todos os dias.
+Â minha mãe, Marilene, por seu amor incondicional, sempre confiando em mim
+e me apoiando durante toda minha vida. Sem você, eu não conseguiria chegar onde
+cheguei. Você é meu espelho e meu maior orgulho.
+À minha namorada, Luizi, por estar do meu lado, sonhando junto comigo, me
+dando força nos momentos difíceis e sendo minha melhor companhia. Você é uma
+das pessoas mais fortes e determinadas do mundo. Obrigado por me ensinar tanto e
+nunca desistir de mim.
+À minha amiga Carolina, por estar comigo desde o início da graduação, me
+acompanhando em cada etapa, tanto nos momentos bons quanto nos ruins, sempre
+que olhava para o lado, você estava ali. Vou ser eternamente grato pela sua amizade.
+À minha avó, Eliza, por ter cuidado de mim desde sempre. A pessoa mais
+amável que eu já conheci, sempre preocupada no bem estar da família. Você sempre
+esteve do meu lado em todos os momentos, e serei eternamente grato pelo seu amor.
+A todos da minha família, por sempre terem acreditado no meu potencial, me
+apoiando mesmo quando eu duvidava de mim mesmo.
+Aos meus amigos, pelas risadas e pelos momentos felizes. Vocês fizeram a
+caminhada ficar mais leve. Obrigado pela contribuição de cada um durante minha
+trajetória.
+Às minhas orientadoras, professora Yordanka e professora Neyda, por terem
+divido seus conhecimentos conosco e por toda paciência. Por ensinarem com tanto
+cuidado, transparecendo o amor que tem na profissão.
+Muito obrigado a todos!
+AGRADECIMENTOS
+Carolina Ferreira de Abreu
+Primeiramente, agradeço a Deus e a todos os seres de luz por terem me
+acompanhado durante essa etapa da minha vida, sempre me guiando para trilhar o
+melhor caminho e me concedendo ensinamentos em todos os momentos.
+À minha mãezinha e ao meu querido irmão, por serem sempre fontes de amor,
+companheirismo e apoio. Sem vocês não seria possível alcançar esse tão sonhado
+objetivo e, principalmente, me tornar a mulher que sou hoje. Tudo por vocês e para
+vocês.
+Ao meu grande amigo Gustavo, parceiro durante toda a graduação e a quem
+recorri inúmeras vezes para sorrir, chorar e comemorar. Chegar ao final da graduação
+sem você não seria a mesma coisa. Imensamente grata pela amizade que
+construímos.
+A todos os meus amigos e companheiros que se fizeram presentes durante os
+altos e baixos desses últimos anos. Todos os momentos com vocês sempre me
+energizaram e me deram forças para continuar buscando o meu objetivo.
+A todos os professores e professoras que já passaram pelo meu caminho até
+hoje. O conhecimento, dedicação e exemplo de vocês me tornaram uma pessoa mais
+consciente, questionadora e que valoriza a educação. Que eu possa transmitir o que
+aprendi com vocês para mais pessoas ao meu redor.
+Às minhas queridas orientadoras, professora Yordanka e professora Neyda,
+pela confiança em aceitar orientar este trabalho e por desempenhar com tanto
+carinho, paciência e dedicação esse papel.
+Gratidão!
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+CENTRO DE TECNOLOGIA
+ESCOLA DE QUÍMICA
+Resumo do Trabalho de Conclusão de Curso apresentado à Escola de Química como
+parte dos requisitos necessários para obtenção de grau de Bacharel em Engenharia
+Química.
+Análise da Viabilidade Econômica da Utilização de Bagaço de Malte para
+Produção de Etanol 2G e Querosene de Aviação
+Carolina Ferreira de Abreu
+Gustavo Martins Pereira
+Outubro de 2021
+Orientadoras: Profa. Yordanka Reyes Cruz, DSc.
+Profa. Neyda de la Caridad Om Tapanes, DSc.
+Resumo:
+O cenário atual de geração e consumo de energia no mundo torna imprescindível a
+busca por fontes alternativas e renováveis para obtenção desta, visto que é
+necessária a mitigação dos efeitos negativos causados no planeta pela utilização de
+fontes energéticas de origem fóssil. Paralelamente, são encontrados no Brasil uma
+gama de materiais de natureza lignocelulósica que podem ser destinados para este
+fim. Diante disso, o presente trabalho teve como objetivo apresentar uma análise da
+viabilidade econômica do uso de bagaço de malte - resíduo da indústria cervejeira
+que é muito presente no país - como matéria-prima alternativa para produção de dois
+biocombustíveis de grande interesse comercial e potencial para utilização: etanol de
+segunda geração e o bioquerosene de aviação. A partir da avaliação de indicadores
+econômicos como Valor Presente Líquido, Taxa Interna de Retorno e Payback foi
+possível chegar à conclusão que o investimento em uma planta de produção de
+bioquerosene é a opção economicamente mais viável, visto que trará maiores ganhos
+e menos riscos na perspectiva analisada.
+Palavras-chave: Bagaço de malte; etanol de segunda geração; bioquerosene;
+análise econômica
+LISTA DE FIGURAS
+Figura 1: Matriz energética mundial - Participação por fonte (%) em milhão toneladas
+equivalentes de petróleo ..................................................................................................... 14
+Figura 2: Utilização de energia nos cinco principais países consumidores em milhões de
+toneladas equivalente de petróleo....................................................................................... 15
+Figura 3: Comparação entre a utilização de fontes renováveis e não renováveis do Brasil,
+mundo e OCDE ................................................................................................................... 16
+Figura 4: Produção de biocombustíveis em milhões de toneladas equivalentes de petróleo
+........................................................................................................................................... 18
+Figura 5: Número de registros de cervejarias por ano ....................................................... 21
+Figura 6: Mapa de símbolos pontuais proporcionais com a distribuição das cervejarias no
+Brasil por município ............................................................................................................ 21
+Figura 7: Diagrama de blocos do processo de hidrólise separada da fermentação (SHF) . 29
+Figura 8: Diagrama de blocos do processo de hidrólise e fermentação simultâneas (SSF)
+........................................................................................................................................... 29
+Figura 9: Diagrama de blocos do processo de sacarificação e co-fermentação simultâneas
+(SSCF) ................................................................................................................................ 30
+Figura 10: Diagrama de blocos do processo consolidado para a produção de etanol de
+segunda geração (BPC) ...................................................................................................... 31
+Figura 11: Diagrama de blocos do processo de obtenção de etanol de segunda geração . 38
+Figura 12: Diagrama de blocos do processo de obtenção de bioquerosene ...................... 40
+Figura 13: Comparativo entre o payback simples e descontado das plantas de etanol e
+bioquerosene ...................................................................................................................... 64
+Figura 14: Comparativo entre a lucratividade (%) da planta de etanol e bioquerosene ...... 66
+Figura 15: Divisão de custos da planta de etanol ............................................................... 68
+Figura 16: Divisão de custos da planta de bioquerosene ................................................... 68
+LISTA DE TABELAS
+Tabela 1: Composição dos principais constituintes de 4 tipos de BSG de diferentes indústrias
+cervejeiras ............................................................................ Erro! Indicador não definido.3
+Tabela 2: Comparação entre hidrólise com ácido diluído e com ácido concentrado ....... Erro!
+Indicador não definido.8
+Tabela 3: Principais rotas, matérias-primas e processos utilizados na produção de
+biocombustíveis .................................................................... Erro! Indicador não definido.2
+Tabela 4: Custo de produção das principais rotas de produção de bioquerosene .......... Erro!
+Indicador não definido.4
+Tabela 5: Resumo das condições das etapas do processo de obtenção de etanol de segunda
+geração considerado neste trabalho ..................................... Erro! Indicador não definido.8
+Tabela 6: Dados de consumo específico de reagentes e insumos e resíduos gerados .. Erro!
+Indicador não definido.41
+Tabela 7: Premissas adotadas para as variantes tecnológicas da rota BtL-FT ............... Erro!
+Indicador não definido.2
+Tabela 8: Quantidades obtidas para o balanço de massa globalErro! Indicador não
+definido.2
+Tabela 9: Premissas monetárias adotadas para os componentes utilizados na obtenção de
+E2G através da rota química ................................................. Erro! Indicador não definido.4
+Tabela 10: Premissas monetárias adotadas para os componentes utilizados na obtenção de
+bioquerosene de aviação através da rota BtL-FT .................. Erro! Indicador não definido.5
+Tabela 11: Comparativo das condições e custo da planta referência (Raízen) e da planta em
+análise .................................................................................. Erro! Indicador não definido.6
+Tabela 12: Resumo CAPEX das rotas FT (valores em mil R$)Erro! Indicador não
+definido.7
+Tabela 13: Custo energético de cada etapa do processo de obtenção de etanol por tonelada
+de cana-de-açúcar ................................................................ Erro! Indicador não definido.8
+Tabela 14: Custo energético de cada etapa do processo de obtenção de etanol por litro de
+etanol .................................................................................... Erro! Indicador não definido.8
+Tabela 15: Demanda elétrica de cada etapa do processo de obtenção do bioquerosene
+............................................................................................. Erro! Indicador não definido.9
+Tabela 16: Dados técnicos da produção de etanol ............................................................. 50
+Tabela 17: Dados técnicos da produção de bioquerosene ................................................. 51
+Tabela 18: Dados temporais ............................................................................................... 51
+Tabela 19: Dados monetários ............................................... Erro! Indicador não definido.2
+Tabela 20: Quantidade e custos com pessoal, impostos, depreciação e condição de
+financiamento ....................................................................... Erro! Indicador não definido.3
+Tabela 21: Custos das plantas de produção de etanol e bioqueroseneErro! Indicador não
+definido.4
+Tabela 22: Gasto com utilidades e serviços ......................... Erro! Indicador não definido.4
+Tabela 23: Receitas das plantas de produção de etanol e bioqueroseneErro! Indicador não
+definido.5
+Tabela 24: Tabela de investimentos para as plantas de etanol e bioquerosene ............. Erro!
+Indicador não definido.6
+Tabela 25: Depreciação referente as máquinas, equipamentos, construções e instalações
+para planta de etanol ............................................................ Erro! Indicador não definido.6
+Tabela 26: Depreciação referente as máquinas, equipamentos, construções e instalações ...
+para a planta de
+bioquerosene...............................................................................................Erro! Indicador
+não definido.7
+Tabela 27: Dados do financiamento ..................................... Erro! Indicador não definido.7
+Tabela 28: Detalhamento do pagamento da dívida anual da planta de etanolErro! Indicador
+não definido.8
+Tabela 29: Detalhamento do pagamento da dívida anual da planta de bioquerosene .... Erro!
+Indicador não definido.
+Tabela 30: Custos fixos das plantas de etanol e bioquerosene no período de 20 anos .. Erro!
+Indicador não definido.9
+Tabela 31: Custos variáveis referentes a planta de etanol.................................................. 60
+Tabela 32: Custos variáveis referentes a planta de bioquerosene ...................................... 60
+Tabela 33: Receitas totais da planta de etanol ................................................................... 61
+Tabela 34: Receitas totais da planta de bioquerosene ........... Erro! Indicador não definido.
+Tabela 35: Demonstração de resultados (mil R$/ano) da planta de etanolErro! Indicador
+não definido.2
+Tabela 36: Demonstração de resultados (mil R$/ano) da planta de bioquerosene ......... Erro!
+Indicador não definido.2
+Tabela 37: VPL, TIR e Payback das plantas de etanol e bioqueroseneErro! Indicador não
+definido.3
+Tabela 38: Lucratividade (%) ao longo dos anos (1-20) para as plantas de etanol e
+bioquerosene ........................................................................ Erro! Indicador não definido.6
+Tabela 39: Divisão de custos das plantas de etanol e bioqueroseneErro! Indicador não
+definido.7
+SUMÁRIO
+1. INTRODUÇÃO ............................................................................................................ 11
+2. OBJETIVOS ................................................................................................................ 12
+2.1. Objetivo geral ......................................................................................................... 12
+2.2. Objetivos específicos ............................................................................................. 13
+3. REVISÃO BIBLIOGRÁFICA........................................................................................ 13
+3.1. Panorama geral do consumo de energia .............................................................. 13
+3.1.1. Mundo ................................................................................................................... 13
+3.1.2. Brasil..................................................................................................................... 15
+3.2. Biocombustíveis ..................................................................................................... 17
+3.3. A Indústria Cervejeira no Brasil ............................................................................ 20
+3.4. Bagaço de malte como resíduo e sua composição estrutural ............................ 22
+3.5. Processo de obtenção de Etanol 2G ..................................................................... 23
+3.5.1. Pré-tratamento ...................................................................................................... 24
+3.5.2. Hidrólise ................................................................................................................ 27
+3.5.3. Fermentação ......................................................................................................... 28
+3.6. Processo de obtenção de Bioquerosene .............................................................. 31
+4. METODOLOGIA .......................................................................................................... 35
+4.1. Condições selecionadas para a avaliação econômica dos processos .............. 35
+4.2. Obtenção de Etanol de Segunda Geração (E2G)..................................................34
+4.3. Obtenção de Bioquerosene de Aviação ............................................................... 39
+4.4. Dados quantitativos utilizados na avaliação econômica ..................................... 40
+4.4.1. Balanço de massa do processo de obtenção de E2G por rota química ................ 41
+4.4.2. Balanço de massa do processo de obtenção de bioquerosene a partir da rota de
+Fischer-Tropsch .................................................................................................................. 42
+4.5. Premissas monetárias consideradas na avaliação econômica .......................... 43
+4.5.1. Custos com reagentes e insumos ......................................................................... 43
+4.5.1.1. Etanol de segunda geração ............................................................................... 43
+4.5.1.2. Bioquerosene .................................................................................................... 44
+4.5.2. Despesas de capital (CAPEX) .............................................................................. 45
+4.5.2.1. Etanol de segunda geração ............................................................................... 45
+4.5.2.2. Bioquerosene .................................................................................................... 46
+4.5.3. Gastos energéticos ............................................................................................... 47
+4.5.3.1. Etanol de segunda geração ............................................................................... 47
+4.5.3.2. Bioquerosene .................................................................................................... 49
+4.5.4. Premissas para dimensionamento da planta ......................................................... 49
+5. CÁLCULOS E RESULTADOS OBTIDOS ................................................................... 54
+5.1. Custos ..................................................................................................................... 54
+5.2. Receitas .................................................................................................................. 55
+5.3. Investimentos ......................................................................................................... 55
+5.3.1. Depreciação.......................................................................................................... 56
+5.3.2. Financiamento ...................................................................................................... 57
+5.3.3. Pagamento da dívida ............................................................................................ 57
+5.4. Projetos – Receitas e Custos totais ...................................................................... 59
+5.4.1. Custos totais ......................................................................................................... 59
+5.4.2. Receitas totais ...................................................................................................... 61
+5.5. Demonstração de resultados ................................................................................ 61
+5.6. Indicadores financeiros ......................................................................................... 62
+5.7. Lucratividade .......................................................................................................... 65
+5.8. Divisão de custos ................................................................................................... 67
+6. CONCLUSÃO .............................................................................................................. 69
+7. REFERÊNCIAS BIBLIOGRÁFICAS ............................................................................ 70
+11
+1. INTRODUÇÃO
+Com o aumento da população mundial e a crescente necessidade de fontes
+energéticas para suprir a demanda, além das reservas limitadas e dos impactos
+ambientais decorrentes do uso de combustíveis fósseis, a busca por fontes de
+energia renovável tem se tornado uma das principais alternativas frente a esse
+cenário.
+O grande desafio desse tipo de combustíveis é a obtenção de uma tecnologia
+que seja economicamente viável, pois grande parte apresenta baixa competitividade
+frente aos combustíveis fósseis, que ainda possuem um valor baixo de produção e
+comercialização (SILVA, 2009).
+A busca por biocombustíveis levou primeiramente à geração de combustíveis
+como o etanol de primeira geração, obtido pela fermentação de açúcares extraídos
+de matérias-primas como a cana de açúcar, o milho e a beterraba (OGEDA e PETRI,
+2010). Porém, esse tipo de matéria-prima compete com a indústria alimentícia e
+também tem a necessidade de maior área de plantio para aumento da produção.
+Então, outra via para a produção de etanol surgiu, utilizando como matéria-prima os
+resíduos de natureza lignocelulósica, que são destinados principalmente à queima
+em caldeiras ou depositados em áreas inapropriadas (OLIVEIRA, 2017).
+Outros setores também necessitam da produção de biocombustíveis para
+alcançar objetivos específicos, como a indústria de aviação, que visa reduzir as
+contribuições do setor para as mudanças climáticas globais. Portanto, os membros
+da Associação Internacional de Transporte Aéreo (IATA), se comprometeram, em
+2009, com a redução de emissões de gases do efeito estufa (IATA, 2013). Para
+alcançar tais metas, a associação estabeleceu uma estratégia baseada em quatro
+melhorias: nas tecnologias para fuselagem e motores, uso de biocombustíveis,
+eficiência em operações de voos, melhorias do espaço e infraestrutura aérea, e o
+uso de instrumentos econômicos (VILT, 2018).
+Os materiais lignocelulósicos são oriundos de resíduos da agroindústria e de
+atividades da exploração florestal, sendo também o recurso orgânico mais abundante
+do mundo, representando a maior porção do carbono total fixado por fotossíntese.
+Como principais exemplos, destacam-se: o bagaço de cana de açúcar, o sabugo de
+milho, a palha de arroz, a palha de trigo, a casca de aveia e as aparas de eucalipto
+(ARISTIDOU e PENTTILA, 2000).
+12
+Uma das indústrias mais representativas no Brasil é o setor alimentício, que
+representou um faturamento de R$ 789,2 bilhões em 2020, somadas as exportações
+e as vendas para o mercado interno, resultado 12,8% superior ao registrado no ano
+de 2019. O montante representa cerca de 10,5% do Produto Interno Bruto (PIB)
+nacional (Associação Brasileira da Indústria de Alimentos - ABIA).
+Dentre essas indústrias, o setor cervejeiro é responsável por 1,6% do PIB
+nacional, com arrecadamento de 21 bilhões de reais de impostos ao ano. No total, o
+país possui 1.209 cervejarias registradas. É um mercado que em vinte anos cresceu
+19%, sendo que nos últimos 5 anos, a taxa de crescimento médio é de 36% (Anuário
+da Cerveja, 2019 - CervBrasil).
+Em comparação com os outros países do mundo, o Brasil ocupa a terceira
+posição no ranking de maiores produtores de cerveja, ficando atrás apenas da China
+e dos Estados Unidos (Kirin Global Beer Report, 2018).
+O principal resíduo da indústria cervejeira é o bagaço de malte ou BSG (do
+inglês "brewer's spent grain”), gerado na etapa de mosturação, que corresponde a
+85% de todos os resíduos gerados na produção (REINOLD, 1997). Esse bagaço é
+constituído basicamente das cascas da semente de cevada malteada, e se encontra
+disponível durante todo ano, em grandes quantidades e a um baixo custo
+(MUSSATTO et al., 2004). Na maioria das vezes é destinado para produção de ração
+animal. Porém, ele pode ser considerado uma alternativa para o setor energético
+para a produção de biocombustíveis líquidos de segunda geração. Além de
+inovadora, a utilização dessa biomassa resultante do processo cervejeiro pode trazer
+benefícios econômicos para a indústria e para o país no que se refere à produção de
+energia limpa e diminuição da emissão de gases de efeito estufa.
+2. OBJETIVOS
+2.1. Objetivo geral
+O objetivo principal deste trabalho é avaliar a viabilidade econômica da
+produção de etanol de segunda geração e de bioquerosene de aviação obtidos
+através do bagaço de malte, definindo o processo mais rentável/sustentável para
+destino desse resíduo.
+13
+2.2. Objetivos específicos
+● Definir a rota preferencial para a produção de etanol de segunda
+geração, utilizando como matéria-prima o bagaço de malte;
+● Definir a rota preferencial para a produção da bioquerosene, utilizando
+como matéria-prima o bagaço de malte;
+● Calcular gastos inerentes aos processos escolhidos, dos materiais e
+reagentes necessários e o valor do produto final obtido;
+● Verificar se os processos são economicamente viáveis e definir a
+melhor alternativa para o resíduo.
+3. REVISÃO BIBLIOGRÁFICA
+3.1. Panorama geral do consumo de energia
+3.1.1. Mundo
+Com o passar dos anos, a demanda mundial por energia cresce em velocidades
+cada vez maiores. Esse fenômeno está associado não só ao desenvolvimento
+tecnológico, mas também a questões sociais como a redução da pobreza,
+crescimento populacional e urbanização (DEMIRBAS, 2017). Como um indicativo
+desse cenário, no ano de 2017, registrou-se um aumento de 2,2% na demanda global
+por energia, número acima da média observada nos dez anos anteriores (BP
+Statistical Review of World Energy, 2018).
+Essa demanda de energia atualmente é sustentada pela matriz energética
+mundial, que é composta por recursos renováveis e não renováveis. Os recursos
+renováveis são aqueles considerados inesgotáveis e/ou capazes de se renovarem
+naturalmente ou com ajuda humana. Exemplos deles são a biomassa, a água, o
+vento, entre outros. Já os recursos não renováveis são limitados e dentre eles estão
+o petróleo e seus derivados. Apesar da existência de fontes renováveis, o consumo
+de energia através de fontes energéticas não renováveis ainda se destaca no mundo.
+14
+Se tratando de geração de energia elétrica, o consumo de fontes não renováveis para
+este fim se deu em torno de 72,6% nos países que compõe a Organização para a
+Cooperação e o Desenvolvimento Econômico (OCDE) no mundo no ano de 2018
+(IEA – Key electricity trends, 2018).
+As principais fontes de energia não renováveis utilizadas são o petróleo, o
+carvão e o gás natural. Apesar do aumento na utilização de formas renováveis de
+obtenção de energia, essas três fontes ainda estão entre as mais utilizadas no
+planeta, trazendo como consequência altas emissões de gases de efeito estufa
+(GEE) para a atmosfera. Segundo relatório anual da British-Petroleum, no ano de
+2019 o petróleo teve uma participação de 33% na matriz energética mundial, seguido
+pelo carvão e gás natural com parcelas de 27% e 24%, respectivamente, conforme
+demonstrado a seguir na Figura 1.
+Figura 1: Matriz energética mundial - Participação por fonte (%) em milhão toneladas equivalentes
+de petróleo – Fonte: Elaboração própria a partir de FGV Energia, BP Statistical Review 2020
+Em análise realizada pela Agência Internacional de Energia (International
+Energy Agency – IEA), no ano de 2018 os cinco principais países que mais utilizaram
+energia no mundo foram: República Popular da China, Estado Unidos da América,
+Índia, Rússia e Japão. A Figura 2 mostra que fontes de energia renovável ainda
+ocupam pouco espaço na matriz energética de tais países. Além disso, a presença
+de carvão, petróleo e gás natural conversam com os dados apresentados na figura
+fornecido pela BP no ano seguinte.
+1%1%1%2%4%6%24%27%33%0,0% 10,0% 20,0% 30,0%SolarOutrasBiocombustívelEólicaNuclearHidroelétricaGásCarvãoPetróleo
+15
+Figura 2: Utilização de energia nos cinco principais países consumidores em milhões de toneladas
+equivalente de petróleo – Fonte: Elaboração própria a partir de IEA, 2018
+Apesar da conjuntura mundial em relação ao consumo de fontes esgotáveis, a
+substituição do uso de fontes fósseis por fontes renováveis para obtenção de energia
+é pauta mundial há mais de 20 anos. Essa transição visa a redução na emissão de
+gases de efeito estufa (GEE) que afeta tão gravemente o planeta Terra. E, para
+alcançar esse objetivo, podem ser citados dois marcos históricos no que se refere a
+preservação ambiental: a realização da Conferência das Nações Unidas sobre o
+Meio Ambiente e Desenvolvimento (ECO 92) na cidade do Rio de Janeiro em 1992
+e a criação de um tratado internacional que tinha como finalidade alertar o mundo
+sobre o efeito estufa e o aquecimento global. Esse tratado é conhecido como
+Protocolo de Kyoto e foi assinado por diversos países, incluindo o Brasil, no ano de
+1997. Esses países assumiram o compromisso de seguir diretrizes que visassem a
+redução dos impactos ambientais causados, em grande parte, pelo grande volume
+de dióxido de carbono lançado na atmosfera.
+3.1.2. Brasil
+Ao se tratar da matriz energética brasileira, o cenário é consideravelmente
+diferente do que é observado no mundo. Isso porque, apesar de o Brasil ainda fazer
+uso de fontes não renováveis, as fontes renováveis ocupam um lugar de maior
+0 500 1000 1500 2000 2500 3000 3500JapãoRússiaÍndiaEUAChinaCarvãoPetróleoGás NaturalRenováveisOutros
+16
+destaque na produção e consumo energético brasileiro. Segundo dados publicados
+pela Empresa de Pesquisa Energética (EPE) no ano de 2020, a utilização de fontes
+inesgotáveis na matriz energética brasileira supera a utilização destas fontes na
+matriz energética mundial.
+Nesse contexto, por possuir uma grande extensão territorial com bacias
+hidrográficas localizadas em locais que favorecem o aproveitamento hidráulico, um
+clima tropical que faz com que na maior parte do ano haja disponibilidade de luz solar
+e a alta umidade que propicia a grande oferta de biomassa, oriunda da produção
+agrícola e/ou de resíduos vegetais, o Brasil dispõe de condições naturais favoráveis
+para investir em energia renovável. Além disso, políticas públicas como o Programa
+Brasileiro do Álcool Combustível (Pró-Álcool, 1976) e o Programa Nacional de
+Produção e Uso do Biodiesel (PNPB, 2004) possibilitaram ainda mais o
+desenvolvimento de novas formas de obtenção de energia.
+Segundo o relatório síntese sobre o Balanço Energético Nacional (BEN) de
+2020 (ano base 2019), o Brasil possui 46,1% de fontes renováveis em sua matriz
+energética, muito à frente do cenário mundial do ano de 2017, conforme demonstrado
+na Figura 3.. Essa parcela é composta por 18% de biomassa de cana de açúcar,
+12,4% de fontes hidráulicas, 8,7% de lenha e carvão vegetal e os 7,0% finais são
+oriundos de outras fontes renováveis como biodiesel, biogás e outras biomassas.
+Vale ressaltar que em relação a matriz elétrica brasileira, as fontes renováveis têm
+participação ainda maior (83,0%).
+Figura 3: Comparação entre a utilização de fontes renováveis e não renováveis do Brasil, mundo e
+OCDE - Fonte: Elaboração própria a partir de EPE, 2020
+0% 20% 40% 60% 80% 100%Brasil (2019)Brasil (2018)Mundo (2017)OCDE (2017)RenováveisNão renováveis
+17
+Além disso, convém frisar que o setor de transportes é um dos setores que mais
+consomem energia no país. Nesse mesmo ano avaliado, o consumo foi de 32,7%, o
+maior dentre todos os outros setores e superando o consumo da indústria em 2,3%.
+Já o setor de geração de energia elétrica e o consumo nas residências vieram em
+terceiro e quarto lugar com 11,2% e 10,3%, respectivamente. Esses dados indicam
+a relevância do estabelecimento de novas tecnologias e incentivos para a utilização
+de biocombustíveis na área de transportes, já que a mesma é responsável por uma
+fatia considerável do consumo total e possui um grande potencial para redução desse
+gasto e oportunidades tecnológicas para adoção de consumo mais limpo e
+sustentável.
+Devido à alta demanda por energia e a importância de mitigar os problemas
+ambientais causados pela queima de combustíveis fósseis, há alguns anos vêm
+sendo estudadas alternativas de produção de energia para serem utilizadas nos mais
+diferentes setores de consumo e que impactem menos ao meio ambiente. Dentre as
+possibilidades estudadas e aplicadas hoje estão a obtenção de energia através da
+luz solar (fotovoltaica), vento (eólica), água (hidrelétricas) e dos biocombustíveis.
+3.2. Biocombustíveis
+Os biocombustíveis são combustíveis oriundos de matérias agrícolas como
+plantas oleaginosas - soja, dendê, mamona, entre outras - ou biomassas florestais.
+A economia global voltada para a geração de biocombustíveis foi iniciada com a
+utilização de grãos, cana-de-açúcar e óleos vegetais como matéria-prima e a esses
+biocombustíveis foi dada a classificação de primeira geração (1G). Entretanto, devido
+à competição entre o setor energético e o de alimentos, os biocombustíveis
+começaram a ser produzidos a partir de resíduos florestais agrícolas e coprodutos,
+conhecidos como resíduos lignocelulósicos. Os combustíveis obtidos a partir dessas
+fontes são ditos biocombustíveis de segunda geração (2G) (MOHR e RAMAN, 2013).
+Hoje, dentre os biocombustíveis que possuem maior destaque estão o etanol e
+o biodiesel. O primeiro é comumente produzido da cana-de-açúcar ou do milho e é
+bastante utilizado em veículos como automóveis e motocicletas. Já o segundo, é
+produzido a partir de gordura animal ou óleos vegetais e utilizado, principalmente,
+em veículos pesados como caminhões e ônibus. Além deles, outro biocombustível
+que possui potencial, mas que não tem avançado em termos de utilização é o
+18
+bioquerosene. Sua aplicação, que está muito associada ao mercado de aviação,
+ainda apresenta limitações. Segundo Pedro Scorza, diretor de Biocombustíveis para
+Aviação da União Brasileira do Biodiesel e Bioquerosene (Ubrabio), o problema para
+a baixa utilização deste biocombustível é mercadológico. O custo do bioquerosene
+final não é competitivo com o obtido a partir de fonte fóssil. Sabendo disso e que o
+uso de querosene corresponde a uma grande parcela dos custos das companhias
+de aviação, é necessário estimular o desenvolvimento de novas tecnologias para
+aumento de escala da produção desse recurso.
+Segundo a BP Statistical Review of World Energy publicada em 2018, a
+produção mundial de biocombustíveis aumentou cerca de 3,5% no ano de 2017.
+Dentre os países que mais se destacaram em relação à produção de biocombustíveis
+no ano analisado, os Estados Unidos produziram cerca de 43,9% do volume total
+gerado a nível mundial, seguido do Brasil com 21,95% e Alemanha com 3,91%. Em
+relação ao tipo de biocombustível, etanol e biodiesel foram os que mais contribuíram
+para esses números e mostraram um considerável aumento em comparação ao ano
+de 2007. Destaque para o volume de etanol nos países da América do Norte e
+Biodiesel nos países das Américas do Sul e Central, como detalhado na Figura 4.
+Figura 4: Produção de biocombustíveis em milhões de toneladas equivalentes de petróleo - Fonte:
+Elaboração própria a partir de BP Statistical Review of World Energy, 2018
+0
+10
+20
+30
+40
+Etanol 2007
+Etanol 2017
+Biodiesel 2007
+Biodiesel 2017América do NorteAmérica do Sul e CentralEuropaResto do Mundo
+19
+Em relação à produção de etanol, biocombustível mais produzido no mundo,
+algumas ponderações a respeito dos aspectos econômicos e tecnológicos podem
+ser feitas comparando a produção desse biocombustível de primeira (E1G) e
+segunda geração (E2G). Em relação às características de produto final, o etanol de
+ambas as gerações é equivalente. Consequentemente, ambos combustíveis
+desfrutam das mesmas vantagens do mercado em crescimento e da demanda.
+Apesar disso, os dois possuem custos produtivos diferenciados, sendo a produção
+de um litro de E1G ligeiramente mais barata do que a mesma quantidade do E2G.
+Esse aspecto pode estar associado às diferenças entre a tecnologia utilizada para a
+produção, visto que a tecnologia utilizada para obtenção do E2G é mais complexa, e
+há a necessidade de maior quantidade de mão de obra especializada para a sua
+produção (SENNA, 2016).
+Apesar das limitações apresentadas, a utilização de biomassas lignocelulósicas
+para obtenção de biocombustíveis de segunda geração ainda é prioridade (HO et al.,
+2014) e precisa continuar em desenvolvimento para tornar mais acessível e
+economicamente viável a sua utilização. O aumento do interesse na utilização de
+matérias-primas de segunda geração para produção de biocombustíveis também
+pode ser relacionado ao fato de que, enquanto os classificados como primeira
+geração reduzem a emissão de CO2 em cerca de 60% quando comparado à gasolina,
+a redução da emissão pode chegar a 90% na utilização dos biocombustíveis de
+segunda geração (Laboratório Nacional de Ciência e Tecnologia do Bioetanol
+(CTBE)). Além disso, há vantagens logísticas ligadas à sua utilização, já que os
+insumos necessários para a produção dos biocombustíveis de segunda geração são
+sub ou coprodutos da produção dos classificados como primeira geração e, por isso,
+já se encontrariam na própria unidade de produção.
+As pesquisas para utilização de diferentes tipos de biomassas na produção de
+biocombustíveis líquidos crescem com o passar dos anos devido à necessidade de
+novas rotas sintéticas e tecnológicas. Hoje, a utilização de microalgas e bagaços
+oriundos de diferentes materiais vegetais são os que mais se destacam em razão da
+disponibilidade de tais insumos. No caso dos bagaços, esses podem ser
+provenientes da cana-de-açúcar, sorgo, milho, malte de cevada, entre outros. A
+indústria de alimentos e bens de consumo possuem um papel fundamental no
+desenvolvimento desses biocombustíveis, podendo contribuir não só com a matéria-
+20
+prima necessária para a produção, que muitas vezes é resíduo da sua manufatura,
+mas também no apoio à pesquisa e desenvolvimento de novas tecnologias.
+Segundo a Associação Brasileira da Indústria de Alimentos (ABIA) em seu
+balanço publicado no ano de 2020, a indústria brasileira de alimentos e bebidas
+processa 58% de toda produção agropecuária do país. Com isso, esse setor também
+é responsável por grande parte dos resíduos vegetais gerados e que possuem
+potencial de reaproveitamento para geração de produtos com maior valor agregado.
+A indústria cervejeira está fortemente presente no Brasil e pode não só ser uma
+grande contribuidora para o avanço no desenvolvimento de energia limpa, como
+também pode tirar vantagens econômicas desse cenário.
+3.3. A Indústria Cervejeira no Brasil
+A produção de cervejas no Brasil iniciou-se de maneira artesanal por volta do
+ano de 1830 e tinha como finalidade o consumo próprio, já que a importação desse
+líquido se tornou praticamente impossível devido aos altos preços. Essa forma de
+produção durou até 1850, quando pequenas cervejarias foram surgindo em território
+nacional, sendo a Cervejaria Bohemia pioneira (1853), seguida da criação da
+Cervejaria Brahma (1888) e Antárctica (1889) (Instituto da Cerveja, 2017).
+Desde então, a produção de cervejas no Brasil foi ganhando espaço e o número
+de cervejarias, sejam elas de pequeno, médio ou grande porte, foi crescendo.
+Segundo o Anuário da Cerveja, publicado no ano de 2020 pelo Ministério da
+Agricultura - Pecuária e Abastecimento (MAPA), foram registradas junto ao ministério
+o total de 1209 cervejarias no país. Durante os últimos vinte anos houve um aumento
+médio de quase 20% ao ano. Do total do último registro, 320 unidades foram criadas
+entre os anos de 2018 e 2019, mostrando o quanto este é um mercado em expansão
+no país, conforme exemplificado na Figura 5.
+21
+Figura 5: Número de registros de cervejarias por ano – Fonte: Elaboração própria a partir de
+Anuário da Cerveja - MAPA, 2020
+Além disso, pode-se destacar também a presença acentuada dessas
+cervejarias nas regiões sul e sudeste do país. Cerca de 80% dos estabelecimentos
+registrados ficam localizados nessa região, fato que pode ser associado não apenas
+a grande concentração de consumidores da bebida fermentada, mas também pela
+forte presença da produção de cereais. Ainda seguindo essa análise, pode-se dizer
+que a localização das cervejarias no país é desigual e pode ser considerada uma
+oportunidade para crescimento, conforme demonstrado na Figura 6.
+Figura 6: Mapa de símbolos pontuais proporcionais com a distribuição das cervejarias no Brasil por
+município – Fonte: Anuário da Cerveja, MAPA, 2020
+020040060080010001200Nº DE CERVEJARIAS
+22
+Junto ao aumento do número de estabelecimentos cervejeiros, cresce também
+a quantidade de resíduos sólidos gerados por essas indústrias. Dentre eles, o bagaço
+de cevada – também chamado de bagaço de malte – corresponde a 85% do total de
+subprodutos produzidos (COSTA et al., 2006). Por possuir um grande potencial para
+ser utilizado como ingrediente nas rações animais, hoje o destino desse material para
+cervejarias como a Ambev é a alimentação animal. Sendo esse bagaço vendido
+úmido ou seco, onde a segunda opção é a que possui maior valor agregado.
+Associando à grande demanda por energia no país, uma alternativa para o setor
+energético é a utilização desse resíduo volumoso da indústria cervejeira como
+matéria-prima para a produção de biocombustíveis líquidos. Além de inovadora, a
+utilização dessa biomassa resultante do processo cervejeiro poderá trazer benefícios
+econômicos para a indústria e para o país no que se refere à produção de energia
+limpa e diminuição da emissão de gases de efeito estufa.
+3.4. Bagaço de Malte como resíduo e sua composição estrutural
+O bagaço de malte é o principal subproduto resultante do processo de
+fabricação de cervejas, sendo gerado de 14-20 kg a cada 100 litros de cerveja
+produzida, o que corresponde a 85% do total de subprodutos. Segundo relatório
+anual da Ambev, no ano de 2020 foram produzidos cerca de 84 milhões de hectolitros
+e, consequentemente, foram gerados mais de 1,27 milhões de toneladas de bagaço
+de malte. Apesar da grande quantidade gerada e baixo custo, seu uso ainda é
+limitado, sendo destinado principalmente para ração animal (TANG et al., 2009).
+Esse resíduo consiste basicamente na casca do grão de cevada, obtida após a
+preparação do mosto. Por isso, sua composição pode variar de acordo com o tipo de
+cevada utilizada na produção, época de colheita, condições de maltagem e
+mosturação e a qualidade e tipo de aditivos no processo de fermentação (MUSSATO
+e ROBERTO, 2006).
+Os principais constituintes desse subproduto são as partes insolúveis do malte,
+assim como cascas, farelos e resíduos de endosperma da semente germinada.
+(OHRA-AHO et al., 2016). É uma biomassa lignocelulósica, que possui como
+principais constituintes: lignina, celulose, hemicelulose e proteínas. A Tabela 1 a
+seguir foi obtida na literatura, onde foram analisadas quatro amostras de bagaço de
+malte de diferentes cervejarias.
+23
+Tabela 1: Composição dos principais constituintes de 4 tipos de BSG de diferentes indústrias
+cervejeiras – Fonte: Elaboração própria a partir de BOUGRIER et al, 2018
+% BSG 1 BSG 2 BSG 3 BSG 4
+Lignina 11,9 7,9 5,1 5,9
+Celulose 21,8 23,8 20,0 17,4
+Hemicelulose 29,9 30,8 38,7 36,3
+Proteínas 24,0 25,0 24,0 25,0
+Devido a sua composição, o bagaço de malte tem grande potencial para ser
+uma matéria-prima com baixo preço para produção de etanol, devido à alta
+porcentagem de açúcares fermentáveis e nitrogênio, não necessitando de adição de
+outros nutrientes (PINHEIRO et al., 2019).
+Uma das grandes desvantagens quando comparamos as biorrefinarias frente
+às refinarias de petróleo, se deve ao fato da disponibilidade sazonal de diversas
+biomassas. A vantagem do bagaço de malte é a produção contínua, de larga escala
+e sem regionalização de indústrias (MENON e RAO, 2012).
+3.5. Processo de obtenção de Etanol 2G
+O etanol, também chamado de álcool etílico, é um composto orgânico de
+fórmula molecular C2H5OH, produzido desde os tempos antigos pela fermentação
+dos açúcares encontrados em produtos vegetais como a cana-de-açúcar, beterraba
+e cereais. Atualmente, grande parte do etanol é produzido por meio da fermentação,
+embora também seja feito de forma sintética através do eteno derivado do petróleo
+(BASTOS, 2017).
+A produção do etanol de segunda geração possui, no geral, quatro principais
+etapas: pré-tratamento da biomassa, hidrólise, fermentação e separação pelo
+processo de destilação. Esses processos podem acontecer de formas separadas ou
+concomitantes.
+24
+3.5.1. Pré-tratamento
+Os materiais lignocelulósicos são formados majoritariamente por celulose e
+hemicelulose, que são os polissacarídeos, ligados por ligações covalentes e de
+hidrogênio com a lignina, formada por álcoois aromáticos (LEE, 1997). Internamente,
+as fibrilas da fração celulósica encontram-se dispostas como espirais, de forma a
+conferir força e flexibilidade ao material. Esta fração encontra-se envolvida pela
+lignina, cuja função é aumentar a resistência da estrutura a ataques químicos e
+enzimáticos. A terceira e última fração principal, a hemicelulose, atua como um elo
+químico entre a celulose e a lignina. Estas características resultam em materiais
+flexíveis, porém altamente resistentes a espécies químicas (CASTRO, 2010).
+Então, o pré-tratamento visa aumentar a área superficial da celulose e reduzir
+sua cristalinidade, pois sem essa etapa, o rendimento do processo estaria
+comprometido devido às características estruturais da biomassa (HAMELINCK et al.,
+2005). O pré-tratamento pode ser físico, químico, biológico, ou até mesmo uma
+combinação entre esses métodos. As condições do processo variam de acordo com
+o tipo de matéria-prima, o rendimento e a integridade dos produtos de interesse
+(GALBE e ZACHI, 2002).
+Geralmente, a primeira etapa utilizada é o pré-tratamento físico, visando
+aumentar a acessibilidade à celulose por meio de mudanças na estrutura da
+biomassa como o aumento da área superficial, desfibrilação e algumas vezes a
+redução do grau de polimerização e da cristalização, sem alterar sua composição
+química (ALVIRA et al., 2010). Utilizando esse tipo de pré-tratamento, evita-se alguns
+problemas como a formação de inibidores, a necessidade de lavagem e
+neutralização do material pré-tratado, além de ser facilitado pelo baixo tempo de
+residência e uso de temperaturas moderadas (MORO et al., 2017).
+Entre os tipos mais comuns, podemos citar: moagem, extrusão, radiação de
+micro-ondas e congelamento, entre outros. A partir da fragmentação mecânica, o
+tamanho da biomassa lignocelulósica é diminuído e isso pode ser feito por uma
+combinação de lascagem, trituração e moagem. O tamanho dos materiais são,
+normalmente, de 10 a 30 mm após o lascamento e de 0,2 a 2 mm após a moagem
+ou trituração (CHENG e SUNG, 2002). Esses processos físicos são comumente
+utilizados em conjunto com outros processos, devido a sua baixa efetividade quando
+é o único tipo de pré-tratamento usado (MOOD et al., 2013). O pré-tratamento físico
+25
+para biomassa mais estudado é o processo de moagem, principalmente utilizando o
+moinho de bolas e o moinho de discos (SILVA et al., 2013).
+A moagem de bolas consiste no cisalhamento mecânico em um tambor rotatório
+com bolas de diferentes tamanhos que podem ser feitas de diversos materiais
+(tungstênio, cerâmica ou aço inoxidável), e pode ser feito no estado úmido ou seco.
+O efeito da moagem de bolas no tamanho da partícula de biomassa, estrutura e grau
+cristalino depende da velocidade de rotação, tempo de operação e tamanho da bola
+(SILVA et al., 2013). O cisalhamento gerado entre as esferas devido à rotação do
+tambor é responsável pela redução do tamanho das partículas e da cristalinidade,
+aumentando a sacarificação da celulose (SILVA et al., 2012). A celulose altamente
+cristalina tem uma forte estrutura de ligação de hidrogênio entre as cadeias, que
+confere uma alta resistência à hidrólise, enquanto a celulose amorfa é mais
+facilmente sacarificada (NISHIYAMA et al., 2002). Entre suas principais vantagens,
+destaca-se a manutenção da composição química do material não tratado e também
+o fato de não haver geração de frações líquidas, gases ou inibidores. No entanto, os
+processos de moagem são conhecidos por possuírem um alto consumo de energia,
+dependendo das características do material e do tamanho da partícula desejada ao
+fim do processo (AGUIAR e RIBEIRO, 2017).
+A moagem úmida com discos (wet disk milling) é um tipo de triturador que pode
+ser usado para moer, cortar ou cisalhar a biomassa. Em geral, o material em
+suspensão é alimentado entre os discos ou placas, que podem ser ranhuradas,
+serrilhadas ou pontiagudas (SILVA et al, 2013). A força aplicada no material vai
+depender do tipo de disco, a distância entre os discos e sua velocidade de rotação.
+O processo pode ser repetido de acordo com o tamanho de partícula necessário
+(ENDO et al., 2008). Apesar de apresentarem rendimentos menores que a moagem
+em moinho de bolas, a moagem de discos apresenta menor consumo energético
+dentre as demais (HIDENO et al., 2008).
+Dos vários processos descritos na literatura, os pré-tratamentos químicos são
+os mais utilizados, e são baseados no emprego de ácidos ou bases associados à
+temperatura, com o propósito de degradar a estrutura associativa da lignocelulose
+(BRODEUR et al., 2011). As diferenças entre estes dois tipos de pré-tratamentos
+estão relacionadas aos agentes químicos utilizados e aos mecanismos responsáveis
+pelas modificações estruturais e químicas da parede celular (SILVA et al., 2014).
+26
+Os pré-tratamentos catalisados por ácidos têm sido amplamente utilizados e
+são considerados um dos mais efetivos, além de economicamente viáveis (PANDEY
+et al., 2000). Como reagentes, podem ser utilizados ácidos concentrados ou diluídos.
+Então, há uma diversidade de espécies utilizadas, onde os ácidos clorídrico e
+sulfúrico têm sido os mais utilizados devido à sua alta eficiência (CARDONA et al.,
+2010). Outros ácidos também podem ser utilizados, como os ácidos nítrico, fosfórico,
+peracético e oxálico (SINGH et al., 2015).
+Os processos que envolvem ácidos concentrados são operados em baixas
+temperaturas e produzem maiores rendimentos, porém as grandes quantidades de
+ácidos usados causam problemas, como formação de inibidores, corrosão dos
+equipamentos, alto custo de operação e manutenção (BEHERA et al., 2014). Além
+das desvantagens já citadas, o tratamento ácido requer uma etapa adicional para
+neutralizar a biomassa ao final do processo e eliminar os inibidores formados (SILVA
+et al., 2013). Se o processo for feito utilizando ácido diluído, são necessárias maiores
+temperaturas para melhorar a eficiência da reação, devido à elevada cristalinidade
+dos polissacarídeos (GROSSI, 2015).
+Inicialmente, a primeira etapa ácida promove a hidrólise da hemicelulose e
+outros polissacarídeos a monossacarídeos, como xilose, manose, galactose, glicose,
+entre outros. Como a hemicelulose é constituída principalmente de xilana, o principal
+produto do tratamento ácido é a xilose (CAMARGO e RODRIGUES, 2008). A
+remoção da fração hemicelulósica torna a celulose mais acessível o que, geralmente,
+resulta em elevados rendimentos de hidrólise para este pré-tratamento (BALAT et al.,
+2007).
+Em seguida, usa-se o pré-tratamento básico, para remover a fração de lignina,
+para finalmente expor a celulose para posterior hidrólise (MOOD et al., 2013). Há a
+destruição da estrutura rígida da lignina através da base, aumentando a porosidade
+da celulose e reduzindo seu grau de polimerização e cristalinidade (ZHANG et al.,
+2012). As bases mais empregadas são hidróxido de sódio, hidróxido de cálcio, uréia
+e amônia, sendo o hidróxido de sódio diluído o mais utilizado e também mais
+vantajoso devido a seu baixo custo e fácil acesso. O tratamento básico tem a
+vantagem de requerer condições de temperatura e pressão amenas e a degradação
+dos açúcares é menos intensa comparada com o tratamento ácido (ZHANG et al.,
+2012). Porém, esse tipo de pré-tratamento requer um longo tempo de residência,
+27
+podendo ser de horas e até dias, e necessitam de neutralização da lama formada ao
+final do processo (MOOD et al., 2013).
+3.5.2. Hidrólise
+A etapa de hidrólise consiste em expor a celulose a um produto químico, em
+uma dada temperatura, e por um período de tempo específico, para se obter
+monômeros de açúcar a partir dos polímeros presentes após o pré-tratamento
+(TAHERZADEH e KARIMI, 2007). A hidrólise ácida tem o ácido sulfúrico como o
+catalisador mais utilizado, embora quando necessários ácidos minerais fortes, outros
+como o ácido clorídrico, o ácido nítrico e os ácidos trifluoracéticos (TFA) possam ser
+utilizados. Para o processo com ácidos diluídos, utilizam-se ácido fosfórico e também
+ácidos orgânicos fracos (GÍRIO et al., 2010).
+Durante o pré-tratamento, boa parte da camada de hemicelulose é hidrolisada,
+então na etapa de hidrólise, temperaturas mais elevadas são aplicadas a fim de
+intensificar a quebra da celulose. O catalisador ácido utilizado age de maneira rápida
+na conversão da celulose em hexoses e, portanto, a reação deve ser controlada para
+evitar a formação de produtos indesejáveis e inibidores do processo. (GURGEL,
+2010). A concentração do ácido é um fator importante na reação, pois quando esta
+concentração é elevada, a conversão da celulose ocorre de maneira mais rápida
+(NEUREITER et al., 2002). A hemicelulose geralmente é muito mais suscetível à
+hidrólise ácida do que a celulose, e a taxa de conversão em condições relativamente
+amenas pode chegar a 85%, sendo que apenas uma pequena parte de celulose é
+convertida em glicose nessas condições. Então, para se otimizar a taxa de
+conversão, a etapa de hidrólise da celulose é feita em condições mais severas, com
+incremento na pressão e temperatura (XIANG, 2002).
+A Tabela 2 faz uma comparação entre as características da hidrólise com ácido
+diluído e da hidrólise com ácido concentrado.
+28
+Tabela 2: Comparação entre hidrólise com ácido diluído e com ácido concentrado – Fonte:
+Elaboração própria a partir de MARTINS, 2018
+Hidrólise com
+ácido diluído
+Hidrólise com
+ácido concentrado Fonte
+Consumo de ácido Menor Maior Girio F. M. et al., 2010
+Problemas com corrosão
+de equipamentos Menor Maior Girio F. M. et al., 2010
+Energia necessária para
+recuperação do ácido Menor Maior Girio F. M. et al., 2010
+Tempo de reação Menor Maior Balat, 2008; Zabed et al., 2016
+Conversão Menor Maior Balat, 2008; Zabed et al., 2016
+Degradação dos
+açúcares gerados Maior Menor Balat, 2008; Zabed et al., 2016
+Temperatura do
+processo Alta Moderada Balat, 2008; Zabed et al., 2016
+Apesar do desenvolvimento tecnológico alcançado nos últimos anos e dos
+esforços realizados na otimização do processo, as etapas de pré-tratamento e
+hidrólise continuam sendo o grande obstáculo econômico da produção do etanol de
+segunda geração (HOWARD et al., 2003).
+3.5.3. Fermentação
+A próxima etapa, consiste na fermentação da mistura, pela ação de
+microrganismos, onde o mais comum é a utilização da levedura Saccharomyces
+cerevisiae. Tais microrganismos vão degradar moléculas de glicose presentes no
+caldo, levando à produção de etanol e gás carbônico. O processo geralmente possui
+duração de várias horas e como produto final é produzido o vinho, ou vinho
+fermentado (CROSATTI, 2017).
+Entretanto, as etapas de hidrólise e fermentação podem ter diferentes
+configurações de processo visando otimizar alguns pontos do processo. Existem
+quatro configurações principais para o processo, que são: hidrólise enzimática
+separada da fermentação (SHF), hidrólise enzimática e fermentação simultâneas
+(SSF), hidrólise enzimática e co-fermentação simultâneas (SSCF) e bioprocesso
+consolidado (BPC).
+29
+Na SHF, os materiais pré-tratados são hidrolisados para obtenção de glicose e
+posteriormente são fermentados a etanol em unidades distintas, conforme
+demonstrado na Figura 7.
+Figura 7: Diagrama de blocos do processo de hidrólise separada da fermentação (SHF) – Fonte:
+HAMELINCK, et al., 2005
+A principal vantagem dessa configuração do processo, é a condução de cada
+etapa em sua condição ótima, visto que a temperatura ótima para as enzimas na
+etapa de hidrólise está entre 45 e 50ºC e a temperatura ideal para a fermentação
+está entre 30 e 37ºC (OLSSON et al., 2006).
+Entretanto, as desvantagens desse tipo de processo são: inibição do complexo
+de enzimas devido aos produtos finais da hidrólise (glicose e celobiose) e a
+possibilidade de contaminação devido à disponibilidade dos açúcares formados,
+dado que o tempo envolvido na etapa de hidrólise é longo (TAHERZADEH e KARIMI,
+2007).
+Na SSF, os materiais pré-tratados são hidrolisados a glicose e fermentados a
+etanol em uma mesma unidade, conforme demonstrado na Figura 8.
+Figura 8: Diagrama de blocos do processo de hidrólise e fermentação simultâneas (SSF) – Fonte:
+HAMELINCK, et al., 2005
+Como principal vantagem, é o rápido consumo da glicose formada na hidrólise
+pelo microrganismo fermentador, minimizando o risco de contaminação e
+30
+aumentando a atividade das celulases na hidrólise, visto que o produto formado está
+sendo prontamente fermentado. Há também um aumento de produtividade na
+formação de etanol, pois é necessária uma menor quantidade de enzimas no
+processo (McMILLAN et al., 1999).
+Entretanto, estes processos são conduzidos fora das condições ótimas de
+operação das enzimas, de modo que um ganho de rendimento devido à menor
+inibição enzimática pode ser contrabalançado por uma menor atividade das enzimas
+em razão das condições operacionais menos apropriadas à atividade catalítica.
+Microrganismos termotolerantes têm sido propostos para serem usados neste
+processo, dessa forma, seria possível aproximar a temperatura do processo à
+temperatura ótima de atividade das celulases (TAHERZADEH e KARIMI, 2007).
+Na SSCF, acontece a co-fermentação de ambos os açúcares, pentoses e
+hexoses, em uma mesma etapa, conforme demonstrado na Figura 9.
+Figura 9: Diagrama de blocos do processo de sacarificação e co-fermentação simultâneas (SSCF) –
+Fonte: HAMELINCK et al., 2005
+Neste sentido, o hidrolisado hemicelulósico e a celulose não são separados
+após a etapa de pré-tratamento, permitindo que os açúcares da hemicelulose sejam
+convertidos a etanol juntamente com a sacarificação e fermentação do hidrolisado
+celulósico (TEIXEIRA et al., 2000).
+No BPC, as etapas de produção de celulases, hidrólise enzimática e a
+fermentação de pentoses e hexoses são feitas por um mesmo microrganismo. É
+necessária a intervenção da biologia molecular, visando conferir a um único
+microrganismo as características necessárias para fermentar ambos os açúcares. O
+processo é demonstrado na Figura 10.
+31
+Figura 10: Diagrama de blocos do processo consolidado para a produção de etanol de segunda
+geração (BPC) - Fonte: HAMELINCK et al., 2005
+Essa configuração permitiria a redução dos custos de produção, apresentandose como a ideal a ser atingida. Contudo, esse tipo de processo ainda não foi
+desenvolvido a nível industrial com os microrganismos disponíveis atualmente, tais
+como Clostridium thermocellum e Clostridium cellulolyticum, necessitando-se do
+desenvolvimento de contínuas técnicas de engenharia genética para a construção
+de linhagens que possuam maiores níveis de expressão tanto de atividade
+enzimática quanto de fermentação (OLSON et al., 2012).
+Após a etapa de fermentação, o produto obtido é constituído de leveduras,
+açúcares que não foram fermentados e cerca de 10% de etanol. Como o etanol está
+misturado com outros componentes, é necessária sua separação da mistura. O vinho
+é colocado em colunas de destilação, onde é aquecido até a evaporação. Em
+seguida, ocorre a condensação do vapor, processo no qual o etanol é separado.
+Assim, tem-se o álcool hidratado, que é utilizado como combustível, com cerca de
+96% de teor alcoólico (NOVA CANA, 2016).
+3.6. Processo de obtenção de Bioquerosene
+A indústria mundial da aviação está constantemente buscando alternativas para
+mitigar as emissões de GEE, onde a meta até 2020 era o Crescimento Neutro em
+Carbono (CNG, na sigla em inglês) e uma redução de 50% nas emissões líquidas de
+CO2 sobre níveis atingidos em 2005, até 2050. Várias medidas estão sendo tomadas
+para atingir essa meta, entre elas pode-se citar o uso mais eficiente de combustíveis
+com turbinas melhoradas, projetos de aviões mais leves, gerenciamento avançado
+do espaço aéreo e combustíveis menos poluentes (BOEING, EMBRAER, FAPESP,
+2013).
+32
+Um dos principais requisitos dos biocombustíveis de aviação é que eles sejam
+drop-in, o que significa dizer que devem ser totalmente compatíveis e miscíveis com
+o combustível convencional. Logo, para utilização dos mesmos, não são necessárias
+adaptações nas aeronaves e nem restrições do seu uso (ROITMAN, 2018).
+O bioquerosene pode ser produzido através de diversos processos e matériasprimas, como biomassas lignocelulósicas, fontes sacarinas, amiláceas e óleos
+vegetais. No Brasil há um grande número de espécies nativas que produzem óleo
+em frutos e grãos, com diferentes potencialidades e adaptações naturais a distintas
+condições de clima e solo. Os desafios quanto ao uso das matérias-primas
+oleaginosas e às estratégias de desenvolvimento da cadeia de produção de
+bioquerosene de aviação no Brasil passam por gargalos tecnológicos, devido ao alto
+custo do processo (EMBRAPA, 2015).
+Até 2017, cinco rotas foram aprovadas pela American Society for Testing and
+Materials (ASTM) para a produção de combustível alternativo e diversas outras
+estavam em processo de certificação ou em fase de estudo (VILT, 2017). As rotas
+aprovadas são: querosene parafínico sintetizado por Fischer-Tropsch (rota FT);
+querosene parafínico sintetizado por hidroprocessamento de ésteres e ácidos graxos
+(rota HEFA); iso-parafinas sintetizadas por hidroprocessamento de açúcares
+fermentados (rota HFS-SIP); querosene parafínico sintetizado por Fischer-Tropsch
+com aromáticos (FT/A); querosene parafínico sintetizado a partir de álcoois – “Alcohol
+to Jet” (rota ATJ).
+Para sintetizar o biocombustível, tem-se como principais rotas: química,
+bioquímica e termoquímica. Na Tabela 3, estão apresentados os processos e as
+matérias-primas mais utilizados para cada rota.
+Tabela 3: Principais rotas, matérias-primas e processos utilizados na produção de biocombustíveis
+Rotas Matéria-prima Processo
+Conversão química Óleo vegetal Transesterificação/
+Hidrodesoxigenação
+Conversão bioquímica Cana de açúcar Fermentação
+Conversão termoquímica Biomassa celulósica Gaseificação - Processo de
+Fischer-Tropsch
+33
+As rotas química e bioquímica apresentadas acontecem por meio de
+transesterificação/hidrodesoxigenação e fermentação das suas respectivas
+matérias-primas, respectivamente. Já a rota termoquímica, trata-se de uma
+sequência de duas reações, sendo a primeira responsável pela produção do gás de
+síntese (mistura H2:CO), através da gaseificação de biomassa lignocelulósica, e a
+segunda pela conversão deste gás em bioquerosene, mediante a reação catalítica
+de Fischer-Tropsch. As fontes da biomassa que incluem resíduos agrícolas ou
+resíduos verdes urbanos são os mais indicados para a produção de biocombustíveis,
+sendo alternativas importantes para os combustíveis de origem fóssil (RAMOS et al.,
+2011).
+No processo Biomass to Liquid (BtL), a matéria-prima é decomposta
+primeiramente através da gaseificação, um processo de conversão termoquímica no
+qual a biomassa é aquecida a uma temperatura extremamente elevada, promovendo
+a quebra das moléculas, produzindo o gás de síntese. A matéria-prima inicialmente
+sofre uma oxidação parcial a temperaturas entre 800 e 1200 ºC. Este gás combustível
+posteriormente pode ser utilizado em equipamentos como turbinas a gás, motores
+alternativos de combustão interna - aplicados a conversão de potência - e podem-se
+obter também combustíveis líquidos (LORA, 2012). O objetivo da gaseificação é a
+obtenção do gás de síntese, porém, juntamente com este saem outros compostos,
+tais como metano, vapor d’água e gases provenientes da composição da matériaprima utilizada. A qualidade da composição dos produtos desta reação depende de
+alguns fatores como o tipo de reator, tempo de residência, as características físicoquímicas da biomassa e agentes de gaseificação (LORA 2012).
+Este, então, é convertido em hidrocarbonetos de cadeia longa (C5+) em fase
+líquida através do processo de Fischer-Tropsch (GUPTA et al., 2011). A reação de
+Fischer-Tropsch trata-se de um processo catalítico para a conversão de gás de
+síntese em uma ampla variedade de hidrocarbonetos de diversos pesos moleculares.
+Esta corrente de óleo bruto sintético (mistura de hidrocarbonetos) é chamada de
+“syncrude” (RAFIEE e HILLESTAD, 2012). As condições operacionais
+recomendadas são de 10 a 40 bar e de 150 a 300°C (GUELL et al, 2012). Para este
+processo, há diferentes catalisadores, porém, como estabelecido pela Resolução
+ANP nº 20, de 24.6.2013, para a produção de bioquerosene destinado a aviação,
+deve ser utilizado catalisador a base de ferro ou cobalto com o objetivo de direcionar
+o mecanismo da reação à formação de parafinas e olefinas.
+34
+As parafinas e as olefinas, então, são craqueados e isomerizados para produzir
+combustíveis líquidos essencialmente idênticos às isoparafinas presentes no
+combustível de origem fóssil, mas não incluem em sua composição compostos
+aromáticos, e, portanto, possui limite de mistura de 50% em volume, pois o QAV
+exige a presença mínima de 8% de aromáticos, segundo a resolução ANP. Contudo,
+utilizando a nafta, que é um coproduto do processo, através de uma etapa de
+reforma, pode-se produzir os aromáticos necessários à mistura, garantindo um
+bioquerosene capaz de substituir completamente o combustível fóssil (ROITMAN,
+2018).
+Identificou-se que as diferentes rotas tecnológicas estão em pleno
+desenvolvimento, sem que uma delas tenha sido especificamente escolhida para ser
+aquela que irá compor o mercado; algumas já certificadas pela ASTM para uso
+comercial em até uma mistura 50/50 com o querosene de origem fóssil, como as
+rotas por hidrodesoxigenação, a rota por Fischer-Tropsh e a rota bioquímica com a
+utilização de leveduras modificadas geneticamente. Todas elas indicam estar em
+fase de competição por mercados.
+Devido ao pouco tempo de estudo e produções ainda em pequena escala, há
+poucos dados na literatura para estimar os custos exatos do bioquerosene produzido
+por esses processos, bem como seu preço de venda em escala comercial. A Tabela
+4 compara diversas matérias-primas e três das rotas aprovadas, assim como a
+estimativa de alguns autores para os custos.
+Tabela 4: Custo de produção das principais rotas de produção de Bioquerosene – Fonte:
+Elaboração própria a partir de ICAO 2017 (continua)
+Rotas de produção Matéria-prima Custo (US$/L) Referência
+HEFA
+Óleo de carmelina 0,8 Natelson et al., 2015
+Óleo de palma 0,70-0,79 Hilbers et al., 2015
+Óleo de soja 1,01-1,16 Pearlson et al., 2013
+Óleo de cozinha usado 0,88-1,06 (PMV)* Seber et al., 2014
+Sebo 1,05-1,25 (PMV)* Seber et al., 2014
+Óleo residual 1,03 De Jong et al., 2015
+35
+Tabela 4: Custo de produção das principais rotas de produção de Bioquerosene – Fonte:
+Elaboração própria a partir de ICAO 2017 (conclusão)
+FT
+Palha de milho 0,9 Agusdinata et al., 2011
+Gramíneas 1,1 Agusdinata et al., 2011
+Lignocelulose 1,96 (PMV)* Diederichs et al., 2016
+Madeira 1,14-1,22 (PMV)* Zhu et al, 2011
+Madeira 1,13 Ekbon et al., 2009
+ATJ
+Etanol de cana de açúcar 1,56 (PMV)* Staples et al., 2014
+Etanol de milho 1,75 (PMV)* Staples et al., 2014
+Etanol de gramíneas 2,30 (PMV)* Staples et al., 2014
+Lignocelulose (gás de
+síntese) 1,80 (PMV)* Atsonios et al., 2015
+Lignocelulose (gás de
+síntese) 2,00 (PMV)* Diederichs et al., 2016
+Lignocelulose (gás de
+síntese) 2,76 (PMV)* Diederichs et al., 2016
+*PMV: Preço mínimo de venda
+A rota HEFA é apresentada como a de menor custo de produção se empregado
+o óleo de palma como matéria-prima, seguida do uso de óleo de camelina. Porém,
+devido ao preço da matéria-prima e a seu uso na indústria de alimentos, esse
+processo não é tão utilizado. Assim como a rota ATJ que apresenta custos
+relativamente superiores a partir de álcoois, devido à utilização de produtos
+comerciais para sua produção. Então, a rota mais estudada e utilizada atualmente é
+a rota FT, principalmente quando matérias-primas de menor valor são utilizadas.
+4. METODOLOGIA
+4.1. Condições selecionadas para a avaliação econômica dos
+processos
+Neste item serão apresentadas as condições, materiais e rotas tecnológicas
+selecionadas para obtenção dos biocombustíveis avaliados neste trabalho. As
+escolhas aqui listadas foram feitas com base nas informações contidas na literatura,
+36
+em dados coletados com representante da Cervejaria Ambev e, principalmente, nas
+experiências dos pesquisadores do Laboratório de Tecnologias Verdes – GreenTec.
+Tendo como base as informações apresentadas nos capítulos anteriores a
+respeito do aumento no uso de biomassas lignocelulósicas na obtenção
+biocombustíveis e no potencial de utilização de bagaço de malte, oriundo da etapa
+de mosturação na indústria cervejeira, como matéria-prima para tal, o presente
+trabalho irá considerar o uso deste material para obtenção de etanol de segunda
+geração e bioquerosene de aviação.
+4.2. Obtenção de Etanol de Segunda Geração (E2G)
+Em relação ao processo de obtenção de etanol de segunda geração, optou-se
+por considerar para este estudo a utilização da metodologia de hidrólise e
+fermentação separadas (SHF), onde a hidrólise dos componentes da biomassa
+lignocelulósica e a fermentação dos açúcares fermentescíveis ocorrem em reatores
+diferentes. Além disso, optou-se também em utilizar uma rota tecnológica composta
+por processos químicos.
+Antes de tudo, a primeira etapa a ser realizada neste processo é a etapa de
+moagem. Esta funciona como pré-tratamento físico onde é obtido um material com
+menor tamanho de partícula e mais uniforme, aspecto que permite alcançar melhores
+rendimentos nas etapas seguintes, já que torna os componentes do material
+lignocelulósico mais disponíveis/expostos.
+Após a moagem, a biomassa segue para a etapa de hidrólise ácida da
+hemicelulose, onde é considerado o uso de ácido sulfúrico 0,8% m/m (em relação à
+massa de biomassa seca) em uma relação sólido líquido igual a 1:4 e temperatura
+igual a 120ºC durante 30 minutos em reator autoclave. O resultado dessa hidrólise é
+a obtenção de um hidrolisado hemicelulósico (líquido) e a celulignina (sólido), que
+são separados através da etapa de prensagem.
+O hidrolisado hemicelulósico, por conter pentoses e hexoses (xilose e glicose,
+majoritariamente), segue para a etapa de fermentação onde é considerada a
+utilização da levedura floculante Pichia stipitis, que é capaz de fermentar ambos os
+tipos de açúcares, a uma concentração celular inicial igual a 10 g.L-1. Já a celulignina
+é encaminhada para a etapa de deslignificação, que nada mais é do que uma
+hidrólise alcalina para remoção da lignina e extração da fração celulósica contida na
+37
+biomassa. Nessa etapa, considera-se o uso de hidróxido de sódio 1,0% m/m (em
+relação à massa de biomassa seca) em uma relação sólido:líquido igual a 1:20 e
+temperatura igual a 100ºC durante 30 minutos em reator autoclave. O produto dessa
+etapa é separado, através de mais uma etapa de prensagem, em uma fração de
+lignina e outra de celulose, sendo a primeira um resíduo que pode ser reaproveitado
+e a segunda a matéria-prima para a próxima etapa do processo de obtenção do E2G.
+A fração celulósica extraída é encaminhada para a etapa de hidrólise ácida.
+Neste ponto, considera-se novamente o uso de ácido sulfúrico, mas desta vez a uma
+concentração igual a 2,0% m/m (em relação à massa de biomassa seca) em uma
+relação mássica de sólido:líquido igual a 1:4 e temperatura igual a 120°C durante 30
+minutos em reator autoclave. Após essa etapa, obtém-se o hidrolisado celulósico,
+que é composto basicamente por glicose. Sendo assim, esse hidrolisado é
+encaminhado para a etapa de fermentação, onde, dessa vez, considera-se a
+utilização da Saccharomyces cerevisiae, principal micro-organismo utilizado em
+processos industriais de fermentação alcoólica e que consome, preferencialmente,
+glicose como fonte de carbono. Assim como na fermentação do hidrolisado
+hemicelulósico, considera-se uma concentração celular inicial igual a 10 g.L-1.
+Por fim, após as duas etapas de fermentação, o produto fermentado é
+encaminhado para a etapa de destilação. Nesta última etapa, objetiva-se obter o
+álcool hidratado (94,5% mín.).
+O procedimento descrito anteriormente é resumido no diagrama de blocos
+apresentado na Figura 11.
+38
+Figura 11: Diagrama de blocos do processo de obtenção de etanol de segunda geração
+A Tabela 5 apresenta um resumo dos reagentes, temperatura, tempo e relação
+sólido:líquido de cada etapa do processo de obtenção do etanol de segunda geração.
+Tabela 5: Resumo das condições das etapas do processo de obtenção de etanol de segunda
+geração– Fonte: Elaboração própria a partir de VIANA, 2017
+Etapas Reagentes
+(m/m) Temperatura (ºC) Tempo
+(min)
+Relação
+sólido:líquido
+Hidrólise ácida da
+hemicelulose
+Ácido sulfúrico
+0,8% 120 30 1:4
+Deslignificação Hidróxido de
+sódio 1,0% 100 30 1:20
+Hidrólise ácida da
+celulose
+Ácido sulfúrico
+2,0% m/m 120 30 1:4
+Fermentação Micro-organismos: Pichia stipitis e Saccharomyces cerevisiae com
+concentração inicial igual a 10g/L
+Cabe ressaltar que as condições operacionais aqui explicitadas foram
+selecionadas com base em estudos realizados no Laboratório de Tecnologias Verdes
+– GreenTec (VIANA, 2017). Essas condições são comumente empregadas em
+39
+materiais de composição lignocelulósica e podem ser ainda otimizadas para
+obtenção de melhores resultados.
+4.3. Obtenção de Bioquerosene de Aviação
+Dentre as rotas de obtenção de bioquerosene aprovadas pela American Society
+for Testing and Materials (ASTM), a rota que será abordada neste trabalho é a de
+Fischer-Tropsch para conversão do bagaço de malte em querosene parafínico
+hidroprocessado. Devido ao fato desse processo ser baseado na gaseificação da
+biomassa e conversão do gás formado em líquido, ele também recebe o nome BtL,
+do inglês Biomass to Liquid.
+A primeira etapa desse processo é a gaseificação da biomassa, onde o material
+lignocelulósico, a partir de uma conversão termoquímica, é transformado em gás de
+síntese (mistura de H2:CO). Essa etapa pode ser dividida em quatro sub-etapas:
+secagem, pirólise, combustão e redução.
+Secagem: processo endotérmico onde o calor da combustão é captado e
+utilizado para a evaporação da água presente na estrutura da biomassa. Essa
+umidade é removida a 160°C.
+Pirólise: consiste na remoção dos voláteis presentes na biomassa.
+Componentes termicamente instáveis, como a lignina, são quebrados e evaporados
+durante esse processo que inicia em temperaturas entre 230°C e 350°C, podendo
+alcançar 1000°C.
+Combustão: etapa que consiste na oxidação do material lignocelulósico e é
+responsável por fornecer o calor necessário para as próximas etapas.
+Redução (gaseificação): composta por reações endotérmicas que ditam a
+composição final do gás de síntese.
+Cabe ressaltar que as reações de redução dependem do tipo de agente
+gaseificante utilizado. Neste trabalho optou-se por considerar a gaseificação a vapor
+devido à geração de elevada concentração de hidrogênio e a ausência de nitrogênio.
+Após essa primeira etapa, o gás de síntese gerado é encaminhado para etapa
+de remoção de contaminantes. Em seguida, esse gás é conduzido para um reator de
+40
+Shift para que a razão H2:CO seja ajustada através da reação química entre o
+monóxido de carbono e vapor d’água.
+A proporção H2:CO utilizada na reação de Fischer-Tropsch por apresentar bons
+resultados para síntese de olefinas na faixa da gasolina e do querosene de aviação
+é igual a 2n/n. Além disso, para essa etapa é necessária a utilização de catalisador
+de cobalto e temperatura de operação em torno de 340°C.
+Por fim, as olefinas produzidas a partir da reação de FT são isomerizadas,
+formando majoritariamente isoparafinas, que são posteriormente fracionadas a
+temperaturas entre 150°C e 300°C para, então, poderem ser utilizadas como
+querosene de aviação. Abaixo, na Figura 12, consta um diagrama de blocos onde
+são apresentadas as etapas acima descritas.
+Figura 12: Diagrama de blocos do processo de obtenção de bioquerosene
+4.4. Dados quantitativos utilizados na avaliação econômica
+Neste item encontram-se as considerações realizadas a respeito dos balanços
+de massa dos processos de obtenção de 100.000 toneladas de etanol de segunda
+geração (hidratado) e bioquerosene de aviação utilizando bagaço de malte como
+matéria-prima no período de um ano. Os valores aqui demonstrados foram obtidos a
+partir das condições consideradas para ambos os processos e que constam nas
+seções 4.2 e 4.3 deste trabalho.
+41
+4.4.1. Balanço de massa do processo de obtenção de E2G por
+rota química
+Para os cálculos relativos à avaliação econômica, está sendo considerada
+neste trabalho uma produção anual de etanol de segunda geração igual a 100.000
+toneladas/ano. A partir disto e de dados obtidos por pesquisas realizadas no
+laboratório GreenTec (VIANA, 2017), é possível calcular as quantidades necessárias
+de biomassa, reagentes químicos e leveduras para esse processo, além de
+determinar a quantidade de resíduos gerados. Na Tabela 6 constam os dados
+utilizados como referência, obtidos a partir de experimentos realizados no laboratório
+GreenTec (VIANA, 2017), como também o volume dos componentes calculados com
+base na densidade do etanol (789 kg/m3).
+Tabela 6: Dados de consumo específico de reagentes e insumos e resíduos gerados – Fonte:
+Elaboração própria a partir de VIANA, 2017
+Reagente / Insumo Quantidade Quantidade/ano
+Ácido sulfúrico 0,25 m³ / m³ de etanol 3,20 x 104 m³
+Hidróxido de sódio 120 kg / m³ de etanol 1,52 x 107 m³
+Leveduras 150 kg / m³ de etanol 1,90 x 107 m³
+Biomassa seca 1 tonelada / 100 L de etanol 1,27 x 106 m³
+Resíduo Quantidade Quantidade/ano
+Sólido 2 kg / 1 L de etanol 2,50 x 105 m³
+Líquido (licor negro) 1 L / 1 L de etanol 1,30 x 105 m³
+Cabe aqui ressaltar novamente que as condições de produção do etanol de
+segunda geração aqui consideradas e, consequentemente, as quantidades listadas
+na Tabela 6 podem ser otimizadas para obtenção de melhores resultados.
+42
+4.4.2. Balanço de massa do processo de obtenção de
+bioquerosene a partir da rota de Fischer-Tropsch
+Para a avaliação econômica da produção de bioquerosene de aviação a partir
+de bagaço de malte também foi considerado um volume de produção do
+biocombustível igual a 100.000 toneladas/ano. Para o cálculo dos principais
+componentes envolvidos neste processo foram considerados algumas premissas
+técnicas obtidas a partir de dados fornecidos pela COPPE/UFRJ (ROITMAN, 2018)
+e pela Petrobras, demonstrados na Tabela 7.
+Tabela 7: Premissas adotadas para as variantes tecnológicas da rota BtL-FT
+Item Valor (%m/m) Referência
+Razão catalisador de cobalto /
+bioquerosene 0,004% Petrobras
+Razão bioquerosene /
+biomassa 14,58% COPPE/UFRJ
+Razão nafta / bioquerosene 32,00% COPPE/UFRJ
+Com base nas premissas técnicas apresentadas, foi realizado o balanço de
+massa global do processo. Os valores determinados constam na Tabela 8.
+Tabela 8: Quantidades obtidas para o balanço de massa global
+Componente Quantidade (ton/ano)
+Bioquerosene 100.000
+Nafta 32.000
+Biomassa 6,85 x 10 5
+Catalisador de cobalto 4
+Cabe salientar que a matéria-prima considerada neste trabalho (bagaço de
+malte) é o resíduo obtido a partir da produção de cerveja nas cervejarias Ambev no
+Brasil. Através do relatório de resultados da Ambev do ano de 2020, o volume de
+cerveja produzida no país superou 84 milhões de hectolitros. A quantidade de bagaço
+43
+gerada no processo de obtenção da cerveja é estimada através da razão 1.400 hL
+de mosto / 21 toneladas de bagaço, informada pela Supervisora de Coprodutos da
+Cervejaria Rio de Janeiro. Ou seja, a quantidade de bagaço gerada anualmente pelas
+cervejarias localizadas no território brasileiro ultrapassa 1,27 milhões de toneladas.
+Essa quantidade é suficiente para produção da quantidade de etanol de segunda
+geração ou bioquerosene aqui proposta.
+4.5. Premissas monetárias consideradas na avaliação
+econômica
+Dentre as informações que aqui serão retratadas estão as de estimativas dos
+custos necessários com reagentes e insumos, os investimentos em bens de capital
+e os gastos energéticos, para produção durante 20 anos.
+4.5.1. Custos com reagentes e insumos
+4.5.1.1. Etanol de segunda geração
+Como descrito na seção 3.5. deste capítulo, os principais componentes
+considerados no balanço de massa do processo de obtenção do etanol de segunda
+geração através de rota química são os reagentes ácido e básico utilizados nas
+etapas de hidrólise, a biomassa, as leveduras e os resíduos gerados no processo. O
+valor de mercado de cada um deles é informação primordial para a realização desta
+avaliação econômica.
+O bagaço de malte considerado neste trabalho é o resíduo obtido a partir da
+produção de cerveja nas cervejarias Ambev. O valor de venda dessa biomassa foi
+obtido através do contato com a Supervisora de Coprodutos da Cervejaria Rio de
+Janeiro. Vale ressaltar que esse valor é sazonal e que o preço aqui considerado é
+referente ao mês de abril do ano de 2021.
+Os valores de mercado do ácido sulfúrico e da levedura considerados neste
+trabalho foram obtidos a partir de Viana (2017). Os valores foram atualizados
+posteriormente por fornecedores destes materiais.
+Já os valores do hidróxido de sódio e do resíduo líquido (licor negro) gerado no
+processo foram encontrados na literatura. O primeiro teve sua faixa de preço
+44
+informada por Maurício Russomano, presidente do Sindicato Nacional da Indústria
+de Álcalis, para a revista Química e Derivados em junho de 2020. Segundo
+Russomano, as cotações internacionais do hidróxido de sódio giram entre US$ 300
+e US$ 350 a tonelada. Para os cálculos desenvolvidos será considerada a cotação
+atual do dólar e o maior valor fornecido por Russomano (2020).
+O licor negro possui interesse comercial devido a sua capacidade energética
+através da queima e, mais recentemente, devido à busca pela obtenção de produtos
+de maior valor agregado obtidos a partir do seu constituinte principal: a lignina. Com
+isso, será considerada a sua venda como receita nesta avaliação econômica.
+Segundo Bruijnincx et al. (2016), o valor da lignina para fins de geração de energia
+varia de US$ 70 a US$ 150 por tonelada, considerando preços de transportadores
+de energia, umidade, logística e contaminações. Assim, o valor atribuído a sua venda
+considerado aqui será a média dos dois preços acima citados: US$ 110 por tonelada.
+A Tabela 9 resume os preços considerados para cada componente acima
+descrito.
+Tabela 9: Premissas monetárias adotadas para os componentes utilizados na obtenção de E2G
+através da rota química
+Item Valor Referências
+Bagaço de malte R$ 79,00 / ton Ambev
+Ácido sulfúrico R$ 800,00 / m³ GreenTec
+Hidróxido de sódio US$ 350 / ton Sinálcalis
+Levedura R$ 1,50 / kg GreenTec
+Resíduo líquido (licor negro) US$ 110 / ton S.V. Obydenkova et al (2019)
+4.5.1.2. Bioquerosene
+Em relação à obtenção de bioquerosene de aviação através da rota de FischerTropsch, as premissas monetárias a serem consideradas nos cálculos da avaliação
+econômica seguem listadas abaixo. Foram considerados dados obtidos por
+pesquisas realizadas por membros do laboratório GreenTec. Em relação ao bagaço
+de malte, foi considerado o valor fornecido pela Ambev, dados que estão
+demonstrados na Tabela 10.
+45
+Tabela 10: Premissas monetárias adotadas para os componentes utilizados na obtenção de
+bioquerosene de aviação através da rota BtL-FT
+Item Valor Referência
+Bagaço de malte R$ 79,00 / ton Ambev
+Catalisador de cobalto US$ 50.000 / ton Petrobras
+Nafta US$ 555,3 / ton indexmundi.com
+4.5.2. Despesas de capital (CAPEX)
+Nesta etapa do trabalho serão definidos os valores a serem considerados como
+investimentos em bens de capital a serem considerados na avaliação das rotas
+químicas para obtenção dos biocombustíveis de interesse.
+4.5.2.1. Etanol de segunda geração
+Em relação à planta industrial para produção de etanol de segunda geração
+foram utilizados dados referentes à usina de produção de etanol 2G em escala
+comercial construída e operada pela Raízen.
+A planta em questão fica localizada na cidade de Piracicaba (SP) e possui uma
+capacidade instalada de 40 milhões de litros de E2G por ano, o que a torna a segunda
+maior usina desse biocombustível no território brasileiro. Ela utiliza como matériaprima o bagaço de cana residual do processamento do etanol de primeira geração e
+realiza a fermentação de pentoses e hexoses. Apesar de utilizar a hidrólise
+enzimática como estratégia para quebra da celulose, será considerada esta planta
+nos cálculos de avaliação econômica por não haver diferença significativa em termos
+de equipamentos utilizados. (LORENZI, B. R.; ANDRADE, T. H. N)
+É preciso destacar que foi necessário realizar o ajuste de escala do valor da
+planta da Raízen para a que está sendo abordada neste trabalho. Enquanto a planta
+de referência possui capacidade de 40 milhões de litros de etanol 2G por ano (o
+equivalente a 31.560 toneladas/ano), a planta de interesse leva em consideração a
+produção de 100.000 toneladas do biocombustível por ano. Assim, para realizar o
+ajuste do valor do custo da planta foi utilizada a equação:
+46
+Ref. Peters and Timmerhaus, 1991
+Assim, partindo da planta comercial da Raízen que possui CAPEX igual a R$
+218 milhões, chegou-se ao valor de R$ 437 milhões. Convertendo para dólar, temos
+US$ 80,9 milhões para o investimento em bens de capital na planta estudada,
+conforme demonstrado na Tabela 11.
+Tabela 11: Comparativo das condições e custo da planta referência (Raízen) e da planta em análise
+Variável Raízen Planta em estudo
+Capacidade 31.560 ton etanol / ano 100.000 ton etanol / ano
+Custo da planta R$ 218 milhões R$ 437 milhões
+Hidrólise Enzimática Química
+Fermentação C5 e C6 C5 e C6
+Matéria-prima Bagaço de cana Bagaço de malte
+4.5.2.2. Bioquerosene
+Em relação à planta industrial para produção de bioquerosene foram utilizados
+valores retirados de informações da literatura (CARVALHO, 2017; RICHES, 2007) e
+a estimativa do CAPEX para uma unidade que produz 100.000 toneladas SAF/ano.
+Assim como para o etanol, foi necessário realizar o ajuste de escala do valor da
+planta para a que está sendo abordada neste trabalho, obtida aplicando o método de
+fator de capacidade e considerando um expoente de ajuste x de 0,6.
+Assim, o valor a investir na aquisição da unidade BtL-FT foi de US$ 148 milhões
+ou o equivalente a R$ 799,2 milhões. Através desse valor base, foi calculado também
+todo o gasto com máquinas, equipamentos e engenharia para o projeto, conforme
+detalhado a seguir na Tabela 12.
+47
+Tabela 12: Resumo CAPEX das rotas FT (valores em mil R$)
+Item % BTL-FT (mil R$)
+Máquinas e equipamentos
+Planta BTL-FT - 799.200
+Tancagem 10,00% 79.920
+Bombas 0,30% 2.398
+Utilidades 4,00% 31.968
+Equipamentos de laboratório 1,00% 7.992
+Sistema combate a incêndio 0,90% 7.193
+Obras civis e construções 9,00% 71.928
+Instalações e outros 3,00% 23.976
+Engenharia e projeto 1,00% 7.992
+Total 1.032.567
+4.5.3. Gastos energéticos
+Em um mercado cada vez mais competitivo e com a crescente preocupação
+com a sustentabilidade, a redução de desperdícios dos gastos energéticos é
+essencial para o sucesso da planta. O processo é analisado e projetado de modo a
+atingir condições de operação ótimas, minimizando custos e maximizando a
+eficiência termodinâmica, ou seja, evitando gargalos que tornam as etapas que
+envolvem a transferência de energia menos eficientes. No Brasil, o setor industrial é
+responsável por 31,7% do consumo energético, e a energia elétrica é um insumo que
+representa mais de 40% dos custos na produção industrial brasileira (Firjan/Agência
+Brasil).
+4.5.3.1. Etanol de segunda geração
+Para o processo de obtenção do etanol de segunda geração, consideram-se as
+etapas de moagem, hidrólise, fermentação, destilação e manutenção da planta. O
+48
+grande gargalo para o consumo energético da planta é a etapa de hidrólise, que
+consome cerca de 72% do gasto em todo o processo. Os resultados apresentados a
+seguir na Tabela 13 detalham o custo energético do processamento de uma tonelada
+de biomassa.
+Tabela 13: Custo energético de cada etapa do processo de obtenção de etanol por tonelada de
+cana-de-açúcar – Fonte: Elaboração própria a partir de Revista Energia na Agricultura (ISSN 1808-
+8759)
+Etapa industrial Cana-de-açúcar (MJ/t)
+Desintegração / moagem 61,87
+Hidrólise / sacarificação / tratamento do caldo 1179,54
+Fermentação 0,38
+Destilação 399,28
+Manutenção 0,5
+Consumo industrial por tonelada 1641,57
+Na Tabela 14, são consideradas as mesmas etapas anteriores, porém tomando
+como base para referência o gasto energético por litro de etanol.
+Tabela 14: Custo energético de cada etapa do processo de obtenção de etanol por litro de etanol –
+Fonte: Revista Energia na Agricultura (ISSN 1808-8759)
+Operações Cana-de-açúcar (MJ/l)
+Desintegração / moagem 0,73
+Hidrólise / sacarificação / tratamento do caldo 13,93
+Fermentação 0
+Destilação 4,71
+Manutenção 0,01
+Custo energético total 19,38
+49
+4.5.3.2. Bioquerosene
+Para o processo de obtenção da Bioquerosene, foram consideradas as
+demandas elétricas das unidades de pré-tratamento, separação de ar, gaseificação
+e tratamento de enxofre, separação de H2, síntese de Fischer-Tropsch,
+hidroprocessamento e compressão do CO2, conforme demonstrado na Tabela 15.
+Tabela 15: Demanda elétrica de cada etapa do processo de obtenção do Bioquerosene – Fonte:
+Elaboração própria a partir de TAGOMORI, 2017
+Unidadde Escala simulação Demanda elétrica (MW)
+Pré-tratamento 4320 t biomassa / dia 6,87
+Separação de ar - 29,5
+Gaseificação - 6,6
+Tratamento de enxofre - 1,8
+Separação de H2 (PSA) 11,52 t H 2 / dia 0,4
+Síntese de Fischer-Tropsch 618 t FT / dia 2,39
+Hidroprocessamento 618 t FT / dia 3,24
+Compressão do CO2 4440 t CO 2 / dia 1,11
+A demanda de eletricidade resultante foi de aproximadamente 52 MW. O
+consumo anual de eletricidade calculado com base na disponibilidade anual da planta
+(7.446 horas), resultou em um total de 387.192 MWh.
+4.5.4. Premissas para dimensionamento da planta
+Para realizar o dimensionamento da planta completa é necessário a utilização
+de algumas premissas para determinação das receitas e custos dos processos de
+obtenção de etanol de segunda geração e bioquerose, além do investimento
+necessário para cada caso. Com base nessas informações, pode-se avaliar suas
+rentabilidades e realizar o comparativo entre elas.
+Na Tabela 16, estão listados os dados técnicos referentes a planta de produção
+de etanol de segunda geração. A capacidade foi definida como 100.000 toneladas
+de etanol/ano. A produção do primeiro ano estimada em 77% da capacidade total, e
+50
+a partir do segundo ano, 100% da capacidade. As razões de alimentação das
+correntes e informações tabeladas necessárias para os cálculos foram retiradas da
+literatura, segundo as referências mencionadas.
+Tabela 16: Dados técnicos da produção de etanol
+Item Valor Referência
+Capacidade da Planta (t Etanol/ano) 100.000 BP
+Produção do primeiro ano 77% Estimativa
+Produção dos anos 2-20 100% Estimativa
+PCI etanol hidratado, MJ/litro 21,3 ANP
+CI (gCO2eq/MJ), gasolina 87,4 Diário Oficial da União (nov/18)
+E2G PCI, MMBTU/ton biomassa 18,33 SILVA, 2018
+E2G Razão Etanol/Biomassa, %m/m 7,90% Nova Cana
+E2G Razão Ác. sulfúrico/Etanol, %m/m 58,20% VIANA, 2017
+E2G Razão Hid. de sódio/Etanol, %m/m 15,20% VIANA, 2017
+E2G Razão Levedura/Etanol, %m/m 19,00% VIANA, 2017
+E2G Razão etanol hid./Biom. seca, t/L 0,01 VIANA, 2017
+E2G kg resíduo sólido/L etanol 2 VIANA, 2017
+E2G razão llicor negro)/etanol, %m/m 127% VIANA, 2017
+E2G CI (gCO2eq/MJ) 4,7 Revista Opiniões
+E2G Energia Elétrica, kWh/ton etanol 380,23 ARAUJO, 2017
+Densidade etanol hidratado (kg/m³) 789 VIANA, 2017
+Na Tabela 17, estão listados os dados técnicos referentes a planta de produção
+de Bioquerosene. A fim de comparação, também foi definido a capacidade total da
+planta como 100.000 toneladas de bioquerosene/ano. A produção do primeiro ano
+estimada como 77% da capacidade total, e a partir do segundo ano, 100%. As razões
+de alimentação das correntes e informações tabeladas necessárias para os cálculos,
+foram retiradas da literatura, segundo as referências informadas.
+51
+Tabela 17: Dados técnicos da produção de bioquerosene
+Item Valor Referência
+Capacidade da Planta (t Bioq/ano) 100.000 BP
+Produção do primeiro ano 77% Estimativa
+Produção dos anos 2-20 100% Estimativa
+PCI bioQAv, MJ/litro 32 ANP
+CI (gCO2eq/MJ), QAv fóssil 87,5 Diário Oficial da União (nov/18)
+BTL-FT PCI da biomassa, MMBTU/ton
+biomassa 18,33 SILVA, 2018
+BTL-FT Razão Vapor/biomassa, % m/m 40% COPPE/UFRJ
+BTL-FT Densidade Vapor a 1200ºC e 20bar,
+ton/m3 0,00294 Estimativa
+BTL-FT Razão Catalisador de cobalto/bioQAv 0,004% Petrobras
+BTL-FT Razão BioQAv/Biomassa, %m/m 14,58% COPPE/UFRJ
+BTL-FT Razão Nafta/Bioquerosene, %m/m 32,00% COPPE/UFRJ
+BTL-FT CI (gCO2eq/MJ) 15 COLLINGS, D. 2020
+BTL-FT Energia Elétrica, kWh/ton bioQAv 639,94 COPPE/UFRJ
+Expoente scale up para BTL/FT 0,6 Peters & Timmerhaus
+Em seguida, foi necessário fixar alguns parâmetros temporais, conforme
+exemplificado na Tabela 18, como o período de projeção da planta, dias por ano de
+produção e o tempo de partida, para projetar a parte econômica durante todo o
+período considerado.
+Tabela 18: Dados temporais
+Item Valor Referência
+Tempo de projeção, anos 20 BP
+Dias de produção por ano 320 BP
+Horas de produção por ano 7.680 -
+Tempo de partida da planta, dias 30 BP
+52
+Para cálculo dos custos e receitas de cada planta, foram determinados os dados
+monetários como, por exemplo, o preço de cada insumo e produto, e o preço do
+bagaço de malte, este último fornecido pela Ambev. As cotações do dólar e do euro
+foram fixadas em setembro de 2021, visto que este é o período em que as empresas,
+geralmente, projetam as métricas monetárias e de performance para o orçamento do
+exercício seguinte. Esses dados foram utilizados para conversão de valores, assim
+como os créditos de carbono variáveis por período, que podem ser vendidos para
+incremento de receita. Todos os valores estão exemplificados na Tabela 19.
+Tabela 19: Dados monetários
+Item Valor Referência
+E2G Preço Etanol, R$/m³ 3.855,00 Nova Cana
+E2G Preço Ácido Sulfúrico R$/m³ 800 VIANA, 2017
+E2G Preço Hidróxido de sódio R$/kg 1,75 Sinálcalis
+E2G Preço levedura R$/kg 1,89 VIANA, 2017
+E2G Preço lignina R$/t 594 Obydenkova, 2019
+E2G Manutenção, R$/ton Etanol 17 Petrobras
+BTL-FT Preço do BM, US$/MMBTU 0,8 Ambev
+BTL-FT Preço do vapor, R$/m3 17 TCWY
+BTL-FT Preço cat. de cobalto, US$/ton 50.000,00 Petrobras
+BTL-FT Preço da Nafta, US$/ton 555,3 indexmundi.com
+BTL-FT Preço Energia Eléctrica, R$/kW 0,47 MME
+BTL-FT Manutenção, R$/ton bioQAv 17 Petrobras
+Preço do BioQAv, R$/m³ 5.000 Petrobras
+Cotação do dólar 5,4 Estimativa
+Cotação do euro 6,3 Estimativa
+Créditos de Carbono, US$/ton CO2
+Anos 1-2 7 BP
+Anos 3-5 15 BP
+Anos 6-8 30 BP
+Anos 9-20 40 BP
+53
+Para cálculo dos custos fixos, foram estimados o custo com pessoal como o
+número de trabalhadores, custo com mão-de-obra, impostos, depreciação e
+condições de financiamento. Essas despesas serão consideradas anualmente sem
+alteração, pois não variam com a quantidade produzida. Os valores estão
+demonstrados na Tabela 20.
+Tabela 20: Quantidade e custos com pessoal, impostos, depreciação e condição de financiamento –
+Custos com Pessoal
+Salário 100% -
+Encargos Trabalhistas 98% Dados federais
+Salário de Diretor (R$/mês) 25.000 Estimativa
+Salário de Engenheiro
+(R$/mês) 20.000 Estimativa
+Salário de Analista (R$/mês) 5.000 Estimativa
+Salário de Operador (R$/mês) 6.000 Estimativa
+Quantidade
+Diretor 1 Estimativa
+Engenheiros 3 Estimativa
+Analistas 6 Estimativa
+Operadores 12 Estimativa
+Impostos
+Imposto de Renda, ICMS, PIS
+e COFINS 0,00% BP
+Taxa de Atratividade 10,00% -
+Depreciação
+Máquinas e equipamentos (10
+anos) 10,00% Receita Federal
+Construções (25 anos) 4,00% Receita Federal
+Deferidos (25 anos) 4,00% Receita Federal
+Condições de Financiamento
+Taxa de Juros, % a.a. 10,00% BNDES RenovaBio
+% Capital financiado 50,00% BNDES RenovaBio
+Pagamento Amortização, anos 10 BNDES RenovaBio
+Carência, anos 2 BNDES RenovaBio
+54
+5. CÁLCULOS E RESULTADOS OBTIDOS
+5.1. Custos
+Primeiramente, utilizando os dados referentes as correntes de alimentação,
+calculou-se o rendimento dos insumos em função da corrente de matéria-prima (%
+ton insumo/ton MP). Em seguida, utilizando a vazão desejada de 100.000 toneladas
+de produto por ano, calculou-se a vazão necessária de cada insumo utilizado nos
+dois processos. Em posse desses dados, calculou-se o preço por tonelada de cada
+insumo (R$/ton). Todos os resultados estão detalhados na Tabela 21.
+Tabela 21: Custos das plantas de produção de etanol e bioquerosene
+Item Rendimento
+(% ton/ton MP) Vazão (ton/ano) Preço (R$/ton)
+E2G biomassa 100,00% 1.267.427 R$ 79,09
+E2G ácido sulfúrico 4,59% 58.200 R$ 1.468,48
+E2G hidróxido de sódio 1,20% 15.200 R$ 1.750,00
+E2G levedura 1,50% 19.000 R$ 1.890,00
+BTL-FT biomasa 100,00% 686.020 R$ 79,09
+BTL-FT catalisador 0,00058% 4 R$ 270.000,00
+Utilizando as premissas obtidas na literatura, foi possível calcular os gastos com
+utilidades e serviços necessários para a produção anual de 100.000 toneladas de
+biocombustível referente a cada planta, que estão demonstrados na Tabela 22.
+Tabela 22: Gasto com utilidades e serviços
+Item Valor
+E2G Energia Elétrica, R$/ton etanol R$ 178,71
+E2G Manutenção, R$/ton etanol R$ 17,00
+BTL-FT Vapor, m³/ton bioQAv R$ 933,36
+BTL-FT Energia Elétrica, R$/ton bioQAv R$ 300,77
+BTL-FT Manutenção, R$/ton bioQAv R$ 17,00
+55
+5.2. Receitas
+Para o cálculo das receitas, utilizou-se as premissas obtidas na literatura
+referente ao rendimento de cada produto, e calculou-se o rendimento dos
+subprodutos com valor agregado (lignina e nafta), assim como os valores de suas
+vazões (ton/ano). A partir dos valores de densidade, pode-se converter as vazões
+mássicas em volumétricas (m³/ano) e, com o preço de venda de cada produto, obter
+a receita anual de cada um deles (R$/ano). Todos os valores estão descritos na
+Tabela 23.
+Tabela 23: Receitas das plantas de produção de etanol e bioquerosene
+Item Rendimento (%
+ton/ton MP*)
+Vazão
+(ton/ano)
+Densidade
+(ton/m³)
+Vazão
+(m³/ano) Preço (R$/m³)
+BTL-FT
+Bioquerosene 14,58% 100.000 0,850 117.647 R$ 5.000,00
+BTL-FT Nafta 4,66% 32.000 0,702 45.584 R$ 2.998,62
+E2G Etanol 7,89% 100.000 0,789 126.743 R$ 3.855,00
+E2G Lignina 10,00% 126.743 0,663 191.165 R$ 594,00
+5.3. Investimentos
+O investimento necessário para a implementação do processo de obtenção de
+ambos os combustíveis foi obtido no cálculo do CAPEX de cada planta, descrito no
+item 4.5.2. Os fatores para cálculo de investimentos foram retirados de CARVALHO,
+2017; RICHES, 2007. Na Tabela 24, constam os fatores referentes ao percentual
+correspondente de cada investimento em relação ao total da planta, como tancagem,
+bombas, utilidades, equipamentos, sistema de combate a incêndio, construções,
+instalações e projeto. Com esses percentuais, calcula-se os valores detalhados de
+cada investimento realizado na planta.
+56
+Tabela 24: Tabela de investimentos para as plantas de etanol e bioquerosene
+Maquinas e
+Equipamentos Fator Valor em mil R$
+(Etanol)
+Valor em mil R$
+(Bioquerosene)
+Planta - R$ 437.167,80 R$ 799.200,00
+Tancagem 10,0% R$ 43.716,78 R$ 79.920,00
+Bombas 0,3% R$ 1.311,50 R$ 2.397,60
+Utilidades 4,0% R$ 17.486,71 R$ 31.968,00
+Equipamentos de
+Laboratório 1,0% R$ 4.371,68 R$ 7.992,00
+Sistema Combate a
+incêndio 0,9% R$ 3.934,51 R$ 7.192,80
+Obras e civis e
+construções 9,0% R$ 39.345,10 R$ 71.928,00
+Instalações e Outros 3,0% R$ 13.115,03 R$ 23.976,00
+Engenharia e Projeto 1,0% R$ 4.371,68 R$ 7.992,00
+5.3.1. Depreciação
+As taxas de depreciação são fixadas por meio de Instrução Normativa da
+Secretaria da Receita Federal do Brasil (RFB nº 1.700/2017) e variam de acordo ao
+bem material. Neste trabalho foram considerados depreciação igual a 10% para
+máquinas e equipamentos com tempo de vida útil de 10 anos e 4% para construções,
+instalações, diferidos e outros com tempo de vida útil de 25 anos. Os valores para a
+planta de etanol e de bioquerosene estão consolidados nas Tabela 25 e 26,
+respectivamente. Ambas apresentam os valores investidos no ano 0, e a
+depreciação nos primeiros 10 anos e nos anos 10 anos seguintes.
+Tabela 25: Depreciação referente as máquinas, equipamentos, construções e instalações para
+planta de etanol
+Depreciação (mil R$) Taxa Ano 0 Ano 1 - 10 Ano 11 – 20
+Máquinas e equipamentos 10,0% R$ 507.989 R$ 50.799 -
+Construções, instalações e outros 4,0% R$ 52.460 R$ 2.098 R$ 2.098
+Diferido 4,0% R$ 4.372 R$ 175 R$ 175
+Total R$ 564.821 R$ 53.072 R$ 2.273
+57
+Tabela 26: Depreciação referente as máquinas, equipamentos, construções e instalações para a
+planta de bioquerosene
+Depreciação (mil R$) Taxa Ano 0 Ano 1 - 10 Ano 11 – 20
+Máquinas e equipamentos 10,0% R$ 928.670 R$ 92.867 -
+Construções, instalações e outros 4,0% R$ 95.904 R$ 3.836 R$ 3.836
+Diferido 4,0% R$ 7.992 R$ 320 R$ 320
+Total R$ 1.032.566 R$ 97.023 R$ 4.156
+5.3.2. Financiamento
+Para o financiamento de cada planta, foram considerados os valores oferecidos
+pelo BNDES para projetos no âmbito do programa RenovaBio. Este programa
+concede empréstimos a empresas produtoras de biocombustíveis para estimulá-las
+a melhorar sua eficiência energético-ambiental. Aquelas que, ao longo do período de
+pagamento dos empréstimos, alcançarem as metas de redução de emissão de CO2
+estipuladas pelo programa terão redução na taxa de juros (BNDES, 2021). Na Tabela
+27 constam as condições detalhadas do financiamento de cada planta.
+Tabela 27: Financiamento – Fonte: Elaboração própria com base nos dados de BNDES –
+(RenovaBio)
+Etanol Bioquerosene
+Investimento mil R$ R$ 564.821 R$ 1.032.566
+% BNDES 50,0% 50,0%
+Taxa de juros 10,0% 10,0%
+Prazo de pagamento da amortização (anos) 10 10
+Prazo de carência (anos) 2 2
+5.3.3. Pagamento da dívida
+Com as condições de financiamento para cada planta, foi calculado 50% do
+custo do investimento para cálculo da dívida. Os juros são referentes a 10% do valor
+da dívida atual em cada ano. Nos dois primeiros anos, durante o período de carência,
+o valor total pago é igual ao valor dos juros, mantendo a dívida total estável. Após
+esse período, durante os 8 anos restantes, a dívida é paga da seguinte forma: total
+58
+da dívida dividido pelos anos restantes (8 anos) mais os juros restantes. Ao final dos
+10 anos, a dívida de ambas as plantas estará quitada. Os valores estão descritos na
+Tabela 28, para a planta de etanol, e na Tabela 29 para a planta de bioquerosene.
+Tabela 28: Detalhamento do pagamento da dívida anual da planta de etanol
+Ano Divida (mil R$) Pagamento
+(mil R$)
+Principal
+(mil R$)
+Juros
+(mil R$)
+Divida Final
+(mil R$)
+1 R$ 282.410 R$ 28.241 R$ 0 R$ 28.241 R$ 282.410
+2 R$ 282.410 R$ 28.241 R$ 0 R$ 28.241 R$ 282.410
+3 R$ 282.410 R$ 63.542 R$ 35.301 R$ 28.241 R$ 247.109
+4 R$ 247.109 R$ 60.012 R$ 35.301 R$ 24.711 R$ 211.808
+5 R$ 211.808 R$ 56.482 R$ 35.301 R$ 21.181 R$ 176.506
+6 R$ 176.506 R$ 52.952 R$ 35.301 R$ 17.651 R$ 141.205
+7 R$ 141.205 R$ 49.422 R$ 35.301 R$ 14.121 R$ 105.904
+8 R$ 105.904 R$ 45.892 R$ 35.301 R$ 10.590 R$ 70.603
+9 R$ 70.603 R$ 42.362 R$ 35.301 R$ 7.060 R$ 35.301
+10 R$ 35.301 R$ 38.831 R$ 35.301 R$ 3.530 R$ 0
+Tabela 29: Detalhamento do pagamento da dívida anual da planta de bioquerosene
+Ano Divida (mil R$) Pagamento
+(mil R$)
+Principal
+(mil R$)
+Juros
+(mil R$)
+Divida Final
+(mil R$)
+1 R$ 516.283 R$ 51.628 R$ 0 R$ 51.628 R$ 516.283
+2 R$ 516.283 R$ 51.628 R$ 0 R$ 51.628 R$ 516.283
+3 R$ 516.283 R$ 116.164 R$ 64.535 R$ 51.628 R$ 451.748
+4 R$ 451.748 R$ 109.710 R$ 64.535 R$ 45.175 R$ 387.212
+5 R$ 387.212 R$ 103.257 R$ 64.535 R$ 38.721 R$ 322.677
+6 R$ 322.677 R$ 96.803 R$ 64.535 R$ 32.268 R$ 258.142
+7 R$ 258.142 R$ 90.350 R$ 64.535 R$ 25.814 R$ 193.606
+8 R$ 193.606 R$ 83.896 R$ 64.535 R$ 19.361 R$ 129.071
+9 R$ 129.071 R$ 77.442 R$ 64.535 R$ 12.907 R$ 64.535
+10 R$ 64.535 R$ 70.989 R$ 64.535 R$ 6.454 R$ 0
+59
+5.4. Projetos – Receitas e Custos totais
+5.4.1. Custos totais
+Para realizar o cálculo total de custos e receitas anuais das plantas, utilizamos
+as informações obtidas anteriormente e consolidamos por ano. Para os custos fixos,
+não há variação durante todo o período de avaliação e também não há diferenciação
+entre as plantas, visto que a mão de obra é a mesma, conforme demonstrado na
+Tabela 30.
+Tabela 30: Custos fixos das plantas de etanol e bioquerosene no período de 20 anos
+Custos Fixos mil R$/ano
+Diretores R$ 644
+Engenheiros R$ 1.544
+Administrativos R$ 772
+Operadores R$ 1.853
+Sub-Total R$ 4.813
+Somado aos custos fixos, entram os custos variáveis que incluem os gastos
+com insumos, utilidades e serviços. Apesar da matéria-prima ser a mesma, a
+quantidade necessária para cada processo é diferente, bem como os insumos e
+utilidades. Para o primeiro ano de operação, é desconsiderado uma parte dos gastos,
+visto que as plantas irão operar com 77% da capacidade total. Do segundo ano em
+diante, o custo variável será considerado fixo para fins de cálculo, tomando como
+base 100% da capacidade produtiva, mas esse valor poderá sofrer mudanças
+durante o período. Na Tabela 31, constam os dados referentes a planta de etanol, e
+na Tabela 32, os dados referentes a planta de bioquerosene.
+60
+Tabela 31: Custos variáveis referentes a planta de etanol
+Custos variáveis Ano 1 Ano 2-20
+Matérias Primas e Insumos (mil R$/ano)
+Bagaço de Malte R$ 77.182 R$ 100.237
+Ácido Sulfúrico R$ 65.808 R$ 85.466
+Hidróxido de sódio R$ 20.482 R$ 26.600
+Levedura R$ 27.651 R$ 35.910
+Utilidades e Serviços (mil R$/ano)
+Energia Elétrica R$ 13.760 R$ 17.871
+Manutenção R$ 1.309 R$ 1.700
+Sub-total R$ 206.193 R$ 267.783
+Tabela 32: Custos variáveis referentes a planta de bioquerosene
+Custos variáveis Ano 1 Ano 2-20
+Matérias Primas e Insumos (mil R$/ano)
+Bagaço de Malte R$ 41.776 R$ 54.255
+Catalisador R$ 832 R$ 1.080
+Utilidades e Serviços (mil R$/ano)
+Energia Elétrica R$ 23.159 R$ 30.077
+Manutenção R$ 1.309 R$ 1.700
+Sub-total R$ 67.076 R$ 87.112
+Então, somando os custos fixos e variáveis, temos o valor total de R$
+211.006.000 para a planta de etanol, e o valor total de R$ 71.890.000 para a planta
+de bioquerosene no primeiro ano de operação. Já para os anos seguintes, o custo
+total para a planta de etanol e bioquerosene se mantém constantes e iguais a R$
+272.596.000 e R$ 91.926.000, respectivamente.
+61
+5.4.2. Receitas totais
+Para cálculo das receitas, utilizando os dados obtidos na seção 5.2 de vazão
+(m³/ano) e o preço por ano (R$/ano), calcula-se a receita total. A receita referente ao
+primeiro ano, é referente a 77% de produção frente a capacidade total, que impacta
+diretamente o total obtido com etanol e lignina nesse período. Nos anos seguintes,
+os valores de receita referente ao etanol e a lignina se repetem. No entanto, o crédito
+de carbono é variável entre os períodos de 1-2, 3-5, 6-8 e 9-20 anos, conforme
+demonstrado na Tabela 33 para o etanol e na Tabela 34 para o bioquerosene.
+Tabela 33: Receitas totais da planta de etanol
+Receitas
+(mil R$) Ano 1 Ano 2 Ano 3-5 Ano 6-8 Ano 9-20
+E2G / Etanol R$ 376.217 R$ 488.593 R$ 488.593 R$ 488.593 R$ 488.593
+E2G / Lignina R$ 87.435 R$ 113.552 R$ 113.552 R$ 113.552 R$ 113.552
+Créditos de
+Carbono E2G R$ 6.032 R$ 7.834 R$ 16.786 R$ 33.572 R$ 44.763
+Total R$ 469.684 R$ 609.979 R$ 618.932 R$ 635.718 R$ 646.909
+Tabela 34: Receitas totais da planta de bioquerosene
+Receitas
+(mil R$) Ano 1 Ano 2 Ano 3-5 Ano 6-8 Ano 9-20
+BTL-FT BioQav R$ 452.941 R$ 588.235 R$ 588.235 R$ 588.235 R$ 588.235
+BTL-FT Nafta R$ 105.251 R$ 136.689 R$ 136.689 R$ 136.689 R$ 136.689
+Créditos
+Carbono BtL-FT R$ 7.944 R$ 10.317 R$ 22.108 R$ 44.216 R$ 58.955
+Total R$ 566.136 R$ 735.242 R$ 747.033 R$ 769.141 R$ 783.880
+5.5. Demonstração de resultados
+Com as receitas líquidas de ambas as plantas, descontando os custos totais,
+obtemos o EBITDA, que é um termo em inglês para um indicador financeiro, onde
+sua tradução é lucro antes dos juros, impostos, depreciação e amortização. Ao
+realizar o desconto da depreciação e dos encargos financeiros (juros), é obtido o
+lucro (prejuízo) líquido. Na Tabela 35, está detalhada toda a demonstração da planta
+de etanol, e na Tabela 36, toda demonstração da planta de bioquerosene.
+62
+Tabela 35: Demonstração de resultados (mil R$/ano) da planta de etanol
+Demonstração de
+resultados (mil R$/ano) Ano 1 Ano 2 Ano 5 Ano 10 Ano 11-20
+(=) Receitas líquidas R$ 469.684 R$ 609.979 R$ 618.932 R$ 646.909 R$ 646.909
+(-) Custos totais R$ 211.006 R$ 272.596 R$ 272.596 R$ 272.596 R$ 272.596
+EBITDA R$ 258.678 R$ 337.383 R$ 346.335 R$ 374.312 R$ 374.312
+(-) Depreciação R$ 53.072 R$ 53.072 R$ 53.072 R$ 53.072 R$ 2.273
+(-) Encargos financeiros
+(juros) R$ 28.241 R$ 28.241 R$ 21.181 R$ 3.530 R$ 0
+Lucro (prejuízo) líquido R$ 177.364 R$ 256.070 R$ 272.082 R$ 317.710 R$ 372.039
+Tabela 36: Demonstração de resultados (mil R$/ano) da planta de bioquerosene
+Demonstração de
+resultados (mil R$/ano) Ano 1 Ano 2 Ano 5 Ano 10 Ano 11-20
+(=) Receitas líquidas R$ 566.136 R$ 735.242 R$ 747.033 R$ 783.880 R$ 783.880
+(-) Custos totais R$ 71.890 R$ 91.926 R$ 91.926 R$ 91.926 R$ 91.926
+EBITDA R$ 494.246 R$ 643.316 R$ 655.107 R$ 691.954 R$ 691.954
+(-) Depreciação R$ 97.023 R$ 97.023 R$ 97.023 R$ 97.023 R$ 4.156
+(-) Encargos financeiros
+(juros) R$ 51.628 R$ 51.628 R$ 38.721 R$ 6.454 R$ 0
+Lucro (prejuízo) líquido R$ 345.595 R$ 494.665 R$ 519.363 R$ 588.478 R$ 687.798
+5.6. Indicadores financeiros
+Nas seções anteriores foram apresentadas todas as premissas consideradas,
+cálculos realizados e os resultados obtidos em relação aos investimentos e retornos
+financeiros das plantas de produção de etanol de segunda geração e bioquerosene.
+Nesta seção serão apresentados indicadores financeiros que tornam possível uma
+melhor interpretação dos resultados obtidos e auxiliam na tomada de decisão de
+realizar ou não um investimento.
+O primeiro indicador a ser abordado é o Valor Presente Líquido (VPL) e é uma
+métrica utilizada para saber se um investimento que se pretende fazer possui
+63
+viabilidade ou não. O VPL é o valor (expresso em reais) que se obtém quando se
+traz a série de fluxo de caixa distribuída ao longo período analisado (20 anos) para o
+momento atual, considerando nesse cálculo a taxa de atratividade do negócio. Ou
+seja, esse indicador permite uma estimativa do lucro sobre um investimento e
+descobrir se o projeto avaliado é viável ou não.
+Uma outra métrica a ser considerada nessa avaliação econômica é a Taxa
+Interna de Retorno (TIR). Ela é uma taxa de desconto hipotética e, assim como o
+VPL, é utilizada para indicar se um projeto é atrativo economicamente ou não. Seu
+cálculo é realizado considerando o valor presente líquido igual a zero, ou seja,
+igualando os fluxos de caixa positivos gerados pelo projeto e o investimento e
+necessidades de capital exigidas por ele. Assim, investir no projeto seria equivalente
+a investir em outra aplicação, com mesmo nível de risco, que rendesse uma taxa de
+juros igual à TIR.
+Por fim, o terceiro indicador a ser avaliado é o Payback, que é uma das
+metodologias mais simples de análise de investimentos. Trata-se de uma estimativa
+tempo para que se obtenha o retorno sobre um valor investido. Foram consideradas
+duas formas de cálculo desse indicador: sem descontar os fluxos de caixa futuros,
+chamado de Payback Simples; e considerando a taxa de atratividade do negócio, ou
+seja, trazendo a valor presente os valores futuros de fluxo de caixa. Esse último é
+conhecido como Payback Descontado.
+Todos esses indicadores calculados para os projetos avaliados estão
+demonstrados na Tabela 36. Na Figura 13, temos o comparativo entre o Payback
+Simples e Descontado das duas plantas em análise.
+Tabela 37: VPL, TIR e Payback das plantas de etanol e bioquerosene
+Indicadores Financeiros Etanol Bioquerosene
+VPL (Valor Presente Líquido) mil R$ R$ 2.475.253 R$ 4.644.625
+TIR (Taxa Interna de Retorno) % 81,8% 85,3%
+Payback simples, anos 1,17 anos 1,12 anos
+Payback descontado, anos 1,29 anos 1,23 anos
+64
+Figura 13: Comparativo entre o payback simples e descontado das plantas de etanol e
+bioquerosene
+A partir dos dados apresentados acima, é possível notar que o valor presente
+líquido para os dois projetos (E2G e Bioquerosene) apresentam valores positivos, ou
+seja, as receitas serão maiores que as despesas no período avaliado (20 anos). Essa
+resposta positiva indica que, para ambas as situações, o investimento é viável e o
+investidor terá ganhos financeiros, havendo valorização do dinheiro aplicado. Apesar
+de ter sido observado um VLP maior para o projeto de planta de bioquerosene do
+que para o da planta de etanol (aproximadamente o dobro), não é possível tirar
+conclusões apenas comparando esses valores, visto que é necessário levar em
+conta também o valor investido em cada um dos projetos (investimento para
+bioquerosene também foi o dobro do que para etanol). Assim, é imprescindível que
+sejam avaliados os demais indicadores financeiros (TIR e Payback) para que se
+possa chegar à conclusão de qual planta em análise possui maior viabilidade
+econômica.
+Dito isso, em relação a taxa interna de retorno obtida para os dois projetos,
+pode-se observar que em ambos os casos ela se mostra próxima a 80%, sendo a
+obtida para o projeto para o Bioquerosene ligeiramente maior do que a do E2G. O
+valor calculado é interpretado como o desconto que precisaria ser aplicado ao fluxo
+de caixa para que o investimento nesses projetos resultasse em um VPL igual a zero,
+ou seja, para que não houvesse nem lucro nem prejuízo no investimento. Se o
+resultado obtido para a TIR fosse menor do que a taxa de atratividade considerada
+1,121,230 01,171,290,00,51,01,5Payback simples, anos Payback Descontado, anosBTL-FTE2G
+65
+nesse estudo (10%), seria mais indicado investir em um ativo mais seguro e com
+uma rentabilidade potencial maior. Como em ambos os casos a TIR calculada é 8
+vezes maior do que a taxa de atratividade assumida, ambos os investimentos são
+atrativos. E, como o valor da TIR encontrado para o projeto de planta de obtenção
+de bioquerosene é maior do que o da planta de etanol de segunda geração, pode-se
+dizer que o primeiro é mais rentável do que o segundo.
+No que se refere ao Payback Simples e Descontado calculados, observa-se
+que para ambos os projetos o retorno sobre o valor investido é obtido em menos de
+um ano e meio. Sabendo que o risco do investimento está associado à sua liquidez,
+quanto menor o valor de Payback, menores serão as chances de prejuízo para o
+investidor. Com isso, pode-se dizer que ambos os projetos são seguros em relação
+ao retorno de investimentos, visto que o tempo para que esse retorno aconteça é
+consideravelmente menor do que a vida útil dos equipamentos utilizados nas plantas
+(ativos imobilizados). Como o Payback obtido para o projeto de bioquerosene é
+ligeiramente menor do que o do projeto de etanol, este se torna mais atrativo em
+relação ao tempo de retorno do investimento.
+5.1. Lucratividade
+A lucratividade é um indicador que avalia o ganho de uma empresa em relação
+à atividade que ela desempenha. Seu cálculo é realizado através do lucro líquido
+(lucro após deduções de custos e despesas) e da receita bruta. Esse indicador é
+apresentado sob forma de porcentagem e, de maneira geral, quanto maior o seu
+valor, melhor é o negócio. Os dados de lucratividade obtidos para os dois projetos ao
+longo do período avaliado estão descritos na Tabela 38. A partir do Figura 14, é
+possível ter uma melhor perspectiva e comparar a diferença de lucratividade obtidos
+em ambos os investimentos.
+66
+Tabela 38: Lucratividade (%) ao longo dos anos (1-20) para as plantas de etanol e bioquerosene
+Anos 1 2 3 4 5 6 7 8 9 10 11-20
+E2G 37,8% 42,0% 42,8% 43,4% 44,0% 46,0% 46,6% 47,1% 48,6% 49,1% 57,5%
+BTL-FT 61,0% 67,3% 67,8% 68,7% 69,5% 71,2% 72,1% 72,9% 74,2% 75,1% 87,7%
+Figura 14: Comparativo entre a lucratividade (%) da planta de etanol e bioquerosene
+Como é possível notar, a lucratividade para ambos os projetos de produção de
+biocombustível apresenta um crescimento próximo a 10% nos dez primeiros anos de
+operação das plantas. Onde a lucratividade da planta de etanol parte de uma
+lucratividade igual a 37,8% no primeiro ano para 49,1% no décimo ano, enquanto a
+da planta de bioquerosene parte de 61,0% para 75,1%. Do décimo para o décimo
+primeiro ano de operação, ambos os projetos apresentam um salto de,
+aproximadamente, 10% e, mantém os valores constantes pelos anos seguintes.
+Comparando os dois projetos, percebe-se que a lucratividade da planta de
+bioquerosene é superior à da planta de etanol durante todo o período analisado. A
+diferença entre elas variou de 23,2% a 26,0% nos dez primeiros anos e foi constante
+e igual a 30,2% nos anos seguintes. Isso indica que, em relação a capacidade do
+0%10%20%30%40%50%60%70%80%90%100%0 5 10 15 20Lucratividade (%)BTL-FTE2G
+67
+investimento em gerar lucro a partir de suas atividades operacionais, o projeto de
+planta para obtenção de bioquerosene se mostra mais indicado para investimento.
+5.2. Divisão de custos
+Com todos os dados calculados anteriormente, é possível descrever a
+representatividade dos itens considerados nos custos de cada planta, comparado ao
+valor (por litro) de cada produto. O preço por litro e o percentual correspondente está
+exemplificado na Tabela 39. As Figuras 15 e 16 ilustram a divisão de custos de cada
+planta.
+Tabela 39: Divisão de custos das plantas de etanol e bioquerosene
+Divisão de Custos Etanol 2G BTL-FT
+Custos R$/litro % R$/litro %
+Biomassa R$ 0,79 33,3% R$ 0,46 37,8%
+Catalisador - 0,0% R$ 0,01 0,7%
+Ácido sulfúrico R$ 0,67 28,4% - 0,0%
+Hidróxido de sódio R$ 0,21 8,8% - 0,0%
+Levedura R$ 0,28 11,9% - 0,0%
+Energia Elétrica R$ 0,14 5,9% R$ 0,26 21,0%
+Investimentos (projeção 20 anos) R$ 0,22 9,4% R$ 0,44 36,0%
+MO R$ 0,04 1,6% R$ 0,04 3,4%
+Manutenção R$ 0,01 0,6% R$ 0,01 1,2%
+Frete - 0,0% - 0,0%
+Custo Produção CIF R$ 2,37 100,0% R$ 1,22 100,0%
+68
+Figura 15: Divisão de custos da planta de etanol
+Figura 16: Divisão de custos da planta de bioquerosene
+Analisando os gráficos acima, constata-se que a biomassa (bagaço de malte) e
+o ácido sulfúrico utilizados na planta de produção de etanol são os custos que mais
+impactam no valor final do biocombustível, com 33% e 28%, respectivamente. Em
+relação à planta de bioquerosene, observa-se que o bagaço também exerce a maior
+influência (46%) no que diz respeito ao preço final do combustível, seguido pela
+contribuição dos investimentos (44%) realizado na planta durante os 20 anos de
+operação e pela energia elétrica (26%) utilizada para conversão da matéria-prima em
+produto.
+33%28%9%12%6%9%2% 1%BiomassaÁcido sulfúricoHidróxido de sódioLeveduraEnergia ElétricaInvestimentos (projeção 20 anos)MOManutenção38%1%21%36%3%1%BiomassaCatalisadorEnergia ElétricaInvestimentos (projeção 20 anos)MOManutenção
+69
+6. CONCLUSÃO
+O presente estudo buscou analisar a viabilidade econômica da utilização de
+bagaço de malte, resíduo da indústria cervejeira, como matéria-prima para a
+produção de etanol de segunda geração e bioquerosene de aviação a partir de
+processos químicos.
+Com base nas condições operacionais e nas premissas monetárias estabelecidas
+neste trabalho, confeccionou-se uma análise de viabilidade econômica estruturada
+através da qual obteve-se como resultado indicadores financeiros que demonstram
+qual investimento/empreendimento possui maior grau de atratividade. Para tal, foram
+avaliados os indicadores de Valor Presente Líquido (VPL), Taxa Interna de Retorno
+(TIR), Payback e o Índice de Lucratividade dos negócios em análise.
+Dessa forma, após análise conjunta de todas as métricas supracitadas, chegouse à conclusão, dentre as duas opções de negócio, que o investimento na planta de
+produção de bioquerosene é aquele que trará maiores ganhos e menos riscos. Isso
+porque ele se mostrou superior em todos os fatores mensurados: VPL positivo e
+superior ao calculado para o projeto de produção de Etanol 2G; Taxa de Retorno
+Interna igual a 85,3% (superior em 2,5% ao valor encontrado para o E2G), menor
+Payback e maior lucratividade no período analisado (20 anos). Em conjunto, esses
+indicadores evidenciam que o projeto de produção do biocombustível de aviação
+trará um retorno do investimento em menor tempo e em maior proporção, quando
+comparado ao projeto de obtenção de etanol. Além disso, esse projeto apresentou
+maior capacidade em gerar lucro a partir de suas atividades operacionais.
+Vale destacar que, a partir dos resultados apresentados neste trabalho, pode-se
+considerar viável e atrativa a utilização de bagaço de malte oriundo da indústria
+cervejeira como matéria-prima para obtenção de produtos de maior valor agregado.
+Por fim, convém ressaltar a originalidade do presente trabalho, visto que a
+proposta apresentada aqui não foi encontrada em literaturas anteriores em grau de
+similaridade relevante em relação às premissas econômicas e condições
+operacionais aqui avaliadas.
+70
+7. REFERÊNCIAS BIBLIOGRÁFICAS
+AGBOR, V. B. et al. Biomass pretreatment: Fundamentals toward application.
+Biotechnology Advances, v. 29, 675–685, 2011.
+AGUIAR, H. R. R. Produção de etanol de segunda geração. Monografia - Curso
+Engenharia Química. Universidade Federal de Uberlândia. Uberlândia, 2017.
+ALVIRA, P. et al. Pretreatment technologies for an efficient bioethanol production
+process based on enzymatic hydrolysis: A review. Bioresource Technology, v. 101,
+4851–4861, 2010.
+BALAT. M. Global Bio-fuel Processing and Production Trends. Energy exploration
+& exploitation, v. 25, nº 3, 195–218, 2007.
+BEHERA, S. et al. Importance of chemical pretreatment for bioconversion of
+lignocellulosic biomass. Renewable and Sustainable Energy Reviews, v. 36, 91–
+106, 2014.
+BNDES – BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO SOCIAL.
+BASTOS, V. D. Etanol, alcoolquímica e biorrefinarias. Rio de Janeiro, 2007.
+(BNDES Setorial, nº 25, 5-38).
+BORGES, M.S.; SOUZA NETO, S. P. Parceria entre o setor cervejeiro e o
+pecuarista leiteiro: um estudo de caso. XXIX Encontro Nacional de Engenharia de
+Produção. Salvador, 2009.
+BORGES, V. S. Obtenção de hidrocarbonetos na faixa do bioquerosene de
+aviação “drop in” por hidrodesoxigenação (HDO) do óleo de babaçu.
+Dissertação de Mestrado. Programa de Pós-Graduação em Engenharia de
+Processos Químicos e Bioquímicos. Escola de Química, Universidade Federal do Rio
+de Janeiro. Rio de Janeiro, 2020.
+71
+BOUGRIER, C. et al. Anaerobic digestion of Brewery Spent Grains: Trace elements
+addition requirement. Bioresource Technology, v. 247, 1193-1196, 2018.
+BP - BRITISH PETROLEUM. BP Statistical Review of World Energy. 67th edition,
+Londres, 2018.
+BP - BRITISH PETROLEUM. BP Statistical Review of World Energy. 68th edition,
+Londres, 2019.
+BRODEUR, G. et al. Chemical and Physicochemical Pretreatment of Lignocellulosic
+Biomass: A Review. Enzyme Research, v. 2011, ID 787532, 2011.
+CARDONA, C. A.; QUINTERO, J. A.; PAZ, I. C. Production of bioethanol from
+sugarcane bagasse: Status and perspectives. Bioresource Technology, v. 101,
+4754–4766, 2010.
+CARVALHO, F. M. Evaluation of the brazilian potential for producing aviation
+biofuels through consolidated routes. Dissertação de Mestrado. Programa de
+Pós-graduação em Planejamento Energético, COPPE. Universidade Federal do Rio
+de Janeiro. Rio de Janeiro, 2017.
+CASELLA, G.S. et al. Reaproveitamento do bagaço de malte na indústria
+alimentícia. Pontifícia Universidade Católica de Minas Gerais. Belo Horizonte.
+CHANDEL, A. K. et al. Comparative analysis of key technologies for cellulosic ethanol
+production from Brazilian sugarcane bagasse at a commercial scale. Biofuels,
+Bioprod. Bioref., v. 13, ed. 4, 994-1014, 2019.
+CHAUDHARY, G. et al. Alkaline pretreatment methods followed by acid hydrolysis of
+Saccharum spontaneum for bioethanol production. Bioresource Technology, v.
+124, 111-118, 2012.
+72
+CHEN, M. et al. U.S. Biofuels Industry: A Critical Review of Opportunities and
+Challenges. BioProducts Business, v.4, 42–59, 2016.
+CORDEIRO, L. G. Caracterização e viabilidade econômica do bagaço de malte
+oriundo de cervejarias para fins energéticos. Dissertação de Mestrado. Programa
+de Pós-Graduação em Ciência e Tecnologia de Alimentos. Universidade Federal da
+Paraíba. João Pessoa, 2011.
+CORDEIRO, L. G; EL-AOUAR, A. A.; GUSMÃO, R. P. Caracterização do bagaço de
+malte oriundo de cervejarias. Revista Verde, v. 7, n. 3, 20-22, 2012.
+CORTEZ, L. A. B. Biomassa para energia. Campinas: Editora UNICAMP, 2008.
+COSTA, A. D. et al. Composição química e energia digestível do bagaço de malte em
+suínos machos nas fases de crescimento e terminação. Anais da Jornada de
+Iniciação Científica, Seropédia, RJ, 2006.
+CROSATTI, B. C. B. Produção de etanol de segunda geração a partir de
+embalagem cartonada longa vida. Trabalho de Conclusão de Curso – Curso
+Engenharia Química. Universidade Tecnológica Federal Do Paraná. Ponta Grossa,
+2017.
+DEMIRBAS, A.The social, economic, and enviromental importance of biofuels in the
+future. Energy Sources, part b: economics, planning, and policy, v. 12, no. 1,
+47–55, 2017.
+DIAS, M. O. S. et al. Production of bioethanol and other bio-based materials from
+sugarcane bagasse: Integration to conventional bioethanol production process.
+Chemical Engineering Research and Design, v.87,1206–1216, 2009.
+DIAS, M. O. S. et al. Second generation ethanol in Brazil: Can it compete with
+electricity production? Bioresource Technology, v. 102, 8964–8971, 2011.
+73
+EMBRAER – EMPRESA BRASILEIRA DE AERONÁUTICA S/A. Plano de voo para
+biocombustíveis de aviação no brasil: plano de ação. São Paulo, 2013.
+EMBRAPA. Matérias-primas oleaginosas para a produção de bioquerosene –
+oportunidades e desafios. Embrapa, 2015. Disponível em:
+<https://www.embrapa.br/busca-de-noticias/-/noticia/3344909/artigomateriasprimas-oleaginosas-para-a-producao-de-bioquerosene--oportunidades-edesafios> Acesso em: 15 de junho de 2021.
+EPE - EMPRESA DE PESQUISA ENERGÉTICA. Balanço Energético Nacional –
+Relatório Síntese / Ano Base 2019. Rio de Janeiro, 2020.
+EPE - EMPRESA DE PESQUISA ENERGÉTICA / MINISTÉRIO DE MINAS E
+ENERGIA. Análise de Conjuntura dos Biocombustíveis. Rio de Janeiro, 2019.
+ETENE – ESCRITÓRIO TÉCNICO DE ESTUDOS ECONÔMICOS DO NORDESTE.
+Caderno Setorial - Produção e Uso de Biocombustíveis no Brasil. 2019.
+FIRJAN. Quanto custa a energia elétrica. Firjan, 2017. Disponível em: <
+https://www.firjan.com.br/publicacoes/publicacoes-de-economia/quanto-custaaenergia-eletrica.htm > Acesso em: 14 de junho de 2021.
+GAURAV, N. et al. Utilization of bioresources for sustainable biofuels: A review.
+Renewable and Sustainable Energy Reviews, v. 73, 205-214, 2017.
+GIRAFA, C. B.; PAIVA, J. F. V.; DEIRÓ, L. B. A. Avaliação econômica comparativa
+entre as rotas HEFA, ATJ e Fischer-Tropsch para produção de Bioquerosene.
+Projeto final - Curso Engenharia Química. Escola de Química, Universidade Federal
+do Rio de Janeiro. Rio de Janeiro, 2021.
+GÍRIO, F. M. et al. Hemicelluloses for fuel ethanol: A review. Bioresource
+Technology, v. 101 4775–4800, 2010.
+74
+GROSSI, E. C. Produção de etanol de segunda geração a partir de um derivado
+de celulose. Dissertação de Mestrado. o Programa de Pós-Graduação em
+Tecnologias Química e Biológica do Instituto de Química. Universidade de Brasília.
+Brasília, 2015.
+GUELL, B. M. et al. Benchmark of conversion and production technologies for
+synthetic biofuels for aviation. SINTEF Energy Research. Norway, 2012.
+GURGEL, L. V. A. Hidrólise ácida de bagaço-de-cana: estudo cinético de
+sacarificação de celulose para produção de etanol. Tese de Doutorado. Instituto
+de Química de São Carlos. Universidade de São Paulo. São Carlos, 2010.
+HAMELINCK, C. N.; HOOIJDONK, G. FAAIJ, A. PC. Ethanol from lignocellulosic
+biomass: techno-economic performance in short-, middle- and long-term. Biomass
+and Bioenergy, v. 28, 384–410, 2005.
+HIDENO, A. et al. Wet disk milling pretreatment without sulfuric acid for enzymatic
+hydrolysis of rice straw. Bioresource Technology, v. 100, 2706–2711, 2009.
+HILTUNEN, J. et al. Using a low melting solvent mixture to extract value from wood
+biomass. Nature, v.6, nº 32420, 2016.
+HO, P. D.; NGO, H. H.; GUO, W. A mini review on renewable sources for biofuel.
+Bioresource Technology, v. 169, 742-749, 2014.
+HOWARD, R. L. et al. Lignocellulose biotechnology: issues of bioconversion and
+enzyme production. African Journal of Biotechnology, v. 2, nº 12, 602-619, 2003.
+IEA - INTERNATIONAL ENERGY AGENCY. Key Electricity Trends. Paris, 2018.
+IEA - INTERNATIONAL ENERGY AGENCY. Key World Energy Statistics. Paris,
+2020.
+75
+KUHAD, R. C.; GUPTA, R.; SINGH, A. Microbial Cellulases and Their Industrial
+Applications. Enzyme Research, V. 2011, 280696, 2011.
+KUMARI, D.; SINGH, R. Pretreatment of lignocellulosic wastes for biofuel production:
+A critical. Renewable and Sustainable Energy Reviews, v. 90, 877-891, 2018.
+LEAL, S. K. M. J. Estudo prospectivo sobre as matérias-primas oleaginosas
+utilizadas na produção do bioquerosene de aviação e avaliação da logística de
+implantação de uma biorrefinaria. Dissertação de Mestrado. Programa de PósGraduação em Tecnologia de Processos Químicos e Bioquímicos. Escola de
+Química, Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2020.
+LEE, J. Biological conversion of lignocellulosic biomass to ethanol. Journal of
+Biotechnology, v. 56, 1–24, 1997.
+LINHARES, L. L. Avaliação do potencial de aproveitamento do bagaço de malte
+cervejeiro para obtenção de xarope de glicose. Dissertação de Mestrado.
+Programa de Pós-Graduação em Tecnologia de Processos Químicos e Bioquímicos.
+Escola de Química, Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2018.
+LORENZI, B. R.; ANDRADE, T. H. N. O etanol de segunda geração no brasil: políticas
+e redes sociotécnicas. Rev. Bras. Ci. Soc., v. 34, nº100, 2019.
+MAIONE, N. R. Pré-tratamento hidrotérmico do bagaço de malte (bsg) visando
+a produção de etanol de segunda geração. Dissertação de Mestrado. Programa
+de Pós-Graduação Engenharia Química. Universidade Federal de Goiás. Goiânia,
+2019.
+MANYUCHI, M. M.; MUGANU, C. Techno-economic analysis for bio-ethanol
+production from waste corn stover as a value addition strategy. Science,
+Engineering and Technology, 1-4, 2015.
+MAPA – MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO.
+Anuário da Cerveja. Brasília, 2020.
+76
+MARTINS, C. Z. Avaliação da produção de etanol de segunda geração.
+Monografia – Curso Engenharia Química. Universidade Federal de Uberlândia.
+Uberlândia, 2018.
+MASSARDI, M. M.; MASSINI, R. M. M.; SILVA, D. J. Chemical characterization of
+brewer’s spent grains and evaluation of its potential for obtaining value-added
+products. The Journal of Engineering and Exact Sciences, v. 6, nº 1, 83-91, 2020.
+MCMILLAN, J. D. Pretreatment of Lignocellulosic Biomass. ACS Symposium
+Series - American Chemical Society. Washington, 1994.
+MELLO, L. R. P.F.; VERGÍLIO, R. M.; MALI, S. Caracterização química e funcional
+do resíduo fibroso da indústria cervejeira. Biochemistry and Biotechnology
+Reports, v. 2, nº 3, 191-194, 2013.
+MENON, V.; RAO, M. Trends in bioconversion of lignocellulose: Biofuels, platform
+chemicals & biorefinery concept. Progress in Energy and Combustion Science, v.
+38, 522-550, 2012.
+MOHR, A.; RAMAN, S. Lessons from first generation biofuels and implications for the
+sustainability appraisal of second generation biofuels. Energy Policy, v. 63, 114-122,
+2013.
+MOOD, S. H. et al. Lignocellulosic biomass to bioethanol, a comprehensive review
+with a focus on pretreatment. Renewable and Sustainable Energy Reviews, v. 27,
+77–93, 2013.
+MORO, M. K. Pré-tratamento da biomassa de cana-de-açúcar por extrusão com
+dupla-rosca. Dissertação de Mestrado. Programa de Pós-graduação em Engenharia
+Química COPPE. Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2015.
+MUSSATTO, S. I.; DRAGONE, G.; ROBERTO, I. C. Brewers’ spent grain: generation,
+characteristics and potential applications. Journal of Cereal Science, v. 43, 1–14,
+2006.
+77
+NAZARI, M.T. et al. Biofuels and their connections with the sustainable development
+goals: a bibliometric and systematic review. Environment, Development and
+Sustainability, v. 23, 11139-11156, 2021.
+NEUREITER, M. et al. Dilute-Acid Hydrolysis of Sugarcane Bagasse at Varying
+Conditions. Applied Biochemistry and Biotechnology, 98–100, 2002.
+NISHIYAMA, Y.; LANGAN, P.; CHANZY, H. Crystal Structure and Hydrogen-Bonding
+System in Cellulose Iâ from Synchrotron X-ray and Neutron Fiber Diffraction. J. Am.
+Chem. Soc, v. 124, nº 31, 2002.
+OLSON, D. G. et al. Recent progress in consolidated bioprocessing. Current Opinion
+in Biotechnology, v. 23, 1–10, 2011.
+PANDEY, A. et al. Biotechnological potential of agro-industrial residues. I: sugarcane
+bagasse. Bioresource Technology, v. 74, 69-80, 2000.
+PINHEIRO, T. ET AL. Intensifying ethanol production from brewer’s spent grain
+waste: Use of whole slurry at high solid loadings. New Biotechnology, v. 53, nº 25,
+1-8, 2019.
+RAFIEE, A.; HILLESTAD, M. Synthesis Gas Production Configurations for Gas-toLiquid Applications. Chem. Eng. Technol. v. 35, nº 5, 870–876, 2012.
+RAMOS, L. P. et al. Tecnologias de Produção de Biodiesel. Rev. Virtual Quim., v. 3,
+nº 5, 385-405, 2011.
+RODRIGUES, C. P.; CAMARGO, J. A. Bagaço de cana-de-açúcar como potencial
+para cogeração de energia elétrica e etanol celulósico. São Joaquim da Barra:
+Colégio Iara Coimbra, 2008.
+78
+RODRIGUES, F. A. Avaliação da tecnologia de hidrólise ácida de bagaço de
+cana. Dissertação de Mestrado. Programa de Pós-Graduação em Engenharia
+Química. Universidade Estadual de Campinas. Campinas, 2007.
+ROITMAN, T. Perspectivas e propostas de inserção de bioquerosene de aviação
+no transporte aéreo de passageiros no Brasil. Dissertação de Mestrado.
+Programa de Pós-Graduação em Planejamento Energético. COPPE – Universidade
+Federal do Rio de Janeiro. Rio de Janeiro, 2018.
+SANTOS, F. R. S. Produção e caracterização de celulases e hemicelulases por
+linhagens fúngicas mesófilas isoladas do cerrado sul-mato-grossense.
+Dissertação de Mestrado. Programa de Pós-Graduação em Ciência e Tecnologia
+Ambiental. Universidade De Federal Da Grande Dourados. Dourados, 2014.
+SANTOS, N. A. V. et al. Rejeitos de biomassas oriundas da cadeia de
+biocombustíveis no Brasil: Produção de bio-óleo e sub-produtos. Rev. Virtual de
+Química, v. 9, nº 1, 52-72, 2016.
+SENNA, P. P. Etanol de primeira ou de segunda geração? Uma comparação
+entre os ciclos produtivos. Trabalho Acadêmico. Universidade Estadual Paulista –
+Departamento de Economia. São Paulo, 2016.
+SHAOCHUN, M. Economies os scale analysis and location studies for fuel
+ethanol refineries. Dissertation. University of Illinois. Illinois, 2012.
+SILVA, A. A. Otimização do pré-tratamento ácido de torta de caroço de algodão
+e bagaço de malte com farinha de pupunha para produção de bioetanol de
+segunda geração. Dissertação de Mestrado. Programa de Pós-Graduação em
+Química. Universidade Federal dos Vales do Jequitinhonha e Mucuri. Diamantina,
+2012.
+SILVA, C. F. L. et al. Potential of giant reed (Arundo donax L.) for second generation
+ethanol production. Electronic Journal of Biotechnology, 2014.
+79
+SILVA, E. S.; TRINCA, L. A.; NERY, J. T. Áreas espacialmente homogêneas de níveis
+de precipitação nas regiões sudeste e sul do Brasil. Revista Energia na Agricultura,
+v. 24, nº 3, 34-59, 2009.
+SILVA, F. V. Panorama e perspectivas do etanol lignocelulósico. Revista Liberato,
+v.13, nº 20, 2012.
+SILVA, J. R.F. et al. Treatment with compressed liquefied petroleum gas and
+ultrasound to improve cellulase activity. Biocatalysis and Agricultural
+Biotechnology, v. 2, 102–107, 2013.
+SUN, Y.; CHENG, J. Hydrolysis of lignocellulosic materials for ethanol production: a
+review. Bioresource Technology, v. 83, 1–11, 2002.
+TAGOMORI, I. S. Potencial técnico e econômico para a produção de
+fischertropsch diesel a partir de biomassa (ft-btl) associada à captura de
+carbono no Brasil. Dissertação de Mestrado. Programa de Pós-graduação em
+Planejamento Energético COPPE. Universidade Federal do Rio de Janeiro. Rio de
+Janeiro, 2017.
+TAHERZADEH, M.; KARIMI, K. Enzyme-hydrolysis processes for ethanol from
+lignocellulosic materials: a review. BioResources, v. 2, nº 4, 707-738, 2007.
+TANG, D.S. et al. Recovery of protein from brewer’s spent grain by ultrafiltration.
+Biochemical Engineering Journal, v. 48, 1–5, 2009.
+TEIXEIRA, L. C.; LINDEN, J. C.; SCHROEDER, H. A. Simultaneous Saccharification
+and Cofermentation of Peracetic Acid–Pretreated Biomass. Applied Biochemistry
+and Biotechnology, 84–86, 2000.
+TERAMOTO, Y.; LEE, S-H.; ENDO, T. Pretreatment of woody and herbaceous
+biomass for enzymatic saccharification using sulfuric acid-free ethanol cooking.
+Bioresource Technology, v. 99, 8856–8863, 2008.
+80
+VERDE, A. A. et al. Destino sustentável de resíduos de cervejaria artesanal: Um
+estudo de caso em uma granja de suínos. Revista Valore, v. 4, 84-93, Volta
+Redonda, 2019.
+VIANNA, L. S. Avaliação do Potencial dos Resíduos Lignocelulósicos da
+Indústria de Celulose para a Produção de Etanol de Segunda Geração via Rotas
+Químicas. Monografia - Curso Química Industrial. Escola de Química, Universidade
+Federal do Rio de Janeiro. Rio de Janeiro, 2017.
+VILT, J. F. O atual cenário dos combustiveis alternativos na aviação mundial.
+Monografia – Curso Ciências Aeronáuticas. Universidade do Sul de Santa Catarina.
+Palhoça, 2017.
+WINGREN, A.; GALBE, M.; ZACCHI, G. Techno-Economic Evaluation of Producing
+Ethanol from Softwood: Comparison of SSF and SHF and Identification of
+Bottlenecks. Biotechnol. Prog., v. 19, 1109−1117, 2003
+XIANG, Q.; KIM, J. S.; LEE, Y. Y. A Comprehensive Kinetic Model for Dilute-Acid
+Hydrolysis of Cellulose. Applied Biochemistry and Biotechnology, 105–108, 2003.
+ZHANG, S. et al. Alkali combined extrusion pretreatment of corn stover to enhance
+enzyme saccharification. Industrial Crops and Products, v. 37, 352–357, 2012.

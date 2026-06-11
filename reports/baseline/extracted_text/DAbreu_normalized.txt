@@ -1,0 +1,1897 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+ESCOLA DE COMUNICAÇÃO
+CENTRO DE FILOSOFIA E CIÊNCIAS HUMANAS
+JORNALISMO
+“VERÃO DA LATA” E A RENOVAÇÃO DA LINGUAGEM
+NA COBERTURA DE DROGAS E CIDADES
+DANIEL SALGADO DE ABREU
+RIO DE JANEIRO
+2017
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+ESCOLA DE COMUNICAÇÃO
+CENTRO DE FILOSOFIA E CIÊNCIAS HUMANAS
+JORNALISMO
+“VERÃO DA LATA” E A RENOVAÇÃO DA LINGUAGEM
+NA COBERTURA DE DROGAS E CIDADES
+Monografia submetida à Banca de Graduação como
+requisito para obtenção do diploma de
+Comunicação Social/ Jornalismo.
+Daniel Salgado de Abreu
+Orientador: Prof. Dr. Paulo Roberto Pires
+RIO DE JANEIRO
+2017
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+ESCOLA DE COMUNICAÇÃO
+TERMO DE APROVAÇÃO
+A Comissão Examinadora, abaixo assinada, avalia a Monografia “Verão da Lata” e
+a renovação da linguagem na cobertura de drogas e cidades, elaborada por Daniel
+Salgado de Abreu.
+Monografia examinada:
+Rio de Janeiro, no dia ........./........./..........
+Comissão Examinadora:
+Orientador: Prof. Dr. Paulo Roberto Pires
+Doutor em Literatura Comparada pela Faculdade de Letras - UFRJ
+Departamento de Comunicação - UFRJ
+Prof. Cristiane Henriques Costa
+Doutora em Comunicação pela Escola de Comunicação - UFRJ
+Departamento de Comunicação -. UFRJ
+Prof. Fernando Ewerton Fernandez Junior
+Doutor em Ciência da Informação pelo IBICT/Escola de Comunicação - UFRJ
+Departamento de Comunicação – UFRJ
+RIO DE JANEIRO
+2017
+FICHA CATALOGRÁFICA
+DE ABREU, Daniel Salgado.
+“Verão da Lata” e a renovação da linguagem na cobertura de
+drogas e cidades. Rio de Janeiro, 2017.
+Monografia (Graduação em Comunicação Social/ Jornalismo) –
+Universidade Federal do Rio de Janeiro – UFRJ, Escola de Comunicação –
+ECO.
+DE ABREU, Daniel Salgado. “Verão da Lata” e a renovação da linguagem na
+cobertura de drogas e cidades. Orientador: Paulo Roberto Pires. Rio de Janeiro:
+UFRJ/ECO. Monografia em Jornalismo.
+RESUMO
+Este trabalho analisa a cobertura feita entre 1987 e 1988 pela imprensa carioca sobre o
+“Verão da Lata” em seus cadernos de cidade, mais especificamente nas páginas de O Globo
+e Jornal do Brasil. Em particular, de que maneira essas reportagens e artigos diferem do que
+foi feito até então na reportagem brasileira, em especial na sua abordagem para três assuntos:
+as drogas ilícitas, a divisão social e econômica nas grandes metrópoles e a violência urbana
+gerada por elas. Portanto, de que maneira o jornalismo é parte ativa do processo de criação
+das narrativas e opiniõ es de seus leitores sobre a cidade que os cerca. Além de explorar a
+história, estigmas e práticas associadas aos dois assuntos no jornalismo, também examinase qualitativamente, através da Análise do Discurso Crítica, sete reportagens feitas na época
+do “Verão da Lata” pelos dois jornais cariocas.
+Dedicatória
+Aos meus pais, Augusto e Dolores, que tudo me deram e a quem amo mais do que tudo.
+Aos meus avós e tios, ao meu lado desde o começo. Aos meus amigos, que amo e tanto
+admiro. Ao meu professor, Paulo Roberto Pires, pela essencial orientação durante este
+processo. E, em especial, à minha avó Celeste dos Anjos Ramos, que não pôde ver este
+trabalho mas esteve sempre zelando por mim.
+ÍNDICE
+1. INTRODUÇÃO…………………………………………………………………….1
+2. AS DROGAS E O JORNALISMO ...............................................……….….….5
+2.1 O jornalismo e a maconha ao longo da história..………………………………6
+2.2 Os leitores e as drogas...……………………………………………….……..…10
+2.3 As drogas nos boletins policiais...........................................................................13
+3. O JORNALISMO E A CIDADE......……………………………………………18
+3.1 O jornalismo de cidade ganha novas técnicas.....................…………….………19
+3.2 O Tempo na narrativa jornalística.....………………………………………26
+3.3 O Estigma e a Notícia…………………………………………………………32
+3.4 Equilibrando expectativas....................................................................................33
+4. ANÁLISE DAS REPORTAGENS.....……………………………………………37
+4.1 A Análise do Discurso Crítica............................................…………….………38
+4.2 As ferramentas de análise.........................................…………………………40
+4.3 Análise dos objetos.....………………………………………………………41
+5. CONCLUSÃO.........................................................................................................57
+6. BIBLIOGRAFIA
+1
+Os chassídicos contam uma história sobre o
+mundo que virá em que tudo lá será como é por
+aqui. Assim como nosso quarto é agora, assim
+ele será no mundo que virá; as roupas que
+vestimos hoje, serão as mesmas no próximo
+mundo. Tudo será como é agora, apenas um
+pouco diferente.
+(Ben Lerner, 2014)1
+1. INTRODUÇÃO
+De boca a boca, o “Verão da Lata” deixou de ser apenas uma questão de boletins
+policiais na imprensa para invadir a cultura: músicas, camisetas, livros e documentários
+foram feitos em homenagem ao acontecimento. Dezenas de reportagens narraram a chegada
+das milhares de latas lacradas com maconha nas praias do sul e sudeste brasileiro. Com
+contornos de romance policial, a história da tentativa frustrada de tráfico internacional de
+drogas protagonizada pelos tripulantes do navio “Solana Star” foi destrinchada entre
+setembro de 1987 e março de 1988 nas páginas da grande imprensa.
+Logo se soube que Stephen Skelton, cozinheiro da embarcação, seria o único preso
+pelo crime cometido no litoral fluminense. Por isso, a ação da Polícia Federal recebeu
+repetido destaque em manchetes ao longo de todo o processo. Mas nada disso explica a
+permanência do caso no imaginário popular carioca. Mais do que isso, dentre as milhares de
+latas que boiavam no litoral carioca, muitas foram parar na mão da população civil.
+Além da permanência como acontecimento cultural, o “Verão” se destacou pelas
+maneiras como não foi descrito. Parte considerável das reportagens feitas sobre venda,
+compra e uso de entorpecentes figuram exclusivamente no âmbito da violência urbana e de
+segurança pública, com uma longa e profunda associação entre maconha, tráfico de drogas
+e falência social nos jornais do Rio de Janeiro. Mas, por conta de sua chegada que fugiu do
+contexto do crime organizado carioca, as latas do “Solana Star” não foram alvo da mesma
+contextualização.
+O seguinte trabalho se propõe, portanto, a entender se o “Verão da Lata” aparece
+como emblemático na história do jornalismo carioca. O objetivo é analisar, através do estudo
+bibliográfico sobre como as drogas ilícitas e as próprias cidades aparecem nos jornais, quais
+são os padrões por eles estabelecidos para essas duas coberturas. Além disso, observar de
+1 Tradução do autor. LERNER, Ben. 10:04. Nova Iorque: Faber and Faber, 2014. p 2
+2
+que maneira o “Verão” foi, de fato, retratado na grande imprensa do Rio de Janeiro através
+do Jornal do Brasil e O Globo. Por fim, o trabalho tenta entender de que maneira os objetos
+analisados dialogam com as tendências discursivas apontadas anteriormente, seja mantendo
+ou afastando-as.
+Com essas propostas em mente, uma revisão bibliográfica nos dois primeiros
+capítulos procura dar conta de contextualizar o ocorrido com outros casos similares na
+história da imprensa brasileira, além de buscar mostrar um arcabouço teórico que contemple
+o jornalismo, a cidade e as drogas ilícitas. No terceiro capítulo, então, o trabalho passará para
+uma análise qualitativa de reportagens feitas pelo Jornal do Brasil e O Globo sobre o “Verão
+da Lata”. Para isso, a metodologia de Análise do Discurso Crítica foi escolhida. O objetivo
+é descobrir se, na cobertura desses dois jornais, o “Verão” possibilitou uma mudança de
+formato e tom em relação ao visto nos capítulos anteriores.
+O primeiro capítulo aborda as relações entre imprensa e drogas ilícitas, analisando
+como esses entorpecentes — e, mais em específico, a maconha — foram retratados no jornais
+brasileiros ao longo do século XX. Pesquisas, teorias e reportagens de diversas épocas serão
+analisados para poder montar um panorama da transformação discursiva do assunto até a
+chegada do “Verão da Lata”, no final da década de 1980. Mais especificamente, se observa
+como a maconha alcançou um status de inimigo público nos jornais durante as décadas de
+1940 e 1950, culminando em fortes campanhas antidroga nos anos seguintes.
+Subdivido em três partes, o capítulo primeiro apresenta uma história da maconha na
+imprensa brasileira e como ela assumiu um papel progressivamente negativo nesse espaço
+ao longo da primeira metade do século XX. Além disso, os fatores que levaram a uma
+mudança de paradigma do final dos anos 1980, época em que as reportagens sobre a droga
+passaram a se tornar menos agressivas, serão esmiuçados.
+Em seguida, é feita uma análise do público leitor da Zona Sul que também é usuário
+de drogas. Nesse caso, foi consultado principalmente o livro “ Nobres & Anjos ”, em que
+Gilberto Velho realiza uma e tnografia do consumo de drogas entre a elite financeira e
+cultural do Rio de Janeiro nos anos de 1970.
+Por fim, é abordada a questão da associação entre as drogas e os boletins policiais.
+Mais especificamente, em como essa ligação foi feita pela imprensa brasileira e como isso
+resultou, ao longo dos anos, no papel simbólico e discursivo da maconha como uma das
+maiores mazelas sociais do Rio de Janeiro. O objetivo é entender como a droga se tornou
+3
+quase exclusivamente um assunto de segurança pública, pouqu íssimas vezes sendo tratada
+como uma pauta de comportamento ou cultura.
+O segundo capítulo trata da relação simbiótica entre o jornalismo e a cidade, local
+que ao mesmo tempo permite a existência da imprensa organizada e acaba por se tornar seu
+principal objeto de descrição. No contexto do “Verão da Lata”, o objetivo é compreender
+como essa dinâmica entre repórter, leitor e as ruas pod e ter impactado na maneira como o
+acontecimento foi noticiado durante seu desenrolar. Especificamente, de que maneira os
+muitos locais em que as latas apareceram foram retratados e se os fatores populacionais da
+região influenciaram nessas diferenças.
+Para isso, o capítulo é subdividido em quatro partes. A primeira aborda o processo
+histórico de surgimento e criação das técn icas utilizadas pelos repórteres de cidade na
+transição do século XIX para o XX, e de que maneiras esse tipo específico de reportagem se
+estabeleceu nos jornais diários das principais metrópoles do mundo. Além disso, são
+apresentados fatores econômicos, so ciais e culturais que serviram como forças que
+moldaram o noticiário de cidade nesses anos formativos.
+Na segunda parte, o objetivo é apresentar a temporalidade da notícia como fator
+determinante no tom de voz e abordagem das reportagens que tratam do espaço urbano e de
+seus moradores. Como, por exemplo, os arcos narrativos das reportagens, publicadas
+diariamente e muitas vezes dialogando internamente para a construção de uma visão de
+mundo, são uma causa determinante para a reprodução de discursos dentro das páginas dos
+jornais.
+É a partir dessa reflexão que a terceira parte toca nos estigmas sociais no jornalismo.
+Mais especificamente, de como o jornalismo de cidade estabelecido no século XX tem como
+um de seus maiores efeitos colaterais a criação desses estigmas sobre determinados grupos,
+ações e instituições na sociedade, incluindo os usuários de drogas. O caso específico da
+realidade brasileira e principalmente carioca, com sua profunda divisão social urbana,
+também é apresentado como representativo dessa questão.
+Na quarta e última seção, o relacionamento entre notícia, jornalista e leitor são
+abordados. Trata-se de analisar de que maneira o relacionamento entre os três se desenvolve
+e se retroalimenta. Como o jornalista afeta o ponto de vista da socie dade civil e como essa
+mesma sociedade expõe suas expectativas sobre o que é ou não notícia, algo que pauta o
+4
+trabalho do repórter. A discussão é vista também em situações mais extremas, como no caso
+dos estigmas apresentados anteriormente.
+Por último, no terceiro capítulo, é feita a análise de reportagens publicadas no Jornal
+do Brasil e O Globo durante o “Verão da Lata”, mais especificamente entre os meses de
+setembro de 1987 e março de 1988. Os objetos que são apresentados foram adquiridos em
+pesquisa feita na Hemeroteca da Biblioteca Nacional, onde estão disponíveis os arquivos do
+Jornal do Brasil em sua totalidade; e no acervo de O Globo, que foi acessado mediante
+pedido ao setor de pesquisa do jornal.
+Com 37 documentos relacionados, sete dessas reportagens servem de base para que
+seja realizado um estudo qualitativo. Para isso, a metodologia escolhida é a da Análise do
+Discurso Crítica, especificamente como proposta pelos autores Norman Fairclough e Teu n
+Van Dijk. A escolha de uma metodologia para análise qualitativa se deu por conta da
+natureza do material. Não há um número grande o suficiente que fosse feita uma observação
+frutífera em níveis quantitativos. Porém, as reportagens escolhidas demonstram u ma rica
+profundidade linguística, estrutural e semiótica que favorecem a primeira opção.
+A Análise do Discurso Crítica é utilizada justamente por sua natureza
+interdisciplinar. Composta de influências da linguística, comunicação, antropologia,
+sociologia e psicologia, a metodologia se estrutura em torno de questões maleáveis
+aplicáveis ao discurso – que inclui o jornalístico – analisado. Ao buscar a união das análises
+do texto – suas frases, coesão e características gramaticais e estilísticas – com seu contexto
+de produção e recepção social e histórico, a teoria servirá para entender como essas
+dimensões se apresentam no Jornal do Brasil e no Globo durante o desenrolar do “Verão da
+Lata”.
+Assim, ao passo dessas três etapas, o trabalho busca analisar como o “Verão da Lata”
+se apresentou no jornalismo carioca, demonstrando uma particularidade em relação a
+cobertura usual sobre drogas ilícitas. Mais do que isso, comparar também as linhas editoriais
+e os critérios estéticos, políticos e jornalísticos de ambos o Jornal do Brasil e O Globo,
+apresentando as diferenças de abordagem dos dois no final da década de 1980.
+5
+2. AS DROGAS E O JORNALISMO
+A novidade era o máximo
+Do paradoxo estendido na areia
+Alguns a desejar seus beijos de deusa
+Outros a desejar seu rabo pra ceia
+(Gilberto Gil, 19862)
+No final de 1987, mais especificamente no verão, milhares de latas lacradas com
+maconha embalada a vácuo encalharam pelo litoral brasileiro. P rimeiro no estado de São
+Paulo, depois em Maca é e enfim chegando nas praias de todo o Sudeste e Sul, as latas
+começaram a ser disputadas a tapa pelos banhistas. A palavra que corria o país era a mesma:
+dentro delas, de muitas delas, o conteúdo era maconha prensada – e, ao que se dizia, da
+melhor qualidade. Sua aparição, que entraria para o folclore dos anos 1980, rendeu
+posteriormente um livro e um documentário.3 O que significou, naturalmente, uma cobertura
+intensa na imprensa da época, levando o episódio a ser conhecido como o “Verão da Lata”,
+na virada de 1987 para 1988. Foram dezenas de matérias, reportagens e notas publicadas ao
+longo dos meses em que a população do sudeste recebia milhares de latas traficadas em suas
+praias.
+E no caso dos jornais, em particular, o “Verão” foi alvo de uma complexa cobertura
+por parte dos dois maiores diários do Rio de Janeiro de então: o Jornal do Brasil e O Globo,
+que disputavam um público economicamente similar mas socialmente distinto, com isso,
+também promovendo abordagens diferentes sobre o caso. E é através dessas reportagens que
+se evidenciam duas propostas de como realizar um trabalho de jornalismo de cidade. Para
+entender a especificidade dessa dinâmica do “Verão da Lata ” e os dois jornais, antes, é
+preciso analisar a maneira com que as drogas foram tratadas nas publicações brasileiras
+anteriormente e posteriormente ao fato.
+2 Trecho da música “A Novidade”, escrita por Gilberto Gil, Bi Ribeiro, Herbert Vianna e João Barone.
+3 Respectivamente, o livro “Verão da Lata” do jornalista Wilson Aquino, publicado em 2012, e o documentário
+“O Verão da Lata – Deus é brasileiro” de Tocha Alves, de 2014. Essinger, S. Livro e filme recontam história
+do Verão da Lata . Disponível em: https://oglobo.globo.com/cultura/livro-filme-recontam-historia-do-veraoda-lata-5479579 Acesso em: 15 de novembro de 2017.
+6
+2.1 O jornalismo e a maconha ao longo da história
+Presente no país desde o século X VIII4, a maconha aparece na imprensa brasileira pelo
+menos desde o começo do século XX, quando o governo regulamenta de maneira concreta
+a proibição de sua venda, uso e plantio com legislações conce bidas na década de 1910. É
+nesse contexto, no ano de 1930, que o ainda jovem jornal O Globo publica uma matéria em
+que mostra a facilidade da compra da maconha, então chamada de “diamba” nas ruas do
+centro do Rio de Janeiro.5 A denúncia de estabelecimentos chamados de “herbanários” deu
+o tom para a cobertura que seria feita dali para frente em território brasileiro até, justamente,
+a virada dos anos 1980 para 1990.
+Outro episódio, que se aproximou da abordagem feita até então com os herbanários,
+foi uma série de reportagens feitas por Vinícius Lima para o jornal O Globo. Conhecido por
+suas matérias autorais, raras nas décadas de 40 e 50, Lima chegou a passar quarenta dias
+dentro de um presídio carioca disfarçado como preso6. E foi em 1956 que escreveu as
+reportagens que lhe garantiriam menção honrosa no prêmio Esso do ano seguinte: “O Globo
+devassa o mercado maldito da maconha” 7. Ao longo de duas semanas, o jornal carioca
+publicou em suas páginas a jornada de Lima, que percorr eu um trajeto de milhares de
+quilômetros entre o Rio de Janeiro e o Nordeste em busca de uma suposta “linha do tráfico”.
+O repórter descreveu enormes plantações no sertão do Brasil, explicou os efeitos da droga
+para seus leitores e até disse ter a experime ntado, tudo isso enquanto se disfarçava de
+“malandro e maconheiro”. O material, apesar de diligentemente apurado, pinta um panorama
+alarmante e de pânico para os leitores da capital. Já em seu primeiro lide, a mensagem é
+clara: “Não nos iludamos, a maconha é uma ameaça que se concretizará se não encontrar
+firme resistência”. O Globo e Lima descrevem o objetivo da série como “alertar a Nação e
+os responsáveis para o seu perigo”.
+4 Como visto na entrevista com Jean Marcel Carvalho, autor do livro “História da maconha no Brasil”. Teixeira,
+F. Maconha ganha livro sobre sua história. Disponível em:
+https://oglobo.globo.com/sociedade/historia/maconha-ganha-livro-sobre-sua-historia-no-brasil-15816320
+Acesso em: 15 de novembro de 2017.
+5 Villela, G. ‘Pito de Pango’, na década de 30 maconha era vendida em herbanários . Disponível em:
+http://acervo.oglobo.globo.com/em-destaque/pito-do-pango-na-decada-de-30-maconha-era-vendida-emherbanarios-do-rio-13352181 Acesso em: 9 de novembro de 2017
+6 Matéria jornal O GLOBO, 17/08/2005 - “Vinícius Lima, o intrépido repórter”.
+7 Matéria do jornal O GLOBO 24/04/1956
+7
+Figura 1 Box de uma das reportagens de Vinícus Lima para O Globo. O usuário de maconha era descrito como "Um peso
+morto para sua terra".8
+Até os anos 70, os critérios editoriais da imprensa nacional não costumavam
+privilegiar reportagens sobre o consumo de drogas ilícitas no Brasil , mas o tom de voz
+remetia ao de Lima . A tímida cobertura não significa va que as poucas notícias sobre o
+assunto não tivessem, em sua maioria, um viés negativo. O que se reforçou, naquela década,
+principalmente como repercussão de eventos internacionais. Como descrito por Fáb io
+Mastroianni em “ As drogas psicotrópicas e a imprensa brasileira: análise do material
+publicado e do discurso dos profissionais da área de jornalismo ” (2006), o endurecimento
+da imprensa norte -americana em relação ao consumo de entorpecentes e o surgimen to da
+chamada política de “guerra às drogas”, que existe até os dias de hoje, acabou gerando uma
+8 Publicado no dia 12 de maio de 1956, na capa do jornal O Globo
+8
+onda similar em outros países, principalmente os que, como o Brasil, eram parte da rota
+internacional do tráfico de drogas.
+Na ocasião, o Brasil não dispunha de dados epidemiológicos consistentes
+e, portanto, não se tinha ideia da situação nacional em relação às drogas
+psicotrópicas. Essa carência de dados abriu espaço para que se instalasse
+um verdadeiro “pânico”, especialmente envolvendo o uso de drogas
+ilícitas, como a maconha, cocaína, LSD e heroína, entre estudantes. [...]
+Nesse contexto, o jornalismo teve um papel significativo na divulgação do
+“pânico”. (MASTROIANNI, 2006, p 4)
+A falta de informação vinda de estudos e censos formalizados permitiu, até o fim da
+década de 1980, que o tom das matérias se mantivesse altamente agressivo em relação ao
+consumo de drogas. A situação só se modificou no final daquela década, com o início d e
+pesquisas, como as realizadas pelo CEBRID (Centro Brasileiro de Informações sobre Drogas
+Psicotrópicas), que observaram grupos de estudantes e crianças em situação de rua. De
+acordo com Mastroianni , as pesquisas revelaram um retrato epidemiológico de núm ero
+“relativamente discreto de usuários, predomínio das drogas lícitas (como solventes e alguns
+medicamentos psicotrópicos), bem como uma tendência ao aumento do consumo dessas
+drogas” (2006, p 5).
+Na distinção entre drogas lícitas e ilícitas, faz -se necessário um adendo. De acordo
+com Carlos Torcato, em “Breve História da Proibição no Brasil: uma revisão” (2014), as
+drogas podem ser divididas em dois grandes grupos. São eles os “três grandes” – álcool,
+açúcar e tabaco – e “três pequenas” – ópio, maconha e os derivados de coca. No mesmo
+texto, o autor define os termos da proibição no Brasil, que teria começado a se fortalecer
+principalmente na reta final da Segunda Guerra Mundial, como “um exemplo mundial de
+adequação à política de drogas proibicionista defe ndida pelos EUA ”. Outro ponto para
+explicar a firme animosidade da imprensa com a maconha é a história da chegada dela ao
+Brasil. Sendo trazida pelas populações escravizadas, e traçando suas origens à Índia do
+século XVI, ela foi primeiramente popularizada em regiões de baixa renda, utilizada
+principalmente por grupos marginalizados. Como visto na reportagem de Vinícius Lima, da
+época de popularização da droga pelos centros urbanos brasileiros, boa parte da plantação e
+uso da maconha então se dava no Sertão nordestino. (2014, p 152-153)
+Ainda assim, a manutenção da abordagem alarmista na imprensa até os anos 80, se
+deu em parte pela falta de pesquisas e censos que traçassem um perfil do usuário de drogas
+brasileiro. Sem a clareza e o entendimento de quem eram esses usuários, os jornais acabaram
+por reproduzir um discurso calcado no medo de sse “ grupo social ” desconhecido. Como
+9
+exemplificado por André Reyes Novaes em “Cartografia jornalística, imagem e significado:
+um e estudo da representação das drogas ilí citas brasileiras” (2008), esse desconhecimento
+fez com que repórteres reproduzissem modelos de discurso já vigentes. Utilizando
+“esquemas já prontos” , eles não se permitiram uma mudança no tom de suas reportagens
+sobre a maconha ou de outras drogas. (2008, p 243).
+Ou, seja, a falta de informação permitiu que o jornalismo brasileiro, em especial até
+os anos 80, servisse de canal para os discursos dos poderes estatais que buscavam reprimir
+o consumo de drogas. Como assinalado anteriormente, não é coinc idência que se trate da
+época do endurecimento da “guerra às drogas” dos Estados Unidos e da Ditadura Militar
+brasileira, ao mesmo tempo conservadora com relação ao uso das drogas e altamente
+interessada em alinhar seus interesses com os norte-americanos.
+Como observa Mastroianni (2006), o quadro só começa a se transformar com o início
+das pesquisas do CEBRID justamente em 1987, o ano do “Verão da Lata” – o que situa o
+episódio no exato momento de ssa transformação discursiva. Se trata de uma época de
+mudança de paradigma, em que as drogas passaram a ser objeto de estudo acadêmico formal
+no país, o que, contudo, só geraria repercussões na imprensa nos anos seguintes. Há, então,
+um leve descompasso que se reflete nos dois jornais e seus públicos alvos.
+Ana Noto et al. (2013), no capítulo “Cobertura jornalística sobre drogas: distorções
+e potencialidades na prevenção” no livro “Ações Integradas sobre Drogas”, descrevem como
+a imprensa impacta diretamente a agenda da saúde e segurança pública, em especial
+envolvendo as políticas sobre uso de drogas. Citando a teoria de agenda-setting, os autores
+destacam o poder dos meios de comunicação em transformar e moldar a opinião de seus
+leitores sobre os mais variados temas. O processo se tornaria completo quando esses leitores
+por sua vez demandassem mudanças para que as políticas públicas se alinhem com os
+critérios editoriais dessas publicações:
+Se, por alguma razão, a imprensa caminha em descompasso com a
+epidemiologia, tendem a ocorrer inversões de prioridades. Nesse aspecto
+chama também atenção, a forma como as evidências científicas são
+transformadas e veiculadas na mídia leiga, algumas vezes podendo
+distorcer ou s upervalorizar de forma descontextualizada resultados de
+pesquisa, se transformando muitas vezes como fonte de evidência
+secundária e definindo prioridades de ação e políticas públicas que
+empiricamente não se sustentam. (NOTO et al., 2013, p 3)
+10
+2.2 Os leitores e as drogas
+Ainda que ambos buscassem um aumento nas vendas na Zona Sul carioca, o Globo
+e o Jornal do Brasil dialogavam com populações internam ente distintas, especialmente
+durante o período da transição democrática. O primeiro jornal, de perfil mais conservador,
+lidava com a elite burguesa da região, e o segundo, com a elite liberal e progressista,
+defensora, dentre outros assuntos, da legalização da maconha. A diferença, profunda, se
+refletiu na cobertura de ambos, especialmente com a abertura de espaço dentro do caderno
+de cidade do Jornal do Brasil para matérias de comportamento que fugissem ao boletim
+policial e se aproximassem dos especiais de comportamento. Por isso, é preciso entender
+qual era o perfil dos usuários de drogas da Zona Sul, a região mais citada na cobertura do JB
+e do Globo durante o “Verão da Lata” . Quem traçou uma retrato claro desses grupos foi o
+sociólogo Gilberto Velho, em sua tese de doutorado “Nobres & Anjos” (1998),
+originalmente escrita em 1974.
+Trata-se de um estudo de dois grupos de usuários de tóxicos da Zona Sul daquele
+momento: um composto de 25 indivíduos que tinham entre 25 e 35 anos, profissionais
+liberais, intelectuais e artistas, em que o autor também se inclui, chamados de
+“vanguardistas-aristocratizantes”; e de um número não determinado de adolescentes e jovens
+adultos entre 13 e 25 anos frequentadores de uma lanchonete, no Leblon, que servia de ponto
+de encontro para o uso de drogas recreativas 9 e uma cultura de surfe, com uma intersecção
+considerável de laços de parentesco com os dos “vanguardistas”.
+Apesar das diferenças de comportamento, posicionamento político e círculos sociais,
+os dois grupos se unem em aspectos que os distanciam de outros círculos notados por Velho
+(1998). Como descrito pelo sociólogo, os dois ocupavam o mesmo estrato social, com rendas
+em suas casas flutuando entre os valores de US$ 4 mil – 40 mil mensais, em cotação da
+época. Para além disso, preferiam a maconha como tóxico recreativo, suplantando as outras
+opções secundárias como a cocaína, o álcool, o tabaco, o ácido e as drogas de farmácia.
+Pensando no momento do “Verão da Lata”, é possível inferir que os grupos estudados
+por Velho representariam parte dos leitores do Globo e Jornal do Brasil durante o verão de
+1987. Ambos os jornais eram — e no caso do Globo, continua — consumidos principalmente
+9 Categoria de drogas utilizadas para fins recreativos. São geralmente psicoativas e muitas vezes consumidas
+em contextos sociais. Entre elas estão não apenas drogas ilegais como maconha, cocaína e LSD, mas também
+o álcool e o tabaco.
+11
+por membros das classes A e B, o que inclui os grupos estudados por Gilberto Velho levando
+em conta suas rendas familiares. De acordo com os próprios entrevistados, eles esses eram
+“aristocratas de sangue”, membros de famílias ascendidas socialmente há pelo menos duas
+gerações. Outro ponto de intersecção, especialmente relevante no contexto do “Verão da
+Lata”, é a praia como ponto de encontro e marcador indenitário. Tanto para o grupo mais
+velho quanto para o mais jovem, a praia era indissociável de seus estilos de vida, sendo
+espaço de prática de esportes e convívio social. Ao analisar o comportamento do grupo de
+mais idade, em um dia de verão na Praia de Ipanema, o antropólogo constatou:
+De um modo geral, pode -se dizer que naquela área da praia concentra -se
+boa parte do círculo intelectual -artístico-boêmio da Zona Sul do Rio. Os
+diferentes grupos se fixam, havendo, no entanto, circulação, com pessoas
+deslocando-se de um para outro, embora de um modo geral todos tenham
+um ponto de referência mais ou menos fixo. (VELHO, 1998, p 49)
+A praia da Zona Sul havia se tornado um espaço de demarcação de hierarquia social
+e econômica. Em suas areias, diversas “tribos” de jovens se dividiam em torno desses fatores
+e não por conta de diferenças culturais ou estéticas. Entre esses grupos, Velho destacou os
+abastados “jovens de lanchonete” e os “hippies de mus eus”. Os últimos, de menor poder
+aquisitivo, eram em sua maioria de bairros como “Santa Teresa, Copacabana, Botafogo e os
+da Zona Norte”, e incluíam mais “jovens de cor”, uma diferença notável em comparação ao
+primeiro grupo. Não à toa, para o antropólogo, eram também os “hippies de museu” os
+maiores alvos da violência policial por conta do seu uso de drogas10.
+[Os hippies de museu] , estão mais sujeitos às ações policiais e à
+discriminação mais violenta de que outros grupos sociais. Podem ser
+presos sem maiores justificativas, os lugares que moram são
+constantemente denunciados, por vizinhos zeloso s, como ‘antros de
+maconheiros. (VELHO, 1998, p 169)
+Em um terceiro momento, o autor destaca um aspecto específico da cultura de praia
+em comparação com outros ambientes sociais frequentados pelos grupos, em especial o dos
+“vanguardistas-aristocratas” de meia idade. Segundo ele, o litoral de Ipanema servia como
+espaço para troca de informações sobre a compra de drogas (1998, p 58) . O processo,
+conhecido na época como “boa transa”, se tornou lugar-comum nos círculos mais abastados.
+Ele consistia, basicamente, em entrar em contato com um “transeiro” 11 — espécie de
+10 Essa associação entre baixa renda, uso de drogas e coibição policial será retomada nos capítulos seguintes ,
+especialmente na medida em que é uma ligação profundamente explorada e repetida nos jornais.
+11 Quanto aos “transeiros”, Velho os define como, “pessoas de camadas média s que desempenhavam essa
+atividade como forma de aumentar seus rendimen tos assalariados”, e que, por sua vez, “adquiriam os tóxicos
+de outras pessoas que dispunham de mais capital”. (VELHO, 1998, p 74).
+12
+traficante de meio-período que vendia a maconha—, e então repassar a droga entre os outros
+frequentadores da praia, normalmente a preço de custo. Contudo, esses não eram os únicos
+métodos de compra de entorpecentes, que também podiam envolver o tráfico já existente de
+drogas. De acordo com Velho:
+No caso da maconha, especific amente, alguns poucos homens do grupo
+poderiam ocasionalmente adquiri -la com favelados em locais situados
+perto dos morros cariocas, em geral da Zona Sul. Essas operações eram
+conduzidas sempre com uma certa tensão (VELHO, 1998, p 74)
+Em um nível comportamental, a maconha servia como marcador cultural. Os
+usuários, em ambos os grupos, sustentavam parte de sua identidade e conexão social no uso
+compartilhado da maconha, coisa que não acontecia no caso de outras drogas recreativas. O
+status agregador da maconha, destacado pelo autor como “aspecto comunitário”, não era
+particular apenas aos dois grupos analisados, e podia ser percebido também, por exemplo,
+entre os “hippies de museu” . A oposição entre os usuários e os considerados “caretas” 12,
+explicitava essa distinção.
+O sociólogo, em uma de suas raras menções diretas aos meios de comunicação no
+trabalho, aborda a questão de homogeneização dos usuários de tóxicos. Para ele, a imprensa
+cometeria, repetidamente, um erro de análise ao agrupá-los em categorias únicas e ignorar
+as divisões sociais, culturais e econômicas. Ao misturar hippies¸ surfistas, intelectuais e
+tantas outras vertentes, os jornais criaram uma “falsa unidade”. Para Velho, o amálgama
+criado pelos repórteres se daria por conta da natureza do uso das drogas, fato “tão violento e
+mobilizador para a cultura dominante que passa a ser o foco de todas as atenções, fazendo
+com que se ignorem problemas cruciais”. (VELHO, 1998, p 172)
+Um último ponto d o livro é a presença, já naquele mome nto, da distinção entre os
+dois “lados d o túnel”. De acordo com ele , entre os grupos analisados eram constantes as
+piadas sobre o “além-túnel”, ou seja, os bairros da Zona Norte e Oeste, existentes “do outro
+lado” dos túneis Rebouças e Santa Bárbara se vistos da Zona Sul . Além disso, o fato de
+serem oriundos, nascidos e criados da Zona Sul, servia de fator unificador cultural e social
+entre aqueles jovens. Por isso, ainda destacando as diferenças hierárquicas de poder na
+sociedade carioca, e suas representatividades mais consideradas, o antropólogo definiu que
+12 “A categoria careta marca a visão de sexo dessas pessoas, distinguindo -as. O uso da maconha permite o
+reconhecimento de semelhantes, de próximos ou, pelo menos, de indivíduos não hostis. É fundamental para o
+sistema de comunicação interno e externo do grupo”. (VELHO, 1998, p 140)
+13
+“a oposição Zona Sul x Zona Norte marca fronteiras, em termos de estilo de vida, de forma
+mais marcante que Rio x Outros Estados”. (VELHO, 1998, p 26)
+2.3 As drogas nos boletins policiais
+Para além a análise do público leitor dos dois jornais, marcadamente da elite do Rio
+de Janeiro e próximo dos grupos sociais descritos por Velho, é importante retomar a questão
+da posição do tema das drogas ilícitas como parte do noticiário policial dentro do jornalismo
+brasileiro. Como visto anteriormente, não é uma associação recente, datando pelo menos até
+os anos 1930 no Globo e se intensificando ao longo das décadas posteriores, em especial
+com o surgimento de epidemias de saúde pública envolvendo drogas como a cocaína,
+heroína e especialmente crack.
+A abordagem não é exclusiva do Brasil. Como demonstrado por Mastroianni (2006),
+o mesmo aconteceu nos Estados Unidos. O autor aponta que entre 1985 e 1994, quanto mais
+três grandes jornais do país usassem as palavras “crise” e “drogas” nos mesmos parágrafos,
+maior era a percepção populacional de que os problemas do país advinham das drogas.
+Analisando aproximadamente este mesmo período, mas utilizando outros
+veículos, perceberam que a imprensa americana criou um pânico em
+relação a uma possível epidemia de crack. Os autores consideraram que
+essa visão incorreta do “problema”, constr uída pelos jornais,
+provavelmente ajudou a desviar a atenção da população de problemas
+estruturais persistentes. (MASTROIANNI, 2006, pg 14)
+Eram frequentes as reportagens apresentando “apreensões, situações de violência,
+casos de dependência, campanhas e polêmicas nacionais e internacionais” que tocassem no
+assunto do uso, compra ou venda de drogas. E a prioridade da cobertura policia l em
+detrimento das abordagens envolvendo saúde ou comportamento acab ou por gerar um
+descompasso entre a mídia, que, como visto, pauta o discurso público, e os últimos
+desenvolvimentos científicos ou sociológicos sobre o tema.
+Um exemplo do abismo entre a abordagem da imprensa e as últimas constatações
+médicas e científicas sobre o assunto é a cobertura sobre o uso de álcool no país. Apesar de
+se tratar da droga mais consumida do Brasil, mais do que cigarro, maconha e cocaína, e de
+causar um considerável custo à saúde pública, o álcool não se destaca no noticiário em
+relação às demais drogas. Independentemente dos problemas gerados pelo alcoolismo, ou
+dos acidentes de trânsito causados por ele, a quantidade da menções ao álcool se mantém no
+mesmo patamar de outras drogas — ilegais — que geram menos transtornos públicos. De
+14
+acordo com Mastroianni (2008), até m esmo outras drogas como os inalantes e diversos
+medicamentos psicotrópicos têm sido “negligenciados pela imprensa”. O autor ainda fala
+sobre como as drogas são mais presentes nos cadernos policiais se compara do com as
+páginas de saúde da imprensa nacional. Para ele:
+Isto demonstra que a discussão acerca deste assunto no Brasil está mais
+atrelada a uma questão de segurança do que de saúde. Havendo, portanto,
+um predomínio do discurso repressivo que legitima práticas que visam
+apenas à redução da oferta como forma de lidar com a questão.
+(MASTROIANNI, 2006, p 17)
+É um resultado similar ao “Mídia e Drogas - O perfil do uso e do usuário na imprensa
+brasileira”, outro estudo citado por Mastroianni. R ealizado pela ANDI — Agência de
+Notícias dos Direitos da Infância — em parceria com o Programa Nacional de DST/AIDS
+do Ministério da Saúde, a publicação é de 2005 . Analisando textos de imprensa publicados
+entre 2002 e 2003 e que trouxeram como assunto as drogas ilegais, o órgão notou que boa
+parte das citações associava a temática com a violência ou crimes. De acordo com a pesquisa,
+28% das reportagens faziam esse tipo de ligação, gerando uma percepção do usuário de
+drogas como parte da criminalidade urbana.
+Ainda assim, a cobertura relacionada à maconha se distanci a das outras drogas
+ilegais. Diferentemente da cocaína, crack, heroína e outros psicotrópicos, uma quantidade
+considerável de matérias feitas sobre a maconha é comumente vista nos cadernos de
+sociedade e ciência, onde seus valores terapêuticos e sua legalização são discutidos e
+ponderados, refletindo a progressiva descriminalização da droga pelo mundo.
+A especificidade, porém, não significa que a cobertura policial seja substituída pela
+de comportamento. A abordagem usual se mantém sendo a criminal, associando apreensões
+e informações sobre o tráfico de droga com a maconha. Como dito por Jacqueline Barbosa
+em “A representação da subjetividade do indivíduo usuário de drogas na linguagem
+jornalística” (2017), o usuário, referido como “maconheiro” na mídia, se torna alvo de uma
+criminalização do próprio uso recreativo da droga.
+O discurso de combate às drogas tende a reforçar um estereótipo de
+criminalidade, colocando o indivíduo usuário à margem da sociedade (...)
+Assim, a mídia brasileira quase sempre toma como ponto de partida uma
+relação estreita desse sujeito como “difusor” da v iolência urbana.
+(BARBOSA, 2017, p 58)
+A tendência à estigmatização do usuário já era notável no começo dos anos 2000,
+como revelado no estudo de Fábio Mastroianni (2006). Ao analisar cerca de 250 artigos
+15
+relacionados ao tráfico de maconha — 89 publicados em 2000 e 168 em 2003 —,
+Mastroianni percebeu que el es apareceram em números consideravelmente maiores se
+comparados com outros tópicos envolvendo a droga . O número de reportagens envolvendo
+o tráfico, inclusive, duplicou entre os dois anos analisados, enquanto não houve mudança
+significativa no caso das pautas 'não criminais'. É apontado também outro fato: de que o
+número de matérias que contextualiza m a questão e utilizam mais de uma fonte em sua
+apuração, diminuíram nesse período.
+Ainda de acordo com Mastroianni (2006), o tema mais abordado nas matérias
+analisadas do ano de 2000 foi o de políticas públicas , totalizando 27,5% das matérias. O
+segundo lugar ficou com a s "consequências de uso", um assunto que foi tratado em 21,8%
+das reportagens. O autor ainda destaca uma inversão na quantidade de matérias feitas no Rio
+e em São Paulo. Se em 2000 foram principalmente os jornais paulistanos Folha e Estado
+que cobriram temas relacionados à maconha, em 2003 a liderança ficou com O Globo e o
+Jornal do Brasil (2006, p 54). Por conta dessa abordagem mais equilibrada – se comparada
+com as outras drogas – a maconha é alvo muitas propostas de intervenção pública. Os jornais,
+acabam falando tanto da questão de saúde quanto do tráfico de drogas, esporadicamente
+utilizando seus espaços para entrar no debate social sobre a legalização da droga. Como
+aponta Mastroianni:
+As principais soluções e intervenções citadas nas discussões sobre a
+maconha, tanto no ano de 2000 como no ano de 2003, referem -se a
+políticas públicas específicas para o setor, principalmente exemplos de
+alterações nas legislações de outros países que permitem a utilização da
+maconha para fins medicinais, tornando essa medida presente na pauta da
+agenda pública referente à maconha. Houve uma diminuição significativa
+no número de soluções apontadas de 49% em 2000 para 12,7% em 2003.
+(MASTROIANNI, 2006, p 57)
+Nessas reportagens, artigos, notas e colunas, as fontes variam e se transformam com
+o tempo. Para além de policiais e a população em geral , notou-se que, em 2000, as fontes
+mais consultadas nesse tipo de conteúdo eram "políticas públicas, políticos e/ou leis", com
+47,1% das menções. A mudança para 2003 foi notável. Nesse ano, apenas 5,5% das citações
+foram feitas a esse tipo de fontes. Outras porcentagens se mantiveram mais estáveis. Entre
+os canais consultados estavam: as pesquisas científicas (que foram de 41,2% em 2000 para
+32,7% em 2003), os profissionais não especialistas em drogas (de 25,5% para 27,3%) e os
+especialistas no assunto (de 15,7% para 10,9%).
+16
+Ana Noto et al., em “Drogas e saúde na imprensa brasileira” (2003) reforçam a
+diferença de abordagem jornalística entre a maconha e a cocaína, outro psicotrópico ilegal.
+Destacando matérias d e 1998, incluindo uma do Globo e outra do Jornal do Brasil
+(“Califórnia vai distribuir maconha para doentes” e “Um remédio extraído da maconha”,
+respectivamente), eles argumentam que a maconha é a menos demonizada nas reportagens.
+Destacam ainda um aspecto sobre as matéria s envolvendo a maconha, mesmo as de viés
+mais positivos: poucas apresentaram personagens, o que vai de acordo com o visto até agora,
+onde raras são as fontes de usuários, de fato, das drogas. (2003, p 6)
+Nos casos vistos, a maioria das fontes de informação vem de fora do país (86,9%),
+entre elas relatórios, pesquisas científicas e políticas. O dado reforça a ainda infância da
+divulgação de resultados científicos e do debate sobre a maconha na esfera pública brasileira,
+mesmo uma década após o começo dos estudos do CEBRID. É importante notar que as
+intervenções mais mencionadas nos textos foram os “aspectos legais” (32,6%), o que sugere
+a existência de debates em torno da descriminalização da maconha, algo q ue não se reflete
+nas matérias sobre outras drogas.
+Retomando o visto anteriormente, essas particularidades envolvendo o trato da
+maconha no jornalismo brasileiro não mudam alguns fatos-chave da cobertura de drogas no
+país. Assim como os demais psicotrópi cos, a maconha continua sendo abordada em um
+contexto de criminalidade, figurando principalmente nas editorias de polícia e longe dos
+cadernos de sociedade e saúde. Como notado por Mastroianni (2006), a imprensa representa
+um dos elementos que refletem e reforçam um conjunto de crenças e valores negativos sobre
+o uso de drogas. Isso estimula o estigma social e dificulta ações de saúde (2006, p 15).
+Ainda de acordo com Mastroianni (200 6), isso é corroborado pelo r esultado de um
+estudo de notícias envolvendo drogas feito pela ANDI (Agência Nacional dos Direitos da
+Infância) nos anos de 2002 e 2003. A pesquisa revelou que 28% dos textos associaram as
+“drogas” com temas de violência ou criminalidade. Segundo o relatór io, “esse tipo de
+matéria ajuda a construir um estereótipo do usuário ligando diretamente essas práticas”, o
+que altera a percepção pública em relação ao uso de drogas. Além disso, o estudo ainda teria
+encontrado “bêbado, dependente, viciado e drogado” como as principais palavra nas
+reportagens sobre drogas.
+Mastroianni entrevistou algumas dezenas de jornalistas que tratam do tema das
+drogas em seus ofícios, e percebeu que há uma dissonância entre o discurso prático dos
+17
+profissionais e o discurso que eles consideram correto em relação ao tema. No resultado de
+sua pesquisa, ele viu que para esses repórteres e editores, o assunto tinha um valor editorial
+quase sempre associado ao crime e a violência, temas que movimentam as vendas dos jornais
+e revistas. Com isso, a quantidade de cliques ou vendas físicas importariam mais do que os
+efeitos colaterais advindos das escolhas editoriais. (2006, p 60)
+O autor (2006) ainda vê na associação direta e repetida entre as drogas e pala vras
+como criminalidade e violência, que o jornalismo “de certa forma atribui à droga a
+explicação para a violência”. O caso, que é mais evidente, pela pesquisa, com drogas como
+cocaína e crack, também se aplica à maconha, principalmente por sua associação ao tráfico.
+Ainda assim, há espaço para um complexo e variado panorama de pontos de vista entre os
+entrevistados. Segundo a pesquisa, há profissionais que são “contra o uso, principalmente
+em relação às drogas ilícitas e até aqueles consideram como algo natural”. De acordo com
+Mastroianni, essa pluralidade de opiniões humaniza os repórteres, colocando-os como parte
+sociedade civil. Ainda assim, a humanização não mudaria a responsabilidade da notícia na
+reprodução dos discursos vigentes, mais simplórios e estabelecidos na opinião pública,
+incapacitando a discussão social do tema. Na tentativa de desestimular o uso das substâncias
+em suas matérias, os profissionais acabariam limitando o alcance de suas reflexões. (2006,
+p 66)
+Para Mastroianni (2006), todos esses fatores geram um panorama pouco positivo para
+a imprensa brasileira. A resposta mais recebida dos entrevistados versava sobre limitações
+orçamentárias e de equipe como a “falta de pessoas especializadas, tempo e conhecimento”.
+São ausências que geram uma cobertura que é “superficial, simplis ta e apresenta pouca
+discussão, o que contrasta com a diversidade que o tema exige”. Para esses jornalistas, as
+reportagens sobre drogas cede m sob a pressão de “novas pautas e o grande volume de
+serviço” cada vez mais intenso nas redações, e se afastam do interesse público.
+18
+3. O JORNALISMO E A CIDADE
+As cidades, como os sonhos, são construídas
+por desejos e medos, ainda que o fio condutor
+de seu discurso seja secreto, que as suas
+regras sejam absurdas, as suas perspectivas
+enganosas, e que todas as coisas escondam
+uma outra coisa.
+(Ítalo Calvino, 1972)13
+“As cidades não podem vencer”. É dessa maneira que o jornalista americano Adam
+Gopnik, da revista “New Yorker”, começa seu artigo 14 sobre as transformações das
+metrópoles americanas no século XX. Para o repórter, estejam em fases prósperas ou em
+momentos complicados, os centros urbanos sempre têm suas falhas apontadas por seus
+moradores. As descrições de Nova York “oscilam entre ‘Taxi Driver’ e a ‘Fogueira das
+Vaidades’ sem que cheguemos a uma imagem estável entre os dois”, argumenta. Segundo
+Gopnik, parte dessa inconstância da representação das cidades se dá pela relação entre elas
+e a imprensa.
+Além da cobertura sobre drogas psicotrópicas no jornalismo brasileiro, o “Verão da
+Lata” requer o estudo de outro assunto nos diários do país: a cidade. Apesar de suas
+particularidades quanto ao seu alcance geográfico – que abarcou duas regiões do país –, o
+“Verão” não estampou as páginas dos cadernos de cobertura nacional dos jornais cariocas.
+O episódio, ao longo dos meses setembro de 1987 e março de 1988 e, depois, nas matérias
+de resgate de memória, sempre esteve situado no contexto dos cadernos de cidade, tanto no
+Jornal do Brasil quanto no Globo, independente dos distintos nomes que recebessem as
+seções na época.
+Reportagens e matérias que tratam da cidade são garantidas nas páginas dos jornais,
+pois, afinal de contas, o jornalismo existe como narração da experiência humana e o seu
+cotidiano, que tem na cidade uma de suas demarcações de convívio social mais profundas e
+exploradas. Ainda assim, a maneira como essas publicações tratam do tema passou por
+diversas transformações ao longo dos últimos dois séculos. O processo rendeu, por exemplo,
+13 CALVINO, Ítalo. As cidades invisíveis. São Paulo: Companhia das Letras, 1990. p 44.
+14 Gopnik, A. Naked Cities. Disponível em: https://www.newyorker.com/magazine/2015/10/05/naked-cities
+Acesso em: 29 de outubro de 2017.
+19
+na criação de espaços específicos para tratar de diversos assuntos sobre a vida urbana que
+não no caderno de “Cidade”, como no caso das editorias de “Agenda Cultural” e
+“Sociedade”.
+A associação entre jornalismo e cidade data dos primórdios da imprensa. Na transição
+para a modernidade europeia, nos séculos XVI e XVII, quando as gazetas passaram a ser
+distribuídas pelas potências continentais, as cidades já ocupavam um espaço considerável
+das páginas. A vida da aristocracia dos grandes centros comerciais como Paris, Londres,
+Antuérpia e Hamburgo passava a ser vista como notícia. É do que trata Célio José Losnak
+em “O Jornalismo e a Cidade”, de 2011. As gazetas e similares eram maneiras inéditas de se
+fazer jornalismo15, surgindo na virada dos séculos XIX e XX. Era um momento em que, pela
+primeira vez, matérias de “polícia, cortes judiciais, ruas e da vida privada” eram colocadas
+em circulação. Jornais passaram a publicar textos “voltados para o cotidiano e explorando
+os escândalos e dramas humanos”. O mesmo aconteceria com os tabloides16 no começo do
+século XX. São publicações “mais sintonizadas ao que acontecia cotidianamente na cidade
+[...] reproduzindo suas imagens e dinâmicas com emoção e rapidez” (LOSNAK, 2011, p 2).
+E a recém-conquistada posição dos jornais na sociedade não se limitava, apenas, em
+servir de espelho dos seus leitores e da cidade. Nesse momento, os jornais passam a ter uma
+importância nas transformações daquela comunidade e do seu espaço urbano, moldando
+indiretamente a sociedade. Losnak e xplora a questão, falando que é possível identificar os
+diários como:
+Agentes de mudança na construção da manutenção dessas comunidades e
+indutor importante de políticas para a cidade, apoiando desenvolvimentos,
+construção de bairros e, no geral, modifica ndo o meio ambiente físico e
+construído. (LOSNAK, 2011, p 5)
+3.1 O jornalismo de cidade ganha novas técnicas
+Há, porém, uma transição para o que se entende por jornalismo de cidade no raiar do
+século XX que se dá não apenas no plano econômico e social. Trata -se de uma mudança
+estética onde ele assume de vez a narração do cotidiano urbano em sua “completude”. Em
+15 . Para o autor, por exemplo, o “Penny Paper” criado nos EUA e Inglaterra, seria um dos formatos
+responsáveis pela “invenção do conceito moderno de notícia”.
+16 Os tabloides fizeram parte de um grande processo de transformação social no Ocidente. Suas altas vendagens
+foram alavancadas pelo aumento da alfabetização e facilidade de distribuição para o cada vez maior público
+leitor dos grandes centros urbanos da Europa e América do Norte.
+20
+“Jornalismo, Cotidiano e Experiência Estética” (2015), Marcos Paulo da Silva argumenta
+que essa se trata, principalmente, de uma mudança estilística trazida a partir de
+transformações no romance literário europeu do século anterior. São inovações formais e
+estéticas importadas diretamente das literaturas realistas e naturalistas. Técnicas que
+marcariam a escrita jornalística sobre a vida na cidade dali para frente, e criariam o modelo
+de “explicação da realidade” pelo qual ele seria marcado.
+Silva (2015), citando as obras do crítico italiano Franco Moretti, vê o surgimento de
+uma ética de “seriedade e sobriedade”, associada principalmente a uma classe social
+burguesa que então já havia assumido o protagonismo político e social no velho mundo.
+Uma classe que trouxe consigo uma temperança na escrita e no olhar, algo “que mantém a
+narrativa no interior do caráter ordinário da vida” (MORETTI apud SILVA, 2015, p 4). São
+novidades que deram novos formatos ao jornalismo. Para o italiano, as novas técnicas
+narrativas deixaram o texto “sempre precário, sempre insatisfatório, misturado à indiferença
+do mundo, mas também sempre tenazmente presente”. Resultando em uma ficção – e nãoficção – “compatível com a nova regularidade da vida burguesa” (MORETTI apud SILVA,
+2015, p 3)
+A transição do século XIX para o XX é o pano de fundo da criação dos dois jornais
+cariocas analisados, o Jornal de Brasil (de 1892) e o Globo (1925). A interseção se torna
+ainda maior se, como visto anteriormente, levarmos em consideração o público alvo das duas
+publicações: os moradores da então crescente Zona Sul do Rio de Janeiro, que formavam a
+recém-formada burguesia da capital nacional. São diários que aparecem para atender aos
+apetites dessa nova classe, estabelecida na República instaurada na vi rada do século, e que
+buscava entender a si mesma através dos jornais. Silva reforça o ponto citando o alemão
+Walter Benjamin, que pensa sobre como a humanidade se enxergou ao longo das eras. Se
+anteriormente, nos tempos de Homero, os homens eram observado s pelos deuses, n o raiar
+do século XX eram os próprios homens que se contemplavam. E não apenas como história,
+mas viam a si mesmos como narrativas e objetos estéticos a ser descritos(SILVA, 2015, p
+7).
+A partir desse processo da criação de uma nova sensibilidade da notícia, feita para
+um recém-formado e consumidor grupo burguês, o jornalismo reestrutura suas reportagens
+sobre a cidade, utilizando as técnicas herdadas da literatura oitocentista. Munido delas, para
+Silva (2015), o jornalismo pôde começar a tomar sua função social principal no século XX:
+21
+a de imprimir sentido e coerência à sucessão de fatos da vida urbana, decantando a realidade
+em algo palatável para o público leitor. A notícia seria então uma “narrativa híbrida”, capaz
+tanto de trazer à tona os acontecimentos da sociedade quanto lhes imprimir sentido e ordem
+dentro da interpretação vigente no momento.
+Retomando ideias do pesquisador brasileiro José Salvador Faro, Silva (2015)
+argumenta que essas novas formas de fazer notícia assumem “os elementos próprios com os
+quais se compreende a realidade” daqueles grupos sociais leitores. O jornalismo, então dá
+razão à série de acontecimentos que fogem da experiência cotidiana das classes mais
+abastadas. Faro (apud SILVA, 2015, p 10), diz que as notícias feitas sobre a vida urbana são
+representativas, para os leitores, de “uma lógica imanente que orienta suas condutas”,
+explicando-lhes o funcionamento dos fatores externos que impactam seu cotidiano,
+categorizando e formalizando episódios que não necessariamente estão interligados. Ou seja,
+estabelecendo uma grande narrativa a qual os acontecimentos devem se submeter, tornandoos assim palatáveis ao homem urbano. Segundo Silva:
+Trata-se, enfim, de um constante processo de explicação (esclarecimento)
+dos fenômenos que rompem com a regularidade cotidiana (decorre daí o
+fato desses fenômenos receberem uma valoração como notícia – ou
+simplesmente um “valor notícia”), seguido da restauração. (SILVA, 2015,
+p 11)
+A partir daí, é possível explicar a formatação jornal diário. Organizadas em editorias
+– sob uma das quais, de escolha arbitrária, todo fato deve se adequar – essas publicações
+passam a operar com o objetivo de categorizar a vida cotidiana. Com as e ditorias surgem
+também os cadernos17, que acabam por agrupar temas. Além disso, subdivisões dentro das
+próprias reportagens servem de ferramentas na tentativa de “explicar” as notícias para o
+leitor. São “secções, colunas, boxes e infográficos”. Para Silva, as categorias do jornal
+impresso representam:
+Níveis de significação do plano expressivo, uma espécie de ordenamento
+do fluxo confuso da vida a partir de sua divisão, descrição e concatenação
+(com início, meio e fim) – ou, numa apropriação dos termos de Moretti, de
+um processo de racionalização da existência, primeiro passo para dominála. (SILVA, 2015, p 12)
+Assim, o autor enxerga a diagramação dos diários como essencial para a narração do
+dia a dia dos leitores. Para ele, trata -se de uma ferramenta que contribui para “a atribuição
+17 No jornal O Globo, por exemplo, o primeiro caderno é composto das editorias “Nacional”, “Economia” e
+“Rio”.
+22
+de significado à vida cotidiana”. São ferramentas que têm “seu peso elevado quando as
+expectativas comuns falham e quando o homem cotidiano se confro nta com anomalias e
+contradições na regularidade de seu sistema social” (SILVA, 2015, p 12-13).
+A extrapolação para o fenômeno do “Verão da Lata” é pertinente. Considerando ter
+sido um episódio que rompeu com o cotidiano da cidade do Rio de Janeiro, uma metrópole
+simbolicamente marcada pela sua relação com a compra e venda de drogas ilícitas, o caso
+foi objeto da construção narrativa do jornalismo. Publicações como o Globo e o Jornal do
+Brasil foram necessárias para o homem burguês carioca, que se viu con frontado com uma
+sucessão de acontecimentos que lhe escapavam a ordem estabelecida até então. O
+aparecimento de uma quantidade exorbitante de maconha, ainda por cima desligada do
+tráfico de drogas das comunidades carentes da cidade, deu espaço a uma série de
+questionamentos e narrativas conflitantes. A associação entre uso e consumo de drogas com
+as mazelas sociais, como vista no capítulo anterior, é aqui abalada, e cabe ao jornal retomar
+as rédeas da realidade para dar sentido àquele acontecimento. Se a droga é desassociada do
+tráfico de drogas, seu uso é ilegal?18
+A resposta está, segundo Silva (2015), na “própria divisão dos jornais tradicionais
+em secções e cadernos específicos – métrica e cronologicamente segmentados” (2005, p 14),
+uma maneira de domesticação do tempo. Para ele, a tarefa de leitura do jornal, de “virar a
+página” permite aos leitores a possibilidade de:
+Visualizar, uma após a outra, abordagens ‘racionais e objetivas’ dos
+acontecimentos cotidianos sem se deparar – dia após dia – com o colapso
+do desconhecido. Mais além, representando o acesso controlado ao ‘caos’
+(aquilo que rompe com a regularidade cotidiana) dominado pela
+racionalidade jornalística. (SILVA, 2015, p 14)
+Além das divisões formais das páginas do jornal, é preciso analisar os produtores das
+reportagens que preenchem esses espaços. Historicamente, a figura do repórter se
+transformou intensamente nos dois séculos desde sua aparição. Em “A importância do texto
+de qualidade para o jornalismo impresso diário” (2015), Daniela Pereira Bochembuzzo e
+Samanta Ravazzi analisam o momento de tran sformação do tom de voz do jornalista da
+virada do século XIX para XX . Segundo elas, foi esse período, de final da Monarquia e
+18 Daí também a oposição entre os dois jornais, com O Globo sendo claramente mais alinhado com a narrativa
+anterior e o Jornal do Brasil, por sua vez, mais aberto a entender o uso da droga como recreativo. Tendência
+essa, que, como analisado, passaria a ser bastante associada à maconha pelos jornais brasileiros à partir da
+década de 00.
+23
+entrada da República, quando se deu a aparição do “redator panfletário”, figura da imprensa
+que existiu apenas com o objetivo de convencer seus leitores de questões políticas e sociais.
+Eram, por isso, “panfletários” e profundamente preocupados com questões ideológicas.
+Teriam sido responsáveis pela “construção da qualidade do texto jornalístico” do panorama
+oitocentista, precedendo assim o surgimento do jornalismo do século XX. Inovaram a
+estética de seus textos por conta de seu interesse na retórica de convencimento. Não
+coincidentemente, eram nomes importantes do beletrismo brasileiro, como José de Alencar,
+Álvares de Azevedo e Fagundes Varela, pessoas que compunham redações de diários como
+o “Província de São Paulo”19.
+É possível somar essa visão a interpretação de Ana Cláudia Peres, em “Narrar o
+outro” (2014), sobre as mudanças narrativas no século XX. Para ela, o jornalismo foi um dos
+momentos marcantes do fim da “narrativa tradicional”, que era baseada nas experiências
+vivenciadas em primeira mão. Nascia uma nova maneira de contar histórias e de transmitir
+informação. Tratou -se, especificame nte, do formato narrativo clássico do jornalismo,
+surgido pois não seria mais possível “intercambiar experiências” por conta da queda dos
+sentidos de comunidade. São processos associados à modernidade ocidental e que, através
+da imprensa:
+Apresenta uma fo rma de comunicação que era ameaçadora por já
+apresentar fatos carregados de informação [...] jornalismo que só se
+considera legítimo se posto a serviço da informação pura e para o qual
+interessa o fato em si. Há que se concordar com o autor quando diz que a
+informação jornalística rápida, efêmera e factual não combinaria em nada
+com as estruturas lentas e duradouras da narração tradicional. (PERES,
+2014, p 4)
+Essa busca desenfreada pela construção de grandes narrativas, não em sentido
+clássico de histórias contadas de maneira alargada, mas sim de ordenação dos fatos
+cotidianos de pequena escala em uma linha coerente e subo rdinada à lógica social, seriam
+marcantes no jornalismo. Tomando emprestado conceitos de Walter Benjamin, Peres diz que
+é possível encontrar na imprensa os “cacos” e “migalhas”, uma busca de narração feita em
+torno de “vestígios”. Essa nova maneira de contar histórias, portanto, também não surgiu
+dissociada da questão de autoria. No caso da imprensa moderna, já não se trata mais do
+escritor no sentido artístico da questão, mas sim da figura do jornalista. Ainda que os dois
+19 Que mudou seu nome para “O Estado de S. Paulo” após a proclamação da República, em 1899.
+24
+se confundam20, são profissionais com maneiras distintas de encarar as possibilidades de
+uma narração. Peres (2014) se direciona à obra do crítico brasileiro Silviano Sant iago para
+delimitar o que ela considera um “novo narrador”. Mais especificamente, no que Santiago
+chamou de arquétipo de narrador pós -moderno, que se oporia ao narrador citado pelo
+filósofo alemão, calcado na experiência vivida. O novo narrador “transmite algo ao narrar a
+informação”.
+É o paradigma da reportagem. Por se tratar de um profissional da informação, um
+trabalhador cuja rotina se organiza no destilar das informações de um mundo caótico e as
+transferir de maneira palatável ao leitor, o jornalista abre mão de ser uma parte integrante da
+história. Se contenta, como no slogan do Jornal Esso, em ser “testemunha ocular” do
+desenvolver dos fatos. Como descreve Peres, “cabe a esse narrador observar para contar
+aquilo que viu” (2014, p 5), se tornando mediador da informação, o ponto neutro onde leitor
+e fato podem se encontrar olhos nos olhos. Citando Santiago:
+É como se o narrador exigisse: deixem -me olhar para que você, leitor,
+também possa ver. [...] A figura do narrador passa a ser basicamente a de
+quem se interessa pelo outro (não por si) e se afirma pelo olhar que lança
+ao seu redor, acompanhando seres, fatos e incidentes (e não por um olhar
+introspectivo que cata experiências vividas no passado. (SANTIAGO apud
+PERES, 2014, p 5).
+Nota-se como a transição de tipos de narradores abarca, quase em sua totalidade, boa
+parte das técnicas associadas ao jornalismo clássico, refletido nos manuais de redação como
+o do jornal O Globo. A falta de interesse na própria história, no “olhar introspectivo”, é
+refletida exatamente no uso de terceira pessoa como ponto de vista das reportagens. Mais do
+que isso, na falta de assinatura dos repórteres em boa parte d as matérias produzidas, algo
+que têm mudado nas últimas décadas, mas que, no momento do “Verão da Lata”, ainda era
+regra nas redações brasileiras.
+O uso de depoimentos no jornalismo mostra outras diferenças entre os arquétipos de
+narradores. Se antes a palavra do autor era o pilar necessário para que se sustentasse u m
+relato (vide se tratar de histórias ‘experimentadas’), no caso da lógica jornalística é preciso
+o testemunho de terceiros, esses sim tendo vivenciado os acontecimentos em primeira mão.
+Segundo Peres (2014), a linguagem jornalística precisou se adaptar, f ormar e preparar para
+assumir esse novo tipo de discurso, desenvolvendo novas técnicas de escrita não-ficcional.
+20 Bastando citar nomes como Nelson Rodrigues, Otto Lara Resende, Machado de Assis, João do Rio,
+Graciliano Ramos e Lima Barreto para notar a extrema fecundidade da interseção nas letras brasileiras.
+25
+Por esse raciocínio, os vestígios para a reconstituição desse real estão nas
+falas dos entrevistados (ou testemunhos) que nos chegam pela narr ativa.
+Ou seja, nas narrativas jornalísticas legitimadas pelo discurso hegemônico,
+o Outro é um terceiro: “Fulano disse”, “Sicrano declarou”, é aquele que
+apenas “conta”, “diz”, “explica”. Nesses casos, não há espaço para alguém
+que conta a história, e isso é um elemento que atrofia a narrativa. (PERES,
+2014, p 6)
+Mas como notado pela própria autora, esse apagamento do autor no texto – e, por
+consequência, de sua interação com a ação – não se sustenta na maneira ideal buscada pelo
+jornalismo clássico. Ao observar com distância os acontecimentos, o jornalista seria, para
+usar o termo popularizado nos Estados Unidos, uma “mosca na parede”. Eis o objetivo para
+o repórter e sua narrativa pós -moderna, habitar uma cena da mesma maneira que o inseto,
+sendo impercep tível ao extremo. Uma das repórteres associadas ao termo , a jornalista
+americana Lilian Ross, conhecida por seu trabalho na revista semanal “The New Yorker”,
+se tornou também uma de suas detratoras, renegando a posição de mosca. Para ela, o repórter
+está sempre “quimicamente envolvido com suas reportagens” 21. Ainda assim, é uma noção
+que prevalece nas maiores redações de diários do país, não apenas no Globo mas também na
+Folha de S. Paulo e o Estado de S. Paulo.
+Em uma crítica simila r, Pere s (2014) faz menção a Rosana de Lima Soares,
+demonstrando que o ato de narrar requer, ainda que indiretamente, o escritor na ação descrita.
+A “verdade” dentro de uma narrativa jornalística é construída a partir da perspectiva do
+repórter. Trata -se daquilo observado no capítulo anterior, em que um mesmo fenômeno
+permite diversas interpretações baseadas em pontos de vista opostos.
+Ocorre que tal axioma ignora o fato de que a simples presença do jornalista
+na cena já altera a realidade. [...] Diferente do que nos querem fazer crer as
+narrativas jornalísticas hegemônicas presas ao paradigma informacional,
+onde a testemunha possui um lugar pré -determinado, na narrativa em
+análise, o testemunho não pode ser considerado apenas um registro
+objetivo de uma experiência. (PERES, 2014, p 7)
+O uso de testemunhos também levanta outro aspecto da narrativa jornalística: as suas
+fontes, algo ainda mais relevante em um tema como o de entorpecentes ilegais. Ao deixar o
+desenrolar da ação nos testemunhos de terceiros — policiais, traficantes, usuários e ‘civis’
+— o jornalismo se esquiva de deixar clara a sua posição editorial quanto aos acontecimentos
+descritos. No caso do uso de drogas no país, o jornal se posiciona como documentador, se
+21 A recusa de Ross ao termo é abordada em seu obituário, publicado na revista em que trabalhou. Overbay,
+E. e Rothman, J. Lilian Ross in the New Yorker. Disponível em:
+https://www.newyorker.com/books/double-take/lillian-ross-in-the-new-yorker Acesso em: 30 de outubro de
+2017.
+26
+colocando como um registro quase oficial. São raras as vezes em ele age explicitamente no
+desenvolvimento da questão. Ainda que defenda ou se oponha às políticas públicas, condene
+ou dê aval às personagens e condutas da sociedade civil, o jornal poucas vezes coloca essas
+informações em sua própria voz. Assim, o jornal é capaz de explicar o mundo sem adentrarse nele.
+3.2 O Tempo na Narrativa Jornalística
+Outro fator que ajuda a entender o distanciamento entre autor e mundo é o tempo. Os
+autores Ronaldo Velho Bueno e Maria Luiza Baptista, em “Narrativas urbanas: o jornalismo
+como dispositivo de reinvenção do sujeito e de sua relação com a cidade” (2015) reforçam
+essa importância. Citando a obra de Cremilda Medina, a dupla se refere ao texto jornalístico
+como “arte de tecer o presente”. Ar te essa que teria sido soterrada pelo volume
+exponencialmente maior de produção de notícias no decorrer do século XX, o que
+impossibilitaria a relação do autor com o cotidiano de se explicitar através do texto:
+Para que o cotidiano se presentifique é preci so romper com as rotinas
+industriais da produção da notícia. É preciso superar a superficialidade das
+situações sociais e o predomínio dos protagonistas oficiais. Há uma
+demanda reprimida pela democratização das vozes que se fazem presentes
+na mídia. Torna -se necessário mergulhar no protagonismo anônimo.
+(MEDINA apud BUENO et al., 2015, p 4)
+É buscando entender essa desapropriação de tom de voz, que Peres fala nos
+chamados “testemunhos do sofrimento” 22 (2014, p 10) , uma ferramenta da escrita
+jornalística que auxilia na criação de retratos da vida urbanas e que se baseia no depoimento
+de pessoas afetadas pelas maiores tragédias sociais. Peres enxerga no sofrimento individual
+do personagem uma maneira do narrador “pós -moderno” explorar e explicar episódios
+traumáticos sem, de fato, se aproximar deles. O texto argumenta que na escrita do narrador
+pós-moderno, não é a palavra que explicita experiência e sim o silêncio. O objetivo seria
+analisar o “interdito”, o que sobra dos enunciados para entender, como “um relato transmite
+tanto as provas e evidências de seu trajeto como os tropeços e surpresas en contrados pelo
+caminho” (PERES, 2014, p 8).
+22 É interessante ver que a relação entre “testemunho do sofrimento” e emoção para o espectador/leitor é um
+tema debatido há séculos nas artes. Basta ver a clássica passagem do segundo ato de Hamlet: “O que é Hécuba
+para ele, e ele para Hécuba, para que chore por ela?”, onde Shakespeare disc ute, justamente, como o drama
+teatral é capaz de arrancar lágrimas de sua plateia para personagens ficcionais.
+27
+A nova forma de narrar gerou um processo paralelo na sociedade. Além de descrever
+as cidades, em si, a imprensa foi responsável pela construção da identidade das nações nos
+últimos dois séculos, gerando as chamadas “Comunidades Imaginadas”, expressão que dá
+nome ao livro de Benedict Anderson (1983). Anderson elenca dois argumentos para a
+importância da linguagem e da narrativa do romance e jornalismo modernos como fatores
+para o surgimento do nacionalismo contemporâneo: suas capacidades de unirem diversas
+vozes distantes em um panorama cultural único 23; e como situam acontecimentos em uma
+linha do tempo em constante progresso. Para exemplificar o segundo ponto, Anderson
+analisa uma capa do New York Times . Abordando assuntos tão distintos como a fome em
+Mali, a posse de Mitterrand na França e um golpe de estado no Iraque, o jornal cria uma
+ligação “imaginada” entre os fatos. E essa ligação se sustenta por conta de dois fatores. Pelas
+notícias terem acontecido no mesmo dia, mas, principalmente, por fazerem parte do “mesmo
+tempo vazio”. Para Anderson, na narrativa jornalística, o tempo e o mundo sempre se movem
+para frente, mesmo quando não apresentados, nos seus “interditos”. É similar, novamente, a
+uma técnica do romance realista, em que:
+Mesmo que Mali desapareça das páginas do “The New York Times”
+depois de dois dias de reportagem sobre sua fome, e fique assim por meses,
+em nenhum momento os leitores pensam que Mali sumiu do mapa ou sua
+fome acabou com todos os seus cidadãos. O formato novelístico do jornal
+garante-os que, em algum lugar, o ‘personagem’ Mali con tinua seguindo
+quietamente, esperando sua próxima entrada na narrativa. (ANDERSON,
+1983, p 33)
+Além disso, Anderson destaca uma característica dos jornais diários para explicar o
+desenvolvimento das novas comunidades contemporâneas. Sendo impresso às cent enas de
+milhares de cópias, distribuído sempre em certos horários do dia e consumido de maneira
+similar pelas pessoas (no café da manhã, no trem, após o jantar), o jornal assume um aspecto
+“religioso”. Mais do que isso, serve como ação repetida socialmente, uma ponte que une as
+rotinas dos cidadãos, aproximando-os das “comunidades imaginárias”. Para Anderson:
+Ao mesmo tempo, o leitor de jornal, observando as réplicas exatas de seu
+próprio jornal sendo consumidas nos metrôs, barbearias ou bairros
+residenciais, é continuadamente reassegurado de que o mundo imaginado
+[naquelas páginas] é visualmente baseado no dia a dia. Assim como com
+23 Para argumentar sobre esse ponto, Anderson exemplifica o caso de um livro do jornalista nacionalista filipino
+José Rizal, “Noli Me Tangere”, de 1887. Nele, o britânico identifica cenas em que o autor filipino soma a vida
+cotidiana de centenas de moradores de Manila, efetivamente delimitando fatores que os colocariam numa
+mesma “comunidade imaginada”. São a língua, hábitos culturais, sociais e políticos, que, sempre, se
+manifestam dentro do ambiente urbano. Anderson extrapola essa capacidade da novela oitocentista, de retratar
+uma população com características em comum, para o jornalismo diário que surgia naquele momento.
+28
+“Noli Me Tangere” a ficção se adentra silencia e continuadamente na
+realidade, criando aquela impressionante confiança da comu nidade
+sustentada no anonimato, que é um dos pilares das nações modernas.
+(ANDERSON, 1983, p 35-36)
+Tome-se um último exemplo do texto de Peres (2014) para contextualizar o
+fenômeno do jornalismo de cidade no país, mais especificamente no trato de temátic as
+envolvendo o consumo de drogas. Aplicando o conceito de “choque do real”, Peres vê na
+descrição dramática uma maneira das novas narrativas de conquistar o leitor. Nesse choque,
+o incômodo gera um “espanto catártico” no consumidor da notícia, entorpecend o-o de tal
+maneira com a surpresa de uma realidade que antes lhe era desconhecida, que passa então a
+dar “valor de notícia” ao lido. O “choque de realidades” se liga também à cobertura sobre a
+maconha, como visto no capítulo anterior, onde as matérias sobre o tráfico e uso da droga
+servem como “choques” ao leitor médio. Era o que acontecia, também, no “Verão da Lata”,
+servindo assim para situar o evento dentro do contexto da violência urbana e dos cadernos
+policiais e não de um fenômeno social.
+2.3 Escolhendo a notícia
+Apesar de o narrador “pós -moderno” ser colocado em uma posição de
+individualidade, uma reportagem passa por diversas mãos antes de ser impressa. Um texto
+de jornal diário é processado através do trabalho de distintos profissionais que ocu pam as
+redações. Retomando Ravazzi e Bochembuzzo em “A importância do texto de qualidade
+para o jornalismo impresso diário” (2015), pode-se analisar a especialidade das pessoas que
+ocupam esse espaço de criação jornalística. As duas traçam um pequeno panor ama das
+funções básicas dos membros da redação. Na época do “Verão da Lata”, e por boa parte do
+século XX, são profissionais dedicados exclusivamente à feitura das matérias. Entre eles há
+a figura dos redatores, editores e revisores.
+Os redatores, hoje ca da vez menos comuns nas red ações, são os responsáveis por
+escrever a notícia apurada pelos repórteres . Ainda assim, cabe aos editores a função de
+adequar esse material às linhas editorias do veículo. São eles que, conferindo tudo produzido
+e delegando tarefas aos repórteres e redatores, asseguram que toda edição dos diários seja
+coerente com a anterior. Além dos editores, há também a figura (quase extinta) dos revisores,
+que garantem a conformação das matérias às regras da norma cultura e mantém a clareza e
+concisão estilística nos textos. A redação, em si, também conta com outros profissionais não
+ligados diretamente a criação textual, como os quatro apresentados anteriormente
+(RAVAZZI et al., 2015, p 2).
+29
+Dentro das redações uma decisão é tomada a cada mi nuto: o que é, ou não, notícia.
+Aparentemente um processo de decisão individual, na realidade, ele surge a partir da
+interação direta de todos os atores que formam a redação jornalística, em que hierarquias
+muitas vezes determinam o que estampa ou não as páginas dos jornais. Decide-se através do
+conceito de “noticiabilidade”. Extremamente particular, deliberada quase que de maneira
+idiossincrática por cada veículo de imprensa, ela é abordada por Maria Terezinha da Silva
+em “Jornalismo e noticiabilidade: que m constrói os valores -notícia?”, de 2017. São, de
+acordo com a pesquisadora, três fatores básicos que delimitam o conceito. Primeiro, “que
+fatos da realidade devem / merecem ser relatados”, depois qual “função de seu possível
+interesse público” e, por últi mo, sendo esses fatos “processados e colocados em circulação
+na forma de informação” (2017, p 2).
+A determinação do que “merece” ser relatado e do que é de “interesse público” é um
+tema pantanoso nas redações. Silva defende que a escolha se dá a partir de um somatório das
+interações entre atores sociais (2017, p 2). Essa troca de dinâmicas, com os profissionais de
+comunicação, ao mesmo tempo ditando e sendo influenciados sobre o que é ou não notícia,
+monta o panorama da criação jornalística.
+E tanto os interesses públicos quanto das organizações giram em torno dos fatos e
+episódios da vida urbana, que, por sua vez, geram as notícias. E, por definição, os
+acontecimentos existem dentro do tempo. São ações que ocorrem na passagem lógica e linear
+do tempo, com um começo e fim determinados. O que não quer dizer, entretanto, que o fim
+do processo físico de um acontecimento signifique o fim de sua história. É uma discussão
+levantada por Silva, especialmente citando o conceito de “duas vid as” de Louis Quéré .
+Segundo a autora, um fato tem duas vidas, dois momentos em sua história. A primeira, que
+associada à ação física, e a segunda no “acontecimento como objeto, transformado pel a
+linguagem” (SILVA, 2017, p 2); ou seja, como notícia, essa po dendo assumir uma
+temporalidade muito mais alargada e imprevisível. As “duas vidas” lidam com o
+entendimento dos acontecimentos. Se em primeiro momento eles afetam quem os
+experimentou (podendo retomar o conceito do narrador moderno, de Moretti, que baseia
+seus relatos na “experiência”); na sua sobrevida como notícia, o fato toma proporções
+incalculáveis. A extensão de sua vida útil dura tanto quanto ela é lida. Importa, mais ou
+menos, conforme preenche o imaginário de que m não o viveu, transformando -se de ação
+física para conceito construído através da linguagem. Para Silva:
+30
+Entendemos assim que o jornalismo constituiu uma “segunda vida” do
+acontecimento, construindo a sua narrativa. Não podemos negligenciar a
+primeira vida do acontecimento, sua existência sensível que afeta, que faz
+falar. Nem pensar na segunda vida como simples reflexo da materialidade
+que nos toca, minimizando os enquadramentos, os elementos de
+inteligibilidade acionados para interpretar os fatos do mundo que, por sua
+vez, são da ordem da cultura. (SILVA, 2017, p 5)
+São esses “enquadramentos”, que começam a explicar os espaços da imprensa – e do
+narrador pós-moderno – na definição do que compõe a notícia. Assim como na fotografia,
+um enquadramento é indi vidual e extremamente pessoal. Um fotógrafo não enquadra da
+mesma maneira do que o outro, assim como um repórter não enxerga um acontecimento da
+mesma maneira que seu colega. Essas discrepâncias – ou escolhas estilísticas – marcam a
+maneira pelas quais os fatos são processados e capturados pelos jornalistas. A transição da
+primeira para a segunda vida não é obrigatória e natural, mas sim fruto de uma ação
+intelectual humana, que transforma o real em abstrato através do código que é a linguagem.24
+O processo, portanto, gera deformações, potencializadas pelas decisões e escolhas editoriais
+promovidas pela redação, composta por sua vez de diversos profissionais. Assim, Silva
+(2017) identifica a “existência de uma diferença e um hiato entre interesse público e interesse
+do público, bem como de interesse público e interesse das agências jornalísticas” (p 6)25.
+Ainda assim, como as percepções individuais de repórteres, editores e redatores
+influenciam e definem o que é a “noticiabilidade”? Silva vê uma relação com o conceito de
+“valores-notícia”, esses “atributos que orientam principalmente a seleção primária dos
+fatos”. Eles seriam distintos do “conjunto de elementos por meio dos quais a empresa
+jornalística controla e administra a quantidade e o tipo de acontecimen tos”. Em sua
+definição, a “noticiabilidade” seria todo fator que impactasse na tomada de decisão sobre
+publicar ou não uma notícia; ou seja, de questões sociais, políticas e históricas até outras
+limitações ou possibilidades empresariais, técnicas e de pro dução de um jornal (SILVA,
+2017, p 6).
+24 E é esse processo de percepção e compartilhamento, somado a falta de testemunho em “primeira -mão” do
+repórter que gera o ponto de vista do narrador pós-moderno, que constrói uma segunda vida de um fato baseado
+já na codificação de uma outra testemunha, quase como num jogo de “telefone sem fio”.
+25 Um caso de embate entre interesses de mercado e do público travado nas páginas dos jornais é o “Moses x
+Jacobs”. Acontecido durante a década de 60, o episódio colocou o empreiteiro Robert Moses e a ativista e
+jornalista Jane Jacobs em lados opostos sobre a construção de uma rodovia no sul da ilha de Manhattan. Tendo
+se arrastado por anos, o caso estampou diversas manchetes – destacadamente no “Village Voice” – e acabou
+levando à vitória de Jacobs e dos moradores da região, que impediram o projeto de sair do papel. Palleta, A.
+Jane Jacobs v Robert Moses, battle of New York’s urban titans . Disponível em:
+https://www.theguardian.com/cities/2016/apr/28/story-cities-32-new-york-jane-jacobs-robert-moses
+Acessado em: 30 de outubro de 2017
+31
+Essas são condições apresentadas e que ajudam a entender como a dualidade
+indivíduo e instituição moldam as escolhas de qualquer publicação. Há, claro, os princípios
+editoriais delimitados em pedra – ou papel e tinta – nos manuais de redação e cartilhas para
+os repórteres, que devem seguir os i nteresses estabelecidos por seus editores, editores -
+executivos, diretores de redação e donos de empresas. Ainda assim, há o fator humano, do
+julgamento do momento em que o repórter se encontra na rua de frente para sua pauta,
+tentando imprimir lógica a um evento com que não necessariamente está familiarizado. Para
+entender as forças que agem na mente do repórter Silva buscou compreender os chamados
+“valores-notícia”:
+Em resumo, os valores-notícia são definidos contextualmente, e possuem
+um vínculo profundo com os valores sociais e com a ideologia. Se
+pensarmos o Jornalismo não como mera transmissão de informações e sim
+como parte de um processo comunicativo em que há diferentes sujeitos em
+interação [...] podemos compreender que os atores do campo jornalístico
+têm um forte laço com a cultura e a sociedade com a qual se comunicam,
+sobre a qual falam, conflituam ou compartilham perspectivas e valores
+sociais. (SILVA, 2017, p 11)
+Assim, a autora nota que “visões e valores compartilhados sobre o mundo também
+alimentam e orientam a cul tura [...] do jornalismo” (p 11). Retomando o analisado no
+primeiro capítulo, em especial a obra de Gilberto Velho, é possível entender o quão profundo
+e enraizado é o público alvo para jornais como o Jornal do Brasil e O Globo. Voltados para
+os leitores d a Zona Sul carioca, ambos os diários refletem as “visões e valores”
+compartilhados com os assinantes. Seus repórteres escrevem para quem compartilha de suas
+experiências culturais, sociais, econômicas e políticas. Sua cobertura busca refletir o olhar
+de quem os lê, interpretando o mundo da maneira que se imagina que essa pessoa fosse
+interpretar. Por isso, para Silva, a comunicação “fala de uma sociedade” assim como a mídia
+“repercute e atua na conformação da vida social”. Assim, é “perfeitamente plausível pensar
+que os critérios de escolha dos agentes jornalísticos também são orientados por valores
+sociais que, ao mesmo tempo, através de suas narrativas, são reafirmados, questionados ou
+atualizados” (SILVA, 2017, p 11).
+É com esse pensamento baseado no ponto de vista de seu leitor, que o repórter acaba
+por nortear a sua visão de mundo. Encara os habitantes das cidades a partir dos papéis sociais
+que eles desempenham. São representações e olhares que se transformam de acordo com o
+perfil do jornal. Um dos momentos claros disso é o da descrição de pessoas envolvidas com
+32
+o tráfico de drogas26. No caso do “Verão da Lata”, isso aconteceu de maneira fora do comum:
+se tratou de uma história de longa cobertura na imprensa em que não havia traficantes ou
+exclusivamente moradores de periferia envolvidos. Em quase t odos os casos, havia
+participantes da Zona Sul, da Tijuca ou da Barra, leitores daqueles mesmos diários. Vale
+notar, portanto, o porquê de tantas manchetes refletirem uma postura mais branda em relação
+à maconha do que a utilizada comumente na época.
+3.3 O Estigma e a Notícia
+Um possível ponto de partida para entender como as representações jornalísticas
+podem gerar rótulos aos retratados é o artigo “Narrativas da notícia: jornalismo e estigmas
+sociais” de Rosana Lima Soares (2004). De acordo com o texto, a imprensa utiliza -se de
+estigmas, dentre eles muitos de origem social, para facilitar a sua explicação de mundo. São
+categorias abrangentes, quase estáticas, que normalizam comportamentos desviantes dentro
+das narrativas, servindo para apagar a individualidade de personagens e os submeterem ao
+padrão mais conveniente e confortável para a leitura. Aparam -se as arestas para criar uma
+série de arquétipos a serem preenchidos em cada situação explorada. Nas palavras de Soares:
+Os estigmas surgem apenas quando o sujeito estigmatizado encontra-se em
+um lugar no qual não deveria estar, ou seja, quando atributos desejáveis ou
+indesejáveis deixam de ocupar seu lugar como estabelecidos e tentam
+romper tais barreiras. A tentativa de manter a ordem e restabelecer
+hierarquias – procedimentos característicos da atribuição de preconceitos
+e estereótipos a determinados grupos sociais – radicaliza os processos de
+inclusão/exclusão, levando à articulação desses atributos em torno de
+estigmas sociais (SOARES, 2004, p 5)
+Há uma enorme categoria de estigmas apresentados nos jornais que não se limitam a
+delimitar papéis sociais negativos. Podem ser, por exemplo, narrativas de superação sobre
+para-atletas ou ainda histórias positivas envolvendo engajamento religioso ou sociais .
+Demonstrando seu ponto, a autora faz uma análise das capas do Jornal do Brasil, Folha de
+S. Paulo e Estado de S. Paulo . Neles, aparecem lado a lado a violência urbana e os para -
+atletas; crise econômica e os casamentos de celebridades.
+Os estigmas adaptam-se, ainda que lentamente, de acordo com o ponto de vista dos
+leitores. Como define Soares (2004), neles “vemos a composição de um mosaico que se
+26 Basta ver a diferença de descrição quando dois jovens de classe sociais diferentes são presos pelo crime de
+tráfico de drogas; de um lado, os bandidos e traficantes de baixa renda; de outro, os universitários e jovens de
+classe média.
+33
+refere a temas recorrentes no imaginário social”. E isso não muda a permanência de alguns
+deles, como no caso da violência urbana, quase sempre composta dos elementos “máfia,
+tráfico, moradores de rua, favelas, assassinato”. Foge do comum, portanto, a cobertura do
+“Verão da Lata”, na medida em que esse episódio, apesar de constar nas páginas policiais
+dos cadernos de cidade e se tratar de um caso criminoso envolvendo entorpecentes, não era
+tratado a partir dos elementos repetidamente presentes na violência urbana. Em relação a
+cobertura de violência e tráfico especificamente na cidade do Rio de Janeiro, vale notar o
+resultado da pesquisa de Soares. Dos três diários analisados, apenas o carioca “tem como
+grande narrativa [...] os estigmas da violência, da pobreza, do tráfico e das favelas” (p 11).
+3.4 Equilibrando expectativas
+O jornal tenta equilibrar os interes ses de seus donos com os de suas comunidades.
+São dois fatores que norteiam sua produção e sua sustentabilidade como negócio. Mais
+especificamente, atender às expectativas dos leitores é um dos aspectos mais importantes
+dos cadernos de cidade. Como visto n o artigo de Frederico de Mello Brandão Tavares e
+Paulo Bernardo Ferreira Vaz, “Cidades em ‘Cidades’” (2005), que trata das práticas e
+particularidades das representações das cidades no jornalismo, é nessas páginas em que mais
+aparece a “prestação de serviços”. São informações sobre saúde, educação, cultura e
+segurança pública, divulgando eventos, informando mudanças legislativas e transformações
+do espaço físico que possam impactar a vida e o dia a dia do cidadão. Para os autores, não é
+esse o único aspecto que compõe o noticiário sobre a vida urbana nos jornais. O caderno é
+um espaço plural, onde podemos encontrar “seus monumentos, e sua cultura, os hábitos e as
+tradições, o comportamento dos habita ntes e o obituário dos moradores” (p 6). Coexistem
+tanto a história do espaço urbano e suas transformações quanto as vidas de seus moradores.
+Portanto, cabe aos jornais “detectar as necessidades da população, antecipar tendências”. A
+busca também levou à intensificação da cobertura policial e sobre violência, especialmente
+em metrópoles como o Rio de Janeiro. Como destacado no artigo:
+Ao tratar, neste caderno, do cotidiano do cidadão comum, o jornal passa a
+ser vigilante e delator dos crimes e das “barbári es” que “assombram” a
+população dos grandes centros. Advinda da crônica policial, (muito
+frequente nos jornais de outras épocas, mas inserida em um outro com texto
+histórico), a cobertura de polícia chega formar uma espécie de seção
+especial ou de subedito ria dentro dos cadernos “Cidade”. A presença da
+violência na vida do cidadão – seja ele morador de uma favela ou morador
+34
+de um bairro nobre – se materializa jornalisticamente e em grande volume
+neste espaço do jornal. (TAVARES et al., 2005, p 6)
+E como ex plorado no capítulo anterior, esse profundo e duradouro aumento no
+número de reportagens sobre violência urbana também está associado ao tráfico e uso de
+drogas ilegais. Um exemplo é a criação da editoria especial de “Guerra” pelo jornal Extra –
+do mesmo grupo do Globo – em que há uma cobertura focada apenas na violência urbana
+(que também continua sendo abordada no caderno dedicado à cidade na publicação). Surgido
+em 2017, o espaço foi justificado no jornal como reflexo necessário ao enorme número de
+mortos na cidade ao longo da última década, causados por conta dos conflitos entre a Polícia
+Militar e as facções que comandam o tráfico de drogas. Apesar do tom de denúncia, a escolha
+também tem seu lado mercadológico. Mesmo que os autores argumentem para a importância
+simbólica do posicionamento editorial feito com a reiterada cobertura da violência urbana, é
+notável que os jornais que trazem esse tipo de conteúdo também têm boa vendagem.
+As grandes cidades são ambientes favoráveis para a criação dessas no tícias. Como
+notado por Tavares et al. (2005), dotados de enorme densidade populacional, os maiores
+centros urbanos refletem, mais facilmente, “os problemas do mundo contemporâneo”, sendo
+eles a “exclusão, a desigualdade, a violência, o crime e o vício”. (p 3) Mais profundamente,
+essas metrópoles também tornam possível a existência de diversas “cidades” que coabitam
+em um mesmo espaço. É o que acontece explicitamente com o Rio de Janeiro, dividido entre
+as favelas e os bairros de classe média que existem em proximidade geográfica direta. O
+fenômeno urbano leva a um fenômeno jornalístico. Os jornais refletem essa divisão,
+apresentando duas cidades distintas em seus cadernos marcadas pela classe socioeconômica
+de seus moradores. De um lado, a cidade da vida tranquila, da morosidade e do dia a dia que
+serve de parâmetro para todos os outros; de outro, uma cidade em eterno estado de exceção,
+abandonada pelo governo, marcada pela violência, barbárie e tragédias repetidas em ciclos
+inacabáveis. São divisões que demonstram uma rachadura profunda:
+O que se vê “nessa” cidade é, sobretudo, sua periferia, circunscrevendo,
+primordialmente, locais habitados por pessoas menos favorecidas. Ao
+delimitarem as faces e os locais da violência os jornais promovem
+simultaneamente um afastamento e uma aproximação. A cidade está
+próxima de um “nós”, mas há uma relativa distância entre este “nós” e
+outros “nós” da cidade. [...] Criam-se fronteiras nos jornais e na cidade que
+insuflam a existência de um sentimento de repulsa e medo. Pela lógica dos
+jornais estimula-se a ideia de que se deve estar longe destes lugares. Ali
+está o perigo. Quando olhamos para a sociedade, sabemos da vontade que
+as populações mais abastadas têm de se afastar desses lugares, criando uma
+35
+barreira invisível e constantemente reforçada. (TAVARES et al., 2005, p
+8)
+Assim, o jornal volta a servir a grande narrativa. As reportagens dividem a cidade e
+criam um repertório de interações e ações possíveis entre esses centros urbanos partidos. As
+quebras de normalidade d o dia a dia daqueles ambientes – vale lembrar o fenômeno dos
+“Rolézinhos”27 – são prontamente adequados a essa lógica. Os jornais acabam por manter
+essas divisões, o que não foi diferente em se tratando do “Verão da Lata”. Por se tratar de
+um episódio relativamente destacado do cotidiano de crime e violência – os traficantes do
+Solana Star eram estrangeiros e as drogas não seriam vendidas no Brasil – os jornais
+acabaram por privilegiar apenas a operação internacional da polícia e os casos em que as
+latas apareciam nas áreas nobres do litoral do estado. Distante estava a associação da
+maconha com tráfico de drogas e violência urbana, uma constante presente desde os anos
+quarenta nos cadernos de cidade no Brasil.
+O caderno de Cidade, apesar de sua enorme abra ngência, não compõe o jornal
+sozinho. Trata-se, sempre, de um espaço em constante diálogo com as outras editorias dos
+jornais, que dividem, repercutem e discutem temas entre si. As mesmas manchetes das
+páginas de “Política” podem acabar suitadas na “Economia”, “Cultura” e “Esporte”. Mais
+do que isso, como notado por Tavares et al. (2005), “[...] ao observar os espaços delimitados
+pelo jornal, nota-se que quase todos eles têm a cidade como fonte para suas notícias”.
+Se a cidade é pano de fundo para todas as outras editorias, o que singulariza o caderno
+de “Cidade” em relação aos outros? Para os autores, se trata de um “um ângulo que aproxima
+o jornal deste cidadão”. É um espaço que abarca uma série de setores distintos da sociedade
+como educação, saúde, transporte, alimentação e habitação. Também é onde “materializamse” as pautas de outras editorias, lidando com elas “de forma prática na vida dos cidadãos”
+(TAVARES et al., 2005, p 6).
+É impossível separar o jornalismo da cidade. Desde os primórdios do jornalismo, e
+mais intensamente desde sua modernização, a cidade é parte das reportagens. Mais do que
+isso, as publicações precisam da cidade na medida em que ali se dão as condições para o
+surgimento de seu público leitor. É nela em que o desenrolar das ações que se tornam notícias
+27 Eventos que acontecem por todo país, começando em Belo Horizonte em 2013, em que jovens de periferia
+se reúnem em locais de classes sociais abastadas (como shopping centers das classes A e B) e acabam sendo
+expulsos pela segurança do local. Foram diversos “Rolézinhos” que estamparam os noticiários brasileiros, em
+parte pelo medo de que a chegada desses jovens fosse sinônima de criminalidade no s locais, e, por outro, pela
+clara tentativa de higienização dos espaços por parte das elites.
+36
+acontecem. Seja na rua, nas casas, nas escolas, nos escritórios ou nas praias, a cidade serve
+de espaço físico para o desenvolvimento de quase tudo que se torna notícia. É através dela
+que o jornal se vê capaz de falar com seu leitor, de lhe apresentar sua realidade. Como dito
+por Tavares et al (2005), o caderno de “Cidade” diz “como somos” e “quem somos”, a partir
+de “territórios e de momentos” (Ibidem, p 3).
+A relação entre cidade e o jornalismo é um movimento de mão dupla. Os jornais de
+uma cidade têm, ao mesmo tempo, papel conservador e transformador. Atendem às
+exigências de forças de mercado e da política, mas também lidam com as necessidades dos
+seus leitores. E isso se dá pela própria natureza da cidade moderna, que surge e se transforma
+a partir de incontáveis estímulos e interesses, sendo fruto de uma multidão de pequenos e
+grandes episódios. Episódios dos quais o jornalismo diário tenta dar conta. Acontecimentos
+que serão decifrados, categorizados e transmitidos para todos os habitantes da cidade.
+37
+4. ANÁLISE DAS REPORTAGENS
+Na minha rua estão cortando árvores
+botando trilhos
+construindo casas.
+Minha rua acordou mudada.
+Os vizinhos não se conformam.
+Eles não sabem que a vida
+tem dessas exigências brutas.
+Só minha filha goza o espetáculo
+e se diverte com os andaimes,
+a luz da solda autógena
+e o cimento escorrendo nas formas.
+(Carlos Drummond de Andrade, 1930)28
+Durante o “Verão da Lata”, boa parte do Rio de Janeiro soube das milhares de latas
+que apareciam flutuando nas praias do litoral fluminense, refletindo o intenso sol de
+novembro em seu revestimento metálico. Não foi um episódio limitado apenas aos usuários
+de maconha ou aos inter essados em gerar pés de meia através da revenda dos lotes. Muito
+menos somente aos moradores da Zona Sul carioca ou de alguma das praias do interior do
+estado. O “Verão da Lata” se aprofundou no imaginário popular, gerando inclusive gírias
+que perdurariam por algumas décadas29. E, numa época pré-internet, esse alcance se deu por
+boca a boca entre os jovens da cidade e pela intensa produção jornalística.
+Revistas, rádios, televisões e jornais esmiuçaram o caso dando considerável espaço
+para a investigação em torno dos donos do navio Solana Star e toda a ação da Polícia Federal.
+Fez-se então uma cobertura tradicional sobre um episódio extremamente não usual. O
+mesmo aconteceu com o Jornal do Brasil e O Globo, que publicaram dezenas de notas,
+matérias e reportagens sobre o caso ao longo dos meses de setembro de 1987 e fevereiro de
+1988. Em suas abordagens particulares, é possível notar a maneira como ambos os jornais –
+e seus respectivos públicos leitores – encaravam o uso de drogas naquele momento da vida
+pública brasileira.
+Após o estudo de questões teóricas sobre o “Verão da Lata” e o jornalismo, é preciso
+analisar as reportagens publicadas durante o episódio. Para isso é necessário escolher uma
+metodologia capaz de se aprofundar nos objetos textuais de maneira uniforme. Dada a
+amostra, um total de 37 objetos, a análise qualitativa de uma parcela desses textos é mais
+28 ANDRADE, Carlos Drummond de. Alguma Poesia. In: Nova Reunião. Vol 1. Rio de Janeiro: Best Bolso,
+2014. p 19.
+29 No caso, a gíria “Da Lata”, sinônimo de coisa boa. Se tornou popular a ponto de nomear produtos, como
+feito pelo Brownie do Luiz, uma marca de doces do Rio de Janeiro. (AQUINO, 2012, p 167)
+38
+proveitosa do que a tentativa de encontrar significado e tendências gerais entre todos. A
+análise qualitativa, nesse caso, permite o uso de um número maior de ferramentas analíticas
+para cada artigo. Por isso foi escolhida a metodologia de Análise do Discurso Crítica, como
+apresentada pelos autores Norman Fairclough (2001) e Teun Van Dijk (1988) . É uma
+metodologia versátil na medida em que estuda não apenas questões internas de coerência
+estilística em um texto, mas também leva em consideração seu contexto social e histórico de
+produção e consumo.
+4.1 A Análise do Discurso Crítica
+Surgida no me io dos anos 60, a Análise do Discurso Crítica é fruto do trabalho
+conjunto e interdisciplinar de acadêmicos de diversas áreas do conhecimento. Em sua
+maioria europeus, são e foram pesquisadores oriundos da filosofia, sociologia, antropologia,
+história, est udos literários, psicologia e linguística. Em comum, compartilhavam da
+necessidade de encontrar novas maneiras de interpretar o que chamavam de “discurso”, “um
+evento comunicativo que incorpora um contexto social”30.
+Como observa o holandês Van Dijk em “New Analysis”, de 1988, essa vontade
+latente de uma nova metodologia surge por conta da então separação profunda entre a análise
+linguística e a análise sociológica da comunicação. Se, naquele momento, muito já se havia
+avançado na maneira como se analisava a comunicação escrita e falada nas duas áreas, pouco
+era feito para unir ambas as interpretações, o que separava o que Van Dijk considerava “texto
+e contexto”. É desse somatório de disciplinas anteriormente pouco interligadas que surge o
+campo de es tudo da Análise do Discurso Crítica. Preocupada em entender como unir o
+caráter normativo do estudo da gramática com as “propriedades individuais e presas ao
+contexto” do discurso, ela surge com o objetivo de:
+Produzir descrições sistemáticas e explícitas das unidades de uso da
+linguagem que chamamos de discurso [...] o que envolve a integração do
+texto e contexto no sentido de que o uso de discurso em uma situação
+social é o mesmo que um ato social. (VAN DIJK, 1988, p 30)
+Através desse somatório, argumenta Van Dijk, a Análise do Discurso Crítica também
+se torna um campo de estudo fecundo para a análise das notícias. Para ele, a particularidade
+de registros, gêneros e táticas retóricas no discurso da imprensa são marcadores que facilitam
+30 VAN DIJK, 1988, p 2
+39
+esse processo investigativo. Sendo divididas em formatos específicos, baseadas em manuais
+de redação e geradas através de uma técnica específica, as reportagens acabam requerendo
+estruturas mais complexas e variadas do que a maioria dos outros usos da linguagem
+presentes na vida cotidiana. Ou, nas palavras de Van Dijk, um “tipo específico de discurso
+público”, completo com “jargões específicos”, “frases longas e complexas”,
+“substantivações” e “estruturas sintáticas raras em outros contextos” (1988, p 10). E, por
+isso, são textos que permitem que um estudo de sua gramática revele os critérios editoriais
+do jornal em que são publicados.
+Tão importante para a relevância das notícias na Análise do Discurso Crítica quanto
+a sua particular estruturação gramatical, é o contexto de sua produção e recepção dentro da
+sociedade. Assim, mais do que o estudo do texto em si, a teoria leva em consideração qual
+jornal publicou dada reportagem: qual é a sua história editorial, qual sua percepção pública
+dentre os leitores e como isso tudo pode ser inferido através do texto. Porém, mais importante
+ainda, é a relação do leitor com o texto com que ele se deparou.
+Na Análise do Discurso Crítica, o estudo da recepção do leitor de um discurso se dá
+em nível sociológico. Por se tratar de um artefato cultural, um texto tem também um
+contexto, que é utilizado por esse leitor para lhe fazer sentido. Dele, fazem parte não apenas
+os conhecimentos formais sobre linguagem e gramática, mas também a bagagem cultural.
+Supõe-se que os “escritores produzem formas e significados que serão compreendidos pelos
+leitores”, e por isso, a análise do texto busca trazer quais são essas formas e significados
+comuns. Daí, por exemplo, a importância do estudo da organização em gênero textual e da
+temática de cada texto, espe cialmente dentro da análise de discurso noticioso. Não à toa,
+Van Dijk identifica a necessidade de começar “a análise sistemática das estruturas textuais
+das notícias” com “noções como tema ou tópico” (1988, p 12).
+É com essa noção de tópico estruturada (a chamada macroestrutura do discurso) que
+a análise pode partir para o estudo de como esse tema se manifesta textualmente no ambiente
+cultural e histórico ao longo do tempo. O estudo dos temas da cidade e da droga no
+jornalismo ao longo do século XX nos cap ítulos anteriores, permite agora o entendimento
+do contexto existente em 1987 durante o “Verão da Lata”, e de como os leitores perceberam
+o desenrolar do episódio nas páginas dos jornais.
+Necessitamos de conhecimento do mundo, e, portanto, uma análise
+cognitiva e social do que as pessoas em dada cultura sabem, e como eles
+usam esse conhecimento na interpretação do discurso em geral e assim
+40
+estabelecem a coerência dele em particular. [...] A definição do que é
+notícia pelos jornalistas, portanto, também é reproduzida indiretamente
+pelo leitor, que se surpreenderia (e provavelmente resistiria) a uma drástica
+mudança nos critérios editorias e estilos das reportagens. (VAN DIJK,
+1988, p 9)
+Os capítulos anteriores, portanto, se desenvolvem também não apenas como análise
+de revisão bibliográfica do tema, mas para entender as macroestruturas que regiam o
+jornalismo no momento do “Verão da Lata”. Para a Análise de Discurso Crítica, a
+possibilidade de se analisar um discurso noticioso só se abre a partir do entendimento de
+como produtor (jornalista) e receptor (leitor) encaram o tema abordado. Não há como
+entender o papel da maconha e do Rio de Janeiro em uma notícia sem analisar,
+anteriormente, como eles se manifestaram naqueles mesmos espaços discursivos ao longo
+do anos.
+4.2 As ferramentas de análise
+Além do estudo contextual da notícia Análise do Discurso Crítica oferece uma série
+de ferramentas que deverão ser escolhidas e utilizadas durante o estudo do texto em si. Como
+dito por Norman Fairclough, primeiro as dimensões de intertextualidade e
+interdiscursividade aparecem, para que então entre a análise dos textos, o que ele chama de
+“micro-análise da prática discursiva”. Em “Discurso e mudança social”, Fairclough introduz
+essas ferramentas para a utilização em análise de itens noticiosos.
+Para o auto r inglês, é preciso que antes da análise, o pesquisador determine um
+conjunto dessas ferramentas para que conduza sua metodologia. Assim, escolheu -se dentre
+as possibilidades propostas por Fairclough um total de oito critérios de avaliação textual para
+as notícias envolvendo o “Verão da Lata” no Jornal do Brasil e no Globo:
+“Interdiscursividade”, “Condução da prática discursiva”, “Intertextualidade Manifesta”,
+“Coesão”, “Ethos”, “Gramática”, “Significado das Palavras” e “Prática Social”.
+A “Interdiscursividade” é a primeira categoria a ser analisada dentro de cada amostra.
+Nela, Fairclough sugere que se defina qual é “gênero discursivo” a que ela pertence, e, mais
+do que isso, qual papel cada amostra desempenha nele. Em outras palavras, se dada
+reportagem é um registro comum em comparação com a forma e estilo de outros discursos
+noticiosos ou se chega a ter elementos vanguardistas e experimentais. Há as “Conduções de
+Prática Discursiva”, que buscam iluminar a maneira em que a notícia é cons umida. Se trata
+41
+de uma ferramenta que apresenta as maneiras com as quais o leitor pode se deparar com a
+notícia e quais fatores ele leva em consideração durante sua leitura. Por exemplo, se um
+título ou imagem recebem mais destaques na página ou se uma ilu stração ocupa espaço ou
+não na reportagem.
+Já a “Intertextualidade Manifesta” visa analisar como o estilo e a voz se mantêm
+coerentes – ou não – em uma reportagem se comparada a outras em seu próprio veículo de
+imprensa. Para isso, é necessário levar em consideração os “Pressupostos” do texto, ou seja,
+a história dos critérios editoriais de cada jornal e do conhecimento prévio “comum” dos
+leitores sobre dado tema, e suas “Representações discursivas”, que são as maneiras em que
+as vozes de personagens entrevistados aparecem. Ela se aproxima bastante do “Ethos”, outra
+das ferramentas, que leva em consideração como o autor se apresenta dentro de cada texto.
+O outro fator, “Coesão” é o primeiro de análise puramente sintática e gramatical de
+uma notícia. Através dela, busca-se entender como as orações e ferramentas retóricas do
+texto dialogam entre si para gerar um significado maior. A “Gramática” é um dos conceitos
+e se subdivide nos fatores de “Transitividade”, em que se analisa como ações de um texto se
+desenrolaram ao longo dele e quais são seus personagens; o “Tema”, que identifica o assunto
+principal da reportagem e qual sua relevância dentro dela; e a “Modalidade”, onde a
+linguagem utilizada é estudada, levando em consideração as formas verbais e o uso de
+adjetivos e advérbios ao longo do registro.
+Também há o “Significado das palavras”, que analisa as palavras -chaves da
+reportagem, buscando entender o seu poder de impacto no leitor, que visões específicas elas
+transmitem sobre o assunto abordado e como elas fazem parte da construção de estigmas do
+vocabulário jornalístico. E, por último, aparece a “Prática Social”, outra ferramenta que se
+divide em duas categorias: a “Matriz Social do Discurso”, que traça a origem social do objeto
+analisado, e as “Ordens do Discurso”, que observa como o objeto pode transformar os
+valores em que é baseado.
+4.3 Análise dos objetos
+Com as ferramentas e conceituação da Análise de Discurso Crítica, e com a revisão
+bibliográfica dos dois capítulos anteriores, analisaremos o material recolhido sobre o “Verão
+da Lata”. O total é de 37 reportagens, publicadas tanto no Jornal do Brasil quanto no Globo.
+Porém, após uma seleção qualitativa desse material, sete serão analisadas; quatro vindas das
+42
+páginas do Jornal do Brasil e três do Globo. Entre os critérios de escolha estão o tamanho
+das matérias — que vão além de pequenas notas publicadas ao longo daquele verão —; sua
+temporalidade, sendo publicadas entre os meses de setembro de 1987 e março de 1988; e,
+sempre que possível, as matérias que contassem com ilustrações ou infográficos; por último,
+foram escolhidas reportagens que apresentavam mais proeminentemente fatores explorados
+nos capítulos anteriores.
+Texto 1)
+31
+Nessa matéria, do dia 04 de outubro de 1987, “Itaúna se diverte pescando 200 latas
+de maconha no mar”, um termo se destaca no título: o verbo “se divertir”. Como visto no
+primeiro capítulo, e utilizando o “Significado das Palavras”, esse é um uso extremame nte
+pouco usual em uma cobertura jornalística sobre drogas no Brasil. O significado de
+“diversão”, que traz um aspecto agradável e lúdico a uma atividade, contrasta diretamente
+31 Reportagem publicada no dia 04 de outubro de 1987, na página 13 do caderno de cidade do Jornal do
+Brasil
+43
+ao que se espera de uma reportagem envolvendo a maconha. Se, no senso comum, as drogas
+eram associadas à ações e conceitos negativos como “violência”, “tráfico” e “crise de saúde”,
+o uso da palavra “diversão” indica justamente o oposto. Isso se evidencia ainda mais no
+corpo da matéria, onde a palavra “festa” é utilizada em duas ocasi ões para descrever os
+banhistas nadando em busca das latas.
+Adentrando no conceito de “Intertextualidade manifesta”, mais especificamente de
+“Pressuposições” é possível entender as escolhas de vocabulário. Primeiro, é preciso notar
+que Itaúna fica em Saqu arema, na Região dos Lagos. Essa distância geográfica do centro
+urbano principal e das zonas de conflito por conta do tráfico de droga, permitem ao Jornal
+do Brasil uma abordagem diferente ao assunto. Se no Rio de Janeiro a associação entre
+consumo de drogas e tráfico é a regra, em Saquarema, onde o conflito entre polícia e crime
+organizado não era tão marcante, o jornal se permite um tom de voz mais brincalhão com
+episódio.
+Contudo, pensando na “Gramática”, é essencial notar que a “Transitividade” do texto
+não foge da abordagem usual da temática de drogas. Ao longo da reportagem, a única voz
+que não a do jornal é a de um policial, personagem que foi descrito, no primeiro capítulo,
+como o principal na narrativa jornalística que envolvendo as drogas. Mais do que isso,
+observando o desenvolvimento de ações e narrativa — outros aspectos da “Transitividade”
+— fica claro que ambos se estruturam em torno da ação policial. Por mais que a manchete e
+a divisão da segunda parte da reportagem utilizem as palavras “dive rte” e “festa”, todo o
+acontecimento é narrado através do ponto de vista da corporação. Já no sublide essa versão
+toma protagonismo, e o leitor acompanha os policiais em primeira mão, se deparando com
+os civis “se divertindo” na praia apenas por conta da leniência dos policiais. Fica claro, então,
+que a versão principal exposta na matéria é a de que a força policial tolerou a ação dos
+banhistas e manteve a situação sob controle (mesmo sua incapacidade de patrulhar os 5km
+de extensão da praia é justificada).
+Assim, é possível olhar para a “Interdiscursividade” da reportagem. Ainda que se
+trate de um registro usual, que não foge ao padrão narrativo clássico do discurso jornalístico,
+a matéria do Jornal do Brasil aponta uma particularidade. Ao utilizar termos que remetem
+ao tom descontraído da ação descrita — e colocar, inclusive, crianças como personagens,
+sem as associar a algum tipo de mazela social — o jornal foge da simbologia rotineira da
+imprensa carioca. Nesse quesito, de fato, se trata de um registro inovador, ainda que não por
+44
+inteiro. A “Prática Social”, as “Ordens do discurso” nessa reportagem são, portanto,
+conflitantes. De um lado, passam ao leitor um posicionamento despreocupado em relação ao
+ato de recolher latas na praia, o que foge da associaçã o comum e anterior entre maconha e
+violência. De outro, reforça o protagonismo da polícia e de suas ações naquele contexto
+urbano, privilegiando a voz oficial do Estado e de suas instituições em comparação com a
+dos cidadãos de Saquarema.
+Texto 2)
+32
+Publicada no jornal O Globo, a segunda amostra é do dia 27 de dezembro de 1987.
+Já em seu título, é possível traçar comparações com a reportagem vista anteriormente e o
+conceito de “Significado das palavras”. Intitulada “Federal exibe os presos com 346 latas de
+maconha”, a matéria privilegia a ação policial. Não à toa, algumas palavras do título se
+destacam, especialmente “exibe” e “Federal”. O verbo denota clara aprovação da ação dos
+policiais. Mais do que isso, objetifica e estigmatiza os presos, que são “exibidos” e não, por
+32 Reportagem publicada no dia 27 de dezembro de 1987, na página 16 do caderno Rio do Jornal O Globo.
+45
+exemplo, “apresentados”. Para além da escolha do verbo, que demonstra impotência dos
+presos há a expressão “Federal”. A escolha é interessante por dois motivos: mostra
+familiaridade e intimidade com a corporação policial — que não é r eferida como Polícia
+Federal —, e para além disso, aparece como primeiro termo do título.
+Nesse caso, é preciso utilizar o conceito de “Coesão”. Na amostra, a retórica do
+discurso é evidente logo no título. O primeiro elemento da oração é “Federal”, que é seguido
+por um verbo “exibir” e outro substantivo “preso”. Nessa sequência de três palavras, uma
+hierarquia de poder já se torna evidente. A polícia é o principal personagem desse fato, e se
+coloca acima dos presos, personagens menores e desvalorizados, ai nda mais por conta do
+verbo escolhido. A mesma lógica se repete dentro da matéria. Novamente, no lide, a polícia
+aparece como sujeito, e sua ação é destacada. Ali, também se evidencia a formatação da
+“Intertextualidade manifesta”, mais especificamente no q uesito de “Representação
+discursiva”.
+Nesse discurso, há a presença de três vozes: a do jornal, a dos policiais e a dos presos.
+A voz do jornal, por narrar as outras duas, aparece escondida — no “ethos” da reportagem,
+nem jornal ou repórter aparecem —, a dos policiais é reproduzida diretamente, citando o
+assessor da Polícia Federal, e a dos presos apenas em discurso indireto. Essas escolhas
+reforçam a divisão hierárquica vista no título da reportagem. A polícia tem seu ponto de vista
+dado como narrativa factual, não à toa sendo o único dos lados a poder expor sua palavra em
+discurso direto.
+Na reportagem, as “Condições da Prática Discursiva” se tornam claras. Os leitores
+do jornal O Globo, em sua maioria, não são moradores dos bairros dos presos, Santa Cruz e
+Campo Grande. Portanto, buscando entender o contexto de leitura da reportagem, se nota
+que ela se distancia dos moradores da região. Portanto, em sua “Interdiscursividade”, a
+segunda amostra é também um texto noticioso, mas, ao contrário da primeira, com elementos
+conservadores em seu formato e abordagem temática. Ela reproduz as práticas analisadas no
+primeiro e segundo capítulo do trabalho: associando a droga à violência — mesmo distante
+do tráfico —; dando voz prioritária aos policiais; e não aos moradores de regiões periféricas
+da cidade.
+46
+Texto 3)
+33
+Intitulada “A última da lata”, a terceira reportagem demonstra diversas
+particularidades em relação as outras duas. Em primeiro lugar, vale notar em sua “Coesão”,
+que o título ocupa uma função retórica diferente das outras duas apresentadas. Ele não
+descreve a situação diretamente para o leitor, deixando essa função para o subtítulo “Caseiro
+33 Reportagem publicada no dia 26 de dezembro de 1987, na página 4 do caderno de cidade do Jornal do
+Brasil
+47
+escondia maconha lançada ao mar pelo iate na casa do patrão”, que por sua vez também foge
+às regras vistas anteriormente. Mais do que isso, a expressão a “última da lata” dá claramente
+a um tom coloquial de discurso. Se trata de uma gíria (“a última”) acompanhada de uma
+expressão informal sobre o episódio descrito (“da lata”, que se tornaria gíria por si só). Aqui,
+não há presença de uma instituição específica — a polícia — e o protagonista da ação é um
+personagem não entrevistado, o “caseiro”.
+Para além da chamada, há outro destaque: uma ilustração feita de uma lata gigantesca
+de extrato de tomate (do tipo utilizada pelos traficantes do Solana Star), em que a fruta
+aparece fumando um cigarro de maconha e impede a polícia federal de alcançar o caseiro
+fugitivo. Esse tom caricato e de deboche com a situação interage diretamente com o restante
+da matéria. Nas “Conduções da Prática Discursiva”, o leitor se depara em primeiro momento
+com o título e a ilustração, antes de começar sua leitura. Portanto, ao olhar pela primeira vez
+para a reportagem, o leitor recebe uma informação de descontração, fugindo do tom esperado
+de seriedade com a temática de drogas, de acordo com o visto no primeiro capítulo.
+Antes do começo do texto em si, outra particularidade. A reportagem é assinada pela
+repórter Soraya Dutra. Analisando o “Ethos” da reportagem, isso traz certas implicações.
+Em primeiro lugar, levando em consideração o contexto histórico do jornalismo na época,
+isso representa a importância da matéria, já que o ato de assinar uma reportagem reitera a
+sua importância. Esse prestígio dentro da própria página de jornal, também, abre espaço para
+que Dutra utilize um tom de voz mais particular e leve descrevendo a situação, se colocando
+estilisticamente em seu texto, se comparando com os exemplos analisados anteriormente.
+Já dentro dele, na “Transitividade” da “Gramática”, aparece uma raridade. Há,
+primeiro, três vozes distintas sendo citadas: Walter Lacet, diretor de televisão e que teve sua
+casa utilizada como ponto de armazenamento de drogas; o assessor da Polícia Federal,
+Geovani Azevedo; e um policial não identificado. Apesar da importância dos outros dois
+personagens, esse terceiro é o que demonstra uma ruptura maior com o discurso vigente, ou
+as “Pressuposições” da “Intertextualidade manifesta” do discurso. Sua declaração, “são
+pessoas humildes, que tentaram ganhar dinheiro fácil e acabaram se dando mal”, foge dos
+estigmas estabel ecidos anteriormente sobre o perfil do traficante de drogas na imprensa
+carioca. Como visto nos primeiros capítulos, criou -se um estado de constante guerra e
+conflito entre a sociedade (representada pela polícia) e o estado paralelo do tráfico de drogas.
+Nesse ponto da matéria, um policial relativiza as motivações do caseiro e de outros tantos
+48
+não nomeados que foram presos por tentarem revender maconha da lata. Ainda que
+passageiro, o momento é emblemático de uma abordagem pouco usual feita pelo Jornal do
+Brasil no decorrer do “Verão da Lata”.34
+A “Interdiscursividade” do texto, portanto, é consideravelmente diferente dos dois
+exemplos anteriores. Ao contar com um título não descritivo, uma ilustração satírica e três
+colunas, ela foge do padrão formal estabelecido pelas duas reportagens vistas até agora. Mais
+do que isso, por conta de seu tom informal, quebra de estigmas e narrativa fragmentada,
+também se trata de um registro inovador dentro do trabalho jornalístico comum.
+Texto 4)
+35
+A quarta amostra, publicada no começo das investigações sobre o “Verão da Lata”,
+apareceu no jornal O Globo no dia 30 de setembro de 1987. Se tratando de uma reportagem
+não assinada, ela segue o padrão analisado nas duas primeiras matérias. Há um título
+descritivo, “Latas com maconha aparecem Ipanema”, e uma predominância do discurso
+oficial, ou seja, do ponto de vista da polícia sobre os acontecimentos. Contudo, esse é o
+primeiro objeto analisado até o momento que conta com uma fotografia, nesse caso da prisão
+de Stephen Skelton, cozinheiro do navio “Solana Star” e o único tripulante da embarcação
+que viria a ser preso pelo crime de tráfico. A fotografia, que mostra Skelton algemado, de
+frente para parte das latas apreendidas e cercado de repórteres, é uma fotografia policial
+clássica, o que insere os eventos do “Verão da Lata” no campo da segurança pública. No que
+diz respeito a “Tema”, “Gramática”, “Pressuposições” e “Intertextualidade manifesta”, o
+leitor do Globo é levado a uma associação direta com o crime organizado. Os dois elementos
+34 É interessante notar, também, a informalidade dos comentários do assessor, que chega a justificar uma
+demora no atendimento policial ao Natal. O que, apesar de coerente, foge da imagem de instituição incansável
+feita pela polícia.
+35 Reportagem publicada no dia 30 de setembro de 1987, na página 15 do caderno Rio do Jornal O Globo.
+49
+— o título, com as palavras maconha e Ipanema, bairro abastado, e a fotografia — trabalham
+em conjunto para demonstrar e construir uma narrativa específica sobre o episódio.
+Vale notar, ainda, tematicamente, a escolha d os “significados de palavras”.
+Diferentemente das últimas análises, a questão policial apesar de muito marcada, não tem
+correspondência com criminosos. Se em Itaúna, Angra dos Reis, Campo Grande e Santa
+Cruz os presos são locais, no caso de Ipanema o único responsável é o cozinheiro da
+embarcação. Ainda que as latas tenham chegado ao bairro, a sua presença não gera uma
+ligação direta ou indireta com o aumento de violência. Como visto no capítulo 2, a questão
+de como as cidades são representadas na imprensa impacta diretamente na cobertura de
+policial de um jornal. Não é coincidência, portanto, a moderação com que o Globo apresenta
+o caso ocorrido em Ipanema se em comparação com as regiões afastadas da cidade. Por
+exemplo, ao invés de banhistas que driblam a polícia para pegar as latas, como em Itaúna,
+os surfistas de Ipanema são dóceis, e aparecem no lide da matéria colaborando diretamente
+com os esforços policiais.
+No que diz respeito às categorias “Temas” e “Pressupostos”, a reportagem também
+cumpre uma função de manutenção da normalidade. Em outras palavras, o texto 4 mantém,
+para os leitores, a noção de que o episódio do “Verão da Lata”, então no seu auge, não
+significa uma mudança na rotina do bairro. Os surfistas, na praia, continuam em colaboração
+com a polícia. As latas, que “aparecem” e não são “apreendidas” ou “expostas”, não
+oferecem perigo e estão desvinculadas da criminalidade. Por último, a foto de Skelton,
+mostra o principal culpado do crime sendo preso pela polícia, ou seja, sob controle. Vale
+notar, também que o jornal destaca que os outros tripulantes do “Solana Star” estão fora do
+país. A única menção à criminalidade, no último parágrafo, sequer se passa na cidade do Rio
+de Janeiro. Se trata da prisão de três pescadores em Florianópolis, que foram para a cadeia
+por 3kg de maconha apreendidos. Assim, a ação criminal novamente aparece distante do
+bairro nobre carioca, e sim numa embarcação pesqueira de um estado afastado do Rio de
+Janeiro. Pensando em sua “Interdiscursividade”, se trata de uma m atéria rotineira tanto em
+sua forma quanto conteúdo.
+Texto 5)
+50
+36
+Publicada no dia 26 de setembro, a quinta amostra aparece na edição do dia seguinte
+aos acontecimentos que deram início a cobertura do “Verão da Lata”. Ou seja, é a primeira
+matéria do Jornal do Brasil a tratar do assunto desde a chegada das latas no estado do Rio
+de Janeiro. Portanto, é também uma reportagem de tamanho considerável. E isso fica
+evidente em sua chamada: antes do título em si, a reportagem elenca as diversas praias que
+tiveram latas no dia anterior. E o título principal, em si, assume tom bem -humorado, com
+“maconha à vista nas praias do Rio”, uma abordagem distante da violência ou criminalidade
+associada às drogas.
+O “Tema” da matéria é, evidentemente, as drogas, mas com abordagem distinta do
+senso comum. A mesma interpretação prevalece na ilustração feita por Sergio Magalhães.
+Nela, a população aparece eufórica correndo em direção ao mar, animada para conseguir
+latas. O movimento é tão grande que passa por cima da polícia, que aparece no canto inferior
+esquerdo em números incapazes de conter a multidão. Além disso, já há banhistas
+consumindo maconha e até uma que admira o conteúdo da lata. A imagem de relativo caos
+e animação geral mostra um evento completa e totalmente desassociado de qualquer estigma
+negativo do uso, venda ou compra de drogas presentes no jornalismo diário até então.
+36 Reportagem publicada no dia 26 de setembro de 1987, na página 12 do caderno de cidade do Jornal do
+Brasil
+51
+A reportagem, assim como outra analisada do próprio Jornal do Brasil , tem um
+“Ethos” claro na voz da jornalista Mônica Freitas, que assina a matéria. A voz marcada em
+seu texto se reflete logo no lide, que é repleto de humor. Nas categorias de “Significados de
+palavras” e “Coesão”, podemos ver diversas palavras que fogem do comum. A autora usa
+no lide duas expressões humorísticas: “Nem tudo q ue cai na rede é peixe” e “O conteúdo,
+nem mesmo Netuno poderia imaginar”. Em comparação com as aberturas das outras
+reportagens analisadas, a liberdade no tom de voz é evidente. Ao longo da matéria, adjetivos
+como “estranho”, “ameaçadora” e “revolto”, alé m de verbos como “inundou” ajudam a
+construir um vocabulário mais rico em suas expressões e pouco comum em um registro
+normal jornalístico.
+Além disso, a reportagem também se destaca em “Transitividade” e “Representações
+discursivas”. Esse é o primeiro te xto analisado, que dá voz, ainda que indireta, a um
+personagem que faz parte da sociedade civil: o chefe dos garis de Arraial do Cabo, Joaquim
+Alves Barbosa. Ele aparece, na primeira coluna, como tendo sido responsável por desconfiar
+do conteúdo das latas recolhidas. Mais do que isso, na reportagem também aparecem falas
+de dois delegados, algo até então não visto em outras amostras. Se posteriormente a Polícia
+Federal já se comunicava com os jornais exclusivamente através de seu assessor no que tange
+o “Verão da Lata”, nesse momento original ainda há espaço para a visão de delegados de
+São Sebastião e da Divisão de Entorpecentes.
+A narrativa construída por Monica também foge do visto anteriormente. Ao longo de
+quatro longos parágrafos, a repórter descreve a situação em uma espécie de cena da chegada
+das latas ao litoral. Fala de sua abrangência, utiliza diversos números e valores sobre o
+assunto, conta da percepção da população da área até, então, na segunda metade de sua
+narrativa, passar a dar voz para a P olícia. Isso contrasta diretamente com o protagonismo
+tido pela polícia nas amostras anteriores, que sempre conduzia a história através de seu ponto
+de vista.
+Portanto, no quesito de “Interdiscursividade”, a reportagem faz parte de um registro
+completamente inovador. O tom humorístico, o uso de personagens que não fazem parte das
+narrativas oficiais e a ilustração são marcadores claros para essa interpretação. Mônica
+Freitas imprime personalidade ao texto e foge de boa parte dos estigmas assinalados nos
+capítulos anteriores, tanto no que trata do tema de drogas quanto no de cidades. Ao falar de
+áreas periféricas do estado do Rio, mantém o tom leve, que não desanda para a narrativa
+52
+policial. Contudo, vale destacar que a ilustração tem uma leve dissonância em tom em
+relação ao texto. Ainda assim, vale ressalta que a reportagem ainda dá prioridade ao ponto
+de vista da polícia, especial em sua segunda metade. A ilustração, por sua vez, chega quase
+ao tom de deboche com a Polícia, o que cria uma diferença de abordagens marcante.
+Texto 6)
+37
+Assim como o Jornal do Brasil, O Globo também publicou uma longa reportagem
+sobre o “Verão da Lata” em seu caderno de cidade no dia 26 de setembro. É clara a diferença
+de título: se no JB o tom era de brincadeira, O Globo adverte: “Maconha em latas despejada
+por iate chega às praias do Rio”. A mesma diferença é notada nas imagens. Se no primeiro
+exemplo uma ilustração humorística se destaca, nessa reportagem há um mapa bastante
+tradicional mostrando os pontos de chegada da s latas no litoral brasileiro, e uma fotografia
+de um policial analisando algumas das latas apreendidas.
+As duas imagens representam bem o tom do texto. Seu lide vai ao ponto, unindo o
+aspecto policial e de dados. O objetivo é o de informar de maneira dir eta e seca. Não há
+espaço para uma tom de voz autoral. Assim, suas “Pressuposições” e “Representações
+discursivas” são as mesmas dos primeiros exemplos. Em momento algum da matéria aparece
+37 Reportagem publicada no dia 26 de setembro de 1987, na página 13 do caderno Rio do Jornal O Globo.
+53
+um personagem que não seja da polícia. E, desde o início, a narrati va se estrutura em torno
+do boletim policial. As duas primeiras colunas, portanto, aparecem basicamente como uma
+notícia reforçando a progressiva e eficaz ação policial no recolhimento das latas. O primeiro
+contato do leitor carioca com o tema é tranquilizador.
+A análise das outras duas retrancas da reportagem aprofundam as conclusões. Em
+uma delas, “Preso comprou lata de dois marinheiros”, o jornal conta sobre a compra e venda
+de latas da maconha, entre pescadores da cidade de Santos, litoral paulista. Além disso, cita
+a aparição de latas em Ubatuba e Guarujá. A antecipação para a chegada no Rio, porém, é
+tranquilizada na nota: apenas se ouve a versão da polícia, especificamente do delegado da
+Polícia Federal em Santos. Há apenas uma menção ao estado do Rio, em q ue algumas das
+latas poderiam ter sua origem traçada à Ilha Grande, o que não se confirma. Na terceira, em
+“Contrabando vai acabar nas praias”, há o único momento de referência a um personagem
+não envolvido na dinâmica criminal. Se trata, novamente, do ch efe de garis Joaquim
+Barbosa. Se no Jornal do Brasil sua história aparece na primeira coluna da reportagem, no
+Globo Barbosa é citado apenas na quarta coluna.
+Em “Interdiscursividade”, a reportagem analisada é quase o oposto da vista
+anteriormente. Seu for mato é tradicional, reiterando os estigmas que envolvem as drogas.
+Ainda que não seja alarmista, O Globo coloca a polícia como personagem principal em um
+trabalho de contenção contra a chegada da maconha ao Rio de Janeiro. Há um forte destaque
+para os presos e uma descrição contida e sem adjetivos ou verbos mais expressivos.
+Texto 7)
+54
+38
+A última amostra é também a que aparece de maneira mais tardia na cronologia de
+eventos do “Verão da Lata”, publicada em 10 de janeiro de 1988. Se todas as reportagens
+vistas até agora abordam a chegada das latas às praias, o trabalho da polícia e a reação dos
+banhistas, essa é uma das que explorou o impacto do evento na sociedade. Especificamente,
+é uma reportagem sobre um dos caminhos de permanência do “Verão da Lata” no imaginário
+da população carioca: a moda.
+Seu título já demonstra uma escolha léxica informal e com uso de gírias. Utilizando
+o “Significado de palavras”, destaca -se logo a escolha da expressão “Da lata”, uma gíria
+surgida por conta do próprio “Verão da Lata” e que significa algo positivo. Na manchete, o
+uso não é este, mas é a primeira ocorrência do termo “da lata”, associado diretamente a gíria,
+nas páginas dos jornais analisados. Mais do que isso, ele é seguido diretamente de outra
+gíria, “dá bode”, qu e por sua vez significa problema. O duplo uso de gírias, portanto,
+demonstra um tom humorístico que se mantém ao longo da reportagem.
+Apesar de não ser assinada, a matéria do Jornal do Brasil demonstra uma voz própria
+marcante, que para além do título se r epete em seu lide. Em uma abordagem diferente de
+todas as amostras vistas até agora, a reportagem abre com uma citação da música “Metáfora”
+de Gilberto Gil, que serve para introduzir o assunto da venda de camisetas da lata, que
+38 Reportagem publicada no dia 10 de janeiro de 1988, na página 14 do caderno de cidade do Jornal do Brasil
+55
+tiveram sua comercialização proibida pela polícia. Nesse caso, se evidencia então uma
+“Coesão” e “Transitividade” ímpares em relação aos outros textos.
+As “Representações discursivas” da reportagem são distintas das demais analisadas.
+A voz principal da matéria não é a da polícia, qu e só aparece em discurso indireto. Quem
+fala, além do próprio JB, é Felipe Amodeu, vendedor das camisetas. É outro ponto de
+diferença, possivelmente explicado por conta do teor de matéria de “comportamento” em
+oposição ao boletim policial das demais report agens. Ainda assim, a amostra foge bastante
+do tom de voz notado até aqui, inclusive contando com a frase de Amodeu: “essa foi a maior
+piada do ano”. Na categorização de “Interdiscursividade”, é possível identificar na matéria
+um registro inovador em seu tom. Sua forma é tradicional e não foge do visto até o momento,
+mas seu tom leve e descontraído e sua escolha por dar voz a um personagem que não de uma
+instituição a colocam como uma notícia fora do comum.
+Observando as sete amostras em conjunto, é possív el perceber alguns traços
+recorrentes entre as reportagens. Em primeiro lugar, a predominância da versão policial dos
+fatos narrados. Ainda que em intensidades diferentes, todas os textos analisados contém a
+versão da Polícia Federal ou Militar sobre os a contecimentos do “Verão da Lata”. Mais do
+que isso, na maioria das reportagens, essa é a única versão exposta, colocando a palavra da
+instituição como a final. Contudo, há uma particularidade entre todas as amostras que foge
+das tendências apresentadas no Capítulo 1: apesar da predominância da visão policial, tanto
+O Globo quanto o Jornal do Brasil fogem de associação entre a maconha e a violência, nesse
+caso. Uma explicação possível para isso é a falta de ligação direta do caso com o tráfico de
+drogas, um dos principais personagens na guerra urbana contada pelos dois jornais.
+Considerando as observações sobre jornalismo de cidade feitas no segundo capítulo,
+um quesito se destaca: a Zona Sul do Rio de Janeiro é o centro das apurações. Mesmo
+havendo uma quantidade considerável de pautas falando de outras áreas, o tratamento entre
+nas reportagens não é o mesmo. Os acontecimentos de áreas como Angra dos Reis, Itaúna e
+outros pontos do resto do estado não são tratados com urgência, mostrando quase sempre
+certo tom humorístico e leve. Já dentro dos limites da cidade do Rio de Janeiro, a divisão
+fica mais clara. Na matéria vista sobre os bairros da Zona Oeste, o tom é claramente policial
+e os envolvidos e passantes não tem voz. O formato é de boletim de ocorrência. Já nas
+matérias contando ocorridos da Zona Sul, a postura é outra. Não há noticiário de crime
+diretamente associado a chegada das latas nas praias de Ipanema e Leblon. Há apenas uma
+56
+descrição de ações efetivas da força policial, que funcionam para manter a paz no local e
+impedir qualquer quebra do cotidiano da área. Além disso, há um forte aspecto lúdico na
+cobertura do Jornal do Brasil.
+A diferença entre os dois jornais é notável: ainda que, no fundo, cubram o “Verão da
+Lata” nos mesmos episódios, O Globo e o Jornal do Brasil apresentam-se de maneira
+completamente diferente para seus leitores. O primeiro, fazendo uma cobertura
+consideravelmente mais sóbria, utilizando fotografias mostrando as ações policiais, dando
+mapas sobre a chegada das latas e não assi nando nenhuma matéria. Há, em todo momento,
+um tom de tranquilização para o leitor, que recebe os acontecimentos sempre como contidos
+e relativamente prosaicos, especialmente se tratando de um ocorrido na Zona Sul carioca. Já
+o Jornal do Brasil segue outra linha, consideravelmente mais descontraída. Utilizando-se de
+ilustrações e caricaturas, e dando espaço para textos humorísticos, leves e mais particulares
+— inclusive alguns assinados pelos repórteres — o jornal acaba por ver o “Verão da Lata”
+sob um olhar de comportamento, algo ausento no Globo. Mais do que isso, o Jornal do Brasil
+também acaba por abordar e dar mais destaques às notícias de fora do centro do Rio de
+Janeiro. Isso fica evidente, por exemplo, na comparação das amostras 5 e 6, em que o JB dá
+destaque aos acontecimentos do interior do estado enquanto estes só figuram com destaque
+na última coluna da reportagem do Globo.
+Em suma, através da Análise do Discurso Crítica, é possível entender a relação dos
+dois jornais em com a literatura apresentada nos dois primeiros capítulos. O Globo, apesar
+de não entrar na questão de violência urbana com o “Verão da Lata”, acaba por repr oduzir
+os comportamentos editorais apontados na literatura analisada; dá menos valor ao acontecido
+fora da Zona Sul carioca; mantém um tom de voz em suas reportagens que é superficialmente
+neutro; acompanha sempre a versão “oficial” dos fatos; e ignora a d imensão social do
+ocorrido, tratando-o apenas como um caso de polícia. Já o Jornal do Brasil, tem uma relação
+mais inovadora com o “Verão”; ainda que privilegie a versão oficial, ele é capaz de ouvir
+participantes com outras experiências; dá voz a question amentos sobre a ação da polícia
+(amostra 7) e sobre a natureza dos crimes cometidos durante o episódio, sugerindo uma
+questão social para eles (amostra 3); e dá um abordagem editorial de leveza e que enxerga
+fatores de comportamento dentro dos acontecimentos do “Verão da Lata”.
+57
+5. CONCLUSÃO
+A análise metodológica e qualitativa das reportagens publicadas pelo Jornal do
+Brasil e O Globo, revelam a particularidade do “Verão da Lata” em seu contexto histórico.
+Com a bibliografia vista nos dois primeiros capítulos, é perceptível a abordagem então única
+feita pela imprensa carioca. Ainda que em intensidades diferentes – com o Jornal do Brasil
+demonstrando mais liberdade e inovação em seus formatos – ambos os jornais acabaram por
+desassociar completamente a chegada da maconha nas praias cariocas à violência e
+segurança pública, algo que fugia da regra estabelecida ao longo das décadas anteriores. Viuse que os jornais brasileiros criaram um precedente, ao longo do século XX, para uma
+narrativa que privilegiava a visão do Estado e da polícia.
+Porém, s e drogas ilícitas eram retratadas em uma imagem desesperadora de seus
+efeitos como fatores de falência social, no “Verão da Lata”, a maconha assumiu um papel
+inofensivo. Nas reportagens analisadas, as latas eram ao mesmo tempo vistas como fato
+curioso e uma inconveniência ou perturbação da ordem pública de escala contida. A vis ão
+dos jornais mais evidente era a de que, ao longo daqueles meses, as matérias sobre o “Verão”
+serviriam para aliviar um pouco as tensões das outras notícias mais urgentes e preocupantes.
+De diversas maneiras, a cobertura feita sobre o “Verão da Lata” antecipou como a
+maconha seria por vezes tratada na imprensa brasileira nos primeiros anos do s éculo XXI
+em diante. A leveza se tornou um tom de voz possível para tratar do entorpecente. Naquele
+momento, entre setembro de 1987 e março de 1988, a droga não era mais motivo de
+calamidade pública. Nas páginas dos jornais do Rio de Janeiro, ainda que por um tempo
+limitado, os leitores puderam se deparar com uma cobertura despretensiosa e pouco
+agressiva. Em sua profunda especificidade, o “Verão da Lata” acabou por desassociar a
+droga do tráfico nas comunidades cariocas, permitindo aos repórteres vislumbra rem um
+momento em que a maconha não necessariamente seria uma das causas da derrocada do Rio
+de Janeiro. Sim, estava associada ao tráfico internacional, do “Solana Star”, mas sua aparição
+não estava ligada à falência do poder público e sim a uma casualidad e de caráter
+internacional. No “Verão da Lata”, a maconha apareceu longe das armas. Foi, por um tempo,
+companheira da risada.
+6. BIBLIOGRAFIA
+AQUINO, Wilson. Verão da Lata: um verão que ninguém esqueceu. São Paulo: Leya, 2012.
+216 pg.
+BUENO, Ronaldo Velho, BAPTISTA, Maria Luiza Cardinale. Narrativas urbanas: o
+jornalismo como dispositivo de reinvenção do sujeito e de sua relação com a cidade . In:
+Intercom – XXXVIII Congresso Brasileiro de Ciências da Comunicação. Rio de Janeiro:
+Universidade Federal do Rio de Janeiro, 2015. 9 pg.
+FAIRCLOUGH, Norman. Discurso e mudança social. Brasília: Editora Universidade de
+Brasília, 2001. 316 pg.
+LOSNAK, Célio José. O jornalismo e a cidade. In: Intercom – XXXIV Congresso Brasileiro
+de Ciências da Comunicação. Recife: Universidade Católica de Pernambuco. 2011. 15 pg.
+MASTROIANNI, Fábio de Carvalho. As drogas psicotrópicas e a imprensa brasileira:
+análise do material publicado e do discurso dos profissionais da área de jornalismo .
+Dissertação de mestrado. Universidade Federal de São Paulo, UNIFESP. São Paulo, 2006.
+118 pg.
+NOTO, Ana Regina, et al. Drogas e saúde na imprensa brasileira: uma análise de artigos
+publicados em jornais e revistas. In: Cadernos de Saúde Pública. V.19, nº1, Rio de Janeiro,
+2003. pg 69-79.
+________________, et al. Cobertura jornalística sobre drogas: distorções e
+potencialidades na prevenção. In: RONZANI, Telmo Mota. (Org.) Ações integradas sobre
+drogas: prevenções, abordagens e políticas públicas. Juiz de Fora: Editora UFJF, 2013. pg
+277-291.
+NOVAES, André Reyes. Cartografia jornalística, imagem e significado: um estudo da
+representação das drogas ilícitas na imprensa brasileira. In: ROSENDAHL, Zeny,
+CORRÊA, Roberto Lobato. Espaço e cultura: Pluralidade Temática. Rio de Janeiro: Editora
+UERJ, 2008. pg 211-248.
+PERES, Ana Cláudia. Narrar o outro: notas sobre a centralidade do testemunho para as
+narrativas jornalísticas. In: Anais do XXIII Encontro Anual da Compós. Belém:
+Universidade Federal do Pará, 2014. 14 pg.
+RAVAZZI, Samanta, BOCHEMBUZZO, Daniela Pereira. A importância do texto de
+qualidade para o jornalismo impresso diário: um estudo de caso sobre o Jornal da Cidade.
+In: Intercom – XXXVIII Congresso Brasileiro de Ciências da Comunicação. Rio de Janeiro:
+Universidade Federal do Rio de Janeiro, 2015. 15 pg.
+SEIXAS, Netília Silva dos Anjos. Jornalismo e ironia: produção de sentido em jornais
+impressos no Brasil. Tese de Doutorado. Universidade Federal de Pernambuco, UFPE.
+Recife, 2006. 256 pg.
+SILVA, Marcos Paulo da. Jornalismo, Cotidiano e Experiência Estética: uma discussão
+sobre a interface dos campos calcada na regularidade cotidiana. In: Anais do XX IV
+Encontro Anual da Compós. Brasília: Universidade de Brasília, 2015. 18 pg.
+SILVA, Maria Terezinha da, FRANÇA, Vera Regina Veiga. Jornalismo e noticiabilidade:
+quem constrói os valores -notícia? In: Anais do XXVI Encontro Anual da Compós . São
+Paulo: Faculdade Cásper Libero, 2017. 20 pg.
+SOARES, Rosana Lim a. Narrativas da notícia: jornalismo e estigmas sociais. In: II
+Encontro Nacional de Pesquisadores em Jornalismo. Salvador: Universidade Federal da
+Bahia, 2004. 14 pg.
+TAVARES, Frederico de Mello Brandão, VAZ, Paulo Bernardo Ferreira. Cidades em
+“Cidades”. In: Estudos de Jornalismo e Mídia. V.2, nº 2, 2005. pg 51-61.
+TORCATO, Carlos Eduardo de Martins. Breve história da proibição das drogas no Brasil:
+uma revisão. In: Inter-Legere. nº15, Natal, 2014. pg 138-162.
+VAN DIJK, Teun A. News as Discourse. 1ed. Hillsdale, Nova Jérsei: Lawrence Erlbaum
+Associates, 1988. 182 pg.
+_________________ News Analysis. 1ed. Hillsdale, Nova Jérsei: Lawrence Erlbaum
+Associates, 1988. 294 pg.
+VELHO, Gilberto. Nobres & Anjos: um estudo de tóxicos e hierarquias. Rio de Janeiro:
+Editora Fundação Getúlio Vargas, 1998. 216 pg.

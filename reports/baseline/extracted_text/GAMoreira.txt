@@ -1,0 +1,1838 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+CAMPUS MACAÉ 
+      CURSO DE FARMÁCIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRESCRIÇÃO DE MEDICAMENTOS POTENCIALMENTE PERIGOSOS 
+EM UMA UNIDADE DE TERAPIA INTENSIVA PEDIÁTRICA 
+ 
+GRAZIELLA ARRUDAS MOREIRA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MACAÉ 
+Dezembro de 2013 
+
+ 
+ 
+GRAZIELLA ARRUDAS MOREIRA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Título: PRESCRIÇÃO DE 
+MEDICAMENTOS POTENCIALMENTE 
+PERIGOSOS EM UMA UNIDADE DE 
+TERAPIA INTENSIVA PEDIÁTRICA 
+ 
+ 
+Monografia Apresentada ao Curso de Farmácia da 
+Universidade Federal do Rio de Janeiro como um 
+dos requisitos para ob tenção do título de 
+farmacêutico. 
+ 
+Orientadoras: Elisangela da C. Lima Dellamora  e 
+Thaísa Amorim Nogueira 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MACAÉ 
+Dezembro de 2013 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FOLHA DE APROVAÇÃO 
+ 
+PRESCRIÇÃO DE MEDICAMENTOS POTENCIALMENTE PERIGOSOS 
+EM UMA UNIDADE DE TERAPIA INTENSIVA PEDIÁTRICA 
+ 
+GRAZIELLA ARRUDAS MOREIRA 
+ 
+ 
+Banca examinadora da Monografia Apresentada 
+ao Curso de Farmácia da Universidade Federal do 
+Rio de Janeiro como um dos requisitos para 
+obtenção do título de farmacêutico. 
+ 
+ 
+ 
+__________________________________ 
+Elisangela da Costa Lima Dellamora  
+__________________________________ 
+   Rita Cristina Azevedo Martins 
+_________________________________ 
+Danielle Maria de Souza dos Santos 
+ 
+ 
+Macaé, 12 de dezembro de 2013. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dedico este trabalho aos meus  pais, pois, mesmo com todas as 
+dificuldades, priorizaram meus estudos, acreditaram em mim e 
+me deram tudo que há de mais essencial para criação de um 
+filho: ensinamentos, amor e carinho. 
+ 
+ 
+ 
+ 
+ 
+AGRADECIMENTOS 
+ 
+ 
+ 
+A Deus, sempre fiel, que me deu força, coragem e  persistência para chegar ao fim da 
+graduação e concluir a fase de elaboração desta monografia. 
+ 
+Aos meus amados pais: m inha mãe, Yolanda Arrudas Moreira, por ser tão compreensiva em 
+todos os momentos em que me fiz ausente e não pude lhe dar a devida  atenção; meu pai,  
+Clailton Moreira, por acreditar incondicionalmente e investir em mim. Vocês juntos são meu 
+alicerce e os devo minha  vida e eterna gratidão. Eu os amo muito e sei que com vocês nunca 
+estarei sozinha. 
+ 
+Ao meu irmão Thiago , por demonstrar tamanho interesse, desde o início, no que estive 
+desenvolvendo com este trabalho . Ao meu noivo Rodrigo, meu amor, amigo e  companheiro, 
+pelos conselhos, atenção  e paz que me proporciona  dia a dia. A vocês dois, tão s olícitos, 
+obrigada pelo apoio, carinho e ajuda em detalhes que fizeram total diferença na escrita desta 
+monografia.  
+ 
+As minhas queridas or ientadoras, professoras  muito especiais:  Elisangela da Costa Lima 
+Dellamora, por demonstrar tanto amor pela profissão, cativando seus alunos e que, mesmo no 
+campus Fundão, nunca esteve ausente; e Thaísa Amorim Nogueira, por ter me acolhido como 
+sua aluna quando eu necessitava de uma orientadora mais próxima , por ser tão atenciosa e 
+estar sempre disponível para  ajudar. A vocês, muito obrigada pelos ensinamentos, paciência, 
+confiança e dedicação ao longo do desenvolvimento do conhecimento e da cons trução deste 
+trabalho.  
+ 
+Ao Curso de Farmácia e ao Instituto de Pediatria e Puericultura Martagão Gesteira da 
+Universidade Federal do Rio de Janeiro, aos mestres com quem convivi  e aprendi ao longo 
+desses anos e a banca examinadora deste Trabalho de Conclusão de Curso. 
+ 
+Aos amigos, pelas alegrias, tristezas e ansiedades compartilhas nesta grande etapa de nossas 
+vidas. Enfim, a  todos aqueles que me apoiaram e que, de alguma forma, me ajudaram no 
+processo de elaboração deste trabalho, meus sinceros agradecimentos. 
+ 
+LISTA DE ILUSTRAÇÕES 
+ 
+ 
+ 
+Figuras 
+Figura 1 - Fórmula utilizada para cálculo de prevalência........................................................ 28 
+ 
+Gráficos 
+Gráfico 1 - Distribuição do número de interações medicamentosas  por faixa etária dos 
+pacientes assistidos em terapia intensiva pediátrica de um hospital universitário, 2013......... 33 
+ 
+Tabelas 
+Tabela 1 - Interações medic amentosas segundo lista de referência das interações 
+medicamentosas perigosas de medicamentos essenciais indicados para pediatria, 2013........ 25 
+ 
+Tabela  2 - Distribuição por faixa etária e tempo de internação em terapia intensiva pediátrica 
+de um hospital universitário, 2013........................................................................................... 29 
+ 
+Tabela 3 - Prevalência de prescrição de medicamentos potencialmente perigosos e de 
+pacientes envolvidos por faixa etária em terapia intens iva pediátrica de um hospital 
+universitário, 2013................................................................................................................... 29 
+ 
+Tabela 4 - Frequência da prescrição dos  medicamentos potencialmente perigosos em terapia 
+intensiva pediátrica de um hospital universitário, 2013........................................................... 30 
+ 
+Tabela 5 - Frequência dos medicamentos potencialmente perigosos envolvidos em interações 
+medicamentosas em terapia intensiva pediátrica  de u m hospital universitário, 
+2013.......................................................................................................................................... 30 
+ 
+Tabela 6 – Prevalência de interações medicamentosas e de pacientes expostos por faixa etária 
+em terapia intensiva pediátrica de um hospital universitário, 2013......................................... 31 
+ 
+Tabela 7 - Interações medicamentosas mais prevalentes e número de pacientes envolvidos, 
+unidade de tratamento intensivo do IPPMG, 2013.................................................................. 31 
+ 
+Tabela 8 - Distribuição das interações medicamentosas, idade e tempo de internação em 
+terapia intensiva pediátrica de um hospital universitário, 2013............................................... 32 
+ 
+Quadros 
+Quadro 1 - Classes terapêuticas e medicamentos específicos classificados como 
+medicamentos potencialmente perigosos utilizados em hospitais, 2013................................. 19 
+ 
+ 
+ 
+ 
+ 
+ 
+LISTA DE ABREVIATURAS E SIGLAS 
+ 
+ 
+ 
+ATC  Anatômica Terapêutico Química 
+EUM   Estudo de Utilização de Medicamentos 
+IM  Interação Medicamentosa 
+IMP  Interações Medicamentosas Potenciais 
+IPPMG Instituto de Pediatria e Puericultura Martagão Gesteira 
+ISMP  Instituto Para Práticas Seguras no Uso de Medicamentos 
+MPP  Medicamentos Potencialmente Perigosos 
+MPPEIP Medicamentos Potencialmente Perigosos Essenciais Indicados para Pediatria 
+OMS   Organização Mundial de Saúde 
+PP  Proteína Plasmática 
+RAM  Reações Adversas a Medicamentos 
+RENAME Relação Nacional de Medicamentos Essenciais 
+TGI  Trato Gastrointestinal 
+UFRJ  Universidade Federal do Rio De Janeiro 
+URM   Uso Racional de Medicamentos 
+UTI   Unidade de Terapia Intensiva 
+UTIP   Unidade de Terapia Intensiva Pediátrica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+ 
+ 
+1 INTRODUÇÃO ................................................................................................................................ 10 
+1.1  ESTUDO DE UTILIZAÇÃO DE MEDICAMENTOS E SEU USO RACIONAL NA 
+PRÁTICA HOSPITALAR ................................................................................................................ 12 
+1.2 PARTICULARIDADES DA POPULAÇÃO PEDIÁTRICA ..................................................... 13 
+1.3 INTERAÇÕES MEDICAMENTOSAS E ERROS DE PRESCRIÇÃO EM PEDIATRIA........ 16 
+   1.4  MEDICAMENTOS POTENCIALMENTE PERIGOSOS ......................................................... 18 
+2 JUSTIFICATIVA ............................................................................................................................. 21 
+3 OBJETIVOS ..................................................................................................................................... 23 
+3.1 GERAL ....................................................................................................................................... 23 
+3.2 ESPECÍFICOS ............................................................................................................................ 23 
+4 METODOLOGIA ............................................................................................................................ 24 
+4.1 CARACTERIZAÇÃO DA PESQUISA ...................................................................................... 24 
+4.2 CRITÉRIOS DE INCLUSÃO ..................................................................................................... 24 
+4.3 COLETA DE DADOS ................................................................................................................ 24 
+4.4 ANÁLISE DE DADOS ............................................................................................................... 27 
+4.5 ASPECTOS ÉTICOS .................................................................................................................. 28 
+5. RESULTADOS ................................................................................................................................ 29 
+5.1 DADOS DEMOGRÁFICOS ....................................................................................................... 29 
+5.2 PREVALÊNCIA DE MPP .......................................................................................................... 29 
+5.3 PREVALÊNCIA DE INTERAÇÕES MEDICAMENTOSAS ................................................... 30 
+5.4 DISCUSSÃO ............................................................................................................................... 33 
+6. CONCLUSÕES ............................................................................................................................... 40 
+REFERÊNCIAS BILIOGRÁFICAS ................................................................................................. 42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESUMO 
+ 
+ 
+ 
+MOREIRA, G.  A. Prescrição de medicamentos potencialmente perigosos em uma 
+unidade de terapia intensiva pediátrica. 2013. 51p. Monografia (Graduação) - Faculdade de 
+Farmácia, Universidade Federal do Rio de Janeiro, Macaé, 2013. 
+ 
+Introdução: A  vulnerabilidade das crianças quanto ao uso de medicamentos é conhecida, 
+porém os estudos nesta população são escassos. Quando a farmacoterapia envolve 
+medicamentos potencialmente perigosos (MPP), classificados dessa forma pelo risco inerente 
+de lesar o paciente quando utilizados incorretamente, o monitoramento torna -se ainda mais 
+relevante.  Objetivo: O presente estudo buscou determinar a frequência de prescrição de MPP 
+indicados para pediatria em ambiente hospitalar e identific ar possíveis interações 
+medicamentosas (IM) entre os MPP e os demais medicamentos prescritos.  Metodologia: Para 
+este estudo, foram analisadas prescrições de pacientes entre zero e 14 anos, admitidos no setor 
+de terapia intensiva do Instituto de Pediatria e  Puericultura Martagão Gesteira (IPPMG) da 
+Universidade Federal do Rio de Janeiro (UFRJ), no período entre  primeiro de janeiro e 30 de 
+junho de 2013. Os dados coletados foram registrados em planilha do Excel ®, contendo: 
+código do paciente, datas de nascimento e internação, MPP prescritos e IM identificadas, por 
+dia de internação. A frequência de prescrição de MPP e de IM envolvendo os mesmos foi 
+obtida por meio do cálculo de prevalência. A análise da frequência de IM considerou a 
+relação proposta por Olivei ra e Lima -Dellamora (2013) na qual as interações envolvendo 
+MPP indicados para crianças foram sintetizadas. Resultados: A análise de 772 prescrições foi 
+realizada para 53 pacientes. Dentre 22 MPP investigados, apenas 13 foram detectados nas 
+prescrições. Mi dazolam (50,26%), furosemida (36,79%), formulações contendo cálcio 
+(20,33%) e fenobarbital (18,78%) foram os mais prevalentes. Quinze porcento das prescrições 
+apresentaram IMs envolvendo MPP, totalizando 221 IM encontradas. Interações envolvendo 
+MPP com ação no sistema nervoso foram as mais prevalentes, destacando-se a interação entre 
+fenobarbital e os fármacos: midazolam (24,43%), fentanil (20,81%), metadona (15,38) e 
+lorazepam (13,57%). Foi encontrada relação positiva entre o número de IM s detectadas e o 
+aumento da idade do paciente. 
+ 
+Palavras-chave: Estudo de utilização de medicamentos,  Medicamentos Potencialmente 
+Perigosos, Prescrições Pediátricas, Pediatria,  Interações medicamentosas . 
+10 
+ 
+1 INTRODUÇÃO 
+Para preservar ou restaurar a saúde, o homem vem desde a antiguidade fazendo 
+uso dos mais variado s recursos terapêuticos. Embora  nesta época tais práticas terapêuticas 
+estivessem, muitas vezes, baseadas no misticismo, grande parte do tratamento das doenças 
+envolvia o uso de remédios, de origem vegetal ou anima l e de estrutura química desconhecida 
+(SILVA; ALVES; PRADO, 2001).  
+Foi a partir das décadas de 1930 e  1940, quando os primeiros anti -infecciosos 
+surgiram, que a terapêutica farmacológica pas sou a avançar. Após este período, ocorreu a 
+introdução maciça de novos fármacos, trazendo à população a possibilidade de cura para 
+enfermidades graves, até então fatais (MELO; RIBEIRO; STORPIRTIS, 2006). 
+A partir de 1950 houve a chamada “ explosão farmacológica” aliada ao notável 
+desenvolvimento das ciências biológicas e  das conquistas tecnológicas e econômicas 
+observadas após a Segunda Guerra Mundial. Como resultado, ocorreu um notável crescimento 
+da indústria farmacêutica (MELO; RIBEIRO; STORPIRTIS, 2006). 
+Desde então, os medicamentos vêm sendo considerados uma ferramen ta eficaz 
+para atenuar o sofrimento humano (MELO; RIBEIRO; STORPIRTIS, 2006).  Podem 
+promover a cura, prolongar a vida e retardar o sofrimento decorrente de complicações 
+associadas às doenças, auxiliando no convívio entre o indivíduo e sua enfermidade. Poré m, 
+seu emprego inadequado pode provocar complicações à saúde de quem o utiliza (PEPE e 
+CASTRO, 2000). 
+Segundo a Organização Mundial de Saúde, OMS, ( 1977), a utilização de 
+medicamentos consiste em sua comercialização, distribuição, prescrição, até o seu uso . 
+Assim, os Estudos de Utilização de Medicamentos (EUM) avaliam e fornecem informações 
+subsidiando profissionais para o reconhecim ento da realidade que envolve sua utilização 
+(LEITE; VIEIRA; VEBER, 2008). 
+A prescrição de medicamentos é o inicio de uma cade ia de ações que o levam  até 
+o paciente (SOARES et al.,  2012). Ela simboliza importante dimensão do processo 
+terapêutico (PEPE e CASTRO, 2000).  
+Segundo Liberato et al. (2008), quando voltadas para a pediatria, as prescrições 
+devem ser precisas, seguras e eficazes. Esta não é uma tarefa fácil, uma vez que, nem sempre 
+há evidencias suficientes para embasá -las, pois, por questões legais, éticas e econômicas, as 
+crianças não são incluídas nos ensaios clínicos para o desenvolvimento de novos 
+medicamentos. Este aspecto é particularmente importante porque as crianças, ao longo de seu 
+11 
+ 
+desenvolvimento, sofrem modificações que as deixam especialmente vulneráveis quanto à 
+utilização de medicamentos (MEINERS e BERGSTEN-MENDES, 2001). 
+Ainda que os medicamentos, em sua ma ioria, possuam uma margem terapêutica 
+segura, muitos apresentam risco inerente de lesar o paciente caso haja algum erro no processo 
+de sua utilização, sendo, portanto, chamados de medicamentos potencialmente perigosos 
+(MPP) (COHEN, 2006; ROSA et al., 2009). 
+Os erros de medicação potencialmente danosos em pediatria ocorrem em 
+frequência notavelmente maior quando comparados aos adultos, devido a alguns fatores como 
+(a) necessidade de fracionamento de doses e de realização de cálculos decimais, (b) carencia 
+de formulações, formas farmacêuticas e doses comerciais adequadas para administração em 
+crianças e (c) falta de clareza sobre o uso de medicamentos nesta população (SOARES et al., 
+2012). Quanto a severidade destes erros, quando ocorrem, acarretam riscos de v ida 
+consideravelmente maiores, tornando -se de grande relavância, principalmente quando 
+envolvem MPP (SANTOS, 2009; VELOSO; TELLES-FILHO; DURÃO, 2011; SOARES et 
+al., 2012). 
+As Interações Medicamentosas (IM)  são consideradas erros relacionados aos 
+medicamentos decorrentes d a fase de decisão dos medicamentos que serão prescrito s 
+(Committee of Experts on Management of Safety and Quality in Health Care, 2010). Ocorrem 
+quando os e feitos farmacológicos de um fármaco são alterados pela ação de outro fármaco, 
+alimento, bebida, algum agente químico ou ambiental (SILVA et al., 2010). Todos os 
+indivíduos que são submetidos ao uso de dois ou mais medicamentos estão vulneráveis às IMs 
+(SECOLI, 2001). Estas constituem causa comum de eventos adversos (SILVA et al., 2010). 
+Os eventos adversos relacionam -se ao surgimento de um problema de saúde em 
+consequência de um cuidado prestado, ou seja, uma lesão não intencional que resulta em 
+incapacidade temporária ou permanente do paciente. Podem ser oriundos de procedimentos 
+médicos, cirúrgicos, utilização de medicamentos, terapia não medicamentosa, demora na 
+assistência, ou diagnóstico incorreto (MENDES et al., 2005).  
+Os eventos adversos a medicamentos (EAM) consistem em qualquer dano ou 
+injuria causado ao paciente pela intervenção médica relacionada aos mesmos. São 
+subdivididos em dois grupos: (a) as reações adversas a medicamentos (RAM), inerentes à 
+correta utilização de medicamentos e, portanto, não evitáveis, e (b) os erros de medicação, 
+possivelmente envolvidos com falhas no pro cesso, portanto, evitáveis (ROSA e PERINI, 
+2003). 
+ 
+12 
+ 
+1.1  ESTUDO DE UTILIZAÇÃO DE MEDICAMENTOS E SEU USO 
+RACIONAL NA PRÁTICA HOSPITALAR 
+Os EUM nascem de preocupações sanitárias que procuram gerar informações que 
+possam ser usadas para transformar positivamen te a realidade observada (CASTRO, 2000). 
+Estes estudos, dependendo da metodologia utilizada, englobam uma série de aspectos: (a) 
+descrição de padrões do consumo de medicamentos; (b) variações nos perfis terapêuticos ao 
+longo do tempo; (c) análise dos efeit os de medidas educativas; (d) estimativa do número de 
+indivíduos exposto ao um determinado medicamento e da necessidade dos mesmos na 
+sociedade; (e) detecção de uso irracional de medicamentos; (f) análise de custos; qualidade, 
+(g) hábitos e cumprimento de prescrição, entre outros (CROZARA 1, 2001 apud MELO; 
+RIBEIRO; STORPIRTIS, 2006, p. 480; CASTRO, 2000). 
+Ter conhecimento do processo da utilização dos medicamentos contribui para 
+aprimorar e racionalizar o mesmo, o que resulta em impacto significativo para a  instituição de 
+saúde, para a qualidade do serviço e para a redução dos custos assistenciais (SOUZA et al., 
+2008). 
+O uso racional de medicamentos (URM) compreende a indicação para o paciente 
+certo (idade, comorbidades associadas, hábitos e histórico medica mentoso), por período 
+apropriado e na dose correta; envolvendo sua dispensação em condições adequadas e sendo 
+eficaz para tratar o quadro clínico do paciente, de forma segura e em menor custo (BRASIL, 
+2001). 
+Oposto ao que ocorre em outros países, no Brasil  não há informações sobre o 
+consumo de medicamentos, geradas a partir de bancos de dados nacionais (ROZENFELD e 
+VALENTE, 2004). No entanto, é importante lançar mão de EUM como uma estratégia para 
+conhecimento e racionalização de seu uso (CASTRO, 2000). A f alta dessas informações 
+inviabiliza a realização de intervenções objetivas e produtivas para o paciente e para a 
+instituição. Em um sentido maior, declara também que os EUM representam instrumentos 
+decisivos para que se faça a elaboração de políticas gover namentais na área de saúde 
+(CASTRO, 2000). 
+                                                
+1 CROZARA, M. A. Estudo do consumo de medicamentos e hospital particular. São Paulo, 2001. 
+133 p. Dissertação de mestrado – Faculdade de ciências farmacêuticas, Universidade de São Paulo, 
+São Paulo, 2001. 
+13 
+ 
+Embora se saiba que a disponibilidade destas informações contribui para uma 
+terapia medicamentosa racional, segura e eficaz, os EUM em pediatria sobre o consumo e 
+prescrição de medicamentos ainda são escassos (SILVA, 2008; CARVALHO et al., 2008).  
+ 
+1.2 PARTICULARIDADES DA POPULAÇÃO PEDIÁTRICA 
+A população pediátrica constitui um grupo muito dinâmico, devido à rapidez com 
+que crescem e desenvolvem ao longo do tempo ( AIZENSTEIN, 2010). Desde o nascimento 
+até a fase ad ulta, as crianças sofrem modificações anatômicas, fisiológicas e bioquímicas que 
+afetam diretamente os processos de absorção, distribuição, metabolização e excreção dos 
+fármacos, bem como seu mecanismo de ação. Modificações que envolvem as sínteses 
+enzimáticas, produção e distribuição de receptores  são observadas durante o desenvolvimento 
+infantil (MALGOR e VALSECIA, 2000). 
+A maioria dos fármacos administrados por via oral é absorvida no intestino 
+delgado. De forma geral, os fatores que influenciam na veloc idade e quantidade de fármaco 
+absorvido no organismo das crianças são: presença ou ausência de alimentos, pH, tempo de 
+esvaziamento gástrico  e motilidade do trato gastrointestinal (TGI) (SAAVEDRA et al., 2008; 
+MALGOR e VALSECIA, 2000). 
+As mudanças decorre ntes do desenvolvimento infantil influenciam os valores de 
+pH intraluminal dos diferentes segmentos do TGI, alterando o grau de ionização de fármacos 
+ácidos e básicos e, consequentemente, a co ncentração dos mesmos que fica disponível  para 
+absorção (AIZENSTEIN, 2010). 
+Neonatos e crianças podem apresentar um aumento do intervalo de tempo para 
+que haja o início da ação dos fármacos. Isto ocorre, pois estes indivíduos apresentarem maior 
+tempo de esvaziamento gástrico em decorrência do menor peristaltismo (MALGO R e 
+VALSECIA, 2000). 
+Aizenstein (2010) afirma que, durante a primeira semana de vida, as contrações 
+no TGI iniciam -se, assim como sua propagação ao longo do mesmo e que a velocidade de 
+esvaziamento gástrico atinge o equilíbrio próximo aos quatro meses de v ida. Malgor e 
+Valsecia (2000) contradizem Aizenstein, afirmando que o tempo de esvaziamento gástrico só 
+alcança os níveis de um adulto entre o sexto e oitavo mês de vida, sendo, antes disto, ditas 
+como irregulares e imprevisíveis.  
+A motilidade intestinal é um dos determinantes do tempo de permanência dos 
+fármacos em contato com as superfícies das mucosas e células absortivas do intestino 
+14 
+ 
+delgado. A velocidade de absorção pode ser considerada baixa em neonatos e aumenta com o 
+passar do tempo, embora ainda seja inferior à dos adolescentes (AIZENSTEIN, 2010). Após a 
+sua absorção, o fármaco deve ser distribuído pelos fluidos corporais, ligado ou não as 
+proteínas plasmáticas (PP). A parte não ligada, ou seja, a forma livre do fármaco é a fração 
+farmacologicamente ativa, que é capaz de atingir o sítio de ação (MALGOR e VALSECIA, 
+2000; SANTOS, 2009). Uma série de fatores envolvidos sofre influência da idade, entre elas a 
+perfusão vascular, composição líquida corporal, ligação com as PP (AIZENSTEIN, 2010).  
+Alterações na composição e quantidade de PP, como a albumina e a α -1-
+glicoproteína ácida, interferem na distribuição de fármacos que possuem alta afinidade pelas 
+mesmas. A ligação de fármacos com PP em neonatos é menor em relação às outras idades, 
+devido a uma série de fatores, entre os quais pode-se citar: a diminuição da concentração total 
+de PP, competição com substâncias endógenas, menor capacidade de ligação dessas pro teínas 
+e menor afinidade das mesmas por fármacos. A menor ligação dos fármacos com alta 
+afinidade por PP resulta, nos neonatos, em aumento da fração livre dos mesmos 
+(AIZENSTEIN, 2010). 
+Ainda que a maioria dos fármacos seja distribuída por difusão passiva, a 
+existência de transportadores é um fator relevante. As glicoproteínas -P são exemplos de 
+transportadores que desempenham fundamental papel como promotoras de efluxo de 
+fármacos das células. A presença dessas proteínas em determinados locais limita a entrada dos 
+fármacos. Em neonatos, a expressão dessas proteínas é inferior quando comparada à de 
+adultos, o que facilita a entrada de fármacos principalmente no Sistema Nervoso Central 
+(SNC) desses pacientes (AIZENSTEIN, 2010). 
+O metabolismo consiste em uma importante fase do processo farmacocinético de 
+um fármaco , pois, para a  sua eliminação  do organ ismo, é necessário sua metabolização,  
+tornando-os compostos  mais polares e hidrossolúveis. O fígado é o principal órgão 
+responsável por essa função . Em neonatos, a maioria das enzimas responsáveis pelo mesmo 
+está ausente ou sua atividade existe em proporções reduzidas, aumentando com a idade. Esta é 
+a razão pelo qual neonatos e lactentes, de uma forma geral, devem receber doses mais baixas 
+ou com maior intervalo entre as administrações. O tempo de maturação dessas enzimas pode 
+explicar a toxicidade de fárma cos na população pediátrica, exigindo atenção na escolha da 
+terapêutica a ser a ser utilizada por estes pacientes. (SAAVEDRA et al., 2008; AIZENSTEIN, 
+2010). 
+ 
+15 
+ 
+Quanto à eliminação de fármacos, uma parcela desta capacidade é limitada devido 
+à imaturidade ana tômica e funcional dos rins ao nascimento. Até aos seis meses de vida, a 
+filtração glomerular é menor do que nos adultos, correspondendo a apenas 30%. Porém, isto 
+pode ser compensado por uma redução na reabsorção tubular. Essa capacidade se equipara à 
+dos adultos no final do primeiro ano de vida (MALGOR e VALSECIA, 2000; AIZENSTEIN, 
+2010). 
+O pleno conhecimento das alterações decorrentes do desenvolvimento infantil — 
+desde a origem, desenvolvimento até a forma adulta dos órgãos, sistemas e atividade 
+metabólica — é necessário para o URM . Quando o conhecimento destas modificações é 
+ignorado ou desconhecido, isso pode resultar em fracasso terapêutico (MALGOR e 
+VALSECIA, 2000; AIZENSTEIN, 2010). 
+Embora tenha sido observado um avanço das investigaçõ es no âmbito da  
+farmacologia clínica para adultos, o mesmo não ocorreu na farmacologia pediátrica. Tal fato, 
+associado à realidade de que as crianças não são inclusas rotineiramente nos ensaios clínicos , 
+faz com que uma porção significativa das prescrições para este grup o seja feita com base em 
+um conhecimento empírico por parte dos médicos prescritores, reduzindo a segurança desses 
+pacientes (SAAVEDRA et al., 2008; MALGOR e VALSECIA, 2000, MEINERS e 
+BERGSTEN-MENDES, 2001). 
+A escassa pesquisa para a população pediátrica deve-se a diversos fatores, entre os 
+quais se pode citar: o baixo retorno financeiro para a indústria farmacêutica; as dificuldades 
+para a realização de ensaios clínicos em razão das questões éticas que envolvem a seleção dos 
+indivíduos participantes da pes quisa; a necessidade de equipamentos e técnicas médicas 
+adequadas para a pediatria e a falta de especialistas em farmacologia pediátrica (MEADOWS, 
+2003). 
+Saavedra et al. (2008) afirmam que existem diferenças consideráveis entre 
+crianças e adultos e que est as diferenças devem ser cuidadosamente observadas no 
+desenvolvimento de estratégias terapêuticas.  
+Ao prescrever um medicamento, o prescritor deve considerar as variáveis 
+farmacocinéticas e farmacodinâmicas, otimizando a terapêutica (SAAVEDRA, et al., 2008 ). 
+A variação dos efeitos dos fármacos em neonatos e crianças pode ocorrer mesmo com a 
+realização de cuidadosos cálculos quanto à prescrição de doses proporcionais ao peso ou área 
+da superfície corporal. Assim, é inadequado considerar recém -nascidos e cria nças como 
+adultos pequenos, pois respondem diferente destes (MALGOR e VA LSECIA, 2000; 
+AIZENSTEIN, 2010). 
+16 
+ 
+1.3 INTERAÇÕES MEDICAMENTOSAS E ERROS DE PRESCRIÇÃO EM 
+PEDIATRIA 
+Os medicamentos são passíveis de interagir no decorrer de diversas etapas. Há 
+três pri ncipais categorias de IM, denominadas: interação farmacêutica, interação 
+farmacocinética e interação farmacodinâmica (SECOLI, 2001). 
+As interações farmacêuticas ocorrem fora do organismo, isto é, in vitro, durante o 
+preparo ou administração do medicamento,  quando se misturam dois ou mais fármacos em 
+uma mesma seringa, recipiente ou equipo. Consistem em uma interação do tipo fisico -
+química, havendo ou não a visualização de alterações macroscópicas. Podem também ser 
+denominadas como incompatibilidade de medic amentos (HOEFLER e WANNMACHER, 
+2010). 
+Quando o medicamento interage com outro durante as etapas de absorção, 
+distritibuição, metabolização ou eliminação do fármaco, esta interação é denominada de 
+interação farmacocinética  (OGA, 2001).  Nesta categoria, as i nterações são capazes de 
+modificar a magnitude e duração do efeito, mas preservam a resposta final do medicamento 
+(SECOLI, 2001). 
+O fármaco também pode sofrer interações no momento de sua ligação ao receptor, 
+podendo causar modificação do efeito bioquímico  ou fisiológico do medicamento. Esta 
+interação é classificada como interação farmacodinâmica. Decorrem de efeito sinérgico ou 
+antagônico entre os fármacos coadministrados. Sinergismo ocorre quando a resultante da 
+associação dos fármacos é maior do que a si mples soma dos efeitos isolados de cada um 
+deles. Em contrapartida, quando a resposta farmacológica de um determinado fármaco é 
+reduzida ou suprimida pela presença de outro, esse evento é denominado antagonismo. Tais 
+interações podem resultar em respostas benéficas ou ineficácia terapêutica (SECOLI, 2001; 
+HOEFLER e WANNMACHER, 2010). 
+Autores revelam que os riscos de ocorrência de uma interação medicamentosa 
+bem como sua gravidade estão diretamente relacionados ao número de medicamentos 
+prescritos, duração do tratamento, idade do paciente e estado da doença. Isto pode contribuir 
+para o agravamento de doenças, resulta ndo em hospitalização dos individuos, óbito  ou afetar 
+o resultado terapêutico (HAMMES, et al.,2008; SECOLI, 2001; SILVA et al., 2010). 
+As interações medicamentosas são classificadas em (i) maiores: podem oferecer 
+riscos de morte e/ou requererem intervenção médica urgente para prevenir ou mi nimizar 
+efeitos adversos graves ; (ii) moderadas: podem resultar em exacerbação das condições 
+17 
+ 
+clínicas do pacie nte e/ou requererem troca da terapia; (iii) menores ou leves: interações 
+medicamentosas com efeitos clínicos limitados, podendo sua manifestação incluir aumento da 
+frequência ou severidade dos efeitos colaterais, mas geralmente não requerem alterações 
+importantes na terapia (SILVA et al, 2010; CRUCIOL-SOUZA e THOMSON, 2006). 
+Em alguns casos específicos, as associações de fármacos podem ser benéficas 
+para a terapêutica do paciente  (OGA, 2001). Isto é observado  quando há aumento ou reforço 
+da eficácia dos fár macos associados ou correção das reações adversas decorrentes ao uso de 
+um dos medicamentos (HOEFLER e WANNMACHER, 2010). 
+Uma IM pode ter significância clínica para um determinado paciente, mas não 
+para outro. Isto pode ser explicado pela variação de sua g ravidade conforme as condições do 
+paciente e a interferência dos diversos fatores relacionados com a administração do 
+medicamento (OGA, 2001). 
+Um estudo realizado em Campinas, no estado São Paulo  encontrou um número 
+significativo de interações medicamentosas consideradas moderadas e maiores, evidenciando-
+se o risco relacionado à presença de interações medicamentosas nas prescrições hospitalares 
+(SILVA et al, 2010). 
+O Committee of Experts on Management of Safety and Quality in Health Care  
+(SP-SQS, Comitê de Especialistas em Gestão de Segurança e Qualidade em Saúde), em 2010, 
+definiu erro de prescrição e inseriu as IM neste contexto. Afirmou que os erros de prescrição 
+podem estar relacionados, entre outras variáveis, com a seleção do medicamento a ser 
+precrito, considerando: as indicações, as contraindicações, as alergias, as características do 
+paciente, as interações medicamentosas e outros fatores. 
+Os erros de prescrição, portanto, são  aqueles  que ocorrem durante a fase de 
+tomada de decisão da prescrição de  medicamentos e possuem frequência significativa em 
+pacientes hospitalizados (ROSA et al., 2009). Falhas podem ser evidenciadas neste processo , 
+como: a ocorrência de precrição irracional, inapropriada, subprescrição ou superprescrição 
+(ROSA, 2011). 
+O URM d epende de uma série de fatores . Neste sentido, para Rosa (2011 ), a 
+prevenção e monitoramento das IM são essenciais para que o uso do medicamento seja 
+considerado racional. 
+ 
+18 
+ 
+1.4  MEDICAMENTOS POTENCIALMENTE PERIGOSOS 
+A segurança dos pacientes hospitalizados  tem merecido atenção especial e 
+crescente por parte de profissionais da saúde na busca por uma assistência que assegure um 
+máximo de qualidade e um mínimo de riscos (TOFFOLETTO e PADILHA, 2005). 
+Existem medicamentos que possuem menor margem de segurança e  trazem um 
+risco inerente e acrescido de lesar o paciente, causando danos significativos à saúde do 
+mesmo quando não são utilizados da forma correta. Esses fármacos são conhecidos na 
+literatura internacional como high-alert medications , e denominados no Br asil como 
+medicamentos potencialmente periogosos. Embora os erros com esses medicamentos possam 
+não ser os mais frequentes, as suas conseqüências são evidentemente mais severas para os 
+pacientes, podendo ser permanentes ou fatais (COHEN, 2006 ; ISMP, 2011). 
+Frente a realidade apresentada acima, organizações dedicadas a segurança do 
+paciente recomendam que sejam implantadas práticas que minimizem a ocorrência de erros e , 
+consequentemente, os riscos ao paciente assistidos nos hospitais. As estratégias incluem  a 
+padronização das etapas que envolvem estes medicamento nas unidades, ou seja, 
+armazenamento, prescrição, preparo, dispensação e administração. Além destas, recomenda -
+se melhorias no acesso às informações sobre estes fármacos, uso de rótulos auxiliares e alertas 
+automatizados e adição de dupla checagem (ISMP, 2011). 
+De acordo com boletins publicados pelo Instituto para Práticas Seguras no Uso de 
+Medicamentos (ISMP) (2013a; 2013b) , as classes terapêuticas dos MPP, bem como outros 
+medicamentos específicos também assim classificados , que são utilizados em hospitais  estão 
+dispostos no Quadro 1. 
+19 
+ 
+ 
+Quadro 1 - Classes terapêuticas e medicamentos específicos classificados como medicamentos 
+potencialmente perigosos utilizados em hospitais, 2013.  
+Classes Terapêuticas 
+ Agonistas adrenérgicos intravenosos (ex. epinefrina) 
+ Anestésicos gerais, inalatórios e intravenosos (ex. propofol) 
+ Antagonistas adrenérgicos intravenosos (ex. propranolol) 
+ Antiarrítmicos intravenosos (ex. lidocaína) 
+ Anticoagulantes (ex. heparina, varfarina) 
+ Inibidor do Fator Xa (ex. fondaparinux, rivaroxabana) 
+ Inibidores diretos da trombina (ex. dabigatrana) 
+ Trombolíticos (ex. alteplase,) 
+ Inibidores da glicoproteína llb/llla (ex. eptifibatide) 
+ Bloqueadores neuromusculares (ex. rocurônio, pancurônio) 
+ Contrastes radiológicos intravenosos 
+ Hipoglicemiantes orais 
+ Inotrópicos intravenosos (ex. milrinona) 
+ Insulina subcutânea e intravenosa 
+ Medicamentos administrados por via epidural ou intratecal 
+ Medicamentos na forma lipossomal (ex. anfotericina B lipossomal) e Convencionais 
+(ex. anfotericina B deoxicolato) 
+ Analgésicos opióides intravenosos, transdérmicos, e de uso oral 
+ Quimioterápicos de uso parenteral e oral 
+ Sedativos de uso oral de ação moderada, para crianças (ex. hidrato de cloral) 
+ Sedativos intravenosos de ação moderada (ex. midazolam) 
+ Soluções cardioplégicas 
+ Soluções de diálise peritoneal e hemodiálise 
+ Soluções de nutrição parenteral 
+ Água estéril para inalação e irrigação em embalagens de 100mL ou volume superior. 
+Medicamentos específicos 
+ Cloreto de potássio concentrado injetável 
+ Cloreto de sódio hipertônico injetável (concentração maior que 0,9%) 
+ Epoprostenol intravenoso 
+ Fosfato de potássio injetável 
+ Glicose hipertônica (concentração maior ou igual a 20%) 
+ Metotrexato de uso oral (uso não oncológico) 
+ Nitroprussiato de sódio injetável 
+ Oxitocina intravenosa 
+ Prometazina intravenosa 
+ Sulfato de magnésio injetável 
+ Tintura de ópio 
+ Vasopressina injetável 
+Fonte: Instituto para Práticas Seguras no Uso de Medicamentos, ISMP (2013a; 2013b).  
+ 
+Em um estudo feito por Rosa et al. (2009) onde se analisou a prática de prescrição 
+de MPP e sua relação com a prevalência de erros de medicação em ambiente hospitalar, foi 
+constatado que dentre os 10 setores avaliados, o setor de pediatria representou a se xta posição 
+20 
+ 
+em relação ao número de MPP por prescrição e a sétima posição em relação à razão de erro 
+por prescrição envolvendo estes medicamentos. 
+Toffoletto e Padilha (2005) caracterizaram os erros de medicação em unidades de 
+terapia intensiva e puderam c onstatar que, embora a maioria dos erros envolvesse 
+medicamentos não potencialmente perigosos, uma porcentagem significativa destes (40%) 
+envolviam MPP. 
+Soares et al.  (2012) pesquisaram o perfil de prescrição medicamentosa em uma 
+unidade pediátrica hospita lar e observaram que os MPP mais prescritos para pediatria são as 
+soluções injetáveis de cloreto de potássio e cloreto de sódio. Santos (2009) observou que, 
+dentre os MPP mais prescritos em unidades pediátricas geral de um hospital universitário, 
+estavam a  morfina, codeína e prometazina e que o total de MPP encontrados representava 
+6,2% das prescrições. Este último dado foi similar ao encontrado por Silva em 2008, (5,9%). 
+Um dos complicadores dos MPP prescritos em ambientes hospitalares é que a 
+maioria é ad ministrada por via endovenosa (SILVA, 2008; SANTOS, 2009; REIS et al., 
+2010), o que segundo Souza et al. (2008) expõe o paciente a maiores riscos.  
+Além disso, em determinados casos, o uso de MPP e a complexa terapia 
+medicamentosa dos pacientes, associada à gravidade e instabilidade clínica dos mesmos 
+justificam uma análise focalizada, pois, nessas circunstâncias, as consequências podem ser 
+ainda maiores (TOFFOLETTO e PADILHA, 2005). 
+21 
+ 
+ 
+2 JUSTIFICATIVA 
+Os avanços das pesquisas de novos fármacos e da publicid ade culminaram em 
+uma excessiva crença da sociedade em relação aos medicamentos e sua prescrição tornou -se 
+quase obrigatória nas  consultas médicas (CASTRO, 2000 ). As prescrições, cada vez mais 
+complexas, dificultam o reconhecimento, por médicos e farmacêut icos, de potenciais 
+interações entre os medicamentos prescritos (TATRO, 2005).  
+De acordo com Secoli (2001), a utilização de vários e novos medicamentos não 
+garante maior benefício ao paciente, pois , juntamente com as vantagens do aumento das 
+possibilidades terapêuticas , surgem o risco de ocorrência de IM s e efeitos indesejados. Em 
+alguns casos, as respostas decorrentes de uma IM podem não causar modificação no efeito 
+terapêutico, mas em outros, podem acarretar em redução da eficácia ou potencialização do 
+efeito. Quando a IM  promove aumento da toxidade, o desfecho pode ser perigoso para o 
+paciente (SILVA et al.,  2010), tornando -se de grande relevância principalmente quando 
+envolvem MPP (COHEN, 2006). 
+Versus ao crescente desenvolvimento de novos medicamentos,  há anos o termo 
+“órfãos terapêuticos” é designado para descrever a população pediátrica por não serem 
+incluídas nos ensaios de desenvolvimento de novos fármacos (SHIRKEY 2, 1999 apud 
+MEINERS e  BERGSTEN-MENDES, 2001, p. 332) . Isto faz com que frequentemente 
+fármacos elaborados para uso em adultos sejam utilizados em crianças (SAAVEDRA et al., 
+2008; MALGOR e VALSECIA, 2000, MEINERS e BERGSTEN -MENDES, 2001). Segundo 
+Liberato et al.  (2008), a extrapolação de doses de crianças para adultos baseada em idade, 
+peso e área de superfície corporal, pode trazer graves consequências à saúde do paciente 
+pediátrico. 
+Esta realidade  é angustiante para o prescritor, pois caso decida não prescrever um 
+determinado medicamento pela ausência de estudos na população pediátrica, e le está, de certa 
+forma, privando o paciente de benefícios terapêuticos. Por outro lado, prescrever para crianças 
+um medicamento cuja elaboração foi para uso em adultos poderá expor as mesmas a riscos 
+desconhecidos podendo causar problemas relevantes (ASSAEL, 1998; MEINERS e 
+BERGSTEN-MENDES, 2001). 
+                                                
+2 SHIRKEY, H. Therapeutic Orphans. Pediatrics, v. 104, n. 3, p. 583-587, 1999. 
+22 
+ 
+Frente a esses fatores, há grande necessidade de informação objetiva e imparcial 
+sobre os medicamentos. Portanto, a realização de estudos que ampliem o conhecimento sobre 
+a utilização dos mesmos  no âmbito da pedi atria reveste-se de grande relevância (CASTRO, 
+2000; MELO; RIBEIRO; STORPIRTIS, 2006).  
+23 
+ 
+ 
+3 OBJETIVOS 
+ 
+3.1 GERAL 
+ 
+ Investigar a prescrição de medicamentos potencialmente perigosos (MPP) para 
+pacientes pediátricos sob cuidados intensivos em um hospital universitário. 
+ 
+3.2 ESPECÍFICOS 
+ 
+ Conhecer e mensurar a prescrição de MPP no período entre primeiro de janeiro e 30 
+de junho de 2013 em terapia intensiva pediátrica. 
+ Analisar a frequência de interações medicamentosas  potenciais (IMP) envolvendo 
+estes medicamentos no mesmo período. 
+24 
+ 
+ 
+4 METODOLOGIA 
+ 
+4.1 CARACTERIZAÇÃO DA PESQUISA 
+Foi realizado um estudo quantitativo, de natureza descritiva, com delineamento 
+transversal retrospectivo sobre a prescrição de medicamentos potencialmente perigosos para 
+pacientes pediátri cos do setor de terapia intensiva do Instituto de Pediatria e Puericultura 
+Martagão Gesteira (IPPMG) da Universidade Federal do Rio de Janeiro (UFRJ), localizado na 
+cidade do Rio de Janeiro (RJ). 
+ 
+4.2 CRITÉRIOS DE INCLUSÃO 
+Foram incluídos neste estudo paci entes com idade entre zero e 14 anos que 
+tenham sido internados entre o período de primeiro de janeiro e 30 de junho de 2013. O 
+paciente que, por ventura, tenha sido transferido para outro setor (mas sem alta do hospital) e 
+que retornou para UTI pediátrica  (UTIP), foi considerado como um único paciente. Em 
+contrapartida, o paciente que recebeu alta para o domicílio e que necessitou de readmissão na 
+UTIP, foi considerado, para efeito deste estudo, como um novo caso.  
+ 
+4.3 COLETA DE DADOS  
+Informações como: ( a) idade, (b) sexo, (c) causa da internação pelo código 
+internacional de doenças (CID -10), (d) número do prontuário, (e) medicamentos 
+potencialmente perigosos prescritos, (f) forma farmacêutica, (g) via de administração, (h) 
+dose e (i) associação de medica mentos com interação potencial foram coletadas nas 
+prescrições diárias dos pacientes incluídos no estudo. Para tal, considerou -se a lista de 22 
+MPP indicados para uso em crianças e relacionados na Relação Nac ional de Medicamentos 
+Essenciais (RENAME) bem co mo as 102 interações medicamentosas de maior g ravidade 
+envolvendo-os, propostos por Oliveira e Lima-Dellamora (2013) (Tabela 1).  
+Oliveira e Lima-Dellamora (2013) propuseram esta tabela visando instrumentar as 
+equipes de saúde  na pesquisa farmacoepidemioló gica. A avaliação criteriosa da relação 
+risco/benefício que precede a prescrição requer disponibilidade de dados confiáveis e 
+25 
+ 
+informação especializada com enfoque nas particularidades da população a qual se pretende 
+assistir.  
+Os medicamentos encontram-se classificados segundo a Anatomical Therapeutic 
+Chemical (ATC — Anatômica Terapêutica Química), até o quinto nível. Esta classificação é 
+reconhecida pela OMS como padrão internacional para os estudos de utilização de fármacos e 
+consiste na divisão destes em diferentes grupos, de acordo com o órgão ou sistema em que 
+atuam, bem como suas propriedades químicas, farmacológicas e terapêuticas. Os fármacos 
+são divididos em 14 grupos principais (primeiro nível), com subgrupos 
+farmacológicos/terapêuticos (segundo ní vel). Os níveis três e quatro são destinados a 
+subgrupos químico/farmacológico/terapêutico. O quinto e ú ltimo nível é a substância química 
+(WHOCC, 2011).  
+ 
+Tabela 1 - Interações medicamentosas  segundo lista de referên cia das intera ções medicamentosas perigosas de 
+medicamentos essenciais indicados para pediatria, 2013. Adaptado de Oliveira e Lima-dellamora (2013). 
+MPPEIP 
+(ATC – 5º nível) 
+Classe medicamentosa / medicamento envolvido na IM 
+ 
+Amoxicilina (J01CA04) 
+ 
+Metotrexato (L01BA01) 
+Venlafaxina (N06AX16) 
+Varfarina (B01AA03) 
+Ampicilina (J01CA01) Varfarina (B01AA03) 
+Cálcio (A12A) Eltrombopag (B02BX05) 
+Digoxina (C01AA05) 
+Cefalexina (J01DB01) Varfarina (B01AA03) 
+Cefotaxima (J01DD01) Varfarina (B01AA03) 
+Ceftazidima (J01DD02) Varfarina (B01AA03) 
+ 
+ 
+Digoxina (C01AA05) 
+ 
+Eritromicina (J01FA01) 
+Amiodarona (C01BD01) 
+Saquinavir (J05AE01) 
+Telaprevir (J05AE11) 
+Verapamil (C08DA01) 
+Quinidina (C01BA01) 
+Claritromicina (J01FA09) 
+Diuréticos tiazidicos (C03AA) 
+Indometacina (M01AB01) 
+Ritonavir (J05AE03) 
+Carbonato de cálcio (A02AC01 / A12AA04) 
+Alprazolam (N05BA12) 
+Propantelina (A03AB05) 
+Espironolactona (C03DA01) 
+Lapatinibe (L01XE07) 
+Itraconazol (J02AC02) 
+Tetraciclina (J01AA07) 
+Dopamina (C01CA04) Pargilina (C02KC01) 
+ 
+ 
+ 
+Epinefrina (C01CA24) 
+Propranolol (C07AA05) 
+Nadolol (C07AA12) 
+Timolol (C07AA06) 
+Carvedilol (C07AG02) 
+Antidepressivos tricíclicos (N06AX) 
+26 
+ 
+MPPEIP 
+(ATC – 5º nível) 
+Classe medicamentosa / medicamento envolvido na IM 
+Entacapone (N04BX02) 
+Halotano (N01AB01) 
+Fenobarbital (N03AA02) 
+ 
+Dicumarol (B01AA01) 
+Quetiapina (N05AH04) 
+Delavirdina (J05AG02) 
+Benzodiazepinicos 
+Nimodipina (C08CA06) 
+Analgésicos opióides (N02A) 
+Acenocumarol (B01AA07) 
+Lopinavir (J05AR10) 
+Teniposido (L01CB02) 
+Irinotecano (L01XX19) 
+Tacrolimo (L04AD02) 
+Furosemida (C03CA01) 
+ 
+Lítio (N05AN01) 
+Tobramicina (J01GB01) 
+Bepridil (C08EA02) 
+Gentamicina (J01GB03) 
+Digitoxina (C01AA04) 
+Sotalol (C07AA07) 
+Hidrato de cloral (N05CC01) 
+Gentamicina (J01GB03) 
+ 
+Bloqueador neuromuscular 
+Ácido etacrínico (C03CC01) 
+Furosemida(C03CA01) 
+Heparina (B01AB01 / C05BA03) 
+ 
+Ácido acetilsalicílico (B01AC06 / N02BA01) 
+Indometacina (M01AB01) 
+Fluvoxamina (N06AB08) 
+Sertralina (N06AB06) 
+Fluoxetina (N06AB03) 
+Ginkgo (N06DX02) 
+Milnacipram (N06AX17) 
+Citalopram (N06AB04) 
+Paroxetina (N06AB05) 
+Alprostadil (C01EA01) 
+Venlafaxina (N06AX16) 
+Escitalopram (N06AB10) 
+Imipenem + cilastatina (J01DH51) 
+ 
+Ácido valpróico (N03AG01) 
+Ganciclovir (J05AB06) 
+Insulina (A10AC01 / A10AB01) Fluoroquinolona (J01MA) 
+Penicilina (J01CE01) 
+ 
+Metotrexato (L01BA01) 
+Varfarina (B01AA03) 
+Midazolam (N05CD08) 
+ 
+Cetoconazol (J02AB02) 
+Posaconazol (J02AC04) 
+Nilotinibe (L01XE08) 
+Barbitúricos (N01AF) 
+ 
+ 
+Morfina (N02AA01) 
+ 
+Barbitúricos (N01AF) 
+Relaxante muscular de ação central (M03B) 
+Cimetidina (A02BA01) 
+Analgésicos opióides (N02A) 
+Propofol (N01AX10) 
+ 
+Lidocaina (C01BB01) 
+Bupivacaina (N01BB01) 
+ 
+ 
+ 
+ 
+Propranolol (C07AA05) 
+ 
+Clozapina (N05AH02) 
+Epinefrina (C01CA24) 
+Amiodarona (C01BD01) 
+Lidocaína (C01BB01) 
+Mefloquina (P01BC02) 
+Bupivacaina (N01BB01) 
+27 
+ 
+MPPEIP 
+(ATC – 5º nível) 
+Classe medicamentosa / medicamento envolvido na IM 
+Haloperidol (N05AD01) 
+Dronedarona (C01BD07) 
+Diltiazem (C08DB01) 
+Verapamil (C08DA01) 
+Lidocaína (C01BB01 /N01BB02) 
+ 
+ 
+Lopinavir (J05AR10) 
+Propofol (N01AX10) 
+Propranolol (C07AA05) 
+Fenitoína (N03AB02) 
+Suxametônio (M03AB01) 
+Nadolol (C07AA12) 
+Atazanavir (J05AE08) 
+Amiodarona (C01BD01) 
+Metoprolol (C07AB02) 
+Sulfametoxazol + trimetoprima (J01EE01) Espironolactona (C03DA01) 
+ATC: Anatomical Therapeutic Chemical; MPPEIP: Medicamentos Potencialmente Perigosos Essenciais 
+Indicados para Pediatria; IM: Interações Medicamentosas. 
+ 
+4.4 ANÁLISE DE DADOS 
+As informações coletadas foram digitadas, conferidas e processadas em um banco 
+de dados utilizado o programa Microsoft Office Excel® 2007.  
+A idade dos pacientes foi calculada em meses e com uma casa decimal, de modo 
+que os dias foram arredondados para menos. Posteriormente considerou-se como: i) neonatos: 
+pacientes com idade menor ou igual a um mês; ii) lactentes: pacientes com idade superior a 
+um mês e inferior a 12 meses; iii) pré -escolares: pacientes com idade superio r a 12 meses e 
+inferior a 72 meses; iv) escolares: pacientes com idade superior a 72 meses e inferior a 144 
+meses e v) adolescentes: pacientes com idade superior ou igual a 144 meses. A classificação 
+foi feita conforme distribuição por faixa etária propost a por Meiners e Bergsten -Mendes 
+(2001). 
+Considerou-se como única prescrição todos os acréscimos que foram feitos no 
+decorrer de um dia de internação, a partir da prescrição do primeiro medicamento.  
+A medida da frequência de prescrição dos MPP invest igados foi obtida por meio 
+de cá lculo de prevalência, ou seja , a proporção do número total de vezes que o  MPP foi 
+prescrito pelo total de prescrições analisadas. De modo similar, a frequência das IM foi obtida 
+pela proporção do número total de vezes que a IM foi detectada nas prescrições divididas pelo 
+número total de interações encontradas . Estas medidas, bem como a medida  de frequência de 
+classificação dos pacientes nas faixas etárias foram obtidas conforme Figura 1. 
+ 
+ 
+28 
+ 
+         Figura 1- Fórmula utilizada para cálculo de prevalência 
+ 
+            
+Os demais dados constaram de estatísticas descritivas, estimativas de medidas de 
+tendências central e de variabilidade. 
+ 
+4.5 ASPECTOS ÉTICOS 
+O projeto de pesquisa foi registrado pelo Comitê de É tica em Pesquisa do IPPMG 
+sob o número CAAE 22308813.7.0000.5264.  
+29 
+ 
+5. RESULTADOS 
+5.1 DADOS DEMOGRÁFICOS 
+A amostra estudada compreendeu um total de 772 prescrições  realizadas para 53 
+pacientes no período estudado, correspondente a 181 dias . Vinte e cinco p acientes (47,17%) 
+eram do sexo feminino e 28 (52,83%) do sexo masculino. A média e mediana de idade dos 
+pacientes foram de  40 meses (aproximadamente três anos de idade) e 14 meses 
+(aproximadamente um ano de idade), respectivam ente. A tabela 2 demonstra a d istribuição 
+por faixa etária e o tempo médio de internação.  
+ 
+Tabela 2 - Distribuição por faixa etária e tempo de internação em terapia intensiva pediátrica de um hospital 
+universitário, 2013. 
+Faixa etária (meses) Número de casos Prevalência (%) Tempo de internação médio 
+(dias) 
+Neonatos 
+(0 – 1) 
+6 11,32 16,83 
+Lactentes 
+(1,1 – 12) 
+19 35,85 14,73 
+Pré-escolares 
+(12,1 – 72) 
+16 30,18 15,5 
+Escolares 
+(72,1– 144) 
+8 15,10 13,25 
+Adolescentes 
+(> 144,1) 
+4 7,55 8 
+ 
+5.2 PREVALÊNCIA DE MPP 
+Noventa por cento (4 8) da população estudada fez  uso de algum MPP durante o 
+período analisado. O número de MPP por prescrição variou de zero a cinco, com uma média 
+de 1,6. A frequência de prescrição de MPP por faixa etária bem como o número de pacientes 
+que utilizaram estes medicamentos estão descritos na Tabela 3. 
+ 
+Tabela 3 - Prevalência de prescrição de medicamentos potencialmente perigosos e de pacientes envolvidos por 
+faixa etária em terapia intensiva pediátrica de um hospital universitário, 2013.  
+Faixa etária 
+(meses) 
+Número de casos de 
+MPP 
+Prevalência de MPP (%) Prevalência de pacientes (%) 
+Neonatos 
+(0 – 1) 
+171 13,38 7,55 
+Lactentes 
+(1,1 – 12) 
+431 33,72 32,10 
+Pré-escolares 
+(12,1 – 72) 
+445 34,82 30,19 
+Escolares 
+(72,1– 144) 
+180 14,08 13,21 
+Adolescentes 
+(> 144) 
+51 3,40 7,55 
+ MPP: Medicamentos Potencialmente Perigosos. 
+30 
+ 
+ 
+Oitenta e nove por cento (690) das 772 prescrições analisadas continham algum 
+dos 22 MPP indicados para uso em pediatria e investigados na amostra de estudo. Deste s, 
+apenas 13 foram prescritos no período analisado. Midazolam furosemida, formulações 
+contendo cálcio e fenobarbital foram as mais prevalentes nas prescrições diárias (Tabela 4). 
+ 
+Tabela 4 - Frequência da prescrição dos medicamento s potencialmente perigosos em terapia intensiva pediátrica 
+de um hospital universitário, 2013. 
+MPP (ATC – 5º nível) Número de casos 
+ 
+Prevalência (%) 
+Midazolam (N05CD08) 388 50,26 
+Furosemida (C03CA01) 284 36,79 
+Cálcio (A12A) 157 20,33 
+Fenobarbital (N03AA02) 145 18,78 
+Epinefrina (C01CA24) 80 10,36 
+Amoxicilina (J01CA04) 55 7,12 
+Sulfametoxazol + Trimetoprima  
+(J01EE01) 
+53 6,86 
+Propofol (N01AX10) 52 6,73 
+Gentamicina (J01GB03) 24 3,11 
+Ampicilina (J01CA01) 21 2,72 
+Insulina (A10AC01/A10AB01) 9 1,16 
+Morfina (N02AA01) 7 0,90 
+Lidocaína (C01BB01) 3 0,39 
+ ATC: Anatomical Therapeutic Chemical. 
+ 
+5.3 PREVALÊNCIA DE INTERAÇÕES MEDICAMENTOSAS 
+Apenas seis (fenobarbital, midazolam, sulfametoxazol associado à trimetoprima, 
+gentamicina, furosemida e morfina) dos 13 MPP foram prescritos com outros medicamentos 
+que resultavam em  interações potenciais. As interações envolvendo fenobarbital 
+representaram 74,19% das interações encontradas (Tabela 5).   
+Tabela 5 - Frequência dos medicamentos potenc ialmente perigosos envolvidos em interações medicamentosas 
+em terapia intensiva pediátrica de um hospital universitário, 2013. 
+MPP envolvido em IM Número de casos Prevalência (%) 
+Fenobarbital 207 74,19 
+Midazolam 53 19,00 
+Morfina 8 2,86 
+Furosemida 3 1,07 
+Gentamicina 3 1,07 
+Sulfametoxazol + trimetoprima 2 0,71 
+MPP: Medicamento Potencialmente Perigosos; IM: Interações Medicamentosas.  
+ 
+31 
+ 
+Quinze por cento (115) das prescrições apresentaram, pelo menos, uma interação 
+envolvendo MPP, representando um total de  221 IM (1,2 interações/dia). Os dois 
+medicamentos envolvidos na interação eram classificados como MPP3 em 25% destas.  
+Apenas 15 (28,3%) pacientes apresentaram em sua s prescrições uma ou mais IM 
+envolvendo MPP. As prevalências de interações medicamentosas e de pacientes expostos por 
+faixa etária estão indicadas na Tabela 6. 
+ 
+Tabela 6 – Prevalência de interações medicamentosas e de pacientes expostos por faixa etária em terapia 
+intensiva pediátrica de um hospital universitário, 2013. 
+Faixa etária (meses) Número de casos Prevalecia de IM (%) Prevalência de pacientes expostos 
+(%) 
+Neonatos 
+(0 – 1) 
+4 1,81 1,88 
+Lactentes 
+(1,1 – 12) 
+30  13,57 13,21 
+Pré-escolares 
+(12,1 – 72) 
+16 7,24 7,55 
+Escolares 
+(72,1– 144) 
+143 64,71 3,77 
+Adolescentes 
+(> 144) 
+28 12,67 1,88 
+IM: Interações Medicamentosas. 
+ 
+A T abela 7 apresenta a frequência  das 12 possíveis interações medicamentosas 
+encontradas, bem como o número de pacientes envolvidos. Interações envolvendo MPP com 
+ação no sistema nervoso foram as mai s prevalentes, destacando -se a interação entre 
+fenobarbital e midazolam. 
+ 
+Tabela 7 - Interações medicamentosas mais prevalentes e número de pacientes envolvidos em unidade de 
+tratamento intensivo do IPPMG, 2013. 
+Interação medicamentosa Número de casos Prevalência (%) Pacientes envolvidos 
+Fenobarbital x Midazolam 54 24,43 7 
+Fenobarbital x Fentanil 46 20,81 8 
+Fenobarbital x Metadona 34 15,38 2 
+Fenobarbital x Lorazepam 30 13,57 2 
+Fenobarbital x Nitrazepam 29 13,12 1 
+Fenobarbital x Clonazepam 11 4,97 2 
+Morfina x Metadona 7 3,16 2 
+Fenobarbital x Tramadol 4 1,80 1 
+Gentamicina x Furosemida 3 1,35 2 
+Sulfametoxazol + trimetoprima x 
+espironolactona  
+2 0,90 1 
+Morfina x Fentanil 1 0,45 1 
+Midazolam x Tiopental 1 0,45 1 
+ 
+ 
+                                                
+3 A lista de IM proposta por Oliveira e Lima-Dellamora (2013) considerou, pelo menos, um MPP. 
+32 
+ 
+Na Tabela 8 são demonstradas as respectivas interações as quais estes pacientes 
+estiveram expostos. 
+ 
+Tabela 8 - Distribuição das interações medicamentosas,  idade e tempo de internação em terapia intensiva 
+pediátrica de um hospital universitário, 2013.  
+Paciente Idade (meses) Tempo de 
+Internação 
+(dias) 
+Descrição da Interação Número 
+de IM 
+possíveis  
+Número de 
+casos (IM) 
+ 
+ 
+P1 
+ 
+ 
+93 
+ 
+ 
+65 
+Fenobarbital x midazolam  
+ 
+5 
+25 
+Fenobarbital x fentanil 19 
+Fenobarbital x nitrazepam 29 
+Fenoarbital x lorazepam 26 
+Fenobarbital x metadona 30 
+ 
+ 
+P2 
+ 
+ 
+152 
+ 
+ 
+11 
+Fenobarbital x  midazolam  
+ 
+5 
+6 
+Fenobarbital x fentanil 6 
+Fenobarbital x clonazepam 8 
+Fenobarital x lorazepam 4 
+Fenobarbital x metadona 4 
+ 
+P3 
+ 
+89 
+ 
+7 
+Fenobarbital x midazolam  
+3 
+6 
+Fenobarbital x fentanil 5 
+Fenobarbital x clonazepam 3 
+P4 8 19 Fenobarbital x  midazolam 2 6 
+Fenobarbital x fentanil 5 
+P5 35 73 Morfina x metadona 2 6 
+   Morfina x fentanil  1 
+P6 2 9 Fenobarbital x midazolam 2 5 
+Fenobarbital x fentanil 5 
+P7 44 19 Fenobarbital x  midazolam 2 3 
+Fenobarbital x fentanil 3 
+P8 1 12 Fenobarbital x  midazolam 2 2 
+Fenobarbital x fentanil 2 
+P9 3 10 Fenobarbital x Tramadol 1 4 
+ 
+P10 
+ 
+14 
+ 
+ 
+5 
+ 
+Sulfametoxazol + 
+trimetoprima x 
+espironolactona 
+ 
+1 
+ 
+2 
+P11 2 32 Gentamicina x furosemida 1 2 
+P12 6 4 Gentamicina x furosemida 1 1 
+P13 2 4 Fenobarbital x fentanil 1 1 
+P14 4 15 Morfina x metadona 1 1 
+P15 58 61 Midazolam x tiopental 1 1 
+ IM: Interações medicamentosas; P: paciente. 
+ 
+O número de interações medicamentosas esteve relacionado à idade, na população 
+estudada. Observou-se que o maior número de IM envolveu pacientes mais velhos (Gráfico 
+1). 
+ 
+ 
+ 
+ 
+33 
+ 
+Gráfico 1 - Distribuição do número de interações medicamentosas por faixa e tária dos pacientes 
+assistidos em terapia intensiva pediátrica de um hospital universitário, 2013. 
+ 
+Eixo Y: número de pacientes envolvidos; Eixo X: faixa etária; IM: Interações Medicamentosas. 
+ 
+5.4 DISCUSSÃO  
+Na presen te pesquisa, evidenciou -se que um  percentual de 89% das  prescrições 
+apresentou, pelo menos, um dos 22 MPP investigados. Dentre os MPP prescritos, o 
+midazolam foi o medicamento mais prevalentemente detectado nas prescrições d a UTIP 
+(50,26%).  O dado obtido é semelhante ao que foi descrito em o utros estudos encontrados na 
+literatura ( CARVALHO, et al., 2003; SFOGGIA et al., 2003; BICUDO  et al., 1999; 
+BARTOLOMÉ; CID; FREDDI, 2007).  
+O midazolam é o benzodiazepínico de eleição para a sedação contínua da criança 
+gravemente enferma ( NEONATAL AND PEDI ATRIC PHARMACISTS GROUP, 2011 ). A 
+prevalência de prescrição destes sedativos pode ser explicada pelo fato de que a dor e a 
+agitação psicomotora são comuns em cuidados intensivos. Este quadro torna -se mais 
+agravado em pediatria devido à dificuldade de comun icação do paciente com a equipe 
+assistente, a separação dos pais e colocação do paciente em um ambiente desconhecido 
+(BICUDO et al., 1999). Quando uma criança é admitida em uma UTIP, um dos principais 
+objetivos é realizar o tratamento que cause menor sofri mento físico e emocional 
+(BARTOLOMÉ; CID; FREDDI, 2007).  Portanto, os sedativos tornam -se necessários para 
+diminuir/prevenir a ansiedade e agitação que ocorrem com a entrada nestes ambientes e com a 
+34 
+ 
+realização de procedimentos, sobretudo em crianças que ne cessitem de suporte ventilatório 
+(BARTOLOMÉ; CID; FREDDI, 2007; RODRIGUES-JUNIOR E AMARAL, 2002). 
+Furosemida foi o segundo MPP com maior frequência de prescrição (36,79%). É 
+indicado, dentre outros usos, para o tratamento de edemas, estímulo de diurese, co ntrole do 
+balanço hídrico, e cardiopat ias congênitas (RODRIGUES et al., 2013; SBC). Em dois outros 
+estudos, este medicamento foi constatado entre os mais prescritos, com frequências de 9,9% e 
+1,4% inferiores as que encontramos (MEINERS e BERGSTEN -MENDES, 2 001; MOURA, 
+RIBEIRO e MAGALHÃES, 2007). Esta discrepância pode ser devido a variáveis 
+relacionadas aos delineamentos metodológicos dos estudos, a população investigada e ao 
+campo de estudo escolhido (VIEIRA et al., 2012). 
+Formulações contendo cálcio estive ram presentes em 20,33% das prescrições 
+analisadas. Destas, foram encontradas especificamente gluconato de  cálcio e carbonato de 
+cálcio. O gluconato de cálcio foi prescrito principalmente como componente de hidratação 
+venosa e em proporção maior (90%), em relação ao carbonato de cálcio. A prescrição de 
+hidratação venosa para pacientes pediátricos tem como principais objetivos a reposição, 
+manutenção e restabelecimento dos níveis normais de água e eletrólitos no organismo 
+(BARBOSA e SZTAJNBOK, 1999). 
+Fenobarbital apresentou um percentual de prescrição de 18,78%, terceiro MPP 
+mais prescrito em nosso estudo. Em EUM realizado por Silva (2008) em unidade de 
+internação pediátrica, o fenobarbital foi o sétimo medicamento mais observado nas 
+prescrições médicas avali adas. Meiners e Bergsten -Mendes (2001) verificaram que o 
+fenobarbital esteve entre os 12 medicamentos mais prescritos no período estudado. 
+Entre os antimicrobianos pesquisados, as frequências de prescrição encontradas 
+foram: amoxicilina (7,12%) e sulfameto xazol associado à trimetoprima (6,86%) e 
+gentamicina (3,11%). Em um EUM parenterais realizado por Souza, Goulart e Reis  (2008), 
+viu-se que a frequência de prescrição das classes das penicilinas resistentes à beta -lactamase, 
+Sulfametoxazol associada à trime toprima e aminoglicosídeos, respectivamente, foram de 
+1,8%, 0,9% e 4,9%.  
+Segundo Bartolomé, Cid e Freddi (2007), os derivados opiáceos e os anti -
+inflamatórios não hormonais são os analgésicos mais utilizados em pacientes graves. Embora 
+estes autores afirm em que a morfina esteja entre os mais e mpregados, em nosso estudo ela 
+representou um dos menores percentuais  de prescrição entre os MPP investigados. Soares e 
+colaboradores (2012) observaram um reduzido percentual de prescrição (1,2%) deste 
+35 
+ 
+medicamento, em  relação aos demais MPP avaliados no estudo que realizaram em um 
+hospital de ensino. 
+Na presente pesquisa , 15% das prescrições analisadas apresentaram pelo menos 
+uma interação medicamentosa. Cruciol -Souza e Thomson (2006) verificaram que 49,7% das 
+prescrições investigadas apresentaram IM e afirmam que esta prevalência foi maior do que as 
+encontradas em outros estudos similares brasileiros. Meiners e Bergsten -Mendes (2001) 
+encontraram 32% de prescrições pediátricas com IMs. A diferença nos valores encontrado s 
+pode ser devido a fatores como diferenças no perfil de medicamentos utilizados, nas formas 
+de atuação do profissional farmacêutico e nas ações e decisões no fornecimento da terapia 
+medicamentosa (CRUCIOL-SOUZA e THOMSON, 2006; VIERA et al., 2012). 
+O núme ro de IM por prescrição variou de um a quatro. Este valor também se  
+mostrou inferior ao relatado por Cruciol -Souza e Thomson (2006), que afirmaram encontrar 
+uma variação de uma a 22 IMs por prescrição, com uma mediana de três. 
+O total de IMs detectadas nas  prescrições pediátricas foi 221.  Verificou-se ainda 
+que um número restrito de MPP foi responsável pela maioria destas. Interações envolvendo 
+MPP com ação no sistema nervoso foram as mais prev alentes. Lima e Cassiani (2009) , 
+estudando uma população diferen te da nossa,  investigaram as IMP em UTI de um hospital 
+universitário do Ceará e constataram que das 311 IMP encontradas, os medicamentos que 
+atuam no sistema nervoso representaram 40%. Em nosso estudo, destacaram -se as interações 
+entre fenobarbital e os fármacos: midazolam (24,43%), fentanil (20,81%), metadona (15,38) e 
+lorazepam (13,57%), foco desta discussão. 
+A provável explicação do envolvimento dos fármacos metadona e lorazepam pode 
+ser explicada pelo  regime terapêutico utilizado para evitar a síndrome de abstinência e 
+dependência física associada à interrupção abrupta dos medicamentos midazolam e fentanil, 
+após altas doses e tempo de utilização prolongado. Estes quadros são caracterizados por um 
+conjunto de sinais e sintomas como: insônia após alimentaç ão, tremores, taquipnéia, febre, 
+entre outros (BICUD O et al., 1999). Existem vários esquemas de retirada de medicação 
+sedativa e analgésica. O lorazepam é utilizado na retirada de midazolam em uso contínuo por 
+tempo prolongado. Neste caso pode -se utilizá-lo na dose de 0,05 a 0,1 mg/Kg. Já na retirada 
+de fentanil, tem sido cada vez mais comum o uso de metadona na dose entre 0,1 a 0,2 mg/Kg 
+a cada 4-6 horas (LAGO et al., 2003). 
+A IM observada entre os MPP fenobarbital e midazolam represento u a maioria 
+das IM encontradas, e, em seguida, a interação fenobarbital versus fentanil. Em UTI, o 
+fentanil é amplamente utilizado em associação com o midazolam, pois, este último, assim 
+36 
+ 
+como os demais benzodiazepínicos, não possuem atividade analgésica (Neonatal and Pediatric 
+Pharmacist Group, 2011). Por este motivo, é indicada a administração concomitante com um 
+medicamento que supra esta atividade, normalmente um opióide. Esta associação é capaz de 
+promover hipnose profunda, anestesia e amnésia adequada (KLAMT et al., 2010 ).  Desta 
+forma, a prescrição de midazolam e fentanil associados é uma IM preconizada, sob intensivo 
+acompanhamento clínico. 
+Carvalho et al.  (2013) fizeram um estudo multicêntrico onde analisaram a 
+prevalência de IMs em UTIs no Brasil. Observaram que as in terações fentanil versus 
+midazolam, fenobarbital versus fentanil e fenobarbital versus midazolam estiveram entre as 
+IMs graves mais frequentes em sete UTI, sendo a primeira a mais prevalente entre as IM s 
+encontradas.  
+É importante destacar que, de fato, o fenobarbital foi responsável pela maioria 
+(74,19%) das interações medicamentosas detectadas e, em menor proporção, o midazolam 
+(19%). Em um estudo realizado por Moura, Ribeiro e Magalhães (2007), foi evidenciado que 
+o fenobarbital esteve entre os três fárm acos mais envolvidos em IM de relevância clínica, 
+representando um total de 17,2% das IMs encontradas.  
+O fenobarbital pertence à classe dos barbitúricos, atuando como depressor não 
+seletivo do sistema nervoso central. Pode ser utilizado para convulsão fe bril, epilepsia e como 
+sedativo complementar em pacientes com suporte ventilatório prolongado e com elevadas 
+necessidades de sedação (BARTOLOMÉ; CID; FREDDI, 2007). 
+O midazolam é um agente que induz a rápida sedação. O risco de depressão 
+respiratória com o uso deste medicamento é dose dependente. A dose intravenosa padrão 
+varia entre 0,1 a 0,3 mg/Kg. Doses maiores são utilizadas em situações onde se pretende 
+maior relaxamento, como, por exemplo, na indução de sedação para intubação traqueal, 
+procedimento comum em UTI, aumentando o ris co de depressão respiratória (LAGO  et al., 
+2003). 
+Em uso prolongado de fentanil, o efeito adverso de maior relevância e que 
+apresenta maior risco é a rigidez da parede torácica relacionada com a dose administrada 
+(maior que 5 µg/ Kg) e a velocidade de infusão. Este efeito pode ser antagonizado com a 
+infusão de relaxante muscular e naloxona, um antagonista opióide que previne ou r everte os 
+efeitos dos mesmos (LAGO et al., 2003). 
+É importante destacar que o risco de depressão respira tória associada ao uso 
+destes fármacos pode ser maior na presença das interações medicamentosas envolvendo 
+barbitúricos e  opióides/benzodiazepínicos, cujo principal efeito é o risco aumentando de 
+37 
+ 
+depressão respiratória aditiva (OLIVEIRA e LIMA -DELLAMORA, 2013). Estas IM, como 
+visto anteriormente, foram amplamente observadas em nosso estudo.  
+Problemas respiratórios são comuns em UTI. O suporte ventilatório prolongado 
+ou temporário pode ser necessário na presença, ou não, destas enfermidades. Nestes pacientes, 
+o uso do tudo traqueal, além do medo e ansiedade, impede  o sincronismo entre ventilação 
+espontânea e mecânica, tornando necessária a sedação do paciente. Em um estudo realizado 
+por Rodrigues-Junior e Amaral (2002), constatou-se que a adaptação do pacien te à ventilação 
+mecânica constitui a principal indicação de sedação, no qual contabilizaram -se que, cerca de 
+90% dos pacientes que são submetidos aos ventiladores artificiais recebem medicamentos 
+sedativos, podendo atingir a 100%. 
+Os opióides são considera dos analgésicos de eleição para os pacientes em 
+ventilação mecânica, sobretudo combinado com benzodiazepínicos, quando é possível 
+diminuir a dose de ambos, em razão do efeito sinérgico observado. Associados ou não a 
+benzodiazepínicos, os opióides atenuam o  reflexo da tosse e inibem os centros respiratórios, 
+fator evidentemente desejável para a ideal adaptação do paciente à atividade automática do 
+ventilador sem abolir por completo a consci ência e a cooperação (RODRIGUES -JUNIOR e 
+AMARAL, 2002).  
+Contudo, ainda que as IM com risco de depressão respiratória aditiva tenham sido 
+prevalentes (destacando-se fenobarbital e barbitúricos/ benzodiazepínicos ), o correto 
+monitoramento do paciente diminui este risco e permite a reversão do quadro em  UTI 
+(LAGO, et al .,2003; BARTOLOMÉ; CID; FREDDI, 2007). Sugere -se, portanto, que, seu 
+desfecho clínico, em especial a ocorrência de depressão respiratória, nestes ambientes seja 
+minimizado e que a manutenção do estado de saúde dos pacientes seja satisfatória. 
+Autores afirmam que  a relevância clínica de uma IM é frequentemente 
+classificada ao longo de duas dimensões: a severidade do efeito físico que é espera do que o 
+paciente apresente e a quantidade e qualidade da documentação das pesquisas que evidenciam 
+a ocorrência do efeito d a IM em seres humanos (CRUCIOL -SOUZA E THOMSON, 2006). 
+De fato, os efeitos de uma IM são dependentes de diversos fatores, como a dosagem utilizada, 
+a vulnerabilidade do paciente e a variação nas funções orgânicas decorrentes dos processos 
+mórbidos, e devem  ser avaliados separadamente (MOURA; RIBEIRO; MAGALHÃES, 
+2007).  
+Cruciol-Souza e Thomson (2006) afirmam que para avaliar a relevância clínica de 
+uma IM, é altamente recomendável analisar a frequência em que ela é detectada nas 
+prescrições. Em nossa pesqu isa vimos que o P 1 (Tabela 8) durante um período de internação 
+38 
+ 
+de 65 dias, esteve exposto uma frequência significativa de  IMs cujo efeito clínico é o risco  
+aumentado de depressão respiratória aditiva. Supõe-se, portanto, que estas interações sejam de 
+relevância clínica pra este paciente . e destacamos a importância de que  pacientes como este 
+sejam intensamente monitorados. 
+O rígido monitorameto dos pacientes assistidos em UTIs que se encontram em uso 
+de sedativos e/ou analgésicos se faz imprescindível para o c ontrole do efeito destes 
+medicamentos, principalmente quando estão envolvidos em IM relacionadas a depre ssão 
+respiratória aditiva (LAGO et al., 2003) 
+Neste caso, o farmacêutico clínico deve estar atento para que, uma vez detectadas 
+as IMs potenciais, estej a ativamente junto à equipe assistente, expondo a importância da 
+constante monitoração destes pacientes, assegurando a redução dos riscos e aumentando a 
+segurança dos mesmos (VIEIRA et al.; 2012).  
+Cruciol-Souza e Thomson (2006), descrevendo as característ icas e efeitos das IM 
+graves encontradas em prescrições médicas de um hospital universitário, afirmaram que as IM 
+detectadas na amostra estudada foram facilmente controladas, entre outras estratégias, pelo 
+monitoramento dos sintomas clínicos dos pacientes e pelos resultados laboratoriais. 
+Existem medicamentos que, quando administrados isoladamente, já apresentam 
+risco inerente ao seu uso e, quando associados a determinados fármacos, esse risco é 
+exacerbado (OLIVEIRA e LIMA -DELLAMORA, 2013) . A gentamicina e furosemida são 
+exemplos deste caso (JACKSON, 2010; CHAMBERS, 2010). 
+Pertencente à classe dos aminoglicosídeos,  a gentamicina é indicada para o 
+tratamento da septicemia neonatal (MARTINS; STARLING; BORGES; 2005).  O seu baixo 
+índice terapêutico e reações ad versas relacionadas à nefrotoxicidade e ototoxicidade  são 
+considerados fatores limitantes de sua utilização em crianças  (TAVARES4, 1999 apud 
+MARTINS; STARLING; BORGES; 2005). Furosemida pertence à classe dos diuréticos de 
+alça e é indicado  principalmente para o tratamento d a hipertensão arterial  e edema. O 
+comprometimento auditivo e a surdez que podem ser observadas com uso de furosemida são 
+habitualmente reversíveis. Estes medicamentos, q uando administrado s em associação , 
+observa-se sinergismo da ototoxida de por ambos os fármacos  (JACKSON, 2010; 
+CHAMBERS, 2010). 
+Esta interação em especial, felizmente , foi pouco observada em nosso estudo, 
+representando apenas aproximadamente 1 % das IM encontradas e expondo dois  pacientes 
+                                                
+4 TAVARES, W. Manual de antibióticos e quimioterápicos antiinfecciosos. 2.ed. Belo Horizonte: 
+Atheneu, 1999. 792 p. 
+39 
+ 
+(3,7%). Nossos dados são consistentes  ao encontrado por outros autores, que verificaram a 
+ocorrência desta interação em duas prescrições pediátricas (MEINERS e BERGSTEN -
+MENDES, 2001) 
+A septicemia neonatal, principal indicação da gentamicina, é um quadro grave no 
+qual a implementação de antibi oticoterapia é justificada pelo  seu alto índice de mortalida de. 
+No entanto , recomenda-se que  estes pacientes só iniciem o tratamento após diagnóstico 
+confirmado de septicemia, por meio de hemoculturas, principalmente. Na prática clínica a 
+dosagem sérica de gentamicina constitui um parâmetro útil para avaliar a eficácia e minimizar 
+o risco de toxicidade, sendo está estratégia uma forma de monitoramento dos pacientes 
+(MARTINS; STARLING; BORGES, 1999; CHAMBERS, 2010).   
+A idade do paciente mostrou -se uma variá vel interessante para análise de 
+frequência de IM na UTI pediátrica estudada. De acordo com a distribuição por faixa etária 
+dos pacientes envolvidos em IMs, observamos que, com o aumento da idade dos pacientes, 
+houve um maior número de IMs possíveis pelas quais os pacientes estiveram expostos.  
+Estudos que investigaram a frequência das mesmas  IMs encontradas nesta 
+pesquisa citaram dados demográficos dos pacientes analisados. Porém, poucos relacionaram 
+faixa etária e a ocorrência das mesmas e nenhum era refe rente aos pacientes pediátricos.  
+Avaliando uma população diferente da nossa, autores investigaram as IMP em pacientes 
+assistidos em UTI e observaram que a idade superior ou igual a 60 anos foi fator de risco para 
+ocorrência de IMs (VIEIRA e et al., 2012; LIMA e CASSIANI, 2009). 
+O reduzido número de pacientes presentes na amostra  foi considerado uma 
+limitação deste estudo no que diz respeito à avaliação da prevalência de prescrição dos MPP 
+investigados e, consequentemente, seu envolvimento  em IMs . Nove MPP n ão estiveram 
+envolvidos em IM nem tampouco foram identifica dos nas prescrições pediátricas, incluindo:  
+cefalexina, cefotaxima, ceftazidima, digoxina, dopamina, heparina, imipenem associado à 
+cilastatina, penicilina e propranolol. Acredita -se, portanto, que este dado possa  ter sido 
+subestimado. 
+40 
+ 
+ 
+6. CONCLUSÕES 
+A maioria das prescrições realizadas para os pacientes pediátricos da UTI  
+continha ao menos um MPP, o que demonstrou significativa frequência de prescrição dos 
+mesmos. O midazolam foi o MPP mais preval ente nas pres crições pediátricas analisadas, o 
+que foi coerente com o fato de que a sedação é um recurso terapêutico frequente na UTIP 
+estudada. 
+Uma pequena parcela das prescrições avaliadas apresentou interações envolvendo 
+MPP e um número restrito de MPP foi responsável pela maioria destas. Apenas fenobarbital, 
+midazolam, sulfametoxazol associado à trimetoprima, gentamicina, furosemida e morfina 
+estiveram envolvidos em IMP em nosso estudo. O fenobarbital foi responsável pela maioria 
+das IM encontradas.  
+Observou-se que a vulnerabilidade dos pacientes a ocorrência de IMs foi 
+intensificada com o aumento da idade. No entanto , foi encontrada uma frequência de IM 
+surpreendentemente menor do que era esperado, sugerindo que o controle dos MPP na UTIP 
+estudada seja efetivo. É possível supor que estes medicamentos, em razão dos seus efeitos, 
+sejam mais sujeitos à vigilância, o que evitaria maior frequência de IMs.  
+O impacto da prevalência de IM s no contexto assistencial em UTI ganha maior 
+relevância quando acompanha do de informações que permitam associar a sua relevância 
+clínica. 
+Prescrições de medicamentos envolvidos em IM s, como os aqui descritos, 
+dependendo do quadro clínico do paciente, por vezes são inevitáveis. As prescrições que os 
+contenham devem ser analisadas por um farmacêutico clínico para a detecção prévia das IM s, 
+garantindo, sobretudo, que os pacientes sejam monitorados , visando prevenir os efeitos 
+decorrentes das mesmas, contudo, respeitando-se as indicações dos medicamentos prescritos. 
+Cabe ressaltar o papel do farmacêutico na equipe multidisciplinar  no 
+monitoramento dos pacientes em uso de MPP envolvido em IMs, promovendo uma 
+assistência segura aos mesmos. No campo estudado, viu -se que a correta monitoração do 
+pacientes assistidos na UTIP garante a minimização dos riscos aqui discutidos.  
+Não há como extrapolar ou considerar estes achados como representativos da 
+totalidade das UTIPs em nosso meio. Obviamente, estes resultados refletem a realidade de 
+uma unidade específica, devendo as demais ser analisa das dentro deste âmbito. No entanto, 
+entendemos ser importante veicular esta realidade, para que se possam comparar resultados. 
+41 
+ 
+Este estudo é uma contribuição para os dados farmacoepidemiológicos sobre a 
+prevalência de prescrição de MPPIP e de IMs envolven do os mesmos e gera questionamentos 
+quanto às manifestações clínicas das IM. 
+42 
+ 
+ 
+REFERÊNCIAS BILIOGRÁFICAS5 
+ 
+AIZENSTEIN, M. L. Fundamentos para o uso racional de medicamentos. São Paulo: 
+Artes Médicas, 2010. 198 p. 
+ 
+ 
+ASSAEL, B. M. Therapeutic orphans: european perspective. Pediatrics, Milan, v. 104, n. 3, 
+p. 591-593, Mar. 1998. 
+ 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: referências 
+bibliográficas. Rio de Janeiro, 1989. 19 p. 
+ 
+ 
+BARBOSA, A. P.; SZTAJNBOK, J. Distúrbios hidroeletroíticos. J. Pediatr. (Rio J), v. 75, 
+n. 2, p. s223-s33, Nov. 1999. 
+ 
+ 
+BARTOLOME, S. M.; CID, J. L. H.; FREDDI, N. Sedação e analgesia em crianças: uma 
+abordagem prática para as situações mais frequentes. J. Pediatr. (Rio J.), Porto Alegre, v. 
+83, n. 2, p. S71-S82, supl. Mai  2007. 
+ 
+ 
+BICUDO, J. N. et al. Síndrome de abstinência associada à interrupção da infusão de 
+fentanil e midazolam em pediatria. Rev. Assoc. Med. Bras.,  São Paulo,  v. 45, n. 1, p. 15-
+18, Mar. 1999.  
+ 
+ 
+BRASIL. Ministério da Saúde. Política Nacional de Medicamentos. Brasília: Ministério da 
+Saúde; 2001. 39 p. 
+ 
+ 
+CARVALHO, D. C. et al. Uso de medicamentos em crianças de zero a seis anos 
+matriculadas em creches de Tubarão. Ver Paul Pediatr., Santa Catarina, v. 26. n. 3, p. 238-
+244, Jun. 2008.  
+ 
+ 
+CARVALHO, P. R. A. et al. Identificação de medicamentos não apropriados para 
+crianças em UTI. Jornal de Pediatria. v. 79, n. 5, p. 397-402, Jun. 2003. 
+ 
+ 
+CARVALHO, R. E. F. L. et al. Prevalência de interações medicamentosas em unidades de 
+terapia intensiva no Brasil. Acta paul. enferm.,  São Paulo,  v. 26, n. 2, p. 150-157, 2013.  
+ 
+ 
+                                                
+5 De acordo com a Associação Brasileira de Normas Técnicas. NBR 6023. 
+43 
+ 
+CASTRO, C. G. S. O., coord. Estudos de utilização de medicamentos: noções básicas. Rio 
+de Janeiro: Fiocruz, 2000. 90 p. 
+ 
+ 
+CHAMBERS, H. F. Aminoglicosídeos. In.: GOODMAN, L. S.; GILMAN, A. As bases 
+farmacológicas da terapêutica. 11. ed. McGraw-Hill. Rio de Janeiro, 2010. 1844 p. 
+ 
+ 
+CHOONARA, I. Essential drugs for infants and children: european perspective. Pediatrics. 
+V. 104, n. 3, p. 606, Set.1999. 
+ 
+ 
+COHEN, M. R. Medication errors. 2nd. ed. Washington: American Pharmacists 
+Association, 2006. 680 p. 
+ 
+ 
+Committee of experts on management of safety and quality in health care: expert group 
+on safe medications practices. Glossary of terms related to patient and medications safety, 
+2010. Disponível em: 
+<http://www.who.int/patientsafety/highlights/COE_patient_and_medication_safety_gl.pdf>. 
+Acesso em: 16 abr, 2013. 
+ 
+ 
+CROZARA, M. A. Estudo do consumo de medicamentos em hospital particular. São 
+Paulo, 2001. 133 p. Dissertação (Mestrado em farmácia) - Faculdade de Ciências 
+Farmacêuticas, Universidade de São Paulo, São Paulo, 2001. 
+ 
+ 
+CRUCIOL-SOUZA, J. M.; THOMSON, J. C. A pharmacoepidemiologic study of drug 
+interactions in a Brazilian teaching hospital. Clinics, São Paulo, v. 61, n. 6, p. 515-520, 
+2006. 
+ 
+ 
+HAMMES, J. A. et al. Prevalência de potenciais interações medicamentosas droga-droga 
+em unidades de terapia intensiva. Rev. bras. ter. intensiva,  São Paulo,  v. 20,  n. 4, p. 349-
+354, Dez.  2008. 
+ 
+ 
+HOEFLER, R.; WANNMACHER, L. Interações medicamentosas. Editora MS. Ministério 
+da Saúde. Brasília, 2010. 29 p. 
+ 
+ 
+Institute for Safe Medication Practices. ISMP’s list of high-alert medications. Huntingdon 
+Valley (PA): ISMP; 2011. Disponível em: 
+<http://www.ismp.org/communityRx/tools/highAlert-community.pdf>. Acesso em: 8 mar. 
+2013. 
+ 
+ 
+Instituto para práticas seguras no uso de medicamentos. Medicamentos Potencialmente 
+Perigosos: conheça a lista de medicamentos de uso ambulatorial. Boletim Brasil, v. 2, n. 2, p. 
+44 
+ 
+1-2, Fev. 2013. Disponível em:  
+<http://www.boletimismpbrasil.org/boletins/pdfs/boletim_ISMP_16.pdf>. Acesso em: 9 abr, 
+2013. 
+ 
+ 
+Instituto para práticas seguras no uso de medicamentos. Medicamentos Potencialmente 
+Perigosos: saiba mais sobre a lista atualizada de medicamentos usados nos hospitais. Boletim 
+Brasil, vol2. n 1, p. 1-3, 2013. Disponível em: 
+<http://www.boletimismpbrasil.org/boletins/pdfs/boletim_ISMP_13.pdf>. Acesso em: 9 abr, 
+2013.  
+ 
+ 
+JACKSON, E. K. Diuréticos. In.: GOODMAN, L. S.; GILMAN, A. As bases 
+farmacológicas da terapêutica. 11. ed. McGraw-Hill. Rio de Janeiro, 2010. 1844 p. 
+ 
+ 
+KLAMT, J. G. et al. Efeitos Hemodinâmicos da Combinação de Dexmedetomidina-
+Fentanil Versus Midazolam-Fentanil em Crianças Submetidas à Cirurgia Cardíaca com 
+Circulação Extracorpórea. Rev Bras de Anestes. v. 60, n. 4, Ago. 2010. 
+ 
+ 
+LAGO, P. M. et al. Analgesia e sedação em situações de emergência e unidades de 
+tratamento intensivo pediátrico. J Pediatr (Rio J.), v. 79, suppl. 2, p. 223-230, Nov. 2003. 
+ 
+ 
+LEITE, S. N.; VIEIRA, M.; VEBER, A. P. Estudos de Utilização de medicamentos: uma 
+síntese de artigos publicados no Brasil e America Latina. Ciência e Saúde Coletiva. v. 13, 
+n. sup., p. 793-802, 2008. 
+ 
+ 
+LIBERATO, E. et al. Fármacos em crianças. Secretaria de Ciência, Tecnologia e insumos 
+estratégicos/MS – FTN, Brasília, 2008. 8 p. [Série B. Textos Básicos de Saúde] 
+ 
+ 
+LIMA, R. E. F.; CASSIANI S. H. B. Interações medicamentosas potenciais em pacientes 
+de unidade de terapia intensiva de um hospital universitário. Rev Latino-am Enferm., 
+v.17, n. 2, p. 222-228, Out. 2009. 
+ 
+MALGOR, L. A.; VALSECIA M. E. Farmacología médica: farmacocinética y 
+farmacodinamia en pediatria. Volumen 4, cap. 4, 2000. Disponível em: 
+<http://med.unne.edu.ar/catedras/farmacologia/temas_farma/volumen4/cap4_pediatric.pdf >. 
+Acesso em: abr de 2013. 
+ 
+ 
+MARTINS, M. A. P.; STARLING, S. M.; BORGES, S.A. Utilização de gentamicina no 
+tratamento de neonatos atendidos em uma maternidade pública da região metropolitana 
+de Belo Horizonte, Minas Gerais (1999). Rev. Bras. Cienc. Farm., São Paulo, v. 41, n. 1, p. 
+109-117, Mar.  2005. 
+ 
+ 
+45 
+ 
+MEADOWS, M. Drug research and children. FDA Consumer. Magazine. V. 37, n. 1, p. 12-
+19, Fev. 2003.  
+ 
+ 
+MEINERS, M. M. M. A.; BERGSTEN-MENDES, G. Prescrição de medicamentos para 
+crianças hospitalizadas: como avaliar a qualidade?. Rev. Assoc. Med. Bras., São Paulo,  v. 
+47,  n. 4, p. 332-337, Dez.  2001. 
+ 
+ 
+MELO, D. O.; RIBEIRO, E.; STORPIRTIS, S. A importância dos estudos de utilização de 
+medicamentos. Revista Brasileira de Ciências Farmacêuticas. v. 42, n. 4, p. 475-485, dez. 
+2006. 
+ 
+ 
+MENDES, W. et al. Revisão dos estudos de avaliação da ocorrência de eventos adversos 
+em hospitais. Rev. bras. epidemiol., v. 8, n. 4, p. 393-406, Dez. 2005.  
+ 
+ 
+MOURA, C. S.; RIBEIRO, A. Q.; MAGALHÃES, S. M. S. Avaliação de interações 
+medicamentosas potenciais em prescrições médicas do Hospital das Clínicas da 
+Universidade Federal de Minas Gerais (Brasil). Lat Am J Pharm., v. 26, n. 4, p. 596-60, 
+Abr. 2007. 
+ 
+ 
+OLIVEIRA, T. F.; LIMA-DELLAMORA, E. C. Interações potencialmente perigosas: 
+proposta de uma lista de referência para pediatria. Revista Brasileira de Farmácia 
+Hospitalar e Serviços de Saúde, 2013. No prelo. 
+ 
+ 
+OGA S. associação Medicamentosa. In: OGA, S. Medicamentos e suas interações: uso 
+racional de medicamentos. Atheneu, 2001. Cap. 1, p. 1-9. 
+ 
+ 
+ORGANIZAÇÃO MUNDIAL DE SAÚDE. Lá selecíon de medicamentos essenciales. 
+Genebra, OMS, 1977. 6p. (Séries Informes Técnicos, n. 616). 
+ 
+ 
+PEPE, V. L. E.; CASTRO, C. G. S. O. A interação entre prescritores, dispensadores e 
+pacientes: informação compartilhada como possível benefício terapêutico. Cad. Saúde 
+Pública, Rio de Janeiro, v. 16,  n. 3, p. 815-822, Set. 2000. 
+ 
+NEONATAL AND PEDIATRIC PHARMACISTS GROUP. Pediatric Intensive Care 
+Pharmacists Special Interest Group Neonatal and Pediatric Pharmacists Group . NPPG, 
+oct. 2011. 371 p. 
+ 
+ 
+REIS, A. M. M. et al. Errors in medicine administration - profile of medicines: knowing 
+and preventing. Acta paul. enferm.,  São Paulo,  v. 23,  n. 2, p. 181-186, Apr.  2010. 
+ 
+ 
+46 
+ 
+RODRIGUES-JUNIOR, G. R.; AMARAL, J. L. G. do. Experiência clínica com o uso de 
+sedativos em terapia intensiva: estudo retrospectivo. Rev. Bras. Anestesiol., Campinas, v. 
+52, n. 6, p. 747-755, Nov. 2002.  
+ 
+ROSA, M. B. Avaliação de intervenções educativas na prescrição de medicamentos 
+potencialmente perigosos, em três hospitais de Belo Horizonte. 2011. 146 p. Tese 
+(Doutorado em Medicina) – Faculdade de Medicina, Univesidade Federal de Minas Gerais, 
+Belo Horizonte, 2011. 
+ 
+ 
+ROSA, M. B. et al. Erros na prescrição hospitalar de medicamentos potencialmente 
+perigosos. Rev. Saúde Pública,  São Paulo,  v. 43,  n. 3, p. 490-498, Jun. 2009. 
+ 
+ 
+ROSA, M. B.; PERINI, E. Erros de medicação: quem foi?. Rev. Assoc. Med. Bras., São 
+Paulo, v.49, n.3, p. 335-341, 2003. 
+ 
+ 
+ROZENFELD, S.; VALENTE J. Estudos de Utilização de Medicamentos –Considerações 
+Técnicas Sobre Coleta e Análise de Dados. Epidemiologia e Serviços de Saúde, v. 13, n. 2, p. 
+115-123, Jun. 2004. 
+ 
+ 
+SAAVEDRA, I. S. S. et al. Farmacocinética de medicamentos de uso pediátrico, visión 
+actual. Rev. chil. pediatr., Santiago,  v. 79, n. 3, p. 249-258, jun.  2008 . 
+ 
+ 
+SANTOS, L. Medicamentos potencialmente perigosos, não aprovados e de uso off label 
+em prescrições pediátricas de um hospital universitário. Porto Alegre, 2009. 75 p. 
+Dissertação (Mestrado em Farmácia) – Faculdade de Farmácia, Universidade Federal do Rio 
+Grande do Sul, Rio Grande do Sul, 2009. 
+ 
+ 
+SBC. SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Cardiopatia congênita. 16 p. 
+Disponível em: 
+<http://educacao.cardiol.br/manualc/PDF/V_CARDIOPATIA_CONGENITA.pdf>. Acesso 
+em: 14 Nov de 2013. 
+ 
+SECOLI, S. R. Interações medicamentosas: fundamentos para a prática clínica da 
+enfermagem. Rev Esc Enf USP, v.35, n. 1, p. 28-34, 2001. 
+ 
+ 
+SFOGGIA, A. et al. A sedação e analgesia de crianças submetidas à ventilação mecânica 
+estariam sendo superestimadas?. J. Pediatr. (Rio J.),  Porto Alegre ,  v. 79, n. 4, Ago.  2003. 
+ 
+ 
+SILVA, T. H. Á.; ALVES, R. J.; PRADO, M. A. F. Gênese dos Fármacos. In: GOMES M. J. 
+V. M.; REIS A. M. M. Ciências farmacêuticas: uma abordagem em farmácia hospitalar. São 
+Paulo: Editora Atheneu, 2001. Cap. 1. 
+ 
+47 
+ 
+ 
+SILVA, A. E. B. C.; CASSIANI, S. H.B. Erros de medicação em hospital universitário: 
+tipo, causas, sugestões e providências. Rev. bras. enferm., Brasília, v. 57, n. 6, p. 671-674, 
+dez. 2004 . 
+ 
+ 
+SILVA, N. M. O., et al. Avaliação de potenciais interações medicamentosas em 
+prescrições de pacientes internadas, em hospital público universitário especializado em 
+saúde da mulher, em Campinas-SP. Rev. Ciênc. Farm. Básica Apl. V. 31, n. 2, p. 171-176, 
+2010. 
+ 
+ 
+SILVA, M. M. Estudo de utilização de medicamentos em unidade de internação 
+pediátrica de um hospital universitário. Porto Alegre, 2008. 20 p. Trabalho de conclusão 
+(disciplina de estágio curricular em farmácia) – Faculdade de Farmácia - Universidade 
+Federal do Rio Grande do Sul, Rio Grande do Sul, 2008. 
+ 
+ 
+SOARES, A. Q. et al. Avaliação das prescrições medicamentosas pediátricas de um 
+hospital de ensino. Rev Bras Farm Hosp Serv Saúde.São Paulo, v.3 n.1, p. 27-31, jan./mar. 
+2012. 
+ 
+ 
+SOUZA, M. C. P. et al. Estudo de utilização de medicamentos parenterais em uma 
+unidade de internação pediátrica de um hospital universitário. Revista Brasileira de 
+Ciências farmacêuticas. Vol. 44, n. 4, p. 675-682, out./dez., 2008. 
+ 
+ 
+TATRO, D. S, editor. Drug interaction facts. St. Louis: Facts and Comparisons, 2005. 
+ 
+ 
+TOFFOLETTO, M. C; PADILHA K. G. Consequências dos erros de medicação em 
+unidades de terapia intensiva e semi-intensiva. Rev Esc Enferm USP, São Paulo,  v. 40, n. 
+2, p. 247-252, Mar. 2005. 
+ 
+ 
+VELOSO, I. R.; TELLES-FILHO, P. C. P.; DURÃO, A. M. S. Identificação  e análise de 
+erros no preparo de medicamentos em uma unidade pediátrica hospitalar. Rev Gaúcha 
+Enferm. v. 32, n. 1, p. 93-102, 2011. 
+ 
+ 
+VIEIRA, L. B. et al. Interações medicamentosas potenciais em pacientes de Unidade de 
+Terapia Intensiva. Rev. De Ciências Farmacêuticas Básica e Aplicada, Ribeirão Preto, v. 33, 
+n. 3, p. 401-408, 2012. 
+ 
+ 
+WHO. Model Formulary for Children.World Health Organizations, 2010. 528 p. 
+Disponível em: <http://www.who.int/selection_medicines/list/WMFc_2010.pdf>. Acesso em: 
+22 abr. 2013. 
+ 
+48 
+ 
+ 
+WHO. World Health Organization, 2011. Disponível em: 
+http://www.whocc.no/atc/structure_and_principles/. Acesso em: 18 nov. 2013.

@@ -18,21 +18,66 @@
     "normalizacao de espacos",
     "normalizacao sem acentos para busca de cabecalhos"
   ],
-  "document_count": 10,
-  "processed_count": 10,
+  "document_count": 50,
+  "processed_count": 50,
   "error_count": 0,
-  "page_count_total": 706,
-  "normalized_text_length_total": 972163,
-  "normalized_text_length_mean": 97216.3,
+  "page_count_total": 3595,
+  "normalized_text_length_total": 5867001,
+  "normalized_text_length_mean": 117340.02,
   "section_detection_counts": {
-    "introduction": 10,
-    "results": 10,
-    "conclusion": 10
+    "introduction": 41,
+    "results": 40,
+    "conclusion": 36
   },
   "status_distribution": {
-    "ok": 10
+    "ok": 50
   },
   "documents": [
+    {
+      "document_id": "ABREU, D.M",
+      "pdf_path": "data\\raw\\ABREU, D.M.pdf",
+      "status": "ok",
+      "page_count": 156,
+      "text_length": 172946,
+      "normalized_text_length": 170478,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "ABREU, E. S. de",
+      "pdf_path": "data\\raw\\ABREU, E. S. de.pdf",
+      "status": "ok",
+      "page_count": 154,
+      "text_length": 180445,
+      "normalized_text_length": 176697,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "AFFSouza",
+      "pdf_path": "data\\raw\\AFFSouza.pdf",
+      "status": "ok",
+      "page_count": 133,
+      "text_length": 196023,
+      "normalized_text_length": 190899,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
     {
       "document_id": "AMDavid",
       "pdf_path": "data\\raw\\AMDavid.pdf",
@@ -40,6 +85,203 @@
       "page_count": 57,
       "text_length": 81337,
       "normalized_text_length": 81133,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "ASCCMBarros-min",
+      "pdf_path": "data\\raw\\ASCCMBarros-min.pdf",
+      "status": "ok",
+      "page_count": 51,
+      "text_length": 107032,
+      "normalized_text_length": 103809,
+      "available_sections": [
+        "conclusion"
+      ],
+      "missing_sections": [
+        "introduction",
+        "results"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "BAbreu",
+      "pdf_path": "data\\raw\\BAbreu.pdf",
+      "status": "ok",
+      "page_count": 74,
+      "text_length": 161542,
+      "normalized_text_length": 157426,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "BCAbreu",
+      "pdf_path": "data\\raw\\BCAbreu.pdf",
+      "status": "ok",
+      "page_count": 62,
+      "text_length": 123396,
+      "normalized_text_length": 120236,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "BMVRibeiro-min",
+      "pdf_path": "data\\raw\\BMVRibeiro-min.pdf",
+      "status": "ok",
+      "page_count": 74,
+      "text_length": 174878,
+      "normalized_text_length": 170449,
+      "available_sections": [
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "BSAbreu",
+      "pdf_path": "data\\raw\\BSAbreu.pdf",
+      "status": "ok",
+      "page_count": 39,
+      "text_length": 59986,
+      "normalized_text_length": 59882,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "CAbreu",
+      "pdf_path": "data\\raw\\CAbreu.pdf",
+      "status": "ok",
+      "page_count": 91,
+      "text_length": 196198,
+      "normalized_text_length": 190548,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "CAFAbreu",
+      "pdf_path": "data\\raw\\CAFAbreu.pdf",
+      "status": "ok",
+      "page_count": 43,
+      "text_length": 89385,
+      "normalized_text_length": 87330,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "CRAAbreu",
+      "pdf_path": "data\\raw\\CRAAbreu.pdf",
+      "status": "ok",
+      "page_count": 65,
+      "text_length": 98775,
+      "normalized_text_length": 97363,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "DAbreu",
+      "pdf_path": "data\\raw\\DAbreu.pdf",
+      "status": "ok",
+      "page_count": 66,
+      "text_length": 148056,
+      "normalized_text_length": 143524,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "DPAbreu",
+      "pdf_path": "data\\raw\\DPAbreu.pdf",
+      "status": "ok",
+      "page_count": 77,
+      "text_length": 170016,
+      "normalized_text_length": 165991,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "DSMAbreu",
+      "pdf_path": "data\\raw\\DSMAbreu.pdf",
+      "status": "ok",
+      "page_count": 81,
+      "text_length": 116818,
+      "normalized_text_length": 112081,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "EFAbreu",
+      "pdf_path": "data\\raw\\EFAbreu.pdf",
+      "status": "ok",
+      "page_count": 95,
+      "text_length": 139984,
+      "normalized_text_length": 139721,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "EFSAbreu",
+      "pdf_path": "data\\raw\\EFSAbreu.pdf",
+      "status": "ok",
+      "page_count": 33,
+      "text_length": 49601,
+      "normalized_text_length": 47094,
       "available_sections": [
         "conclusion",
         "introduction",
@@ -64,6 +306,52 @@
       "warning_count": 0
     },
     {
+      "document_id": "ESAbreu",
+      "pdf_path": "data\\raw\\ESAbreu.pdf",
+      "status": "ok",
+      "page_count": 38,
+      "text_length": 76421,
+      "normalized_text_length": 76416,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "EVAbreu",
+      "pdf_path": "data\\raw\\EVAbreu.pdf",
+      "status": "ok",
+      "page_count": 78,
+      "text_length": 98383,
+      "normalized_text_length": 98298,
+      "available_sections": [
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "FAguiar",
+      "pdf_path": "data\\raw\\FAguiar.pdf",
+      "status": "ok",
+      "page_count": 89,
+      "text_length": 206602,
+      "normalized_text_length": 199365,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
       "document_id": "FMRolim",
       "pdf_path": "data\\raw\\FMRolim.pdf",
       "status": "ok",
@@ -79,12 +367,87 @@
       "warning_count": 0
     },
     {
+      "document_id": "FSAbreu",
+      "pdf_path": "data\\raw\\FSAbreu.pdf",
+      "status": "ok",
+      "page_count": 114,
+      "text_length": 132548,
+      "normalized_text_length": 132482,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "GAMoreira",
+      "pdf_path": "data\\raw\\GAMoreira.pdf",
+      "status": "ok",
+      "page_count": 49,
+      "text_length": 88685,
+      "normalized_text_length": 85922,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "GDAmaral",
+      "pdf_path": "data\\raw\\GDAmaral.pdf",
+      "status": "ok",
+      "page_count": 60,
+      "text_length": 139166,
+      "normalized_text_length": 134011,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
       "document_id": "GGSouza",
       "pdf_path": "data\\raw\\GGSouza.pdf",
       "status": "ok",
       "page_count": 84,
       "text_length": 106065,
       "normalized_text_length": 105621,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "GMGonçalves",
+      "pdf_path": "data\\raw\\GMGonçalves.pdf",
+      "status": "ok",
+      "page_count": 58,
+      "text_length": 93078,
+      "normalized_text_length": 90129,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "GMPereira",
+      "pdf_path": "data\\raw\\GMPereira.pdf",
+      "status": "ok",
+      "page_count": 82,
+      "text_length": 141356,
+      "normalized_text_length": 137748,
       "available_sections": [
         "conclusion",
         "introduction",
@@ -124,6 +487,36 @@
       "warning_count": 0
     },
     {
+      "document_id": "HGVRocha",
+      "pdf_path": "data\\raw\\HGVRocha.pdf",
+      "status": "ok",
+      "page_count": 44,
+      "text_length": 104021,
+      "normalized_text_length": 102388,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "JPTentis",
+      "pdf_path": "data\\raw\\JPTentis.pdf",
+      "status": "ok",
+      "page_count": 81,
+      "text_length": 101952,
+      "normalized_text_length": 101532,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
       "document_id": "LCMarques",
       "pdf_path": "data\\raw\\LCMarques.pdf",
       "status": "ok",
@@ -139,12 +532,103 @@
       "warning_count": 0
     },
     {
+      "document_id": "LFSuett",
+      "pdf_path": "data\\raw\\LFSuett.pdf",
+      "status": "ok",
+      "page_count": 64,
+      "text_length": 136688,
+      "normalized_text_length": 133068,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
       "document_id": "LMFGaleno",
       "pdf_path": "data\\raw\\LMFGaleno.pdf",
       "status": "ok",
       "page_count": 96,
       "text_length": 129385,
       "normalized_text_length": 129053,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "LYHarita",
+      "pdf_path": "data\\raw\\LYHarita.pdf",
+      "status": "ok",
+      "page_count": 47,
+      "text_length": 56973,
+      "normalized_text_length": 55336,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "MATTA, J. C",
+      "pdf_path": "data\\raw\\MATTA, J. C.pdf",
+      "status": "ok",
+      "page_count": 52,
+      "text_length": 72501,
+      "normalized_text_length": 70591,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "MBNDias-min",
+      "pdf_path": "data\\raw\\MBNDias-min.pdf",
+      "status": "ok",
+      "page_count": 82,
+      "text_length": 228845,
+      "normalized_text_length": 201178,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "MBSTavares",
+      "pdf_path": "data\\raw\\MBSTavares.pdf",
+      "status": "ok",
+      "page_count": 46,
+      "text_length": 92623,
+      "normalized_text_length": 88778,
+      "available_sections": [
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "MCosta",
+      "pdf_path": "data\\raw\\MCosta.pdf",
+      "status": "ok",
+      "page_count": 58,
+      "text_length": 110674,
+      "normalized_text_length": 108069,
       "available_sections": [
         "conclusion",
         "introduction",
@@ -169,6 +653,97 @@
       "warning_count": 0
     },
     {
+      "document_id": "monopoli10008376",
+      "pdf_path": "data\\raw\\monopoli10008376.pdf",
+      "status": "ok",
+      "page_count": 102,
+      "text_length": 165615,
+      "normalized_text_length": 161038,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "monopoli10015726",
+      "pdf_path": "data\\raw\\monopoli10015726.pdf",
+      "status": "ok",
+      "page_count": 65,
+      "text_length": 91600,
+      "normalized_text_length": 91342,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
+      "document_id": "monopoli10017560",
+      "pdf_path": "data\\raw\\monopoli10017560.pdf",
+      "status": "ok",
+      "page_count": 65,
+      "text_length": 98827,
+      "normalized_text_length": 95256,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "NRVerly",
+      "pdf_path": "data\\raw\\NRVerly.pdf",
+      "status": "ok",
+      "page_count": 69,
+      "text_length": 129155,
+      "normalized_text_length": 121880,
+      "available_sections": [],
+      "missing_sections": [
+        "introduction",
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "NSahlit",
+      "pdf_path": "data\\raw\\NSahlit.pdf",
+      "status": "ok",
+      "page_count": 101,
+      "text_length": 159113,
+      "normalized_text_length": 154333,
+      "available_sections": [
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "PSantos",
+      "pdf_path": "data\\raw\\PSantos.pdf",
+      "status": "ok",
+      "page_count": 50,
+      "text_length": 108596,
+      "normalized_text_length": 104874,
+      "available_sections": [
+        "conclusion",
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [],
+      "warning_count": 0
+    },
+    {
       "document_id": "PVMNascimento",
       "pdf_path": "data\\raw\\PVMNascimento.pdf",
       "status": "ok",
@@ -182,6 +757,38 @@
       ],
       "missing_sections": [],
       "warning_count": 0
+    },
+    {
+      "document_id": "RPNogueira",
+      "pdf_path": "data\\raw\\RPNogueira.pdf",
+      "status": "ok",
+      "page_count": 39,
+      "text_length": 72528,
+      "normalized_text_length": 70986,
+      "available_sections": [
+        "introduction"
+      ],
+      "missing_sections": [
+        "results",
+        "conclusion"
+      ],
+      "warning_count": 1
+    },
+    {
+      "document_id": "TAGurgel",
+      "pdf_path": "data\\raw\\TAGurgel.pdf",
+      "status": "ok",
+      "page_count": 62,
+      "text_length": 149441,
+      "normalized_text_length": 146290,
+      "available_sections": [
+        "introduction",
+        "results"
+      ],
+      "missing_sections": [
+        "conclusion"
+      ],
+      "warning_count": 1
     }
   ]
 }

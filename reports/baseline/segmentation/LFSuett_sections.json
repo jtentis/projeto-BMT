@@ -1,0 +1,55 @@
+{
+  "available_sections": [],
+  "missing_sections": [
+    "introduction",
+    "results",
+    "conclusion"
+  ],
+  "sections": {},
+  "available_doco_labels": [
+    "doco:Discussion",
+    "doco:Results"
+  ],
+  "missing_doco_labels": [
+    "doco:Introduction",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Results": [
+      {
+        "header": "4.9 Teoria da anulabilidade (sistema austríaco) e teoria da nulidade (sistema norte-americano)",
+        "legacy_role": "results",
+        "start_char": 101,
+        "end_char": 102,
+        "content": "",
+        "content_length": 0
+      },
+      {
+        "header": "4.9 Teoria da anulabilidade (sistema austríaco) e teoria da nulidade (sistema norteamericano)",
+        "legacy_role": "results",
+        "start_char": 1217,
+        "end_char": 1225,
+        "content": "O sistema norte-americano alinhou-se a idéia de que o juiz não anula um ato normativo contrario a constituição, conforme CAPPELLETTI citado por LENZA: “... a lei inconstitucional, porque contrária a uma norma superior , é considerada absolutamente nula (‘null and void’) e, por isto, ineficaz, pelo que o juiz, que exerce o poder de controle, não anula, mas, meramente, declara (preexistente) nulidade da lei inconstitucional”. 76 Contudo, no sistema austríaco, diferentemente do sistema americano, vigora a tese que",
+        "content_length": 516
+      }
+    ],
+    "doco:Discussion": [
+      {
+        "header": "4.11 Brevíssima análise da evolução do controle de constitucionalidade no direito brasileiro",
+        "legacy_role": "results",
+        "start_char": 103,
+        "end_char": 112,
+        "content": "4.11.1 Constituição de 1824 4.11.2 Constituição de 1891 4.11.3 Constituição de 1934 4.11.4 Constituição de 1937 4.11.5 Constituição de 1946 4.11.6 Constituição de 1967 e EC n. 1/69 4.11.7 Constituição de 1988 CAPÍTULO 5 – ATIVISMO JUDICIAL",
+        "content_length": 239
+      },
+      {
+        "header": "4.11 Brevíssima análise da evolução do controle de constitucionalidade no direito",
+        "legacy_role": "results",
+        "start_char": 1281,
+        "end_char": 1336,
+        "content": "brasileiro 4.11.1 Constituição de 1824 A Constituição Imperial de 1824 não estabeleceu nenhum sistema de controle de constitucionalidade. Segundo o professor PEDRO LENZA, tal constituição consagrou o “dogma da soberania do Parlamento , já que, sob a influência do direito francês ( a lei como “expressão da vontade geral” ) e do inglês ( supremacia do Parlamento ), somente o Órgão Legislativo poderia saber o verdadeiro sentido da norma”. Contudo, segundo o magistério de Clèmerson Merlin Clève: “não foi apenas o dogma da soberania do Parlamento que impediu a emergência da fiscalização jurisdicional da constitucionalidade no Império. O Imperador, enquanto detentor do Poder Moderador, exercia uma função de coordenação; por isso, cabia a ele (art. 98) manter a ‘independência, o equilíbrio e a harmonia entre os demais poderes’. Ora, o papel constitucional atribuído ao Poder Moderador, ‘chave de toda 80 ______________________________________________20. ed. São Paulo: Saraiva, 2016. p. 377 49 a organização política’ nos termos da Constituição, praticamente inviabilizou o exercício da função de fiscalização constitucional pelo Judiciário. Sim, porque, nos termos da Constituição de 1824, ao Imperador cabia solucionar os conflitos envolvendo os Poderes, e não ao Judiciário”. Portanto, completa o ilustre jurista, “o dogma da ‘soberania do Parlamento’, a previsão de um Poder Moderador e mais a influência do direito público europeu, notadamente inglês e francês, sobre os homens públicos brasileiros, inclusive os operadores jurídicos, explicam a inexistência de um modelo de fiscalização jurisdicional da constitucionalidade das leis no Brasil ao tempo do Império”. 81 4.11.2 Constituição de 1891 Com o fim do império e ascensão da república, constitui-se, sob a influência do direito norte-americano, a primeira constituição republicana do Brasil, em 1891. Como dito, tal carta foi influenciada pelo constitucionalismo norte-americano, sendo assim, “consagrou o controle de constitucionalidade difuso, repressivo, posterior, ou aberto, pela via de exceção ou defesa, pelo qual a declaração de inconstitucionalidade se implementa de modo incidental ( incidenter tantum), prejudicialmente ao mérito”. Lenza 38082 GILMAR MENDES deu destaque ao que leciona RUI BARBOSA, em 1893, sobre o controle difuso de constitucionalidade, inovação trazida pela constituição de 1891: “O único lance da Constituição americana, onde se estriba ilativamente o juízo, que lhe atribui essa intenção, é o do art. III, seç. 2ª, cujo teor reza assim: ‘O poder judiciário estender-se-á a todas as causas, de direito e equidade, que nasceram desta Constituição, ou das leis dos Estados Unidos’. Não se diz aí que os tribunais sentenciarão sobre a validade, ou invalidade, das leis. Apenas se estatui que conhecerão das causas regidas pela Constituição, como conformes ou contrárias a ela. Muito mais concludente é a Constituição brasileira. Nela não só se prescreve que ‘Compete aos juízes ou tribunais federais processar e julgar as causas, em que alguma das partes fundar a ação, ou a defesa, em disposição da Constituição Federal’ (art. 60, a); como, ainda, que ‘Das sentenças das justiças dos Estados em última instância haverá recurso para o Supremo Tribunal Federal, quando se questionar sobre a validade de tratados e leis federais, e a decisão do tribunal do Estado for contrária (art. 59, § 1º, a)’. A redação é claríssima. Nela se reconhece, não só a competência das justiças da União, como a das justiças dos Estados, para conhecer da legitimidade das leis perante a Constituição. Somente se estabelece, a favor das leis federais, a garantia de que, sendo contrária à subsistência delas a decisão do tribunal do Estado, o feito pode passar, por via de recurso, para o Supremo Tribunal Federal. Este ou revogará a sentença, por não procederem as razões de nulidade, ou a confirmará pelo motivo oposto. Mas, numa ou noutra hipótese, o princípio fundamental é a autoridade reconhecida expressamente no texto constitucional, a todos os tribunais, federais, ou locais, de discutir a constitucionalidade das leis da",
+        "content_length": 4104
+      }
+    ]
+  }
+}

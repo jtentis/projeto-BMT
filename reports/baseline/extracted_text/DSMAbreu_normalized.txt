@@ -1,0 +1,2141 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+ESCOLA DE QUÍMICA
+Classificação de Área em Unidade de
+Produção e Processamento de
+Petróleo Offshore
+Denys Schmidt Marques Abreu
+Monografia em Engenharia Química
+ORIENTADOR
+PROF. CARLOS ANDRÉ VAZ JÚNIOR, D.SC.
+Março de 2014
+2
+CLASSIFICAÇÃO DE ÁREA EM UNIDADE DE
+PRODUÇÃO E PROCESSAMENTO DE PETRÓLEO
+OFFSHORE
+Denys Schmidt Marques Abreu
+Monografia em Engenharia Química submetido ao Corpo Docente da Escola
+de Química, como parte dos requisitos necessários à obtenção do grau de
+Engenheiro Químico.
+Aprovado por:
+________________________________________________
+Denize Dias de Carvalho, D.Sc.
+________________________________________________
+Suzana Borschiver, D.Sc.
+________________________________________________
+Thaís Márcia Gomes da Silveira, Eng.
+Orientado por:
+________________________________________________
+Prof. Carlos André Vaz Junior, D.Sc.
+Rio de Janeiro, RJ – Brasil
+Março de 2014
+3
+Schmidt Marques Abreu, Denys.
+Classificação de Área em Unidade de Produção e Processamento de
+Petróleo Offshore. / Denys Schmidt Marques Abreu. Rio de Janeiro:
+UFRJ/EQ, 2014.
+xiii, 64 p., il.
+(Monografia - Universidade Federal do Rio de Janeiro, Escola de Química,
+2014.
+Orientador: Carlos André Vaz Junior
+Monografia em Engenharia Química – UFRJ/ EQ/ Engenharia Química,
+2014.
+1. Segurança de Processos 2. Classificação de Áreas 3. Atmosfera
+Explosiva 4. Monografia(Graduação - UFRJ/EQ) 5. Carlos André Vaz Junior
+. I. Classificação de Área em Unidade de Produção e Processamento de
+Petróleo Offshore.
+4
+“A mente que se abre a uma nova idéia jamais voltará ao seu tamanho
+original.”
+(Albert Einstein)
+”Cem por cento do que somos e vivemos, inclusive o que supomos ser
+acidentes e tragédias, é completamente fruto de nossas escolhas e opções.”
+(Ernandi Fornati)
+5
+AGRADECIMENTOS
+Aos meus pais, Carlos e Vânia, e às minhas irmãs, Ingrid e Monique, pelo suporte e
+amor incondicional em todos os momentos. Pela força e motivação, essenciais para
+que esta conquista fosse possível.
+Aos meus amigos, sem citar nomes para não deixar ninguém de lado, por todo
+suporte durante esse anos todos juntos. Obrigado por sempre ente nderem minha
+ausência quando necessário e por todo companheirismo independente do que
+precisei.
+Aos amigos da Escola de Químic a, pela amizade cultivada e desafios
+compartilhados desde o primeiro período do curso e por tornar em todos esses anos
+mais fáceis de serem levados.
+Aos amigos e colegas de trabalho da White Martins, Raízen e Vale, por todo o
+ensinamento compartilhado nesse período inicial.
+Ao orientador desse trabalho, Carlos André, por auxiliar nesse desafio e por ter
+guiado, com paciência, à conclusão de mais esta etapa do nosso processo de
+aprendizado.
+À Escola de Química da UFRJ, que, com sua grande estrutura e excelentes
+mestres, me proporcionou crescimento pessoal e profissional.
+E principalmente a Deus, por ser presente em todas as conquistas e momentos da
+minha vida, me guiando pelo melhor caminho.
+Denys Schmidt M. Abreu
+6
+Resumo do Projeto Final de Curso apresentado à Escola de Química/UFRJ
+como parte dos requisitos necessários para a obtenção do grau de
+Engenheiro Químico.
+CLASSIFICAÇÃO DE ÁREA EM UNIDADE DE PRODUÇÃO E
+PROCESSAMENTO DE PETRÓLEO OFFSHORE
+Denys Schmidt Marques Abreu
+Março, 2014.
+Orientador: Prof. Carlos André Vaz Junior, D.Sc.
+A indústria de Óleo e Gás apresenta -se em constante crescimento,
+principalmente no mercado brasileiro , sendo considerada um mercado
+promissor para os próximos anos. Assim como qualquer outra, a indústria
+offshore opera seguindo rigorosos regimes de segurança de processos e
+operações. A ocorrência de acidentes industriais é um ponto impo rtante na
+operação de uma planta. Tant o a segurança dos operadores, quanto a
+segurança dos processos nela ocorrentes são fatores cruciais nas tomadas
+de decisões. O objetivo desse trabalho foi a aplicação de diferentes normas
+para classificação de áreas em atmosferas explosivas afim de compará-las. A
+norma API 505 e a norma NFPA 497 foram aplicadas em alguns
+equipamentos existentes em uma plataforma FPSO. Foram selecionados oito
+tipos de equipamentos diferentes para a ap licação das normas escolhidas.
+Após as aná lises das condições de operação de cada equipamento, foram
+produzidas imagens representando as áreas classificadas . A primeira
+imagem gerada foi baseada na norma API 505, enquanto a segunda baseada
+na norma NFPA 497. Comparando as imagens geradas pode-se confirmar a
+maior especificidade da norma NFPA 497, pois esta leva em consideração as
+condições de processo, enquanto a norma API 505, apesar de sua maior
+facilidade de aplicação, é considerada mais generalista. A dificuldade de
+obter informações precisas quanto as condições de operação dos
+equipamentos, devido à confidencialidade, pode ter comprometido alguns dos
+resultados obtidos, porém, não invalida a comparação entre as normas.
+7
+Sumário
+1. Introdução ................................................................................................. 9
+1.1. Petróleo ............................................................................................. 9
+1.2. Petróleo no Brasil ............................................................................ 10
+1.3. Classificação Elétrica de Áreas ....................................................... 11
+2. Objetivo .................................................................................................. 12
+3. Conceitos Gerais Sobre a Indústria Offshore ......................................... 13
+3.1. Plataformas Offshore ....................................................................... 14
+3.1.1. Plataforma Fixa ........................................................................ 15
+3.1.2. Plataforma Auto-Elevável ......................................................... 16
+3.1.3. Plataforma Semissubmersível .................................................. 16
+3.1.4. Plataforma “Tension Leg” ......................................................... 18
+3.1.5. Plataforma FPSO ..................................................................... 19
+4. Conceitos Gerais Sobre Classificação Elétrica de Áreas ....................... 20
+4.1. Instituições Normativas.................................................................... 21
+4.1.1. International Electrotechnical Comission (IEC) ........................ 21
+4.1.2. American Petroleum Institute (API) .......................................... 21
+4.1.3. National Fire Protection Association (NFPA) ............................ 22
+4.2. Definições Gerais ............................................................................ 22
+4.2.1. Tetraedro do Fogo .................................................................... 22
+4.2.2. Características do Combustível ................................................ 23
+4.2.3. Líquido Combustível X Líquido Inflamável ............................... 24
+4.2.4. MESG – Maximum Experimental Safe GAP ............................. 25
+4.2.5. MIC – Minimum Ignition Current ............................................... 26
+5. Fundamentos das Normas de Classificação de Áreas ........................... 27
+5.1. Zonas .............................................................................................. 27
+5.2. Grupos ............................................................................................. 28
+5.3. Ventilação ........................................................................................ 29
+5.4. Extensão das Zonas ........................................................................ 29
+5.4.1. Determinação da extensão de Áreas Classificadas ................. 29
+5.4.1.1. Densidade Relativa de Vapor do Material .............................. 29
+5.5. Interseção entre Áreas Classificadas .............................................. 31
+5.6. Fonte de Risco ................................................................................ 31
+6. Método de Classificação de Áreas ......................................................... 33
+6.1. API 505 ............................................................................................ 33
+6.2. NFPA 497 ........................................................................................ 34
+6.2.1. Diagramas ................................................................................ 35
+6.2.2. Procedimento de Classificação ................................................ 35
+7. FPSO ...................................................................................................... 37
+7.1. Caracterização da FPSO ................................................................. 37
+7.1.1. Detalhamento dos Sistemas de Processamento da FPSO ...... 37
+8. Estudo de Caso ...................................................................................... 43
+8.1. Análise Total da planta industrial ..................................................... 43
+8.1.1. Escolha dos Equipamentos ...................................................... 44
+9. Resultados e Discussões ....................................................................... 59
+9.1. Bomba do Separador Teste ............................................................. 59
+9.2. Hidrociclone do Separador de Produção ......................................... 60
+8
+9.3. Safety Gas Cooler ........................................................................... 61
+9.4. Lançadores/Receptores de PIG ...................................................... 62
+9.5. Separador de Produção................................................................... 62
+9.6. Desidratador de Óleo ...................................................................... 63
+9.7. Vaso de Rejeito Oleoso ................................................................... 64
+10. Conclusão ........................................................................................... 66
+Referência Bibliográfica ................................................................................. 67
+Anexo A- Layout da FPSO..............................................................................69
+Anexo B- Condições de Operação dos Equipamentos...................................70
+9
+1. Introdução
+1.1. Petróleo
+Do latim petroleum, petrus, pedra e oleum, óleo, óleo da pedra; o
+petróleo tem como característica ser uma substância oleosa, inflamável,
+geralmente menos densa que a água, com cheiro característico e coloração
+que pode variar do incolor ou castanho claro ao preto, passando por verde e
+marrom, dependendo das características de sua formação. (THOMAS, 2001)
+Constituído basicamente por uma mistura de compostos orgânicos que
+vai desde hidrocarbonetos simples passando por elementos químicos como
+enxofre, nitrogênio e alguns metais, sua origem está ligada basicamente à
+decomposição de organismos em suspensão nas águas doces ou salgadas,
+causadas pela pouca oxigenação e pela ação de bactérias ao longo de
+milhares de anos. (NETO, 2014)
+O momento exato em que o petróleo despertou a atenção do homem
+não é conhecido ao certo, contudo o seu uso remonta aos primórdios da
+civilização. Os egípcios o utilizavam para embalsamar os mortos e para a
+construção de pirâmides, enquanto que os gregos e os romanos lançavam
+mão do mesmo para fins bélicos.
+Segundo BRET-ROUZAT e FAVANNEC (2011), a partir do século XIX,
+os primeiros poços petrolíferos foram perfurados, culminando com uma
+corrida desenfreada pelo “ouro negro”, como o petróleo ficou conhecido. Com
+o advento dos meios de transporte e da tecnologia, aliado ao crescimento da
+população, o petróleo tornou -se indispensável para a geração de energia.
+Seus derivados passaram a ser utilizados com intuito de suprir diferentes
+necessidades do consumo mundial.
+Muitos países produtores de petróleo, como os Estados Unidos,
+possuem a maior parte de suas reservas onshore. Este fat o fez com que
+algumas tecnologias desenvolvidas mundialmente não se aplicassem
+perfeitamente à realidade do Brasil, que possui a maior parte de suas
+reservas offshore. Assim, foram necessários altos investimentos em pesquisa
+e desenvolvimento para obtenção de know how nesta área – especialmente
+em águas profundas.
+O petróleo é um dos principal recurso energético do planeta segundo
+dados de planejamento do Ministério de Minas e Energia em 2013 . Dele são
+extraídos derivados como a gasolina, diesel, GLP (Gás Liquefeito de
+Petróleo), produtos asfálticos, nafta petroquímica, querosene, solventes,
+óleos combustíveis, óleos lubrificantes, entre outros, estabelecendo-se assim
+como um relevante componente na economia da sociedade mundial. De ssa
+forma, o petróleo torna-se uma das mais importantes substâncias negociadas
+entre países e corporações.
+Segundo MARQUES (2010), a pesar da atratividade financeira dess e
+setor, os riscos associados são elevados. O manuseio de fluidos inflamáveis,
+operações ocorrendo em altas pressões e a elevad a complexidade do
+processamento são alguns fatores que oneram essa operação e ger am
+preocupação quanto a segurança do processo como um todo. Pequenos e
+médios vazamentos de líquidos ou gases inflamáveis podem apresentar
+potencial para formar nuvens inflamáveis ou explosivas em contato com o ar
+10
+e na presença de fonte de ignição. Diverso s acidentes graves na indústria
+offshore foram iniciados ou agravados por incêndios ou explosões de nuvens.
+1.2. Petróleo no Brasil
+No Brasil, segundo THOMAS (2001), a história do petróleo começou
+em 1858, quando o Marquês de Olinda concedeu a José de Barros Pimentel
+o direito de extrair betume em terrenos situados nas margens do rio Marau,
+na Bahia.
+As primeiras concessões e os primeiros poços tinham por objetivo
+procurar combustível para iluminação. A primeira sondagem profunda de que
+se tem notícia foi realizada no final do século XIX, entre 1892 e 1897, na
+localidade de Bofete, no Estado de São Paulo, pelo fazendeiro de Campinas,
+Eugênio Ferreira de Camargo. Considerado o primeiro poço perfurado para a
+exploração de petróleo no Brasil, atingiu quase 500 metros de profundidade e
+deixou uma dúvida: relatos da época dizem que o poço teria recuperado dois
+barris de petróleo, fato que nunca foi confirmado. Em 1930, dep ois de
+vários poços perfurados sem sucesso em alguns estados brasileiros, o
+engenheiro agrônomo Manoel Inácio Bastos tomou conhecimento que os
+moradores de Lobato, na Bahia, usavam uma "lama preta", oleosa, para
+iluminar suas residências. A partir desta in formação, várias pesquisas e
+coletas de amostras da lama oleosa foram realizadas. Contudo, não se
+obteve êxito em chamar a atenção das pessoas influentes da época. Apenas
+em 1932, Manoel Inácio Bastos foi recebido pelo presidente Getúlio Vargas,
+no Rio de Janeiro. Na ocasião, o engenheiro agrônomo entregou ao
+presidente da República um relatório sobre a presença da substância em
+Lobato. (CASANOVA, 2008)
+Poucos anos depois, em 1938, toda a atividade petrolífera passou, por
+lei, a ser obrigatoriamente realizada por brasileiros, e em 29 de abril de 1938,
+foi criado o Conselho Nacional do Petróleo (CNP), para avaliar os pedidos de
+pesquisa e lavra de jazidas de petróleo. O decreto que instituiu o CNP
+também declarou de utilidade pública o abastecimento nacional de petróleo e
+regulou as atividades de importação, exportação, transporte, distribuição e
+comércio de petróleo e derivados, além do funcionamento da indústria do
+refino. Mesmo ainda não localizadas, as jazidas passaram a ser
+consideradas como patrimônio da União. A criação do CNP marca o início de
+uma nova fase da história do petróleo no Brasil. (THOMAS, 2001)
+Após as descobertas na Bahia, as perfurações prosseguiram em
+pequena escala. Até que, em 3 de outubro de 1953 o presidente Getúlio
+Vargas assinou a Lei 2004, que instituiu o monopólio estatal da pesquisa e
+lavra, refino e transporte do petróleo e seus derivados criando também a
+empresa Petróleo Brasileiro S.A. - Petrobrás. (MINADEO, 2002)
+No Brasil a maior parte da produção e das reservas provadas de óleo
+e gás estão localizadas no mar, muitas vezes afastadas da costa e em
+grandes profundidades , como no caso do pré -sal. A exploração destas
+reservas exige um grande investimento em pesquisa e equipamento s. Sua
+viabilidade econômica é função do preço do petróleo no mercado
+internacional.
+Os reservatórios com descobertas mais recentes vem sendo ofertados
+em leilões, com participação de grandes empresas internacionais e nacionais,
+11
+com o intuito de viabilizar a produçã o e expl oração dos mesmo s. A
+exploração deve, ainda, gerar ofertas de empregos no país, e possibilidade
+de trabalhar com tecnologias inovadoras. A localização de reservatórios em
+grandes profundidades, e afastados da costa, limita a exploração e requer um
+investimento cada vez mais alto em pesquisa.
+1.3. Classificação Elétrica de Áreas
+A listagem de acidentes envolvendo operações offshore vai desde
+vazamentos comprometendo o meio ambiente equipamentos operando de
+forma indevida , até grandes incêndios e explosões. Os investimentos em
+pesquisa e equipamentos de segurança são cada vez maiores, a fim de
+aumentar a segurança e reduzir custos de remedição de acidentes.
+(CASANOVA, 2008)
+A classificação de área se enquadra nesse objetivo, uma vez que
+através de la pode -se analisar o tipo de equipamento e processamento, e
+assim, determinar possíveis áreas de segurança.
+Segundo CRUZ (2012), c lassificar uma ár ea significa elaborar uma
+planta que define, entre outras coisas, a região dentro do qual pode ocorrer a
+mistura inflamável. Tendo definido esse volume de r isco, consegue-se traçar
+planos instalação de equipamentos elétricos, tentando evitar possíveis fontes
+de ignição nessas áreas.
+12
+2. Objetivo
+O objetivo desse trabalho consiste em aplicar duas das principais
+normas vigentes quanto a classificação de áreas elétricas em uma plataforma
+de petróleo offshore. A partir da aplicação de normas distintas em um mesmo
+processo pode-se realizar uma análise sobre as vantagens e desvantagens
+de cada abordagem. Serão aplicadas a norma emitida pela NFPA e aquela
+emitida pela API. Enquanto esta dirige -se especificamente a indústria de
+petróleo, a NFPA tem caráter generalista. Devido as condições operacionais
+severas no setor de petróleo, pode -se supor que as normas API será sempre
+rigorosas, gerando amplas áreas classificadas. Por outro lado, o caráter
+generalista da NFPA pode mostrar -se inadequado para plantas
+petroquímicas, gerando áreas pequenas demais. Deste m odo, o objetivo
+desde estudos é comparar as normas e analisar suas características e
+limitações.
+A razão da escolha dessas duas normas é devida a praticidade de
+aplicação das mesmas e adequação ao cenário escolhido. A Norma API 505
+é especifica para a indústria do petróleo, por esse motivo foi a primeira opção
+de escolha para ser aplicada, além da sua facilidade de aplicação. A Norma
+NFPA 497 é aplicável a qualquer cenário industrial e possui estudos de fácil
+entendimento que explicitam seu uso, que foram usados como referencia
+nesse estudo. Vale ressaltar a relevância das normas criadas pela IEC,
+órgão que será detalhado ao longo do trabalho. Entretanto, não foram
+utilizadas normas IEC nesse estudo devido a sua complexidade de aplicação
+e necessidade de simulações tendo visto a dificuldade de obtenção de dados
+operacionais.
+13
+3. Conceitos Gerais Sobre a Indústria Offshore
+Tendo seu início entre as décadas de 30 e 50, a indústria offshore
+começou a ser viabilizada primeiramente na Venezuela e no Golfo do México.
+A partir de então, a exploração expandiu -se para águas europeias . Ocorreu
+então a formação do primeiro bloco de empresas nesta segmentação, entre
+elas Shell, Exxon, Texaco e AGIP. (CASANOVA, 2008)
+No Brasil, ao final da década de 50, obteve -se, com o auxílio de
+análises geográficas, o conhecimento de que o país possuía reservas de
+petróleo em profundidade marítima, sem a definição precisa dos locais.
+Dezoito anos mais tarde, a confirmação ocorreu através da descoberta
+do primeiro po ço offshore no Cmapo de Guaracema . Ainda no mesmo ano
+uma primeira perfuração foi realizada na Bacia de Campos, no Rio de Janeiro,
+chamado de Campo de Garoupa. Entretanto, mesmo com a evolução dessas
+descobertas, os efeitos econômicos e de exploração ainda eram pequenos,
+em virtude das tecnologias existentes não serem condizentes com a
+realidade offshore brasileira. (CASANOVA, 2008)
+Segundo MORAIS, a evolução dos programas de pesquisa em
+tecnologia offshore no Brasil começou a avançar após 1986, depois da
+criação do PROCAP (Programa de Capacitação Tecnológica em Águas
+Profundas) pela Petrobras, viabilizando um maior rendimento da produção.
+Junto ao programa, os centros de pesquisas da Petrobras, em
+colaboração com os centros tecnológicos de universidades brasileiras,
+permitiram um avanço considerável na produção petrolífera . Com a
+descoberta do pré -sal, a indústria petrolífera offshore encontra-se voltada
+para esse novo desafio tecnológico.
+A Figura 1 esquematiza a evolução da exploração brasileira de
+petróleo.
+Figura 1: Evolução da exploração de petróleo
+Fonte: Site Petrobras
+14
+3.1. Plataformas Offshore
+As plataformas são estruturas fixas ou flutuantes de produção,
+transferência e armazenamento de petróleo, que suportam as instalações do
+Topside, convés, onde está loca lizado o processamento primário e o núcleo
+de perfuração.
+Existem diversos sistemas de produção em operação no mundo e sua
+escolha depende das características de onde será instalado. A seleção da
+plataforma deve satisfazer requisitos técnicos e tem uma forte influência
+sobre o custo total do projeto, impactando na sua viabilidade econômica.
+Entre os tipos de plataforma para exploração offshore atualmente disponíveis
+estão: (CASANOVA, 2008)
+ Plataforma Fixa
+Jaquetas (Jackets)
+GBS (Gravity Based Structure)
+Compliant Tower
+ Auto-elevável
+ Semissubmersível e SPAR
+ Tension Leg Plataform (TLP)
+ FPSO (Floating, Production, Storage and Offloading)
+No Brasil são utilizadas FPSOs e plataformas semissubmersíveis para
+exploração em águas profundas. P ara esse trabalho especificamente será
+avaliada uma plataforma do tipo FPSO.
+Na F igura 2 pode-se observar alguns dos diferentes tipos de
+plataforma explicitados previamente. Sendo as numeração 1, 2 e 10 do tipo
+plataforma fixa; 3 do tipo Compliant tower ; 4 e 5 são plataformas Tension
+Leg; a plataforma de numeração 6 é do tipo SPAR; as 7 e 8 são pla taformas
+semissubmersíveis, enquanto a FPSO é identificada na figura com o numero
+9.
+Figura 2: Tipos de plataformas
+FONTE: Site Canal Jornal 16
+15
+3.1.1. Plataforma Fixa
+A plataforma f oi o primeiro tipo de plataforma a ser utilizada. A
+plataforma fixa é projetada para receber todos os equipa mentos de
+perfuração, estocagem de materiais, alojamento de trabalhadores e as
+instalações necessárias para a produção dos poços. Entretanto, não possui
+capacidade para estocage m de petróleo ou gás, tendo que enviar es tes
+produtos para o continente ou para outra embarcação, através de tubulações
+(oleodutos e gasodutos). A sua estrutura pode ser metálica o u de concreto.
+(SARACENI, 2a Edição)
+Geralmente, são constituídas de estruturas modulares de aço que são
+instaladas no local da operação sob estruturas denominadas Jaquetas
+(Jackets), que contém estacas presas no leito marinho. Este tipo de
+plataforma é o mais utilizado em campos localizados em lâminas d'água de
+até aproximadamente 200 metros.
+Outro tipo de plataforma fixa é a GBS ( Gravity Based Structure ).
+Devido ao sistema de ancoragem, que utiliza o peso da própria plataforma,
+ela é tecnicamente viável apenas para pequenas profundidades (de 25 a 150
+m). Pode ser projetada para suportar condições ambientais severas on de é
+submetida a forças sísmicas, das ondas e do gelo. É projetada
+especificamente para cada poço , pois leva em consideração fatores como o
+volume de óleo estocado, profundidade da lâmina de água e dimensões do
+convés. (SARACENI, 2a Edição)
+A plataforma do tipo Compliant Tower é técnica e economicamente
+competitiva para lâminas d’água que variam de 300 a 600 m, onde
+plataformas do tipo jaqueta não são aplicáveis. Ela é pro jetada para ser mais
+flexível que as plataformas fixas tradicionais , tendo melhor resposta a
+perturbações ambientais.
+A Figura 3 retrata a plataforma de Mexilhão (PMXL -1), do tipo jaqueta
+fixa.
+Figura 3: Plataforma de Mexilhão (PMXL-1)
+FONTE: Site Rio Grande Offshore
+16
+3.1.2. Plataforma Auto-Elevável
+As plataformas auto-eleváveis, ou “Jack-Up”, consistem em uma balsa
+com uma estrutura de apoio ou pernas que são acionadas mecânica ou
+hidraulicamente e que se movimentam para baixo até atingirem o fundo do
+mar. Em seguida, inicia-se a elevação, ficando localizada acima do nível da
+água, a uma altura suficientemente grande para evitar a ação das ondas na
+mesma, conforme representado na F igura 4. Estas plataformas são móveis,
+sendo transportadas por rebocadores ou por propulsão própria. Destinam -se
+a perfuração de poços ex ploratórios em l âminas d’água de 5 a 130 metros.
+(SARACENI, 2a Edição)
+Figura 4: Plataforma Auto-elevável
+FONTE: Site Portal Marítimo
+3.1.3. Plataforma Semissubmersível
+A plataforma semissubmersível , como é o caso da P -55 no Brasil,
+pode ser composta por um ou mais conveses, apoiado (s) em flutuadores
+submersos. Ela é muito utilizada para perfuração de poços exploratórios, mas
+não armazena petróleo. (Site PETROBRAS, 2014)
+Para resistir as perturbações ambientais, tais como ondas, correntes
+marítimas ou ventos, a plataforma tem um elevado grau de movimentação , o
+que evita o desgaste físico excessivo da sua estrutura . Mesmo sendo
+projetada para estar localizada dentro de um raio de tolerância, essa
+movimentação pode acarretar danos aos equipamen tos descidos no poço.
+Por esse motivo, existe a necessidade de controlar continuamente o
+posicionamento da estrutura na superfície do mar.
+Uma alternativa de controle é o sistema de ancoragem, em que são
+utilizados âncoras e cabos que pode restaurar a posição quando esta é
+modificada por ação externa. Outra possibilidade é o sistema de
+posicionamento dinâmico, que não possui ligação física da plataforma com o
+17
+fundo do oceano, sendo utilizados sensores acústicos e propulsores no casco
+da embarcação que, quando acionados por computadores, são capazes de
+restaurar a posição da mesma. (CASANOVA, 2008)
+Um projeto de semissubmersível visa sempre o menor capital investido
+e os seguintes requisitos técnicos:
+ Estrutura adequada e suficiente para suportar o tamanho da
+plataforma e carga;
+ Diferença entre a superfície da água e deck suficiente para suportar
+as condições ambientais mais severas do local de instalação;
+ Estabilidade adequada para atender as condições operacionais e
+realizar as movimentações necessárias;
+ Boas características de movimentação.
+Na F igura 5 pode -se observar uma plataforma do tipo
+semissubmersível regular, enquanto na F igura 6 tem-se a imagem de uma
+plataforma SPAR.
+Figura 5: Plataforma Semissubmersível
+FONTE: Site Queiroz Galvão
+As plataformas do tipo SPAR são uma derivação do conceito de
+plataforma semissubmersível, em que a diferença está na estrutura de
+flutuação que é apoiada sobre um ou mais cilindros metálicos. Uma
+desvantagem é a necessidade da instalação do convés na locação final da
+plataforma. Diferente da submersível comum, a SPAR possui a capacidade
+de armazenar petróleo com algumas restrições técnicas. (CASANOVA, 2008)
+18
+Figura 6: Plataforma SPAR
+FONTE: Site Oceânica UFRJ
+3.1.4. Plataforma “Tension Leg”
+As plataformas do tipo Tension-Legs possuem pernas atirantadas. Sua
+estrutura é muito semelhante à da plata forma semissubmersível, enquanto
+suas operações de perfuração, completação e produção são semelhantes às
+executadas em plataformas fixas. Entretanto, es te tipo de plataforma é
+ancorada por estruturas tubulares com tendões fixos ao fundo do oceano por
+estacas, que são mantidos esticados pelo excesso de flutuação da
+plataforma, reduzindo drasticamente seus movimentos. Elas são aplicáveis
+para lâminas d e águ a de 150 a 1800 m, representadas pela Figura 7 .
+(CASANOVA, 2008)
+Figura 7 : Platafomas do tipo Tension Leg
+FONTE: Site Global Security
+19
+3.1.5. Plataforma FPSO
+Os FPSO’s (Floating, Production, Storage and Offloading ) são navios
+ancorados em um local definido com capacidade para produzir, processar,
+armazenar e prover a transferência do óleo e, se economicamente viável, de
+gás natural. O casco dessa plataforma pode ser proveniente da modificação
+de um antigo navio, n ormalmente petroleiro. No convés é instalada uma
+planta de processamento primário para separar e tratar os fluidos produzidos
+pelos poços. Após a separação água -gás-óleo, o petróleo é armazenado nos
+tanques do própri o navio, sendo transferido para um navio aliviador
+periodicamente. Logo, não é necessária a construção de oleoduto da
+plataforma até a costa. Por esse motivo, o FPSO é especialmente atrativo
+para regiões remotas. Há outros tipos de sistemas flutuantes de produção
+tais como: (CASANOVA, 2008)
+ FPO - unidades flutuantes de produção e descarga (não armazenam
+petróleo)
+ FSU - unidades flutuantes que apenas armazenam o petróleo.
+Os maiores FPSOs têm sua capacidade de processamento em torno de
+200 mil barris de petróleo por dia, com produção associada de gás de
+aproximadamente 4 milhões de metros cúbicos por dia. (DE MORAIS, 2013)
+Figura 8 : Plataforma tipo FPSO
+FONTE: Site Modec
+20
+4. Conceitos Gerais Sobre Classificação Elétrica de Áreas
+Pode-se definir como “área classificada ” uma região onde há a
+presença, ou provável ocorrência, de gases ou vapores inflamáveis a ponto
+de exigir precauções especiais para construção, instalação e utilização de
+equipamentos elétricos. Sendo assim, a classificação de áreas é
+profundamente conceitual e fornece informações a respeito da probabilidade
+de haver algum tipo de mistura inflamável no ambiente de trabalho.
+(FUHRMANN, 2012)
+O objetivo principal d a classificação de áreas é preve nir a ignição de
+gases e vapores inflamáveis, que podem ser ger ados por equipamentos de
+processo. (CRUZ, 2012)
+Segundo estudos de JORDÃO (2002), a classificação de áreas é um
+procedimento pelo qual é identificado na unidade industrial os tipos de
+substâncias inflamáveis possíveis de ocorrerem no ambiente de processo.
+Em seguida, define -se em que probabilidade essas substâncias
+podem estar presentes no meio externo para formar uma atmosfera
+inflamável em combinação com o oxigênio do ar . Por último, são fornecidos
+os volumes (regiões espaciais) de risco gerados pelos e quipamentos de
+processo. Define-se assim os limites da área com risco ou área classificada.
+A aplicação do conceito de área classificada está sujeita a diferentes
+tipos de normas e códigos criados por diferentes entidades internacionais,
+destacando-se as:
+ IEC - International Electrotechnical Comission;
+ API - American Petroleum Institute;
+ NFPA - National Fire Protection Association
+As principais normas utilizadas em projetos de classificação elétrica de
+áreas em unidades de processamento e armazenamento de petróleo no
+Brasil são: (CRUZ, 2012)
+ Normas Brasileiras:
+ABNT NBR IEC 60079, 2009 – Atmosferas Explosivas, sendo
+esta uma tradução da IEC 60079 – Explosive atmospheres;
+ABNT NBR 17505, 2006 – Armazenamento de Líquidos
+Inflamáveis e Combustíveis.
+ Normas Internacionais:
+API RP 500, 2002 - Recommended Practice for Classification of
+Locations for Electrical Installations at Petroleum Facilities Classified as Class
+I, Division I and Division 2;
+API RP 505, 1997 - Recommended Practice for Classification of
+Locations for Electrical Installations at Petroleum Facilities Classified as Class
+I, Zone O, Zone 1, and Zone 2;
+IEC 60079 -10, 2008 - Electrical Apparatus for Explosive Gas
+Atmospheres - Part 10: Classification of Hazardous Areas;
+NFPA 497, 2008 - Recommended Practice for the Classif ication
+of Flammable Liquids, Gases or Vapors and of Hazardous (Classified)
+Locations for Electrical Installations in Chemical Process Areas.
+21
+Especificamente no setor petrolífero brasileiro, a Petrobras é
+responsável pela imensa maioria de projetos de en genharia básica,
+detalhamento, construção, montagem e funcionamento, juntamente com suas
+prestadoras de serviço . Baseada em normas internacionais e nacionais,
+diversas equipes, com profissionais dos mais variados ramos de atuação,
+criaram um amplo conjunto de normas internas que orientam os trabalhos
+envolvidos em cada projeto. Toda e qualquer empresa que esteja prestando
+serviço a Petrobras está submetida a estas normas. Para a classificação de
+áreas não é diferente. As principais normas internas que dispõem sobre este
+assunto são: (CRUZ, 2012)
+ CONTEC N -2166 - Classificação de Áreas para Instala ções Elétricas
+em Refinarias de Petróleo;
+ CONTEC N -2167 - Classificação de Área s para Instalações Elétricas
+em Unidades de Transporte de Petróleo, Gás e Derivados;
+ CONTEC N -2154 - Classificação de Área s para Instalações Elétricas
+em Regiões de Perfuração e Produção.
+4.1. Instituições Normativas
+4.1.1. International Electrotechnical Comission (IEC)
+A IEC é uma organização não governamental, sem fins lucrativos ,
+fundada em 1906. É a principal organização responsável pela elaboração de
+normas e padrões internacionais relacionados a tecnologias elétricas e
+eletrônicas. Regula a produção e distribuição de energia, eletrônicos,
+telecomunicações e outros , normatizando sobre terminologias, simbologias,
+confiabilidade e desenvolvimento, segurança e meio ambiente. (IEC, 2014)
+Os membros do IEC são Comitês Nacionais, e estes nomeiam peritos
+e delegados provenientes de indústrias, órgãos governamentais, associações
+e universidades para participar do trabalho de avaliação técnica e avaliação
+da conformidade do IEC.
+A sede atual, localizada em Genebra, conta com mais de 130 países
+membros, possuindo centros regionais na Ásia (Singapura), América Latina
+(Brasil) e América do Norte (Estados Unidos). Deste modo, suas normas são
+elaboradas com a colaboração e apoio de mais de dez mil especialistas no
+ramo da elét rica e eletrônica, provenientes da indústria, do governo, de
+universidades e laboratórios de inúmeros países. (CRUZ, 2012)
+O Brasil é representado na IEC através do Comitê Brasileiro de
+Eletricidade, Eletrônica, Iluminação e Telecomunicações (COBEI).
+4.1.2. American Petroleum Institute (API)
+Formada por mais de 500 membros do meio coorporativo, oriundos
+dos mais diversos seg mentos da ind ústria. A American Petroleum Institute é
+a associação comercial americana que representa todos os aspec tos da
+indústria de pet róleo e de gás natural dos Estados Unidos . Seus membros
+são produtores, refinadores, fornecedores, operadores de dutos e
+22
+transportadores marítimos, bem como empresas que oferecem suporte a
+todos os segmentos da indústria. (API, 2014)
+A API foi criada em 1919 para promover a cooperação entre o governo
+e as indústrias de petróleo em prol dos assuntos de interesse nacional, além
+de fomentar o comércio externo e interno dos produtos petrolíferos
+americanos. Esta instituição tem como objetivo defender os interesses da
+indústria do petróleo em todos os seus ramos e propiciar o aperfeiçoamento
+mútuo dos seus membros. Busca também o estudo das ciências relacionadas
+com a indústria de petróleo e gás natural.
+O órgão deixa evidente em inúmeras nor mas a relevância do uso do
+conceito de classificação de áreas no que diz respeito a indústria de óleo e
+gás. Essa preocupação decorre da alta periculosidade dos insumos de
+processo e produtos gerados por este setor.
+4.1.3. National Fire Protection Association (NFPA)
+Fundada em 1896, a National Fire Protection Association possui a sua
+sede localizada no estado de M assachuttes, nos Estados Unidos. É uma
+organização americana de desenvolvimento de normas que tem com o
+objetivo proteger pessoas, bens e o meio ambient e contra os efeitos danosos
+de incêndios. (NFPA, 2014)
+É hoje uma das principais fontes de informações em todo mundo para
+o desenvolvimento e disseminação de conhecimento sobre segurança contra
+incêndio e proteção da vida. Apresenta um foco maior em incê ndio estrutural
+(edificações urbanas) devido ao seu contexto histórico de criação, embora
+venha se voltando para incêndios industriais mais recentemente.
+A NFPA orgulha -se de seu processo de preparação de códigos e
+normas, reconhecidamente aberto a todos os interessados e baseado em
+consenso. Esta organização tem elaborado alguns dos documentos mais
+conhecidos e consultados da área de proteção contra incêndios: NEC (NFPA
+70), Código de Proteção da Vida (NFPA 101), Código de Prevenção de
+Incêndios (NFPA 1 ) e Código Nacional de Alarmes contra Incêndio (NFPA
+72). A NFPA é também líder na realização de atividades educacionais de
+segurança contra incêndio, promovendo programas como o “ Learn Not to
+Burn” para crianças desde a pré -escola e “ Remembering When” para a
+terceira idade. (NFPA, 2014)
+Atualmente, a NFPA conta com mais de 75.000 associados
+provenientes de 107 países , e suas publicações encontram -se disponíveis
+em vários idiomas, sendo fonte de referência em todo o mundo.
+4.2. Definições Gerais
+4.2.1. Tetraedro do Fogo
+Entende-se por “Fogo” a reação química altamente exotérmica, onde
+ocorre a presença de chama, luz, calor e alta temperatura, frequentemente
+denominada de “combustão”.
+23
+Os fatores que contribuem para a existência do mesmo podem ser
+resumidos em quatro, formando o “Tetraedro do F ogo”. São eles: calor,
+combustível, comburente e a reação em cadeia, conforme Figura 9.
+Figura 9 – Tetraedro do Fogo
+O calor, ou energia, é necessário para dar início e manter a combustão,
+sendo inicialmente proveniente de uma fonte de ignição (faíscas e chamas
+livres, por exemplo). O combustível é a substância suscetível a entrar em
+combustão, reagindo com o comburente, representado na figu ra pelo O 2 . A
+reação em cadeia, último componente do tetraedro , é a sequência de
+reações de combustão que ocorrem na medida em que o combustível reage
+com o comburente. Ao longo da cadeia de reações uma série de
+intermediários químicos são formados , dando origem a compostos
+extremamente tóxicos. (FUHRMANN, 2012)
+4.2.2. Características do Combustível
+Alguns aspectos referentes ao combustível devem ser avaliados a fim
+de facilitar a compreensão a respeito da combustão e sua ocorrência, são
+eles:
+a) Ponto de Fulgor
+b) “Fire Point”
+c) Limites de Inflamabilidade
+d) Densidade Relativa
+4.2.2.1. Ponto de Fulgor
+O Ponto de Fulgor, ou “ Flash Point ”, por definição é a menor
+temperatura onde um líquido inflamável libera o volume necessário de vapor
+para formar uma mistura inflamável com o ar. Esta mistura pode sofrer
+ignição na presença de uma fonte de ignição (ignição pilotada). A quantidade
+de vapor , porém, não é suficiente para que a combustão seja mantida .
+Algumas substâncias possuem temperatura de ebulição tão baixas que na
+prática não possuem ponto de fulgor. (FUHRMANN, 2012)
+24
+Trata-se de um importante dado para classificação dos produtos
+combustíveis, em especial no que se refere à segurança de processos, aos
+riscos de transporte, armazenagem e manuseamento.
+4.2.2.2. “Fire Point”
+Diferentemente do ponto de fulgor, o “ Fire Point ” é a temperatura a
+partir da qual a quantidade de vapor gerado é suficiente para manter a
+combustão, após ignição. Como a maioria das tabelas da literatura contém
+somente o ponto de fulgor das substâncias, o “ fire point” pode ser adotado
+como sendo cerca de 10 °C mais elevado (JORDÃO, 2002). Entretanto, tal
+aproximação não substitui experimentos específicos para a determinação do
+“fire point” em casos mais críticos.
+4.2.2.3. Limites de Inflamabilidade
+Os limites explosivos , ou de inflamabilidade , são os limites de
+concentração entre os quais uma mistura com o ar é explosiva ou inflamável.
+Os compostos possuem uma concentração mínima e uma
+concentração máxima para que ocorra a combustão quando misturados ao ar
+atmosférico. O limite inferior de inflamabilidade (LII) é a mínima concentração
+de vapores de combustível em mistura com um comburente, abaixo da qual
+não se produz a combustão. Já o lim ite superior de inflamabilidade (LSI) é a
+máxima concentração de vapores de combustível em mistura com um
+comburente, acima da qual não se produz a combustão.
+Entre o limite inferior e o limite superior de inflamabilidade existe uma
+faixa denominada “zona de inflamabilidade”. Quanto maior essa zona, maior
+o risco da substância entrar em combustão. (FUHRMANN, 2012)
+4.2.2.4. Densidade Relativa
+A densidade relativa dos gases ou vapores combustíveis em relação
+ao ar atmosférico influencia fortemente a distribuição da nuvem combustível.
+Valores maiores que 1,0, ou seja, com densidade relativa superior a do ar
+atmosférico, fazem com que es sa nuvem se acumule em regiões inferiores a
+do local de liberação . Por outro lado, valores menores que 1,0 fazem com
+que a ‘nuvem’ suba e se dissipe, por conseguinte. Essa propriedade se torna
+importante para prever zonas onde irão ocorrer possíveis acúmulos de gases
+inflamáveis, analisando a dispersão dos mesmos. (CRUZ, 2012)
+4.2.3. Líquido Combustível X Líquido Inflamável
+Muitas vezes usadas erroneamente com o mesmo significado, as
+expressões “líquido inflamável” e “líquido combustível” são tecnicamente
+diferentes e definidas baseando-se nos valores de ponto de fulgor e pressão
+de vapor de cada substância. Tal definição consta na norma ABNT NBR 7505
+(2006) – Armazenamento de Líquidos Inflamáveis e Combustíveis , e na
+norma NFPA 30 – Flammable and Combustible Liquids Code. (FUHRMANN,
+2012)
+25
+Os líquidos combustíveis são aqueles que possuem ponto de fulgor
+maior ou igual a 37,8°C (100°F) ,quando determinado pelo método do vaso
+fechado ( American Society for Testing and Materials - ASTM D56). Este
+método é descrito detalhadamente na norma ASTM D 93 -11, e não será aqui
+detalhado. (API RP 505 , 2002)
+Os líquidos combustíveis podem ser classificados em:
+ Líquidos Classe II – qualquer líquido que possua ponto de fulgor entre
+37,8°C (100°F) e 60°C (140°F);
+ Líquidos Classe IIIA – qualquer líquido que possua ponto de fulgor
+entre 60°C (140°F) e 93°C (200°F);
+ Líquidos Classe IIIB – qualquer líquido que possua ponto de fulgor
+igual ou maior que 93°C (200°F).
+Já os líquidos inflamáveis, p or definição, s ão aqueles líquidos que
+possuem ponto de fulgor menor ou igual a 37,8°C (100°F) e pressão de vapor
+que não exceda a 2068,6 mm Hg (40 psig) a 37,8°C (100° F).
+Tais líquidos podem ser classificados das seguintes formas:
+ Líquidos Classe IA - líquido que possua ponto de fulgor abaixo de
+22,8°C (73°F) e ponto de ebulição menor que 37,8°C (100°F);
+ Líquidos Classe IB - líquido que possua ponto de fulgor menor que
+22,8°C (73°F) e ponto de ebulição maior ou igual a 37,8°C (100°F);
+ Líquidos Classe I C - líquido que possua ponto de fulgor entre 22,8°C
+(73°F) e 37,8°C (100°F).
+Não é possível classificar o óleo cru dentre essas categorias pois tratase de uma mistura de hidrocarbonetos com variadas composições. Entretanto,
+como padrão, seguindo a API 505, costuma-se classificar o mesmo como
+sendo líquido inflamável de Classe I.
+4.2.4. MESG – Maximum Experimental Safe GAP
+A Máxima Abertura Segura Experimental é o máximo espaçamento
+possível entre duas superfícies m etálicas e par alelas que impede que uma
+possível explosão no interior de uma câmara se pro pague para o exterior da
+mesma. Isso ocorre mesmo que o exterior contenha o mesmo gás ou vapor,
+sob as mesmas condições internas. (CRUZ, 2012)
+A Figura 10 explicita o conceito de GAP, que seria a maior abertura.
+Figura 10- MESG- Maximum Experimental Safe Gap.
+FONTE: CRUZ (2012)
+26
+Esse conceito foi originado no passado, mais especificamente durante
+o trabalho nas minas, onde a presença do gás metano acarretava em
+constantes acidentes devido ao recorrente uso de lanternas à gás utilizadas
+pelos mineiros. A chama da lanterna, ao entrar em contato com a atmosfera
+repleta de metano , gerava ignição. A solução encontrada na época foi cobrir
+as lanternas com telas perfuradas com furos pequenos.
+4.2.5. MIC – Minimum Ignition Current
+A Mínima Corrente de Ignição, seguindo a definição de MACHADO
+(2009), seria a mínima corrente que circula em uma chave imediatamente
+antes de sua abertura e que pode gerar um c entelhamento capaz de
+provocar a ignição da atmosfera explosiva.
+Seguindo a norma API RP505, o MIC é a corrente mínima que, sob
+condições específicas, gera uma centelha que é capaz de causar a ignição
+de uma mistura inflamável. (FUHRMANN, 2012)
+27
+5. Fundamentos das Normas de Classificação de Áreas
+Conforme citado, existem diferentes órgãos responsáveis por elaborar
+diferentes normas de segurança quanto à classificações de áreas. Normas
+diferentes resultam em padrões distintos no que diz respeito à segurança da
+planta industrial. Entretanto, segundo JORDÃO apud ERTHAL (2004), estas
+discrepâncias nunca foram causa de qualquer tipo de acidente, o que dá ao
+operador uma certa liberdade de escolha da norma mais adequa da aos seus
+interesses.
+5.1. Zonas 1
+O primeiro passo para se classificar uma área , seguindo as
+orientações da API 505, é definir qual ou quais zonas se fazem presentes. O
+conceito de “zona” é assim definido:
+ Zona 0:
+Onde gases e/ou vapores inflamáveis estão presentes de m aneira
+contínua, ou por longos períodos de tempo. Caracterizada como risco
+de grau contínuo.
+ Zona 1:
+Gerada por uma fonte de risco de grau primário. São locais onde a
+concentração de gases e/ou vapores inflamáveis podem existir durante
+a operação nor mal do equipamento; por frequen tes operações de
+reparo ou manu tenção do mesmo; por variações ou operações
+defeituosas no equipamento resultando na liberação desses gases
+e/ou vapores; por fim, locais adjacentes às Zonas 0, onde a
+concentração de gases e/ou vap ores pode se comunicar com essa
+área (sem nenhuma prevenção para que isso não ocorra).
+ Zona 2:
+Gerada por fonte de risco de grau secundário. Ou seja, a concentração
+de gases e/ou vapores não é esperada durante a operação normal e,
+caso ocorra, será por um curto período; onde líquidos voláteis e
+inflamáveis, ou gases e/ou vapores inflamáveis são manuseados,
+processados ou usados normalmente confinados em recipientes ou
+sistemas fechados a partir do s quais eles podem escapar caso ocorra
+alguma ruptura acidental ou erro no manuseio e operação do
+equipamento; onde a concent ração de ignição de gases e/ou vapores
+normalmente é impedida pela ventilação mecânica positiva, mas que
+podem tornar -se perigosos devido a falha ou operação anormal do
+equipamento de ventilação; locais adjacentes a locais de Zonas 1,
+onde a concentração d e ignição de gases e/ou vapores pode se
+comunicar com esta área, a menos que esta comunicação seja
+prevenida por uma adequada ventilação com pressão positiva
+proveniente de uma fonte de ar limpo e de salvaguardas efetivas
+1 Algumas normas, como API 500, empregam o conceito de Divisão (divisão 1 e
+2) ao invés de Zona. Neste estudo utilizou-se apenas o critério de Zona.
+28
+contra falhas dos ventiladores ; onde frequentemente são usados
+líquidos e gases inflamáveis, mas só se torna relevante no caso de um
+acidente ou em alguma eventual condição de operação anormal.
+5.2. Grupos
+Seguindo a norma americana, API 505, a classificação por grupos
+refere-se ao tipo de material combustível em questão, ou seja, classifica-se o
+nível de risco oferecido pelo material processado ou armazenado.
+Tratando-se de gases ou vapores em quantidades suficientes para
+produzir uma atmosfera explosiva, quando em contato com o oxigênio,
+existem quatro tipos de classificações:
+ Grupo A: Acetileno. Elemento que possui maior risco entre os grupos.
+ Grupo B: Constituído por gases e vapores inflamáveis com MESG
+menor ou igual a 0,45 ou MIC menor ou igual a 0,40.
+ Grupo C: Composto por gases e vapores inflamáveis com MESG
+maior que 0,45 e menor ou igual a 0,75 ou MIC maior que 0,40 e
+menor ou igual a 0,80.
+ Grupo D: Composto por gases ou vapores inflamáveis com MESG
+maior que 0,75 ou MIC maior que 0,80.
+Apesar da classificação especificada aci ma, o padrão internacional,
+IEC, adota outra metodologia. Os grupos devem ser classificados da seguinte
+forma:
+ Grupo I : Atmosferas contendo mistura de gases inflamáveis,
+basicamente o metano, em região subterrânea, geralmente em minas.
+ Grupo II: Esse grupo assemelha-se ao grupo I na definição, mas
+diferencia-se por ser adotado na superfície, e não em minas. O Grupo
+II se subdivide em 3 (A,B e C).
+ Grupo IIA: Atmosferas contendo acetona, amônia, etanol, gasolina,
+metano, propano ou gás inflamável, líqui do inf lamável que produza
+vapor ou combustíveis líquidos produzido pela mistura de vapores
+com o ar atmosférico que, podem queimar ou explodir com um MESG
+maior que 0.90 mm ou o MIC maior que 0.80.
+ Grupo IIB: Atmosfera co ntendo acetaldeído, etileno, gás inflamáv el,
+líquido inflamável que produza vapor ou combustíveis líquidos
+produzido pela mistura de vapores com o ar atmosférico que podem
+queimar ou explodir com um MESG maior que 0.50mm e menor ou
+igual a 0.90mm ou o MIC maior que 0.45 e menor ou igual a 0.80.
+ Grupo IIC: Atmosfera co ntendo acetileno, hidrogênio, gás inflamável,
+líquido inflamável que produza vapor ou combustíveis líquidos
+produzido pela mistura de vapores com o ar atmosférico que podem
+queimar ou explodir com um MESG menor ou igual a 0.50mm ou o
+MIC menor ou igual a 0.45.
+Analisando as duas classificações em grupos, pode -se perceber que
+há semelhança entre os produtos agrupados.
+29
+5.3. Ventilação
+Fator que influencia diretamente na definição do tipo de zona e na
+área de extensão da classificação, a ventilação eficaz reduz a probabilidade
+de formação de uma nuvem ex plosiva. Em local com ventilação adequada a
+nuvem explosiva, caso ocorra, se formará com um menor volume de
+extensão. (API RP 505, 2002)
+Locais considerados com adequada ventilação incluem:
+ Locais externos;
+ Uma construção, um cômodo ou espaço aberto e livre de obstruções
+para a passagem natural do ar, tanto vertical como horizontalmente;
+ Local parcialmente ou totalmente fechado, com ventilação equivalente
+a ventilação natural.
+Deste modo, segundo a API 505, existem lugares que não necessitam
+de classificação de áreas , mesmo havendo processamento, manuseio ou
+armazenagem de materiais combustíveis , pois os mesmo s não oferecem
+perigo d evido à boa ventilação do local. Outro fator que dispe nsa a
+classificação de áreas é o armazenamento em recipientes apropriados e
+lacrados.
+Ressalta-se ainda que em lugares onde há operação de equipamentos
+como aquecedores e caldeiras e/ou presença de chamas abertas , não se
+aplica a definição de áreas classificadas, pois a presença de fontes de
+ignição são inevitáveis. (API RP 505, 2002)
+5.4. Extensão das Zonas
+5.4.1. Determinação da extensão de Áreas Classificadas
+Como explicitado, um local onde ocorra formaçã o de atmosferas
+explosivas deve ser classificado conforme os fatores mencionados
+previamente. Assim, segundo a IEC, existem quesitos a serem levados em
+consideração na hora de se classificar uma área no que diz respei to as suas
+dimensões, tais como: (API RP 505, 2002)
+ Densidade relativa de vapor do material;
+ Ventilação;
+ Formato da liberação;
+ Barreiras físicas.
+5.4.1.1. Densidade Relativa de Vapor do Material
+Essa característica define como a mistu ra explosiva irá se comportar .
+A densidade relativa permite avaliar se o vapor tende a descer ou a subir.
+Para efeito de caracterização da extensão da área classificada, a densidade
+relativa mostra que, geralmente, substâncias mais densas que o ar tendem a
+se concentrar entre os equipamentos e o solo, gerando uma maior ext ensão
+30
+da área classificada nas partes inferiores do s equipamentos. (API RP 505,
+2002)
+5.4.1.2. Ventilação
+A ventilação é um fator de extrema importância ao passo que permite
+avaliar a dissipação dos gases ou vapores em questão. A ventilação ajuda a
+especificar a extensão da área. V entilações ineficazes favorecem o acúmulo
+da nuvem e um maior volume de risco, enquanto altas taxas de renovação
+de ar indicam um menor volume de risco. (API RP 505, 2002)
+5.4.1.3. Formato da Liberação
+O formato do equipamento, ou geometria da fonte de risco, permite
+avaliar a distribuição física do gás/vapor , indicando regiões com maior
+probabilidade de existência da mistura inflamável. A influência dessa
+geometria pode ser analisada na F igura 11 , através do contorn o do
+equipamento. (API RP 505, 2002)
+Figura 11 - Influência da Geometria na Classificação de Áreas.
+Fonte: API RP 505, 1997.
+A figura 12 apresenta os significados d os diferentes tipos de hachuras
+utilizadas para simbolizar as diferentes Zonas (Zona 0, 1 e 2) .
+Figura 12- Hachuras para Classificação de Zonas
+Fonte: API RP 505, 1997.
+31
+5.4.1.4. Barreiras físicas
+Tendo em vista que a classificação de áreas é uma maneira de prever
+possíveis regiões que podem conter atmosferas explosivas, a existência ou
+não de barreiras físicas próxima s a fonte de emissão é um fator a ser
+considerado. Na presença de barreiras físicas, como por exemplo paredes, a
+mistura combustível obviamente não irá ultrapassar. Portanto, a barreira
+impedirá o aumento do volume de risco.
+A Figura 13 ajuda a entender a interferência das barreiras físicas. Na
+figura da esquerda a presença de barreir a impede a passagem dos vapores.
+Enquanto na figura a direita, a ausência de barreir as es tende a área
+classificada. (API RP 505, 2002)
+Figura 13 - Influência das Barreiras Físicas.
+Fonte:API RP 505, 1997.
+5.5. Interseção entre Áreas Classificadas
+Em uma unidade industrial é comum que duas ou mais áreas
+classificadas por fontes de risco distintas ocupem espaços em comum.
+Tratando-se de plataformas offshore a ocorrência de sobreposições é ainda
+maior devido ao espaço extremamente limitado e otimizado. Quando as
+áreas são do mesmo tipo o espaço em comum possuirá a mesma
+classificação de ambas. Entretanto, quando ocorre divergência, a situação
+deve ser analisada com cuidado. Uma boa prática aplicada pelos
+engenheiros é sempre adotar a análise mais conservadora, afim de evitar
+possíveis problemas e erros.
+5.6. Fonte de Risco
+Segundo CRUZ (2012), a fonte de risco configura -se como o local
+onde um vapor ou líquido inflamável pode ser liberado e formar atmosfera
+inflamável e/ou explosiva. A fonte de risco é classificada em graus, conforme
+descrito:
+32
+ Fonte de risco de grau contínuo:
+Quando ocorre liberação contínua da substância perigosa, ou quando a
+mesma ocorre muito frequentemente dentro de um período muito curto. Em
+outras palavras, o grau de risco contínuo é aquele onde se espera que haja
+liberação do material inflamável durante a maior parte do tempo;
+ Fonte de risco de grau primário:
+Quando a liberação da substância ocorre ocasionalmente, porém de forma
+prevista na unidade. Exemplos de fontes de riscos de grau primário:
+aberturas de válvula, respiros de tanques, bocais de carregamento de
+caminhões, bocas de visita de equipamentos, pontos de amostragem, etc.;
+ Fonte de risco de grau secundário:
+Quando ocorre a liberação da substância perigosa em situações anormais de
+operação, de forma inesperada, tais como falhas em equipamentos ou
+vazamentos por rompimento de flanges.
+Conforme JORDÃO (2002), os graus das fontes de risco podem ser
+determinados de acordo com o número de horas com presença de mistura
+inflamável por ano:
+Tabela 1 - Graus da fonte de risco conforme tempo de presença de
+mistura inflamável
+GRAU DA FONTE PRESENÇA DE MISTURA INFLAMÁVEL
+CONTÍNUO 1000 horas ou mais por ano
+PRIMÁRIO 10 < horas por ano < 1000
+SECUNDÁRIO Menos que 10 horas por ano
+Fonte: JORDÃO, 2002
+33
+6. Método de Classificação de Áreas
+6.1. API 505
+A norma API é específica para refinarias, plataformas e demais plantas
+relacionadas à extração e refino de petróleo. Tendo em vista que esse
+trabalho visa avaliar a classificação de área em uma plataforma flutuante
+(FPSO) a aplicação desta norma é uma opção viável.
+A norma API 505, cuja edição de referência data de 1997, é detalhada
+em figuras com as dimensões das áreas classificadas recomendadas. O
+amplo número de imagens facilita a sua aplicação. Isso porém, não isenta o
+profissional responsável pelo projeto de usar bom senso e análise crítica para
+aplicação conforme peculiaridades do processo em questão.
+Para definir as extensões das áreas classificadas são necessárias
+informações sobre:
+ O grau da fonte de risco (contínuo, primário, secundário);
+ A substância perigosa que potencialmente pode ser liberada;
+ A disponibilidade de ventilação no local.
+A partir dessas informações pode -se traçar um perfil do processo e
+assim, seguindo a norma, selecionar a figura que mais se aplica , conforme
+exemplificado na Figura 14.
+Figura 14 – Classificação de Área Adicional.
+Fonte: API RP 505, 1997
+Analisando a Figura 14 observa-se no centro a fonte (equipamento)
+contendo o produto inflamável e m questão. Em volta dessa fonte é aplicada
+uma área de classificação do tipo zona 2 , além de uma área adicional
+próxima ao solo que será explicada a seguir.
+A norma ressalta que suas dimensões pré -estabelecidas possuem o
+objetivo de orientar, cabendo ao profissional usar seu senso crítico e
+experiência na hora da aplicação.
+Embora a norma API 505 não os empregue de forma explícita,
+aspectos como pressão, volume, vazão e tipo de material processados
+34
+devem ser considerados ao se determinar a ext ensão de uma área
+classificada.
+Por se tratar de unidades de processamento de petróleo onde existem
+muitos equipamentos operando com substâncias perigosas, grandes volumes
+e operando a pressões e vazões elevadas, a API 505 possui extensões das
+áreas class ificadas bastante conservativas, especialmente quando
+comparado com a NFPA , segundo CRUZ (2012).
+Finalmente destaca-se que a API 505 sugere a adoção de uma área
+classificada adicional, nos locais onde a possibilidade da presença de gases
+ou líquidos voláteis inflamáveis seja muito elevada. Esta área adicional ,
+também exibida na F igura 14, tem a extensão estabelecida de 15 metros a
+partir do final da área de classificação, tendo porém apenas 60 centímetros
+de altura. R esultando de u ma área total que se estende até 30 metros da
+origem da fonte.
+6.2. NFPA 497
+Em uma classificação por equipamento, o tamanho deste, sua vazão e
+pressão apresentam informações importantes que devem ser levadas em
+consideração. A Norma NFPA 497 costuma ser uma das mais recomendadas
+para o uso em plantas industriais em diferentes setores, justamente por levar
+em consideração essas condições de operação na definição de suas áreas.
+Vazamentos geralmente aumentam com o taman ho do equipamento de
+processo, maior pressão e vazão.
+Deste modo, a norma fornece uma tabela com os parâmetros
+necessários para a classificação dos equipamentos e para a análise das suas
+condições operacionais em pequeno, moderado ou alto.
+Tabela 2 – Magnitude da classificação de áreas em função do volume,
+pressão e vazão
+Equipamento
+Unidade Pequeno/Baixo Moderado Grande/Alto
+Volume m3 <19 19 - 95 >95
+Pressão kgf/cm2 <7 7 - 35 >35
+Vazão
+m3/h <23 23 - 114 >114
+Fonte: NFPA 497, 2008
+A NFPA 497 (2008) contém uma série de diagramas para diferentes
+portes de diversos tipos de equipamentos.
+Novamente, a intenção do uso de diagramas é somente auxiliar na
+classificação de equipamentos, unidades operacionais , e de plant as de
+processo.
+35
+6.2.1. Diagramas
+A norma NFPA 497 contém uma série de diagramas que ilustram
+como fontes típicas de materiais combustíveis de vem ser classificadas.
+Alguns dos diagramas são para uma única fonte, outros podem ser aplicados
+para múltiplas fontes em um espaço fechado ou numa área de operação. A
+Figura 15 exemplifica um diagrama típico da norma NFPA 497.
+Figura 15- Exemplo de figura de referência da NFPA.
+Fonte: NFPA 497, 2008.
+Gases mais leves que o ar, como hidrogênio e metano, vão se
+dispersar muito facilmente. No entanto, se tais gases estão evoluindo a partir
+do estado criogênico (tais como hidrogênio liquefeito ou gás natural liquefeito),
+deve-se tomar cuidado, pois para um período de tempo finito imediatamente
+após a liberação, esses gases estarão mais pesados que o ar devido as suas
+baixas temperaturas.
+6.2.2. Procedimento de Classificação
+O procedimento para a classificação conforme NFPA 497 deve ser
+aplicado a cada ambiente, seção ou área a ser classificada:
+Primeiro passo: Determinar se a área prec isa realmente ser classificada,
+avaliando o tipo de fluido nela operado e a viabilida de de um vazamento. Por
+exemplo, de acordo com a norma, tubulações perfeitamente soldadas não
+requerem classificação.
+36
+Passo dois: Coletar informações da instalação industrial como histórico de
+vazamentos e condições dos equipamentos operados. Obter ainda o
+Diagrama de Fluxo do Processo (PFD) e a planta de projeto é útil para
+avaliar o formato dos equipamentos, bem como os fluidos operantes, local
+onde o equipamento está instalado, possíveis barreiras físicas e até
+informação a respeito do tipo de ventilação.
+A própria NPFA disponibiliza tabela de consulta com informações
+necessárias para diversos compostos químicos de uso mais frequente . Tais
+como: grupo, temperatura de flash, pressão de vapor, densidade da fase
+vapor, temperatura de autoignição, LII e LSI.
+Passo três: Selecionando o diagrama de classificação apropriado.
+De acordo com as informações do diagrama de fluxo do processo
+podem-se det erminar os dados de temperatura , p ressão e vazão,
+classificando-os conforme a Tabela 2. Informações como densidade do
+material combustível e local da fonte de vazamento são impor tantes para
+prever possíveis pontos de acúmulo.
+Usando as informações disponíveis, seleci ona-se o diagrama de
+classificação apropriado para aquela condição específica . A norma é
+composta por mais de trinta diagramas diferentes, que variam conforme local
+da fonte de ignição, tamanho do equipamento, condições operacionais,
+presença de barreiras físicas, entre outros fatores que influenciam nessa
+escolha.
+Assim como na API 505, a extensão da áre a classificada é
+determinada usando a experiência de especialistas para aplicar os métodos
+discutidos e os diagramas contidos na norma NFPA 497.
+37
+7. FPSO
+Este capítulo apresenta uma breve descrição do cenário escolhido
+para a aplicação da s normas API 505 e NFPA 497 . O campo escolhido foi
+uma plataforma flutuante do tipo FPSO . O manual de operação de uma
+plataforma real de petróleo, bem como todos os detalhes do proc essamento
+ocorrido a bordo são consideradas i nformações sigilosas de domín io da
+operadora. Assim, a solução encontrada para este estudo foi adotar uma
+plataforma fictícia, contudo com características bastantes semelhantes a
+realidade.
+Ao longo deste capítulo encontram-se detalhes de algumas operações
+realizadas em FPSOs a fim de identificar equipamentos passíveis de
+exemplificação de aplicação da classificação de área.
+7.1. Caracterização da FPSO
+O FPSO adotada par a estudo em questão foi projetada para operar
+em uma profundidade de mais de 1200 metros e para um tempo de operação
+contínuo previsto de 5 anos no mar, sem ancoragem.
+A planta de processamento de óleo e gás existente nesta plataforma é
+adequada a atender às condições de operação no litoral brasileiro.
+No anexo A encontra -se o layout geral da plataforma. Devido à
+complexidade das operações em uma plataforma offshore, e o seu espaço
+físico limitado, as operações de processamento tendem a s er otimizadas a
+fim de reduzir o espaço útil com a instalação de equipamentos . Assim, as
+condições operacionais são severas, com pressões, volumes e temperatura
+elevadas, resultando em um maio r risco de acidentes e aumentando a
+relevância da aplicação da classificação de áreas elétricas nessa planta.
+7.1.1. Detalhamento dos Sistemas de Processamento da FPSO
+O fluxograma contido na F igura 16 esquematiza simplificadamente o
+processo de separação primário ocorrente em uma FPSO.
+O processamento do óleo cru retirado dos poços consiste basicamente
+em um conjunto de separadores, que, inte rcalados, purificam o óleo crú.
+Inicialmente o óleo proveniente do poço entra no separador trifásico. Em
+seguida é obtida a separação entre óleo, gás e água. O óleo segue para a
+fase de pré -aquecimento e novamente para outro separador afim de obter
+maior pureza do mesmo. O g ás proveniente do separador trifásico segue
+para o sistema de compressão, que será detalhado ao longo do capítulo.
+Enquanto a água segue no processo para hidrociclones, com o intuito de
+obter maio pureza da mesma para o seu descarte final.
+Nos itens seguintes serão descritas as etapas específicas para a
+plataforma adotada, aprofundando assim cada etapa deste processamento.
+38
+Figura 16: Fluxograma do processamento primário do petróleo
+7.1.1.1. Processamento e Tratamento do Óleo
+Para o caso da FPSO em estudo, a mistura trifásica de óleo, gás e
+água provenien te dos poços submarinos é coletada e aquecida antes da
+separação. Esta energia térmica é fornecida através da troca de calor entre
+água produzida quente e o petróleo bruto estabilizado. Para recebimento de
+óleo na Planta de Processo existem dois trens: um de produção e outro de
+teste. O trem de teste é usado com a finalidade de obter informações de
+processo, e rea lizar testes, sem que para isso tenha que interromper a
+operação na planta de produção.
+O sistem a de tratamento do óleo é compreendido por dois trens de
+separação. O trem de produção possui dois estágios para aquecimento : o
+pré-aquecedor de óleo/água e pré-aquecedor de óleo/óleo . O trem de teste
+possui somente um estágio de aquecimento: o aquecedor d e teste, que tem
+como fonte de calor a água quente. Em ambos os sistemas de pré -
+aquecimento, o óleo cru é aquecido de 36°C a 90°C. (ARAÚJO e SOUSA,
+2011)
+O fluido proveniente do poço passa através dos Separadores de
+Produção/Teste que separam o óleo, o gás e a água produzida. A fase rica
+em óleo é aquecida até 140°C no aquecedor do desidratador do óleo, que
+usa a água quente como o meio de aquecimento. Depois , o óleo cru é
+enviado para o Vaso de Flash do desidratador , que permite a separação do
+gás produ zido. O óleo estabilizado e desidratado é enviado ao Sistema de
+Medição Fiscal de Óleo Cru e então , ao resfriador para diminuir a
+39
+temperatura a menos que 50°C, permitindo o armazenamento nos tanques
+de carga. (ARAÚJO e SOUSA, 2011)
+Sistemas de injeção qu ímica para inibição de incrustação, espuma e
+emulsão são fornecidos na entrada dos trens de produção para viabilizar a
+separação do óleo.
+A operação conta também com uma bomba no separador de teste que
+auxilia o aumento da pressão do sistema quando os poç os não possuem
+pressão suficiente para a operação da planta de processo. (ARAÚJO e
+SOUSA, 2011)
+A tabela 3 especifica todos os equipamentos do sistema operacional
+de recebimento e tratamento de óleo e seus resp ectivos códigos de
+identificação, que permitem sua localização na planta.
+TABELA 3: Equipamentos do Sistema de Óleo
+TAG DESCRIÇÃO
+LP-122301/4 LANÇADORES DE PIG
+RP-122301 RECEPTOR DE PIG
+P-122304A/B PRÉ-AQUECEDOR ÓLEO/ÓLEO
+P-122309A/B PRÉ-AQUECEDOR ÓLEO/ÁGUA
+SG-122304 SEPARADOR DE PRODUÇÃO
+P-122303 AQUECEDOR DE TESTE
+SG-122301 SEPARADOR DE TESTE
+P-122310A/B AQUECEDOR DO DESIDRATADOR DE ÓLEO
+V-TO-122301 VASO DE FLASH DO DESIDRATADOR DE ÓLEO
+TO-122301 DESIDRATADOR DE ÓLEO
+P-122305A/B RESFRIADOR DE ÓLEO
+B-122301 BOMBA DO SEPARADOR DE TESTE
+7.1.1.2. Processamento e Compressão de Gás
+O gás produzido na planta de processo é usado para três finalidades:
+gás lift, gás Combustível e gás para inertização dos tanques de óleo da carga.
+Todo o excesso de gás produzido pela planta de proces so é queimado na
+tocha (flare).
+A separação do gás ocorre nos separadores explicitados na etapa de
+processamento, de onde o gás é enviado para o resfriador , sendo levado até
+40°C. A mistura de gás/líquido produzida com a redução da temperatura
+entra em um separador gás/líquido onde o líquido é separado e enviado para
+os aquecedores do desidratador de óleo . A maior parte do gás é enviada
+para a unidade de compressão para a prática de gás lift. (ARAÚJO e SOUSA,
+2011)
+O gás separado do óleo e da água na planta processo é usado para
+alimentar o sistema de tratamento de gás de combustível. Após a redução
+dos teores do líquido , o gás é distribuído para a planta de processo e aos
+outros consumido res tais como: g erador auxil iar, flotador, unidade de
+compressão de gás, v aso de rejeito oleosa, tanques de estocagem (para
+inertização), unidade de TEG, forno de água quente e tocha.
+40
+7.1.1.3. Desidratação do Gás
+O gás úmido proveniente da Unidade de Compressão é desidratado
+para impedir a formação de hidratos e corrosão nas linhas de Gas Lift. Esse
+gás é desidratado na torre de TEG r para remoção de condensados , sendo o
+trietileno glicol (TEG) o agente desidratador. (ARAÚJO e SOUSA, 2011)
+A água rica em TEG produzida no contator é regen erada na unidade
+da regeneração de TEG , enquanto o gás desidratado dos contatores é
+enviado ao sistema de gás lift através de uma unidade de medição fiscal de
+gás.
+7.1.1.4. Sistema de Gás Lift
+Um dos sistemas da elevação do óleo é a injeção do gás produzido no
+poço. O gás é injetado no poço e sua menor densidade em relação à coluna
+de líquido promove o gás lift. A vazão de gás lift é defin ida por estudos no
+reservatório e varia com tempo e produção do poço. Os valores iniciais
+devem ser definidos baseados na curva da produção, com os gráficos obtidos
+através de sistema do teste, como explicitado previamente na etapa de
+processamento. (ARAÚJO e SOUSA, 2011)
+7.1.1.5. Injeção Química para Óleo, Gás e Água Produzida
+Para que a planta de processo opere com o mínimo de condições
+drásticas (temperatura e pressão ), a mesma é equipada com unidades de
+injeção química que permitem a injeção de aditivos a fim de ajudar na
+separação do óleo, da água e do gás. (ARAÚJO e SOUSA, 2011)
+Há a possibilidade de injeção de uma série de p rodutos químicos para
+melhorar o desempenho da planta . A unidade de injeção química incorpora,
+de forma compacta, sistemas operacionais para as seguintes finalidades:
+• Emulsão Invertida
+• Inibição de Incrustação
+• Inibição de Hidrato
+• Inibição de Corrosão
+• Anti-espumante
+A manipulação dos produtos químicos deve ser feita em conformidade
+com as regras indicadas pelos vendedores destes, que fornecem manuais
+junto as unidades.
+7.1.1.6. Processamento de Água Oleosa
+A água produzida não especificada proveniente dos separadores de
+produção/teste e do desidratador do óleo é primeiramente tratada em
+hidrociclones.
+Após este tratamento, a água produzida é enca minhada através de
+permutadores, onde trocam calor com o óleo que entra na planta de processo,
+e então é enviada para a unidade de flotação de gás onde há um tratamento
+mais refinado. Após este processo de tratamento a água produzida é então
+41
+resfriada em um trocador antes de ser encaminhada para o vaso de degasser,
+onde o possível gás d issolvido é separado e a água descartada n o mar.
+(ARAÚJO e SOUSA, 2011)
+A fase rica em óleo proveniente dos hidrociclones , e também da
+unidade de flotação, é encaminhada para o vaso de rejeito oleoso, de onde
+será retornada ao processo através de bombeamento.
+O tratamento de água é executado em dois estágios baseado na
+composição de saída da água produzida em cada equipamento. Segundo
+dados operacionais confidenciais, o s hidrociclones estão projetados para
+reduzir o teor de óleo na água, enquanto Unidade de Flotação garantirá um
+teor do óleo de 20 ppm na água produzida a ser descartada para o mar. Todo
+descarte de água da plataforma é regularizado pela CONAMA Resolução n º
+357. A qual especifica que todo descarte de água produzida devera obedecer
+a concentração media aritmética simples mensal de óleos e graxas de ate 29
+mg/L, com valor máximo diário de 42 mg/L.
+A ág ua não enquadrada estocada é encaminhada à planta de
+processo através de bombas. Dependendo do teor de óleo/água esta mistura
+pode ser enviada para a entrada de óleo da planta ou para a corrente de
+água produzida que alimenta os permutadores.
+Os principais equipamentos dessa etapa são:
+TABELA 4: Equipamentos do Sistema de Água Oleosa
+TAG DESCRIÇÃO
+B-FL-533101-01A/B BOMBA DE RECIRCULAÇÃO DE ÁGUA PRODUZIDA
+CI-533101 HIDROCICLONE DO SEPARADOR DE PRODUÇÃO
+CI-533102 HIDROCICLONE DO SEPARADOR DE TESTE
+CI-533103 HIDROCICLONE DO DESIDRATADOR DO ÓLEO
+FL-533101 UNIDADE DE FLOTAÇÃO Á GÁS
+P-533101 RESFRIADOR DE ÁGUA PRODUZIDA
+V-533101 VASO DEGASEIFICADOR
+V-533601 VASO DE REJEITO DE ÁGUA OLEOSA
+B-533601A/B BOMBA DE REJEITO DE ÁGUA OLEOSA
+P-533601A/B AQUECEDOR ÁGUA/ÓLEO
+B-533602A/B BOMBA DE ÁGUA PRODUZIDA PARA O SLOP
+TANQUE
+7.1.1.7. Sistema de Alívio
+A plataforma é provida de três sistemas de alívi o para a coleta e a
+liberação dos gases e vapores para a atmosfera:
+42
+• Tocha de Alta Pressão (HP Flare)
+• Tocha de Baixa Pressão (LP Tocha)
+• Sistema de Vent de Emergência dos Tanques de Carga
+43
+8. Estudo de Caso
+Após explicitado o cenário industrial e a s norma escolhida s para a
+aplicação da classificação de área, este capítulo rea liza estudo de caso da
+classificação de área da plataforma FPSO proposta . A s normas API 505 e
+NFPA foram aplicadas em alguns d os equipamentos de processo, a fim de
+gerar base comparativa entre as mesmas.
+8.1. Análise Total da planta industrial
+A Norma API 505 é separada em capítulos que se diferenciam em
+metodologias, seguindo o tipo de plataforma a ser avaliada. Cada seção
+específica da norma é responsável por classificar um tipo de plataforma,
+dentre elas a FPSO . Para esse caso , a norma oferece uma figura geral
+padrão, na qual a classificação é feita de acordo com a localização dos
+tanques de armazenamento, sala de bombas e a ventilação local.
+A Figura 17 foi obtida da Norma API 505 e deve ser usada como base
+para a classificação da FPSO. As hachuras utilizadas em sua construção
+seguem a simbologia representada na Figura 12.
+Figura 17: Classificação de área em FPSO
+Fonte: API 505
+Como pode-se observar, existe uma padronização esperada quanto a
+localização dos “ cargo tanks ” e da “pump room ” nas plataformas do tipo
+FPSO. Pela norma API 505, a área de armazenamento de tanques é
+classificada como Zona 0, representando risco contínuo, enquanto a sala de
+bombas é classificada como Zona 1, juntamente com toda a área que cerca
+esses “ cargo tanks ”. Pra complementar, a parte superior da plataforma,
+44
+acima dos tanques de armazenamentos, é classificada como Zona 2, por
+apresentar eventuais riscos quanto a presença de atmosferas inflamáveis.
+A F igura 18 exibe a visão frontal da plataforma escolhida para esse
+estudo.
+Figura 18: Visão Frontal da FPSO
+Como pode -se observar na Figura 18 , a plataforma e scolhida para
+estudo segue a padronização esperada quanto a localização dos tanques de
+armazenamento e da sala de bombas, o que permite aplicar classificação de
+áreas de forma similar ao padrão da Figura 17.
+Essa classificação de áreas ampla e geral propo sta pela API 505
+embora útil, possui algumas limitações. Além de não permitir estender a
+classificação para cada equi pamento em particular, também nã o permite a
+comparação com outras normas tradicionais, como a NFPA.
+A Norma NFPA 497 não é específica quanto a classificação de áreas em
+plataformas de petróleo. Na NFPA as áreas são classificadas separadamente
+para cada fonte de ignição, no caso os equipamentos.
+Por permitir a comparação entre essas normas, a aplicação da
+classificação por equipamentos para este trabalho se torna mais eficaz. Note
+que a norma API 505 permite também a classificação por equipamentos.
+8.1.1. Escolha dos Equipamentos
+A principal dificuldade dessa etapa do processo de classificação de
+áreas é obter a lista completa de equipamentos de uma plataforma. Devido a
+complexidade das operações, inúmeras válvulas, bombas, compressores e
+vasos são utilizados em diferentes condições de operação a fim de garantir o
+melhor processamento do óleo. Além disso, a ope radora não disponibiliza a
+lista completa de condições de operação por se tratar de in formações
+sigilosas.
+O layout completo da plataforma utilizada encontra -se no Anexo A
+desse estudo, porém, na F igura 19, pode-se observar uma pequena parte do
+layout da planta.
+45
+Figura 19: Corte do Layout da FPSO
+A visão gener alista da planta e a complexidade das operações
+inviabiliza a análise nítida da mesma. Outro po nto a ser observado na figura
+19 é a restrição quanto ao espaço físico, o que influencia diretamente na
+classificação das áreas nos equipamentos propostos. Existe pouca ou
+nenhuma separação física entre os equipamentos em uma FPSO.
+Tendo em vista a dificuldade de obtenção das condições d e operação
+de todos os equipamentos para o presente estudo a solução encontrada foi
+listar os equipamentos usados somente nas etapas de processamento . As
+condições operacionais destes encontram-se no anexo B.
+46
+TABELA 5: Listagem dos Equipamentos de Processo
+TAG DESCRIÇÃO TIPO DE
+EQUIPAMENTO
+B-122301 BOMBA DO SEPARADOR DE TESTE
+BOMBA
+B-533601A/B BOMBA DE REJEITO DE ÁGUA OLEOSA
+B-533602A/B BOMBA DE ÁGUA PRODUZIDA PARA O
+SLOP TANQUE
+B-FL-533101-
+01A/B
+BOMBA DE RECIRCULAÇÃO DE ÁGUA
+PRODUZIDA
+CI-533101 HIDROCICLONE DO SEPARADOR DE
+PRODUÇÃO
+HIDROCICLONE CI-533102 HIDROCICLONE DO SEPARADOR DE
+TESTE
+CI-533103 HIDROCICLONE DO DESIDRATADOR DO
+ÓLEO
+FL-533101 UNIDADE DE FLOTAÇÃO Á GÁS UNIDADE DE
+FLOTAÇÃO
+P- 122307 SAFETY GAS COOLER
+TROCADOR DE
+CALOR
+P-122303 AQUECEDOR DE TESTE
+P-122304A/B PRÉ-AQUECEDOR ÓLEO/ÓLEO
+P-122305A/B RESFRIADOR DE ÓLEO
+P-533601A/B AQUECEDOR ÁGUA/ÓLEO
+P-122309A/B PRÉ-AQUECEDOR ÓLEO/ÁGUA
+P-122310A/B AQUECEDOR DO DESIDRATADOR DE
+ÓLEO
+P-533101 RESFRIADOR DE ÁGUA PRODUZIDA
+LP-122301/4 LANÇADORES DE PIG LANÇADOR/REC
+EPTOR RP-122301 RECEPTOR DE PIG
+SG-122301 SEPARADOR DE TESTE SEPARADOR SG-122304 SEPARADOR DE PRODUÇÃO
+TO-122301 DESIDRATADOR DE ÓLEO DESIDRATADOR
+V- 122301 SAFETY GAS K.O. DRUM
+VASO
+V-310 FUEL FAS K.O. DRUM
+V-533101 VASO DEGASEIFICADOR
+V-533601 VASO DE REJEITO DE ÁGUA OLEOSA
+V-TO-122301 VASO DE FLASH DO DESIDRATADOR DE
+ÓLEO
+Analisando a tabela 5, constata-se uma repetição qu anto aos tipos de
+equipamentos. Equipamentos similares são empregados ao longo do
+processo, em diferentes posições, com suas devidas variações de condições
+operacionais.
+47
+8.1.1.1. Equipamentos – Bombas
+Por definição, segundo CENGEL e CIMBALA (2008), as bombas são
+um tipo de turbomáquina. A palavra bomba, é um termo geral para qualquer
+máquina de fluido que adiciona energia ao mesmo. Esse aumento da energia
+do fluido em geral é sentido como um aumento da pressão do mesmo.
+Ao longo do processamento em uma FPSO são utilizadas inúmeras
+bombas.
+A norma API 505 é c lara quanto a classificação de áreas em bombas,
+variando de acordo com o tipo da mesma e sua localização (ventilação) . No
+caso da FPSO adotada para análise, nas etapas de processamento, quatro
+bombas são utilizadas conforme observa -se na tabela 3. Sendo uma bomb a
+do separador teste, uma bomba de rejeito de água oleosa, e duas bombas de
+água para diferentes utilidades. Analisando as especificações técnicas de
+cada uma, conforme Anexo B, a bomba escolhida para a análise foi a do
+separador de teste, de deslocamento positivo. Essa escolha ocorreu por essa
+bomba possuir uma maior capacidade, em volume por hora.
+8.1.1.1.1. API 505
+Para a API 505, adota ndo a bomba como localizada em á rea aberta e
+com ventilação ad equada, a classificação exige um isolamento de 3 metros
+ao redor do equipamento, sendo classificado como zona 2, conforme figura
+20.
+Figura 20: Compressor ou Bomba em área ventilada
+FONTE: API 505
+8.1.1.1.2. NFPA 497
+No caso da norma NFPA 497, considerando-se as condições
+operacionais da bomba escolhida, a seguinte tabela foi gerada a partir das
+condições dos equipamentos (Anexo B) e da padronização da norma.
+TABELA 6 - Análise da Bomba do Separador
+TAG DESCRIÇÃO FLUIDO PRESSÃO VAZÃO VOLUME
+B-122301 BOMBA DO SEPARADOR DE
+TESTE óleo/água/gás M M M
+48
+As medidas de pressão e vazão foram baseadas nas condições
+operacionais do equipamento, sendo devidamente convertidas as unidades a
+fim de se enquadrar nos parâmetros da tabela 1. O volume foi adotado como
+moderado devido a falta de informação mais exata . Sendo assim, de acordo
+com a norma NFPA esse equipamento requer um isolamento de 4,57 metros
+ao seu redor de zona 2 . A figura 21 exibe a região marcada. Neste caso a
+área classificada pela NFPA possui extensão superior aquela apontada na
+API 505.
+Figura 21: Fonte localizada do chão contendo gás inflamável.
+FONTE: NFPA 497
+Analisando as hachuras existentes na figura 21 (que segue a simbologia
+adotada na figura 12), destaca -se ainda a existência de zona 1 no solo ,
+próximo de onde a fonte esta localizada. Essa classificação se faz necessária
+caso exista algum tipo de desnível do chão, canaletas ou valas por exemplo,
+no qual pode haver acúmulo de gases inflamáveis.
+8.1.1.2. Equipamentos – Hidrociclones
+Os hidrociclones são equipamentos utili zados para a separação através
+da força centrífuga . N o caso do processamento offshore, esses
+equipamentos são utilizados principalmente para a separação de água e óleo,
+na etapa de processamento da água oleosa. (COUPER, 2012)
+Observando as informações técnicas contid as no Anexo B para os
+hidrociclones, foi escolhido o hidrociclone do separador de produção, por
+possuir uma maior vazão de operação.
+8.1.1.2.1. API 505
+Seguindo a classificação de área da norma API 505, aconselha -se um
+afastamento de 1,5 metros ao redor do hidrociclone em ope ração, sendo
+essa área ao seu redor considerada Zona 2, conforme figura 22.
+49
+Figura 22: Hidrociclone conforme API 505
+FONTE: API 505
+8.1.1.2.2. NFPA 497
+No caso do hidrociclone a Norma NFPA 497 gera a seguinte tabela. O
+volume do hidrociclone também foi adotado como M baseado nas
+informações de pressão e vazão existentes, devido a falta de informações do
+mesmo.
+Tabela 7 – Análise do Hidrociclone do Separador de Produção
+TAG DESCRIÇÃO FLUIDO PRESSÃO VAZÃO VOLUME
+CI-
+533101
+HIDROCICLONE DO
+SEPARADOR DE PRODUÇÃO água/óleo M M M
+De acordo com a norma NFPA , o fato de possuir somente líquido
+inflamável impõe uma área classificada do tipo Zona 2 de 0,915 metros ao
+redor do equipamento, e uma extensão de 3,05 metros para as laterais, com
+espessura de 0,457 metros de Zona 2, conforme observado na figura 23.
+Figura 23: Fonte localizada no solo de liquido inflamável
+FONTE: NFPA 497
+Observando a F igura 23, pode -se constatar uma diferença quanto ao
+tipo de diagrama fornecido pela NFPA quando comparado com a API 505.
+Para este caso especificamente, a norma NFPA adota uma distribuição da
+possível atmosfera inflamável menos “volumosa” ao redor da fonte , e mais
+extensa nas laterais, e nquanto a norma API 505 prefere uma distribuição
+50
+homogênea da atmosfera explosiva, o que resulta em uma área maior de
+Zona 2.
+Novamente a presença de Zona 1 na figura 22 ocorre com o intuito de
+alertar ao usuário da norma possíveis focos de acú mulo de gases
+inflamáveis.
+8.1.1.3. Equipamentos – Unidade de Flotação
+A unidade de flotação neste processo é empregada pra tratamento de
+água oleosa, após a passagem pelos hidrociclones. Como observado no
+Anexo B, a concentração de óle o ( substância inflamável) é baixa. Assim,
+esse equipamento não se enquadra na classificação de áreas aplicada nesse
+estudo.
+8.1.1.4. Equipamentos – Trocadores de Calor
+Como o próprio nome sugere este equipamento é responsável por
+efetuar a troca térmica entre fluidos que se encontram em diferentes
+temperaturas. Essa troca ocorre através de uma parede sólida que separa os
+dois fluidos. Os trocadores costumam ser classificados em função da
+configuração do esco amento e do tipo de construção, podendo ser de tubos
+concêntricos, de escoamento cruzado, e o mais comum, trocadores casco e
+tubos. (COUPER, 2012)
+Ao longo do processamento de óleo na FPSO pode-se observar o uso
+de alguns trocadores, como listados na tabela 3. Analisando a disponibilidade
+de informações das condições de operação no Anexo B, o trocador escolhido
+para a análise foi o casco tubo Safety Gas Cooler, p or utilizar gás na troca
+térmica.
+8.1.1.4.1. API 505
+De acordo com norma API 505, esse tipo de trocador pode ser
+enquadrado e classificado conforme um vaso de pressão contendo
+hidrocarbonetos, e assim, a classificação define uma área classificada do tipo
+Zona 2 de 3 metros ao redor do equipamento, conforme figura 24.
+51
+Figura 24: Equipamento contendo hidrocarbonetos
+FONTE: API 505
+8.1.1.4.2. NFPA 497
+Seguindo a NFPA 497, esse trocador, localizado em ambiente aberto e
+com ventilação adequada, pode ser classificado com as seguintes
+características:
+Tabela 8 - Análise do Safety Cooler
+TAG DESCRIÇÃO FLUIDO PRESSÃO VAZÃO VOLUME
+P-
+122307
+SAFETY GAS
+COOLER gás M M M
+Novamente, o volume do equipamento foi adotado como median o,
+baseado nas outras condições de operação, por falta de informações exatas.
+A figura 25 representa a classificação conforme a norma NFPA.
+Figura 25: Fonte localizada do chão contendo gás inflamável.
+FONTE: NFPA 497
+52
+Segundo a norma NFPA, a classificação desse equipamento define
+uma área do tipo Zona 2 ao redor da fonte, com extensão de 4,57 metros. A
+presença de Zona 1 só se faz necessária caso haja existência de depressões
+no solo.
+Para esse caso, novamente a norma NFPA 497 apre senta área de
+classificação maior quando comparada a API 505.
+8.1.1.5. Equipamentos- Lançadores/ Receptores de PIG
+Um sistema im portante em uma plataforma FPSO é o lançamento e
+recebimento de PIG. Este sistema é utilizado para a inspeção de oleodutos e
+gasodutos. Trata-se de uma ferramenta importante na avaliação da
+integridade dos dutos e a consequente manutenção operacional dos mesmos.
+Ele também pode ser utilizado para limpeza dos dutos. (COUPER, 2012).
+Um tipo particular é o PIG instrumentado, que se desloca no interior
+dos dutos, imp ulsionado pelo próprio fluido. Segundo MANCINTYRE (1997),
+este equipamento é capaz de armazenar os registros da operação para
+análise e avaliação posteriores, auxiliando na definição de ações preventivas
+ou corretivas necessárias.
+8.1.1.5.1. API 505
+A norma API 505 é clara quanto a classificação de lançadores e/ou
+receptores de PIG em áreas abertas e co m ventilação adequada, requerendo
+um afastamento de 1,5 metros, de Z ona 1, na á rea ao redor da instal ação, e
+uma extensão de segurança de 3 metros, como Zona 2, ao redor da m esma,
+seguindo Figura 26.
+Figura 26: Lancadores/Receptores de PIG
+FONTE: API 505
+53
+8.1.1.5.2. NFPA 497
+A falta de informação quanto as condições de operação desses
+equipamentos na plataforma inviabiliza a classificação pela Norma NFPA 497.
+Não produzindo assim base comparativa.
+8.1.1.6. Equipamentos – Separadores
+O separador gravitacional trifásico realiza a separ ação do gás, água e
+óleo. A vazão e o tempo de residência da carga proveniente do poço sã o as
+variáveis que controlam o processo, segundo COUPER (2012).
+A Figura 27 exemplifica a operação de um separador de produção.
+Figura 27: Correntes do Separador Trifásico
+O separador de produção trifásico, conforme observa -se na Figura 25,
+opera com fluido inflamável, pro piciando uma atmosfera explosiva em caso
+de vazamento.
+8.1.1.6.1. API 505
+Considerando que esse equipamento encontra -se em uma área não
+enclausurada e com ventilação adequada, de acordo com a norma API 505,
+esse equipamento se enquadra como um vaso de p rocessamento de
+hidrocarbonetos e assim, requer um isolamento de 3 metros de se gurança ao
+seu redor, de Zona 2, conforme Figura 28.
+54
+Figura 28: Equipamento contendo hidrocarbonetos
+FONTE: API 505
+8.1.1.6.2. NFPA 497
+A análise das condições de operação , conforme Anexo B, gerou a
+seguinte tabela:
+Tabela 9- Análise do Separador de Produção
+TAG DESCRIÇÃO FLUIDO PRESSÃO VAZÃO VOLUME
+SG-
+122304
+SEPARADOR DE
+PRODUÇÃO óleo/água/gás P G G
+Pelo fato desse equipamento possuir condições de operação mais
+severas que os previamente tratados, a classificação seguindo a NFPA 497
+se dá de maneira diferenciada.
+Para esse caso, considerando o equipamento localizado em uma área
+aberta e com adequada ventilação, a norma especifica uma área de Zona 2
+de 7,42 metros sobre o equipamento e acima do solo, com 15,24 metros para
+as laterais. A norma define ainda um prolongamento lateral com espessura
+de 0,61 metros. A Figura 29 tem como objetivo facilitar o entendimento.
+55
+Figura 29: Fonte localizada no solo de grande porte
+FONTE: NFPA 497
+Deste modo, p ara o separador, a norma API 505 apresentou um
+diagrama mais simples, com áreas de classificação significativamente
+menores quando comparado com a norma NFPA 497 . E sta leva em
+consideração as dimensões do equipamento a ser analisado assim como sua
+vazão. Novamente observa -se que para equipamentos operando em
+condições severas ou moderadamente severas a norma NFPA retorna áreas
+classificadas com dimensões maiores que aquelas obtidas na API 505.
+8.1.1.7. Equipamentos – Desidratador
+O desidratador eletroestático de óleo , aplicado n esse processo
+especificamente, é acoplado a um vaso d e flash. Esse proce sso permite a
+estabilização do óleo que, desidratado, é armazenado em tanques de carga
+para processamentos futuros.
+8.1.1.7.1. API 505
+De acordo com a Norma API 505, esse equipamento segue a linha de
+classificação dos outros equipamentos que manuseiam fluidos de
+hidrocarbonetos, exigindo uma marcação de 3 metros, de Zona 2, ao redor
+do equipamento, conforme Figura 30.
+56
+Figura 30: Equipamento contendo hidrocarbonetos
+FONTE: API 505
+8.1.1.7.2. NFPA 497
+Seguindo a norma, analisando as condições operacionais, gerou-se a
+seguinte tabela:
+Tabela 10 – Análise do Desidratador de Óleo
+TAG DESCRIÇÃO FLUIDO PRESSÃO VAZÃO VOLUME
+TO-
+122301
+DESIDRATADOR DE
+ÓLEO
+óleo/
+água P G G
+Apesar do equipamento não operar com elevadas pressões, a va zão
+nele processada assim como seu volume, são considerados de grande porte.
+O diagrama escolhido para esse caso foi semelhante ao do separador
+trifásico, conforme Figura 31.
+Figura 31: Fonte localizada no solo de grande porte
+FONTE: NFPA 497
+57
+Novamente, a norma NFPA 497 adota área de classificação maior que
+a norma API 505, por levar em consideração as dimensões e condições de
+processo do equipamento.
+8.1.1.8. Equipamentos – Vasos
+Apesar de alguns equipamentos já descritos se enquadrarem nessa
+categoria, como os próprios sepa radores, em uma plataforma FPSO existe
+uma descriminação quanto a classificação de vasos e separadores trifásicos,
+afim de especificar suas devidas funções no processamento.
+Observando a lista das condições operacionais dos vasos, no Anexo B,
+percebe-se a presença de degaseificadores e de um vaso de rejeito oleoso.
+Pela análise das condições de operação e visando sempre uma análise mais
+prevencionista, para este estudo foi escolhido o vaso de rejeito oleoso.
+8.1.1.8.1. API 505
+Analisando o formato do equipamento e o processamento nele
+ocorrente, pode-se classifica-lo da mesma maneira como foi explicitado para
+o separador trifásico previamente. Sendo ele classificado com um
+equipamento que processa hidrocarbonetos, adota-se u ma marcação de 3
+metros, de zona 2, ao redor do equipamento, conforme figura 32.
+Figura 32: Equipamento contendo hidrocarbonetos
+FONTE: API 505
+58
+8.1.1.8.2. NFPA 497
+No caso da norma NFPA 497, a seguinte tabela deve ser analisada:
+Tabela 11 – Análise do Vaso de Rejeito Oleoso
+TAG DESCRIÇÃO FLUIDO PRESSÃO VAZÃO VOLUME
+V-533101 VASO DE REJEITO
+OLEOSO Água/óleo P P P
+O equipamento em questão possuir estruturas físicas de pequenas
+proporções e não manuseia gás inflamável. A vazão do equipamento foi
+adotada como pequena, baseando -se na pressão e n o volume também
+pequenos.
+A ausência de gases inflamáveis, e as condições brandas de operação
+deste equipamento, segun do a norma NFPA, resulta em uma área
+classificada do tipo Zona 2 de 0,915 metros ao redor do equipamento, e uma
+extensão de 3,05 metros para as laterais, com espessura de 0,457 metros de
+Zona 2, conforme observado na figura 33.
+Figura 33: Fonte localizada no solo de liquido inflamável
+FONTE: NFPA 497
+Comparativamente, a norma API 505 adota uma área de maior volume
+que a NFPA 497 ao redor do equipamento como um todo . Entretanto, a
+extensão nas laterais da área classificada seguindo NFPA é maior, o que
+evidencia possíveis diferenças de premissas na construção desses
+diagramas.
+59
+9. Resultados e Discussões
+Neste capítulo encontram -se as figuras representando os
+equipamentos reais da FPSO e suas respectivas áreas classificadas. As
+marcações das zonas vieram das análises e recomendações feitas no
+capítulo anterior. Todos os equipamentos foram considerados como estando
+localizados no solo, com ausência de confinamento, ventilação adequada e
+sem presença de qualquer condição de processo especia l. As legendas das
+hachuras deste capítulo seguem os parâmetros adotados na figura 34.
+Figura 34- Hachuras para Classificação de Zonas
+Fonte: API RP 505, 1997.
+9.1. Bomba do Separador Teste
+Figura 35: Bomba do Separador – API 505
+Figura 36: Bomba do Separador – NFPA 497
+60
+Observando as duas im agens geradas pelas diferentes n ormas, podese perceber a maior especificidade da NFPA 497, justamente por levar em
+consideração o tipo de processamento ocorrido no equipamento, enquanto a
+norma API 505 não é especifica para diferentes condições de operações.
+Neste caso, a falta de especificidade da norma API 505 gerou uma
+área de classificaçã o menor do que a norma NFPA 497. Em teoria , essa
+diferença pode representar uma insegurança maio r na aplicação d a norma
+API 505, embora isso venha sendo observado na prática.
+9.2. Hidrociclone do Separador de Produção
+Figura 37: Hidrociclone – API 505
+Figura 38: Hidrociclone – NFPA 497
+Comparativamente, tanto a NPFA 497 quanto a API 505 não exigem
+um grande afastamento ao redor do equipamento para este caso. A principal
+diferença das normas é quanto a extensão lateral das áreas. A norma API
+505 adota uma distribuição homogênea da área classificada ao redor do
+equipamento, enquanto a NFPA 497 utiliza uma área ao redor da fonte menor,
+mas de maior extensão lateral.
+A fim de tornar semlehante o tipo de distribuição ocorrida nas duas
+normas, p oderia ser aplicado a área de extensão para a no rma API 505 .
+Entretanto, não se viu necessidade dessa utilização em virtude d o
+61
+processamento vigente no equipamento , baixas vazões e pressões e a área
+física limitada da planta conforme demonstrado no Anexo A.
+9.3. Safety Gas Cooler
+Figura 39: Safety Gas Cooler – API 505
+Figura 40: Safety Gas Cooler – NFPA 497
+Comparando as imagens obtidas com as diferentes normas, constata -
+se uma semelhança na distribuição das duas áreas classifica das. Ambas são
+caracterizadas como Zona 2, entretanto a norma NFPA 497 apresentou uma
+área de maior extensão ao redor da fonte.
+Conforme já explicitado, a norma API 505 não avalia as condições
+operacionais particulares do equipamento em análise , enquanto a norma
+NFPA 497 avalia a operação do equipamento na escolha do diagrama. Assim,
+a presença de gás inflamável na operaç ão e as condições mais severas
+desse equipamento influenciaram diretamente a extensão da área
+classificada.
+Com isso, a área de segurança requerida na segunda norma foi maior
+que na API 505.
+62
+9.4. Lançadores/Receptores de PIG
+Figura 41: Lançador/Receptor de PIG – API 505
+Conforme explicado anteriormente, a ausência de informações quanto
+as condições de operação desses equipamentos impede a classificação
+conforme NFPA. Entretanto a API é especí fica quanto a esse tipo de
+equipamento e requer uma marcação de 1,5 m de raio na saída d o
+lançador/receptor, como Sona 1 e um raio de 3m também ao redor da mesma
+saída, de Zona 2.
+9.5. Separador de Produção
+Figura 42: Separador de Produção – API 505
+Figura 43: Separador de Produção – NFPA 497
+63
+Neste equipamento pode-se evidenciar de forma clara a diferença das
+normas aplicadas. Enquanto a norma API 505 classifica o equipamento de
+maneira genérica, apenas pela operação nele procedente (manuseio de
+hidrocarbonetos) a NFPA 497 leva em consideração tanto o fluido nele
+existente (líquido e gás inflamáveis) , como seu tamanho físico e condições
+operacionais.
+Assim, quando considerado o tamanho do equipamento utilizado e a
+elevada vazão operada, mesmo com bai xa pressão, houve uma enorme
+discrepância entre as áreas aplicadas, evidenciando a maior especificidade
+da norma NFPA 497.
+9.6. Desidratador de Óleo
+Figura 44: Desidratador de Óleo – API 505
+Figura 45: Desidratador de Óleo – NFPA 497
+Novamente, as observações feitas para o separador de produção são
+válidas. Tanto o tamanho do equipamento, quanto suas medidas de vazão e
+pressão operacionais foram fatores cruciais para a explicação da diferença
+entre as áreas classificadas.
+64
+9.7. Vaso de Rejeito Oleoso
+Figura 46: Vaso de Rejeito Oleoso – API 505
+Figura 47: Vaso de Rejeito Oleoso – NFPA 497
+Para este equipamento ocorre claramente a condição inversa daquela
+observada nos equipamentos anteriores. Observando as imagens geradas
+pelas duas normas, pode -se perceber um prevenc ionismo maior da norma
+API 505.
+Pela norma NFPA 497 as condições operacionais brandas desse
+equipamento resultaram em áreas de classificação pequenas em volume,
+porém com extensão lateral maior. Essa diferença ocorre provavelmente
+devido a diferentes premissas adotas na construção desse diagrama na
+norma NFPA 497. A norma API 505, por outro lado, por ser genérica, assume
+condições operacionais sempre mais severas. Nesse caso especi fico a API
+mostrou-se conservadora quando comparada a NFPA.
+Ao todo, pode -se observar uma maior especificidade da norma NFPA
+497, quando comparada a norma API 505. Destaca-se que ao levar em
+consideração as condições operacionais dos equipamentos, a norma NFPA
+resultou, no geral, em diagramas com áreas classificadas maiores,
+contrariando a ideia inicial desse trabalho que apontava a API 505 como uma
+norma mais prevencionista . Além da diferença no tamanho das áreas, a
+geometria das mesmas também variou ao re dor do equipamento. A norma
+API 505 adota uma geometria de área classificada, que segue os contornos
+do equipamento analisado, enquanto a norma NFPA 497, por algumas vezes,
+65
+apresenta geometria pré -estabelecida, por se tratar de fonte de ignição,
+apesar da fonte de ignição ser o próprio equipamento.
+66
+10. Conclusão
+O objetivo deste estudo foi avaliar e comparar na prática duas das
+principais normas existente s para classificação de áreas. Para tanto, foi
+empregada como estudo de caso uma planta de plataforma offshore do tipo
+FPSO. Optou-se por adotar como referência as normas API 505, específica
+para a indústria de petróleo, e NFPA 497, de caráter genérico.
+A partir da s análises foi possível definir que o s volumes de área s
+classificadas nos entornos dos equipamentos são relevantes e variam
+conforme as normas adotas . Pode-se observar a predominâ ncia de áreas
+classificadas do tipo zona 2, onde a concentração de ignição de gases ou
+vapores não é esperada durante a operação normal, atenua ndo o risco pela
+baixa probabilidade de ocorrer liberação de material inflamável.
+A partir das análises realizadas foi possível evidenciar as diferenças
+das normas aplicadas, pr incipalmente devido ao fato d a norma NFPA 497
+considerar fatores como condições de operação do equipamentos e
+dimensões. Por outro lado , a facilidade de aplicação da norma API 505,
+principalmente pela generalização nela aplicada para diferentes
+equipamentos, permite a utilização desta para o setor petrolífero.
+A dificuldade de conseguir material informativo quanto as operações
+ocorridas em uma FPSO, assim como sua planta legítima de operação,
+dificultaram a aplica ção das normas escolhidas na pró pria planta , como é
+feito de costume em cenário real de classificação. Porem ficou claro que
+embora a norma API 505 destine -se especificamente a indústria de petróleo,
+esta pode não se mostrar completamente conservadora em cenários de
+elevada severidade. Seu uso no e ntanto em equipamentos menos severos
+mostra-se extremamente prevencionista quando comparado ao emprego da
+norma NFPA 497.
+As seguintes propostas para futuros trabalhos poderiam complementar
+o material apresentado: classificar outros equipamentos não contid os e
+detalhados neste trabalho; criação de uma planta virtual em Autocad de uma
+FPSO para aplicação das áreas classificadas em uma vista superior da
+mesma, dando uma visão geral do projeto de classificação.
+67
+Referência Bibliográfica
+[1] AMERICAN PETROLEUM INSTITUTE. API RP 500 - recommended
+practice for classification of locations for electrical installations at petroleum
+facilities classified as class I, division 1 and division , 2 ed. USA: API. 1997
+and reaffirmed 2002. 121 p.
+[2] AMERICAN PETROLEUM INSTITUTE. API RP 505 - recommended
+practice for classification of locations for electrical installations at petroleum
+facilities classified as class I, zone 0, zone 1 & zone 2, 1 ed. USA: API. 1997
+and reaffirmed 2002. 132 p.
+[3] AMORIM, Tailand Oliveira. Plataformas Offshore Uma Breve Análise
+Desde a Construção ao Dimensionamento. Curso de Tecnologia em
+Construção Naval – UEZO. Rio de Janeiro, 2010
+[4] ARARUNA JR, José. Gerenciamento de Resíduos na Indústria de Petróleo e Gás -
+Série Engenharia de Petróleo. Editora: Elsevier. 1 / 2013
+[5] ARAÚJO, Maria Adelina Santos Araújo, Maria; SOUSA, Elisabeth Cristina
+Molina de. Processamento de Petróleo e Gás. Editora: Ltc . 1/ 2011
+[6] ASSOCIAÇÃO BRASILEIRA PARA PREVENÇÃO DE EXPLOSÕES.
+Manual de Bolso de Instalações Elétricas em Atmosferas Explosivas. 4.ed.
+São Paulo, Set. 2010.
+[7] BRET-ROUZAT, Nadine. FAVANNEC, Jean -Pierre. Petróleo & Gás
+Natural Como Produzir e a que Custo. Editora Synergia, segunda edição
+revista e ampliada.
+[8] BUCKLEY, Marcia. A Dictionary of Petroleum Terms English - Portuguese.
+Macaé: Editora Noble .
+[9] CASANOVA, Renata Alves. Pereira, Wagner Guedes Guimarães. Análise
+do Sistema Elétrico de uma Unidade de Produção de Petróleo. Trabalho de
+Conclusão de Curso – Engenharia Elétrica – Escola Politécnica, Universidade
+federal do Rio de Janeiro, 2008.
+[10] COUPER, James R. PENNEY, W. Roy. FAIR, James R. Chemical
+Process Equipment, Second Edition: Selection and Design, 2012
+[11] CRUZ, Simone Regina Albuquerque da. Análise Comparativa das
+Metodologias Utilizadas Para Classificação de Áreas Potencialmente
+Explosivas em Unidades de Refino de Petróleo. Rio de Janeiro, 2012.
+Dissertação (Mestrado em Tecnologia de Processos Químicos e
+Bioquímicos) – Escola de Química, U niversidade Federal do Rio de Janeiro,
+2012.
+[12] ERTHAL, L. Atmosferas potencialmente explosivas: um estudo de caso
+como contribuição para a classificação de áreas na atividade da indústria do
+petróleo, química e petroquímica. Niterói, 2004. 120f. Disser tação (Mestrado
+68
+em Gestão de Segurança do Trabalho) -Curso de Pós -Graduação,
+Universidade Federal Fluminense, 2004.
+[13] FREITAS, R.P. Classificação de áreas – instalações elétricas e
+equipamentos em atmosferas explosivas. Curitiba, 2010. 152f. Trabalho de
+Conclusão de Curso – Engenharia Elétrica. Universidade Federal do Paraná,
+2010.
+[14] FUHRMANN, Gustavo Lamim. Estudo de Classificação de Área em
+Unidade de Destilação do LADEQ. Monografia em Engenharia Química –
+Escola de Química, Universidade Federal do Rio de Janeiro, 2012.
+[15] JORDÃO, D.M.; Franco, L.R. Prevenção contra explosões e outros riscos.
+Curso de formação de operadores de refinaria.Curitiba, Petrobras, UnicenP,
+2002.
+[16] MANCINTYRE, Archild Joseph. Equipamentos Industriais e de Processo.
+Editora :Ltc, 1997.
+[16] MORAES, Jose Mauro de. Petróleo em Águas Profundas. IPEA, 2013
+[17] NETO, Artur Watt. Petróleo, Gás Natural e Biocumbustíveis – Col. Direito
+Econômico. Rio de Janeiro .Editora Saraiva. 1/2014
+[18] NFPA 497: Recommended Practice for the Classification of Flammable
+Liquids, Gases, or Vapors and of Hazardous (Classified) Locations for
+Electrical Installations in Chemical Process Areas. 1997 Edition.
+[19] RESOLUÇÃO CONAMA nº 393, Seção 1, páginas 72-73, 2007.
+[20] T O S, osé Eduardo. Fundamentos de Engen aria de Petr leo. io
+de aneiro: Editora nterciência, 00 .
+API – American Petroleum Institute. Disponível em: < http://www.api.org/>.
+Acesso em: 12 de dezembro de 2013.
+Canal Jornal 16 – Informações da EFOMM. Disponivel em:
+<http://jornalcanal16.com> Acesso em: 14 de janeiro de 2014
+Engenharia Naval e Oceânica. Disponível em:
+<http://www.oceanica.ufrj.br/deno/prod_academic/relatorios/atuais/DanielA+F
+abio/relat1/Frame.htm > . Acesso em: 19 de fevereiro de 2014.
+Global Security, Disponível em:
+<http://www.globalsecurity.org/military/systems/ship/platform-tensionleg.htm> . Acesso em: 19 de feveireiro de 2014.
+IEC – International Electrotechnical Commission . Disponível em:
+<http://www.iec.ch/>. Acesso em: 12 de dezembro de 2013.
+69
+Modec – Floating Production Solutions. Disponivel em:
+http://www.modec.com/fps/fpso_fso/projects/stybarrow.html. Acesso em: 19
+de fevereiro de 2014.
+NFPA - National Fire Protection Association. Disponível em:
+<http://www.nfpa.org/> Acesso em: 12 de dezembro de 2013.
+Petrobras – Petróleo Brasileiro S/A. Disponível em:
+<http://www.petrobras.com.br/pt/> Acesso em: 10 de dezembro de 2013
+Portal Marítimo – Tudo sobre Marinha Mercante, Offshore e Petróleo.
+Disponível em : < http://portalmaritimo.com/2011/08/02/plataformas-autoelevaveis/ .>. Acesso em :19 de fevereiro de 2014.
+Queiroz Galvão Óleo e Gás. Disponível em:
+<http://www.qgog.com.br/static/ptb/historia-empresa.asp> . Acesso em: 19 de
+fevereiro de 2014.
+Rio Grande Offshore – Canal Info rmativo . Disponivel em :
+<http://www.riograndeoffshore.com/2011/03/plataforma-de-mexilhao-entraem.html > em: 19 de fevereiro de 2014.
+70
+ANEXO A – LAYOUT DA FPSO
+71
+ANEXO B – CONDIÇÕES DE OPERAÇÃO DOS EQUIPAMENTOS
+B.1 – BOMBAS
+TABELA B.1: Bomba do Separador de Teste (B-122301)
+Capacidade 62 m3/h
+Head 98/101 m
+Tipo Deslocamento Positivo
+Energia Elétrica
+Temperatura operacional 90°C
+Temperatura do projeto 120°C
+Pressão da descarga 882 KPag
+Pressão do projeto 1305 KPag
+TABELA B.2: Bomba de água produzida (B-FL-533101A/B)
+Capacidade 46 m3/h
+Head 46 m
+Tipo Rotativo
+Energia Elétrico
+Temperatura de operação 140°C
+Temperatura de projeto 170°C
+Pressão de descarga 755 KPag
+Pressão de projeto (Set da PSV) 1155 KPag
+Fabricante: Netzsch
+72
+TABELA B.3: Bomba de Rejeito Oleoso (B-533601A/B)
+Capacidade 11 m3/h
+Head 98.2 m
+Tipo Cavidade progressiva
+Energia Elétrico
+Temperatura operacional 90°C
+Temperatura do projeto 120°C
+Pressão da descarga 1158 KPag
+Pressão do projeto 1305 KPag
+Fabricante: Netzsch
+TABELA B.4: Bomba de água produzida do Tanque de Slop (B-
+533602A/B)
+Capacidade 15 m3/h
+Head 133 m
+Tipo Centrífuga
+Energia Elétrica
+Temperatura operacional 40°C
+Temperatura do projeto 70°C
+Pressão da descarga 1355 KPag
+Pressão do projeto 1507KPag
+Fabricante: Netzsch
+73
+B.2 – HIDROCICLONES
+TABELA B.5: Hidrociclone do Separador de Produção (CI-533101)
+Vazão
+Mínima
+11 m3/h
+Máxima 110 m3/h
+Rejeito máximo (overflow) 5%
+Temperatura de operação 90°C
+Temperatura de projeto 120°C
+Pressão da entrada 732 KPag
+Pressão de projeto 1305 KPa
+Fabricante: Petreco/ITS
+TABELA B.6: Hidrociclone do Separador de Teste(CI-533102)
+Vazão
+Mínima
+4,6 m3/h
+Máxima 46 m3/h
+Rejeito máximo (overflow) 5%
+Temperatura de operação 90°C
+Temperatura de projeto 120°C
+Pressão da entrada 732 KPag
+Pressão de projeto
+1305 KPag
+Fabricante: Petreco/ITS
+74
+TABELA B.7 Hidrociclone do Desidratador de Óleo (CI-533103)
+Vazão
+Mínima 9.2 m3/h
+Máxima 92 m3/h
+Rejeito máximo (overflow) 5%
+Temperatura de operação 140°C
+Temperatura de projeto 170°C
+Pressão da entrada 700 KPag
+Pressão de projeto 1305 KPag
+Fabricante: Petreco/ITS
+B.3 – TROCADORES DE CALOR
+TABELA B.8: PRÉ-AQUECEDOR ÓLEO/ÁGUA ( P-122309A/B )
+Lado Frio Lado Quente
+Entrada Saída Entrada Saída
+Fluido Óleo Água produzida
+Vazão (kg/h) 138620 97605
+Temperatura op. (°C) 36 72 105 66
+Pressão op. (KPag) 1077 930 340 242
+Temperatura de projeto (°C) 170
+Pressão do projeto (KPag) 1503 1305
+Troca Térmica (W) 4.46 x 106
+Fabricante: AlfaLaval
+75
+TABELA B.9 PRÉ-AQUECEDOR ÓLEO/ÓLEO (P-122304A/B)
+Lado do Casco Lado dos Tubos
+Entrada Saída Entrada Saída
+Fluído Óleo estabilizado Óleo Cru
+Vazão (kg/h)
+Temperatura op. (°C) 140 100 72 90
+Pressão op. (KPag) 340 290 930 783
+Temperatura de projeto (°C) 170 120
+Pressão do projeto (KPag) 536 1503
+Troca Térmica (W) 2.43 x 106
+Fabricante: CBC
+TABELA B.10: Aquecedor de Teste (P-122303)
+Lado do Casco Lado dos Tubos
+Entrada Saída Entrada Saída
+Fluído Óleo cru Água quente
+Vazão (kg/h) - -
+Temperatura op. (°C) 36 90 180 130
+Pressão op. (KPag) 930 783 1370 1280
+Temperatura de projeto (°C) 120 210
+Pressão do projeto (KPag) 1503 2150
+Troca Térmica (W) 6.91 x 106
+Fabricante: CBC
+76
+TABELA B.11: Aquecedor do Desidratador de Óleo P-122310A/B
+Lado do Casco
+Lado do Tubo
+Entrada Saída Entrada Saída
+Fluído Óleo Cru Água Quente
+Vazão (kg/h) - -
+Temperatura op. (°C) 90 140 180 130
+Pressão op. (KPag) 500 340 1370 1280
+Temperatura de projeto (°C) 170 210
+Pressão do projeto (KPag) 1305 2150
+Troca Térmica (W) 7.27 x 106
+Fabricante: CBC
+TABELA B.12: Resfriador de Óleo (P-122305A/B)
+Lado Frio Lado Quente
+Entrada Saída Entrada Saída
+Flúido Água de mar Óleo
+Vazão (m3/h) 1022 190
+Temperatura op. (°C) 29 39 100 50
+Pressão op. (KPag) 270 170 226 75
+Temperatura de projeto (°C) 130
+Pressão do projeto (KPag) 912 536
+Troca Térmica (W) 6.20 x 106
+Fabricante: Tranter
+77
+TABELA B.13: Safety Gas Cooler (P-122307)
+Lado do Casco Lado do Tubo
+Entrada Saída Entrada Saída
+Flúido Gás Água do Mar
+Vazão 24.000 Kg/h 164 m3/h
+Temp. operação (°C) 90 40 29 39
+Pressão de operação (KPag) 783 755 270 170
+Temperatura de projeto(°C) 120 69
+Pressão de projeto (KPag) 1305 912
+Troca Térmica (W) 1.96 x 106
+TABELA B.14: Resfriador de Água Produzido (P-533101)
+Lado Frio Lado Quente
+Entrada Saída Entrada Saída
+Líquido Água do mar Água produzida
+Vazão (m3/h) 500 200
+Temp. de operação (°C) 29 39 66 40
+Pressão de op. (KPag) 270 170 105 55
+Temp. de projeto (°C) 130
+Pressão de projeto
+(KPag) 912 343
+Troca Térmica (W) 5.95 x 106
+Fabricante: Tranter
+78
+TABELA B.15: Resfriador do rejeito oleoso (P-533601)
+Lado Frio Lado Quente
+Entrada Saída Entrada Saída
+Líquido Àgua do Mar Rejeito oleoso
+Vazão (m3/h) 15 10
+Temp. operação (°C) 29 39 105 90
+Pressão op. (KPag) 270 170 245 195
+Temp. de projeto (°C) 69 170
+Pressão do projeto (KPag) 912 536
+Troca Térmica (W) 1.8 x 105
+Fabricante: Jaraguá
+B.4 – SEPARADORES
+TABELA B.16: Separador Trifásico Horizontal (SG-122304)
+Capacidade -
+Material O aço carbono revestido internamente com
+derakane
+Temperatura operacional 90°C
+Temperatura do projeto 120°C
+Pressão da operação 783 KPag
+Pressão de projeto 1305 KPag
+Isolamento térmico 38 mm
+Fabricante: Petreco/Bardella
+79
+TABELA B.17: Separador Trifásico Teste (SG-122301)
+Capacidade -
+Material O aço carbono revestido internamente com derakane
+Temperatura
+operacional 90°C
+Temperatura do
+projeto 120°C
+Pressão da
+operação 783 KPag
+Pressão de projeto 1305 KPag
+Isolamento térmico 38 mm
+Fabricante: Petreco/Bardella
+B.5 – DESIDRATADOR
+TABELA B.18: Desidratador de óleo ( TO-122301 )
+Temperatura de op. 140°C
+Temperatura de Projeto 170°C
+Vazão de Óleo (m3/d) 7441
+Vazão de Água (m3/d) 2099
+Vazão de Gás (m3/d) 62979
+Pressão de operação 340 kPag
+Pressão de projeto 343 KPag
+80
+B.6. VASOS
+TABELA B.19: Vaso Degaseificador (V-533101)
+Capacidade total 1.24 m3
+Capacidade Util 0.82 m3
+Material Aço carbono revestido com derakane
+Temperatura de operação 40°C
+Temperatura de projeto 70°C
+Pressão de operação atm
+Pressão de projeto 343 KPag
+Fabricante: Jaraguá
+TABELA B.20 : Safety Gás K.O. Drum (V-122301)
+Temperatura de Operação 40°C
+Temperatura de Projeto 70°C
+Pressão de operação 755 kPag
+Pressão de projeto 1305 KPag
+TABELA B.21 : Fuel Gas K.O. Drum (V-310)
+Temperatura de Operação 40°C
+Temperatura de Projeto 70°C
+Pressão de operação 700 kPag
+Pressão de projeto 875 KPag
+81
+TABELA B.22 : Vaso de Rejeito Oleoso (V-533601)
+Capacidade total 4.9 m3
+Capacidade Util 4.31 m3
+Material Aço carbono com revestimento
+interno em derakane
+Temperatura de operação 90°C
+Temperatura de projeto 120°C
+Pressão de operação 105 KPag
+Pressão de projeto 343 KPag
+Isolamento Térmico Silicato de cálcio - 38 mm
+Fabricante: CBC
+B.7. UNIDADE DE FLOTAÇÃO
+TABELA 23 : Unidade de Flotação de Gás (FL-533101)
+Vazão de entrada 199 m3/h
+Teor de óleo na entrada 20 a 100 ppm
+Teor de óleo na saída 20 ppm
+Temperatura de operação 66°C
+Temperatura doe projeto 105°C
+Pressão de entrada 154 KPag
+Pressão de projeto 343 KPag
+Fabricante: Petreco/ITS

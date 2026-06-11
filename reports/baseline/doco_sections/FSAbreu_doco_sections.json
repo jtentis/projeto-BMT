@@ -1,0 +1,23 @@
+{
+  "document_id": "FSAbreu",
+  "available_doco_labels": [
+    "doco:Discussion"
+  ],
+  "missing_doco_labels": [
+    "doco:Introduction",
+    "doco:Results",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Discussion": [
+      {
+        "header": "2.1.4. Análise de similares",
+        "legacy_role": "results",
+        "start_char": 1477,
+        "end_char": 1492,
+        "content": "O livroSeishomenstrazaoprojetoumacaracterísticamuitoimportante,o traçoempreto,o contornonailustração.Queseráutilizadoprincipalmentenos elementos da história que representam a cidade. Apesardenãoserumlivroilustradoesimcomalgumaspoucasilustrações, “Oamornãoé óbvio”tornou-seumareferênciaporsuaformadeusarilustrações simples como informativo. O que é muito proveitoso ao projeto. Assimcomoasreferênciasanteriores,olivro-imagem“Onda”deSuzyLeeé bemminimalistaesuasilustraçõesseaproximambastantedopretendidoparaeste projeto.Sobretudo,valeressaltarqueotraçoutilizadonestelivronãoéodesejado, 64 atendo-secomoreferênciaapenasàsseguintescaracterísticas:semdetalhamento, formassimples,usoda cor comodestaqueparadetalhesimportantes,traço evidente.Usodetraçoparaaspersonagensepartedocenário,aonda,queéoum elemento importante da história, não recebe traço, apenas cor.",
+        "content_length": 854
+      }
+    ]
+  }
+}

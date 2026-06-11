@@ -1,0 +1,49 @@
+{
+  "document_id": "MBSTavares",
+  "available_doco_labels": [
+    "doco:Introduction",
+    "doco:Results"
+  ],
+  "missing_doco_labels": [
+    "doco:Discussion",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Results": [
+      {
+        "header": "1.3 – A GLOBALIZAÇÃO E O DESENVOLVIMENTO DA INTERNET",
+        "legacy_role": "results",
+        "start_char": 300,
+        "end_char": 327,
+        "content": "Frente às definições de cibercrime apresentadas na seção anterior, é perceptível que as recentes tecnologias possuem uma natureza dual, a depender da destinação que lhes é dado. Isto é, se de um lado temos um aspecto positivo de aproximação das pessoas, no vas possibilidades de negócios e empregos, disseminação mais veloz da informação, dentre outros aspectos que serão melhor explorados em pontos posteriores do trabalho, há de ser pontuado também um relevante aspecto negativo: essas inovações colaboraram significativamente com a facilidade da prática de delitos à distância. Busquemos agora, então, entender como se deu esse desenvolvimento tecnológico e a sua relação com o desenvolvimento das empreitadas criminosas na modalidade virtual. Em primeiro lugar, é importante destacar o relevante papel que a globalização, ao estreitar os países do mundo, tornando fronteiras físicas cada vez menos importantes, teve com relação a isso. Nesse sentido, de modo a explicar melhor a relação de tal fenômeno com o objetivo desta dissertação, é válido trazer à luz o entendimento doutrinário do sociólogo Stuart Hall a respeito da temática: A globalização se refere àqueles processos, atuantes numa escala global, que atravessam fronteiras nacionais, integrando e conectando comunidades e organizações em novas combinações de espaço - tempo, tornando o mundo, em realidade e em experiência, mais interconectado.9 Uma das principais heranças desse mundo conectado foi a fluidez das informações e a facilidade de comunicação. Pensar nessas questões facilmente nos remete à internet, que foi um grande impulso para tornar o mundo cada vez interligado e interrelacionado. Se",
+        "content_length": 1668
+      },
+      {
+        "header": "29 LEMOS, Ronaldo; SOUZA, Carlos Affonso. Marco civil da internet: construção e aplicação, Juiz de Fora;",
+        "legacy_role": "results",
+        "start_char": 823,
+        "end_char": 825,
+        "content": "Editora Associada, 2016, p. 13.",
+        "content_length": 31
+      },
+      {
+        "header": "35 MARTINS, Humberto. Seminário virtual: Criminalidade em tempo de Covid. Atuação do Sistema de",
+        "legacy_role": "results",
+        "start_char": 1011,
+        "end_char": 1075,
+        "content": "Justiça. Junho de 2020. 34 Em pouco tempo, houve um exponencial crescimento do número de usuários no país. Dessa forma, ser assinante do serviço rapidamente se tornou um item essencial de entretenimento da família brasileira. O streaming adquiriu, então, de forma rápida, uma significante relevância: diversas grandes produções originais, nível técnico dos grandes estúdios, contratação de atores consagrados e tendo, até mesmo, importantes indicações a prêmios televisivos e cinematográficos. Se antes da era dos streamings, a maioria dos usuários recorria ao uso dos torrents para consumirem conteúdos audiovisuais, isso não era mais vantajoso agora: por uma mensalidade acessível, não precisariam mais expor suas máquinas a vírus, não teriam o trabalho de procurar os arquivos de vídeo ou buscar legendas. Tudo estava disponível de forma legal e instantânea. Em consequência disso, filmes e séries, que contavam com sua disponibilização nas referidas plataformas, sofreram uma grande diminuição de circulação de cópias irregulares. O resultado disso parecia, então, fornecer uma animadora lógica: seria o streaming o caminho lógico de modernização do combate à pirataria? No entanto, o período da pandemia provou ser justamente o contrário. A partir de 2020, houve uma onda de novos serviços por streaming que chegaram no país, de tal modo que as principais séries e fil mes também se fragmentaram, sendo divididas em diversos catálogos. Para ter acesso ao portfólio completo, seria necessário, então, pagar por isso. Em períodos de crescente isolamento social, boa parte do entretenimento se deu por meio de telas de computad ores e monitores televisivos. A demanda por serviços do gênero aumentou e, com isso, esse contexto abriu margem para uma maior circulação de cópias irregulares de obras autorais, infringindo direitos de propriedade intelectual. Dessa forma, destaca-se a seguinte reportagem: 35 Não foi somente o consumo de streaming que disparou durante a pandemia. O consumo de pirataria das plataformas de vídeo seguiu a tendência. Mas o que até algum tempo era um problema secundário para boa parte das empresas, que viam a prá tica como uma maneira de divulgar seus produtos, agora é um dos maiores problemas do setor. No mundo, nos dois primeiros meses da pandemia, o crescimento dos dez maiores sites de pirataria foi de, em média, 19% (dados SimilarWeb). No Brasil, chegou a quas e 50% de aumento no mesmo período. Um dos principais sites piratas no país viu seu tráfego crescer de 8,5 milhões de usuário para 13,75 milhões entre fevereiro e março de 2020.36 Nesse sentido, é válido fazer referência à Lei do Software (Lei nº 9.609), que “Dispõe sobre a proteção da propriedade intelectual de programa de computador, sua comercialização no País, e dá outras providências.” e à Lei dos Direitos Autorais (Lei nº 9.610), que dispõe sobre direitos autorais e outras providências. O direito autoral também é expressamente assegurado no inciso XXVII do Artigo 5º da Constituição Federal (BRASIL, 1988): “aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar”. Além disso, a problemática não se resume apenas à distribuição irregular de obras protegidas por direitos autorais37: Plataformas como Netflix, Disney+, Amazon Prime e Globoplay estão entre os principais alvos para distribuição de malware, adware, roubo de senhas e lançamento de ataques de spam e phishing. Essas ameaças virtuais são mais frequentemente baixadas quando os usuários tentam obter acesso por meios não oficiais, seja c omprando contas com desconto, obtendo um \"hack\" para manter seu teste gratuito ou tentando acessar uma assinatura sem pagar. Muitas vezes, esses links ou arquivos não oficiais vêm com outros programas maliciosos, como trojans e backdoors.",
+        "content_length": 3845
+      }
+    ],
+    "doco:Introduction": [
+      {
+        "header": "12 SILVA, Libório; REMOALDO, Pedro. Introdução à Internet. 2. ed. São Paulo: Editorial Presença, 1995 p.",
+        "legacy_role": "introduction",
+        "start_char": 392,
+        "end_char": 428,
+        "content": "17. 17 agora à análise acerca dos impactos ocasionados pela disseminação da internet pelo mundo. Canonga e Júnior analisa esse cenário da seguinte forma: É marcante a presença da alta tecnologia atrelada a constantes inovações com o domínio das empresas de países desenvolvidos. Esta convergência tecnológica vem nos bombardeando com novidades inimagináveis, como, por exemplo, o acesso à internet pelo celular, permitindo o envio de e-mails, a realização de transações financeiras, além de múltiplas aplicações, serviços e negócios que as TICs vêm proporcionando, e que são crescentes mundialmente.13 Dessa forma, é perceptível que, aos poucos, a presença da tecnologia foi se tornando cada vez mais relacionada à ideia de desenvolvimento, se infiltrando no cotidiano humano e se tornando parte essencial do mundo tal conhecemos hoje: temos smartphones, tablets, notebooks e diversos outros dispositivos que permitem as mais variadas operações, tais como: envio de informações, realização de transações financeiras e uma rápida e, muitas vezes, eterna, divulgação de opinião. Não é de se espantar que esse inovador cenário come çasse a atrair também criminosos, aproveitando -se dessa nova forma de viver o mundo para delinquir. Nesse sentido, leciona Patrícia Peck Pinheiro: A possibilidade de visibilidade do mundo atual traz também riscos inerentes à acessibilidade, tais como segu rança da informação, concorrência desleal, plágio, sabotagem por hacker, entre outros. Assim na mesma velocidade da evolução da rede, em virtude do relativo anonimato proporcionado pela internet, crescem os crimes, as reclamações devido a infrações ao Código de Defesa do Consumidor, as infrações à propriedade intelectual, marcas e patentes, entre outras.14 Dessa forma, fica perceptível que os referidos avanços, além das facilidades comentadas, também trouxeram significativos riscos aos usuários do ciberespaço, principalmente no tocante tanto à conversão de tipos penais já existentes à modalidade virtual, qua nto surgimento de novas figuras típicas",
+        "content_length": 2041
+      }
+    ]
+  }
+}

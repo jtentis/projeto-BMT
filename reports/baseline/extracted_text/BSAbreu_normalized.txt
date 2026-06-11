@@ -1,0 +1,992 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+FACULDADE DE LETRAS
+CÓLERA E PIEDADE NAILÍADA- UMA EXEGESE ARISTOTÉLICA
+Bruna Silva de Abreu
+Rio de Janeiro
+2022
+BRUNA SILVA DE ABREU
+CÓLERA E PIEDADE NAILÍADA- UMA EXEGESE ARISTOTÉLICA
+MonografiasubmetidaàFaculdadede
+Letrasda UniversidadeFederaldo
+RiodeJaneiro,comorequisitoparcial
+paraobtençãodotítulodeLicenciada
+em Letras na habilitação
+Português/Latim.
+Orientador: Prof. Dr. Rainer Guggenberger
+Rio de Janeiro
+2022
+FOLHA DE AVALIAÇÃO
+BRUNA SILVA DE ABREU
+DRE: 117211184
+CÓLERA E PIEDADE NA ILÍADA - UMA EXEGESE ARISTOTÉLICA
+Monografiasubmetidaà Faculdadede Letrasda
+UniversidadeFederaldoRiodeJaneiro,comorequisito
+parcialparaobtençãodotítulodeLicenciadaemLetras
+na habilitação Português/Latim.
+Data de avaliação: 15/07/2022
+Banca Examinadora:
+_______________________________________________ NOTA:_____
+Prof. Dr. Rainer Guggenberger (UFRJ)
+Orientador – Presidente da Banca Examinadora
+_______________________________________________ NOTA:_____
+Profa. Dra. Simone de Oliveira Gonçalves Bondarczuk(UFRJ)
+Leitor Crítico (interno)
+_______________________________________________ NOTA:_____
+Dr. Luiz Otávio de Figueiredo Mantovaneli
+Leitor Crítico (externo)
+MÉDIA:_____
+CIP - Catalogação na Publicação
+Elaborado pelo Sistema de Geração Automática da UFRJ com os dados fornecidos
+pelo(a) autor(a), sob a responsabilidade de Miguel Romeu Amorim Neto - CRB-7/6283.
+A162c
+Abreu, Bruna Silva de
+Cólera e piedade na Ilíada - uma exegese
+aristotélica / Bruna Silva de Abreu. -- Rio de
+Janeiro, 2022.
+40 f.
+Orientador: Rainer Guggenberger.
+Trabalho de conclusão de curso (graduação) -
+Universidade Federal do Rio de Janeiro, Faculdade
+de Letras, Licenciado em Letras: Português - Latim,
+2022.
+1. Aquiles. 2. Aristóteles. 3. Éleos. 4. Ilíada. 5.
+Pátroclo. I. Guggenberger, Rainer, orient. II.
+Título.
+Dedico este trabalho à minha mãe, Fabiana Oliveira da Silva Abreu
+e ao meu pai, Paulo de Abreu Filho (in memoriam).
+Obrigada por acreditarem sempre em mim.
+SUMÁRIO
+1. INTRODUÇÃO……………………………………………………………………….8
+2. METODOLOGIA……………………………………………………………………..9
+2.1 A biblioteca digitalPerseus………………………………………………...………..10
+3. CORPUS……………………………………………………………………………...12
+3.1 Ocorrências de μῆνις, χόλος e χολόω………………………………………………...12
+3.2 Ocorrências de ἔλεος, νηλής, ἐλεαίρω, ἐλεέω, ἐλεάω, οἰκτείρω e ἐλεεινός………....16
+3.3 Considerações iniciais………………………………………………………………..20
+3.4 Sobre a tradução de μῆνις e ἔλεος na análise………………………………………...21
+4. ANÁLISE DAS EMOÇÕES DE AQUILES E PÁTROCLO……………….………22
+4.1 A primeira cólera de Aquiles.………………………………………………………..23
+4.2 A piedade de Pátroclo…………………………………………………………….….26
+4.3 A segunda cólera de Aquiles……………………………………………………..…..29
+4.4 A piedade de Aquiles………………………………………………………………...30
+5. CONCLUSÃO……………………………………………………………………….34
+6. REFERÊNCIAS BIBLIOGRÁFICAS………………………………………………37
+7. APÊNDICE………………………………………………………………………….38
+RESUMO
+OobjetivodapesquisaéinvestigarduasemoçõespresentesdaIlíada, deHomero:acólerae
+apiedade.AcóleraseapresentanoproêmiodaIlíada, quandoépedidoparaqueumasuposta
+musacantesobrea mênisde Aquiles.Após23 cantosencolerizado,expectamoso
+esvanecimentodacóleradeAquiles,quelogoemseguida,dálugaràpiedadecomumadas
+cenasmaisbelasdetodoopoema:PríamoabraçaosjoelhosebeijaasmãosdeAquiles,na
+esperançadetrazerocorpodeseufilhoHeitordevoltaàTróia(Il. XXIV476-478),momento
+esseemquepedepiedade(eléēson) porpartedeAquiles(Il. XXIV502).Apiedade,porsua
+vez,aparecedeformasignificativatambémnocantoXI,experimentadaporPátroclo,quando
+o mesmosente-seapiedado(о̄ ikteire) aoverEurípiloferido(Il. XI813),mudandotodoo
+cursodaguerra.AquilesePátroclo,porexperimentarememoçõestãoopostasemmomentos
+chavenanarrativa,tornaram-senossopontodepartidaparaanalisaressasemoções.Com
+isso,recorremosàRetórica, deAristóteles,ondeomesmodiscorresobrediversasemoções,
+dentreelas,a cólerae a piedade.Alémdaanálisedasemoções,paraqueo estudosejao
+menosenviesadopossívelpelousode traduçõesnalínguaportuguesa,apontamosquais
+foramasescolhasdetraduçãodeCarlosAlbertoNunes(2015)referentesamêniseéleose
+seusrespectivossinônimose cognatos.Sendoassim,o trabalhocontacomlevantamentos
+exaustivose sistemáticosdasrespectivaspalavrasgregase,emsegundoplano,portuguesas,
+objetosdanossapesquisa,a fimdecompreenderasnuancesqueenvolvematraduçãodos
+vocábulos estudados.
+Palavras-Chave:Aquiles, Aristóteles, Éleos, Ilíada,Mênis, Pátroclo.
+1. INTRODUÇÃO
+O presentetrabalhotemcomoobjetivoinvestigarduasdasemoçõespresentesna
+IlíadadeHomero:a cólera(μῆνις),a piedade(ἔλεος)incluindocognatose sinônimosdos
+vocábuloscitados,identificadosaolongodaleituratantoemlínguagregaquantoemlíngua
+portuguesa.
+Emumprimeiromomento,buscamoslistaras opçõesde CarlosAlbertoNunes
+(2015),noquedizrespeitoà suatraduçãodeμῆνιςe ἔλεοςe seuscognatose sinônimos,
+atravésdetabelasquecontamcomtodasasocorrênciasdosvocábulosselecionadosemgrego
+e as palavras usadas em língua portuguesa para cada ocorrência.
+Foraescolhidaa traduçãode CarlosAlbertoNunesporcontadasingularidadee
+grandeatençãovoltadaparasuaobra.SegundoNeto“Ohexâmetrodatílicoportuguêsde
+CarlosAlbertoNunes,consisteem simular(ou “interpretar”comoele diz)o dátilo
+substituindo-seasílabalongaporumasílabatônicaeasduassílabasbrevesporduasátonas.”
+(2014,p.192).Porcontadisso,atraduçãodeCarlosAlbertoNunes(2015)semostrou,em
+umprimeiromomento,a nossamelhoropçãoparao estudo.Contudo,o trabalhoaqui
+apresentadonãosepreocupanecessariamenteemtratarextensivamentesobreoseumétodo
+de traduçãoe simapresentarquaisforamsuasopçõesparaa traduçãodosvocábulos
+pertinentes à nossa pesquisa.
+Porfim,paradiscorrersobreasemoçõescitadas,escolhemoscomobaseteóricaa
+Retórica, deAristóteles.Umdosprincipaismotivospararecorrera Aristótelesé que“se1
+observamosascitaçõesconstantesdasobrasdeAristóteles,emparticulardaRetóricaeda
+Poética, ficaclaro,noqueconcerneàquantidade,queasepopeiashoméricas,emespeciala
+Ilíada, sãoasobrasmaiscitadasdeumúnicoautor”(GUGGENBERGER,2013,p.360).
+Alémdisso,a Ilíadae sobretudoAquilessãocitadoscomoumdosprincipaisexemplosno
+quedizrespeitoàcólera,quandoAristótelesdiscorresobreaemoçãoemquestão.Apiedade
+tambémé alvodeestudodeAristótelesnaRetórica, dessaforma,a partirdeAristóteles,
+conseguimos discorrer sobre a cólera e a piedade presentes naIlíada.
+1 Ao ler bibliografia básica para o início da investigação, consideramos também utilizar Platão como um
+possível ponto de partida para falar sobre essas emoções, principalmente no que diz respeito à cólera.
+Encontramos umestudosobre opapeldessaemoçãoemalgunsdiálogosplatônicosquecareciamdereferências
+a Aquiles (Jimenez, 2020), contrariando nesse aspecto as nossas expectativas. Por outro lado, pelo fato de
+Aristóteles apresentar umtrabalho completo e detalhado sobre as emoções e ainda utilizar a Ilíadae Aquiles
+comoexemplos na Retórica, optamos por utilizar osegundolivrodaRetóricacomonossomaiorembasamento
+teórico para discorrer sobre essas emoções.
+8
+2. METODOLOGIA
+OtrabalhoteveiníciocomaidentificaçãodasprincipaisemoçõespresentesnaIlíada
+e quaisas principaispersonagensqueas experimentam.Quandochegamosprimeiroem
+Aquilese Pátroclo,a partirdacólerae dapiedade,buscamosbibliografiabásicaparaque
+pudéssemosbasearnossasafirmativassobreessasemoçõespresentesnanarrativa.Chegamos
+entãoa Aristóteles,quediscorrenasuaRetóricasobrediversasemoções,entreelasasque
+escolhemos como objeto de nossa pesquisa.
+Porém,duranteo processode análise,percebemosa necessidadedesefazerum
+levantamentoapartirdeμῆνιςeἔλεος,afimdecompreendermelhorocontextodosreferidos
+vocábulosemgregoe,consequentemente,compreendermelhorasnuancesdesignificadoque
+permeiamosdoistermosemlínguagrega.AoconsultarpassagensespecíficasdaIlíadaem
+línguagrega,emummovimentoemconjuntocoma traduçãodeCarlosAlbertoNunes
+(2015)duranteaanálisedopoema,encontramossinônimosecognatosdosvocábuloscitados,
+equesemostraramdeextremarelevânciaparaaanálisedasemoções.Adescobertadenovos
+vocábulosdentrodo mesmocamposemânticoqueμῆνιςe ἔλεοςcontribuíramparauma
+análise mais aprimorada a partir dos seus usos.
+É importanteressaltarque,quandoapontamosdeterminadosvocábuloscomo
+sinônimosnessetrabalho,nãofalamossobreconcordânciassemânticasabsolutas,masde
+umapertinênciarelativaaummesmocamposemântico.Dentrodossinônimosencontrados,
+porexemplo,temosnãosomentesubstantivosmastambémverbos.Apartirdisso,chegamos
+aosseguintesvocábulos:χόλοςe χολόω,sinônimosdeμῆνις;jáparaἔλεοςtemosἐλεαίρω,
+ἐλεέω,ἐλεάω,ἐλεεινόςe νηλής,quesãocognatos,sendoνηλήςum“cognatonegativo”e2
+οἰκτείρω, sinônimo de ἔλεος.
+Apósessetrabalhoinicial,elaboramosnovetabelascomlevantamentosexaustivose
+sistemáticosdasrespectivaspalavrasgregase,emsegundoplano,dasportuguesas,objetosda
+nossapesquisa,paraentenderasnuancesquepercorrem,dentrodomesmocamposemântico,
+cadavocábuloestudado,a fimde,entreoutros,melhorcompreenderquaisforamasopções
+na tradução escolhida.
+Tendoissodito,pautamosainvestigaçãoemdoisprincipaismétodos.Oprimeirode
+2 Com“cognatonegativo” procuramos explicitar que νηλής trata, majoritariamente nesse trabalho, da falta de
+piedade. Em outras palavras, uma espécie de antônimo de ἔλεος.
+9
+caráterquantitativoque“é pautadaemexplicaçõesmatemáticase modelosestatísticos”
+(NUNES;ASSUNÇÃO;MUSSI;MUSSI,2019,p.416)e,apósaanálisedosdadosiniciais,
+adotamoso métodoqualitativo,o qualFlick(2002),“preocupa-seemanalisarcasos
+concretosemsuasparticularidadeslocaise temporais,embasando-senasexpressõese
+atividadesdaspessoasemseuscontextosdevida.”(ApudNUNES;ASSUNÇÃO;MUSSI;
+MUSSI, 2019, p. 417)
+Aoutilizarmosos doismétodos,aplicamosos dadosestatísticosobservadosem
+diversosmomentosdaanálisedasemoçõesaquiestudadas.Asemoçõessãonecessariamente
+experimentadasporalguém,portanto,seriacontraditóriotratarde emoçõeslevandoem
+consideraçãoapenasdadosestatísticos.A partirdisso,o usodométodoqualitativovisao
+“aprofundamentoda compreensãode umfenômenosocialpormeiode entrevistasem
+profundidadee análisesqualitativasda consciênciaarticuladadosatoresenvolvidosno
+fenômeno.” (NUNES; ASSUNÇÃO; MUSSI; MUSSI, 2019, p. 8)
+Paraisso,utilizamosemsuatotalidadeo segundolivrodaRetórica, deAristóteles,
+paradiscorrersobrea cólerae sobrea piedade.AristótelestrataemsuaRetóricasobre
+diversasoutrasemoções,comoporexemploatranquilidade,sobreoamoreoódioeoutras.
+Aristótelesbuscaexemplificartrêsdisposiçõesindispensáveisacercadasemoçõesemquese
+discute.Paraisso,é indispensávelquesaibamosemquedisposiçãoa personagemse
+encontra,comquepessoasa personagemsentedeterminadaemoçãoe quaisosmotivosa
+conduziramàquelaemoção.ParaAristóteles,“[...]nãobastaconhecerumoudoisdesses
+aspectos,poissenãoconhecermosostrêsseremosincapazesdesuscitaracóleranoauditório.
+Omesmoéválidonoquerespeitaàsdemaispaixõesouemoções.”(Rhet.1378a25-28)Com
+isso,aotratarmossobreacóleraecompaixãodeAquilesePátroclo,buscamoscumpriresse
+critério estabelecido por Aristóteles em nossa investigação.
+Emborao trabalhotenhatidoseuiníciocoma análisedasemoçõesdeAquilese
+Pátrocloe nãocoma investigaçãodaspalavrasemquestão,optamospordeixaraprimeira
+parao últimocapítulodotrabalho,umavezqueastabelasapresentadascontribuemparao
+entendimentodaanálise,enquantoquecitamosalgumaspassagensdaIlíada, quepodem
+servir como norte para identificar as emoções analisadas.
+2.1 A biblioteca digitalPerseus
+10
+A plataformaescolhidaparafazera buscaexaustivadaspassagensnasquaisas
+respectivaspalavrascomseuscognatose sinônimosseencontramfoinoPerseusDigital
+Library(www.perseus.tufts.edu),umabibliotecavirtualquepermiteapesquisadevocábulos
+específicosdentrodetextosselecionados,principalmentedetextosemlínguagregae em
+língualatina.Contudo,é possívelnotarquerelevantespassagensnãoaparecemlistadasnas
+pesquisasavançadasno Perseus. Umoutrodefeitoda ferramentaonlinemencionadase
+manifestano fatode cruzarpalavrascommesmaraizempesquisasde vocábuloscom
+diferentessignificados.Porexemplo,ao listarmosna Ilíadaas ocorrênciasde μῆνις,
+traduzidopeloPerseuscomowrath(ira),é listadotambémμήνη,quetemcomotradução
+moon(lua). Portanto,palavrasdecampossemânticosdiferentespodemserlistadasjuntase
+porissoas palavrascomformashomônimasmascomsignificadosdiferentesnãoforam
+acolhidas nas tabelas.3
+3 Osite ainda cruza palavras que têma mesma raíz e exclui critérios de acentuação. Issopôde ser visualizado
+quandofora realizadoa pesquisa deἔλεος,nocantoIXv.215e ἐλεόςfoilistadojuntocomἔλεος. Natradução
+de Carlos AlbertoNunes temos: “Onobre Aquiles, depois, espalhousaldivinonacarne./Quandotodaelaficou
+bem assada, nos pratos a deita.” OPerseusdá comoopções para ἐλεός:kitchen table, dressere/oumeat- board.
+11
+3. CORPUS
+Paraapresentaros resultadosdas tabelas,dispusemosas emoçõesda seguinte
+maneira:primeiro,μῆνιςe seussinônimosχόλοςe χολόω;emseguida,ἔλεοςe seus
+respectivos cognatos e sinônimos.
+Porfim,algumasocorrênciasquenecessitamdealgumtipodeexplanaçãorelevante
+foramsinalizadascomumasterisco(*)seguidodenumeração,paraserconsultadoaofinalde
+cadatabela.Optamosporfazerasmarcaçõesdessaformaparaquea visualizaçãodessas
+informações ficassem mais claras e menos distantes das ocorrências.
+3.1 Ocorrências de μῆνις, χόλος e χολόω.
+Ocorrências de μῆνις naIlíada
+μῆνιν –IlíadaI v. 1 (Cólera/Aquiles)
+μῆνιν –IlíadaI v. 75 (Colérico/Apolo)
+μήνι᾽ –IlíadaI v. 422 (Cólera/Aqueus)
+μήνιε –IlíadaI v. 488 (Agastado/Aquiles)
+μῆνιν –IlíadaV v. 34 (Ofensa/Zeus)*1
+μῆνις –IlíadaV v. 178 (Cólera/Eneias para Pândaro)
+μῆνιν –IlíadaV v. 443 (Rancor de Apolo)
+μῆνιν –IlíadaIX v. 517 (Cólera/Aquiles)
+μήνι᾽ –IlíadaXII v. 10 (Agastado/Aquiles)*2
+μῆνιν –IlíadaXIII v. 624 (Ofensas direcionadas aMenelau)*3
+μῆνις –IlíadaXV v. 122 (Cólera/Zeus)
+μῆνιν –IlíadaXVI v. 711 (Rancor/Apolo)
+μήνιε –IlíadaXVIII v. 257 (Irritado/Aquiles)
+μῆνιν –IlíadaXIX v. 35 (Cólera/Aquiles)
+μῆνιν –IlíadaXIX v. 75 (Rancor/Aquiles)
+μῆνις –IlíadaXXI v. 523 (Cólera/Aquiles)
+*1Διὸςδ᾽ἀλεώμεθαμῆνιν:AtenaestápreocupadadeelamesmaeAressentiremaμῆνις
+12
+de Zeus.
+*2ὄφραμὲνἝκτωρζωὸςἔηνκαὶμήνι᾽ἈχιλλεὺςκαὶΠριάμοιοἄνακτοςἀπόρθητοςπόλις
+ἔπλεν/EnquantoHeitorvivoesteve,o Pelidaseachavaagastadoe,inabalável,depése
+manteveacidadedePríamo(Trad.deCarlosAlbertoNunes).Omesmoacontecenoverso
+488 do primeiro canto.
+*3χαλεπὴνμῆνιν:NãofoitraduzidoporCarlosAlbertoNunes.Refere-seàcóleradifícilde
+Zeus.
+Tabela 1:Resultado de 16 ocorrências.
+Ocorrências de χόλος naIlíada
+χόλον –IlíadaI v. 81 (Cólera/Agamenon)
+χόλον –IlíadaI v. 192 (Furor/Aquiles)
+χόλοιο –IlíadaI v. 224 (Cólera/Agamenon)
+χόλον –IlíadaI v. 283 (Cólera/Agamenon)
+χόλος –IlíadaI v. 387 (Irritado/Agamenon)
+χόλος –IlíadaII v. 241 (Sem fel ou indolente/Aquiles)
+χόλος –IlíadaIV v. 23 (Raiva/Atena)
+χόλον –IlíadaIV v. 24 (Rancor/Hera)
+χόλον –IlíadaIV v. 36 (Fúria/Hera)
+χόλον –IlíadaIV v. 42 (Zeus)
+χόλον –IlíadaIV v. 178 (Ira)
+χόλον –IlíadaIV v. 513 (Bile/Aquiles)
+χόλος –IlíadaVI v. 166 (Cólera/Preto)
+χόλον –IlíadaVI v. 326 (Infelizes)
+χόλῳ –IlíadaVI v. 335 (Agastado/Páris)
+χόλος –IlíadaVIII v. 460 (Raiva/Atena)
+χόλον –IlíadaVIII v. 461 (Rancor/Hera)
+χόλοιο –IlíadaIX v. 157 (Cólera/Aquiles)
+χόλον –IlíadaIX v. 260 (Ira/Aquiles)
+χόλοιο –IlíadaIX v. 261 (Cólera/Aquiles)
+χόλοιο –IlíadaIX v. 299 (Cólera/Aquiles)
+χόλος –IlíadaIX v. 436 (Cólera/Aquiles)
+13
+χόλος –IlíadaIX v. 525 (Cólera)
+χόλος –IlíadaIX v. 553 (Ira/Meléagro)
+χόλον –IlíadaIX v. 565 *1
+χόλῳ –IlíadaIX v. 646 (Indignar-se/Aquiles)
+χόλος –IlíadaIX v. 675 (Ira/Aquiles)
+χόλον –IlíadaIX v. 678 (Cólera/Aquiles)
+χόλου –IlíadaX v. 107 (Cólera/Aquiles)
+χόλον –IlíadaXIV v. 50 (Magoados/Acaios)*2
+χόλος –IlíadaXIV v. 207 (Cólera/Oceano e Tétis)
+χόλος –IlíadaXIV v. 306 (Cólera/Oceano e Tétis)
+χόλον –IlíadaXV v. 72 (Cólera/Zeus)
+χόλος –IlíadaXV v. 122 (Indignação/Zeus)
+χόλον –IlíadaXV v. 138 (Cólera/Ares)
+χόλος –IlíadaXV v. 217 (Cólera)*3
+χόλον –IlíadaXV v. 223 (Cólera/Poseidon)
+χόλος –IlíadaXVI v. 30 (Ira/Pátroclo)
+χόλῳ –IlíadaXVI v. 203 (Ira/Aquiles)
+χόλος –IlíadaXVI v. 206(Paixão/Aquiles)
+χόλος –IlíadaXVII v. 399 (Irados/Ares e Atenas)
+χόλος –IlíadaXVIII v. 108 (Irrita)
+χόλος –IlíadaXVIII v. 119 (Vingança terrível/fazreferência à Hera)
+χόλος –IlíadaXVIII v. 322 (Cólera/Aquiles)*4
+χόλος –IlíadaXIX v. 16 (Cólera/Aquiles)
+χόλον –IlíadaXIX v. 67 (Rancor/Aquiles)
+χόλος –IlíadaXX v. 255 (Ira)
+χόλος –IlíadaXXII v. 94 (Cólera/Aquiles)
+χόλον –IlíadaXXIV v. 584 (Cólera/possibilidade detransporte de cólera de Heitor para
+Príamo por porte de Aquiles)
+*1Foitraduzidoumaúnicaveznoverso,quandotemosnocantoIXv. 566o usode
+κεχολωμένος, como poderá ser visto na próxima tabela.
+*2Ἀχαιοὶἐνθυμῷβάλλονταιἐμοὶχόλον:“OsAqueusnocoraçãolançamcóleracontra
+14
+mim”.
+*3Causar a cólera de Poseidon, Atena, Hera, Hefestoe Hermes.
+*4μάλαγὰρδριμὺςχόλοςαἱρεῖ:NãofoitraduzidoporCarlosAlbertoNunes.[δριμὺς
+χόλος]Cóleraacentuada.EstárelacionadoàAquilesindiretamentecomasímileaofalardo
+leão. [Assim como um leão...]
+Tabela 2:Resultado de 49 ocorrências.
+Ocorrências de χολόω naIlíada
+χολωσέμεν –IlíadaI v. 78 (Irritar-se/Agamenon)
+κεχολώσεται –IlíadaI v. 139 (Há de ser-lhe amargosa)*1
+κεχολωμένον –IlíadaI v. 217 (Irritado/Aquiles)
+χολωσάμενος –IlíadaII v. 195 (Colérico/Agamenon)
+χολωσάμεναι –IlíadaII v. 599 (Indignadas/Musas)
+χολωθείς –IlíadaII v. 629 (Brigado/Megete)
+χολωσαμένη –IlíadaIII v. 413 (Cheia de cólera/Afrodite)
+χολωσάμενοι –IlíadaIV v. 391 (Indignados/Cadmeios)
+χολώθη –IlíadaIV v. 495 (Indignado/Odisseu)
+χολωσάμενος –IlíadaIV v. 501 (Enraivecido/Odisseu)
+κεχολώσεαι –IlíadaV v. 421 (Ficarás agastado/Zeus)*2
+κεχολώσεαι –IlíadaV v. 762 (Provocarei [...] tuacólera/Zeus)
+χολωσαμένη –IlíadaVI v. 205 (Zangada/Ártemis)
+χολοῦμαι –IlíadaVIII v. 407 (Com menos rancor orame acho/Zeus)
+χολοῦται –IlíadaVIII v. 421 (Com menos Rancor elese acha/Zeus)
+χολωθῇς –IlíadaIX v. 33 (Provoque tua cólera/Agamenon)
+κεχολῶσθαι –IlíadaIX v. 523*3
+χολωσαμένη –IlíadaIX v. 538 (Agastada/Artémis)
+κεχολωμένος –IlíadaIX v. 566 (Agastado/Meléagro)
+κεχολωμένος –IlíadaXI v. 703 (Irritado/Neleu)
+κεχολωμένος –IlíadaXIII v. 203 (Irritado/Ájax)
+ἐχολώθη –IlíadaXIII v. 206 (Enraivado/Poseidon)
+χολώθη –IlíadaXIII v. 660 (Sentiu dor/Páris)
+χολώσεαι –IlíadaXIV v. 310 (Evitar que ficasseszangado/Zeus)
+15
+κεχολωμένος –IlíadaXIV v. 367 (Tomado de cólera/Aquiles)
+χολωσάμενος –IlíadaXV v. 68 (Indignado/Aquiles)
+οὐδέ [...] ἐχολώσατο –IlíadaXV v. 155 (Serenadosentiu-se/Zeus)
+κεχολῶσθαι –IlíadaXVI v. 61 (Ódio [...] abrigar/Aquiles)
+κεχολωμένοι –IlíadaXVI v. 546 (Irritados/Mirmídones)
+κεχόλωσο –IlíadaXVI v. 585 (Irritado/Pátroclo)
+κεχολωμένον –IlíadaXVII v. 710 (Ódio [...] o arrebate/Aquiles)
+ἐχόλωσεν –IlíadaXVIII v. 111 (Irritou/Aquiles)
+χολωθείς –IlíadaXVIII v. 337*4
+χολωσάμεναι –IlíadaXX v. 253 (Pela ira assanhadas/Mulheres)
+κεχολώσεται –IlíadaXX v. 301 (Não vir a gastar-se/Zeus)
+χολώσατο –IlíadaXXI v. 136 (Indignado/Escamandro)
+κεχόλωτο –IlíadaXXI v. 146 (Irritado/Asteropeu)
+χολωσαμένη –IlíadaXXI v. 479 (Irritada/Ártemis)
+χολωθείς –IlíadaXXIII v. 23*4
+χολωθείς –IlíadaXXIII v. 88*4
+χολωσάμενος –IlíadaXXIII v. 482 (Indignado/Idomeneu)
+κεχολώσομαι –IlíadaXXIII v. 543 (Nunca hei de [...]perdoar-te/Antíloco)
+κεχολωμένος –IlíadaXXIII v. 567 (Cólera incende/Menelau)
+χολωσαμένη –IlíadaXXIV v. 55 (Irritada/Hera)
+κεχολῶσθαι –IlíadaXXIV v. 114 (Implacável/Zeus)
+κεχολῶσθαι –IlíadaXXIV v. 135 (Irritados/deuses)
+κεχολωμένος –IlíadaXXIV v. 395 (Irritado/Aquiles)
+*1 Visita amargosa.
+*2 Pergunta de Atenas para Zeus.
+*3οὔτινεμεσσητὸνκεχολῶσθαι:últimapalavranasentençagregatraduzidapor:“Atua
+atitude nós todos assaz a exculpávamos.”
+*4NãofoitraduzidoporCarlosAlbertoNunes,masaemoçãoemsi,nessesversos,seria
+proveniente de Aquiles.
+Tabela 3:Resultado de 47 ocorrências.
+16
+3.2 Ocorrências de ἔλεος, νηλής, ἐλεαίρω, ἐλεέω, ἐλεάω, οἰκτείρω e ἐλεεινός
+Ocorrências de ἔλεος naIlíada
+ἔλεον –IlíadaXXIV v. 44 (Piedade/Aquiles)*1
+*1ApoloquefazusodapalavraparafalardeAquiles.NatraduçãodeCarlosAlberto
+Nunes:“Todaa piedadefaleceaoPelida,falece-lheosensodareverência,queéfontede
+males e bens para os homens” (vv. 44-45)
+Tabela 4:Resultado de 1 ocorrência.
+Ocorrências de νηλής naIlíada
+νηλέϊ –IlíadaIII v. 292 (Cruel)*1
+νηλέϊ –IlíadaIV v. 348 (Cruel)
+νηλέϊ –IlíadaV v. 330 (Impiedoso)
+νηλής –IlíadaIX v. 632 (Sem compaixão/Ajax sobreAquiles)
+νηλέϊ –IlíadaX v. 443 (Cruéis)
+νηλέϊ –IlíadaXII v. 427 (Cruel)
+νηλέϊ –IlíadaXIII v. 501 (Cortando com bronze)
+νηλεὲς –IlíadaXIII v. 514 (Morte cruel)
+νηλέϊ –IlíadaXIII v. 553 (Hasta impiedosa)
+νηλεές –IlíadaXVI v. 33 (Sem coração/Pátroclo paraAquiles)
+νηλεές –IlíadaXVI v. 204 (Filho cruel/Aquiles)
+νηλέϊ –IlíadaXVI v. 345 (Cruel)
+νηλέϊ –IlíadaXVI v. 561 (Implacável)
+νηλέϊ –IlíadaXVI v. 761 (Funesto)
+νηλέϊ –IlíadaXVII v. 376 (Impiedosos)
+νηλέα –IlíadaXIX v. 229 (Ânimo firme)*2
+νηλέϊ –IlíadaXIX v. 266 (Cruel)
+*1Todas as ocorrências sem a indicação de quem sentea emoção são relacionadas à algum
+17
+ser inanimado. Por exemplo: “bronze cruel” ou “laços cruéis”.
+*2νηλέα θυμὸν
+Tabela 5:Resultado de 17 ocorrências.
+Ocorrências de ἐλεαίρω naIlíada
+ἐλεαίρει –IlíadaII v. 27 (Apiada/Zeus)*1
+ἐλεαίρει –IlíadaII v. 64 (Apiada/Zeus)*1
+ἐλεαίρεις –IlíadaVI v. 407 (Apiadas/Andrômaca paraHeitor)
+ἐλέαιρε –IlíadaVI v. 431 (Piedade/Andrômaca paraHeitor)
+ἐλεαίρεις –IlíadaVII v. 27 (Pena/Apolo para Zeus)*1
+ἐλέαιρε –IlíadaIX v. 302 (Apiada-te/Odisseu pedindopiedade de Aquiles)
+ἐλεαίρεις –IlíadaX v. 176 (Compassivo/Diomedes)
+ἐλεαίρει –IlíadaXI v. 665 (Nem piedade/Nestor)*1
+ἐλέαιρε –IlíadaXIII v. 15 (Lastimando/Poseidon)
+ἐλέαιρεν –IlíadaXXI v. 147 (Sem piedade/Aquiles)
+ἐλεαίρων –IlíadaXXIV v. 19 (Apiedado/Apolo)
+ἐλεαίρεσκον –IlíadaXXIV v. 23 (Compadecidos/deusesdo Olimpo)
+ἐλεαίρει –IlíadaXXIV v. 174 (Compassivo/Zeus)
+*1Todas as ocorrências com sentido privativo.
+Tabela 6: Resultado de 13 ocorrências.
+Ocorrências de ἐλεέω, ἐλεάω naIlíada
+ἐλέησεν –IlíadaV v. 561 (Teve dó/Menelau)
+ἐλέησε –IlíadaV v. 610 (Apiedou-se/Telamônio)
+ἐλεήσῃ –IlíadaVI v. 94 (Sendo benigna)
+ἐλεήσῃ –IlíadaVI v. 275 (Sendo benigna)
+ἐλεήσῃς –IlíadaVI v. 309 (Se fores benigna)
+ἐλέησε –IlíadaVI v. 484 (Comovido/Heitor)
+ἐλέησε –IlíadaVIII v. 350 (Piedade/Hera)
+18
+ἐλεήσῃ –IlíadaIX v. 172 (Piedade/Nestor sobre/paraZeus)
+ἐλέησε –IlíadaXV v. 12 (Apiedou-se/Zeus)
+ἐλέησεν –IlíadaXV v. 44 (Padeciam/Hera sobre osAcaios)
+ἐλέησε –IlíadaXVI v. 431 (Apiedado/Zeus para comSarpedon)
+ἐλέησεν –IlíadaXVII v. 346 (aperta-se-lhe o peito/Licomedessobre Pátroclo morto)
+ἐλέησεν –IlíadaXVII v. 352 (aperta-se-lhe o peito/Asteropeusobre Pátroclo morto)
+ἐλέησε –IlíadaXVII v. 441 (Apiedado/Zeus)
+ἐλέησε –IlíadaXIX v. 340 (Apiedou-se/Zeus)
+ἐλεήσας –IlíadaXX v. 465 (Piedade/um guerreiro pediupiedade de Aquiles)
+ἐλέησον –IlíadaXXI v. 74 (Piedade/Licáone pede paraAquiles)
+ἐλέησον –IlíadaXXII v. 59 (Apiada-te/Príamo paraHeitor ter piedade de Aquiles)
+ἐλέησον –IlíadaXXII v. 82 (Piedade/Hécuba)
+ἐλεήσει –IlíadaXXII v. 123 (Apiedar-se/Heitor sobreAquiles não apiedar-se)
+ἐλεήσῃ –IlíadaXXII v. 419 (Apiade/Príamo sobre Aquiles)
+ἐλεησάντων –IlíadaXXII v. 494 (Piedoso/Andrômaca)
+ἐλεήσει –IlíadaXXIV v. 207 (Não terá compaixão/Hécabefalando de Aquiles)
+ἐλεήσῃ –IlíadaXXIV v. 300 (Apiada/Príamo para Hécabepedindo de Zeus)
+ἐλεήσῃ –IlíadaXXIV v. 357 (Piedade/Hermes alertaPríamo)
+ἐλέησον –IlíadaXXIV v. 503 (Piedade/Priamo pedea Aquiles)
+Tabela 7:Resultado de 26 ocorrências.
+Ocorrências de οἰκτείρω naIlíada
+ᾤκτειρε –IlíadaXI v. 814 (Apiedado/Pátroclo)
+ᾤκτιρε –IlíadaXVI v. 5 (Apiedou-se/Aquiles)
+ᾤκτειρε –IlíadaXXIII v. 534 (Apiedou-se/Aquiles)
+οἰκτίρεις –IlíadaXXIII v. 548 (Compassivo/Aquiles)
+οἰκτίρων –IlíadaXXIV v. 516 (Condoído/Aquiles)
+Tabela 8:Resultado de 5 ocorrências.
+19
+Ocorrências de ἐλεεινός naIlíada
+ἐλεεινόν –IlíadaXXIII v. 110 (Lamentos) *1
+ἐλεεινόν –IlíadaXXIV v. 309 (Piedade/Príamo sobreAquiles) *2
+*1 Gregos após a morte de Pátroclo
+*2 Em lamentação para Zeus, ao pedir piedade de Aquiles.
+Tabela 9:Resultado de 2 ocorrências.
+3.3 Considerações iniciais
+Alémdesera emoçãoqueabreopoema,μῆνιςaparececomoaemoçãoqueémais
+experimentadaporAquiles,alémdeserofiocondutordesuasemoçõese,consequentemente,
+da próprianarrativa.É possíveldizerqueé a emoçãomaisexperimentadaporAquiles
+quando,aoanalisaronúmerodeocorrênciasdeμῆνιςnaIlíada, dedezesseis(16)ocorrências
+encontradasoito(8)fazemmençãoa Aquiles.Poroutrolado,aoolharmosparaχόλος,
+indentificamosqueo vocábuloemquestãoaparecedeformamuitomaisexpressivaem
+relaçãoa μῆνιςao decorrerdoscantos.Dasquarentae nove(49)ocorrênciasdeχόλος,
+dezenove(19)fazemreferênciaaAquiles.Jáparaoverboχολόω,temoscomoresultadodez
+(10) ocorrências relacionadas a Aquiles, dentre quarenta e sete (47) ocorrências listadas.
+Nototal,μῆνις,χόλοςe χολόωaparecemrelacionadosa Aquilestrintae sete(37)
+vezes.Umaenormediferençaemcomparaçãoa Zeus,porexemplo,quetemos três
+vocábulos relacionados a ele treze (13) vezes, sendo o segundo mais listado.
+Passandoparaἔλεος,ἔλεονé listadorelacionadoa Aquiles,porém,comsentido
+privativo.Passandoparaossinônimosecognatosdeἔλεος,temosprimeiroabuscadeνηλής,
+quecitaAquilestrês(3)vezesapenascomsentidoprivativo,assimcomoἔλεον.Para
+ἐλεαίρω,manteve-seocaráterprivativo,ondeasduas(2)ocorrênciasrelacionadasaAquiles
+restringiam-sea suafaltadeἔλεος.Naseguintetabela,temosἐλεέωe ἐλεάω,ondeháa
+ocorrênciasde quatro(4) pedidosparaqueAquilestenhapiedade,ondeapenasumé
+concedido:quandoPríamopedepiedadea Aquiles.Emοἰκτείρω,dascinco(5)ocorrências
+encontradas,quatro(4) sãorelacionadosa emoçãoverdadeiramenteexperienciadaspor
+Aquiles.Porfim,emἐλεεινός,apenasuma(1)dasocorrênciasdasduas(2)listadasé
+20
+relacionadaà Aquiles,porém,emformade precesa Zeus.ParaPátroclo,temosuma
+ocorrênciaimportantequeé ᾤκτειρε,traduzidoporCarlosAlbertoNunescomo“apiedado”
+(IlíadaXI v. 814) em um momento crucial para a narrativa
+A partirdainvestigaçãodessasocorrências,foipossívelexplicare analisarmelhor
+taisemoções,quandofalamosdaparteequivalenteà análisee discussãoteóricaapartirda
+RetóricadeAristóteles.Dessaforma,oobjetivodopróximocapítulo“seráodeaveriguaro
+queaspalavrassãocapazesdedizerporelasmesmas,como mínimodeinterferênciadas
+nossas noções contemporâneas.” (MACIEL, 2020, p.36).
+3.4 Sobre a tradução de μῆνις e ἔλεος na análise
+Comoépossívelvisualizarnastabelasapresentadas,háumasignificativavariaçãode
+traduçãode umvocábuloparao outro.O queé extremamenteplausível,levandoem
+consideraçãoprincipalmenteo métodode traduçãoescolhidoporCarlosAlbertoNunes
+(2015)easopçõesdisponíveisemlínguaportuguesaparatraduzirumamesmapalavragrega.
+SeusamoscomoexemploapenasocantoXXIV, temosἐλεήσειtraduzidoporCarlosAlberto
+Nunes (2015) como compaixão, e ἐλεήσῃ traduzido como piedade.
+Noexemploapresentado,ambasaspalavrassãocognatasdeἔλεος.ἔλεος,porsua
+vez, assim como suas palavras cognatas, podem ser traduzidas como piedade e compaixão.
+Piedade também pode ser empregada no sentido religioso (eusebeía) de
+comprometimentopara comas obrigações devidas aosdeusesassimcomo,etalvez
+em consequência deste uso religioso, pode induzir umolhar de assimetria, onde
+aquele que sente éleospodeservistonumasituaçãosuperioràquelequesuscitaesta
+emoção, o que me parece não dar conta dos casos nos quais quemsente e quem
+suscita éleos são semelhantes (homoíoi), o que me parece ser o caso, já que esta
+assimetria só é real quando quem sente éleos é uma divindade, pois entre os
+homens, tal assimetria é sempre ilusória. (MANTOVANELI, 2018, p. 82)
+Poroutrolado,a “compaixãoé umatraduçãoigualmenteproblemática,agorapor
+aproximardemaisaquelequesentedaquelequeéobjetodeéleos.”(MANTOVANELI,2018,
+p.82)Tendoissoposto,ficaevidentearelutânciadoautoredanossaprópriarelutânciaem
+escolherumapalavraequivalentesejaparaἔλεος,sejaparaμῆνις,quandopassamosparaa
+etapadeanálisedasemoçõesutilizandoa RetóricadeAristóteles,umavezquenaedição
+escolhida daRetóricaem língua portuguesa, encontramosἔλεος traduzida como compaixão.
+21
+Pararesolveroimpassedetraduçãoapresentadoentrenossasbasesteóricas,optamos
+porsinalizar, semprequepossível,qualapalavraescolhidaoriginalmenteemgrego,tantona
+IlíadaquantonaRetórica. Durantea argumentação,optamosporescolhera piedadenão
+comoumapalavraúnicaousingularparaa traduçãodeἔλεος,massimcomoformade
+uniformizarasocorrênciasdepiedadeecompaixãonasduasobrasdistintas,emnossaprópria
+argumentação.É claro,poderíamosoptarporutilizarapenasἔλεος,semprocurarnenhuma
+palavracorrespondenteemlínguaportuguesa,porém,nãoseriadetodocoerentelevandoem
+consideraçãoalgumasescolhasde traduçãode CarlosAlbertoNunes,umavezque
+trabalhamostambémcomossinônimose cognatosdeἔλεος,quenãonecessariamentesão
+traduzidoscomocompaixãoe/oupiedade. Porém,duranteaanálisedatabeladepalavrase4
+duranteo processodeargumentação,percebemosqueessessinônimosecognatospresentes
+empassagensespecíficasutilizadasparaaargumentaçãosãotraduzidasemsuamaioriapor
+piedade,oquejustificariaaopçãopelapalavraemquestão.Comisso,quandonãosetratade
+citaçõesdaRetórica, ondeo tradutordaediçãoutilizadaoptapelousodecompaixãocomo
+traduçãoparaἔλεος,utilizaremospiedadecomopossíveltradução,a fimdeuniformizara
+escolha de tradução de Edson Bini e Carlos Alberto Nunes.
+Paraμῆνις,poucoprecisamosadaptar. Emboraμῆνιςe seuscognatose sinônimos
+tambémapresentemvariaçõesnatraduçãodeCarlosAlbertoNunes,a ediçãoutilizadada
+Retóricaescolheportraduzirὀργήcomocólera, assimcomoaspassagensespecíficasda5
+Ilíadautilizadasna argumentaçãotambémsãotraduzidasporcólera,o queporsi sójá
+justifica a uniformização.
+4. ANÁLISE DAS EMOÇÕES DE AQUILES E PÁTROCLO
+Comoforaapontadonaintroduçãodestetrabalho,nosvoltamosespecificamentepara
+asduasprincipaisemoçõesdeAquilesePátroclo,usandocomobaseateoriaaristotélicadas
+emoções, presente no segundo livro daRetóricadeAristóteles.
+Aanáliseé feitadeformacronológica,portanto,apresentoasemoçõesdeAquilese
+Pátrocloconformeaparecemno poema.Temos,então,emordem:a primeiracólerade
+5 ARISTÓTELES, 2019, p. 123.
+4 Como é possível visualizar a partir das tabelas, ἔλεος só aparece uma vez, emsua forma flexionada como
+ἔλεον.
+22
+Aquiles,contraAgamemnon,apósserprivadodeseuprêmiodeguerra(γέρας),Briseida,o
+querefletiaostatussociale/ouméritocomocombatentedaquelequeorecebe(Il. I225-244);
+apiedadedePátrocloparacomosgregos,emespecialEurípilo(Il. XI813);asegundacólera
+deAquilesapósamortedePátroclo,tendosuairadirecionada,dessavez,aHeitor(Il. XVIII
+78-93); e por fim, a piedade de Aquiles para com Príamo (Il. XXIV 558-619).
+SegundoAristóteles,ésemprediscutidotrêsprincipaispontosquandosefaladeuma
+paixão e para isso utiliza a cólera como exemplo:
+No que tange cada paixão, convém distinguir três coisas. Se tomarmos, por
+exemplo, a cólera, começaremosporinvestigarqualéadisposiçãodapessoaquese
+encoleriza, comque pessoas ela geralmente se encoleriza e quais os motivosquea
+induzem à cólera. (Rhet. 1378a 23-26)
+Seguindoesseraciocínio,omesmoseaplicaráparapiedade.Dessaforma,sempreque
+possível será destacado esses três principais pontos tanto para cólera, quanto para compaixão.
+4.1 A primeira cólera de Aquiles.
+Paraentendermosa sequênciadeacontecimentosaolongodaIlíada, é necessário
+compreenderemquemomentoAquilesseencontravanomomentodesuaprimeiracólera.A
+Ilíadateminícionodécimoanodeguerra,quandoCrises,sacerdotedeApolo,dirige-seaté
+àsnausgregaspararesgatarsuafilha,queestavasobpossedeAgamemnon.Agamemnon
+recusaos infinitostesourostrazidoscomoformadepagamentopeloresgate.Aoterseu
+pedidoderesgatenegado,CrisessuplicaaApolo,quedeprontoescuta,disparandoflechas
+certeirasemdireçãoàsnausgregas.ApesteenviadaporApolodizimavaosgregospornove
+dias,quandoAquiles,nodécimodia,chamouopovoàágora,afimdedescobriramotivação
+para tamanho infortúnio. (Il. I 53-54)
+ApósAquilesgarantira Calcante,intérpretede sonhos,queo protegeriacaso
+Agamemnonse revoltassecontrasuaspalavras,esseesclareceaospresentesquea peste
+atormentaosgregosporqueAgamemnonhaviaserecusadoa aceitaro resgatedeCrises.
+Acrescentaquea cóleradeCrisespodeseraplacadacomarestituiçãodesuafilha,alémde
+outrosprêmiosde valor. Agamemnonencoleriza-se,porém,nãose recusaa devolvê-la,
+contantoqueoutroprêmiode igualimportânciasejaoferecido,poisnãoachajustoque
+23
+apenaselesejaprivadodoespóliodeguerra,emboratenharecebidooutrosdiversosprêmios
+anteriormente (Il. I 106-120).
+Aquiles,porsuavez,indagaomotivodaexigênciadeAgamemnon.Argumentaque
+quandofor da vontadede Zeuspermitirqueos gregosconquistemTróia,certamente
+Agamemnonreceberáodobro.Alémdomais,oespóliojáhaviasidorepartidoentreopovo,
+sendo improvável que reunissem novamente tudo o que fora repartido.
+Agamemnoncrêquetudooqueforadiscutidonãopassassedesubterfúgiosemanhas
+deAquilesparaenganá-lo,deformaqueestivessepreservandoasipróprioequeassimsó
+Agamemnonseriaprivadodeseuprêmio(Il. I 131-134).Emseguida,voltaaexigirprêmio
+deigualvaloremcompensaçãoàdevoluçãodafilhadeCrises.E,casoalguémseoponhaà
+suavontade,pretendeobuscarempessoa,sejaoprêmiodeAjax,Odisseuouatémesmoode
+Aquiles (Il. I 137-139).
+É a partirdessemomentoemquepodemoscomeçara compreendera cólerade
+Aquiles. Temos como definição de cólera naRetórica:
+É possível definir a cólera como uma inclinação penosa para uma manifesta
+vingança de umdesdémmanifesto e injustificável de que nós mesmos ounossos
+amigos fomos vítimas. Se a cólera for isso que supomos que seja, sempre será
+necessariamente experimentado contra um indivíduo em particular [...] É
+necessariamente experimentada porque uma outra pessoa fez ou tencionou fazer
+algoa nós ouaalgumdenossosaficionados.Todosentimentodecólera[emborade
+natureza penosa] é sempre acompanhado de um certo prazer no antegozo da
+expectativa da vingança. (Rhet. 1378a 31-36 e 1378b 1-4)
+Apartirdisso,conseguimosdistinguirdeformaprecisaoporquêdoiníciodaprimeira
+cóleradeAquiles.AsuaprimeiracóleranascedessemomentoondeAgamemnon,sozinho,
+deveriaabrirmãodeumapartedoespóliodeguerraparaterapestecontrolada.Portanto,é
+experimentadaevidentementecontraAgamemnon.Caracteriza-seassimo motivodesua
+primeiracólera:AgamemnonameaçaraptarBriseidadeAquiles,quandonaverdade,erade
+seesperarqueAgamemnon,ocupandoposiçãosuperiorcomocomandante,abrissemãode
+Criseida para aplacar a peste.
+Se a cóleraé a “inclinaçãopenosaparaumamanifestavingançadeumdesdém
+manifesto e injustificável”, cabe aqui classificar que tipo de desdém Aquiles sofre.
+ParaAristóteles,o desdém(ὀλιγωρία)“expressaumaopiniãosustentadaativamente
+emrelaçãoa algoqueevidentementecarecedeimportânciae nãomerececonsideração”e
+24
+assumetrêsdiferentesformas:odesprezo(καταφρόνησις),amalevolência(ἐπηρεασμός)ea
+insolência(ὕβρις)(Rhet.1378b10-15).Naprimeiracólera,classificamosodesdémsofrido
+por Aquiles como a insolência. NaRetórica, a insolênciaé descrita da seguinte maneira:
+A insolência também é uma forma de desdém(indiferença), na medida emque
+consiste em dizer e fazer coisas que prejudicam e afligem nossa vítima e que,
+sobretudo, a humilham. Na insolência não se busca qualquer proveito pessoal, e
+tampoucoqualquer acerto- visa-se apenas à própria satisfação. De fato, quandose
+ocorre a represálias, não se trata de insolência, mas de vingança. (Rhet. 1386a
+27-28)
+Comisso,a simplesameaçaaoraptodoprêmiodeguerradeAquilesnoprimeiro
+cantopodeserclassificadocomoumaformadeinsolência,vistoqueAgamemnondizqueirá
+tomarBriseida,alémdeposteriormenteconcretizarsuaameaçapormeiodeTaltíbioe de
+Euríbates,a quempediraparaquefossetrazerBriseidapelamão,semviolência(Il. I
+320-326).Alémdisso,Aristótelescitacomoexemplodeinsolênciao raptodeBriseidano
+primeiro canto daIlíada(Rhet. 1378b 33-37), o queendossa a proposta aqui apresentada.
+Portanto,quandoAgamemnonfaztaisdeclaraçõese dizqueAquilesseutilizade
+subterfúgiosemanhasparaenganá-lo,alémdefazê-lonaágora,afrentedeoutrosguerreiros
+ilustres, o que lhe causa humilhação, Agamemnon passa a ser objeto da cólera de Aquiles.
+Ecomoacóleraésempreacompanhadapelaexpectativadevingar-se,pode-sepensar
+queAquilessevingaaoretirar-sedaguerra.Afinal,permanecerembatalhanaquelemomento
+nãoeravantajosoparaAquiles,já quesecontinuasselutandoparaAgamemnon,estaria
+obtendoτιμή(honra)apenasparaAgamemnone nãoparasipróprio.(ADKINS,1982,p.
+295)Alémdisso,retirar-sedaguerraservecomorespostaàsaçõesdeAgamemnon:Briseida
+foraretiradadeAquiles,entãoAquilesretira-sedaguerraemresposta,pois,“quandose
+ocorre a represálias, não se trata de insolência, mas de vingança." (Rhet. 1386a 27-28)
+4.2 A piedade de Pátroclo.
+Pátroclo,filhodeMenécio,é frequentementevistoaoladodeAquilesemdiversas
+situações.O primeirocontatoquetemoscomPátroclona Ilíadaé quandoAquiles,no
+primeirocanto,pedeparaqueo mesmotragaBriseidaparaforadesuatenda,paraqueela
+sejaentreguea Taltíbioe Euríbates,apóso conflitoentreAquilese Agamemnon(Il. I
+25
+334-348).Emseguida,nocantoIX,PátrocloescutavaAquilestocandoecantandoaosomde
+umalira(Il. IX190-191),instantesantesdatentativadeOdisseu,AjaxeFenicedeconvencer
+Aquilesa retornarà guerra.Aindanomesmocanto,atendeaopedidodoPelidaparaque
+fossepostafartamesaeaindaoferecevinhoemontaumafogueiraparaosconvidados(Il. IX
+210-221).OmesmocantoterminacomPátrocloindodeitar-seaoladodeÍfis,umamoçaque
+Aquiles havia lhe dado após saquear a cidade de Esciro (Il. IX 667-668).
+AlgumasoutrasmençõesaonomedePátroclosãofeitas.Porexemplo,quandoZeus
+despertae descobrequeestavasendoenganadoporHera,ondetemosa faladetalhadade
+Zeussobreseusplanos,oqueincluíaamortedePátroclo(Il. XV61-68).Atéentão,Pátroclo
+nãohaviaapresentadosignificativapresençanopoema.Eraalguémpresente,deformamuito
+sutil,sempreaparecendopróximoà figurade Aquiles,semfalase semrelevância
+significativa. Porém, é a partir do canto XI, começamos a conhecê-lo melhor.
+Aquiles,aoassistira batalhaentreosgregose ostroianosdapopadeseunavio,
+percebequealgumgregoferidoforaretiradodebatalha,aquemjulgaserMacaon.Parater
+certezadeseujulgamento,chamaPátrocloparaquepessoalmenteváconferirdequemse
+trataequevolteparaconfirmarassuspeitasdoPelida(Il. XI600-615).Aochegaràtendade
+Nestor, PátrocloconfirmaqueoferidoéMacaonerecusa-seasentaràmesacomosdemais,
+explicandoqueguardaenormerespeitoporAquiles,e quevoltariaimediatamentepara
+confirmarassuspeitasdomesmo,ejustifica-seaodizercomooPelidaédesetemer, poisé
+homem violento, que ao próprio inocente poderia culpar. (Il. XI 648-654)
+Nestorentãocomeçaumgrandediscurso.Lista,primeiro,todososferidosnaguerrae
+dádetalhesprecisosdetodososacontecimentosrecentesqueestariamlevandoosgregosà
+suaruína.ReafirmaqueAquileséincapazdesentirpiedade(ἐλεαίρει)edizoquantoAquiles
+pagarápordeixarcomqueo exércitoperca.AtéquerecordaPátroclodeacontecimentos
+antesdaguerra;recordamemóriasdequandoNestore OdisseuvãoatéFtiaparaconvocar
+guerreirosparao exércitodeAgamemnon,ondeAquilesePátrocloencontravam-sejuntoà
+Peleu e Menécio, oferecendo libações à Zeus. (Il. XI 768-773)
+ÉapartirdessemomentoemquepodemosobservarquaismotivoslevaramPátrocloa
+sentir piedade. Segundo Aristóteles naRetórica, temoscomo definição de compaixão:
+Podemos definir a compaixão[ἔλεος]comoumsentimentodolorosogeradoporum
+mal aparente capaz de nos aniquilar oude nos afligir, mal esse que atinge alguém
+que não merece por ele ser atingidoe que, presumimos, tambémpode nos atingir,
+26
+ou a nossos aficionados e, principalmente quando a ameaça desse mal parece
+próxima, podendoelenosatingirbrevemente.Realmente,ofatodesersuscetívelde
+sentir compaixão [ἔλεος] necessária e obviamente implica na nossa capacidade de
+presumir que algummal (comoque indicamos anteriormente ousemelhante) pode
+nos ocorrer ou àqueles do nosso círculo. (Rhet. 1385b 9-20)
+Sendoἔλεοςumsentimentodoloroso,Aristóteleselencaquaissãoessessentimentos
+dolorosos.Dessaforma,temoscomomalesdolorosose destrutivosasdiversasformasde
+morte,osgolpes,ferimentosemaustratamentosinfligidosaocorpo,avelhice,asdoençase
+falta de alimentos (Rhet. 1386a 9-11).
+Aoencontrar-secomNestor, o mesmonãodemoraa contarsobreosferidosem
+batalhaecitaonomedeguerreirosilustrescomoDiomedes,Odisseu,AgamemnoneEurípilo
+queencontravam-seferidos(Il. XI660-664).AindanaRetórica, Aristótelescomplementa
+que:
+Emgeral, devemos admitir aquiquetodososmalesquereceamosparanósmesmos
+provocamnossa compaixão[ἔλεος] quandopercebemos que as outraspessoassão
+vítimas deles. Dessamaneira,portanto,osmalesqueparecemestarpróximosfazem
+despertar a compaixão [ἔλεος]. (Rhet. 1386a 25-29)
+QuandoNestordescreveosferimentosqueacometeramessesguerreirosilustres,a
+piedadepassaa serdespertadaemPátroclo,jáqueosferimentossãopostoscomoumdos
+malesdolorososquepodemlevarà compaixão.Alémdisso,Nestoraindadiscorresobrea
+ameaçaiminentedeincêndionasnausgregasporpartedostroianose,consequentemente,a
+mortede todosno exércitogrego(Il. XI655-669).Comoos malesqueparecemestar
+próximosdespertamapiedade,Pátroclopodeesperarqueessemesmomaloatinja,quandose
+levaemconsideraçãoaproximidadedabatalhadasnausgregas,motivoessequeolevouaté
+NestorporordensdeAquiles.E,quandooperigoparecepróximo,apiedademostra-semais
+intensa (Rhet. 1386b 6-8), o que pode contribuir ainda mais para elevar sua piedade.
+É importantefrisaraspalavrasqueNestorusaparaqueo sentimentodepiedade
+pudessedespertaremPátroclo.Aristótelesnosespecíficaque“ossujeitosaserematingidos
+pelomalsãoaquelesquetêmpaisvivos,filhosouesposas,poisestesconstituemumaparte
+delesmesmos,estandoexpostosaosmalesquemencionamosanteriormente.”(Rhet.1385b
+30-33).Duranteo diálogoentrePátrocloeNestor, Nestorrecordaimportantesmemóriasde
+PátrocloemFtia,aocitarosconselhosdadosporMenécio,seupai(Il. X784-788),eainda
+dizquenãotinhamaiso vigordeoutrostempos,e emseguidacontagrandefeitodesua
+juventude,lamentandoovigorperdido(Il. X668-669).Nestor, assimcomoMenécio,possui
+27
+idadeavançada.Porisso,NestorseutilizadamemóriadopaidePátrocloparaqueessa
+piedadesejadespertada.Afinal,arecordaçãodosconselhosdeseupaiaindavivo,deidadejá
+avançada, o lembra que Menécio pode vir a sofrer com os males citados.
+QuandoPátroclosaidatendadeNestor, imediatamenteseencontracomEurípiloe
+dizsesentirapiedado(ᾤκτειρε)(Il. XI813).ComopropostoporAristóteles,todososmales6
+quereceamosparanósmesmosprovocamnossacompaixão(ἔλεος)quandopercebemosque
+asoutraspessoassãovítimasdeles(Rhet.1386a25-29).Eurípilotambémsofriaporcontade
+ummaldoloroso,porqueencontrava-seferidoporumaflechanacoxa.Comoé ditopor
+Eurípilo,PátroclohaviaaprendidoamedicinaporintermédiodeQuirón,eeraoúnicocapaz
+decuidardosferimentos,jáqueMacaonestavaferidoePodalírioencontrava-seembatalha,
+ambos médicos. Sem se demorar, Pátroclo presta os serviços médicos para o companheiro.
+Portanto,mesmoapósa retiradadeAquilesdaguerra,e,consequentemente,a sua
+própriaretirada,Pátrocloaindaé capazdesentirpiedadeporaquelesqueconsideranão
+seremmerecedoresdesofreressesmales.AiminênciadaguerrachegaràsnausdeAquiles,a
+recordaçãodamemóriadeseupai,Menécio,alémdeilustresguerreirosestaremferidose
+aindater prestadoserviçosmédicosparaEurípilo,tornatodosessesmalespalpáveis,
+próximosasuavista.TodasessasocorrênciasdespertamapiedadedePátrocloparacomseus
+companheiros,o quese tornajustificávelquandoAristótelesdizque“experimentamos
+compaixãopelaspessoasqueconhecemos,desdequenãosejamnossosparentesmuito
+próximos,poisnestecasosentimoscomosenósmesmosestivéssemosasofrer.”(Rhet.1386a
+15-20)
+4.3 A segunda cólera de Aquiles.
+Paradarinícioaanálisedessesegundomomentodecólera,énecessáriorecordarque
+nadefiniçãodecólerapropostaporAristótelestemosacólera“umainclinaçãopenosapara
+umamanifestavingançadeumdesdémmanifestoe injustificáveldequenósmesmosou
+nossosamigosfomosvítimas.”(Rhet.1378a31-33)SenoiníciodaIlíadatemosacólerade
+AquilesvoltadaparaAgamemnonporcontadainsolênciasofrida,nasegundacóleratemoso
+desejodevingançadeAquilescontraHeitor, apósdescobrirqueo príncipedeTróiahavia
+6 “τὸν δὲ ἰδὼν ᾤκτειρε Μενοιτίου ἄλκιμος υἱός” (IlíadaXI v. 814)
+28
+matadoPátroclo.Comisso,Aquilesencoleriza-seemnomedePátroclo,porcontadodesdém
+quePátroclosofrerapelosatosdeHeitor. Antesdeclassificarqualdesdémforasofrido,
+recordaremos alguns pontos importantes após a morte de Pátroclo.
+MenelauvaideencontroaAjaxparapedirauxílionoresgatedocorpodePátrocloe
+profereasseguintespalavrasparaAjax:“Vem,caroAjax;aprestemo-nosparaondeseacha,
+semvida,Pátroclo;aomenosocopolevemosparaoaltoPelida,nu,comoestá,porqueHeitor
+despojou-odasarmasbrilhantes.”(Il. XVII,120-122)Alémdisso,nãomuitodistantedo
+pedidodeMenelauparaAjax,é ditoqueHeitorarrastavao corpodePátrocloparapoder
+decepar-lhea cabeçacomobronzeafiado,eocorpo,assimmutilado,jogarparaoscãesda
+cidade(Il. XVII125-127).Temostambém,aindanomesmocanto,asordensdeHeitorpara
+queasarmasvestidasporPátrocloparaÍliosacralevassem,comosinaldetriunfo(Il. XVII
+128-131).
+Apartirdisso,proponhoqueoprincipaldesdémsofridoporPátroclosejaclassificado
+comoainsolência,omesmoantesexperimentadoporAquilesnasuaprimeiracólera.Como
+explicadonoprimeirosubcapítuloquefazreferênciaàprimeiracóleradeAquiles,jáquea
+insolência“consisteemdizere fazercoisasqueprejudicame afligemnossavítimae que,
+sobretudo,a humilham”e onde“nãose buscaqualquerproveitopessoal,e tampouco
+qualqueracerto- visa-seapenasà própriasatisfação”(Rhet.1386a27-28),essesatos
+proferidose realizadosporHeitorcontraPátroclopodemconfiguraressaformadedesdém
+umavezqueestavaconscientede quese tratavade Pátroclovestindoasarmadurasde
+Aquiles e não o próprio Aquiles.
+E comoa cóleraé acompanhadadaexpectativadevingar-se,temosnocantoXXIV
+umapassagemde extremaimportânciaparaentendera vingançade Aquilespeloolhar
+aristotélico.
+Aovoltarmoso olharparao iníciodo cantoXXIV, Aquiles,aindavisivelmente
+abaladopelamortedePátroclo,nãoconseguedormiraolembrardamortedoamigodileto,
+voltandoa chorarcopiosamente.Porfim,levanta-seecaminhanapraia,e,assimqueosol
+nasce,amarraocorpodesnudodeHeitoratrásdeumcarroeoarrastaemvoltadotúmulode
+Pátroclo três vezes. (Il. XXIV 12-18)
+Chamoatençãoparaesseacontecimentoemespecífico.ÉHeitorqueprimeirofazuso
+dessaformadehumilhaçãoaoarrastarocorpodesnudodePátrocloduranteabatalha,coma
+intençãodedecepar-lheacabeçaemseguida.Portanto,talatovistocomodesdémporparte
+29
+deAquilesparacomHeitor, naverdade,é a confirmaçãodavingançadeAquilescontrao
+príncipedeTroia,jáque,segundoAristóteles,“quandoseocorrearepresálias,nãosetratade
+insolência, mas de vingança.” (Rhet. 1386a 27-28)
+4.4 A piedade de Aquiles.
+AopassarmosparaomomentodepiedadedeAquiles,éprecisoolhardeformaatenta
+ao percurso percorrido antes do encontro entre Príamo e Aquiles.
+Noiníciodo cantoXXIV, algunsdeusessemostramperturbadospelaformaque
+Aquilestratavao corpodeHeitor. Apolo,patronodeTróia,compadecido(ἐλεαίρων)pela
+mortede Heitor, tratade protegero corpo,evitandoqueo cadávervenhaa serferido
+conformefossearrastadoporAquiles.Osdeusescompadecidos(ἐλεαίρεσκον)dasituação,
+sugeremqueHermesroubeocorpo.(Il. XXIV22-24)Porém,Herasemostracontra,umavez
+queAquilesseriasuperiortantoemhonrasquantoemberçoquandocomparadoa Heitor,
+nascidodauniãodedoismortais.Zeus,porsuavez,decideinterferirepedeparaqueÍris,
+deusa mensageira, vá até Tétis para que compareça ao Olimpo.
+ZeussugereentãoqueTétisváatéAquilesparaaconselhá-loadevolverocorpode
+Heitore queaceitasseasgrandesdádivasquePríamofossevira oferecer(Il. XXIV119)
+tendoemvistao descontentamentodosdeusese principalmentede Zeus,coma forma
+escolhida por Aquiles para firmar a sua vingança.
+EmsuamensagemparaPríamoporintermédiodeÍris,ZeusgarantequeAquilesnão
+irálheinfringirnenhummal,alémdeseoporaqualquerviolênciaquepossatranscorrerseu
+caminho.AfirmatambémqueAquilesnãoéimprudente,nemperverso,oudesensoprivado
+e que irá acolher com justiça divina a quem for suplicar-lhe (Il. XXIV 183-186).
+Dooutrolado,AquilesaceitaoconselhodeZeusporintermédiodesuamãe.Antesde
+partiraoencontrodeAquiles,PríamooferecelibaçõesaZeus,pedindoparaqueencontreem
+Aquilesafetoepiedade. (Il. XXIV307-308)Zeusrespondedeformaafirmativaàsprecesao7
+enviar uma forte ave vinda à direta. (Il. XXIV 319-320).
+É importantelembrarqueo objetivodaanálisenãoé buscarexplicaçõesparaas
+intervençõesdivinase simnosatosondeasemoçõesemquestãosemostrampresentes,
+levandoemconsideraçãoaRetórica. Detodaforma,mesmoqueZeushouvesseconfirmado
+7 δός μ᾽ ἐς Ἀχιλλῆος φίλον ἐλθεῖν ἠδ᾽ ἐλεεινόν,
+30
+ospedidosdePríamo,AquilesalertaPríamoquandodiz:“Nãomeprovoques,ancião,que
+porprópriavontadejámeachodeterminadoa atender-te.EavontadedeZeus.”(Il. XXIV
+559-560)Oquenoslevaa entenderqueAquiles,mesmoacatandoàvontadedivina,ainda
+atendia também a sua própria motivação.
+PoucoantesdachegadadePríamoàtendadeAquiles,Hermes,queguiavaoreide
+Tróiapordentreastendasgregas,o aconselha:“Entrasozinhoe,abraçando-lheosjoelhos,
+suplica-lhe(ἐλεήσῃ)emnomedoprópriopaivenerando,damãedevenustuscabelosede
+Neoptólemo, o filho, que possas o peito abalar-lhe.” (Il. XXIV 464-466).
+Seretomarmoso conceitodepiedade/compaixãonaRetórica, temosa temoscomo
+“sentimentodoloroso”e Aristóteleselencacomomalesdolorososedestrutivos“asdiversas
+formasdemorte,osgolpes,ferimentosemaustratamentosinfligidosaocorpo,avelhice,as
+doençase faltadealimentos.”(Rhet.1386a9-11)AosedirigiraAquiles,Príamolembra-o
+quePeleu,assimcomoasipróprio,possuemamesmaidade,portanto,sãovelhos.(Il. XXIV,
+485-486).AssimcomoocorrenapiedadedePátroclo,temosavelhicecomoinstrumentoque
+suscita piedade em Aquiles, já que Peleu e Príamo compartilham de idade avançada.
+ImportantetambémretornarparaquandonaRetóricatemosqueestãosuscetíveisa
+serematingidospelomal“aquelesquetêmpaisvivos,filhosouesposas,poisestesseres
+constituemumapartedelesmesmos,estandoexpostosaos malesquemencionamos
+anteriormente.”(Rhet.1385b30-33)A partirdisso,pode-seconcluirqueaorecordarem
+Aquilesa memóriadePeleu,Aquileslembraqueo própriopaipodeestarsuscetívelaos
+malesdescritosporAristóteles.Umexemploclaroé a morte,jáquePríamoexperimentaa
+mortedenãosóumfilho,masemespecialdeHeitor,eéprovávelqueamesmadordamorte
+venhaa atormentarseuprópriopai,afinal,Aquilessabiaquesuamorteestavapróxima.
+EmboraPríamonãorecordedamemóriadeNeoptólemodiretamenteparaAquiles,osimples
+fatodeterfilhovivo,jáodeixanumaposiçãosuscetíveldesentirpiedade,aléméclarodo
+próprio pai também vivo.
+CenacarregadadeemoçãoéacompanhadadasúplicadePríamo.Quandoseaproxima
+pelaprimeiravezdeAquiles,abraça-lheosjoelhosebeijaasmãosdohomemquematouseu
+filho(Il. XXIV476-478).Parafalardessafalarsobreessacena,vejamoso quetemosna
+Retóricasobre elementos que atuam como gestos intensificadoresda piedade:
+Conclui-se dissoque aqueles queintensificamoefeitodesuaspalavrascomgestos,
+31
+tom de voz e aparência adequados e, em geral, adotam a teatralidade obtêm
+particular êxito quanto a despertar a compaixão: exibemos desastres aos nossos
+olhos e nos aproximam de nós, sejam vindouros ou passados. Tudo aquilo que
+acabou de acontecer constitui, por isso, material mais suscetível de produzir
+compaixão. É assim com os sinais e ações, por exemplo: as roupas das pessoas
+falecidas e outras coisassemelhantes;palavrasetodasasmanifestaçõesdaspessoas
+que sofrem, comoaqueles queestãoparamorrer.Seremostomadospelacompaixão
+principalmente ao presenciar pessoas boas emtais situações. [...] Ocorre omesmo
+quando a pessoa que sofre não o merece, e quando sua dor é exibida diante de
+nossos olhos. (Rhet. 1386a 32 – b 9)
+Portanto,nessacenatãoimportantenocantoXXVI,pode-sedizerquePríamoalém
+desuscitara piedadeemAquilespormeiodamemóriadeseupai,osgestosdeabraçaros
+joelhosdeAquilesebeijar-lheasmãosintensificamapiedade.Alémdisso,temosaspalavras
+proferidasporPríamoquelembrama Aquilesque,assimcomoPríamo,Peleutambémtem
+idadeavançada.Essesatosepalavrasdesúplica,ondepedeporpiedade(ἐλέησον)porconta8
+da dorprovocadaporAquilesemPríamo,diantede seusprópriosolhosintensificama
+piedade.AssimcomoAquilesacreditaquePeleusejadignodepiedadepornãomerecer
+aqueleaqueleinfortúnio,umavezquepara“sesentircompaixão(ἔλεος)énecessárioquese
+creiaque ao menosalgumaspessoassão boas,poisse pensamosquenenhumaé,
+concluiremosquetodosossereshumanosmerecemosmalesqueosatingem.”(Rhet.1386a
+1-3)
+A piedadeparacomPríamoaindase mostrajustificávelquandose levaem
+consideraçãoque“experimentamoscompaixão(ἔλεος)pelaspessoasqueconhecemos,desde
+quenãosejamnossosparentesmuitopróximos,poisnestecasosentimoscomose nós
+mesmos estivéssemos a sofrer.” (Rhet. 1386a 15-20)
+Masnãoé apenasa figuradePeleuqueAquilesserecordadurantea súplicade
+Príamo.Aquilesnãochoraapenasporcontadopaivelho,mastambémporcontadamortede
+Pátroclo.Decerto,Aquilessofrecoma perdadePátroclo.Nãoéofocodestetrabalhodar
+ênfasea essasemoçõesdeAquilesacercadePátroclo,porém,éinteressantedirecionarmos
+nosso olhar especialmente para quando Aristóteles nos diz:
+E, em geral, sentimos compaixão (ἔλεος) sempre que estamos emcondições de
+lembrar que semelhantes infelicidades já nos atingiram ou a quem amamos no
+passado, e que são de esperar para o futuro. (Rhet. 1386a 3-6)
+8 IlíadaXXIV v. 503
+32
+Adordaperda,adordamorte,jáatingiuAquiles.AdordamortedePátrocloainda
+apresentamarcasmuitopresentesemAquiles.Essador, essainfelicidadejáoacometera,da
+mesmaformaqueacometeuaPríamo.Eledecertaformaentendeoqueéessadorrepresenta,
+emborafaleaPríamoque“nadaohomemlucraemdeixar-seinvadirpelogélidopranto”(Il.
+XXIV521-522).Peleuembrevepassarápelamesmadorde perda,já que,comodito
+anteriormente, Aquiles espera pela sua própria morte.
+QuandosefaladepiedadeesepensadeAquilesénormalquenosperguntemoscomo
+umapersonagemquepassaboapartedo poemaencolerizadoé capazdedespertaressa
+emoção.É curioso,inclusive,quandopensamosnesteatovindodeAquiles,quandooutros
+personagensfalamde Aquilescomoalguémsempiedade/compaixão,comoé o casode
+Nestor, ao falar de Aquiles para com Pátroclo.9
+NoquartotópicodosegundolivrodaRetórica, quandoAristótelesdissertasobreas
+pessoas a que se ama e a que se odeia, onde:
+Todos odeiamladrõesedelatores;poroutrolado,acóleraécuradacomotempo,ao
+passoque oódioéincurável.Acóleravisaacausarsofrimento,aopassoqueoódio
+visa a causar dano, causar o mal. Oindivíduocoléricodeseja que a pessoa que é
+objeto de sua cólera sinta a opressãode seusentimentohostil e que saiba quemé
+que experimenta essa cólera. Quem odeia não se importa comisso. Ora, o que
+produz sofrimentosempre afeta nossa sensibilidade,aopassoqueosmaioresmales
+- a injustiça e a loucura - sãoos que menos a afetam; de fato, a presença dovício
+não nos provoca nenhumsofrimento. Acólera é acompanhada de dor, oódionão,
+pois aquele que se encoleriza, se irrita, se indigna, sofre, mas quemodeianão.Por
+outrolado, ocolérico, se presenciar os sofrimentos doseudesafeto,ésuscetívelde
+experimentar alguma compaixão; quando a quem odeia, emhipótese alguma se
+compadecerá de alguémque emalguma oportunidadeodiou-oqueseexplicapelo
+fatode que oprimeiroquerqueoresponsávelporsuacóleraexperimenteasuacota
+de sofrimento, enquantoosegundoquer a destruiçãode quemodeia. (Rhet. 1382a
+6-16)
+UmavezqueAquilesencontra-seencolerizado,eleautomaticamenteseencaixana
+descriçãopropostaporAristóteles.Aquilesmesmovindodedoismomentosdecólera,com
+motivaçõesdiferentes,aindaé suscetíveldesentirpiedade.Então,comisso,podemosde
+certaforma,validarasemoçõesdeAquilesnocantoXXVIparacomPríamo,ondesua
+piedadefazcomqueele,alémdeatenderaopedidodeZeus,tambématendaà própria
+vontade, que é a devolução do corpo de Heitor, por conta da compaixão despertada em si.
+Pode-senotar, principalmenteaoobservarastabelasdeocorrênciasdeοἰκτείρωque
+9 Uso de ἐλεαίρει –IlíadaXI v. 665
+33
+Aquilesprimeiroexperiênciao sentimentodepiedadeporcausadePátroclo,mesmoque10
+aindanoprocessodesuaprimeiracólera.Apósa mortedePátroclo,passaa experimentar
+outravezacompaixão/piedadenocantoXXIII,paracomofilhodeAdmeto,Eumeloepor11
+fim, para com Príamo no canto XXIV.
+Muitasoutrasocorrênciasdoscognatosde ἔλεοςmostramo caráterprivativode
+Aquilesquantoà compaixão.Porexemplo,temosnasocorrênciasἐλεαίρωe νηλής a
+presençadeváriospedidosdepiedade/compaixãonãoatendidos.E,apenasdepoisdamorte
+dePátroclo,Aquilescomeçaapassarporumpossívelprocessodecalma, antesdabelíssima12
+cenanocantoXXIVondePríamobeijaasmãosdeAquiles.Comisso,podemosdizerque
+Pátroclo, se mostra de extrema importância para a piedade de Aquiles.
+5. CONCLUSÃO
+Comoa propostadotrabalhoéanalisareinvestigarapenasduasemoçõesprincipais
+na Ilíada, comofoio casoda cólerae da compaixão(μῆνις,ἔλεοςe seusrespectivos
+sinônimose cognatos),nosatentamosexclusivamenteeexaustivamenteapenasnessasduas
+emoções,aindaquedentrodo campodasemoçõesde Aquilese Pátroclopoderíamos
+discorrer sobre outras emoções baseadas naRetóricade Aristóteles.
+Outropontoimportanteé ressaltaraescolhadetraduçãoutilizadaparaaelaboração
+do trabalho.A traduçãode CarlosAlbertoNunesparaessaanálisese mostroupouco
+produtiva,porcontadoseumétododetraduçãoescolhido.Algumaspalavrasimportantesem
+línguagreganãoforamtraduzidasparao portuguêsemalgunsversos,o quedificultaa
+análisedessesvocábulosemgregoe,consequentemente,aidentificaçãodessasemoçõesno
+poema.13
+Contudo,conseguimosmostrarbrevementecomoum poemaque é marcado
+predominantementepelacólera,tambémpodeter momentossignificativosde piedade.
+Quandofalamosempiedade,nãopodemosesquecerdePátroclo.Pátroclo“queseinserena
+categoriadaquiloqueénecessárioemAristóteles,acondiçãosinequanon–poissemelenão
+sedácontinuidadeàsperipéciase aoenredodaépicahomérica”(VIEGAS,2012,p.3)e,
+13Como se pode notar na tabela 1, 2 e 3.
+12 Infelizmente não há espaço para tratar de outras emoções neste trabalho. Porém, a calma é prevista por
+Aristóteles e a investigação já está em curso.
+11 ᾤκτειρε –IlíadaXXIII v. 534 Traduzido por CarlosAlberto Nunes por “apiedou-se”.
+10ᾤκτιρε –IlíadaXVI v. 5. Traduzido por Carlos AlbertoNunes por “apiedou-se”.
+34
+quandofinalmentepassaa “servisto”nanarrativa,desempenhaseupapelcoma piedade,
+apóslongoscantosmarcadospelacóleradeseucompanheiroAquiles:umavezqueéquase
+impossível falar de Pátroclo, sem que seja desvencilhado do Pelida.
+DamesmaformaquequasesempreprecisamosdeAquilesparafalardePátroclo,
+precisamostambémde Pátrocloparafalardasemoçõesde Aquiles.Aorealizarmoso
+levantamentodepalavrasrelacionadasàpiedadedeAquiles,porexemplo,seumomentode
+piedadeantesda mortede Pátrocloocorreuapenasumaúnicavez:paracomo próprio
+Pátroclo,quandoháousodeᾤκτιρε,traduzidoporCarlosAlbertoNunes(2015)daseguinte
+forma:“Vendo-o,apiedou-seo divinoPelida,depésmuitorápidos”(Il. XVIv. 5)(grifo
+nosso). Após isso, temos a morte de Pátroclo que incendeia nova cólera em Aquiles.
+ParaalémdeAquiles,atravésdolevantamentodepalavras,podemosperceberque
+diversosgregos sentem-seapiedadosapósa mortede Pátroclo,alémde Briseida,que14
+também chora após a morte de Pátroclo no canto XIX.
+Podemosdizer, portanto,quePátroclofuncionacomoumapersonagemquetrásessa
+emoçãoà tonanãosomenteemAquiles,masparaosdemaisqueoconhecem.Alémdisso,
+despertaemAquilesumsentimentoqueétãocontrárioàcóleraque,pormaisqueAquilesse
+encontreencolerizadoquandoPátroclovaiatéelepedirporsuaarmadura,aindasente-se
+apiedadoaoverPátroclochorar. Comissodito,podemosenxergaraexistênciadeumvínculo
+forteentreosdoisequepodeservistoprincipalmenteatravésdasemoçõesexperimentadas
+por ambos ao longo da nossa pesquisa.
+14Asteropeu (Il. XVII v. 35) e Licomedes (Il. XVIIv. 346)
+35
+6. REFERÊNCIAS BIBLIOGRÁFICAS
+ADKINS,A.W.H.Values,Goals,andEmotionsintheIliad. ClassicalPhilology,Vol.77,No.
+4, 1982, p. 292-326.
+ARISTÓTELES.Retórica. Tradução de Edson Bini. SãoPaulo: Edipro, 2019.
+FLICK, U.Introdução à pesquisa qualitativa. PortoAlegre: Artmed, 2002.
+GUGGENBERGER,Rainer. SobreafunçãodaIlíadanagênesedaRetóricadeAristóteles.
+Kalagatos, Fortaleza, CE. v.10 n.20, 2013. p. 357-388.
+HOMERO.Ilíada. Tradução de Carlos Alberto Nunes.Rio de Janeiro: Nova Fronteira, 2015.
+JIMENEZ,Marta.PlatoontheRoleofAngerinOurIntellectualandMoralDevelopment. In:
+LauraCandiotto,OlivierRenaut(org.).EmotionsinPlato.Leiden,Boston:Brill,2020.p.
+258-307
+MACIEL,FelipeMarques.A Presentificaçãodaausênciae a dissoluçãodapresença:a
+semânticada“saudade”nasépicashoméricas. Dissertação(MestradoemLetrasClássicas)-
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2020.
+MANTOVANELI,LuizOtávio.ÉleosdeAquilessegundaateoriaaristotélicadasemoções.
+Rio de Janeiro: Revista Enunciação v. 3, n2, 2018. p. 81-90.
+NETO, JoãoAngeloOliva.O hexâmetro datílicode CarlosAlbertoNunes: teoriae
+repercussões. Curitiba: Revista Letras n. 89, p. 187-204, 2014. Editora UFPR.
+NUNES,ClaudioPinto;ASSUNÇÃO,EmersonTadeuCotrim;MUSSI,LeilaMariaPrates
+Teixeira;MUSSI,RicardoFranklinde Freitas.PesquisaQuantitativae/ouQualitativa:
+distanciamentos,aproximaçõesepossibilidades.RevistaSustinere,RiodeJaneiro,v. 7,n.2,
+p. 414-430, jul-dez, 2019.
+VIEGAS,AlessandraSerra.AarrogânciadeAquileseadoçuradePátroclo:anarrativade
+umaphilíamediadapeloequilíbrioentre hýbrise sofrosýne. Riode Janeiro:Revista
+Principia, n. 25, 2012.
+36
+7. APÊNDICE
+Gráfico 1:Ocorrências deμῆνις, χόλος e χολόω naIlíada.
+Gráfico2:ComparativoentreAquiles,Zeusedemaisocorrênciasdeμῆνις,χόλοςeχολόω
+naIlíada, demonstrando maior relevância para Aquiles,quando se fala de cólera.
+37
+Gráfico 3:Ocorrências deἔλεος, νηλής, ἐλεαίρω, ἐλεέω,ἐλεάω, οἰκτείρω e ἐλεεινός.
+Gráfico 4:ἔλεος e seus cognatos e sinônimos referentesa Aquiles.
+38
+Gráfico 5:ἔλεος e seus cognatos e sinônimos referentesa Pátroclo
+39

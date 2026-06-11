@@ -1,0 +1,2276 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+FATIMA SILVA DE ABREU
+A FLORESTA SECRETA: PROJETO GRÁFICO DE LIVRO INFANTOJUVENIL
+RIO DE JANEIRO
+2022
+Fatima Silva de Abreu
+A floresta secreta: projeto gráfico de livro infantojuvenil
+Trabalhode Conclusãode Cursoapresentadoà Escolade BelasArtesda
+UniversidadeFederaldoRiodeJaneiro,comopartedosrequisitosnecessáriosà
+obtenção do grau de bacharel do Curso de Comunicação Visual Design.
+Orientador: Marcelo Gonçalves Ribeiro
+Coorientadora: Christiane Mello Guimarães de Oliveira
+RIO DE JANEIRO
+2022
+
+
+Resumo
+ABREU,FatimaSIlvade.Aflorestasecreta:projetográficodelivroinfantojuvenil.
+Rio de Janeiro,2022.Trabalhode Conclusãode Curso(Bachareladoem
+ComunicaçãoVisualDesign).EscoladeBelasArtes,UniversidadeFederaldoRio
+de Janeiro, Rio de Janeiro, 2022.
+Estetrabalhodeconclusãodecursotemcomoobjetivo:1)elaboraçãodeprojeto
+gráficodelivroinfantojuvenildocontoAFlorestaSecreta, escritoe ilustradopela
+autoradoprojeto;2)produzire estimularaconstruçãodenarrativasinfantojuvenis
+inclusivas;3)questionara predominânciadohomembranco,cis,héteronofazer
+literário.Paraalémdolivroilustrado,estetrabalhosededicaà pesquisadetrês
+temáticasextremamenteimportantes:a) Personagensnegras;b) Personagens
+LGBTs; c) Desmatamento.Temáticasurgentese necessáriasdeseremdiscutidas
+em todos os campos, principalmente no acadêmico.
+Palavras-chave:Livroinfantojuvenil,projetográfico,personagensnegraseLGBTs,
+desmatamento.
+Abstract
+ABREU,FatimaSIlvade.Aflorestasecreta:projetográficodelivroinfantojuvenil.
+Rio de Janeiro,2022.Trabalhode Conclusãode Curso(Bachareladoem
+ComunicaçãoVisualDesign).EscoladeBelasArtes,UniversidadeFederaldoRio
+de Janeiro, Rio de Janeiro, 2022.
+Thiscourseconclusionworkaimsto:1)designagraphicdesignforachildren'sbook
+of theshortstoryA FlorestaSecreta,writtenandillustratedbytheauthorof the
+project;2)produceandencouragetheconstructionofinclusivechildren'snarratives;
+3) questionthepredominanceof thewhite,cis,straightmanin literarywork.In
+additionto theillustratedbook,thisworkis dedicatedto theresearchof three
+extremelyimportantthemes:a) Blackcharacters;b) LGBTcharacters;c)
+Deforestation.Urgentandnecessarytopicstobediscussedinallfields,especiallyin
+the academic field.
+Keywords:Children'sbook,graphicdesign,blackand LGBTcharacters,
+deforestation.
+SUMÁRIO
+INTRODUÇÃO
+CAPÍTULO 1 - EMBASAMENTO TEÓRICO…………………………………………...11
+1.1. NARRATIVA……………………………………………………………………………11
+1.2. O GÊNERO CONTO………………………………………………………………….14
+1.2.1. Origem dos contos………………………………………………………………….14
+1.2.2.ContoAFlorestaSecreta………………………………………………………….17
+1.2.2.1. Cenários…………………………………………………………………………...18
+1.2.2.2. Personagens……………………………………………………………………...19
+Flora (protagonista)…………………………….………………………………...19
+Guardião da floresta………………………..….………………………………...19
+Samuel e Zoe………………………….………………………………………….20
+1.2.2.3. Personagens negras e LGBTs na literatura………………………………...…21
+1.2.2.4. Ilustração de personagens negras e LGBTs na literatura………………...…29
+Menina bonita do laço de fita……….……………………………………….…..30
+As tranças de Bintou………………….………………………………………….31
+A Princesa e a Costureira…………….…………………………………………32
+Olívia tem dois papais…………….……………………………………………..33
+Meus Dois Pais…………….……………………………………………………..34
+O Cavalheiro e o Lobisomem: uma História de Coragem……………………35
+Joana Princesa…………….……………………………………………………..36
+Cachinhos de Urso…………….…………………………………………………37
+Princesa Kevin…………….……………………………………………………...38
+Duas Mamães…………….………………………………………………………39
+Como Nascer de Duas Mães: Guia Prático…………….……………………..40
+Meu crespo é de rainha…………….……………………………………………41
+Amoras…………….………………………………………………………………42
+O Pequeno Príncipe Preto…………….………………………………………...43
+1.2.2.5. O desmatamento global…………….…………………………………………...44
+1.3. TEXTO, IMAGEM E SUAS ORIGENS…………….……………………………….47
+1.3.1. O Livro ilustrado e suas categorias…………….……………..………………….49
+CAPÍTULO 2 - O PROJETO GRÁFICO………………………………………………...56
+2.1. SIMILARES…………….……………………………….…………….….……………57
+2.1.1. Livro Seis homens….……………………………….……………..……………….57
+2.1.2. Livro O amor não é óbvio…………………………...…………….……………….59
+2.1.3. Livro Onda………….……………………………….…………….….……………..61
+2.1.4. Análise de similares.……………………………….…………….….……………..63
+2.2. ILUSTRAÇÃO………….……………………………….…………….….……………64
+2.2.1. Rascunhos personagens…………………………….…………….….…………..66
+Flora…………………………….…………….….………………………………….66
+Guardião da floresta………….……………..….………………………………….67
+Samuel……………………….……………….….………………………………….67
+Zoe……………………….…………….….………………………………………...68
+2.2.2. Personagens finalizados.…………….….………………………………………...68
+Flora…………………………...……….….………………………………………...68
+Guardião da floresta………...……….….………………………………………...69
+Samuel……………………...……….….………………………………………......69
+Zoe……………………...……….….……………………………………..………...70
+Cenários……………...……….….……………………………..………..………...70
+2.3. CAMINHO DE FERRO..……….….………………………….…..………..………...71
+2.4. PÁGINAS DUPLAS FINALIZADAS……………………………..………..………...71
+2.5. TIPOGRAFIA…………...……….….……………………………..………..………...71
+2.6. PALETA DE CORES…...……….….……………………………..………..………...73
+2.7. MANCHA GRÁFICA E GRID….….……………………………..………..………...76
+2.8. FORMATO, SUPORTE E ENCADERNAÇÃO………………..………..………….78
+CAPÍTULO 3 - CONCLUSÃO……………………………………………………………80
+3.1. REFERÊNCIAS……...……….….……….………………………..………..………..82
+3.2. ANEXOS……...……….….……….………………………..………..….…………….85
+3.2.1. Conto A floresta secreta……….………………………..………...……………….85
+3.2.2. Caminho de ferro…….….……….………………………..………..………………95
+3.2.3. Capa e miolo finalizados……….………………………..………..……………….97
+AGRADECIMENTO
+Antesdetudoagradeçoà minharainha,minhaMaria,quetambématende
+porminhaMÃE.Ela,quemuitoabdicoudesiparaqueeupudesseser. Quesonhou
+como diaemqueeuestariaformadapelamaiorfaculdadefederaldopaís.Logo
+ela, que nem o ensino fundamental completou. Te amo mãe!!
+AosmeusamigosLaíseFailace,LuizaMarques,GabrielJesusquemuitome
+auxiliaramnahoradeilustraro livro.Comfeedbacksquemuitomeajudaramno
+processo. Que me mostraram que eu tinha capacidade de fazer mais e melhor.
+Emespecialà Laíse,quesegurou,literalmente,minhamãonascrisesde
+ansiedade por achar que eu não ia conseguir e oferecer um “lugar seguro”.
+À minha amiga Danusa, pelos incentivos e apoio neste processo de fazer.
+Aomeuorientador, Marcelo,pelapaciênciaetodaorientaçãonesteumano
+de projeto, sem ele este projeto não seria o mesmo.
+À professoraChris,porsuacoorientação,porsuadisponibilidadeemestar
+junto comigo nesta jornada dando orientações perfeitas.
+À professoraRaquel,porsuasorientaçõesnapré-bancae nabanca,seus
+feedbacks sempre precisos.
+À autorae ex-colegade setorno GrupoRecord,AnaRosa,agradeço
+imensamenteporsualeiturasensíveldotrabalho,porsuasorientaçõesmaisque
+pertinentes e seu carinho. A melhor que temos.
+Por último e não menos importante, a Deus.
+9
+INTRODUÇÃO
+O que é a leiturasenãoum bemimaterialimportantíssimoparao
+desenvolvimentodointelectohumano?Praticamentetudoqueé feitonodiaadia
+envolvea leitura,sejanorótulodeumalimento,emumamensagemdetexto
+recebidapelowhatsapp,noletreirodoônibus,nasplacasespalhadaspelarua,no
+mercado,etc.A leituradesenvolveserescríticos,aptosa opinarsobrequalquer
+assuntoe capazesdelutarporseusdireitos.Indomaisalém,permitea viagem
+entreo possívele o impossível.Econheceroutrosmundoséoqueelaconcedea
+quemseaventuraremseuscaminhos.Leréserpartedahistória,éreceberedar
+contribuiçõesimagéticasquea enriquecemaindamais,fazendodo leitorum
+co-autordahistórialida.AmauryVerasNeto(2015),apartirdosescritosdeBarthes
+(2013) nos diz que a literatura
+:
+(...) nos faz sair, transcender arealidadeequestionar omundocomoutros
+olhos - olhos humanizados pela literatura, olhos que saíram do
+mundo-agora e estão noutros lugares livres das forças que nos
+impulsionamaser omesmo.“Deslocando-se”;transportando-se–àsvezes
+precisando nos abjurar do que já dissemos – para lugares diferentes do
+poder “gregário” e “opressor”. (NETO, 2015, p. 21)
+Oobjetivodestetrabalhodeconclusãoé o projetográficodelivroilustrado
+infantojuvenildocontoAFlorestaSecreta, escritoeilustradopelaautoradoprojeto.
+Nestemomentonãoháa intençãodepublicaçãodolivro,poisapósa conclusão
+desteprojetoo contocontinuarásendoescrito.Logo,todasasespecificaçõesdo
+projeto foram pensadas para um exemplar apenas.
+Comoa compreensãodahistóriadependetotalmentedanarrativatextual,o
+livroéindicadoparacriançasentre10e12anos,quejádominambemaleitura.E
+porsetratardeumlivrocomclassificaçãolivre,a histórianãocontémnenhum
+elementoinapropriadoparaleitoresabaixode18anos.Nãoimpedindoquesua
+leitura seja feita por e para todas as idades.
+Ocontotraztrêsimportantestemasquesãoabordadosdemaneirabemsutil
+pelanarrativatextualevisual.1)Personagensnegras.2)PersonagensLGBTs.3)O
+desmatamento.Estastemáticassãourgentesenecessáriasnomomentoemquea
+sociedade global vive.
+10
+Todahistória,enãosomenteela,contacomumelementosemprepresentee
+importante:a narrativa.Umaferramentautilizadana contaçãode histórias,
+passadasdegeraçãoemgeraçãoparaa continuidadedasculturase dospovos.
+Muitosteóricossedebruçaramsobreoassuntoenospermitiramtomarconsciência
+dequeanarrativaestápresenteatéondenãodamosconta.Umexemplodistoestá
+nosestudosde CarlGustavJung(1984)sobreossonhos,quesegundosuas
+percepções,há umacertaorganização/estrutura.AlémdeJung,outrosautores
+foramconsultadose a partirdosestudosrealizadosporelesveremosalgumas
+estruturasnarrativasquesecomportamdemodobemsimplese objetivocomoa
+narrativa de três atos.
+SophieVan derLinden(2011) é umaautoracomgranderelevânciana
+construçãodesteprojetoeapartirdesuaspercepçõesserápossívelentendersobre
+o desenvolvimentodeumlivroilustradoe asdiferençasqueexistementrelivro
+ilustrado,livrocomilustração,livro-imagem.Estetrabalhocontatambémcoma
+contribuiçãodealgunsartigosemonografiasquebaseiam-senolivroParalerolivro
+ilustrado, publicado em 2011por Sophie Van der Linden.
+Paraquehajaumamelhorexecuçãodeumprojetoénecessárioomínimode
+organizaçãoe planejamento,e destaformasechegaráaoobjetivo:umamelhor
+soluçãoparaumdadoproblema.Aexecuçãodesseprojetosedarácombasena
+metodologiaapresentadaporMariaLuísaPeónemseulivroSistemasdeidentidade
+visual(2003).Comoo própriotítulodo livrojá expõe,trata-sedeummétodo
+elaboradoparao desenvolvimentode identidadevisualcomtodosos seus
+desdobramentos.Entretanto,a basedessametodologiapodeserutilizadapara
+elaboraçãodequalquerprojeto,nãosódedesigncertamente,e adaptadaparaa
+realidade de cada problema a ser solucionado.
+“É a metodologiaprojetualque,se nãogarantenecessariamenteboas
+soluçõesparatodasasquestõesexpostasaqui,comcertezaajudaaorganizaras
+tarefas necessárias a boas soluções.” (PEÓN, 2003, p. 9)
+Nocasodesteprojetoutilizaremosas seguintesfasesmencionadaspor
+Peón:faseA–Problematização;faseB-Concepção;faseC-Especificação.Deste
+modo,cadafasetemsuasetapasa seremconcluídasparaquesechegueao
+objetivo final: o livro impresso. A seguir o detalhamento de cada fase.
+11
+FaseA – Problematização.Nafaseinicialé realizadoumdiagnósticoda
+situaçãodo trabalhotendoas seguintesetapas:levantamentode dados;
+estabelecimento de requisitos e restrições.
+FaseB-Concepção.Tendorecolhidoosdadosnecessáriosnaetapaanterior
+é o momentodedefinirassoluçõesa partirdasdiversasalternativasgeradasnas
+seguintesetapas:geraçãodealternativa;definiçãodopartido;soluçãopreliminar;
+validações; solução.
+FaseC- Especificação.Chegandoafasefinaldoprojeto,agoraésórealizar
+as etapasfinaisquesão:detalhamentotécnico;seleçãofinaldasaplicações;
+elaboração de arte finalização.
+A metodologia é o conjunto e a ordenação de procedimentos para a
+realizaçãodeumdadoobjetivo- ouseja,oconjuntodemétodosutilizados,
+bem como o estudo e análise destes métodos. A metodologia é, assim,
+uma ferramenta para odesenvolvimentodeumobjetivo- enãooobjetivo
+emsi mesmo. Por isso, eladeveservir comoumauxiliar pararesolver os
+problemas, e não se configurar como um problema. (PEÓN, 2003, p. 50)
+Porfim,maisdoqueentregaroprodutolivroilustrado,opropósitoéproduzir
+e estimulara construçãode narrativasinfantojuvenisinclusivase questionara
+predominênciadohomembrancocishéteronofazerliterário. Poristoháuma
+grandeimportânciaementregarumahistóriaemquepersonagens,quemuitas
+vezessãoexcluídos,possamestaremsituações“normais”sempreconceitos,sem
+sofrimentosporseremquemsão.Apenasvivendocoisasquepoderiamacontecer
+comqualqueroutrotipodepersonageme despertarnosleitoresa sensaçãode
+representatividade.
+CAPÍTULO 1 - EMBASAMENTO TEÓRICO
+1.1. NARRATIVA
+Oqueénarrativa?Pareceumtantoclichêiniciaresteestudoutilizandoeste
+questionamento,todasas respostas,entretanto,só existemporquealguémse
+perguntoua respeitode algo.Podemosnosquestionaraindamais.Ondea
+encontramos? Qual o seu objetivo?
+12
+O dicionário do Google vai definir a palavra “narrativa”, como:
+1. ação, processo ou efeito de narrar; narração;
+2.exposiçãodeumacontecimentooudeumasériedeacontecimentosmais
+ou menos encadeados, reais ou imaginários, por meio de palavras ou de imagens;
+3. conto, história, caso.
+Comobemdefiniuo dicionáriodoGooglea narrativaé a açãoderelatar,
+contarcomoocorreuumfatoouvários,sendoelesverdadeoupuraimaginação.Um
+poucomaisalémdadefiniçãotrazidadoGoogle,veremosalgunsautoresmaisà
+frente com definições mais profundas acerca da narrativa.
+Podemostrazera narrativacomoatividadepresenteem culturasque
+utilizavam-acomomeiodemantervivassuashistórias.Enãotendosuportefísico,
+exemplopapel,comoopçãode armazenamentodestashistóriasos povos
+mantinhama tradiçãodaoralidade.Elaseramsemprecontadasdegeraçãoem
+geraçãocomoformadegarantiroseunãoesquecimento.Emesmotendooacesso
+ao papel, esta tradição se mantém até hoje em muitas culturas.
+Anarrativaestáemmuitoslugares.Nasescolas,principalmentenaeducação
+infantil,ondeas criançasrecebemestímulosdosprofessoresparade modo
+colaborativocriarhistóriaspartindodeumtemaouobjetoouimagem.Dalisaem
+históriascominício,meioefim.Eestaestruturanarrativasimples,éencontradaem
+muitoslivrose filmes.PodemoscitarSydFieldcomoumadeptodaestruturade3
+atos.Emseulivro“Manualdoroteiro”utilizaaestruturaparaensinaraosroteiristas
+iniciantes o ofício de forma bem simples e didática.
+Se o roteiro é uma história contada em imagens, então o que todas as
+histórias têm em comum? Uminício, ummeio e umfim, ainda que nem
+sempre nessa ordem. Se colocássemos umroteiro na parede como uma
+pinturaeolhássemos paraele, elesepareceriacomodiagramadapágina
+13. (FIELD, 2001, p. 12)
+13
+Diagrama apresentado por Syd Field no livro Manual do roteiro (2001). (Fonte: autor)
+Podemosdizerquea estruturade3 atosnascea partirdosescritosde
+Aristótelesaproximadamenteno ano335a.C.Poisdelessurgemosprimeiros
+estudossobreo temacombasenaPoéticadeAristóteles(1992apudVIEIRA,
+2001).Seusestudosforamtãoaprofundados,demodoqueservirame servem
+comoreferênciaparaestudossobrenarrativa.Bremond(1966apudVIEIRA,2001)
+é quem,a partirdeumaacentuadarevisãonosestudosdeProppsugereumnovo
+modelode estruturaem3 partes,emordemcronológica,ondeumevento1º
+começa,2ºsedesenvolvee 3ºtermina.Ouseja,início,meioe fim,comovimos
+antes do diagrama de Field.
+Adamtambémdefinea estruturadanarrativacomosendoumatríadee
+acreditaqueestaestruturaprecisamaisqueumauniãológicadosacontecimentos,
+é necessário que aconteça uma transformação na sequência narrativa.
+Vimos que o reagrupamento de proposições narrativas em tríades
+imbricadas constituem grupos de funções. São estes grupos de
+proposições organizadas emciclos que formamas sequências narrativas.
+Para que um grupo de proposições narrativas forme uma sequência é
+precisonãosomentequeummesmoatorasunifiqueatravessando-as,mas
+tambémque haja uma transformação. (ADAM, 1985, p. 54. ApudVIEIRA,
+2001).
+Logo,a estruturanarrativa,segundoAdam(1985ApudVIEIRA,2001),se
+dará da seguinte forma:
+1. Situação inicial (Universo Perturbado - falta);
+2. Transformação (Mediação - prova);
+3. Situação Final (Universo Restabelecido - falta corrigida).
+
+14
+Jung(1945/1984apudVIEIRA,2001)retomaoconceitodedrama,vindode
+Aristóteles,emseusestudoscomsonhos.Emmuitosdelesnotaa existênciade
+umasequêncianarrativacom4pilares.Aprimeirafasedossonhoséchamadapor
+JungdeExposição, aquiolugardaação,personagensesituaçãoinicialdodrama
+sãoexpostos.AsegundafaseéoDesenvolvimentodaação,ondeháumatensão
+pornãohaverconhecimentodoquevirápelafrente.Aterceirafase,chamadade
+Culminaçãoou Peripécia, apresentaalgoquepodemudarcompletamentea
+situação.E porfim,a quartae últimafase,a Lise,SoluçãoouResultado, neste
+momento a trama desenrolada ao longo do sonho é resolvida.
+Labove Waletzky(1967apudVIEIRA,2001),utilizarama narrativaoralde
+adultosecriançasdediversasculturascomoobjetodeestudo.Apartirdelas,Labov
+definea narrativacomoumaformadecontinuarpassandoasexperiênciasde
+geraçãoemgeração.Eleaindaapontaduasfunçõesfundamentaisexercidaspela
+narrativa:1)dereferência,indicandolugar, tempo,personagens,ondee comoos
+fatosocorreram;2)deavaliação,ondeanarrativatemoobjetivodepassaralguma
+liçãoou moralao ouvinteaplicandoalgumensinamento.A estruturanarrativa
+segundoLabove Waletzkyé compostade orientação, complicação, açãoou
+avaliação,resolução, conclusãooumoral.
+Todososautoresmencionadosanteriormentetêmemcomumosestudos
+baseadosemAristóteleseumavisãodeestruturanarrativabemsimpleseobjetiva,
+divididaemnomáximo5partes.Osestudosacercadaestruturanarrativavãomuito
+maisalém,esteestudo,entretanto,limita-sea debruçar-sesobreasestruturas
+acimaexpostas.Poiselasserviramdereferênciaparaa construçãodahistóriaA
+floresta secreta, que mais a frente veremos.
+1.2. O GÊNERO CONTO
+1.2.1. Origem dos contos
+A palavra“conto”é definidapelodicionáriodoGooglededoismodos:1)
+LITERATURA.Narrativabreveeconcisa,contendoumsóconflito,umaúnicaação
+(comespaçoger. limitadoaumambiente),unidadedetempo,enúmerorestritode
+15
+personagens;2)relatointencionalmentefalsoeenganoso;mentira,embuste,treta.
+Segundo Massaud Moisés (2006)
+Apalavra'conto' possui, emvernáculo, as seguintes acepções:1)número,
+cômputo, quantidade: 'Umconto de réis'; 'Umsemcontodesoldados'; 2)
+história, narrativa, historieta, fábula, 'caso'; embuste, engodo, mentira
+('conto-do-vigário'); 3) extremidade inferior da lança, ou do bastão: 'E,
+dando uma pancada penetrante, / Co conto dobastão, nosóliopuro' (Os
+Lusíadas, 1, 37). (MASSAUD, 2006, p.29)
+Tantoa definição1doGoogle,quantoadefinição2deMassaudreferem-se
+aocontocomoliteraturaesegundoele,háoutrasdefiniçõesmenosprováveis.Elas,
+porém,acrescentamhipótesesqueseaproximamdacondiçãodocontoenquanto
+elemento pertencente à prosa.
+(...) a origemremontaria ao lat. commentu ('invenção', 'ficção'). Admite-se
+tambémque o vocábulo 'conto' seria deverbal de contar, derivado dolat.
+computare. Na Idade Média, significou inicialmente 'enumeração de
+objetos', passando com o tempo a 'resenha ou descrição de
+acontecimentos', 'relato', 'relato de coisas verdadeiras', 'enumeração de
+acontecimentos', 'narrativa'. (MASSAUD, 2006, p.29)
+Segundo,MASSAUD(2006)o termo“conto”,passaa termaisautonomiaa
+partirdo séculoXVI,como surgimentodoprimeirocontistachamadoGonçalo
+FernandesTrancoso,autordosContoseHistóriasdeProveitoeExemplo(1575)e
+emseguidacomCortenaAldeia(1619),deFranciscoRodriguesLobo.Daquipara
+frenteo vocábulo“conto”nãoperderiasuadenotaçãoliterária.Maisà frente,no
+séculoXVIIIo termoé confundidocom“novela”e “romance”porcontadoseu
+sentido variado, sendo ainda considerado pejorativo.
+“Aolongodo movimentoromântico,empregava-seo vocábulo‘conto’no
+sentidodenarrativapopular, fantástica,inverossímil.”(MASSAUD,2006,p.31)Por
+contadistomuitosautorespreferiamclassificarsuasobrascomo“novela”ou
+“romance”,mesmotendoa estruturadeum“conto”.Autoreshojebemconhecidos
+porseuscontos,comoPoe,passaramporestemomentode“pré-conceito”como
+uso do termo.
+SónoséculoXIX,coma chegadadorealismoqueo termopassoua ser
+amplamenteutilizadoatéos diasde hoje.E mesmocomesta“aceitação”do
+vocábulo,houveramautoresquecontinuaramevitandoseuuso.Estefoiocasode
+MachadodeAssis,quenãoutilizouo termonamaioriadesuascoletâneasdo
+16
+gênero:HistóriasdaMeia-Noite(1873),PapéisAvulsos(1882),VáriasHistórias
+(1896),Páginas Recolhidas(1899).
+Sobresuaorigem,“édifícilprecisar(…)Tãoantigaé suapráticaquenos
+autorizaimaginá-lo,emseuberçodeorigem,contemporâneo,oumesmoprecursor,
+das primeirasmanifestaçõesliterárias,ao menosa de caráternarrativo.”
+(MASSAUD,2006,p.32)Segundoele,algumasteoriasforamlevantadasarespeito
+dosurgimentodoscontos,desdeosIrmãosGrimme posteriormenteMaxMüller
+relacionandooscontoscomosmitosarianosdifundidosnapré-históriaIndiana.
+Passandopor AndrewLangdefensordo contocomoanteriorao mitoe de
+surgimentosimultâneoemdiversasculturasgeograficamentedistantes.Chegandoa
+Proppapontandoo contomaravilhosocomoumasuperestrutura,quequando
+analisadaépossível“(...)reconhecersinaisdosmodosdeproduçãoedosregimes
+políticos(sistemade clãs)que assistiramao seu imemorialaparecimento.”
+(MASSAUD,2006,p.32)Existeainda,acrença,porpartedealgunsestudiosos,que
+oscontostenhamsurgidohámilharesdeanosantesdeCristo,apontandoalguns
+episódios bíblicos como exemplo.
+SegundoMASSAUD(2006),nosséculosXVIe XVII,naItália,Espanhae
+Françao contotemseuflorescimentoatravésdegrandesautores.NoséculoXVIII
+vemosumaaparenteapatiaporconsequênciadeumambienteondesomentea
+poesiae a prosadoutrináriase desenvolveram.Sobretudo,no séculoXIX,
+finalmente,evoluide tal formaquepassaa ser consideradoumprodutoda
+literatura,deixandoa formasimplese tomandoaformaartística.Aindanametade
+destemesmoséculoa publicaçãodecontosaumentabastantee dividecomo
+romanceos diasde glóriae atéhojeé umgêneroamplamenteutilizado.Um
+exemplodistosãoosmilharesdecontosquepodemosencontraremsites,blogs
+especificamenteparaisto.Ondeo leitorpodeencontrarosmaisdiversostiposde
+contos, desde um romance à uma ficção científica.
+Sobresuaestruturapodemosdizerqueemcomparaçãocomumromance,o
+contoé curtoetemalgumasdelimitaçõesquefazemanarrativaserumconto.Por
+serbreve,eleprecisatermenospersonagensegiraremtornodeumúnicoconflito.
+Enquantonoromanceépossívelcriarumenredocomváriasaçõesepersonagens
+aomesmotempo.Oespaçodocontooucenárioacontecegeralmenteemapenas
+umlocalfísico(umarua,sala,escritório,quarto,etc.)oumentalpornãotereste
+tempo hábil para descrever ao leitor.
+17
+E quando isso ocorre, de duas uma: ou a narrativa tenta abandonar sua
+condiçãodeconto,ouodeslocamentoadvémdeumanecessidadeimposta
+pelo conflito que lhe serve de base, constituindo a preparação da cena,
+busca de pormenores enriquecedores da ação, etc. Nessa alternativa, o
+espaço ocupado pelas personagens antes do lugar onde se desenrola a
+cena principal é dramaticamente neutro ou vazio, espaço-sem-drama, ao
+passo que o outro é espaço-com-drama. (MASSAUD, 2006, p.41)
+Ocontoescritoparacriaçãodesteprojeto,o livroilustrado,noquetangeo
+espaço/cenáriocontacomdoise justamenteaconteceistoporter o segundo
+cenáriocomooprincipal,ondevaisedesenrolardefatoahistória.EMassaudbem
+explicita o porquê deste recurso na citação acima.
+Ahistóriapodesercontadaportrêstipospossíveisdenarrador. Onarrador
+em1ªpessoa,queestáinseridonanarrativacomoumpersonagemprincipalou
+secundário.O narradorobservador, quenãoestáinseridoe nemconheceo
+passadoe futurooupensamentosdaspersonagens,apenasrelatao queestá
+vendoem3ªpessoa.Eporfimoonisciente,quediferedoobservadorapenaspelo
+fatodeconhecera linhatemporale ospensamentosdaspersonagens.Massaud
+nos diz que para melhor compreender o gênero conto:
+(...) é preciso levar emconta queos seus ingredientes convergemparao
+mesmo ponto. A existência de uma única ação, ou conflito, ou ainda de
+uma única "história" ou "enredo", está intimamente relacionada com a
+concentraçãodeefeitos edepormenores: ocontoaborreceasdigressões,
+as divagações, os excessos. Aocontrário: cadapalavraoufrasehádeter
+suarazãodesernaeconomiaglobal danarrativa,apontode,emtese,não
+se poder substituí-la ou alterá-la sem afetar o conjunto. Para tanto, os
+ingredientes narrativos galvanizam-se numa única direção, ou seja, em
+torno de um único drama, ou ação. (MASSAUD, 2006, p.41)
+1.2.2. ContoA Floresta Secreta
+A narrativadestecontofoiestruturadaem3 atos,ondea primeiraparte
+apresentabrevementeaatmosferadahistóriaeaspersonagens,focandoemFlora,
+aprotagonista.Nasegundapartetemosoconflitogeral:Floraseperdenafloresta.
+Eosconflitossecundáriosqueformamoconflitogeral:1)Desconfiançaeferocidade
+dosanimaisdafloresta;2)Guardiãodafloresta,desconfiadoserecusaa ajudar
+Floraa encontrarseuspais.Naterceirae últimapartetemosa resolução.O
+18
+GuardiãodaflorestafinalmenteconfiaemFloraedecideajudá-laachegaratéseus
+pais em segurança.
+A históriasepassaemumaTerradofuturo,emqueascidadestomaram
+quasequeporcompletooplanetaeasflorestasforamextintas.Osanimaisquenão
+forammortospelodesmatamento,foramextintosporcaçadores,restandoapenas
+algunspoucosempequenospedaçosdeflorestaentreascidadesqueaindasão
+secretos.Flora,umadocee curiosamenina,filhaadotivadeSamuele Zoe(pais
+gays),descobrenospertencesantigosdeseufalecidoavôLorenzo,paideSamuel,
+ummapaparaumaflorestasecreta.Ecomajudaecompanhiadeseuspaisparte
+paraumagrandeaventura.Nestafloresta,elesvãoencontrarcomseresnunca
+vistosporsuageraçãoeseráprecisomuitacoragemparasuperarosdesafiosque
+este lugar tem guardado.
+A históriatrazcomotema/conceitodesmatamentoe extinçãodeanimais,
+curiosidade,confiançaedesconfiança,medo,alegria,euforia,solidão,personagens
+LGBTs,personagensnegras.Opropósitoé tratarestestemas/conceitoscomuma
+linguagem fácil, simples e trazer o leitor para dentro do universo da história.
+Aideiadestahistórianasceuemummomentocorriqueirododia-a-diaefoi
+anotadanumblocodenotasdocelular, comoalgumasoutrastambém.E antes
+destaserescolhidaoutrasforamcogitadas.Porémestapareciamaisadequada,
+poisé umprojetodeclassificaçãolivre,ouseja,todospodemlersemrestrição.
+Comoéumprojetográficodelivro,enãoumprojetodeescrita,ahistóriaprecisava
+estarprontaparaqueapartegráficapudesseserdesenvolvida.Porissoahistória
+foifechadaexclusivamenteparaestelivro,masnãoestátotalmenteconcluídae
+continuará sendo escrita após a conclusão do projeto.
+1.2.2.1. Cenários
+Atramasepassaemdoiscenários.Começanacidade,ondemoramFlorae
+seus pais Samuel e Zoe e se desenrola por completo na floresta secreta.
+Acidade.Muitosprédiosgrandese cinza,todasasruassãopavimentadas,
+muitoscarrosquenãopoluemo meioambiente(depoisdequaseacabarcomo
+planeta,a humanidadeseviuobrigadaa desenvolvermeiosdevivercommais
+19
+consciênciaoumorreriam).Aspoucasárvoresquehápelacidade,foramcriadas
+em laboratórios.
+A florestasecretaé umaflorestatropical,ondea faunae a floraestão
+intactas.Hátodosostiposdeárvores,frutíferasenãofrutíferas,plantas,arbustos,
+grama,etc.Osanimais,diversos,vivememharmoniae protegidosdequalquer
+ameaça humana.
+1.2.2.2. Personagens
+Flora(protagonista)
+Umameninade8 anos,negradepeleclara,olhoscastanhosescuros,um
+superblackpowerlaranjae 1,16mdealtura.Muitomeiga,curiosa,corajosae
+apaixonadaportudoquefalesobreasflorestase osanimaisquejáexistiramno
+planeta.Seumaiorsonhoé conhecerumaflorestadeverdade,sentirocheiroque
+tema terrae asárvorese verosanimaisdepertinho,masistoéimpossívelpois
+foramextintos.Suasmatériasfavoritasnaescolasãogeografiaebiologiaesetudo
+dercerto,seráumacientistabiólogacomoseuspaiseavô.Seucabelolaranjase
+devea umamutaçãogenéticaresultantedoprocessosomatóriodosmateriais
+genéticos de Samuel e de Zoe.
+SeupaiSamuellhedáumacaixacompertencesdeseuavôLorenzoemuito
+animadacomo presente,investigacadaitemdacaixa.Havialivros,fotos,papéis
+rabiscadose umpequenopendrivequecontinhamalgunsarquivosevídeosfeitos
+porseuavô.Muitointeligentee determinada,conseguedesvendarumgrande
+mistério:ummapaparaa florestasecretaqueseuavômencionanoslivrose
+vídeos.E assimconvencetodaa famíliaa sairdesuacidadeemumagrande
+aventura em busca desta floresta secreta.
+Guardião da floresta
+Umsermágicocomumavozroucaegravequeintimidaqualquerumàsua
+frente.Nãosesabeaocertosuaidade.Mede2,33mdealtura,bempeludo,aoseu
+redorhápequenasfaíscasqueoiluminam.Luzesdediferentescores:azul,verde,
+20
+amarelo,vermelho,laranja…Comoumarco-íris.Estaauracoloridaemvoltadele
+são os espíritos dos outros guardiões que o acompanham.
+Elenãoeraapenasele,masaforçaememóriadetodososseusancestrais.
+Traziaemsiasdores,lutase superaçõesquemarcaramasgeraçõesanteriores.
+Semprea espreita,vigilante,com muitasabedoriae justiçacarregavaa
+responsabilidadedeafastartudooquepudesseameaçaravidadaquelelugar. Com
+isso,a solidãovirousuamaiorcompanhiadesdemuitonovo,quandocomeçoua
+percorrer a pequena floresta para guardá-la.
+Dentrodetodogrupoháaquelesquesedestacamcomolídereseprotetores
+naturaisdeseugrupo.Assimeracomosguardiões,quedurantemuitasgerações
+protegiamaflorestasecreta.Passarampormuitasbatalhascomossereshumanos,
+oquedizimougrandepartedogrupo.Alémdeforça,osguardiõestinhamalgumas
+tradiçõesquepassavamdegeraçãoemgeração.Comomantervivaamemóriade
+cadaguardião,nãoapenasparaserlembrado,masparateracessoainformações
+importantesqueeramcruciaisparaa sobrevivênciadeles.Quandoum dos
+ancestraisestavaprontoparasejuntaraoespíritodaflorestaelessereuniame
+realizavamrituaisquepassavamospoderese asmemóriasparaosqueficavam.
+Assim foi acontecendo até que restou apenas um guardião.
+Samuel e Zoe
+Samuel e Zoe, pais de Flora, são um casal gay que sempre amaram à
+natureza, os animais, piqueniques no parque artificial próximo de casa. Sentiam que
+faltava algo para completar aquela família de dois, quando então decidiram ter a
+pequena Flora através de um programa de desenvolvimento de bebês em
+laboratório. Neste programa os pais davam seus materiais genéticos e o bebê era
+desenvolvido no laboratório em uma barriga artificial. Eles tinham um aplicativo onde
+podiam falar e ver imagens do bebê em desenvolvimento até o dia de seu
+nascimento.
+Eleseramgrandesdefensoresdo Planetae trabalhavamno LEPFF-
+Laboratóriode Experimentoe PreservaçãodaFaunae FloradoRegionalVIII,
+cidadeondemoravam.Lá elescultivavamas poucasespéciesde floraque
+sobreviveramaos grandesdesmatamentos.Realizavammuitosestudose
+experimentos para um dia possivelmente reconstruir parte dos biomas.
+21
+Samuel, 37 anos, 1,87m de altura, negro de pele escura, magro, cabelo preto
+pequeno e enroladinho, olhos castanhos escuros, impaciente, fechado, tímido. Teve
+muita dificuldade para lidar com a morte de seu pai, o biólogo Lorenzo.
+Zoe, 35 anos, 1,74m de altura, negro de pele clara, magro, cabelo castanho
+escuro médio e ondulado, olhos castanhos escuros, paciente, extrovertido, calmo e
+possuia uma ligação muito forte com Flora.
+1.2.2.3. Personagens negras e LGBTs na literatura
+Durantemuitasdécadasaliteraturabrasileirafoinomínimodisplicentecomo
+públiconegroe LGBT, infantile adulto.Tantoemnãopublicarautoresnegrose
+LGBTs comoemnãoretratá-losdemododignoousimplesmentenemcitá-losnas
+histórias.Hápoucosanosatrásestesgruposdepessoaseramretratadosdemodo
+bempejorativo,distantedarealidade,o queaoinvésdecriarrepresentatividade,
+alargavaaindamaiso preconceito.Atéosdiasatuaisestesgrupossofremcoma
+poucarepresentatividadeno mercadoliterário.E mesmocomo aumentode
+publicaçõescomestaspersonagens,aindaé baixoem comparaçãocomas
+publicações brancas e heteronormativas.
+Estaausênciasedátambémnaspolíticaspúblicasdedistribuiçãodelivros
+paradidáticos,queapresentaumabaixaouquasenulaparticipaçãodenarrativas
+compostasporautorese personagensnegrase LGBTs. Istoé extremamente
+problemáticoe perigosoe pormaisquepareçaóbvioo porquê,nãoé. Aindaé
+precisoexplicar, exaustivamente,oquantoénecessáriaainclusãodessegrupode
+pessoasemtodos- TODOS- oscamposdasociedade.E queparanãohaver
+diferenças/discriminaçãoé precisoincluirdeverdade,nãosimplesmentecumprir
+cota por obrigação.
+NapesquisarealizadaporJamesRiosdeOliveiraSantos&AltamirBotoso
+(2021)tendocomoobjetodeestudooseditaisdoPNBEde2011e2013,épossível
+constatarestadiscriminação,nãosomenteracial,dentrodaliteraturabrasileira.
+Segundoeles “...asnarrativasdo PNBE(2011 e 2013)são brancase
+predominantementemasculinas.”Epodemosconstatarestaafirmativanosnúmeros
+obtidosporeles.Em2011 foram69escritoreshomense somente36mulheres
+escolhidosparacomporos textosnarrativosdo PNBE.Istorepresentaem
+22
+porcentagem63,9%deescritoresdosexomasculino,enquanto33,3%sãodosexo
+feminino.Jáem2013essesnúmerostiveramumaumento,foram93homense46
+mulherescomtextoscontempladosnoPNBE,ouseja,66%deescritoreshomense
+apenas 32,6% mulheres.
+É um tantocontraditórioter dito, há dois parágrafosatrás,que o
+entendimentodaimportânciadainclusãonãoéóbvio.Poismesmocomoaumento
+deinformaçõessobreoassunto,vemososnúmerosdediscriminaçãoaumentarem.
+Ouseja,estaquestãovaimuitomaisalémdaobtençãodeinformaçõesdisponíveis.
+Etalvezsejaóbviosim,entretanto,grandepartedossereshumanossimplesmente
+ignoram.Preferem,eles,darcontinuidadeaolegadodeumasociedadearcaicae
+desumana,arraigadadepreconceitos.Enfatizandoque“(...)sernegronoBrasilé
+serviolentadoporumaduplainjunção:adeserempurradoaencarnarocorpoeos
+ideaisdeegodosujeitobrancoeaderecusar, negareanularapresençadocorpo
+negro.” (SANTOS Apud BENTO 2011).
+Aindanosresultadosda pesquisade SANTOS& BOTOSO(2021),os
+númerosemrelaçãoaraçadosescritoresselecionadosparaoPNBE2011e2013
+nãoforammuitolongedosapresentadossobreosexo.Oeditalde2011contoucom
+3 escritoresnegrose 1 mestiço,(somando3,7%),e 93 escritoresbrancos,
+acumulandoumtotalde86,1%dosselecionados.Noeditalde2013nãomudou
+praticamentenadaemrelaçãoa2011.Foram4,2%deescritoresnegrosemestiços
+e83,7%deescritoresbrancos.ValedestacarqueasobrasselecionadaspeloPNBE
+foram 150 em 2011 e 180 em 2013.
+Aausênciado(a) negro(a) enquantoescritor(a) denarrativasinfantojuvenis
+selecionadaspeloPNBEé,portanto,umarealidade.Esendoumarealidade
+registrada por meio de números, observa-se, mais uma vez, a presença
+hegemônica de escritores brancos a compor os acervos de ambos os
+editais. Nessecontexto, oracismosópodeser atestadoatravésdoburaco
+da fechadura, pelas fissuras do silêncio, que naturalizam as quase
+ausências como se elas obedecessem à ordem natural das coisas. Em
+outraspalavras,issosignificaqueabaixarepresentatividadenosacervosé,
+quasesempre,tãosomenteobservadapelocríticoqueensejacompreender
+a dinâmica funcional do racismo em programas de leitura do que,
+efetivamente, por aqueles que gerenciam tal programa. (SANTOS &
+BOTOSO, 2021, p.128).
+SegundoGabrielMatheusBernardBaum(2021),aspráticasnoPrograma
+NacionaldoLivroDidático(PNLD)2020nãosemantiveramdistantesdasadotadas
+nasediçõesdoPNBE,extintoemjulhode2017einseridonoPNLD.Pouquíssimos
+23
+livroscomtemáticasnegraseLGBTsforamintroduzidosnoprograma.“Analisando
+asresenhasdoslivrosfoipossívelencontrarpoucoslivrosqueabremmargempara
+tratardadiversidadesexualedegênero,eestãosomentenacategoriadelivrosdo
+8ºe9ºano”.(BAUM,2021,p.33)EosquetratamdotemaLGBT,porexemplo,são
+tardiamente inseridos no currículo escolar.
+Noeditalde2022houveumgranderetrocessoemcomparaçãocomoedital
+de2020,queaindahaviaumapequenaaberturaparatratardostemas.Comodiz
+Baum (2021, p 32):
+As obras do programa tambémnão devempossuir doutrinação religiosa,
+política ou ideológica, e devem respeitar o caráter laico do país, assim
+como aautonomiadoensinopúblico, aindaélevantadaanecessidadede
+representar a “diversidade cultural, social, histórica, econômica, as
+diferenças sociais e culturais, alémda promoção de condutas voltadas à
+cidadania e respeito às diferenças.
+Jánoedital2022nãoháqualquerpreocupaçãoemtrabalharastemáticas
+negraseLGBTs.Esimdeixarclaro,pormeiodosilêncio,queelasnãoprecisamser
+inseridas nas escolas.
+(...) o documento não cita nenhumavez os temas sobresexualidadeeos
+conflitos da adolescência, não fala em nenhum momento sobre a
+valorização da cultura, história e identidade afro-brasileira. No entanto, o
+edital acrescenta a importância de valores cívicos e patriotas, além de
+ressaltar a todo momento o caráter pedagógico das obras. (...) também,
+não faz menção aos livros estarem livres de doutrinas religiosas (...)
+(BAUM, 2021, p. 37)
+Arepresentaçãodepessoasnegrasnashistórias,nãoapenasnaliteratura,
+aindanãoocupatantosespaçosdeprotagonismo.A personagemnegraainda
+ocupamajoritariamenteospapéisestereotipadosoudecoadjuvante:omotorista,a
+garçonete,o ladrão,o preso,a doméstica,a babá.Porquenãoo empresário,a
+cantora famosa, a cientista?
+Um bom exemplo(ou um péssimoexemplo)das representações
+coadjuvantesou estereotipadaspodemserencontradasempublicaçõesmuito
+notóriascomoemReinaçõesdeNarizinhodeMonteiroLobato(1931).OndeTia
+Nastácia,vistacomoumaserviçalde famíliabrancaé tidacomoa “negrade
+estimaçãoquecarregouLúciaempequena”. OuemHistóriasdatiaNastácia,
+24
+publicadaem1937,ondeétratadademodomuitodepreciativopelascriançascomo
+mostrado em alguns exemplos abaixo.
+NocapítuloIV, apóscontara históriadeAprincesaladrona, TiaNastáciaé
+atropeladaporEmília:“(...)sóaturoessashistóriascomoestudosdaignorânciae
+burricedo povo.Prazernãosintonenhum.Nãosãoengraçadas,nãotêm
+humorismo.Parecem-memuitogrosseirase bárbaras—coisamesmodenegra
+beiçuda, como tia Nastácia. Não gosto, não gosto e não gosto... “.
+NocapítuloV- Opássaropreto, “(...)—disseEmília.—Oquevaleéque
+vocêmesmaconfessanãoterculpadasidioticesdahistória,senãoeucortavaum
+pedaço desse beiço…”
+EmJoãoeMaria, capítuloXI,“(...)—Otalnegroentrouaí—dissePedrinho
+—porquenoBrasilashistóriassãocontadaspelasnegras,quegostamdeenxertar
+personagenspretoscomoelas.LánaDinamarcaAndersennuncaselembrariade
+enxertar um preto porque não há pretos. Tudo gente loura.”
+JánocapítuloXXIV- Omacaco,aonçaeoveado, EmíliadizàTiaNastácia:
+“–Bemsevêqueépretaebeiçuda!Nãotemamenorfilosofia,estadiaba.Sinaéo
+seu nariz, sabe?”
+Hámuitosescritosacadêmicosacercadasofensas,explícitas,a pessoas
+negrasnashistóriasdeMonteiroLobato.Ecomoele,hámuitosoutrosautores,que
+nãotiveramomenorapreçoemdesvalorizarapessoanegraemsuasnarrativas.O
+quemaischamaaatenção,équesãohistóriasparacrianças.Nistovemoscomoos
+adultose suasfalastêmtotalresponsabilidadenaformaçãodeumindivíduo,seja
+parabemouparamau.Destaformao adultoquepropagao preconceitogera
+criançaspreconceituosas,queconsequentementeirãoagirdeigualmodocomas
+criançasnegrasao seuredor. E istoafetaráde modototalmentedestrutivoo
+desenvolvimentodacriançanegra.Queveráemsuascaracterísticasmotivode
+desgosto,perdendo-sedesuaidentidadeúnicae maravilhosadepessoanegra.
+Logo,acriançabrancacrescerácomosentimentodesuperioridadeeanegracom
+osentimentodenãopertencimento,desejandopossuirascaracterísticastidascomo
+“certas” ou “padrão” advindas do corpo branco.
+Provavelmente, a consciência que a criança adquire é de que seu corpo
+provoca essas rejeições, eessapercepçãopodeestabelecer umarelação
+ruimcomessecorpo.(...)Dessaedeoutrasformas,ocorponegropassaa
+ser sentido como corpo que traz dor, corpo indesejado, que precisa ser
+25
+modificado. E, comocorolário, coloca-seodesejodeter umcorpobranco,
+aquele considerado bonito, agradável. (BENTO, 2011, p.111)
+A pesquisaPersonagensdo romance brasileiro contemporâneo
+desenvolvidapeloGrupode Estudosem LiteraturaBrasileiraContemporânea,
+coletivodepesquisadoresvinculadoàUniversidadedeBrasília(UNB)ecoordenado
+pelaprofessoraReginaDalcastagnè,a partirdo segundosemestrede2003.
+Mostraquãograndeéadiscrepâncianaporcentagementreautoresepersonagens
+brancosenegrosnomercadoliteráriobrasileironosanosentre1965e1979eentre
+1990e 2014.Emqueanalisou689romancesdeautoresbrasileirospublicados
+pelasmaisimportanteseditorasdopaís.Aquinosatemosaosdadosapontadosna
+segundae terceirafaseda pesquisa,quefoi publicadaem2021porRegina
+DalcastagnènoartigointituladoAusênciaseestereótiposnoromancebrasileirodas
+últimas décadas: alterações e continuidades.
+SegundoDALCASTAGNÈ(2021,p.135-136)os resultadosquantoàs
+principaisocupaçõesdaspersonagensnegrassão:bandido/contraventor12,9%;
+empregado(a)doméstico(a)11,2%;escravo9,4%;estudante7,6%;profissionaldo
+sexo6,5%;donadecasa5,9%.Emcontrapartidaaestesresultadosasocupações
+daspersonagensbrancassãoascommaisprestígioperanteàsociedade.Classes
+proprietáriase executivas,profissõesliberais(médico,advogado,arquitetoetc.),
+estudante,donadecasa,professor, artista(teatro,cinema,artesplásticas,música,
+dança),escritor, profissionalda imprensa.“O efeitode realidadegeradopela
+familiaridadecomqueo leitor reconheceo espaçoda obra acabapor
+naturalizara ausênciaoua figuraçãoestereotipadademulheres,denegros,de
+indígenase deoutrosestratosmarginalizados.”(DALCASTAGNÈ,2021,p.123).
+Alémdeo leitornãoverrepresentatividadenestasliteraturas,eleé descriminado
+porsuacor, sexoeorientaçãosexualsendodesestimuladoatornar-seaqueleque
+vai tomar a voz e falar aos seus.
+Aqueles que estão objetivamente excluídos do universo do fazer literário,
+pelodomínioprecáriode determinadas formas de expressão, acreditam
+que seriam também incapazes de produzir literatura. No entanto, eles
+são incapazes de produzir literatura exatamente porque a definição de
+“literatura” exclui suasformasdeexpressão.Ouseja,adefiniçãodominante
+de literatura circunscreve um espaço privilegiado de expressão, que
+correspondeaos modos demanifestaçãodealguns grupos,nãodeoutros.
+(DALCASTAGNÈ, 2021, p. 112)
+26
+Umlivrobomé aquelequeconsegueprendera atençãodo leitor, que
+provocaumaimersãonatural.Paraistoacontecer, dealgumaformao leitorse
+identificou,sejaporaproximaçãodesuarealidadecomahistóriaouporidealização
+de si mesmoou de outrem,comelementosdanarrativa.Noentanto,“(...)os
+númerosindicam,comclareza,o perfildoescritorbrasileiro.Ele é homem,
+branco,aproximando-seou já entradona meia-idade,comdiplomasuperior,
+morandono eixoRio-SãoPaulo.”(DALCASTAGNÈ,2021,p. 121).Emoutra
+publicaçãoanterior, sobreamesmapesquisa,(DALCASTAGNÈ,2011,p.15)nodiz
+que“Oslugaresde falano interiorda narrativatambémsãomonopolizados
+peloshomensbrancos,semdeficiências,adultos,heterossexuais,urbanos,de
+classe  média…”
+Entre as personagens homossexuais, há uma nítida predominância de
+personagens do sexo masculino (78,8%), mas as bissexuais são
+majoritariamente do sexo feminino(58,8%). Dir-se-iaqueéumreflexo, na
+literatura, defantasias masculinas, mas cabeobservar queadisparidadeé
+maior ainda entre as personagens deescritoras mulheres. E, aocontrário
+doquesepoderiaesperar,dadaacrescentevisibilidadedaslutasLGBTno
+país e no mundo, as proporções não são significativamente diferentes
+daquelas encontradas nas personagens dos romances publicados entre
+1965 e 1979, entre as quais 88,8% são heterossexuais, enquanto
+homossexuais e bissexuais ficamcom2%cada. (DALCASTAGNÈ, 2021,
+p. 126)
+Seamaioriadashistóriassãoescritaseinterpretadasporhomensbrancose
+heterossexuais,ondeo leitornegroe ouLGBTseencaixa?Principalmentesefor
+pobre.Ondeestãoosautorese autorasnegraseLGBTs?Felizmente,temosvisto
+crescero númerode novosescritoresdefensoresdas pautasminoritárias.
+Importantemencionar, mesmoquebrevemente,a lutade algumaspequenas
+editorasque têm se dedicado,especificamente,a publicarautoresnegros,
+mulheres,LGBTs e temfeitoa diferençaemcolocarestasvozesemevidênciano
+mercado literário.
+E todoserhumanoprecisade referênciasnainfância,precisasesentir
+representadodealgumaformaporaquelapersonagemencontradanashistórias,
+sejaemfilmes,desenhosoulivros.Dessaformaelepoderáencontrarsoluçõespara
+assimilarmelhorsuaidentidade.Oatodeser, existiré complexoe envolvemuito
+maisdoquesimplesmenteestarnumespaçofísico.Aquinemmencionocrenças
+espirituais,maso conjuntode condiçõesfísico-mentaisqueconstroemo ser
+27
+humano.Secompararmososlivrospublicados,porexemplo,de2003pracá,que
+colocama criançanegrae oucomumafamíliacomposta,porexemplo,pordois
+paisouduasmãese ouaindacomoelasendoLGBTcomosperíodosanteriores,
+veremos que praticamente não existiam. Porém ainda não é o suficiente.
+É apenas nas últimas décadas, especialmente a partir da alteração dos
+artigos 26Ae79BdaLei deDiretrizes eBases daEducaçãoNacional,por
+meio da Lei 10.639/2003, que conseguimos captar, no mercado editorial
+brasileiro, mais obrasliteráriasqueexpressamrepresentaçõeshumanasde
+modos mais plurais, seja na ilustração ou no texto verbal. (SOUZA &
+ARAÚJO, 2020, p.199)
+Emesmocomoaumentodaspublicaçõesliteráriasqueabordam,dealguma
+forma,a identidadedegênero,precisamosabrirumparêntesesparafalarsobre
+nossasociedade.Quevêdemodomuitoerrôneoepreconceituosoarelaçãoentre
+infânciae construçãodoserquantoa suaidentidade,nãosomenteracial,mas
+tambémdegêneroeorientaçãosexual.Ora,sejáéumgrandeproblemaorespeito
+paracompessoasLGBTs adultase querespondamporsi, imaginaquandoé
+propostofalarsobreoassuntocomnossospequenos.Istoéumgranderetrocesso,
+pois,no mínimo,alémde formarserescomo pensamentolimitadoquantoà
+pluralidade,impedequeaquelesquelogocedojásepercebemnãopertencentesao
+sistemadegêneroconstruídoeimpostopelasociedade,possamlidarmelhorcomo
+seu “eu”.
+Naliteraturainfantil,geralmente,aspersonagenspossuemcaracterísticas
+bemmarcadas.Asmeninas/mulheressãotratadascomofrágeis,delicadas,que
+precisamsersalvasa todotempo,responsáveispelosafazeresdecasa.Jáos
+meninos/homenssãofortes,barulhentos,aquelesquevãosalvartodasasdonzelas,
+provedores,corajosos.“Essasnarrativasestereotipadasacabamporespelharoque
+socialmentedefinimoscomoidentidadesmasculinase femininas”(PIRES,2009
+ApudBARBOSA 2016, p. 15). Easpersonagens,tantofemininoquantomasculino,
+quesaemumpouquinhodestespapéisdegênerosãotachadoscomovilãsou
+marginalizadas na história.
+Em2019,umvídeobemrepercutidonasredessociaismostraaatualministra
+da Mulher, Famíliae DireitosHumanos,DamaresAlves,rodeadaporalgumas
+pessoase profereaseguintefrase:“Meninovesteazulemeninavesterosa”.Será
+apenasutilizada,estafalada ministra,comoexemploe nãoháo objetivode
+28
+aprofundarnesteassunto.Esteepisódioilustramuitobemopensamentodoadulto
+conservador, defensordosbonscostumesedamoral.Masoqueébomcostumee
+moral para eles?
+Comoditonotópicoanterior, oqueosadultosfalamtemmuitoinfluênciana
+formaçãodospequenos.Edeigualformaaliteraturatemumpapelsignificativono
+desenvolvimentoidentitáriodessascrianças.Eseelaexpressaqueháapenas“tal
+forma de ser”, como ficam os que são diferentes?
+Diantedisto,muitosautoressensíveisà necessidadede diversidadena
+literatura,seja racialou de gênero,começarama produzirnarrativasque
+desempenhamo papeldeacolhimentoparaascriançasdefamíliasformadaspor
+doispaisouduasmãesouelasprópriassendoLGBTs.Etambémgerarempatia
+naquelas que não se identificam, mas precisam conhecer e respeitar.
+Barthes (2013 Apud NETO, 2015) nos diz que:
+A Literaturapossui umlocus singular. Barthes (2013) nos mostraquenela
+se é permitido dizer o que noutros lugares da nossa sociedade não se
+permite: podemosdizerdemododiferente,“livre”dasforçassociaiseduma
+língua que nos impulsiona a falar, que nos “obriga a dizer” fascista. Ali
+falamos demododiverso, nos libertamos da“autoridadedaasserção”edo
+“gregarismo da repetição”, para “trapacearmos” a língua coma língua e
+dizemos mais e diferente, ouvindo-a fora do poder; esplendorosa, a
+literatura revoluciona, permanente, a linguagem, sem, claro, se
+desvencilhar do lugar fechado que é esta. (Neto, 2015, p. 21)
+Todaestaliberdade,quese tema partirda literatura,deveser bem
+aproveitadaparaoferecersubsídioà construçãodaidentidadedascriançasde
+formaplural,diversa,respeitosae gerarinclusão.Dessemodohaverácadavez
+maisumasociedadepautadanaempatia,deolhonoolhoemãosunidas.Elassão
+ofuturodomundo.Pareceumdiscursoutópico,fantasioso.Maséapenasodesejo
+demuitosqueestãoexcluídosemarginalizadosporseremdiferentes.Ealiteratura
+temestepoderdeserparaeles“lugarseguro”,ondepodemencontrarpersonagens
+com vivências semelhantes às suas.
+Utopia. Outro aspecto trabalhado por Barthes. Através de sua
+representação do real (Mimesis), a literatura tem uma “função utópica”;
+apesar deseuobjetoser arealidade, elaé“obstinadamente” irrealista; ela
+procuraedesejaoimpossível: outópico.Aliteraturamudaomundo.Muda
+nãodequalquer forma, nãodequalquer jeito-mudacomapalavra.(Neto,
+2015, p. 21)
+29
+Estapartedapesquisa,asilustrações,o livrocomoumtodo,contoucoma
+leiturasensíveldeAnaRosa1. Apósaleitura,osfeedbacksforambastantepositivos
+e pertinentesdemodogeral.Havendoa necessidadedeusartermosdiferentes
+paradesignara coloraçãodepeledaspersonagens.Antes,ostermosutilizados
+pelaautorado projetoerampretoe pardo,apósosfeedbacksdeAnaRosa,
+passaram a ser tratados como negro de pele escura e negro de pele clara.
+Estestemasabordadossãodeverasprofundose apenasestetrabalhonão
+seráo bastanteparaabrigartudoo queprecisaserpesquisadoediscutido.Seria
+esteumestudomaisconcentradoeobjetodeumapós-graduação.Todavia,sefez
+estasquestões,imensamentepertinentesaesteprojeto.Quebuscanãosomentea
+obtençãodegrauoumeramentecolocarmaisumprodutoliterárionomercado.E
+sim,questionarapredominânciadohomembranco,cis,héteronofazerliterárioeas
+consequênciasdisto.Produzireestimularaconstruçãodenarrativasinclusivasque
+acrescentemgotinhasdefelicidadee aqueçamoscoraçõesdospequenose dos
+grandes leitores.
+1.2.2.4. Ilustração de personagens negras e LGBTs na literatura
+Mesmocompoucapresençaounenhumanoseditaisdosprogramasde
+aquisiçãodelivrosparadidáticos.Épossívelencontrarbonslivroscompersonagens
+negrase/ouLGBTs,tantoinfantisquantoinfantojuvenisnaslivrariasfísicaseonline.
+Oslivrosemqueháa uniãodosdoistiposdepersonagensé bemmenorem
+relaçãoaosquesãodestinadosa umou a outro.Noentanto,sãolivrosque
+deveriamestarnasbibliotecasescolares,nosprogramascurriculares,nascasasde
+todasasfamíliascomcrianças,emtodaparte.Poissãonarrativasimportantes,com
+linguagemsimplese quetratamdasdiferenças,sejadecor, sexo,gênerocom
+situaçõesdodia-a-dia,geralmente.Equandonãosãoacontecimentosdodia-a-dia,
+sãofantasiasmaravilhosasquepermitemqueleitoresdiversospossamsesentir
+parte. E isso é mágico.
+1 PublicitárianoGrupoEditorialRecord,AutoradolivroVocêporaqui?edoconto
+FeiradeSãoCristóvão, leitorasensíveldelivrosemembrodabancaexaminadora
+deste Trabalho de Conclusão de Curso.
+30
+As ilustraçõesem livrosparacriançasassumemum papelde grande
+relevância.E pormaisque,estudiososapontemqueascriançaspequenasse
+atentemmaisparaossímbolosverbais,anarrativavisualeanarrativatextualfazem
+umparperfeito.Oqueo textonãodiza ilustraçãomostrae emmuitoslivrosela
+assumeo papelprincipal,quesãooschamadoslivros-imagem.Maisàfrenteeste
+assunto,livros-imagem,serámelhorabordado.Emespecial,nocasodelivroscom
+personagensnegrasas imagenstêmumgrandepeso.Poisa partirdelasas
+criançasterãocontatocomumaimagemdecaracterísticaspróximasàssuasoude
+seus coleguinhas.
+(...) consideramos de extrema relevância dar atenção às imagens, pois a
+leitura semiótica se estabelece pela combinação entre discurso e imagem.
+Por isso, enfatizamos neste texto a necessidadedeumareflexãosobrea
+importânciadotextovisual, entendendo-ocomoimprescindível àformação
+das crianças no contexto brasileiro: às crianças negras, ilustrações
+positivas (combinadas aumtextodequalidadeliterária) contribuemparao
+fortalecimento de suas identidades, pois poderão se reconhecer nas
+imagens; e às crianças brancas,tais ilustrações podemoferecer condições
+para a superação de um senso de suposta superioridade racial, ao se
+depararem com produções que não refletem apenas um espelho de si
+próprias. (SOUZA & ARAÚJO, 2020, p.200-201)
+Aseguirserãoapresentadosalgunslivrosquepossuempersonagensnegras
+e/ouLGBTs emsuanarrativa.Alistacontaapenascomalgunsdoslivrosondeas
+personagenssãoilustradasfugindodosestereótipose dasnarrativasnegativas.
+Principalmenteas compersonagensnegras,sãohistóriase ilustraçõesque
+valorizamsuascaracterísticasemostramcomoserdiferentenãoéalgoruim.Pelo
+contrário, são características belíssimas como todas as outras.
+Menina bonita do laço de fita
+Umalindameninanegradespertaa admiraçãodeumcoelhobranco,que
+desejaterumafilhatãopretinhaquantoela.Cadavezqueelelheperguntaqualo
+segredodesuacor, elainventaumahistória.Ocoelhoseguetodosos“conselhos”
+da menina, mas continua branco.
+31
+EscritoporAnaMariaMachadoeilustradoporClaudius(2019),classificação
+etárianãodisponível,português,possui24páginas,tamanho22x 19cm,capa
+comum e foi publicado pela Ática.
+(Fonte:https://www.amazon.com.br/Menina-Bonita-do-La%C3%A7o-Fita/dp/8508147597/ref=sr_1_1?keywords=menina+bonita+do+la
+%C3%A7o+de+fita&qid=1660505269&s=books&sprefix=menina+bonita%2Cstripbooks%2C229&sr=1-1)
+As tranças de Bintou
+AstrançasdeBintoué umdosmaioressucessosdocatálogoinfantojuvenil
+daCosacNaify, commaisde70milexemplaresvendidos,adquiridopelogoverno
+brasileiroparaequiparbibliotecaspúblicase adotadoemdezenasdeescolasde
+todoo país.Anovaediçãocontémtextodeorelhadoantropólogoe professorda
+UnespOmarRibeiroThomaz.AautoraSylvianeA.Diouf,estudiosadaculturaeda
+históriadaÁfrica,nosapresentaBintou,umameninanegraquenãosecontenta
+comseusbirotesnocabeloe sonhausartrançascomosuairmãmaisvelha.A
+históriaencantapelamaneiracuidadosae docecomquetrata,a partirdeum
+contextoculturalespecífico,ummomentouniversal:apassagemdainfânciaparaa
+adolescência.Umlivroquenosrevelaabelezadecadafasedavidaenospermite
+
+32
+repensar o Brasil por meio dos costumes africanos.
+Escritopor SylvianeA. Dioufe ilustradoporShaneW. Evans(2004),
+classificaçãoetárianãodisponível,português,possui32páginas,tamanho26x
+21cm, capa comum e foi publicado pela Cosac & Naify.
+(Fonte:https://www.amazon.com.br/Tran%C3%A7as-Bintou-Sylviane-Diouf/dp/8575039601)
+A Princesa e a Costureira
+OlivrocontaahistóriadaprincesaCíntia,quequandonasceufoiprometida
+emcasamentoparaFebo,opríncipedoreinovizinho,paraquesemantivessemos
+laçosdeamizadeentreosreinos.Quandochegouaépocadacerimônia,aprincesa
+foiencomendarseuvestidoe, então,conheceua costureiraIsthar, porquemse
+apaixonou.QuandoCíntiaanunciouparaospaissuasintençõescomIshtaredisse
+quenãomaissecasariacomFebo,seupaimandouqueaprendessemnatorredo
+castelo,poisdesafiouo interessee a tradiçãodosreinos,quediziaquemoças
+deveriamse casarcomrapazes.Paragarantirumfinalfeliz,a princesae a
+costureirareceberãoajudada irmãda princesa,do própriopríncipe,da Fada
+Madrinhae de umaAgulhaMágica.O livropretendeauxiliarfamiliarese
+
+33
+profissionais,tantonadiscussãosobrea diversidadehumanacomosobrea luta
+mais ampla pelos direitos das pessoas LGBT.
+EscritoporJanaínaLeslãoeilustradoporJúniorCaramez(2015),destinado
+a criançasa partirde12anos,português,possui52páginas,tamanho20x20cm,
+capa comum e foi publicado pela Metanoia Editora.
+(Fonte:https://www.amazon.com.br/Princesa-Costureira-Jana%C3%ADna-Lesl%C3%A3o/dp/8563439782/ref=asc_df_8563439782/?t
+ag=googleshopp00-20&linkCode=df0&hvadid=379739131843&hvpos=&hvnetw=g&hvrand=9571457308638660525&hvpone=&hvptwo=&hvqmt=
+&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100910&hvtargid=pla-865130391598&psc=1)
+Olívia tem dois papais
+Olíviaéumameninaesperta,quesabebemoquequeretemplenanoçãode
+comousaralgumaspalavrasparaconseguiro quedeseja.Quandotemdeficar
+sozinhaenquantoospaistrabalham,eladizqueestámuito"entediada".Comonão
+gostadevera filha"entediada",papaiRaulparaimediatamentedetrabalhare,
+quandopercebe,já estádeitadonochãoaoladodela,brincandodefilhinhoe
+mamãe,oucercadoporummontedebonecas.Parachamaraatençãodeseupai
+Luís,Olíviafalaqueestá"desfalecendo",afinaldecontas,desfalecerdefomeé
+
+34
+umacoisamuitoséria,e Luísé omelhorcozinheirodafamília."Intrigante"éoutra
+palavradequeOlíviagostamuito,issoporquetodasascoisasdomundosãomuito
+intrigantesparaela.Olíviaquersaber, porexemplo,comoseupapaiRaulsabe
+brincardebonecaeseupapaiLuíscozinhatãobem.Quersabertambémcomovai
+aprendera usarmaquiageme sapatosdesaltoalto,senacasadelanãomora
+nenhumamulher. A famíliada Olíviaé um poucodiferente,e totalmente
+"encantadora", outra palavra que ela adora usar. (Fonte: Amazon.com)
+EscritoporMárciaLeiteeilustradorporTalineSchubach(2010),destinadoa
+criançasde6-8anos,português,possui48páginas,tamanho21.6x15.4cm,capa
+comum e foi publicado pela Companhia das Letrinhas.
+(Fonte:https://www.amazon.com.br/Ol%C3%ADvia-dois-papais-M%C3%A1rcia-Leite/dp/8574064114/ref=sr_1_1?__mk_pt_BR=%C3
+%85M%C3%85%C5%BD%C3%95%C3%91&crid=N7QH8AS3QPG5&keywords=olivia+tem+dois+papais&qid=1659202432&s=books&sprefix=oli
+via+tem+dois+papais%2Cstripbooks%2C162&sr=1-1)
+Meus Dois Pais
+Naldonãoficamuitosurpresoquandoseuspaisresolvemseseparar. Afinal,
+osdoisvivembrigando...Mas,quandoa mãedeleprecisamudardecidade,o
+
+35
+meninoachanaturalirmorarcomopai.Naldosónãoconsegueentenderporquea
+mãe e a avó são contra. (Fonte: Amazon.com)
+Escritopor WalcyrCarrascoe ilustradorpor Ana Matsusaki(2017),
+classificaçãoetárianãodisponível,português,possui48páginas,tamanho27.18x
+7.87cm, capa comum e foi publicado pela Moderna.
+(Fonte:https://www.amazon.com.br/Meus-Dois-Pais-Walcyr-Carrasco/dp/851610768X/ref=d_pd_sbs_sccl_2_16/138-8888388-811235
+4?pd_rd_w=WXsKN&content-id=amzn1.sym.4e54af11-91e7-41b0-af49-07bca5d2336e&pf_rd_p=4e54af11-91e7-41b0-af49-07bca5d2336e&pf_r
+d_r=5P4WK5D950T41V7KWYTJ&pd_rd_wg=xL0gZ&pd_rd_r=388fcf59-d262-40ec-9de6-d01e42c25dc8&pd_rd_i=851610768X&psc=1)
+O Cavalheiro e o Lobisomem: uma História de Coragem
+EmboraKevintenhasetornadoconhecidocomoocavaleiromaiscorajosode
+seureinoencantado,issonãosignificaqueelenãotemmedodenada.Esetem
+umacoisadequeKevintemmuitomedoé deLobisomem.Nestaaventura,Kevin
+teráqueenfrentarseumaiormedoparasalvaraprincesaeopríncipedoseureino.
+E eleirádescobrirqueé enfrentandonossosmaioresmedosquepodemosnos
+deparar com muitas possibilidades de ser e amar. (Fonte: Amazon.com)
+
+36
+EscritoporAlexandredeSouzaAmorime ilustradorpor BrunoGuimarães
+Reis(2018),classificaçãoetárianãodisponível,português,possui42páginas,
+tamanho 20 x 22cm, capa comum e foi publicado pela Crianças Diversas.
+(Fonte:https://www.amazon.com.br/Cavalheiro-Lobisomem-uma-Hist%C3%B3ria-Coragem/dp/8554148029)
+Joana Princesa
+Eraumavezumaprincesaque,aonascer, recebeuonomedeJoão.Algum
+tempodepois,a criançapediuparaqueseuspaisa chamassemdeJoana,pois,
+assimcomoela,seunometambémtinhacrescido;queriasermeninaparasempre.
+Oreiearainhanãosabiamoquefazerparareverterasituaçãoeatéconsultarama
+bruxadoreino.Enquantoisso,Joanaacalentavaemseucoraçãoodesejode“ser
+umagarotaigualatodasasoutras”.Pararealizarseusonho,parteemumagrande
+aventuraembuscadoArco-ÍrisMágicoque,segundoa lenda,podetransformar
+rapazes em garotas. (Fonte: Amazon.com)
+
+37
+Escritopor JanaínaLeslãoe ilustradorporMarinaTranquilin(2018),
+destinadoacriançasapartirde12anos,português,possui50páginas,tamanho20
+x 20cm, capa comum e foi publicado pela Metanoia Editora.
+(Fonte:https://www.amazon.com.br/Joana-Princesa-Jana%C3%ADna-Lesl%C3%A3o/dp/8563439936)
+Cachinhos de Urso
+NacasadafamíliaUrso,todostrabalhamemsuafantasiaparaafestaque
+vaiacontecerà noite.MamãeUrsavaideBelaAdormecida,PapaiUrso,deLobo
+Mau,e o PequenoUrsoquerir deCachinhosDourados,oumelhor, Cachinhosde
+Urso,com direitoa saia e marias-chiquinhas.PapaiUrsonão consegue
+compreendera escolhadofilhoe tentaconvencê-loausarqualquerfantasiamais
+“masculina”,comodeogrooucavaleiromedieval.Nenhumdosdoiscedeatéque
+umterceiroe decisivopersonagementrana históriapararesolvero impasse.
+(Fonte: Amazon.com)
+
+38
+EscritoporStéphaneServant,ilustradorporLaetitiaLeSauxetraduzidopor
+AdilsonMiguel(2015),destinadoa criançasde8-9anos,português,possui32
+páginas, tamanho 24.64 x 22.86cm, capa comum e foi publicado pela SM.
+(Fonte:https://www.amazon.com.br/Cachinhos-Urso-St%C3%A9phane-Servant/dp/854180786X/ref=sr_1_1?__mk_pt_BR=%C3%85M
+%C3%85%C5%BD%C3%95%C3%91&crid=3N8RO2ETF6AKJ&keywords=Cachinhos+de+urso&qid=1659209000&s=books&sprefix=cachinhos+
+de+urso%2Cstripbooks%2C161&sr=1-1)
+Princesa Kevin
+Um livro para pequenos e grandes leitores que conta a história de Kevin: um
+menino que, no dia da fantasia na escola, quer ir vestido de princesa ― e vai
+mostrar para todo mundo que não há mal nenhum nisso.
+É o dia de ir fantasiado na escola de Kevin, mas ele não quer ir de caubói, de
+pirata ou de dragão, como todos os outros meninos. Kevin quer se vestir de
+princesa!
+E que problema haveria nisso? Por que meninos não podem ser princesas, e
+meninas, cavaleiros?
+
+39
+Com ilustrações vibrantes e um texto cheio de graça, Princesa Kevin
+apresenta aos leitores um menino corajoso e cheio de criatividade, que sabe que,
+no fim do dia, o que importa é estar bem consigo mesmo e se divertir, seja usando
+sapatos de salto ou uma capa de super-herói. (Fonte: Amazon.com)
+EscritoporMichaëlEscoffier, ilustradorporRolandGarrigueetraduzidopor
+LígiaUlian(2020),destinadoacriançasde6-8anos,português,possui32páginas,
+tamanho 27.6 x 21.6cm, capa comum e foi publicado pela Companhia das Letrinhas.
+(Fonte:https://www.amazon.com.br/Princesa-Kevin-Micha%C3%ABl-Escoffier/dp/8574069000/ref=d_pd_sbs_sccl_2_3/138-8888388-8
+112354?pd_rd_w=Rms0q&content-id=amzn1.sym.4e54af11-91e7-41b0-af49-07bca5d2336e&pf_rd_p=4e54af11-91e7-41b0-af49-07bca5d2336e
+&pf_rd_r=AZT8ETEVRP622J9XW2QR&pd_rd_wg=Tcf18&pd_rd_r=c0f80272-0b67-4697-a670-acdef372f358&pd_rd_i=8574069000&psc=1)
+Duas Mamães
+Pedro é um garoto sabido: sabe vários nomes de dinossauros, sabe surfar e
+dançar, e soube como iria chamar cada uma das suas mães! Pedro tem tudo o que
+uma família precisa – amor, cuidado, risadas e muita diversão! E, se alguém acha
+
+40
+que a família do Pedro é diferente, tem razão! Afinal, você conhece uma família que
+seja igualzinha à outra? (Fonte: Amazon.com)
+EscritoporCarolCampos,ilustradorporCorineCarreira(2021),classificação
+etárianãodisponível,português,possui32páginas,tamanho21x 21cm,capa
+comum e foi publicado pela Semente Editorial.
+(Fonte:https://www.amazon.com.br/Duas-Mam%C3%A3es-Carol-Campos/dp/6586610303)
+Como Nascer de Duas Mães: Guia Prático
+Lupeéumacriançamuitocuriosa,quegostadeinvestigarascoisasdavida
+danaturezaemdetalhesequersabercomoeporqueascoisasacontecem.Suas
+mães,Juliae Carol,admiramseutrabalhoe seenchemdeorgulho.Conversando
+comaspessoas,Lupepercebeuquenemtodomundoconheciafamíliascomduas
+mãesequandoconheciam,muitasnãosabiamcomoduasmulheresfazemparater
+filhos.Resolveuentãojuntartudoo quesabia,fezpesquisas,entrevistouseus
+amigoseescreveuumguiaparaajudarascrianças(eadultos)aentenderemcomo
+issopodeserfeito!Estápreparadoparasaber?Entãoembarquecomagentenessa
+investigação! (Fonte: Amazon.com)
+
+41
+Escritopor KarenMentone,ilustradorpor GabrielaEmmerich(2021),
+destinadoacriançasde0-18anos,português,possui48páginas,tamanho20.32x
+25.4cm, capa comum e foi publicado pela Lupe Palavraria Diversa.
+(Fonte:https://www.amazon.com.br/Como-Nascer-Duas-M%C3%A3es-Pr%C3%A1tico/dp/6599518907/ref=d_pd_sbs_sccl_1_5/138-8
+888388-8112354?pd_rd_w=rOFD6&content-id=amzn1.sym.4e54af11-91e7-41b0-af49-07bca5d2336e&pf_rd_p=4e54af11-91e7-41b0-af49-07bca
+5d2336e&pf_rd_r=GF80YZRXQT1ATYW5WPEK&pd_rd_wg=B8giX&pd_rd_r=770cb3f7-b9b2-4c81-bef8-9f869c68e6f2&pd_rd_i=6599518907&ps
+c=1)
+Meu crespo é de rainha
+Publicadooriginalmenteem1999emformadepoemarimadoe ilustrado,
+estadelicadaobrachegaao paíspeloseloBoitatá,apresentandoàsmeninas
+brasileirasdiferentespenteadose cortesdecabelodeformapositiva,alegree
+elogiosa.Umlivroparaserlidoemvozalta,indicadoparacriançasapartirdetrês
+anosdeidade- etambémmães,irmãs,tiaseavós- seorgulharemdequemsãoe
+deseucabelo'maciocomoalgodão'e 'gostosodebrincar'.Hojeemdia,ésabido
+queincontáveismulheres,incluindomeninasmuitonovas,sofremtentandose
+encaixarempadrõesinalcançáveisdebeleza,deproblemasquepodemincluir
+
+42
+desdequestõesdeinsegurançaebaixaautoestimaatédistúrbiosmaissérios,como
+anorexia,depressãoe mesmotentativasdemutilaçãoousuicídio.Paraasgarotas
+negras,opesopodeseraindamaiorpelafaltaderepresentatividadenamídiaena
+culturapopularepeloexcessodereferênciaseurocêntricas,depeleclaraecabelos
+lisos.Nessesentido,Meucrespoéderainhaéumlivroqueenalteceabelezados
+fenótiposnegros,exaltandopenteadosetexturasafro,servedereferênciaàgarota
+que se vê ali representada e admirada. (Fonte: Amazon.com)
+EscritoporBellHooks,ilustradorporChrisRaschka(2018),classificação
+etárianãodisponível,português,possui32páginas,tamanho20.2x17.2cm,capa
+comum e foi publicado pela Boitatá.
+(Fonte:https://www.amazon.com.br/Meu-Crespo-Rainha-Bell-Hooks/dp/857559608X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%
+C5%BD%C3%95%C3%91&crid=1JIPDWNIDQS73&keywords=Meu+crespo+%C3%A9+de+rainha&qid=1659211411&s=books&sprefix=meu+cre
+spo+%C3%A9+de+rainha%2Cstripbooks%2C166&sr=1-1)
+Amoras
+Namúsica“Amoras”,Emicidacanta:“Quea doçuradasfrutinhassabor
+acalanto/Feza criançasozinhaalcançara conclusão/Papaiquebom,porqueeu
+
+43
+soupretinhatambém”.Eé a partirdesserapqueumdosartistasbrasileirosmais
+influentesdaatualidadecriaseuprimeirolivroinfantilemostra,atravésdeseutexto
+edasilustraçõesdeAldoFabrini,aimportânciadenosreconhecermosnomundoe
+nosorgulharmosde quemsomos— desdecriançae parasempre.(Fonte:
+Amazon.com)
+EscritoporEmicida, ilustradorporAldoFabrini(2018),destinadoacrianças
+de 3-8anos,possui44 páginas,tamanho20.2x 20.8cm,capacomume foi
+publicado pela Companhia das Letrinhas.
+(Fonte:https://www.amazon.com.br/Amoras-Emicida/dp/8574068365/ref=sr_1_2_sspa?__mk_pt_BR=%C3%85M%C3%85%C5%BD
+%C3%95%C3%91&crid=3WDXNP4QNS4Z&keywords=Amora&qid=1659211619&s=books&sprefix=amora%2Cstripbooks%2C184&sr=1-2-spons
+&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMlJKNVVNSTNaOTc5JmVuY3J5cHRlZElkPUEwMzkxNzgyM0E1Q1E3MUZKMThNRSZlbm
+NyeXB0ZWRBZElkPUExMDQwODYzWlBTOUxOMlRVQzJPJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ
+2xpY2s9dHJ1ZQ==)
+O Pequeno Príncipe Preto
+Emumminúsculoplaneta,viveoPequenoPríncipePreto.Alémdele,existe
+apenasumaárvoreBaobá,suaúnicacompanheira.Quandochegamasventanias,
+o meninoviajapordiferentesplanetas,espalhandoo amoreaempatia.Otextoé
+originalmenteumapeçainfantilquejárodouo paísinteiro.Agora,RodrigoFrança
+trazessadelicadahistórianoformatodeconto,presenteandoo jovemleitorcom
+
+44
+umanarrativaquefaladaimportânciadevalorizarmosquemsomose deonde
+viemos- alémdenosmostrara forçadetermoslaçosdecarinhoe afeto.Afinal,
+comodizo PequenoPríncipePreto,juntose juntastodosganhamos.(Fonte:
+Amazon.com)
+EscritoporRodrigoFrança,ilustradorporJulianaBarbosaPereira(2020),
+destinadoa criançasde3-8anos,possui32páginas,tamanho28x20.6cm,capa
+comum e foi publicado pela Nova Fronteira.
+(Fonte:https://www.amazon.com.br/Pequeno-Pr%C3%ADncipe-Preto-Rodrigo-Fran%C3%A7a/dp/8520938388/ref=d_pd_sbs_sccl_2_
+4/138-8888388-8112354?pd_rd_w=H6lCf&content-id=amzn1.sym.4e54af11-91e7-41b0-af49-07bca5d2336e&pf_rd_p=4e54af11-91e7-41b0-af49-
+07bca5d2336e&pf_rd_r=FP2N3QYXYA0ANCMMM5BZ&pd_rd_wg=MmfCi&pd_rd_r=a9d4f11d-80a8-4ddf-88d2-c7a7bfec4d72&pd_rd_i=8520938
+388&psc=1)
+1.2.2.5. O desmatamento global
+A cadavoltaquea Terracompletaemtornodo Solo seunúmerode
+habitantesaumenta.NoséculoXXviu-seumcrescimentodapopulaçãomundial
+exacerbado.Em1900a populaçãomundialerade1,56bilhãoe em2000este
+númeroquadruplicou,foipara6,1bilhões.JánoséculoXXItemosumataxade
+
+45
+crescimentobeminferiorcomparadaa doséculoanterior, em2020chegou-sea
+7,75 bilhões de pessoas dividindo o planeta.
+EstecrescimentopopulacionalqueoséculoXXviveu,foiinéditoemrelação
+aosséculosanteriorese supostamenteseráaosfuturos,quetiveramumataxade
+crescimentolenta.EsegundoJoséEustáquioDinizAlves(2008),oplanetavivesua
+melhorfasedemográficadesdeo iníciodahumanidade.Segundoele,aindano
+séculoXIX os índicesde mortalidadesiniciaramseuprocessode redução.
+Posteriormente,no séculoXX,estastaxaspraticamentedespencaramcomo
+aumentoda expectativade vida,queem1900erade apenas30 anos.Esta
+longevidademédiadapopulaçãomundialduplicounosanos2000,passandopara
+65anos.Estefoiumgrandesaltonahistóriadahumanidadee issosedápela
+melhoranopadrãodevidadapopulação,asinovaçõesmédicas,osprogramasde
+saúdepública,oaumentodaqualidadedahigienepessoal,saneamentobásicoque
+permitiram a diminuição das taxas de mortalidade infantil.
+Esteaumentopopulacional,quemesmotendoseestabilizado,nãodeixade
+ser contínuoe impactadiretamenteno aumentoda produçãode produtos,
+alimentos,serviços,etc.Eistoestádiretamenteligadocomoaumentodeespaços
+devegetaçãodevastadospelomundo.Desdesuaaparição,oserhumanoderruba
+árvores para seu benefício, o que difere de lá pra cá é o aumento global desta ação.
+O desmatamentoou desflorestamento,comotambémé chamado,divide
+opiniões,enquantounsdefendemanecessidadedepraticartalaçãoparasupriras
+necessidadesdapopulação,outrosvêemestaatividadecomoumenormeproblema
+ao meio ambiente a curto e longo prazo.
+A atividadecapitalistaquemaistêmcontribuídoparao desflorestamento
+globalé a agropecuária.Claroqueestanãoé a única“vilã”dascommodities.O
+dendezeiro,a soja,o cacau,a borrachae o cafétambémintegramestegrupo.
+Segundoo relatórioGlobalForestReviewdoworldresourcesinstitute, noperíodo
+entre2001e 2015acriaçãodegadofoiresponsávelpor45,1Milhõesdehectares
+(Mha)de florestadesmatadapelomundoparacriaçãodepastos.O Brasilse
+destacacomoopaísquemaisdesmatouflorestasparacriaçãodepastos,com21,8
+Mha (48%).
+O dendezeiroocupa22,4 Mha de florestasdesmatadas,commaior
+predominâncianosudesteasiático.Jáasplantaçõesdesojaabrangem8,2Mhade
+florestassubstituídase quase97%delasestãonaAméricadoSul.OBrasil,mais
+46
+umavezestánafrente,ocupando61%destasterrasdesmatadas.Dos61%,48%
+aconteceram na Amazônia e 45% no Cerrado.
+O cultivodecacausubstituiu2,3Mhadeflorestanoplaneta.Destaveza
+Indonésiae Costado Marfimsaíramna frentecomos maioresíndicesde
+desmatamento.Respectivamentemantiveram25%e22%dasterrasdesmatadas.O
+Brasil não ficou tão longe, foi responsável por 19% destas terras.
+A borrachaficoucom2,1Mhadedesflorestamentoglobalentreospaíses
+analisados,o quesoma40%daproduçãodeborrachanomundo.Osoutros60%
+sãodepaísesquenãoforamincluídosnapesquisaporfaltadedados.AIndonésia
+foilídercom1,0Mhadedesmatamentoe a Malásiacom0,7Mha.Enquantoo
+plantio de café utilizou 1,9 Mha de terras desmatadas pelo mundo.
+Apesardepesquisasindicaremo aumentodecoberturaarbóreaem80,6
+Mhaentre2001e 2012,muitojáfoiperdidoecontinuasendo.Foram437Mhade
+florestadestruída,ouseja,11%decoberturaarbóreaglobalem2000.Eaté2021
+foramcercade 25,3Mhade florestaderrubada.Partedoganhodecobertura
+arbóreasedáemregiõesquetiveramtantoganhoquantoperda,comoacolheitae
+replantio de árvores para comercialização.
+Outrofatorresponsávelpelodesmatamentosãoasqueimadasnaturaisou
+provocadasporpessoas.Noperíodode2001a 2021foram91Mhadecobertura
+arbóreadevastada.Destasflorestasperdidasporincêndiossomentepartedelatem
+a oportunidade,mesmoquedemorada,de se recuperar. A outraparte,que
+possivelmente,teveincêndiosprovocadospeloserhumano,temseunovousopela
+agricultura.
+Todoestedesmatamentodesmedidotemcolocadoemriscoo equilíbriode
+todoo sistemabiológicodoplaneta.Ecomovistoanteriormente,játomougrandes
+proporçõesportodoogloboterrestreesuasconsequênciassãoenormes.Aofazer
+a retiradaexcessivade vegetaçãode umaregião,é provocadoumagrande
+instabilidadeemseubioma.A faunaperdeseuhabitat,sendoobrigadaa migrar
+para outrasregiõese até mesmomorrempor não conseguirfazereste
+deslocamento.Aflora,aocontráriodafauna,nãoconsegueselocomoverdeuma
+regiãoparaoutra.Emuitasdelasentramparaalistadeextintas,assimcomomuitos
+animais.
+O climaé outroelementofortementeinfluenciadopelosdesmatamentos.O
+planetatemapresentadoaumentoemsuatemperaturaaopassardosanoseisso
+47
+se deveàs grandesretiradasde árvores.A quantidadede gasesliberadana
+atmosferaestácadavezmaiselevadaeagravandooefeitoestufaeoaquecimento
+global.Apesarde serignoradopormuitos,estesfenômenosagridememgrau
+elevado à saúde humana e do planeta.
+1.3. TEXTO, IMAGEM E SUAS ORIGENS
+Quandosetemumlivroparaler, geralmente,nãosepensamuitoemcomo
+elefoiproduzido,quetipodepapelutiliza,otipodeimpressãoaquefoisubmetidoe
+outrascoisas.Emaisalém,nãoháoquestionamentoarespeitodecomoeramos
+suportesutilizadosparaa escrita,oudecomosurgiua escrita.Simplesmentehá
+umaimersãonomardeletrasquehabitamemsuaimensidão.MasJean-Yves
+Mollier (2009, p. 522) nos diz que:
+Baseando-se nas ideias de Erwin Panofsky, sobre a perspectiva
+consideradacomoumaformasimbólica,eledámaisatençãoaoquechama
+de “a forma expressiva” de que se reveste o livro. Ele convida o leitor a
+interessar-se pela tipografia, pelo layout, pela ilustração, ou o que Roger
+Laufer chamou de “escritura”, ou seja, a produção de sentidos, os
+significados relacionados à ínfima materialidade do livro.
+Refazendo,resumidamente,a trajetóriada escritaatéhoje,verifica-seo
+quantoelae a humanidadeevoluíram.Antesqueelaexistisseo serhumano
+necessitavase comunicar, passare guardarinformaçõesimportantes.E esta
+comunicaçãose davapormeiode símbolos,da oralidade,de desenhos.Os
+registrosmaisantigosencontradosporestudiososdatamde 40 milanos.As
+pinturasfeitasemparedesdecavernaseram,supostamente,utilizadaspararetratar
+uma caçada, rituais, etc.
+Saindodapré-históriaepassandoparaantiguidade,porvoltade3mila.C,a
+escritacuneiformesurgenaantigaMesopotâmiacomosSumérios.Apartirdelaos
+egípciosderamorigemàescritahieroglífica.Em1.200a.C.aescritachinesasurge
+e em 600a.C.os gregosaperfeiçoarama escritafenícia(1000a.C.).Desta
+evoluçãodaescritagrega,veiooalfabetoqueutilizamoshoje.Ainvençãodopapel
+sóaconteceunoano100d.C.Entretanto,antesdelevieramopapiroemtornode3
+mil a.C pelos egípcios e o pergaminho no século 2 a.C. pelos gregos.
+48
+Comainvençãodaescritaedopapel,atravésdoprocessodeimpressãode
+JohannesGutenbergo mundoconheceuo livrocomoeleé hoje.Eleproduziua
+BíbliaemLatim,quecontinha641páginas.Jáa invençãodaprensa,segundo
+historiadores,nãosedeudefatoporGutenberg,elajáexistiaemoutraspartesdo
+mundo.Todavia,é notóriaa agilidadedeproduçãoqueo processodeGutenberg
+realizou.Erapossívelfazermuitascópiasemmenostempoecomissoaleiturase
+difundiu e nunca mais parou.
+Nãosetemumadataprecisadequandosurgiuoprimeirolivrocomimagem.
+Oquepodeserapontado,segundoAlíciaS.Morello&HeloisaR.Rincon(2017),é
+quealgunspesquisadoresseguiramvestígiosdahistóriaapartirdosprocessosde
+impressão“(...)deacordocomastécnicasdisponíveis,e também,comoeramas
+publicaçõesquandosecomeçoua unircaracterese figurasnoslivros.”(Morello&
+Rincon,2017,p.25)Eseguindoospassosdostiposdeimpressãoqueexistiamna
+época,segundoSophieVanderLinden(2011ApudMorello&Rincon,2017,p.25),
+podemosacompanhara evoluçãodolivroilustradoatéosmodelosqueexistem
+hoje.
+Comoprimeirotipodeimpressãoutilizadonaproduçãodelivros,temosa
+xilogravura,queatéofimdoséculoXVIIeraoprocessocommaisversatilidadenas
+composições.Seuprocessoconsisteemgravara imagemnamatrizdemadeira
+utilizandoumaferramentaparaentalhar. Oprocessoéparecidocomcarimbo,onde
+cava-seodesenho,passa-setintaeopapelououtrosuporteépressionadosobrea
+matrizparareproduziro desenho.Naépocaestetipodeimpressãoerao mais
+versátil,entretanto,aindanãoosuficienteparadaraliberdadenecessáriaàjunção
+deimagemetextopelaespessuradeseustraços.Afetavadiretamentenaqualidade
+do detalhamento dos desenhos.
+"AolongodoséculoXVI,generaliza-seo usodotalho-doce,umagravura
+realizadacomcinzelouácidosobreumaplacadecobre.”Linden(1973,p.12Apud
+Morello& Rincon,2017).Estemodelodeimpressãopossibilitavaaostraçosuma
+menorespessura,dandoao desenhomelhordetalhamento.No entanto,não
+permitiaa uniãodetextoe imagemnamesmaplaca.Atualmenteestatécnica
+gráficaéconsideradaamaisseguracontrafraude.Presenteemdocumentoscomo:
+CédulasdeIdentidade,CarteiraNacionaldeHabilitação-CNH,CédulasMonetárias,
+Passaportes.
+49
+Findandoo séculoXVIII,a litografiasurgeatravésde AloysSenefelder
+possibilitandomaiorliberdadeparaa ilustração.Utilizandoumapedradecalcário
+especial,chamada“pedrade litografia”,comobasee materiaisgordurosos,o
+desenhoégravadoeemseguidarecebeumtratamentodesoluçãoquímicaeágua.
+Assimaspartesgordurosasondefoifeitoodesenhosefixamàbaseeparadepois
+serem feitas as reproduções em papel ou outro suporte.
+Em1770,desenvolvidaporThomasBewick,a xilografiadetopoviabilizaa
+melhorimpressãodaimagem.Ecomissosetemlivroscommaiorqualidadeem
+relaçãoa interaçãotextoe imagem.A xilografiadetopo,diferedaxilografiaou
+xilografiadefioprincipalmentepelocortefeitoàárvore.Enquantonadefioocorteé
+feitoseguindoasveiasdaárvore(sentidovertical),adetopoocorteétransversal
+aotronco.Masnãoésomenteestaadisparidadeentreambas.Omaisimportanteé
+queestetipodecortepermitiao usodeferramentasutilizadasnagravaçãodo
+metal,comissoumdetalhamentomaioremrelaçãoa outrostiposdeimpressão.
+Logo, obtinha-se livros ilustrados com qualidade superior.
+Coma evoluçãodosprocessosdeimpressãoa conexãotextoeimagem,
+imageme textotambémevoluíramimensamente.Permitindoumacomposiçãoda
+páginaduplamuitomaisdinâmica,atribuindoaolivroilustradomaisliberdadede
+expressão.
+1.3.1. O Livro ilustrado e suas categorias
+Designadogeralmenteaopúblicoinfantil,o livroilustrado,comoo próprio
+nomejá insinua,traza ilustraçãocomoo grandediferencial.Eleunea narrativa
+textuale a narrativavisual,o quetornaa experiênciada leituramuitomais
+interessante,divertidae prazerosaparaa criança.A narrativavisualtemgrande
+peso,principalmente,paraascriançaspequenas,queestãocaminhandoparaa
+alfabetização.A partirdasimagenselasconseguemcaptarpartedahistóriae
+acrescentarseuspróprioselementosnarrativos.Paraqueissoaconteçaépreciso
+existirespaçooupausananarrativatextualevisual.Istopermite,justamente,queo
+leitorpossadarsuacontribuição.Imagineumahistóriaemquetudojáfoiditoenão
+restou nada para a imaginação continuar.
+50
+Arespeitodesuanomenclatura,queédenominadadeformasdistintaspelo
+mundo, diz Van Der Linden (2011):
+(...) nãoháemmuitospaísesumtermoúnicoparadesignarolivroilustrado
+infantil: albumou livre d´images (França); álbumilustrado(Portugal) eem
+língua inglesa picturebook, picture book eaindapicture-book. NoBrasil, o
+termo foi traduzido como “livroilustrado”, emboraaindasejautilizadosem
+muito critério e se confunda com “livro com ilustração”, ou “livro para
+criança”. (Apud FLECK; CUNHA; CALDIN, 2016, p. 199)
+SegundoLinden(2011 ApudWOO,2016)o livroilustradopodeserdividido
+emmuitascategorias,porémaquiserápossívelver7destascategorias.Àprimeira
+vistaparecemsertudoamesmacoisaoslivrosquepossuemimagem.Todavia,se
+bemobservadasassuasparticularidades,seráfácilperceberasdiferenças.Essas
+sãoascategorias:livroilustradooulivroimagem(picturebook);livrocomilustração;
+primeirasleituras;históriasemquadrinhos(HQ);livropop-up;livro-brinquedoelivro
+interativo.
+Livroimagem(picturebook)sãoaquelesqueapresentamsomenteimagens
+emsuanarrativa.Elesnãocontamcoma partetextuale suahistóriaé contada
+através das imagens.
+LivroOndapor Suzy Lee (2017).
+(Fonte:https://www.amazon.com.br/Onda-Suzy-Lee/dp/8574067733/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91
+&crid=2DFXU76OTXGS8&keywords=onda&qid=1663699920&s=books&sprefix=onda%2Cstripbooks%2C219&sr=1-1)
+O livroilustradoapresenta,emsuaconcepçãográfica,igualpesoentre
+imagemetexto.Segundo,NicolajevaeScott(2011apudFLECK;CUNHA;CALDIN,
+2016):“Ocaráterímpardoslivrosilustradosestáemcombinare tencionardois
+níveisdecomunicação:o visuale o verbal”.Emalgunslivrosa ilustraçãoocupa
+
+51
+maisde50%doespaçofísicosemdiminuiraimportânciadotexto.Queporsuavez
+temafunçãodenarrar, contarosfatosdahistóriaenquantoaimagemtemafunção
+de representar, complementar ou até mesmo acrescentar informações à história.
+Miolo do livroSeis homens(2014). (Fonte: autora)
+No livrocomilustraçãoaconteceo oposto,imageme textonãotem
+importânciaequivalente.O textotema funçãoprincipaldenarrare a imagem
+apareceapenasparaornarpartespontuaisdotexto,ocupandomenosde50%do
+espaço físico do livro.
+O livro com ilustração é aquele em que o texto existe de forma
+independente, ele sustenta a narrativa, semanecessidadeintrínsecadas
+imagens para que tenha sentido. As ilustrações podem enriquecer a
+experiênciadaleitura, mas nãosãoimprescindíveis. Namaioriadasvezes
+elas apenas reproduzema palavra tal e qual. (FLECK; CUNHA; CALDIN,
+2016, p. 199)
+
+52
+O amor não é óbviode Elayne Baeta (2019). (Fonte:autora)
+Jáoslivrosprimeirasleituras,segundoWoo(2016),sãoaquelesindicados
+paraosleitoresemformação,selocalizandoentreo livroilustradoe o romance.
+Elespossuemcapítuloscurtos,comalgumaspequenasilustraçõesemolduradasno
+decorrer do texto e ou vinhetas, principalmente nas aberturas de capítulos.
+A fada mamãe e eu: Fada-na-fila-de-esoerade SophieKinsella (2020). (Fonte: autora)
+Ashistóriasemquadrinhos(HQ),comoopróprionomejádiz,sãonarrativas
+textuaise visuais,contadasatravésde imagenssequenciadas,geralmente,e
+quadros dispostos na horizontal.
+
+53
+Turma da Mônica: Trabalho infantil, nem de bricadeira!
+de Mauricio de Sousa produções (2016). (Fonte: autora)
+O livropop-upassumeformastridimensionaisa partirdosmecanismosde
+recortee dobradura,transformandoa páginaduplaemespaçocomesconderijos,
+abas e encaixes.
+Planeta Pop-up: Ovelha é que manda no... LivrodeCaterpillar Books Ltd (2018)
+(Fonte:https://www.amazon.com.br/Planeta-pop-up-ovelha-manda-galinheiro/dp/8537628174/ref=asc_df_8537628174/?tag=googleshopp00-20&li
+nkCode=df0&hvadid=379699825663&hvpos=&hvnetw=g&hvrand=6723977886810684080&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&h
+vlocint=&hvlocphy=9100910&hvtargid=pla-897474608311&psc=1)
+
+54
+Livros-brinquedo,alémdanarrativatextualevisual,trazememsuaspáginas
+recortes,texturase outrostiposde intervençãosomadosou nãoa elementos
+tridimensionaiscomopeças/figurasparaencaixe,pelúcia,compartimentoscomsom
+etc.
+Frozen 2: Poderes da NaturezadeDisney (2019).
+(Fonte:https://www.amazon.com.br/Frozen-2-Poderes-Natureza-Disney/dp/8506087139/ref=asc_df_8506087139/?tag=googleshopp00-20&linkCo
+de=df0&hvadid=405729971246&hvpos=&hvnetw=g&hvrand=15351465061958623990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvloci
+nt=&hvlocphy=9100910&hvtargid=pla-872167181208&psc=1)
+O livrointerativopossuicaracterísticasdiferenciadasdolivroconvencional.
+Elescontématividadese materialquepromovemumainteraçãoextra-leitura,
+levando o leitor a fazer pinturas, recortes, colagens, etc.
+
+55
+Minha Casa de Carrossel: 02de Iseek - Reino Unido(2020).
+(Fonte:https://www.amazon.com.br/Minha-Casa-Carrossel-Anton-Poitier/dp/8539423146)
+Adiagramaçãodelivrosinfantis,assimcomoparaoutrospúblicos,exigetotal
+atençãoemsuaelaboração.Nodesignemgerale principalmentenoeditorial,é
+necessáriocriarsistemasdediagramaçãoparaauxiliare otimizaro trabalho.Os
+livrosinfantisnãosemantêmlongedisto.Elespossuemalgunselementos,noque
+tangeasuadiagramação,quepodemserclassificadosem4tipos,segundoLinden
+(2011, p. 67-70 Apud ZIMMERMANN, 2019; MENEGAZZI; DEBUS, 2018)
+Nadiagramaçãodissociativa,ondeadota-sea alternânciaentrepáginade
+textoedeilustração(característicaherdadadolivrocomilustraçãotradicional).Este
+tipoacabaporpropiciarumaleituramenosdinâmicae maislenta.Geralmenteo
+textoé posicionadoà esquerdae ailustraçãoàdireita,nachamadapáginanobre.
+“Temosaquiumasituaçãodemáximaseparaçãoentretextoeimagens”(LINDEN,
+2011, p. 67 Apud MENEGAZZI; DEBUS, 2018, p. 278)
+Emdiagramaçõesassociativasháumainteraçãomaiorentretextoeimagem,
+mesmotendoseusespaçosdistintosnapágina.Logotem-seumaleituramaisfluida
+e rápida.É comumtambémquea imagemtomeo espaçonobree o textose
+encaixe acima, abaixo, ao lado da ilustração ou até mesmo dentro dela.
+Coma diagramaçãopróximaa dosquadrinhos,nacompartimentação,as
+ilustraçõessãomaiorese submetidasao movimentode continuidadeentreas
+páginas. Pode-se encontrar aqui imagens em quadros, balões de texto.
+
+56
+Aconjunçãoaocontráriodaassociaçãoexibeintegraçãototalentreimagem
+etexto,nãohavendolimitesdeespaços,apontodeimpossibilitaraseparaçãoentre
+eles.Causandoumaconfusãonoleitor, quenãoconseguediscernirondeéimagem,
+onde é texto, começo e fim de tão misturadas.
+O livro ilustradotem inúmeraspossibilidadesem sua construçãoe
+desconstruçãopornãohaver“umadiagramaçãoregularidentificável,comoas
+históriasemquadrinhos”(FLECK;CUNHA;CALDIN,2016,p. 200).E umdos
+maioresobstáculosdodesigneré a tãotemidapáginaembranco.Contudo,a
+liberdade criativa é premissa neste desafio mágico.
+A dobra,máximaseparaçãoentretextoe imagem,é a fronteiraentredois
+paísesfictíciosquevivemintrinsecamenteligados.Nestafronteiraa criatividade
+podeseapropriardestelimitedandooutrosignificadoparaa páginadupla.Sem
+deixar, claro,deatentarparaosdetalhestécnicos(milímetrosdaartepodemse
+perdercoma encadernaçãoescolhida)quepodemjogarporáguaabaixotodaa
+criatividade empenhada.
+A página dupla, proporcionada pelo formato códex, tem sido uma das
+características mais importantes do suporte dos livros infantis ilustrados,
+influenciando na organização espacial da leitura, na sequencialidade da
+narrativa, permitindo arranjos poéticos e estéticos (LINDEN, 2011 apud
+MENEGAZZI; DEBUS, 2018, p. 276).
+Olivroilustrado,comoditoanteriormente,possuigrandeliberdadequantoao
+seudesenvolvimento.Emsuasvariadaspossibilidadesdediagramaçãoépossível
+trabalhardetalhescomoa escolhade tipografiase seustamanhos,cores,
+espessura,1ªa4ªcapasempreprimandopelaharmoniadacomposição.Tudodeve
+sertratadocomcarinhoeatençãoparaentregaraopequenoleitorumprodutoque
+será bem consumido por ele.
+CAPÍTULO 2- O PROJETO GRÁFICO
+O projetográficodolivroA florestasecretatemcomopúblico-alvoleitores
+entre10e12anos.Porémnãoimpedequepessoasdequalqueridadepossamler
+ou ouvir esta história que é de classificação livre.
+57
+Comoreferênciaartística,temoso minimalismo,movimentoquesurgiuna
+décadade1960nosEUAe depoistomouo mundotodo.Comotodososoutros
+movimentosartísticosinfluenciounãosóasartesvisuaiscomotambémamúsicae
+a literatura.Umestiloqueprezapelonãoexagero,formasgeométricassimples,
+contornos,eliminaçãodosexcessose quesetornouumestilodevidanosdias
+atuais.Menosé mais,menosconsumosemconsciência,maspreservaçãodo
+planeta.
+O livroé compostoportextoemprosa,umconto,maisilustraçõesque
+ajudarãotantoa ilustraro que estásendocontado,comoagregaroutras
+informaçõesquenãoserãonarradaspelotexto.Aleituradolivroélinear,aspáginas
+nãosãoindependentesentresi.Oleitorprecisafazerocaminhodoinícioaofimdo
+livro para que possa compreender a história como um todo.
+Comoa históriaquesepassanestecontoaindatemmomentosparaserem
+escritose foifechadoparaquepudessesertrabalhadonesteprojeto,teráapenas
+um exemplar. Comoo livroteráoutraversãocommaisconteúdonumfuturo
+pós-TCC, as escolhas técnicas foram visando o menor custo de impressão.
+2.1. SIMILARES
+Paraa construçãodequalquerprojetoéimportanteaetapaondebuscamos
+porsimilares.Geralmentecadasimilarescolhidotemumacaracterísticaquese
+pretendeincorporarao projetoqueserádesenvolvido.Nesteprojetonãofoi
+diferente.Aseguirveremosumabrevedescriçãodoslivroseemseguidaaanálise
+com as características absorvidas como referência de cada livro.
+2.1.1. Livro Seis homens
+Escritoe ilustradoporDavidMcKeee traduzidoporLeoCunhaem2014,a
+idadedeleituraéde6- 8anos.Formatocapaduraoubrochura,19x25cmcom40
+páginas, publicado pela editora Galera Junior.
+58
+Sinopsedolivro:Eraumavezseishomensqueviajavampelomundoembusca
+de um lugar onde pudessem viver e trabalhar em paz. Até que um dia enfim
+encontraramaterratãoalmejada.Masporquantotempoconseguiriammanteraguerra
+afastada do novo lar? Com astúcia e sensibilidade, o autor aborda questões de
+conflitos, intolerância e paz. (Fonte:https://www.amazon.com.br/Seis-homens-David-McKee/dp
+/8501102423/ref=sr_1_1?keywords=seis+homens&qid=1660517514&s=books&sprefix=seis+h%2Cstr
+ipbooks%2C257&sr=1-1)
+capa do livroSeis homens
+(Fonte:https://www.amazon.com.br/Seis-homens-David-McKee/dp/8501102423/ref=sr_1_2?crid=3BOL45YWOLW2F&keywords
+=seis+homens&qid=1663700022&s=books&sprefix=seis+homens%2Cstripbooks%2C176&sr=1-2
+Miolo do livroSeis homens(Fonte: autora)
+
+59
+Miolo do livroSeis homens(Fonte: autora)
+Aprimeiracapailustraosseishomens,personagensdahistória,apenasem
+traçospretoscaminhandosobreo quepareceserumamontanhaemlaranja.A
+quartacapatrazacontinuaçãodamontanhaemlaranjaeasinopse.Ailustraçãodo
+miolo é toda em traços preto e branco
+A tipografiatantodacapaquantodomioloé semserifa.Comosetratade
+poucotextopelaspáginase é infantil,a tipografiasemserifaé maisindicada.Na
+capa usa-se uma tipografia manuscrita digital e no miolo sem serifa simples.
+2.1.2. Livro O amor não é óbvio
+EscritoeilustradoporElayneBaeta(2019),aidadedeleituranãoéindicada.
+Formato brochura, 22.8 x 15.4cm com 392 páginas, publicado pela editora Galera.
+Sinopsedolivro:O amornãoé óbvio.Eleestápresentequandovocêse
+sentacoma suavizinhaidosaparaassistira umnovocapítulodasuanovela
+favorita.Eleé postoà provaquandovocêescutaashistóriasmirabolantesdasua
+melhoramiga,aindaquenenhumadelaslheinteresse.E,àsvezes,eleaparece
+quandovocêmenosesperae te levaa fazerexperimentoscientíficosmunidade
+binóculos e uma bicicleta amarela.
+
+60
+O amor não é óbviode Elayne Baeta (2019)
+(Fonte:https://www.amazon.com.br/amor-n%C3%3o-%C3%A9-%C3%B3bvio/dp/8501118265/ref=sr_1_1?crid=14O9WZ6V4Q9U4&keywords=o+
+amor+n%C3%A3o+%C3%A9+%C3%B3bvio&qid=1660517609&s=books&sprefix=o+amo%2Cstripbooks%2C264&sr=1-1)
+Miolo do livroO amor não é óbviode Elayne Baeta(Fonte: autora)
+
+61
+Miolo do livroO amor não é óbviode Elayne Baeta(Fonte: autora)
+Aprimeiracapatrazailustraçãodasduaspersonagensprincipaisdahistória,
+ÍrisPêssegoeÉdraNorrempretocomdetalhescoloridos.Aquartacapacontacom
+ailustraçãodeduasbicicletas,quesãoelementosimportantesdentrodahistória.A
+segundae terceiracapatrazema ilustraçãodomapadacidadedeSãoPatrício,
+ondesepassaa história,comtodososlugaresquesãocitadosnanarrativa.Com
+traçosmaisrabiscadosemfigurasgeométricas,representandoosquarteirõesda
+cidade, escritos, e outros objetos como: bicicleta, xícara, roda gigante, etc.
+A tipografiaaparecetantoemdigital(comserifa)comoemmanual,sem
+serifae desenhadapelailustradora/autora,nacapae nomiolo.Atipografiacom
+serifaaparecemajoritariamentenomiolo,justamenteporserumlivrolongo,com
+grande massa de texto. Já a manual em títulos e pequenos textos explicativos.
+2.1.3. Livro Onda
+Escritoe ilustradoporSuzyLee(2017),a idadedeleituranãoé indicada.
+Formatocapadura,30.7x 18.3cmcom48 páginas,publicadopelaeditora
+Companhia das Letrinhas.
+Sinopsedolivro:Umagarotacuriosa,umaondabrincalhonae umdiana
+praia.Apartirdesseselementos,SuzyLeeexploraassutilezasdouniversoinfantil
+de forma única - sem nem precisar fazer uso das palavras para isso.
+
+62
+Capa do livro Onda de Suzy Lee (2017)
+Miolo do livro Onda de Suzy Lee (2017)
+Miolo do livro Onda de Suzy Lee (2017)
+
+63
+Miolo do livro Onda de Suzy Lee (2017)
+(Fonte:https://www.amazon.com.br/Onda-Suzy-Lee/dp/8574067733/ref=sr_1_1?adgrpid=125170938181&gclid=Cj0KCQjwuuKXBhCRARIsAC-g
+M0iUhYOxOH1KpBfwMWKWHrrQPagbH7tL4NqAmhcI9HgRmnzFyRU32LAaAlaAEALw_wcB&hvadid=552151716622&hvdev=c&hvlocphy=9100
+910&hvnetw=g&hvqmt=e&hvrand=9118878253808825563&hvtargid=kwd-307019528622&hydadcr=5763_11235982&keywords=onda+suzy+lee&
+qid=1660511671&sr=8-1)
+OslivrosdeSuzyLeesãosempremuitocarregadosdesensaçõeseneste
+livro,comoem todos,ela trabalhade modobelíssimoa narrativavisual.As
+ilustraçõesde capae miolotrazemtraçosem grafitebemminimalistase
+expressivos,comvolumesparaas personagens,aves,montanhas.Na onda,
+elementoquedá nomeao livro,a aquarelaem azule brancodá vidaaos
+movimentos.Edurantetodasaspáginasapersonagememsomentetraçospretoe
+branco se diverte junto a onda com seu vai e vem.
+2.1.4. Análise de similares
+O livroSeishomenstrazaoprojetoumacaracterísticamuitoimportante,o
+traçoempreto,o contornonailustração.Queseráutilizadoprincipalmentenos
+elementos da história que representam a cidade.
+Apesardenãoserumlivroilustradoesimcomalgumaspoucasilustrações,
+“Oamornãoé óbvio”tornou-seumareferênciaporsuaformadeusarilustrações
+simples como informativo. O que é muito proveitoso ao projeto.
+Assimcomoasreferênciasanteriores,olivro-imagem“Onda”deSuzyLeeé
+bemminimalistaesuasilustraçõesseaproximambastantedopretendidoparaeste
+projeto.Sobretudo,valeressaltarqueotraçoutilizadonestelivronãoéodesejado,
+
+64
+atendo-secomoreferênciaapenasàsseguintescaracterísticas:semdetalhamento,
+formassimples,usoda cor comodestaqueparadetalhesimportantes,traço
+evidente.Usodetraçoparaaspersonagensepartedocenário,aonda,queéoum
+elemento importante da história, não recebe traço, apenas cor.
+2.2. ILUSTRAÇÃO
+Antesde começara ilustraras páginasduplasdolivro,foramfeitasas
+personagense suasrespectivasfichascomasposiçõesbásicas.Paraistoforam
+feitaspesquisasdereferênciaparaaconstruçãodecadaumadelaseemseguida
+obteve-seo moodboard.A característicasbuscadanasreferênciaseramas
+seguintes:
+- Formato do cabelo;
+- Tom de pele;
+- Formato dos olhos;
+- Poses;
+- Estilo do traço;
+- Proporção dos corpos.
+Apósmuitaspesquisas,foi feitaumafiltragemdo querealmenteera
+pertinentee restaramapenasasmaiscompatíveiscomo quesepretendiapara
+cada personagem.
+Paraa construçãodoscenários,principalmenteafloresta,igualmenteforam
+feitaspesquisasporimagensqueapresentassemcaracterísticaspróximasdas
+pretendidas.
+- Traço simples ou nenhum;
+- Árvores e folhagens;
+- Formas mais livres.
+E estas foram as imagens selecionadas após a filtragem:
+65
+Moodboard com imagens do pinterest
+As ilustrações,tantode personagensquantode cenários,alémde
+representarmomentosrelatadospelanarrativa,têm,especialmente,opropósitode
+trazerinformaçõesnãomencionadaspelanarrativaverbal.E foramproduzidasa
+gerarumcontrasteentrea cidadeeaflorestaevidenciadopeladiferençadeestilo
+das ilustrações.
+Todosos elementosque se referemà cidade,comopaisagemou
+personagens,sãocriadosemdetonsdecinza,traçoempreto,corparadestacar
+detalhesimportantes,semvolume.A cidadeé o primeirocenárioa aparecerna
+históriaetambémummaiscurto.Poisaflorestaéondesedesenrolatodaatrama.
+Porissoaflorestarecebecoremtodososseuselementosenãoháusodetraços,
+ascoressãochapadasemtodososmomentosemqueaparece,tantonafloresta
+quanto na cidade e personagens.
+Oestilodetraçotemsuainspiraçãonominimalismo,noChibie noDoodle
+Art,porémnãoselimitaa apenaseles,asilustraçõesseguemumcaminholivree
+próprio.Algumascaracterísticasforamcolocadascomopropósitoparatodaa
+ilustraçãode modogeral.Traçoaparente,corchapadae pastel,exclusãode
+detalhes. Depois, cada tipo de cenário pediu suas particularidades.
+Nocomeçodoprojetohavia-sepensadoemlápisdecorsobrepapelcomo
+técnicaparaasilustrações.Porquestãodeotimizaçãodotempooptou-sepela
+
+66
+ilustraçãodigital.Comelaseriamuitomaispráticoodesdobramentoereplicaçãode
+personagens,porexemplo.Nodigitalo processodetentativae erroé bemmais
+proveitosoquandose temumtempolimitado.E apesardasilustraçõesserem
+digitais, os primeiros rascunhos foram feitos em nanquim sobre papel.
+2.2.1. Rascunhos personagens
+Flora
+
+67
+Guardião da floresta
+Samuel
+
+68
+Zoe
+2.2.2. Personagens finalizados
+Flora
+
+69
+Guardião da flores
+Samuel
+
+70
+Zoe
+Cenários
+
+71
+2.3. CAMINHO DE FERRO
+Tambémconhecidocomostoryboard,ocaminhodeferroéumadasprimeiras
+coisasaseremfeitasnoprojeto.Apartirdeletem-seumanoçãodoqueesperarde
+cadapáginadolivro,asrelaçõesentretextoeimagem,espaços,dimensão.Além
+distoele é um guiaaté o finaldo projeto,ondepode-sevoltarsempreque
+necessárioparamantero projetonalinhapensadalá atrás.Óbvioqueelenão
+restringeo projetoa sersomenteo quefoicolocadonele,duranteo processode
+construçãosempresãorealizadasmodificações.Eleservecomoumabaseenão
+como uma limitação. O caminho de ferro encontra-se no anexo 3.2.2.
+2.4. PÁGINAS DUPLAS FINALIZADAS
+Aspáginasfinalizadasdolivropodemservistasnoanexo3.2.3,nofimdeste
+documento.
+2.5. TIPOGRAFIA
+Paracomporomiolofoiescolhidaumafonteopen,aAllejo,criadaporThiago
+Matsunagaem2009.Estafontepossuiserifasquadradinhaso quedeixaseu
+desenhodiferentedasfonteshabituais.Érecomendadoousodasserifasparaque
+o leitortenhaconfortoao passearseuolharpelotexto.O quese faz bem
+importante, pois se trata de um livro com bastante texto.
+Otextojustificadoàesquerdaehifenizadotemocorpoemtamanho10pt.A
+entrelinhaéde16ptcomumaproporçãode160%dotamanhodotipo,40%amais
+queoautomático.Dessemodotemosumpoucomaisdeconfortonaexperiênciada
+leitura do livro.
+Aparentementeumafontecomcaracterísticashumanista/oldstyle,seueixo
+é oblíquocomtraçosmodulados,poucavariaçãona larguradashastes,mais
+arredondadaelarga,umaleveinclinação(quaseimperceptível)dahastehorizontal
+do“e”minúsculo.Suacriaçãoparecetertidoinspiraçãonasfonteshumanistas,pois
+a maioria de suas características apontam nesta direção.
+72
+Características da fonte Allejo
+Comparação do tamanho de corpo entre as fontes Times e Allejo
+Fonte Allejo
+ParaascomposiçõestipográficasforamutilizadasasfontesBaronesskuffner,
+Marola,Serena,Soupleaf,VerdanahandeTiza.Todassãofontesopen,permitindo
+seu uso pessoal e comercial. Já para o fólio os números foram feitos à mão.
+
+73
+2.6. PALETA DE CORES
+Apaletadecoresdecadapersonageme cenáriofoidefinidabemantesde
+começarasilustraçõesdaspáginas.Assimagilizariaoprocessoeevitariaescolhas
+aleatórias no meio do caminho.
+Nesteprojeto,a cor, muitoalémdetrazerbelezae vidaàspáginas,temo
+objetivodedardestaqueaosdetalhesmaisimportantesnanarrativa.Principalmente
+aosdetalhesquenãosãomencionadosporescrito.Podemostomarcomoexemplo
+acordepeledaspersonagens,quenãoécitadanotexto,masnafichadecriação
+depersonagemestáespecificado.Ouseja,precisaserexplicitadanailustração,
+através da cor.
+Outroexemploquebemmostraaquestãodenãoestarescritonotextomas
+estarnafichadapersonageméacordoscabelosdeFlora,quetemumsignificado
+importante.Acorlaranjasedevea umamutaçãogenéticaresultantedoprocesso
+somatóriodosmateriaisgenéticosdeseuspaisSamueledeZoe.Floraécomoo
+sol queiluminae trazvida.Nãopodedeixarde sercitadocomoexemploo
+Guardião,quealémdeteropeloazul,temumaauracoloridaquesãoosespíritos
+dos outros guardiões que o acompanham.
+Noiníciodahistória,aindanacidade,avidaparecemonótona,semvibração,
+porissoapaletaemtonsdecinza.Quandoahistóriapassaparaaflorestaascores
+começama mudar, sãomaiscoloridas.Ostonsdecinzadãolugaraostonsde
+verdedafloresta.Aspaletassãotodasemtonspastéis,comohaveriabastante
+
+74
+sobreposiçãode cor, estaescolhapareceua maisacertadaparanãohaver
+conflitos.
+Paleta de cores das personagens: Samuel, Flora e Zoe.
+
+75
+Paleta de cores da personagem Guardião.
+
+76
+Paleta de cores cenários - cidade e floresta
+2.7. MANCHA GRÁFICA E GRID
+Ousodagradeproporcionaconsistênciaaolivro,tornandocoerentetodaa
+sua forma. Os designers que usam grades partem da premissa que tal
+coerência visual permite que o leitor concentre-se no conteúdo, em
+detrimentodaforma. Cadaumdos elementosdapágina-textoouimagem-
+temumarelaçãovisual comtodososoutroselementos:agradeforneceum
+mecanismo pelo qual essas relações podemser formalizadas. (HASLAM,
+2007, p. 42)
+
+77
+ManchaGráfica:áreaondeo textoé acomodadonapágina.Elapodeser
+limitada por margens de vários tamanhos ou pode ser sangrada.
+Grid:formadopor linhasverticaise horizontais(colunas,quadrados,
+retângulos…)de acordocoma margemou a página.Servemde auxíliona
+organização dos elementos textuais e imagens na página.
+Calha:áreaderespiroentreascolunas,quadrados,retângulos,módulos
+tanto na horizontal quanto na vertical.
+Coluna:umtipodegridnaverticalquepodeserusadoparaorganizaros
+elementos de texto e imagem.
+Linhadebase:sãolinhas“imaginárias”emqueacomodamoso textopara
+que tenham o mesmo alinhamento por todo o livro.
+Margem:responsáveispordefinirolimiteentreabordadapáginaeotextoe
+a imagem.
+Marcadores/rodapé:áreaforado grid,destinadaaoselementosquenão
+fazem parte do conteúdo, como: numeração de página, título, editorial e outros.
+Numeraçãodepágina:localiza-senomarcadorecomoopróprionomejádiz,
+serve para identificação da página atual.
+Ogridé formadoporquatrocolunasde22mmx 165mmecalhasde4mm.
+Pensadoparaacomodarumaquantidademaiordetextoe aomesmotempotero
+mínimo de flexibilidade de acomodação entre texto e imagem.
+As margenstêm22,017mmsuperior, 20mminterna,24,294mminferiore
+25mmexterna.Estasmedidas,um tantoquebradas,se dão por estarem
+
+78
+diretamenterelacionadasàlinhadebase.Demodoaserem,também,confortáveis
+parasuaimpressãoposteriormente.Ovalordasmargenssuperioreinferiorparece
+estranhoporserquebrado,massedevea suarelaçãocomalinhadebase.Que
+são30 linhascom16 pt de entrelinhaalinhadasà margem,comopodeser
+visualizado na imagem abaixo.
+Página mestre do Indesign mostrando as linhas de base dentro da margem
+A numeraçãodepáginaé integradaà ilustração,aparecendocomcore
+tipografiadesenhadadiferentespelaspáginas,semprecoerentecomailustraçãoda
+página.Oobjetivoé deixara paginaçãodivertidae nãosóestarláporobrigação,
+engessada.
+2.8. FORMATO, SUPORTE E ENCADERNAÇÃO
+Oformatoédeterminadopelarelaçãoentreaalturaealarguradapágina
+(no jargão das gráficas editoriais no Brasil a referência aoformatoéfeita
+
+79
+pelalarguraedepois pelaaltura).Naindústriaeditorial,otermo"formato"é
+algumas vezes usadoerroneamente, fazendoreferênciaaumdeterminado
+tamanho. Entretanto, livrosdediferentesdimensõespodemcompartilharde
+ummesmoformato. Os livros sãogeralmenteprojetadosemtrêsformatos:
+retrato, formato cuja altura da página é maior que a largura; paisagem,
+formato cuja altura da página é menor que a largura; e quadrado.
+(HASLAM, 2007, p. 30)
+O formatovertical14x 21cm(fechado)é bemutilizado,também,parao
+públicoinfantojuvenil.E estaescolhasedeve,principalmente,aofatodolivroter
+umaquantidadedetextomaiorqueo encontradoemlivrosinfantis,sendobom
+também para o manuseio na hora da leitura.
+Imagem ? - Formato do livro aberto com suas medidas em centímetros.
+O mioloé compostoporpapeloffset120g/m2,umdosmaisutilizadospela
+indústriagráficadevidoaoseubaixocustoe variedadedegramatura.Outrofator
+importanteé suamelhorabsorçãodatintapornãorecebernenhumrevestimento,
+sendoaindaresistenteà umidade.Suaaparênciaé brancae foscadeambosos
+lados, o que facilita sua impressão frente e verso.
+Já paraa capatemoso papelsupremo250g/m2,por sua textura
+imensamentelisadeumladoe ligeiramenteporosadooutro. Suaaltaresistência
+emrazãodavariaçãodegramaturaentre250e350g/m2éidealparaimpressãode
+alta qualidade.
+
+80
+Noiníciodasconsideraçõesdoprojetográficoaencadernaçãocogitadafoia
+emcapadura,poratribuiraoprojetoumaestéticasuperior, proporcionarmaior
+opçõesde acabamentoe preservaçãodo livro.A brochura/lombadaquadrada,
+entretanto,possibilitariaoutrosbenefíciosmaiscompatíveiscomo projeto,como:
+baixocustoe melhormanuseio.Logo,a melhorescolhaparao projetofoia
+brochuracomcolahotmelt.Processoondeaspáginasindependentes,semdobra
+sãounidasporcolaquente,hotmelt.Comoopúblico-alvoéapartirde10anosnão
+setemumamaiorpreocupaçãoquantoaomaumanuseiocomosetemcomum
+público infantil.
+CAPÍTULO 3 - CONCLUSÃO
+Paraa construçãodocontoquecompõeo livro,entendera estruturada
+narrativaemtrêsatosfoiessencial.Apartirdelafoipossíveldividirocontoem:1)
+apresentarapersonagemprincipal,Flora;2)exporosconflitosgeralesecundários,
+Floraseperdernafloresta;3)eresoluçãodosconflitos,encontrodeFloracomseus
+paisa partirdaajudadoGuardião.Evalelembrarqueesteéumcontoaindaem
+construção. Fechado para este projeto e posteriormente continua a ser escrito.
+AlémdaconstruçãodolivroilustradoinfantojuvenilAflorestasecreta, este
+trabalhosededicoua debatere questionar, mesmoquedemodobreve,sobreas
+formasderepresentaçãodaspersonagensnegrase LGBTs naliteratura.Sobre
+comoo fazerliteráriodohomembrancocishéteroaindapredominaeinterferede
+modonegativonasprateleirasdaslivrarias,naspolíticaspúblicasdedestribuiçãode
+livros e principalmente na formação do indíviduo.
+Empenhou-setambémemmostrarcomoo serhumanotemdestruídode
+formaaceleradae irresponsávela vegetaçãodo planeta.E comoissoé
+extremamenteproblemáticoparao equilíbriodosistemabiológicodaTerrae de
+seus habitantes.
+O caminhodo livroe a imagemé longoe inicia-sebemlá atrás,há
+aproximadamente40milanoscomo surgimentodaescrita.Hojeeleé umobjeto
+essencialparao desenvolvimentodascriançase apreciaçãodejovense adultos.
+Pois,pormaisqueelesejamajoritariamenteparacrianças,nãoexcluiasedições
+81
+paraosadultos.Debruçou-setambémemcompreenderasdiferentescategoriase
+diagramação do livro ilustrado, apontadas por Linden (2011).
+Omaiordesafionesteprojetofoiconciliarastrêspessoas:autora,ilustradora
+e designer. A autoraqueriacontinuarescrevendoa história,a ilustradorae a
+designerprecisavamdahistóriafechadaparacomeçara produzirasimagensea
+diagramação.Poroutrolado,tero controletotaldosprocessospermitiualterar
+pequenas coisas no texto que na hora de diagramar ajudariam muito.
+A criaçãodaspersonagensfoioutrodesafio,poisa ilustraçãonãoé um
+caminhoprofissionalpretendido,e simum meioparasanarnecessidadesno
+processodedesign.Entretanto,esteprojetofoiumsonhorealizado,odedominar
+todasasáreasquecompetemacriaçãodeumlivroeapartirdeleimergiremtemas
+relevantes a todos como sociedade.
+Conclui-seque o designé um instrumentofacilitadorde quebrade
+paradigmasquandoseu“fazedor”põeà partesuaessênciacapitalista.Deigual
+modoou até mesmoacimadisto,estáa literatura.Quelibertoua muitose
+aprisionou a outros com seu “fazedor” limitado.
+82
+3.1.REFERÊNCIAS
+ALVES,JoséEustáquioDiniz.Atransiçãodemográficaeajaneladeoportunidade.
+SãoPaulo:InstitutoFernandBraudeldeEconomiaMundial,p.3,2008.Disponível
+em:https://www.ufjf.br/ladem/files/2009/05/transicao_demografica.pdf.Acessoem:
+27 ago. 2022.
+ARAÚJO,Felipe.Históriado Livro.Curiosidades.Infoescola.Disponívelem:
+https://www.infoescola.com/curiosidades/historia-do-livro/. Acesso em: 27 ago. 2022.
+BAUM,GabrielMatheusBernard.O frutoproibidodasbibliotecas:literaturade
+temáticaLGBTQIA+nasunidadesde informaçãopúblicase escolares.2021.
+Disponívelem:https://www.lume.ufrgs.br/handle/10183/234816.Acessoem:27ago.
+2022.
+BENTO, MariaAparecidaSilva.A identidaderacialemcriançaspequenas.In:
+BENTO, MariaAparecidaSilva(Org.).Educaçãoinfantil,igualdaderaciale
+diversidade:aspectospolíticos,jurídicos,conceituais.SãoPaulo:CentrodeEstudos
+dasRelaçõesdeTrabalhoe Desigualdades– CEERT, 2012,p.98-117.Disponível
+em: http://www.bibliotecadigital.abong.org.br/bitstream/handle/11465/630/1684.pdf?
+sequ. Acesso em: 27 ago. 2022.
+COSTA,Renata.Queminventouolivro?NovaEscola.17ago.2009.Disponívelem:
+https://novaescola.org.br/conteudo/2547/quem-inventou-o-livro.Acessoem:27ago.
+2022.
+DALCASTAGNÈ,R. A personagemdo romancebrasileirocontemporâneo:
+1990-2004.EstudosdeLiteraturaBrasileiraContemporânea,[S.l.],n.26,p.13–71,
+2011. Disponívelem:https://periodicos.unb.br/index.php/estudos/article/view/9077.
+Acesso em: 27 ago. 2022.
+DALCASTAGNÈ,R. Ausênciase estereótiposnoromancebrasileirodasúltimas
+décadas:Alteraçõese continuidades.LetrasdeHoje,v. 56,n.1,p.e40429,2021.
+83
+Disponívelem:https://revistaseletronicas.pucrs.br/index.php/fale/article/view/40429.
+Acesso em: 27 ago. 2022.
+FERNANDES,Márcia.Históriada escrita.Toda matéria.Disponívelem:
+https://www.todamateria.com.br/historia-da-escrita/. Acesso em: 27 ago. 2022.
+FLECK,F. O.;CUNHA,M.F. V.; CALDIN,C.F. Livroilustrado:texto,imageme
+mediação.PerspectivasemCiênciadaInformação,v. 21,n.1,p.194-206,2016.
+Disponívelem:http://hdl.handle.net/20.500.11959/brapci/33369. Acessoem:01ago.
+2022.
+LITOGRAFIA.In:ENCICLOPÉDIAItaúCulturaldeArtee CulturaBrasileira.São
+Paulo:ItaúCultural,2022.Verbeteda Enciclopédia.ISBN:978-85-7979-060-7.
+Disponívelem:http://enciclopedia.itaucultural.org.br/termo5086/litografia. Acesso
+em: 01 de agosto de 2022.
+MENEGAZZI,D.,& DEBUS,E.S.(2018).O Designda LiteraturaInfantil:uma
+investigaçãodo livro ilustradocontemporâneo.Calidoscópio.Disponívelem:
+https://redib.org/Record/oai_articulo2342240-o-design-da-literatura-infantil-uma-inve
+stiga%C3%A7%C3%A3o-do-livro-ilustrado-contempor%C3%A2neo.Acessoem:27
+ago. 2022.
+MOISÉS, Massaud. A criação literária: prosa 1. 21ª ed. São Paulo: Cultrix, 2006.
+MOREIRA,Ardilhes.Governofederalestádesde2014semcomprarlivrosde
+literaturapara escolaspúblicas.G1. 29 set. 2017. Disponívelem:
+https://g1.globo.com/educacao/noticia/governo-federal-seguira-sem-entregar-novos-l
+ivros-de-literatura-para-bibliotecas-escolares-em-2018.ghtml.Acessoem:27 ago.
+2022.
+SANTIAGO,Emerson.Escrita.Comunicação.Infoescola.Disponívelem:
+https://www.infoescola.com/comunicacao/escrita/. Acesso em: 27 ago. 2022.
+84
+SANTOS,J.R.deO.;BOTOSO,A.Quaseausentes:autoriaerepresentaçõesde
+personagensnegrosnoPNBE.Aletria:RevistadeEstudosdeLiteratura,[S.l.],v.
+31,n.3,p.121–143,2021.DOI:10.35699/2317-2096.2021.29447.Disponívelem:
+https://periodicos.ufmg.br/index.php/aletria/article/view/29447.Acessoem:27ago.
+2022.
+SOUSA, Rafaela. "Desmatamento";Brasil Escola. Disponívelem:
+https://brasilescola.uol.com.br/geografia/o-desmatamento.htm.Acessoem 16 de
+agosto de 2022.
+SOUZA,MarianaSilva;ARAÚJO,DéboraCristinade. Criançasnegrasnas
+ilustraçõesdeJosiasMarinho.RevistadaABPN.v. 12,n. 33,p.197-220,2020.
+Disponívelem:https://1library.org/document/qm8m927z-criancas-negras-nas-ilustra
+coes-de-josias-marinho.html. Acesso em: 27 ago. 2022.
+Umabrevehistóriadaescrita.EspaçodoConhecimentoUFMG.02abril,2020.
+Disponível em: https://www.ufmg.br/espacodoconhecimento/historia-escrita/.
+Acesso em: 27 ago. 2022.
+WOO,Stela Yu Jin. Noite:livro ilustradoinfantil.2016.Disponívelem:
+https://bdm.unb.br/handle/10483/15668. Acesso em: 27 ago. 2022.
+XILOGRAVURA.In:ENCICLOPÉDIAItaúCulturaldeArteeCulturaBrasileira.São
+Paulo:ItaúCultural,2022.Verbeteda Enciclopédia.ISBN:978-85-7979-060-7
+Disponívelem:http://enciclopedia.itaucultural.org.br/termo14335/xilogravura.Acesso
+em: 01 de agosto de 2022.
+ZIMMERMANN,MartaElisa.Designeditorialde livroilustradoinfantil.2019.
+Disponívelem: https://lume.ufrgs.br/handle/10183/219362?locale-attribute=pt_BR.
+Acesso em: 27 ago. 2022.
+85
+3.2. ANEXOS
+3.2.1. ContoA floresta secreta
+Era umdomingo comumna casa de Flora. Após o almoço todos ficavamconversandona
+sala. Geralmente seus pais contavam histórias incríveis e ela adorava. Principalmente quando
+falavam de como era o planeta há tempos atrás.
+— A vida nunca mais foi amesma, começouSamuel, depois quegrandes florestas foram
+extintas pelo mundo inteiro. Nos perguntamos todos os dias como isso aconteceu. E tentamos
+imaginar como era a vida há algumas centenas de anos atrás. Quando era possível conhecer as
+maiores florestas, como a do Congo e a Floresta Amazônica. Lugares belíssimos, com grande
+diversidade, abrigando inúmeras espécies de animais, plantas e árvores.
+—Amaioriadas pessoas nãoseinteressampelas históriasdecomoeraonossoplaneta.E
+como nós, seres humanos, destruímos tudo. Hoje vivemos no que sobrou da Terra. Tentamos
+reconstruir alguns biomas apartir dealgumas amostras preservadas porpessoasquesabiamqueo
+futuro era sombrio.
+—Existeumlugar ondeaindaépossível respirar oar purovindodasárvores,ouvirocanto
+dos pássaros e beber água direto de umrio. Todos achamqueistosãoapenas histórias contadas
+pelos antigos. Alémdeficar longedas cidades, ocaminhoédesconhecido.Porissoquaseninguém
+chegou até lá para comprovar. Quando eu era pequeno, meu pai me levou até lá. Falou da
+importância das florestas, dos animais e de protegê-los, pois se todos soubessem ele iria
+desaparecer.
+—Depois daquele dia eu somente conseguia pensar emcomomanter aquelelugar vivoe
+longe de todos. Mas logoemseguidameupai sefoi enuncamais voltei lá, pois sóeleconheciao
+caminho.
+Quandoterminoudefalar, Samuel, virouparaseuladoesquerdo,abaixou,pegouumacaixa
+comalgumas coisas e entregou à Flora, comopresenteantecipadopor seuoitavoaniversárioque
+estava bem próximo.
+Amenina, muitoanimadacomopresente, agradeceuetratoudecorrer atéseuquartopara
+investigar cada item da caixa. Havia livros, fotos, papéis rabiscados e umpequeno pendrive que
+continhamalguns arquivos e vídeos feitos por seu avô. Enquanto issoSamuel continuavanasala
+conversandocomZoesobreas histórias maravilhosas queouviadeseupai nainfância. Dequanto
+tempo não mexia naquelas coisas, que nemlembrava mais queelas haviamoinspiradoafazer o
+que ele fazia hoje.
+Samuel eZoeeramgrandes defensores doPlanetaetrabalhavamnoLEPFF—Laboratório
+de Experimento e Preservação da Fauna e Flora do Regional VIII — onde moravam. Lá eles
+cultivavamas poucas espécies defloraquesobreviveramaosgrandesdesmatamentos.Realizavam
+muitos estudos e experimentos para um dia possivelmente reconstruir parte dos biomas.
+86
+Floraéumameninaadorável, vivecomseus pais nabarulhenta‘florestadecimento’.Passa
+a maior parte do seu tempo imaginando comoseriaumaflorestadeverdade, commuitas árvores,
+animais e terra.
+Depois depassar odiatodoolhandorepetidamenteas fotos eos vídeossobreaquelelugar
+mágico, Flora teve um estalo e disse em voz alta:
+— Achei!! É aqui!
+Samuel eZoe, queestavamnoquartoaoladoouvirameforamveroqueFloratinhaachado
+naquela hora que não estava dormindo. Quando abriram a porta era uma zona só.
+—Pai, achei!! Agora podemos encontrar aflorestadovovô. Eesticouamãoemdireçãoa
+Samuel eZoeeentregouumpapel comvários rabiscos, quesenãoolhadocomatenção,ninguém
+diria ser um pequeno mapa para algum lugar.
+Em meio a um largo sorriso Flora disse:
+— Temos que ir até lá. É isto que quero de aniversário.
+Zoe e Samuel seentreolharamsemdizer umapalavra. Após umbrevesilêncioZoeajudou
+Floraair paracama,jáerabemtardeenodiaseguintetodosiriamacordarbemcedo.Ameninanão
+conseguia pensar em outra coisa se não em conhecer aquele lugar.
+Samuel ficoumuitoatordoadocomopapel. Comonãotinhaconseguidoperceber portodos
+estes anos que aquilo era ummapa? Zoe tentava acalmá-lo dizendo que era compreensível que
+precisasse se afastar de tudo que lembrasse o pai, pois estavapassandopor algodifícil. Naquela
+noite ninguém conseguiu dormir bem.
+Alguns dias efinalmenteFloracompletavaseuoitavoaniversário. Aodescer paraocaféda
+manhã, seus pais a esperavam com alguns enfeites pendurados, uma mesa cheia de coisas
+gostosas e uma caixa pequena envolta em um lindo papel de presente. A menina foi abraçada
+calorosamente por seus pais em meio a felicitações por seu aniversário. Em seguida, Samuel
+entregouasingelacaixa.Curiosaporsaberoquehaviadentro,rasgoucomrapidezopapel eabriua
+caixa. Por alguns instantes desilêncio, ameninaolhavacomumaexpressãodemuitoespantopara
+o conteúdo da caixa. E num supetão se jogou nos braços de seus pais e só sabia agradecer.
+Flora desde pequena sempre que podia acompanhava seus pais no trabalho. Ajudava a
+cuidar das plantas, perguntavasobretudoeassimcresceucomomesmoamor queSamuel eZoe
+pelanatureza. Desdequerecebeuospertencesdeseuavônãopensavaemnadaalémdeconhecer
+aquela floresta escondida. Quando viu aquela bússola dentro da pequena caixa que recebeu de
+presente, seu coração palpitou tão forte que parecia que ia sair pela boca.
+Ameninanãoviaahoradepegar aestradarumoaoseusonho: deserpartedanatureza.
+Comoelaviunas coisas velhas deseuavôeouvianashistóriasqueseuspaisacontavamtodasas
+noites antes de dormir.
+E finalmente, o tão esperado dia chegou. Ocarro nemtinhamais espaçoparatantacoisa
+que eles estavam levando. É como sempre dizem seus pais: “melhor previnir”.
+Quando já estavam bem distantes da cidade e se aproximando da pequena e secreta
+floresta, Florapodiasentir oarpuroefresconoseurosto,queadentravaajaneladocarro.Eocinza
+87
+barulhentosetornousilenciosoeverde. Algumas horas deviagemefinalmenteosonhodamenina
+torna-se realidade. Bem ali à sua frente estava uma floresta de verdade.
+Estacionaramo carroemumagrandeáreadegramadonaentradadafloresta. Eraperfeito
+para armar a barraca, fazer uma fogueira, colocar o telescópio e observar as estrelas ànoite. Na
+cidade quase não era possível vê-las por conta de ser totalmente iluminada.
+— Flora!! Olha que lindo aquele pássaro!
+— Olha aquele outro, papai Zoe! Eles cantam bem alto.
+Tinhabastantecoisaparatirardocarro,Samuel eZoepegavamaspesadaseFloraasleves.
+Depois de carregar tudo para onde seria o acampamento, eles olharamparaaqueleamontoadoe
+sabiam que tinham levado coisas demais.
+—Vamos armar abarraca, amor?EFlora, vocêpodepegar estes gravetos espalhados por
+aqui para fazermos a fogueira. Pediu Samuel.
+Enquanto seus pais, bem enrolados, armavam a barraca, Flora ia catando os galhos.
+Encantada comcada detalhe, se via emumaexperiênciaúnicaesentiaquedeveriaregistrar tudo
+commuito cuidado. Foi andando e tudo a distraia pelo caminho. Avistavaumaflor eprecisavase
+inclinarparaadmirarmaisdepertosuascores.Tateavacadaárvoreparasentiratexturadostroncos.
+Dava pra sentir coma ponta dos dedos aasperezaeos pequenos buraquinhos queseestendiam
+por todootronco.ÀsvezesapareciamalgumasformigasquesubiamnasmãosdeFlora.Eladeixava
+que passeassem por sua mão enquanto as observava.
+Quando finalmente terminaramde armar a bendita da barraca, sederamcontadafaltade
+Flora. Começaram a andar ali por perto e chamavam a menina.
+— Onde se meteu essa garota, Samuel?
+— Deve estar nos pregando uma bela peça. Isto é a cara de Flora.
+— Nós vamos te achar garotinha e vamos te encher de cócegas, você vai ver.
+Alguns minutos procurando a menina e começaramaficar preocupados comabrincadeira
+que não acabava. — Flora, já chega. É melhor você aparecer. Estamos preocupados. Gritou
+novamenteZoe. Enadaseouviadevolta.ZoeeSamuel seolharamecomodecostumejásabiamo
+que o outro estava pensando.
+QuandoFlorasedeucontaestavamuitolongedoacampamentoelogotratoudevoltar.Mas
+quanto mais caminhava, mais parecia estar se afastando. Junto coma tarde veio omedoeFlora
+começou a gritar por seus pais, mas nadaouviadevolta. Após inúmeras tentativas deencontrar o
+caminho, sem sucesso e exausta, decidiu sentar-se junto às enormes raízes de uma árvore, que
+pareciaoprédioondemoravadetãoalta.Poruminstantefechouosolhoseumbarulhoadespertou
+recordandoqueaindaestavaperdidaeaquiloquepareciaser seusonhoestavavirandoumgrande
+pesadelo.
+Dooutroladodaflorestaestavamseus pais, aflitosecansadosdetantogritarecorreràsua
+procura. Era uma luta contra o tempo, pois eram somente os três naquela imensidão verde e
+desconhecida. Logo a noite viria e tudo seria bem pior.
+— Flora!! Gritava, Zoe desesperado.
+88
+Samuel sentou emumpedaço de tronco caído, apoiou os cotovelos nos joelhos, levouas
+mãos à cabeça e falava descontroladamente: —É tudo culpa minha. Eu não devia ter feito essa
+loucura. Como vamos encontrar nossa pequena neste lugar?
+Zoe, como sempre, o acalmava.
+— Nós vamos encontrá-la. Daremos risadas disto um dia. Nós vamos encontrá-la.
+Samuel só conseguia pensar emcomo aquilo era culpa dele e chorava semparar. Zoe o
+chamou para continuar procurando, pois eles precisavamencontrar ameninaantes doanoitecer e
+assim fizeram.
+Floralevantouedecidiucontinuar achamar porseuspais.Assimelespoderiamencontrá-la,
+afinal, umacertezaelatinha: seus pais aestavamprocurandoportodaafloresta.Elanãofaziaideia
+de onde estava, nem pra onde ir, mas sabia que não podia ficar ali parada sem fazer nada.
+Opavor denuncamais rever seus pais, nãoaimpediudeadmirarasbelezasdaquelelugar.
+Sentia-se uma extensão da floresta, como um rebento retornando ao lar, por mais estranho que
+aquilo se mostrasse.
+Cansadaecomfome, elaabrigou-sedebaixodeumaoutraárvore.Umsomdepassosafez
+saltar ecomos olhos arregalados,àesperadeseuspais,viuumafiguraqueafeztremerdemedoe
+admiração.
+—Oquefaz aqui pequena?Comumtimbredevozroucoegrave,perguntouoGuardiãoda
+floresta, à menina que mal se aguentava nas pernas de tanto que tremia.
+Não acreditando no que estava acontecendo, a menina levou a mão direita ao braço
+esquerdoedeuumpomposobeliscão.Epensou:“Sonhandonãoestou.Mascomoissoépossível?”
+Elanuncahaviavistoumser dafloresta, apenas nos filmes elivros. Mas sabiaqueaqueleerabem
+diferentedetodos quejáhaviaouvidofalar. Delesaiampequenas faíscasdediferentescoresqueo
+iluminavam.
+E novamente o Guardião perguntou e antes que completasse a frase, Flora o interrompeu.
+— Estou perdida. Meus pais devem estar me procurando.
+O Guardião a olhava intrigado e com bastante receio. Parecia tentar ler suas intenções
+naquela floresta. Era muito difícil ter humanos por ali e as vezes que apareceram tinham más
+intenções.
+Com a tarde já findando e a escuridão se derramando lentamente sobre a floresta, havia
+apenas obrilhodas estrelas edaluacheia. Acadauivoqueseouviaeraumbaterdedentes.Flora
+assustada buscou como olhar o Guardião, a única possível companhia, mas não o encontrou. E
+novamente se sentiu sozinha.
+OGuardiãonadasatisfeitocomaquelapresençainconvenienteresolveuseafastar edeixar
+que a floresta se encarregasse daquelaintrusa, comoeradecostume. Comoavançar danoiteos
+uivos eramcadavez mais altos. Amenina, horrorizadacomaquelesomtotalmentedesconhecidoe
+apavorante, não conseguia se mover parabuscar refúgio. Emesmoquetentassenãoconseguiria,
+pois, além de não conhecer a floresta, também não enxergava nada.
+Entãoficouali, abraçadaaos seus joelhos chorandoemsilêncioesuplicandoparaquenão
+fosse vista pelo o que quer que fosse o dono daquele som horripilante.
+89
+Samuel e Zoe ainda caminhando pela floresta em busca de Flora, ao ouvir o uivo
+estremeceram. Aideiadequeameninapoderiaestarsendoatacadaporumanimal ferozosdeixava
+ainda mais apavorados. E a noite se apresentou comsons nada agradáveis para quemjáestava
+assustado.
+— O que faremos agora Zoe? Não temos mais pilhas.
+—Vamos ter queesperar amanhecer econtinuar asbuscas.Nãotemoutrojeito.DisseZoe,
+enquanto aproveitava os poucos feixes de luz da lua para procurar umlugar onde pudessemse
+acomodar.
+Osol surgiuporentreasárvoreseumraiotocouorostodeFlora.Novamentesurgiunomeio
+dos arbustos, o Guardião e a menina pulou de susto. E mais uma vez questionouagarotasobre
+suas intenções naquele lugar. Flora já não tinha forças para responder.
+OGuardião insatisfeito coma falta derespostadagarotamais umavez sumiunomeiode
+alguns arbustos. Flora, destavez, estavabematentaaos passos deleeresolveusegui-lo.Levantou
+e caminhou até os arbustos. Usando as duas mãos afastou os galhos para passar. Depois deter
+atravessado, avistoualgoquepareciaimpossível. Umimensolagocercadodeárvores. Aluzdosol
+tocavaaáguaetudobrilhavatantoquemal erapossível abrirosolhos.Depoisdeolhardeumcanto
+ao outro viu algumas frutas e sem pensar, correu para pegá-las.
+Já saciada, aproximou-se do lago para beber um pouco de água. Tão transparente, tão
+limpa, que dava para ver até os menores peixes nadando. E lembrou das histórias de
+“princesas-sereias” comcaudas brilhantes quedeslizavampelaáguaelogotratoudemergulhar.Era
+algo impossível e que ninguém acreditaria se contasse. Flora sorria até com os olhos de tanta
+felicidade. Pulavanolago, apanhavaáguacomas mãos ejogavaparacima,nuncasedivertiutanto
+em sua vida.
+OGuardião, escondido, observava atentamente a menina. Depois de tantas perdas ele já
+não podia confiar nem mesmo em uma doce garotinha.
+Aquela pequena floresta já havia conhecido muitos guardiões, que desde sua existência
+eramseus grandes protetores. Algumas porções deanos atrás, quandoaquelebiomaeragrandee
+diverso, humanos odescobriram. Eles carregavamemsuas mãos nãosómachados erifles, mas o
+desejodeconquistar tudooqueseus olhos tocassem. Os guardiões eramvistos comotroféus, sua
+ferocidade incitava emcada umdaqueles humanos anecessidadedematá-los eexibi-los navolta
+das caçadas. Comos ataques cada vez mais constantes ebemequipados, os guardiões estavam
+emdesvantageme pouco a pouco eramderrotados. As perdas erampercebidas dos dois lados, o
+que aumentava ainda mais a sede de sangue dos humanos e diminuía o exército de guardiões.
+Depois de longas batalhas entre humanos e guardiões a floresta estava completamente
+vulnerável. Os poucos guardiões que sobreviveram, sabiamente, se retiraram da luta e se
+esconderamemumapartedistanteesecretadaflorestajuntocomoutrosanimais,ondeoshumanos
+nunca conseguiramchegar. Láconstruíramumrefúgioepermaneceramimperceptíveis atéqueum
+pequenogrupodebiólogos por acidenteosencontraram.Destepequenogrupo,faziaparteLorenzo,
+o pai de Samuel, umdos biólogos interessados emproteger os resquícios defaunaeflorestaque
+sobreviverampelomundo. Umatarefanadafácil, jáqueos caçadores disputavamumacorridacom
+90
+eles para ver quem encontrava primeiro estes lugares e demarcava território. Era preciso que
+houvesseumsigilototal entreosintegrantesdaequipe,poisumpassoemfalsoetodootrabalhoera
+perdido.
+Ao longo de alguns anos os biólogos observarame registraramde longe a vida daquela
+floresta e dos animais. Não interferiam, apenas protegiam. Havia diversidade de espécies que
+pareciam se apoiarem e evoluírem juntas. Como os guardiões que receberam alguns poderes
+oriundos deforças dafloresta.Assim,mesmoemmenorquantidadepoderiamprotegerseular.Além
+de força, os guardiões tinham algumas tradições que passavam de geração emgeração. Como
+manter vivaamemóriadecadaguardião.Quandoumdosancestraisestavaprontoparasejuntarao
+espírito da floresta eles se reuniame realizavamrituais quepassavamos poderes eas memórias
+para os que ficavam. Assim foi acontecendo até que restou apenas um guardião.
+Elenãoeraapenas ele, mas aforçaememóriadetodososseusancestrais.Traziaemsi as
+dores, lutas e superações que marcaram as gerações anteriores. Sempre a espreita, vigilante,
+carregava a responsabilidade de afastar tudo o que pudesse ameaçar a vida daquele lugar. Com
+isso, a solidão virou sua maior companhia desde muito novo, quando começou a percorrer a
+pequena floresta para guardá-la.
+Como o tempo nãofaz pausas, as horas foramavançandoeameninateveasensaçãode
+queestavasendovigiadapor detrás dos arbustos. Mas estavafeliz demais paraperder tempocom
+medos.
+Do outro lado do lago havia alguns animais, que ao verem a menina chegando, se
+esconderam. Por entreos arbustos foramseaproximandolentamentedameninaearmaramobote
+paraatacar. Umimponenterugidoestremeceutodaafloresta.OGuardiãosepôsentreosanimaise
+a menina e deu a ordem para que todos se afastassem.
+Floraestavatotalmentedistraída,comoalvoroçoimediatamenteviroueláestavaoGuardião
+à sua frente, pronto em defendê-la. Com os olhos arregalados e o coração palpitante tentava
+entender o que estava acontecendo.
+O Guardião seguia rigorosamente os ensinamentos deixados por seus ancestrais, que
+incluíampraticar a justiça. Aquela garotinha não havia, até então, apresentado ameaça real eele
+estavaacompanhandocadapassodeladesdequeentrouemseucaminho.Porsermuitorespeitado
+por todos, sua ordemfoi acatada, mesmo que parecesse ser umgrande erro. Os animais, muito
+apreensivos e desconfiados, aos poucos foram se afastando até que todos sumiram à vista da
+menina.
+Passadoosusto, Florasedeucontaqueprecisavacontinuarsuajornada.Decidiu,então,se
+aproximar do Guardião e pedir ajuda. Mas ele temia que aquilo tudo fosse apenas uma boa
+armadilha para caçar o último vivo de sua espécie e se negou a ajudá-la.
+Amenina, decepcionada, tomoualgumas frutas pelamãoeseguiuseucaminhoperdidona
+tentativadereencontrar seus pais. Pareciaemvão, sentiaquecadavez mais sedistanciavadeles,
+mas nãodesistiuecontinuou. Floranuncadesejoutantoalgocomodesejouternasmãosabússola
+queganhoudeaniversário. Comela, encontrar ocaminhodevoltaseriamuitomais fácil.Tentouse
+91
+lembrar das aulas delocalizaçãogeográficaeseguiar pelopôr dosol,masnãoconseguiarecordar
+se o acampamento estava ao norte, ao sul, à sudeste…
+“Passos?” Pensou Flora ao ouvir sons de galhos sendo quebrados. E parou para melhor
+observar asuavolta.Nadavia,nemouvia.Apreensivacontinuoucaminhandodevagarparatestarse
+ouviria mais sons de passos. Dito e feito! Os sons de passos à sua volta continuavam.
+— Oi! Quem está aí?
+Comorespostatinhaapenas osomdos pássaros quecantavampor todaafloresta. Emais
+uma vez insistiu:
+— Tem alguém aí?
+Flora sabia que estava sendo observada, sua dúvida e medoerasepeloGuardião, quea
+protegeu, ou pelos outros animais que desejavam atacá-la. Não havia muito o que fazer, então
+apanhou um pedaço de galho robusto e continuou sua caminhada.
+—Pai, estou aqui! Gritava Flora para o alto, já meio rouca e tentandoignorar os sons de
+passos.
+Numbreveinstanteemqueelaolhouparaoalto,nãoreparouumadescidaíngremeetomou
+umbelo escorregão parando bemabaixo do caminho emque estava. Tentou subir agarrando em
+algumas raízes, mas era impossível. Alémdeser altoeíngreme, nãohaviaraízes suficientes para
+chegar ao topo. No entanto, foram inúmeras as tentativas até buscar um outro caminho.
+—Não posso parar. Eu vou conseguir. Falou a si mesma bembaixinho enquanto ainda
+estava agarrada à uma raíz.
+Virou-se para tomar um novo caminho e deu de cara com dois cervos a cercando.
+Amedrontada buscou com o olhar seu pedaço de galho na tentativa de afastá-los.
+—Eu não quero fazer mal a vocês. Só quero encontrar meus pais. DiziaFloracomavoz
+trêmulaaomesmotempoemqueos animais seaproximavammais. Dandoumpassoparatrásela
+pisou no seu pedaço degalho. Abaixandorapidamente, pegouogalho, apontouparaos animais e
+gritou:
+— Deixem-me ir! Não me obriguem a machucar vocês. E deu um passo para frente
+ameaçando um golpe na direção dos cervos. Eles se assustaram e saíram correndo.
+Desta vez o Guardião não apareceu para protegê-la e seu medo pareciaaumentar, agora
+não poderia contar com ninguém mesmo.
+Nonovocaminhohaviaalguns micos pendurados pelas árvores queemitiamsonsquemais
+pareciam enviar a localização da menina para os outros bichos da floresta. PorémFlora não se
+intimidou e continuou.
+Os animais estavam muito descontentes coma posição do Guardião, que preferiu deixar
+aquelaameaçaàsolta.Decidiramelesmesmoresolver,eserevezavamparaintimidaramenina,até
+queoloboaparecesseparadarfimatudo.Seusuivosestremeciam,suasgarraserambemafiadase
+seus dentes prontos paramordê-la. Decidiunãoatacar deimediatoeseguiuameninaporumlongo
+caminho esperando o momentoperfeito. QuandoFlora, cansadadeandar, sentouelargouogalho
+robusto que carregava, oloboprojetou-separaatacar. Quandoelapercebeudeuumenormegrito.
+Toda a floresta ouviu, inclusive seus pais.
+92
+Flora jogada ao chão, o lobocomas duas patas dianteiras sobreseupeitosegurando-a, a
+bocaentreabertaexibindoseus afiados dentes ederrubandoalgumas gotículas desalivasobreseu
+rosto, pronto para devorá-la. A menina perdeu completamente a reação e desta vez o medo a
+consumiu de uma forma que a paralisou. Ela fechou os olhos esópodiaimaginar aqueles dentes
+dilacerando toda sua carne.
+Samuel e Zoe estavamcaminhandoegritandoonomedeFlora, nointervalodetempoem
+quesecalaramouviramumgritodepavorqueecoouportodocanto.Nãotinhamdúvidas,eraFlorae
+desta vez estava realmenteemperigo. Começaramacorrer nosentidodeondepareciavir ogrito,
+torcendoparaqueelaestivesseviva. Corriam, corriamenadaviam. Jánãotinhamcertezadeonde
+vinha o grito de Flora. Pararamesbaforidos, apoiando as mãos nos joelhos atentos paraqualquer
+som que os indicasse o caminho correto até a menina. Não se ouvia nada além dos sons dos
+pássaros cantando.
+Umoutrogrupodemicos apareceunoaltodasárvoresaoredordelesegritavammuitoalto,
+o que deixava Zoe e Samuel mais atordoados. Eles mandavamos micos se calareme mais alto
+gritavam. E de repente os micos sumiram.
+Ecomodesupetão,algoatingiuolobopeloladodireitoeolançoucontraumaenormepedra.
+O lobo, desnorteado, semsaber o que o atingiu, somente fugiu para bemlonge da menina. Que
+ainda estava estatelada no chão.
+— Quem está aí?
+OGuardião depois de muitas lutas internas decidiuseaproximar efalouàmenina: —Não
+confio em você pequena, mas irei te guiar pelo caminho até seus pais.
+O rosto de Flora se iluminou com um sorriso e seguiram.
+A menina tinha muita curiosidade e o Guardião muita desconfiança.
+— O que é esta coisa gosmenta e fria?
+— Uma lesma.
+— E aquela árvore, qual o nome dela?
+— É uma Andiroba.
+— Por que a terra está úmida?
+—Porqueasárvorescobremtudo,impedindoquealuzdosol façaevaporaraáguaquenela
+está.
+E assimcontinuarampor todoocaminhoqueerarepletodeinspiraçãoeaprendizadopara
+Flora.
+— Como saberemos onde Flora está agora?
+— Vamos seguir nosso coração, Samuel.
+— O que seu coração diz Zoe?
+—Vamos voltar paraoacampamento.Estamosrodando,rodandoesintoqueestamosainda
+mais longe da nossa garotinha.
+Samuel armou-se para discordar, chegando esboçar o início de uma palavra, mas voltou
+atrás, recordoudequãograndeéaligaçãoentreFloraeZoe. Quesuas intuições sempreestavam
+certas. E tomaram o caminho de volta para o acampamento.
+93
+Defato, Zoenãoestavaerrado. FloraagoratinhaacompanhiadoGuardiãoparafinalmente
+encontrar o acampamento em segurança. Todos os animais estavam de olho neles.
+— Pequena humana o que faz aqui na floresta?
+—Vimcommeuspaisparaconhecerafloresta.Nuncatinhavistoumadeverdade.Eununca
+vi nadatãolindo,tãocheiodevida.Meupaissempremecontamhistóriasdecomoeramasflorestas
+e eu nunca imaginei nada nem de perto do que estou vendo aqui.
+—Háalgunsdiasantesdomeuaniversário,meupai Samuel medeualgumascoisasdomeu
+avô e encontrei um mapa com a localização deste lugar.
+Flora falou para o Guardião, comdetalhes, sobrecadaitemdacaixadoavô. Decomoela
+ficou totalmente apaixonada pelo que viuedavontadequenasceuemseucoraçãodeir atélá. O
+Guardiãoouviaatentamente, tentandoidentificar nas palavras dameninaalgumamentira,maldade.
+Mas tudo que via era pureza de coração.
+— Me fale mais sobre seu avô, pequena.
+—Não conheci meu avô. Meu pai me contou muitas coisas sobre ele ecomacaixadele
+senti que estávamos de algumaformamais perto. Eleeramuitointeligente, erabiólogoeamavaa
+naturezaigual aos meus pais. Elefez muitacoisaparaproteger estelugar,comovocêparecefazer,
+sabia?
+O Guardião ficou intrigado com as coisas que ouvia da menina e as memórias de seus
+ancestrais começaram a vir à mente.
+— Como era o nome do seu avô?
+— Lorenzo.
+AquelenometrouxemuitosflashesdememóriaaoGuardiãoecomeçouafalarsemreservas
+à menina.
+—Lorenzo foi um grande defensor do nosso lar, junto commeus ancestrais. Ele e seus
+amigos sempre nos observavam e cuidavam para que caçadores não nos encontrassem. Foram
+nossos grandes amigos. Mas umdia eles não voltarame não se soubemais deles, atéquevocê
+apareceu, pequena.
+— Então você conheceu meu avô?
+— De certa forma, o conheci sim.
+Ameninanãoconseguianãoadmirar oGuardião.Eleeratãobonito,brilhanteeeratãobom
+ouvi-lofalar. Principalmente, as muitas coisas sobreseuavôqueprovavelmenteseupai Samuel não
+sabia.
+De repente o Guardião se viu totalmente entregue àquela doce menina que o indagava a
+respeito detudo. Sentindoqueaquelahumanaeradiferentedetodos quehaviampassadopor sua
+vida,jánãoesperavavirumaperguntaparaapresentartudoàmeninacomprazer,comonuncahavia
+feito antes.
+Após percorreremumlongoedivertidocaminhoeles seaproximaramdoacampamento. O
+Guardião se lembrou do medo que sentia dos seres humanos e de repente parou assustando a
+menina.
+94
+—Não tenha medo. Nós não vamos fazer mal a você. Meus pais amama natureza, os
+animais.
+No acampamento, finalmente, Flora chamava por seus pais eolhavanabarraca, nocarro,
+nas proximidades. Não os encontrando sentou ao lado do Guardião para esperar a voltadeseus
+pais.
+Após alguns instantes Zoe e Samuel chegaramao acampamento e encontraramFlora ao
+ladodoGuardiãoeseassustaram. Eles lembraramdogritodamenina,comospedaçosdemadeira
+que tinha nas mãos foramdeencontroaoGuardiãoparaatacá-lo. OGuardiãosearmouedeuum
+grande grunido. Ao mesmo tempo Flora se levantou e pôs-se à frente do Guardião e gritou:
+Samuel e Zoe de um lado, o Guardião do outro e Flora no meio, os separava e os unia.
+— Saia da frente, Flora.
+— Não.
+— Escute sua filha, Samuel. Acalme-se.
+E todos se calarame se olharamintensamente até que Flora correu e abraçou seus pais
+como se não os visse há anos. Ainda abraçando seus pais, Flora viu o Guardião se afastando e
+correu até ele, tocando em seu rosto, prometeu que voltaria para vê-lo e que sempre protegeria
+aquele lugar mágico.
+95
+3.2.2. Caminho de ferro
+
+96
+
+97
+3.2.3. Capa e miolo finalizados
+
+98
+
+99
+
+100
+
+101
+
+102
+
+103
+,
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+113

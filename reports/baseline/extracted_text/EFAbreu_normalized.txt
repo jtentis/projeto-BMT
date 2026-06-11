@@ -1,0 +1,2015 @@
+Universidade Federal do Rio de Janeiro
+Centro de Ciˆ encias Matem´ aticas e da Natureza
+Observat´ orio do Valongo
+Curso de Gradua¸ c˜ ao em Astronomia
+Abundˆ ancias Atˆ omicas de Ferro e Magn´ esio em An˜ as
+Vermelhas da Vizinhan¸ ca Solar
+Eric Freitas de Abreu
+Rio de Janeiro
+Fevereiro de 2025
+Trabalho de Conclus˜ ao de Curso submetida ao Curso
+de Gradua¸ c˜ ao em Astronomia do Observat´ orio do
+Valongo, Universidade Federal do Rio de Janeiro,
+como requisito necess´ ario para a obten¸ c˜ ao do t´ ıtulo
+de Astrˆ onomo.
+Orienta¸ c˜ ao: Gustavo Porto de Mello e Luan Ghezzi
+Abundˆ ancias Atˆ omicas de Ferro e Magn´ esio em An˜ as
+Vermelhas da Vizinhan¸ ca Solar
+Eric Freitas de Abreu
+Rio de Janeiro
+Fevereiro de 2025
+CIP - Catalogação na Publicação
+Elaborado pelo Sistema de Geração Automática da UFRJ com os dados fornecidos
+pelo(a) autor(a), sob a responsabilidade de Miguel Romeu Amorim Neto - CRB-7/6283.
+A162a
+Abreu, Eric Freitas de
+Abundâncias atômicas de ferro e magnésio em anãs
+vermelhas da vizinhança solar / Eric Freitas de
+Abreu. -- Rio de Janeiro, 2025.
+92 f.
+Orientador: Gustavo F. Porto de Mello.
+Coorientador: Luan Ghezzi.
+Trabalho de conclusão de curso (graduação) -
+Universidade Federal do Rio de Janeiro, Observatório
+do Valongo, Bacharel em Astronomia, 2025.
+1. estrelas de baixa massa. 2. metalicidade. 3.
+abundâncias químicas. 4. vizinhança solar. 5. síntese
+espectral. I. Mello, Gustavo F. Porto de, orient.
+II. Ghezzi, Luan, coorient. III. Título.
+Para aquele menino que um dia olhou para o c´ eu do Cerrado e
+sonhou. . .
+Agradecimentos
+Eu sempre gostei daquele prov´ erbio: “´ e preciso uma aldeia inteira para criar uma
+crian¸ ca”. E por isso pensei, durante toda minha gradua¸ c˜ ao, que tamb´ em ´ e preciso toda
+uma aldeia para formar um astrˆ onomo.
+Penso em todos os momentos que passaram por mim at´ e eu chegar aqui. Cada
+uma das caronas, dos motoristas de ˆ onibus velozes e dos lentos, dos motoristas de van
+cortando pelo acostamento, das minhas caminhadas de 3km at´ e em casa, dos intermin´ aveis engarrafamentos na Avenida Brasil e na Linha Vermelha, das horas cochiladas
+no Central-Parador. Cada um desses momentos me trouxeram a escrever isso hoje.
+N˜ ao consigo esquecer do dia em que fiz a minha inscri¸ c˜ ao de disciplinas no Valongo,
+l´ a no long´ ınquo ano de 2018, no qual, por inocˆ encia minha de n˜ ao aceitar mais dinheiro
+de meu pai e gastar tudo no famoso rod´ ızio da Parmˆ e, fiquei sem o dinheiro da passagem.
+Minha primeira vez sozinho no Centro do Rio e eu n˜ ao tinha como voltar para casa.
+Ap´ os pedir para algumas pessoas no ponto da Central e todas me negarem, pedi pro
+vendedor de Bilhete´Unico me vender um mais barato. E ele vendeu, dizendo “passa
+passa”. Como seria se n˜ ao fosse assim?
+Lembro, tamb´ em, das primeiras vezes que fui do est´ agio no INMETRO direto para
+o Observat´ orio e o ˆ onibus era o errado. Fui parar no Passeio. N˜ ao sabia onde havia
+descido e, ` a ´ epoca, tinha muito medo de tirar o celular do bolso para saber e estava com
+muita pressa pois tinha prova de IAM. Um gari que estava varrendo a rua, me ajudou
+e me indicou a dire¸ c˜ ao. N˜ ao perdi a prova.
+Lembro de onde me sentei no primeiro dia de aula no Observat´ orio, no dia 12 de
+mar¸ co de 2018. Numa cadeira ` a direita na frente da sala 101, numa palestra do Gustavo,
+o ent˜ ao Coordenador da Gradua¸ c˜ ao - hoje meu orientador. Lembro de pensar naquele
+dia “ser´ a que quando me formar, vou lembrar que sentei nesse lugar?”. Parab´ ens, Eric
+do passado, vocˆ e se lembrou. Lembro tamb´ em de sair tarde da noite na primeira semana
+de aula, nas aulas de pr´ e-c´ alculo do Wagner, e a sensa¸ c˜ ao da cidade grande e de suas
+infinitas possibilidades caindo sobre mim.
+S˜ ao tantas coisas e destinos e acontecimentos para agradecer que resolvi come¸ car
+por alguns dos acasos que me acometeram para o bem - a maioria dos que me aconteceram, foram para o bem, corpo fechado eu sou, como gosto de dizer. De fato surpreendente
+para um ateu dizer isso, mas como brasileiro e torcedor do Fluminense, n˜ ao vejo a necessidade de que tudo fa¸ ca sentido. Algumas coisas s´ o s˜ ao e rezo, mesmo sem acreditar,
+para que assim continuem. Come¸ co, ent˜ ao, a agradecer.
+Agrade¸ co aos acasos e infinitos acontecimentos, para bem ou para mal, que me
+trouxeram aqui. Do vendedor de Bilhete ´Unico, do gari que me guiou, do senhor na
+cadeira de rodas na v´ espera do jogo do Fluminense, do golpe que levei do limpador de
+sapatos, do pedinte na Central que mentiu na sua hist´ oria, at´ e os assaltantes que n˜ ao
+me viram no ˆ onibus. Todos fizeram parte de mim e por isso, agrade¸ co.
+Agrade¸ co aos amigos e colegas do Inmetro que me viram tristonho e desesperan¸ coso
+em diversos momentos e me apoiaram a n˜ ao desistir. Agrade¸ co, em especial, a Mariana,
+Gabriela e Nath´ alia, meu grupinho que sempre me apoiou em tudo e sempre me deu
+for¸ cas para continuar; a Vit´ oria Mayla, e suas grandes caminhadas at´ e o Pr´ edio 6; a
+Luana, e seus abra¸ cos salvadores; ao Isaque Barros, meu amigo sofredor de Mau´ a; ao
+Isaque Lincon, meu melhor amigo do t´ ecnico; e ao meu primo, tamb´ em sofredor, e,
+agora, milico, Caio Freitas.
+Agrade¸ co as minhas av´ os Mariza e Lizete, por me alimentarem de amor e comida
+extremamente gostosa muitas das vezes que voltava da faculdade ou ficava sozinho em
+casa. Agrade¸ co ao meu padrinho, meu dindinho Marquinho, pelos diversos abrigos fornecidos durante a gradua¸ c˜ ao e as extensas conversas sob a luz amarela e pouco brilhante
+de sua casa, sempre h´ a algo a se aprender. Agrade¸ co a minha madrinha, minha Dindier,
+Celeste, tal qual o c´ eu que eu estudo, pelas infinitas caronas, no Fund˜ ao, na Fiocruz,
+na Washington Luiz, em todos os lugares, e pela eterna parceria e motiva¸ c˜ ao durantes
+as conversas nos tamb´ em eternos engarrafamentos.`A toda minha fam´ ılia, que de uma
+forma ou de outra, me apoiou para eu estar aqui, meu muito obrigado.
+Agrade¸ co a cada um dos meus amigos que a Astronomia me deu, que acompanharam e tamb´ em viveram muito do que eu vivi. Agrade¸ co a Camila Paredes, ao Felipe
+Gallo, ao Micah Navia, a Giovanna Liberato, a Nadine Menezes, a Beatriz Cavalleiro,
+a Maria Heringer, a Mariana Gomes, ao Theo Albuquerque, ao Marco Laversveiler, a
+Julianne Soares, a Samara Monteiro e a Caroline Oliveira, vocˆ es viveram comigo e me
+trouxeram at´ e aqui, muito obrigado. Agrade¸ co, tamb´ em, ao Thiago Flaulhabe, por ter
+me dado esperan¸ ca quando eu mais precisava, numa grandiosa jogada do acaso dentro
+do metrˆ o; a Natasha Costa, por ter gostado tanto do meu abra¸ co no dia da sua defesa,
+mal sabia vocˆ e que aquele seu sentimento me deu for¸ cas al´ em do explic´ avel; e a Yahira
+Mendoza, a hondurenha mais tricolor de todos os tempos, por todo o apoio desde o
+futebol, passando pelo amor e chegando at´ e a ciˆ encia.
+Agrade¸ co a minha grande amiga Yanna Martins, a eterna Yanna dos Birbs, por
+ter me dado tanto apoio nesses anos da gradua¸ c˜ ao, em especial nesses ´ ultimos dois anos.
+Me apoiando em todos os assuntos do amor, chorando comigo, dividindo terapeuta,
+conversando nas madrugadas, apresentando m´ usicas e cativando meu gosto por m´ usica
+instrumental, e corrigindo e sugerindo coisas para esse trabalho. Vocˆ e estar´ a sempre no
+meu cora¸ c˜ ao e sempre estarei torcendo para vocˆ e em pensamento.
+Agrade¸ co a minha terapeuta, Luiza Salas, por me ajudar a entender os desafios
+dos encerramentos de ciclos, a me perdoar e me aceitar como um ser que erra e que est´ a
+tudo bem errar.
+Agrade¸ co a um dos meus amores nessa vida, a Ana Catarina, por todo o companheirismo e amor durante os anos que estivemos juntos. N˜ ao foi combina¸ c˜ ao astral,
+nem romance de TV, apareceu e, sem perceber, Aconteceu,it was just simple as this e
+por isso, sou grato. Por todo o apoio durante os momentos mais ´ arduos das mat´ erias da
+gradua¸ c˜ ao, principalmente com Quˆ antica, Eletro e Termo, se eu aguentei sem recorrer
+a medidas escusas, foi gra¸ cas a vocˆ e; por todos os hamb´ urgueres e abrigos nas quartas
+feiras de observa¸ c˜ ao; por todas as tardes e manh˜ as de The Office; por todas as idas aos
+jogos do Fluminense tarde da noite; por todo o tempo de companhia nas filas de espera;
+por superar seu medo de insetos; por gostar da minha letra feia; por tudo isso e por
+vocˆ e, eu sou grato. Obrigado por fazer parte do in´ ıcio da minha vida adulta, vocˆ e me fez
+uma pessoa melhor, mais feliz e mais completa durante esses anos. Estarei para sempre
+com vocˆ e no cora¸ c˜ ao, uma am´ algama de mosaicos da minha vida, sempre te desejando
+todo o melhor que o mundo possa te oferecer e torcendo que o amor lhe acompanhe em
+cada passo dado por essa Terra.
+Agrade¸ co a um dos meus melhores amigos, Carlos Augusto, que me acompanhou
+do ensino m´ edio at´ e a faculdade de astronomia, onde ficamos verdadeiramente pr´ oximos.
+Muito obrigado por cada uma das motiva¸ c˜ oes durante esses anos, por me levar em trilhas,
+por me mostrar que o azar tem v´ arias formas, mas que a amizade t´ a sempre a´ ı e sempre
+d´ a pra rir disso. Por me dizer que se eu for, vocˆ e vai tamb´ em, e ningu´ em iria querer
+isso. Muito obrigado por me acompanhar na minha promessa da caminhada no dia mais
+quente do registro hist´ orico, moleque neutro, sem vocˆ e eu n˜ ao conseguiria.
+Agrade¸ co a cada uns dos meus amigos de Pau Grande e redondezas, em especial,
+a Eduarda Coutinho, a Mayra Albuquerque, a Clara Vianna, ao Pedro Freitas, ao Lucas
+Melo. Obrigado pelo apoio de sempre, em cada um dos a¸ ca´ ıs, abra¸ cos, churrascos e
+encontros na Festa de Santanna.
+Agrade¸ co a um dos meus melhores amigos, Leonardo Brito, o Leozinho, por mostrar algumas das muitas facetas da vida, que ficar pendurado vale a pena tamb´ em e
+por me acompanhar, mesmo tendo dormido 45 min e malhado perna no dia anterior, na
+grande caminhada que eu fiz at´ e Laranjeiras, vence o Fluminense!
+Agrade¸ co ao meu primo e melhor amigo desde a infˆ ancia, J´ ulio Duarte. Obrigado
+por toda a motiva¸ c˜ ao, por jogar PS4 numa TV de tubo na rua um dia antes de meu
+primeiro dia de aula na faculdade, por me motivar nas trilhas, por aceitar cada rolˆ e
+insano como subir um morro de Piabet´ a para ver um eclipse lunar por 2 min e para
+tentar encontrar um cometa que n˜ ao vimos, por me fazer n˜ ao desistir e por ser um
+grande amigo sempre.
+Agrade¸ co ` a equipe do Observat´ orio do Pico dos Dias e ao Laborat´ orio Nacional
+de Astrof´ ısica pelo apoio t´ ecnico e log´ ıstico durante as muitas miss˜ oes de observa¸ c˜ ao da
+coleta dos dados utilizados neste projeto.
+Agrade¸ co ` a UFRJ e ao CNPq pela bolsa PIBIC para essa pesquisa, que financiou
+toda minha vida nessa gradua¸ c˜ ao e toda a aventura presente nesse TCC.
+Agrade¸ co ao Ricardo Schiavon pela brilhante ideia original desse projeto e por me
+fazer adentrar ao mundo das an˜ as vermelhas e da s´ ıntese espectral. Seu nome e as linhas
+de Fe I 8824˚A e Mg I 8806 ˚
+A jamais ser˜ ao esquecidas por mim.
+Agrade¸ co ao F´ abio Wanderley por ter me mostrado o software que me salvou
+nessa pesquisa, quando eu estava quase desistindo, e por ter ficado horas comigo tentando resolver os problemas. Agrade¸ co, tamb´ em, ao Thibault Merle, por ter sido t˜ ao
+complacente ao me ajudar com os problemas envolvendo o Bacchus e a interpola¸ c˜ ao de
+modelos de atmosferas,merci beaucoup!
+Agrade¸ co de cora¸ c˜ ao ` a Ellen Costa-Almeida por todo esfor¸ co, apoio e motiva¸ c˜ ao
+durante toda essa intensa jornada com as an˜ as vermelhas. Agrade¸ co tamb´ em, por tudo
+que fez no trabalho anterior, desde a observa¸ c˜ ao das estrelas at´ e redu¸ c˜ ao dos dados do
+projeto, e por me permitir e me ajudar no prosseguimento de seu trabalho. Obrigado
+pela dica em 2020, eu entrei na IC, e agora, me formo.
+Agrade¸ co a cada um dos professores, t´ ecnicos e terceirizados que passaram por
+mim no Observat´ orio do Valongo, vocˆ es me trouxeram aqui e tornaram o Observat´ orio
+em uma verdadeira casa no cora¸ c˜ ao do Rio de Janeiro, com as ´ arvores que tanto amo
+e mais um pouco. Por isso, meu muito obrigado. Agrade¸ co, em especial, a equipe de
+extens˜ ao do Valongo, Daniel Mello, Ana Beatriz de Mello e Rundsthen Nader, vocˆ es
+abriram caminhos infindos na minha mente, jamais esquecerei as noites de observa¸ c˜ ao,
+as lives de efem´ erides, as palestras para as crian¸ cas ind´ ıgenas e meu eterno encanto ao
+olhar o telesc´ opio Cooke em todo seu esplendor.
+Agrade¸ co aos meus orientadores, Gustavo Porto de Mello e Luan Ghezzi, por toda
+a sabedoria, parceria, esfor¸ co e dedica¸ c˜ ao para que esse trabalho, enfim, fosse conclu´ ıdo.
+Desde 2020 at´ e hoje, tenho trabalhado com essas t˜ ao numerosas e desconhecidas estrelas,
+n˜ ao foi f´ acil, mas gra¸ cas ao apoio de vocˆ es, eu consegui, finalmente consegui. Obrigado
+por n˜ ao desistirem de mim, obrigado mesmo.
+Agrade¸ co as bandas e m´ usicos que andaram comigo e me fizeram sonhar durante
+a gradua¸ c˜ ao. Agrade¸ co ` a Maglore, que foi respons´ avel pela trilha sonora do meu in´ ıcio
+na faculdade, lembro p´ os aula de IAM pegando meu ˆ onibus na Central e o sol batendo
+em mim enquanto ouvia. Agrade¸ co ao Belchior, em especial ao ´ album Era uma Vez um
+Homem e Seu Tempo, que me deu calma para passar em Eletro e Quˆ antica. Agrade¸ co
+tamb´ em ` a Ventilador de Teto que me acompanhou especialmente na escrita desse TCC.
+Agrade¸ co ao Carl Sagan, o astrˆ onomo e grande divulgador cient´ ıfico que foi respons´ avel pelo meu desejo por astronomia. Ao ler Os Drag˜ oes do ´Eden durante o meu
+ensino m´ edio, me apaixonei pela ciˆ encia e pela astronomia, e ao assistir um trecho de
+sua palestra O P´ alido Ponto Azul, tive for¸ cas, esperan¸ ca e desejo de seguir e me manter
+na astronomia. Muito obrigado!
+Por fim, agrade¸ co, de todo cora¸ c˜ ao, aos meus pais, Robson Abreu e Micheli Freitas,
+por todo o esfor¸ co que fizeram para eu estar aqui, nesse momento, escrevendo isso. Se
+n˜ ao fossem as estrelas fluorescentes coladas no teto de meu quarto para afastar meu
+medo do escuro, eu n˜ ao estaria aqui. Se n˜ ao fossem as viagens para o Preto Massal, ao
+Norte de Minas - o melhor lugar do mundo inteiro - onde me apaixonei por aquele c´ eu
+e aquelas estrelas, eu n˜ ao estaria aqui. Agrade¸ co por todas as caronas at´ e a entrada de
+Piabet´ a, por todos os abra¸ cos chorosos quando eu precisava. “Que tristes caminhos se
+n˜ ao fosse a presen¸ ca distante das estrelas”e “Ora (direis), ouvir estrelas, certo perdeste
+o senso (...) Direis agora: ‘Tresloucado amigo!’ (...) E eu vos direi: ‘Amai para entendˆ elas, pois s´ o quem ama pode ter ouvido capaz de ouvir e de entender estrelas’”, alguns
+dos poemas que vocˆ es me apresentaram que me acompanham.Alone again, naturally ,
+nunca me ocorreu, sempre tive vocˆ es. Tudo isso gra¸ cas a vocˆ es, muito obrigado por me
+apoiarem tanto. Amo vocˆ es, at´ e que todas as estrelas se apaguem e al´ em.
+´E necess´ aria uma aldeia para formar um astrˆ onomo, ´ e necess´ aria uma aldeia para
+viver. Obrigado.
+“N˜ ao sou nada.
+Nunca serei nada.
+N˜ ao posso querer ser nada.
+`A parte isso, tenho em mim todos os sonhos do mundo.”
+´Alvaro de Campos (Fernando Pessoa), Tabacaria (15/01/1928).
+“The record shows I took the blows
+And did it my way.”
+Paul Anka, My Way (1969), popularizada por Frank Sinatra.
+Resumo
+Abundˆ ancias Atˆ omicas de Ferro e Magn´ esio em An˜ as Vermelhas da
+Vizinhan¸ ca Solar
+Eric Freitas de Abreu
+Orientador: Gustavo Porto de Mello e Luan Ghezzi
+Resumo do Trabalho de Conclus ˜ao de Curso submetida ao Curso de Graduac ¸ ˜ao em Astronomia do Observat ´orio do Valongo, Universidade Federal do Rio de Janeiro, como
+requisito necess´ario para a obtenc ¸˜ao do t´ıtulo de Astr ˆonomo.
+An˜ as vermelhas representam cerca de 70% das estrelas da Gal´ axia, e cerca de 40% de
+sua massa bariˆ onica; h´ a estimativas de que cada uma dessas estrelas possui em sua ´ orbita 3
+planetas, o que torna clara a extrema importˆ ancia que essas estrelas possuem para a astronomia,
+astrobiologia e planetologia. Isto se contrasta com o fato de que essas estrelas s˜ ao ainda mal
+conhecidas em seus parˆ ametros f´ ısicos fundamentais, tais como: temperaturas efetivas, luminosidades e metalicidade. Os fatores que contribuem para esse conhecimento deficiente s˜ ao sua
+baixa luminosidade intr´ ınseca, complexo espectro e censo incompleto. Recentemente, um trabalho de nosso grupo propˆ os um m´ etodo, a partir de ´ ındices espectrais, para calibra¸ c˜ ao e obten¸ c˜ ao
+de temperatura efetiva e metalicidade [Fe/H] para 178 an˜ as vermelhas da vizinhan¸ ca solar. O
+presente trabalho tem como objetivos aprimorar as abundˆ ancias de [Fe/H] previamente obtidas
+e determinar a abundˆ ancia de [Mg/H] por meio do m´ etodo de s´ ıntese espectral, utilizando as
+linhas Fe I 8824˚A e Mg I 8806 ˚
+A, inexploradas para an˜ as vermelhas. A s´ ıntese foi realizada
+com o c´ odigo MOOG, por meio da distribui¸ c˜ ao de c´ odigo aberto PyMOOGi. Neste trabalho,
+discutimos as vantagens da s´ ıntese espectral e apresentamos os resultados para 23 estrelas da
+amostra. Destacamos, principalmente, os resultados obtidos para a metalicidade, confirmados
+por dois pares de bin´ arias e pelas estrelas Proxima Centauri e HD 131977, cujos valores est˜ ao
+dentro das incertezas internas e s˜ ao competitivos em rela¸ c˜ ao ` a literatura. Al´ em disso, houve uma
+melhoria na precis˜ ao da metalicidade em compara¸ c˜ ao com trabalhos anteriores do grupo, que
+superestimavam os valores na ordem de 0.15 dex. No entanto, para a abundˆ ancia de magn´ esio,
+alguns resultados n˜ ao-f´ ısicos foram obtidos, especialmente ao comparar com os valores das demais
+estrelas do sistema Alfa Centauri, evidenciando a necessidade de mais investiga¸ c˜ ao.
+palavras chave: estrelas de baixa massa , metalicidade, abundˆ ancias qu´ ımicas, vizinhan¸ ca solar, s´ ıntese espectral
+Rio de Janeiro
+Fevereiro de 2025
+Abstract
+Atomic Abundances of Iron and Mangesium in Red Dwarfs of the Solar
+Neighborhoods
+Eric Freitas de Abreu
+Advisor: Gustavo Porto de Mello e Luan Ghezzi
+Abstract of the Undergraduate Thesis submitted to the Astronomy undergratuation
+course of the Valongo Observatory, Federal University of Rio de Janeiro, as a requirement for obtaining the title of Astronomer.
+Red dwarfs represent about 70% of the stars in the Galaxy and approximately 40% of
+its baryonic mass. Estimates suggest that each of these stars hosts around three planets, highlighting their crucial importance for astronomy, astrobiology, and planetology. This contrasts
+with the fact that these stars are still poorly understood in terms of their fundamental physical
+parameters, such as effective temperatures, luminosities, and metallicities. The main factors
+contributing to this lack of knowledge are their low intrinsic luminosity, complex spectra, and
+incomplete census. Recently, a study from our group proposed a method based on spectral
+indices for calibrating and determining the effective temperature and metallicity [Fe/H] of 178
+red dwarfs in the solar neighborhood. The present work aims to refine the previously obtained
+[Fe/H] abundances and determine the [Mg/H] abundance using the spectral synthesis method,
+focusing on the Fe I 8824˚A and Mg I 8806 ˚
+A lines, which remain unexplored for red dwarfs. The
+synthesis was performed using the MOOG code through the open-source PyMOOGi distribution. In this study, we discuss the advantages of spectral synthesis and present the results for 23
+stars in our sample. We particularly highlight the metallicity results, confirmed by two binary
+pairs and the stars Proxima Centauri and HD 131977, with values within internal uncertainties
+and competitive with those in the literature. Furthermore, we achieved an improvement in metallicity precision compared to previous works from our group, which overestimated the values
+by an order of 0.15 dex. However, for magnesium abundance, some non-physical results were
+obtained, especially when compared to the values of other stars in the Alpha Centauri system,
+emphasizing the need for further investigation.
+keywords: low-mass stars , metalicities, chemical abundances , solar neighbourhood,
+spectral synthesis
+Rio de Janeiro
+February 2025
+Lista de Figuras
+1.1 Esquem´ atico do experimento de Newton com prismas . . . . . . . . . . . 19
+1.2 Esquem´ atico do experimento de Herschel . . . . . . . . . . . . . . . . . . . 19
+1.3 Espectro de Wollaston . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+1.4 Espectro solar de Fraunhofer . . . . . . . . . . . . . . . . . . . . . . . . . 21
+1.5 Experimento de Kirchoff e Bunsen . . . . . . . . . . . . . . . . . . . . . . 22
+1.6 Forma¸ c˜ ao do espectro de acordo com as Leis da Espectroscopia . . . . . . 22
+1.7 Exemplos dos trˆ es primeiros tipos espectrais de Sechii . . . . . . . . . . . 24
+1.8 Diagrama HR das estrelas do GAIA . . . . . . . . . . . . . . . . . . . . . 26
+1.9 Espectros de diferentes classes espectrais . . . . . . . . . . . . . . . . . . . 28
+1.10 Espectros de diferentes subtipos espectrais de an˜ as vermelhas . . . . . . . 28
+1.11 Exoplanetas detectados ao redor de an˜ as vermelhas . . . . . . . . . . . . . 30
+1.12 Proje¸ c˜ ao Gal´ actica das estrelas da amostra . . . . . . . . . . . . . . . . . 32
+2.1 Exemplo de defini¸ c˜ ao dos ´ ındices espectrais . . . . . . . . . . . . . . . . . 34
+2.2 Exemplo de s´ ıntese espectral . . . . . . . . . . . . . . . . . . . . . . . . . 35
+2.3 Plot da calibra¸ c˜ ao de gravidade superficial . . . . . . . . . . . . . . . . . . 41
+2.4 Terminal de s´ ıntese do PyMOOGi . . . . . . . . . . . . . . . . . . . . . . 52
+2.5 Janela gr´ afica das s´ ınteses espectrais do PyMOOGi . . . . . . . . . . . . . 53
+2.6 Janela gr´ afica das s´ ınteses espectrais do PyMOOGi e seu res´ ıduo . . . . . 53
+3.1 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP31293 . . . . . . . . . . . . . . . . 59
+3.2 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP31292 . . . . . . . . . . . . . . . . 60
+3.3 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP72509 . . . . . . . . . . . . . . . . 61
+3.4 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP72511 . . . . . . . . . . . . . . . . 62
+3.5 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP86961 . . . . . . . . . . . . . . . . 63
+3.6 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP86963 . . . . . . . . . . . . . . . . 64
+3.7 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP439 . . . . . . . . . . . . . . . . . . 65
+3.8 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP21932 . . . . . . . . . . . . . . . . 66
+3.9 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP25878 . . . . . . . . . . . . . . . . 67
+3.10 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP36208 . . . . . . . . . . . . . . . . 68
+3.11 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP57548 . . . . . . . . . . . . . . . . 69
+3.12 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP67155 . . . . . . . . . . . . . . . . 70
+3.13 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP70890 . . . . . . . . . . . . . . . . 71
+3.14 S´ ıntese de Fe I 8824 e Mg I 8806 - HD131977 . . . . . . . . . . . . . . . . 72
+3.15 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP74995 . . . . . . . . . . . . . . . . 73
+3.16 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP80824 . . . . . . . . . . . . . . . . 74
+3.17 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP85523 . . . . . . . . . . . . . . . . 75
+3.18 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP87937 . . . . . . . . . . . . . . . . 76
+3.19 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP92403 . . . . . . . . . . . . . . . . 77
+3.20 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP106440 . . . . . . . . . . . . . . . . 78
+3.21 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP113020 . . . . . . . . . . . . . . . . 79
+3.22 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP113296 . . . . . . . . . . . . . . . . 80
+3.23 S´ ıntese de Fe I 8824 e Mg I 8806 - HIP114046 . . . . . . . . . . . . . . . . 81
+3.24 Qui Quadrado e suas rela¸ c˜ oes - Estrelas Bin´ arias . . . . . . . . . . . . . . 83
+3.25 Qui Quadrado e suas rela¸ c˜ oes - EstrelasTeff . . . . . . . . . . . . . . . . . 84
+3.26 Metalicidade por S´ ıntese Espectral vs Metalicidade por´Indices Espectrais 85
+Lista de Tabelas
+1.1 Classifica¸ c˜ ao espectral e suas caracter´ ısticas espectrais . . . . . . . . . . . 25
+2.1 Estrelas da amostra com temperatura efetiva interferom´ etrica . . . . . . . 37
+2.2 Sistemas bin´ arios da amostra . . . . . . . . . . . . . . . . . . . . . . . . . 38
+2.3 Parˆ ametros da observa¸ c˜ ao dos espectros das estrelas bin´ arias . . . . . . . 39
+2.4 Parˆ ametros da observa¸ c˜ ao dos espectros das estrelasTeff . . . . . . . . . . 39
+2.5 Parˆ ametros atmosf´ ericos iniciais das estrelasTeff . . . . . . . . . . . . . . 47
+2.6 Parˆ ametros atmosf´ ericos iniciais das estrelas bin´ arias . . . . . . . . . . . . 47
+3.1 Abundˆ ancias de Fe e Mg para as estrelas bin´ arias . . . . . . . . . . . . . . 56
+3.2 Abundˆ ancias de Fe e Mg para as estrelas Teff . . . . . . . . . . . . . . . . 56
+Sum´ ario
+1 Introdu¸ c˜ ao 17
+1.1 Espectroscopia, uma perspectiva hist´ orica . . . . . . . . . . . . . . . . . . 17
+1.2 Classifica¸ c˜ ao Espectral . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+1.3 An˜ as Vermelhas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+1.4 Desafios e Importˆ ancia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+1.5 Objetivos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+2 Metodologia 33
+2.1 Contextualiza¸ c˜ ao . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+2.2 S´ ıntese Espectral . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+2.2.1 Espectros Observados . . . . . . . . . . . . . . . . . . . . . . . . . 36
+2.2.2 Amostra de estrelas . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+2.2.2.1 Perfil instrumental e S/R dos espectros . . . . . . . . . . 38
+2.2.3 Parˆ ametros Atmosf´ ericos Iniciais . . . . . . . . . . . . . . . . . . . 40
+2.2.3.1 Temperatura Efetiva ( Teff) e Metalicidade ([Fe/H]) . . . . 40
+2.2.3.2 Velocidade de Microturbulˆ encia ( Vmicro) . . . . . . . . . . 40
+2.2.3.3 Gravidade Superficial (log g) . . . . . . . . . . . . . . . . 40
+2.2.4 Lista de linhas atˆ omicas e moleculares . . . . . . . . . . . . . . . . 42
+2.2.5 Modelos de Atmosferas Estelares . . . . . . . . . . . . . . . . . . . 44
+2.2.5.1 Interpola¸ c˜ ao de Modelos MARCS . . . . . . . . . . . . . 46
+2.2.6 Softwares de S´ ıntese . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+2.3 Produzindo espectros sint´ eticos com o PyMOOGi . . . . . . . . . . . . . . 50
+2.3.1 Arquivo synth.par . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+2.3.2 Gerando espectros sint´ eticos . . . . . . . . . . . . . . . . . . . . . . 52
+3 Resultados e Discuss˜ oes 55
+3.1 Abundˆ ancias atˆ omicas de ferro e magn´ esio . . . . . . . . . . . . . . . . . . 55
+3.2 Ajustes e Avalia¸ c˜ ao peloχ2 . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+3.3 Determina¸ c˜ ao do Erro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+3.4 Perfis de Ajustes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+3.5 An´ alise de Perfis de Ajustes . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+3.6 Compara¸ c˜ ao de Resultados: S´ ıntese Espectral e´Indices Espectrais . . . . 85
+4 Conclus˜ oes e Perspectivas 86
+Referˆ encias Bibliogr´ aficas 89
+Cap´ ıtulo 1
+Introdu¸ c˜ ao
+It has been said that astronomy is a
+humbling and character-building
+experience. There is perhaps no
+better demonstration of the folly of
+human conceits than this distant
+image of our tiny world.
+Carl Sagan
+As estrelas iluminam o c´ eu noturno e nossa imagina¸ c˜ ao desde os prim´ ordios da
+humanidade. Elas foram alguns dos primeiros objetos estudados no c´ eu noturno, juntamente com o Sol e a Lua. Desde as primeiras classes de magnitude, criadas por Hiparco
+no s´ eculo 2 a.C., at´ e as primeiras medi¸ c˜ oes de linhas espectrais, feitas a partir do espectro solar por Fraunhofer em 1802, chegando aos modernos modelos 3D de atmosferas
+estelares do s´ eculo 21, as estrelas continuam iluminando o caminho da ra¸ ca humana,
+eternamente em busca de conhecimento.
+1.1 Espectroscopia, uma perspectiva hist´ orica
+Desde os prim´ ordios da Astronomia at´ e o final do s´ eculo XVII, o estudo das estrelas
+consistia principalmente na observa¸ c˜ ao de sua luz, da pequena varia¸ c˜ ao em seu brilho e
+de seu aparentemente inalter´ avel movimento no c´ eu. Embora fenˆ omenos naturais, como
+o arco-´ ıris em dias de chuva, fornecessem pistas sobre a natureza espectral da luz, alguns
+dos primeiros registros escritos acerca da refra¸ c˜ ao da luz e de seus fenˆ omenos espectrais
+s´ o vieram com os romanos a partir de Lucius Anneus Seneca em seu trabalhoNaturales
+Cap´ ıtulo 1.Introdu¸ c˜ ao 18
+quaestiones e Pl´ ınio, O Velho, noNaturalis historia, escritos no s´ eculo I (Sparavigna,
+2012).
+Em seus textos, ambos mencionam o fato de que prismas — objetos com superf´ ıcies
+planas, polidas e transparentes — possuem a capacidade de, ao incidir sobre ele um feixe
+de luz obliquamente, criar cores como vistas no arco-´ ıris; ou, nas palavras de Pl´ ınio, o
+Velho, sobre um cristal prism´ atico de quartzo: “pois, quando atingida pelos raios do sol
+em um local coberto, projeta nas paredes mais pr´ oximas a forma e as cores diversificadas
+do arco-´ ıris”(Sparavigna, 2011).
+Da antiguidade at´ e o tempo de Newton, pouco progresso se fez na investiga¸ c˜ ao
+de fenˆ omenos de refra¸ c˜ ao e dispers˜ ao da luz. Os prismas passaram a ser vendidos em
+feiras medievais e renascentistas como brinquedos para que crian¸ cas pudessem “jogar
+com as cores” que eles produziam (Sparavigna, 2012). Foi nesse ´ ınterim de tempo, que
+Isaac Newton e algum de seus contemporˆ aneos, como Robert Boyle e Francesco Maria
+Grimaldi, come¸ caram a investigar esses fenˆ omenos de maneira cient´ ıfica.
+Por volta de 1666, Isaac Newton, o primeiro a usar a palavra “espectro” para
+descrever fenˆ omenos de dispers˜ ao de luz, realizou experimentos com prismas, que mais
+tarde foram detalhados em seu livroOpticks. Esses estudos inauguraram uma investiga¸ c˜ ao sistem´ atica sobre o comportamento espectral da luz. Em suas palavras: “Em
+uma cˆ amara muito escura, em um orif´ ıcio redondo, com cerca de um ter¸ co de polegada
+de largura, feito no fechamento de uma janela, coloquei um prisma de vidro” (Newton,
+1704). Tal experimento foi a pedra fundamental de um longo e diversificado processo
+que s´ eculos mais tarde culminaria na espectroscopia como conhecemos atualmente.
+Nesse experimento, como ilustrado pelo pr´ oprio Newton (Figura 1.1), a luz solar
+entra em uma sala escura por um pequeno orif´ ıcio em uma janela. Esse feixe de luz
+atravessa uma lente convergente, direcionando-o para um prisma. O prisma, ent˜ ao,
+dispersa a luz branca em suas cores componentes, projetando-as em um anteparo. Em
+seguida, parte desse espectro atravessa um segundo orif´ ıcio e incide sobre um prisma
+invertido, que recombina as cores no segundo anteparo, recriando a luz branca (Newton,
+1672; Fara, 2015). Esse experimento foi definitivo para retomar o debate acerca natureza
+corpuscular da luz e para demonstrar que a luz branca ´ e, nas palavras de Newton, “uma
+mistura heterogˆ enea de raios com diferentes ´ ındices de refra¸ c˜ ao”(Fara, 2015).
+Em 1800, William Herschel trouxe um avan¸ co significativo ` a espectroscopia ao
+investigar a rela¸ c˜ ao entre temperatura e cor da luz. Durante observa¸ c˜ oes solares, notou
+que diferentes lentes produziam varia¸ c˜ oes de aquecimento e clareza. Intrigado, realizou
+um experimento onde a luz solar era decomposta por um prisma, e a temperatura
+das diferentes regi˜ oes do espectro era medida com termˆ ometros de bulbo preto para
+Cap´ ıtulo 1.Introdu¸ c˜ ao 19
+Figura 1.1. Esquem´ atico do experimento de Newton com prismas. Embora a carta de 1672 n˜ ao tivesse
+esquem´ aticos, este foi posteriormente encontrado nos esp´ olios de Newton ap´ os sua morte (Dhondt,
+2023).
+maior absor¸ c˜ ao (Figura 1.2). Ele percebeu que a temperatura aumentava em dire¸ c˜ ao ao
+vermelho e al´ em, onde n˜ ao havia luz vis´ ıvel (Herschel, 1800), levando ` a descoberta do
+infravermelho e ao conceito de radia¸ c˜ ao al´ em do espectro vis´ ıvel (Lorensi & Rosa, 2021).
+Figura 1.2. Esquema ilustrativo do experimento de Herschel. A luz solar atravessa um prisma, sendo
+decomposta em diferentes componentes espectrais, com cada cor direcionada a termˆ ometros individuais
+para medir a temperatura associada. Retirado de Herschel (1800).
+A partir desse momento, ocorreram diversas descobertas significativas. Em 1802,
+William Hyde Wollaston desenvolveu o primeiro espectrosc´ opio primitivo, aprimorando o
+modelo de Newton ao utilizar uma abertura estreita, em substitui¸ c˜ ao ao orif´ ıcio circular,
+Cap´ ıtulo 1.Introdu¸ c˜ ao 20
+para projetar o espectro em um anteparo. Essa modifica¸ c˜ ao permitiu uma observa¸ c˜ ao
+mais precisa do espectro, revelando a presen¸ ca de pequenas linhas escuras que o dividiam
+e, segundo Wollaston, separavam as diferentes zonas de cores (Hyde Wollaston, 1802;
+Thomas, 1991; Pasachoff & Suer, 2010). Ele introduziu uma nota¸ c˜ ao utilizando letras
+mai´ usculas e min´ usculas para identificar essas zonas, nota¸ c˜ ao que influenciou trabalhos
+subsequentes no campo (Figura 1.3).
+Figura 1.3. Espectro de Wollaston. Letras mai´ usculas e min´ usculas dividiam as, ent˜ ao, zonas de
+cores. Retirado de Pasachoff & Suer (2010) e Hyde Wollaston (1802).
+Cerca de uma d´ ecada ap´ os os estudos de Wollaston, o ´ optico alem˜ ao Joseph von
+Fraunhofer aprofundou a investiga¸ c˜ ao sobre as linhas escuras no espectro. Utilizando
+uma lente convexa entre o prisma e a abertura, ele conseguiu observar essas linhas
+com maior defini¸ c˜ ao. Para obter medi¸ c˜ oes ainda mais precisas, Fraunhofer acoplou um
+telesc´ opio ao sistema, desenvolvendo, assim, o primeiro espectrosc´ opio em um formato
+similar ao que conhecemos atualmente (Thomas, 1991). Com esse instrumento, ele
+identificou cerca de 500 linhas escuras no espectro solar, criando o primeiro espectro
+solar detalhado, conhecido como “espectro solar de Fraunhofer”; e classificou essas linhas
+utilizando a nota¸ c˜ ao de Wollaston, atribuindo letras mai´ usculas e min´ usculas de A a H,
+do vermelho ao violeta (Fraunhofer, 1817) (Figura 1.4). Fraunhofer tamb´ em aplicou seu
+espectrosc´ opio ao estudo de outras estrelas, observando varia¸ c˜ oes nas posi¸ c˜ oes das linhas
+escuras (Pasachoff & Suer, 2010). No entanto, na ´ epoca, ainda n˜ ao havia o conhecimento
+necess´ ario para interpretar a origem dessas linhas.
+Cerca de uma d´ ecada ap´ os os avan¸ cos de Fraunhofer, John Herschel, filho de William Herschel, observou, utilizando o espectrosc´ opio desenvolvido por Fraunhofer, que
+o espectro vis´ ıvel das chamas de alguns elementos apresentava n˜ ao apenas diferentes
+cores, mas tamb´ em linhas escuras caracter´ ısticas (Thomas, 1991). Essa descoberta estabeleceu as bases da an´ alise espectrosc´ opica moderna, sugerindo uma rela¸ c˜ ao intr´ ınseca
+entre elementos qu´ ımicos e essas linhas escuras, embora o mecanismo respons´ avel ainda
+fosse desconhecido.
+Em 1859, o f´ ısico alem˜ ao Gustav Kirchhoff come¸ cou a desenvolver uma teoria sobre
+emiss˜ ao e absor¸ c˜ ao da luz por elementos qu´ ımicos, que anos depois culminaria nas Trˆ es
+Leis da Espectroscopia de Kirchhoff. Ele postulou que todo elemento que emitisse luz em
+Cap´ ıtulo 1.Introdu¸ c˜ ao 21
+Figura 1.4. Espectro solar de Fraunhofer com cores adicionadas. Letras mai´ usculas e min´ usculas
+marcavam as linhas escuras de acordo com sua intensidade. De A, no in´ ıcio do vermelho, at´ e H, no
+fim do violeta. Retirado de Pasachoff & Suer (2010) e Fraunhofer (1817).
+determinados comprimentos de onda tamb´ em a absorveria nesses mesmos comprimentos.
+Com base nisso, concluiu que as linhas escuras no espectro solar eram causadas por
+camadas de gases frios na atmosfera externa do Sol, que absorviam partes do espectro
+cont´ ınuo solar (Thomas, 1991). Esse trabalho definiu dois conceitos: o espectro cont´ ınuo,
+que futuramente seria associado ` a temperatura de corpo negro, e o espectro de absor¸ c˜ ao.
+As linhas escuras eram, portanto, linhas de absor¸ c˜ ao espectral causados por elementos
+qu´ ımicos nas atmosferas das estrelas.
+No ano seguinte, em 1860, Kirchhoff e Robert Bunsen investigaram os espectros de
+emiss˜ ao de metais alcalinos, inspirado pelas ideias de John Herschel. Conforme descrito
+em Kirchhoff & Bunsen (1860): “quando a luz colorida assim produzida ´ e analisada por
+um prisma, espectros exibindo faixas ou linhas de luz de diferentes cores s˜ ao observados”.
+Utilizando o espectrosc´ opio e o rec´ em-desenvolvido Bico de Bunsen (Figura 1.5), que
+elevava as chamas a temperaturas mais elevadas, dois novos elementos qu´ ımicos foram
+descobertos, o rub´ ıdio e o c´ esio, a partir de seus espectros de emiss˜ ao. Assim, Kirchoff
+e Bunsen puderam estabelecer de forma definitiva a conex˜ ao entre as linhas de absor¸ c˜ ao
+e emiss˜ ao, incluindo a atribui¸ c˜ ao de linhas de absor¸ c˜ ao solares a elementos espec´ ıficos
+com base em seus espectros correspondentes (Brand, 1995).
+Dessa maneira, foi poss´ ıvel formular as Trˆ es Leis da Espectroscopia de Kirchoff
+(Figura 1.6) como conhecemos hoje, descritas como se segue:
+• Um s´ olido, l´ ıquido ou g´ as denso, quando excitado, emite luz em todos os comprimentos de onda, gerando umespectro cont´ ınuo(ou espectro de corpo negro);
+• Um g´ as de baixa densidade, quando excitado, emite luz apenas em comprimentos
+de onda espec´ ıficos, produzindo umespectro de emiss˜ ao;
+Cap´ ıtulo 1.Introdu¸ c˜ ao 22
+Figura 1.5. Espectrosc´ opio de Kirchoff e Bico de Bunsen, usado para as descobertas do c´ esio e do
+rub´ ıdio. Retirado de Dom´ ınguez G´ omez et al. (2012).
+• Se a luz proveniente de um espectro cont´ ınuo atravessar um g´ as frio e de baixa
+densidade, ser´ a gerado umespectro de absor¸ c˜ ao.
+Figura 1.6. Uma fonte de luz incandescente, como uma estrela, produz um espectro cont´ ınuo de
+corpo negro, sendo observado pelo espectrosc´ opio ` a esquerda. A luz desse corpo passa por uma caixa
+de hidrogˆ enio excitando-o. O espectrosc´ opio que observa essa caixa na mesma dire¸ c˜ ao que a fonte
+de luz, ` a direita, produz um espectro de absor¸ c˜ ao. O espectrosc´ opio que observa em qualquer outra
+dire¸ c˜ ao, observa um espectro de emiss˜ ao. Retirado de Kaler (1997).
+Com esse conhecimento em m˜ aos, j´ a sabia-se, ent˜ ao, a origem das linhas escuras.
+Elas se tratavam, na realidade, de linhas de absor¸ c˜ ao espectral e eram provenientes de
+elementos qu´ ımicos nas atmosferas de estrelas. Mas como esses elementos produziam
+essas linhas s´ o pode ser esclarecido d´ ecadas depois, com o in´ ıcio da Mecˆ anica Quˆ antica
+e o entendimento do ´ atomo e seus componentes.
+Cap´ ıtulo 1.Introdu¸ c˜ ao 23
+At´ e que esse momento chegasse, novos avan¸ cos na ´ area da espectroscopia continuaram a surgir. Em 1888, o f´ ısico sueco Johannes Rydberg desenvolveu, com base em
+observa¸ c˜ oes experimentais, uma f´ ormula emp´ ırica capaz de calcular os comprimentos de
+onda das s´ eries de linhas espectrais do ´ atomo de hidrogˆ enio e de diversos metais alcalinos (Rydberg, 1890). Contudo, na ´ epoca, essa f´ ormula n˜ ao veio acompanhada de uma
+explica¸ c˜ ao f´ ısica sobre seu funcionamento.
+Nas primeiras d´ ecadas do s´ eculo XX, uma profus˜ ao de modelos atˆ omicos come¸ caram
+a surgir, em uma tentativa de explicar fenˆ omenos at´ e ent˜ ao incompreendidos. A eletr´ olise
+de Faraday, os tubos de raios cat´ odicos, as medi¸ c˜ oes de Thomson sobre o el´ etron, o experimento da folha de ouro de Rutherford que revelou a existˆ encia do n´ ucleo atˆ omico,
+a ideia quˆ antica de Planck, o efeito fotoel´ etrico de Einstein e, por fim, as s´ eries espectrais de absor¸ c˜ ao do hidrogˆ enio de Rydberg, representavam pe¸ cas de um quebra-cabe¸ cas
+cient´ ıfico ainda incompleto (Curtis, 1987). Todos esses avan¸ cos culminaram no modelo atˆ omico de Bohr, que finalmente forneceu uma explica¸ c˜ ao coerente para as linhas
+espectrais.
+O modelo atˆ omico de Bohr, criado pelo f´ ısico dinamarquˆ es Niels Bohr e ainda
+presente no imagin´ ario cient´ ıfico, descreve o ´ atomo como um n´ ucleo pequeno e denso,
+rodeado por el´ etrons em ´ orbita (Bohr, 1913). Naquele per´ ıodo, j´ a se aceitava a ideia
+de que os el´ etrons eram respons´ aveis pelas linhas de emiss˜ ao e absor¸ c˜ ao observadas,
+embora as raz˜ oes ainda fossem desconhecidas (Haendler, 1982). O diferencial das ideias
+de Bohr foi a proposta de que os el´ etrons n˜ ao irradiam ou absorvem energia enquanto
+orbitam o n´ ucleo, mas permanecem emestados estacion´ arios de energia, alterando
+sua energia apenas ao transitar entre esses estados. Durante essa transi¸ c˜ ao, os el´ etrons
+absorvem ou emitem uma quantidade de energia exatamente igual ` a diferen¸ ca entre os
+dois estados, originando e, finalmente, explicando as origens e os mecanismos das linhas
+espectrais e fornecendo embasamento te´ orico para a f´ ormula de Rydberg. Atualmente
+compreendemos que as transi¸ c˜ oes ocorrem devido ` a absor¸ c˜ ao ou emiss˜ ao de f´ otons com
+n´ ıveis de energia espec´ ıficos; ` a ´ epoca, Bohr sequer acreditava na existˆ encia dos f´ otons
+(Stachel, 2009).
+1.2 Classifica¸ c˜ ao Espectral
+Mesmo antes do ´ atomo de Bohr ser proposto e os mecanismos acerca das linhas
+espectrais e sua origem serem entendidos, astrˆ onomos j´ a reuniam formas de classificar
+estrelas com base nelas.
+Cap´ ıtulo 1.Introdu¸ c˜ ao 24
+Um dos primeiros sistemas foi proposto pelo astrˆ onomo e padre italiano Angelo
+Secchi, durante os anos 60 e 70 do s´ eculo XIX, o qual se baseava primariamente na for¸ ca
+das linhas espectrais e se dividia em tipos (Figura 1.7) (Hearnshaw, 1986; Kaler, 1997)
+usando numerais romanos:
+• Tipo I: linhas fortes de hidrogˆ enio;
+• Tipo II: numerosas linhas met´ alicas e hidrogˆ enio mais fraco;
+• Tipo III: muitas bandas de linha que se tornam mais proeminentes na parte azul
+do espectro
+• Tipo IV: bandas de linhas que se tornam mais proeminentes para o vermelho;
+• Tipo V: espectros com linhas de emiss˜ ao, junto ou substituindo as linhas de absor¸ c˜ ao.
+Figura 1.7. Espectros dos diferentes tipos espectrais de Sechii: tipo I, II e III. Adaptado de Kaler
+(1997).
+Ap´ os os tipos espectrais propostos por Secchi, surgiu o sistema de Harvard, financiado em grande parte por Henry Draper — o que explica a manuten¸ c˜ ao do identificador
+HD em v´ arias estrelas at´ e os dias atuais. Esse sistema aprimorou o de Secchi, que era
+considerado muito amplo para diferenciar objetos de uma mesma classe espectral (Kaler,
+1997). O sistema de Harvard introduziu as letras mai´ usculas que hoje definem os tipos
+espectrais. Entretanto, ` a ´ epoca, essas letras seguiam uma ordem alfab´ etica de A a Q.
+Cap´ ıtulo 1.Introdu¸ c˜ ao 25
+Com grandes contribui¸ c˜ oes das computadoras de Harvard, o sistema foi lentamente
+se aprimorando. Williamina Fleming, astrˆ onoma francesa, foi respons´ avel por remover
+algumas das letras - C, D, L e I - e inverter as ordens de E e F. Eventualmente, as letras
+E e H foram absorvidas por outras classes (Kaler, 1997; Hearnshaw, 1986).
+Outro grupo de mulheres, Antonia Maury, Annie Canon e Cecilia Payne, tamb´ em
+tiveram contribui¸ c˜ oes significativas na classifica¸ c˜ ao espectral. Maury foi respons´ avel por
+alterar a ordem alfab´ etica das classes A e B e sugerir que a classe O deveria preceder
+todas as outras, ainda de que uma forma incomum, ao desenvolver seu breve, mas
+impactante, sistema de classifica¸ c˜ ao (Maury & Pickering, 1897). Enquanto Canon foi
+respons´ avel por adicionar o n´ umero do lado das classes espectrais para indicar posi¸ c˜ oes
+intermedi´ arias; por exemplo, uma estrela K5 est´ a situada entre as classes K e M (Cannon
+& Pickering, 1912). J´ a Payne foi respons´ avel por demonstrar que a sequˆ encia espectral
+era na realidade uma sequˆ encia de temperatura (Payne-Gaposchkin, 1925).
+Com essas contribui¸ c˜ oes, cheg´ avamos, enfim, ` as classes espectrais como conhecemos, definidas por “OBAFGKM”(Tabela 1.1), onde os tipos espectrais na dire¸ c˜ ao da
+classe O s˜ ao designadas como ‘anterior’ e na dire¸ c˜ ao da classe M como ‘tardio’, um
+resqu´ ıcio hist´ orico ainda usado como sinˆ onimo para mais quente e mais frio, respectivamente.
+Tipo Caracter´ ıstica Temperatura aproximada na Sequˆ encia Principal
+O He II, emiss˜ ao 28,000–50,000 K
+B He I 9,900–28,000 K
+A H 7,400–9,900 K
+F metais, H 6,000–7,400 K
+G Ca II, metais 4,900–6,000 K
+K Ca II, Ca I, mol´ eculas 3,500–4,900 K
+M Bandas moleculares de TiO 2,000–3,500 K
+Tabela 1.1. Classifica¸ c˜ ao espectral e suas caracter´ ısticas espectrais. Adaptado de Kaler (1997)
+Com os avan¸ cos constantes na espectroscopia e os trabalhos pioneiros de Ejnar
+Hertzsprung e Henry Russell, ficou evidente que estrelas pertencentes a uma mesma
+classe espectral podiam apresentar caracter´ ısticas distintas (Kaler, 1997), como ilustrado no c´ elebre Diagrama HR (Figura 1.8). Essa descoberta destacou que as classes
+espectrais, por si s´ o, n˜ ao eram suficientes para descrever adequadamente as propriedades
+das estrelas. Foi, ent˜ ao, definida a necessidade de introduzir mais uma classifica¸ c˜ ao, que
+dividisse as estrelas em categorias de luminosidade, como an˜ as (sequˆ encia principal),
+subgigantes, gigantes e supergigantes. Essa classifica¸ c˜ ao foi formalizada em 1943, como
+Cap´ ıtulo 1.Introdu¸ c˜ ao 26
+as classes de luminosidade de Yerkes, por meio dos trabalhos de William Morgan, Philip
+Keenan e Edith Kellman, do Observat´ orio de Yerkes (Morgan et al., 1943).
+Figura 1.8. Diagrama de Hertzsprung-Russell das estrelas observadas pelo GAIA (ESA/Gaia/DPAC,
+Gaia Collaboration et al. (2018)). A densidade de estrelas ´ e representada pela intensidade da cor. A
+temperatura aumenta da esquerda para a direita, a luminosidade cresce de baixo para cima.
+1.3 An˜ as Vermelhas
+An˜ as vermelhas s˜ ao estrelas frias, de baixa massa, com espectros complexos e que
+abrangem as classes espectrais K tardias at´ e a totalidade da classe espectral M. Possuem
+temperatura efetiva na faixa de 2600 K at´ e 4000 K, massas inferiores ` a massa solar, na
+faixa de 0.07M⊙ at´ e 0.6M⊙ e s˜ ao as estrelas mais numerosas da Gal´ axia, cerca de 70%
+(Bochanski et al., 2010), por´ em, devido a sua baixa massa, representam 40% da massa
+estelar da Gal´ axia (Chabrier, 2003).
+Uma caracter´ ıstica not´ avel dessas estrelas de baixa massa ´ e a presen¸ ca de um
+interior altamente convectivo, que nos 0.35 M⊙ mais internos ´ e totalmente convectivo
+(Chabrier & Baraffe, 1997). Essas caracter´ ısticas contribuem para que sua evolu¸ c˜ ao seja
+muito lenta, resultando em uma permanˆ encia na Sequˆ encia Principal do Diagrama HR
+Cap´ ıtulo 1.Introdu¸ c˜ ao 27
+por bilh˜ oes ou at´ e trilh˜ oes de anos (Adams et al., 2004). Essa evolu¸ c˜ ao vagarosa nos
+permite inferir, a partir das abundˆ ancias qu´ ımicas e outros parˆ ametros dessas estrelas,
+diversas propriedades qu´ ımicas e cinem´ aticas da Gal´ axia, bem como as propriedades de
+seu local de nascimento como estrela, no momento de sua forma¸ c˜ ao.
+Outra caracter´ ıstica significativa das an˜ as vermelhas ´ e sua baixa luminosidade no
+vis´ ıvel. Para ilustrar a escala desse fenˆ omeno, podemos considerar que para uma estrela
+do in´ ıcio da classe espectral M, uma M0, ser vista no c´ eu noturno ` a olho nu ela precisaria
+estar ` a uma distˆ ancia de aproximadamente 13 anos-luz de distˆ ancia do Sistema Solar.
+Talvez isso n˜ ao seja o suficiente para demonstrar o qu˜ ao pouco brilhante esse tipo de
+estrela ´ e, ent˜ ao imaginemos outra situa¸ c˜ ao: se uma das estrelas menos brilhantes da
+Sequˆ encia Principal, a estrela VB10 — classe M8V —, estivesse na ´ orbita de J´ upiter,
+ela brilharia em nosso c´ eu noturno, durante a oposi¸ c˜ ao, com magnitude−10. Ou seja,
+aproximadamente 10 vezes menos luminosa do que a Lua em sua fase cheia (Kaler, 1997).
+Uma outra quest˜ ao importante para as an˜ as vermelhas ´ e a an´ alise de seus espectros. Dentro da diversidade de estrelas existentes, essas an˜ as de baixa temperatura
+apresentam uma complexidade espectral singular (Figura 1.9). Seus espectros s˜ ao caracterizados por uma profus˜ ao de linhas de absor¸ c˜ ao, originadas tanto de esp´ ecies atˆ omicas
+quanto moleculares. A presen¸ ca abundante dessas linhas de absor¸ c˜ ao pode levar a interpreta¸ c˜ oes equivocadas acerca dos parˆ ametros atmosf´ ericos dessas estrelas.
+As mol´ eculas presentes na atmosfera dessas estrelas desempenham um papel crucial na aparˆ encia peculiar do espectro de uma an˜ a vermelha, com suas bandas moleculares de absor¸ c˜ ao sempre presentes. Mesmo dentro dos subtipos espectrais das an˜ as
+vermelhas, observa-se uma consider´ avel varia¸ c˜ ao nos espectros, resultante do aumento
+no rebaixamento do cont´ ınuo causado por essas bandas moleculares, conforme a temperatura diminui (Figura 1.10).`A medida que se avan¸ ca para subtipos espectrais mais
+tardios e, consequentemente, mais frios, ´ e poss´ ıvel identificar uma maior diversidade e
+complexidade de esp´ ecies moleculares, embora em estrelas de tipo solar algumas esp´ ecies
+como CN, CH e CO tamb´ em possam ser detectadas. No caso espec´ ıfico das an˜ as vermelhas, praticamente todo o cont´ ınuo de seu espectro ´ e dominado por bandas moleculares
+de TiO; em an˜ as mais frias, surgem outras esp´ ecies mais fr´ ageis a altas temperaturas,
+como VO, MgH e at´ e mesmo H2O, enquanto a absor¸ c˜ ao devido ao TiO continua a
+aumentar.
+Cap´ ıtulo 1.Introdu¸ c˜ ao 28
+Figura 1.9. Espectros de diferentes classes espectrais, com o Fluxo no eixo da
+ordenada, e o comprimento de onda no
+eixo da abscissa, de O5V at´ e M5V (Pogge,
+2022).
+Figura 1.10. Evolu¸ c˜ ao dos espectros em
+diferentes subtipos espectrais de an˜ as vermelhas. Da mais quente, classe K7 (cima),
+para a mais fria, classe M9.5 (baixo). Detalhe em algumas linhas atˆ omicas e bandas
+moleculares importantes (Reid & Hawley,
+2005).
+1.4 Desafios e Importˆ ancia
+A importˆ ancia dessas t˜ ao numerosas estrelas se mostra presente em diversas ´ areas
+da astronomia, desde a planetologia, passando pela astrobiologia, astrof´ ısica estelar e
+tamb´ em pela evolu¸ c˜ ao qu´ ımica da Gal´ axia. Entretanto, elas ainda s˜ ao mal conhecidas na
+maioria dos seus parˆ ametros fundamentais, como massa, metalicidade, raio, temperatura
+efetiva e seu pr´ oprio censo, resultado da pr´ opria complexidade inerente ` a essas estrelas.
+Por possu´ ırem baixa luminosidade intr´ ınseca e tamanho reduzido, possuem altas
+magnitudes observacionais no vis´ ıvel e foram objeto de investiga¸ c˜ ao limitada durante o
+s´ eculo XX por parte dos levantamentos astronˆ omicos e das miss˜ oes observacionais —
+o que explica seu censo defasado — e tamb´ em apresentam uma maior dificuldade de
+se medir os seus raios interferometricamente, fundamental para obter-se a temperatura
+efetiva com precis˜ ao.
+Felizmente, no final do s´ eculo XX, surgiram levantamentos estelares que come¸ caram
+a observar nas faixas do infravermelho pr´ oximo (por volta de 7000˚A at´ e 25000˚
+A), regi˜ oes
+em que as an˜ as M s˜ ao mais brilhantes, como o 2MASS (Cutri et al., 2003) e o UKIDSS
+(Lawrence et al., 2007). Al´ em disso, estamos atualmente no terceiro lan¸ camento de
+Cap´ ıtulo 1.Introdu¸ c˜ ao 29
+dados (DR3) do sat´ elite Gaia (Gaia Collaboration et al., 2023), que proporciona dados
+de distˆ ancias astronˆ omicas de alt´ ıssima precis˜ ao por meio de paralaxes e completo para
+an˜ as vermelhas at´ e 100 pc (Gaia Collaboration et al., 2021).
+O principal m´ etodo para an´ alise espectrosc´ opica e obten¸ c˜ ao de abundˆ ancias qu´ ımicas
+usado na astronomia e na astrof´ ısica estelar ´ e o de medi¸ c˜ ao de larguras equivalentes (EW,
+do inglˆ esEquivalent Widths) e se trata de um m´ etodo simples e robusto, mas que requer
+espectros de relativa alta qualidade com boa rela¸ c˜ ao sinal-ru´ ıdo e que se distingua as
+linhas de absor¸ c˜ ao do cont´ ınuo adjacente, coisas que comumente n˜ ao podemos fornecer
+nos espectros de an˜ as vermelhas: ´ e dif´ ıcil encontrar linhas individualizadas em grande
+parte do espectro dessas estrelas, com a exce¸ c˜ ao de janelas espec´ ıficas do infravermelho
+pr´ oximo.
+Para esse tipo peculiar de estrelas, os m´ etodos mais utilizados para obten¸ c˜ ao
+de abundˆ ancias, principalmente metalicidade, s˜ ao: calibra¸ c˜ oes fotom´ etricas utilizando
+´ ındices de cores (e.g., Casagrande et al. 2008; Neves et al. 2012), calibra¸ c˜ oes de ´ ındices
+espectrais (m´ etodo utilizado pelo grupo que ser´ a descrito posteriormente) e tamb´ em no
+fortuito caso em que h´ a sistemas bin´ arios com estrelas de tipo solar (F, G ou K) e uma
+an˜ a M, podemos considerar que a an˜ a M possui a mesma abundˆ ancia que seu par, o
+que facilita, pois medir abundˆ ancias em estrelas de tipo solar ´ e bem mais simples que
+em an˜ as vermelhas (e.g., Valenti & Fischer 2005). Outro m´ etodo poss´ ıvel, mesmo com
+suas ressalvas, ´ e o m´ etodo de s´ ıntese espectral, que ser´ a utilizado nesse trabalho e ser´ a
+melhor descrito no Cap´ ıtulo 2.
+Devido ` a complexidade de seus espectros, marcados pela abundante presen¸ ca de
+linhas atˆ omicas n˜ ao resolvidas e bandas moleculares, a inferˆ encia de propriedades como
+metalicidade, abundˆ ancias qu´ ımicas e demais parˆ ametros atmosf´ ericos torna-se uma
+tarefa ainda mais desafiadora para as an˜ as vermelhas quando comparadas a estrelas de
+outras classes espectrais de maior temperatura.
+Trabalhos que abordam a obten¸ c˜ ao de parˆ ametros atmosf´ ericos de an˜ as FGK’s
+como o de Valenti & Fischer (2005), fornecem erros de temperatura efetiva e metalicidade
+na ordem de 40 K e 0.03 dex, respectivamente. Enquanto trabalhos que avaliam a
+temperatura efetiva de an˜ as M, tais quais Rojas-Ayala et al. (2012) e Boyajian et al.
+(2012), fornecem erros de temperatura entre 80 K e 100 K. O cen´ ario se torna ainda mais
+dr´ astico ao avaliar a metalicidade dessas estrelas: mesmo para uma das an˜ as vermelhas
+mais conhecidas e estudadas, a Estrela de Barnard (HIP 87937), os valores reportados de
+metalicidade variam entre -0.75 dex at´ e -0.39 dex (Passegger et al., 2016). A dificuldade
+em torno da obten¸ c˜ ao desses parˆ ametros ´ e um clichˆ e comum em introdu¸ c˜ oes de artigos
+que abordem an˜ as vermelhas (e.g.; Rajpurohit et al. 2013; Veyette et al. 2016; Souto
+et al. 2020).
+Cap´ ıtulo 1.Introdu¸ c˜ ao 30
+Essa complexidade na obten¸ c˜ ao de abundˆ ancias e demais parˆ ametros atmosf´ ericos,
+causa uma deficiˆ encia de informa¸ c˜ oes at´ e mesmo nas an˜ as vermelhas em que foram
+detectados exoplanetas (Figura 1.11). Isso se contrasta com o fato de que as an˜ as
+vermelhas s˜ ao estrelas important´ ıssimas para a ´ area da Exoplanetologia, j´ a que s˜ ao mais
+sens´ ıveis do que as outras estrelas aos principais m´ etodos de detec¸ c˜ ao de exoplanetas,
+como trˆ ansito planet´ ario e velocidade radial (e.g., Charbonneau & Deming 2007; Shields
+et al. 2016), e at´ e mesmo o m´ etodo de imageamento direto - justamente por serem estrelas
+de baixa massa, fraco brilho intr´ ınseco e pequeno raio. Juntando essa sensibilidade
+com o vasto n´ umero dessas estrelas presentes na Gal´ axia, e tamb´ em considerando as
+estimativas de que h´ a pelo menos 3 exoplanetas para cada an˜ a vermelha (Tuomi et al.,
+2019), ´ e poss´ ıvel perceber que esse tipo de estrela tem uma importˆ ancia ´ ımpar para a
+exoplanetologia, importˆ ancia que n˜ ao ´ e refletida na qualidade de sua caracteriza¸ c˜ ao.
+2e-4 1e-3 2e-3 1e-2 2e-2 1e-1 2e-1 1e+0 2e+0 1e+1 2e+1
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+0.55
+Planetary Mass (Mjup)
+Mass of a host star (solMass)
+-0.66
+-0.55
+-0.45
+-0.34
+-0.23
+-0.13
+-0.020
+0.087
+0.19
+0.30
+0.41
+Not Av.
+Metallicity of a host star
+exoplanet.eu, 2025-01-09
+Figura 1.11. Exoplanetas detectados ao redor de an˜ as vermelhas. O eixo X representa a massa
+do exoplaneta em Massas de J´ upiter em escala logar´ ıtmica. O eixo Y representa a massa da estrela
+hospedeira em Massas Solares. As cores representam a metalicidade da estrela, na qual cada ponto
+preto representa um exoplaneta cuja estrela hospedeira n˜ ao teve sua metalicidade avaliada. Figura
+obtida em exoplanet.eu no dia 09/01/2025.
+Justamente por essas estrelas serem importantes para a exoplanetologia e serem
+as mais abundantes em toda a Gal´ axia, podemos inferir que tamb´ em ser˜ ao importantes
+na ´ area da Astrobiologia, havendo estimativas de 0.15 planetas rochosos pequenos —
+entre 0.5 e 1.4 raios terrestres — em zonas habit´ aveis por cada an˜ a vermelha (Dressing
+& Charbonneau, 2013). Ao obtermos com confian¸ ca os parˆ ametros atmosf´ ericos dessas estrelas, podemos us´ a-los para saber informa¸ c˜ oes importantes dos exoplanetas que
+as orbitam, como zona de habitabilidade, modelos de forma¸ c˜ ao planet´ aria e a pr´ opria
+Cap´ ıtulo 1.Introdu¸ c˜ ao 31
+composi¸ c˜ ao do planeta e de sua atmosfera, j´ a que a composi¸ c˜ ao qu´ ımica da estrela influi
+diretamente na do planeta por ambos serem formados inicialmente do mesmo material
+nos prim´ ordios de seu sistema estelar (Bonfils et al., 2005). Al´ em disso, ao determinar
+com precis˜ ao a metalicidade dessas estrelas, podemos avaliar se s˜ ao alvos adequados
+para a presen¸ ca de exoplanetas, uma vez que a literatura indica que planet´ esimos s´ o
+podem se formar em estrelas com metalicidade [Fe/H]≥ -0.5 dex (Andama et al., 2024).
+Com essa informa¸ c˜ oes, podemos restringir exoplanetas e estrelas alvos com potencial
+astrobiol´ ogico para futuras investiga¸ c˜ oes com telesc´ opios modernos, como os Telesc´ opios
+Espaciais James Webb e Hubble, que possam realizar espectroscopia de suas atmosferas.
+1.5 Objetivos
+Com o objetivo de aprofundar o conhecimento sobre este tipo singular e pouco
+explorado de estrelas, nosso grupo de pesquisa realizou um estudo detalhado descrito
+no artigo “ M dwarf spectral indices at moderate resolution: accurate Teff and [Fe/H]
+for 178 southern stars ” (Costa-Almeida et al., 2021). Neste estudo, foram observadas
+178 an˜ as vermelhas na vizinhan¸ ca solar, com distˆ ancia inferior a 25 parsecs, utilizando
+o espectrosc´ opio coud´ e do telesc´ opio de 1.6 m do Observat´ orio do Pico dos Dias (Figura
+1.12). Aplicou-se o m´ etodo de ´ ındices espectrais nos espectros dessas estrelas para
+determinar, com relativa precis˜ ao, sua metalicidade e temperatura efetiva. O m´ etodo
+demonstrou bons resultados para a determina¸ c˜ ao da temperatura efetiva, por´ em, para
+a metalicidade [Fe/H], ainda h´ a espa¸ co consider´ avel para melhorias.
+Diante disso, o objetivo deste trabalho ´ e utilizar alguns dos espectros previamente
+observados pelo grupo para estabelecer um protocolo inicial de s´ ıntese espectral, introdut´ orio e explorat´ orio, de duas transi¸ c˜ oes atˆ omicas isoladas, Mg I 8806˚A e Fe I 8824 ˚
+A,
+pouco sens´ ıveis ` a presen¸ ca de bandas moleculares, que s˜ ao pouco investigadas da literatura de forma geral (e.g, Yamashita et al. 2024, para o Mg, e Edvardsson 1988, para o
+Fe) e que ainda n˜ ao foram propriamente investigadas para o caso das an˜ as vermelhas.
+Esse protocolo de s´ ıntese pode, possivelmente, ser aplicado sem a laboriosa modelagem das bandas moleculares (na maioria das estrelas). No caso das estrelas mais
+frias as bandas moleculares podem ser intensas a ponto de causar o rebaixamento do
+cont´ ınuo na vizinhan¸ ca dessas linhas. Existe a expectativa de que para as estrelas mais
+quentes, essas linhas podem ser individualizadas e trabalhadas sem maiores problemas
+devidos ` as bandas moleculares. Isso porque essas linhas espectrais s˜ ao not´ orias por estarem em uma regi˜ ao que ´ e pouco afetada por bandas moleculares at´ e mesmo para os
+tipos espectrais mais tardios.
+Cap´ ıtulo 1.Introdu¸ c˜ ao 32
+Al´ em disso, a s´ ıntese espectral (que ser´ a explicada em detalhes no Cap´ ıtulo 2)
+tamb´ em tem como intuito obter uma determina¸ c˜ ao mais precisa da metalicidade [Fe/H],
+bem como da abundˆ ancia de [Mg/H]; utilizando temperaturas efetivas e metalicidades
+previamente obtidas como ponto de partida — posteriormente definidas no Cap´ ıtulo
+2.2.3 — para uma subamostra das estrelas observadas pelo grupo.
+A importˆ ancia do magn´ esio se d´ a pelo fato de que sua abundˆ ancia serve como uma
+ferramenta essencial para investigar a forma¸ c˜ ao estelar ao longo de escalas de tempo cosmol´ ogicas — por se tratar de um elementoα produzido no interior de estrelas massivas
+—, fornecendo informa¸ c˜ oes sobre a evolu¸ c˜ ao qu´ ımica da Gal´ axia e a contribui¸ c˜ ao de diferentes popula¸ c˜ oes estelares para o enriquecimento qu´ ımico do meio interestelar (Vangioni
+& Olive, 2019).
+Figura 1.12. Proje¸ c˜ ao Gal´ actica das estrelas da amostra de Costa-Almeida et al. (2021). Declina¸ c˜ ao
+em graus, na esquerda, e ascens˜ ao reta, em horas, no interior do gr´ afico.
+Este trabalho foi dividido em 5 cap´ ıtulos. No Cap´ ıtulo 2, descrevemos a Metodologia utilizada no trabalho. No Cap´ ıtulo 3, os resultados e suas discuss˜ oes. E, por fim,
+no Cap´ ıtulo 4, as conclus˜ oes e perspectivas futuras.
+Cap´ ıtulo 2
+Metodologia
+All models are wrong, some are
+useful.
+George E. P. Box
+Este cap´ ıtulo tem como objetivo descrever o m´ etodo de s´ ıntese espectral e suas
+vantagens em rela¸ c˜ ao aos m´ etodos mais tradicionais de an´ alise espectrosc´ opica, especificamente no contexto das an˜ as vermelhas. Al´ em disso, ser´ a detalhado como a s´ ıntese
+foi feita e o que ´ e necess´ ario para tal: as caracter´ ısticas dos espectros observados, a
+subamostra selecionada e seus parˆ ametros atmosf´ ericos, a obten¸ c˜ ao da lista de linhas de
+absor¸ c˜ ao atˆ omica, um breve resumo sobre modelos de atmosferas, bem como o m´ etodo
+para a interpola¸ c˜ ao de modelos MARCS, e o software de s´ ıntese a ser utilizado, o MOOG,
+atrav´ es da distribui¸ c˜ ao PyMOOGi.
+2.1 Contextualiza¸ c˜ ao
+Como brevemente mencionado no Cap´ ıtulo 1, a determina¸ c˜ ao dos parˆ ametros
+atmosf´ ericos de an˜ as vermelhas apresenta muitos desafios devido ` as suas caracter´ ısticas
+intr´ ınsecas, como a baixa luminosidade e o espectro complexo. A baixa luminosidade
+dessas estrelas dificulta a obten¸ c˜ ao de espectros com alta rela¸ c˜ ao sinal-ru´ ıdo, afetando a
+precis˜ ao das medidas espectrosc´ opicas. Al´ em disso, ` a medida que a temperatura diminui,
+maior a quantidade de bandas moleculares, o que torna ainda mais desafiador o processo
+de deriva¸ c˜ ao precisa de seus parˆ ametros.
+Dessa forma, podemos iniciar a discuss˜ ao sobre os principais m´ etodos para a obten¸ c˜ ao da metalicidade em espectros estelares. O m´ etodo mais comumente utilizado pela
+Cap´ ıtulo 2.Metodologia 34
+comunidade ´ e a medi¸ c˜ ao de larguras equivalentes, que, devido ` as dificuldades mencionadas no cap´ ıtulo anterior, n˜ ao servem para o nosso presente caso com as an˜ as vermelhas.
+Como alternativa, o pr´ oximo passo na avalia¸ c˜ ao das abundˆ ancias dessas estrelas ´ e a
+utiliza¸ c˜ ao dos´ ındices espectrais, que, mesmo antes do trabalho de Costa-Almeida (2019),
+j´ a havia sido aplicado com sucesso a an˜ as dos tipos F, G e K por outros membros do grupo
+(Ghezzi et al., 2014). Basicamente, um ´ ındice espectral pode ser entendido como uma
+“regi˜ ao espectral composta por um grupo de linhas atˆ omicas e/ou moleculares que n˜ ao
+podem ser distinguidas individualmente, mas que, em conjunto, mostram sensibilidade
+` a varia¸ c˜ ao de um ou mais parˆ ametros atmosf´ ericos”(Costa-Almeida, 2019).
+A defini¸ c˜ ao da regi˜ ao do ´ ındice ´ e feita visualmente ao inspecionar o espectro (Figura 2.1), sem a necessidade de modelos atmosf´ ericos, como ´ e o caso deste trabalho.
+Contudo, para definir os ´ ındices espectrais, ´ e necess´ ario medir a profundidade das linhas
+espectrais e, por isso, recorre-se novamente ao m´ etodo de larguras equivalentes, que n˜ ao
+´ e a op¸ c˜ ao mais adequada para este tipo de estrelas, pois a profundidade das linhas pode
+ser afetada por efeitos cromosf´ ericos, convectivos, de press˜ ao estelar e pelas transi¸ c˜ oes
+de bandas moleculares. Esses efeitos modificam o perfil da linha, prejudicam a defini¸ c˜ ao
+do cont´ ınuo e impedem uma medida confi´ avel de largura equivalente.
+Figura 2.1. Os ´ ındices s˜ ao indicados por “i” e as linhas tracejadas representam o in´ ıcio e o fim de
+cada ´ ındice. Imagem retirada de Costa-Almeida (2019).
+Para que os ´ ındices espectrais funcionem adequadamente, ´ e necess´ ario criar calibra¸ c˜ oes utilizando estrelas de referˆ encia, as quais ser˜ ao posteriormente comparadas com
+as estrelas da amostra. No trabalho de Costa-Almeida (2019), foi feita essa calibra¸ c˜ ao
+e a posterior compara¸ c˜ ao utilizando um m´ etodo demachine learning chamado PCA
+(Principal Component Analysis). No caso mencionado, a temperatura efetiva da estrela
+´ e o parˆ ametro que mais tem potencial para alterar o espectro, sendo assim o mais precisamente avaliado pelos ´ ındices espectrais e pelo PCA. Em contrapartida, a metalicidade
+[Fe/H] possui uma influˆ encia mais sutil no espectro, o que torna sua obten¸ c˜ ao menos
+Cap´ ıtulo 2.Metodologia 35
+precisa por esse m´ etodo. Por esse motivo, em rela¸ c˜ ao aos objetivos do presente trabalho,
+h´ a a necessidade de determinar a metalicidade [Fe/H] por outro m´ etodo, al´ em da necessidade de avaliar tamb´ em a abundˆ ancia de [Mg/H] que n˜ ao ´ e contemplada pelos ´ ındices
+espectrais feitos no trabalho de Costa-Almeida. Dessa forma, a solu¸ c˜ ao para obter com
+maior precis˜ ao a metalicidade [Fe/H] e, tamb´ em, a abundˆ ancia [Mg/H], que foi escolhida
+para esse trabalho ´ e o m´ etodo de s´ ıntese espectral que ser´ a descrito em seguida.
+2.2 S´ ıntese Espectral
+Quando a quantidade de linhas atˆ omicas ou moleculares se torna elevada em uma
+regi˜ ao do espectro, tornando os perfis de linhas dif´ ıceis de individualizar, os m´ etodos
+anteriormente mencionados apresentam deficiˆ encias. Medir a profundidade de v´ arias
+linhas atˆ omicas conjuntamente se torna desafiador, e para as linhas moleculares, a tarefa ´ e ainda mais complexa. Nessas situa¸ c˜ oes, comuns em estrelas frias, como as an˜ as
+vermelhas, se faz o uso de t´ ecnicas como a s´ ıntese espectral.
+O m´ etodo de s´ ıntese espectral se trata de uma t´ ecnica de an´ alise espectrosc´ opica
+que visa computar a intensidade das intera¸ c˜ oes das linhas atˆ omicas e moleculares de
+um dado intervalo espectral, para ent˜ ao criar um espectro sint´ etico. Ajustar o perfil
+de uma linha atˆ omica ou molecular de um espectro sint´ etico ao perfil de um espectro
+observado (Figura 2.2) pode nos fornecer informa¸ c˜ oes sobre abundˆ ancias atˆ omicas e moleculares, al´ em de outros parˆ ametros atmosf´ ericos, como temperatura efetiva e gravidade
+superficial (Gray, 2008).
+Figura 2.2. Exemplo de s´ ıntese espectral da estrela HD63791, uma gigante K. C´ ırculos cinzas s˜ ao o
+espectro observado da estrela, linha vermelha ´ e o espectro sint´ etico.ˆEnfase na mistura de transi¸ c˜ oes
+atˆ omicas por volta de 4123.8˚A. Retirada de Gray (2008).
+Para isso, usamos softwares que sejam capazes de calcular a intensidade das linhas
+espectrais causadas por transi¸ c˜ oes eletrˆ onicas. No caso dos ´ atomos, apenas transi¸ c˜ oes
+Cap´ ıtulo 2.Metodologia 36
+de n´ ıveis de energia eletrˆ onicos. J´ a no caso das mol´ eculas, essas transi¸ c˜ oes de n´ ıveis de
+energia eletrˆ onicos s˜ ao divididas em subestados causados pela vibra¸ c˜ ao da mol´ ecula, e
+cada um um desses subestados ´ e novamente dividido em mais subestados causados pela
+quantiza¸ c˜ ao da rota¸ c˜ ao da mol´ ecula (Kaler, 1997).
+Al´ em dos softwares, s˜ ao necess´ arios modelos de atmosferas estelares e tamb´ em
+listas de transi¸ c˜ oes atˆ omicas e moleculares. Tudo isso se une para criar um espectro
+sint´ etico que deve se ajustar a um espectro observado para se obter os parˆ ametros
+atmosf´ ericos desejados, no nosso caso, metalicidade [Fe/H] e abundˆ ancia [Mg/H].
+Em seguida, vou descrever os itens necess´ arios para a s´ ıntese espectral: os espectros
+observados, a amostra de estrelas e a determina¸ c˜ ao de seus parˆ ametros atmosf´ ericos, a
+lista de linhas atˆ omicas, o modelos de atmosfera e, por fim, o software de s´ ıntese.
+2.2.1 Espectros Observados
+Os espectros usados nesse trabalho foram observados com o espectr´ ografo coud´ e
+acoplado ao telesc´ opio Perkin-Elmer de 1,60 m do Observat´ orio do Pico dos Dias (OPD),
+localizado em Braz´ opolis, operado pelo Laborat´ orio Nacional de Astrof´ ısica (LNA). Esses
+espectros foram obtidos durantes dois per´ ıodos de tempo, entre 2007 e 2012 e, posteriormente, 2017 e 2018, por Gustavo F. Porto de Mello e diversos colaboradores, e est˜ ao
+descrito em detalhe por Costa-Almeida (2019).
+Os espectros possuem cobertura desde 8300 ˚A at´ e 8900˚
+A, a chamada regi˜ ao do
+infravermelho pr´ oximo, entretanto, s´ o iremos usar nesse trabalho a regi˜ ao entre 8800˚
+A
+at´ e 8830˚
+A, pois possuem as duas principais linhas espectrais para esse trabalho, Fe I
+8806 ˚
+A e Mg I 8824˚
+A. Todos os espectros foram reduzidos, normalizados e postos em
+repouso — aplicando a corre¸ c˜ ao do Desvio Doppler, considerando a velocidade relativa
+das estrelas em rela¸ c˜ ao ` a Terra — e possuem resolu¸ c˜ ao moderada (R ≈ 12000) e S/R
+≳ 100, de acordo com Costa-Almeida (2019).
+Para utiliza¸ c˜ ao dos espectros nos softwares de s´ ıntese, foi necess´ ario convertelos do formato “.fits”para o formato “.txt”ou “.ascii”, essa convers˜ ao foi feita usando
+o software IRAF, na distribui¸ c˜ ao do PyRAF, a partir dos pacotesnoao e onedspec,
+usando o seguinte comando:
+1 wspectext e s p e c t r o e s t e l a r . f i t s e s p e c t r oe s t e l a r . t x t
+Listing 2.1. Comando de convers˜ ao de .fits para .txt no PyRAF
+Cap´ ıtulo 2.Metodologia 37
+2.2.2 Amostra de estrelas
+Ao todo, foram descritos por Costa-Almeida (2019) 178 espectros de an˜ as vermelhas. Entretanto, nem todos os espectros ser˜ ao usados nesse trabalho por motivos
+diversos, tais como: espectros de estrelas muito frias com bandas moleculares rebaixando acentuadamente o cont´ ınuo, espectros com S/R excessivamente baixo, espectros
+com erro de temperatura e/ou metalicidade maior que determinado limite e at´ e a quest˜ ao
+do investimento computacional e de tempo para computar a abundˆ ancia de todas essas
+estrelas.
+Por tais motivos, ficou decidido que a amostra de trabalho seria reduzida de forma
+a levar em conta os principais v´ ınculos para a realiza¸ c˜ ao da s´ ıntese espectral em espectros
+degenerados, sendo eles, temperatura efetiva e metalicidade das estrelas.
+Assim sendo, para considerar o v´ ınculo de temperatura efetiva, procurei em nossa
+amostra de estrelas observadas quais possuem temperaturas interferom´ etricas medidas
+na literatura, a forma mais precisa para obten¸ c˜ ao de temperatura atualmente. Das 178
+estrelas de nossa amostra, 16 possuem temperaturas efetivas medidas interferometricamente (Tabela 2.1).
+ID Teff,Int (K) σTeff,Int (K)
+HIP 439 3616 14
+HIP 21932 3679 77
+HIP 25878 3835 69
+HIP 36208 3253 39
+HIP 57548 3264 24
+HIP 67155 3677 30
+HIP 70890 2901 68
+HD 131977 4507 58
+HIP 74995 3366 28
+HIP 80824 3372 12
+HIP 85523 3409 25
+HIP 87937 3221 32
+HIP 92403 3162 30
+HIP 106440 3512 23
+HIP 113020 3129 19
+HIP 113296 3724 23
+HIP 114046 3692 57
+Tabela 2.1. Estrelas da amostra cujas temperaturas foram obtidas interferometricamente. Dados
+retirados de Rabus et al. (2019) e Boyajian et al. (2012).
+O pr´ oximo v´ ınculo que levamos em considera¸ c˜ ao foi a metalicidade. Entretanto,
+como a forma de medir metalicidade nesse tipo de estrela ´ e muito vari´ avel dependendo
+do m´ etodo, a escolha para vincular a metalicidade foi utilizar sistemas bin´ arios. Por
+natureza, sistemas com duas ou mais estrelas possuem a mesma abundˆ ancia qu´ ımica,
+Cap´ ıtulo 2.Metodologia 38
+j´ a que as estrelas do sistema foram formadas na mesma nuvem primordial. Sendo assim, o m´ etodo ter´ a sua coerˆ encia testada ao obter a mesma abundˆ ancia para as duas
+componentes do sistema bin´ ario, dentro dos erros.
+Portanto, procuramos em nossa amostra por sistemas m´ ultiplos de estrelas que
+estivessem indicados na literatura, atrav´ es do SIMBAD (Wenger et al., 2000). Foram
+encontrados ao todo 11 sistemas bin´ arios. Entretanto, era necess´ ario que essas estrelas
+tivessem um erro de temperatura efetiva menor que 100 K — o valor de 100 K foi
+escolhido devido ao c´ alculo da estimativa do erro, maiores informa¸ c˜ oes no Cap´ ıtulo 3.3.
+Por isso, essa subamostra foi reduzida para 6 estrelas, de 3 sistemas bin´ arios (Tabela
+2.2). A ´ unica estrela com erro de temperatura maior que 100 K que foi mantida foi a
+HIP 31292, somente por ser bin´ aria com a HIP 31293. Logo, ser´ a feita a s´ ıntese espectral
+em 6 estrelas bin´ arias, de 3 sistemas diferentes.
+ID Companheira [Fe/H]PCA σ[Fe/H]PCA Teff,PCA (K) σTeff,PCA (K)
+HIP 31293 HIP 31292 -0.12 0.18 3897 95
+HIP 31292 HIP 31293 -0.36 0.48 3643 180
+HIP 72509 HIP 72511 -0.31 0.19 3798 99
+HIP 72511 HIP 72509 0.16 0.14 3353 66
+HIP 86961 HIP 86963 0.28 0.16 3702 76
+HIP 86963 HIP 86961 0.01 0.15 3642 86
+Tabela 2.2. Sistemas bin´ arios da amostra. Temperatura efetiva e metalicidade obtidas por CostaAlmeida et al. (2021). A temperatura efetiva foi obtida pelo m´ etodo PCA, Principal Components
+Analysis.
+Dessa forma, ser˜ ao obtidas a abundˆ ancias de [Fe/H] e [Mg/H] para uma subamostra de 23 estrelas: 16 destas com foco no v´ ınculo de temperatura efetiva, por terem
+sido medidas interferometricamente, daqui em diante chamadas de estrelasTeff; e 6 com
+v´ ınculo em metalicidade por se tratarem de sistemas bin´ arios, daqui em diante chamadas
+de estrelas bin´ arias.
+2.2.2.1 Perfil instrumental e S/R dos espectros
+Durante cada noite de observa¸ c˜ ao, ´ e necess´ ario realizar uma calibra¸ c˜ ao usando
+lˆ ampadas de Th-Ar (t´ orio-argˆ onio) para que possamos passar o espectro de escalas de
+pixel para uma escala de comprimento de onda, em angstroms. Isso gera um medi¸ c˜ ao
+chamada de perfil instrumental, que ´ e necess´ aria para a s´ ıntese no software escolhido, o
+PyMOOGi, por se tratar de uma medida de alargamento das linhas espectrais. Portanto,
+cada noite de observa¸ c˜ ao possui uma medida pr´ opria de perfil instrumental. Al´ em
+disso, cada espectro possui um S/R (sinal-ru´ ıdo) pr´ oprio, medida que define o qu˜ ao
+bem uma observa¸ c˜ ao, seja espectrosc´ opica ou fotom´ etrica, foi realizada, definido por
+Costa-Almeida (2019), necess´ ario para o c´ alculo posterior doχ2 (Tabelas 2.3 e 2.4)
+Cap´ ıtulo 2.Metodologia 39
+Vale declarar, tamb´ em, que o alargamento devido ao perfil instrumental do espectr´ ografo utilizado ´ e apenas uma das medidas de alargamento que ser˜ ao utilizadas e
+servir´ a como ponto de partida para os testes, j´ a que outros componentes de alargamento
+de linhas tamb´ em devem ser considerados, como velocidade de macroturbulˆ encia e a
+proje¸ c˜ ao da velocidade de rota¸ c˜ ao da estrela. Portanto, a medida final de alargamento
+das linhas espectrais a ser usada no PyMOOGi ser´ a maior que a do perfil instrumental.
+Para obtermos o perfil instrumental, usamos os espectros das lampadas de T´ orioArgˆ onio (Th-Ar), tirados em cada um das noites de observa¸ c˜ ao, atrav´ es do software
+IRAF, na distribui¸ c˜ ao do PyRAF. Obtivemos o perfil medindo em 8 pontos do espectro
+a Largura a meia-altura (FWHM, em inglˆ es) e usando a m´ edia desses valores.
+ID S/R Perfil inst. ( ˚A) σPI (˚
+A)HIP 31293 312 0.94 0.07
+HIP 31292 70 0.78 0.01
+HIP 72509 150 0.93 0.02
+HIP 72511 157 0.92 0.02
+HIP 86961 226 0.94 0.03
+HIP 86963 233 0.83 0.05
+Tabela 2.3. Parˆ ametros da observa¸ c˜ ao dos espectros das estrelas bin´ arias. As colunas s˜ ao, respectivamente: identifica¸ c˜ ao da estrela, sinal-ru´ ıdo, perfil instrumental e o desvio padr˜ ao do perfil instrumental.
+ID S/R Perfil inst. ( ˚A) σPI (˚
+A)HIP 439 170 0.78 0.01
+HIP 21932 130 0.87 0.03
+HIP 25878 595 0.90 0.02
+HIP 36208 210 0.78 0.01
+HIP 57548 190 0.78 0.02
+HIP 67155 190 0.78 0.01
+HIP 70890 190 0.80 0.01
+HD 131977 538 0.89 0.01
+HIP 74995 180 0.78 0.01
+HIP 80824 437 0.92 0.02
+HIP 85523 210 0.78 0.02
+HIP 87937 520 0.92 0.02
+HIP 92403 180 0.78 0.02
+HIP 106440 341 0.94 0.07
+HIP 113020 170 0.83 0.04
+HIP 113296 110 0.83 0.04
+HIP 114046 200 0.78 0.01
+Tabela 2.4. Parˆ ametros da observa¸ c˜ ao dos espectros das estrelasTeff. As colunas s˜ ao, respectivamente:
+identifica¸ c˜ ao da estrela, sinal-ru´ ıdo, perfil instrumental e o desvio padr˜ ao do perfil instrumental.
+Cap´ ıtulo 2.Metodologia 40
+2.2.3 Parˆ ametros Atmosf´ ericos Iniciais
+Ap´ os a sele¸ c˜ ao de 23 estrelas da amostra inicial de 178 an˜ as vermelhas, torna-se
+necess´ ario determinar alguns dos parˆ ametros atmosf´ ericos dessas estrelas. Para construir
+modelos atmosf´ ericos, baseados no grid dos modelos MARCS, ´ e preciso fornecer ao
+software de interpola¸ c˜ ao valores como a temperatura efetiva, a metalicidade, a gravidade
+superficial e a velocidade de microturbulˆ encia.
+2.2.3.1 Temperatura Efetiva ( Teff) e Metalicidade ([Fe/H])
+Para a temperatura efetiva ( Teff), ser˜ ao usadas fontes diferentes para cada subamostra. Para a subamostra referente as estrelas bin´ arias, ser˜ ao usadas ` as temperaturas
+efetivas obtidas por Costa-Almeida et al. (2021) por ´ ındices espectrais (Tabela 2.2). J´ a
+para as estrelasTeff, as temperaturas usadas foram obtidas por Rabus et al. (2019), com
+exce¸ c˜ ao da temperatura da estrela HD 131977, que foi obtida por Boyajian et al. (2012)
+(Tabela 2.1).
+No caso da metalicidade [Fe/H], para toda a subamostra, tanto para as estrelas
+Teff quanto para as bin´ arias, ser˜ ao usadas as metalicidades obtidas por Costa-Almeida
+et al. (2021).
+2.2.3.2 Velocidade de Microturbulˆ encia (Vmicro)
+A “velocidade de microturbulˆ encia” n˜ ao se trata de um parˆ ametro f´ ısico, mas sim
+computacional, que serve para representar movimentos de massa em pequena escala em
+modelos 1D (Gray, 2008) para que os espectros sint´ eticos, principalmente as linhas de
+absor¸ c˜ ao, se encaixem nos espectros observacionais.
+Para esse trabalho, fixamos a microturbulˆ encia em 1 km/s, seguindo o padr˜ ao
+da literatura para as an˜ as vermelhas, pois s˜ ao estrelas com baixa sensibilidade para a
+altera¸ c˜ ao desse parˆ ametro (Souto et al., 2017).
+2.2.3.3 Gravidade Superficial ( log g)
+Para a gravidade superficial, foi necess´ ario criar uma calibra¸ c˜ ao deTeff × log g, ou
+seja, uma regress˜ ao linear, baseada em outros trabalhos da literatura. Para isso, usamos
+os dados de gravidade superficial de an˜ as vermelhas obtidas por Wanderley et al. (2023)
+e Souto et al. (2020).
+Cap´ ıtulo 2.Metodologia 41
+As an˜ as vermelhas de Wanderley et al. (2023) s˜ ao proveniente do aglomerado
+aberto das H´ ıades, e, portanto, possuem a mesma faixa de metalicidade, variando entre
+0.03 dex at´ e 0.19 dex, j´ a que foram formadas a partir do mesmo material primordial.
+Sendo assim, a calibra¸ c˜ ao apenas a partir dessas estrelas poderia esconder algum efeito
+de gravidade superficial referente ` a metalicidade.
+Para resolver isso, comparamos tamb´ em com as an˜ as vermelhas de Souto et al.
+(2020), que s˜ ao provenientes do campo e com uma maior faixa de metalicidade, variando
+entre -0.58 dex e +0.35 dex. Sendo assim, foram feitas duas regress˜ oes lineares, com os
+dados de Wanderley et al. (2023) e Souto et al. (2020) (Figura 2.3).
+3100 3200 3300 3400 3500 3600 3700 3800
+T
+eff
+(K)
+4.6
+4.7
+4.8
+4.9
+5.0
+5.1
+log g
+Anãs M - Híades
+Híades, W anderley 2023 (y=-5.88e-04 *T + 6.91)
+Anãs M - Campo
+Campo, Souto 2020 (y=-6 .49e-04*T + 7.14)
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.16
+0.18
+[F/H] - Híades
+Figura 2.3. Calibra¸ c˜ ao da gravidade superficial (logg). Triˆ angulos s˜ ao an˜ as vermelhas das H´ ıades.
+C´ ırculos vermelhos s˜ ao as an˜ as vermelhas do campo. Linha verde tracejada ´ e a regress˜ ao linear das
+H´ ıades, linha preta tracejada ´ e a regress˜ ao linear das an˜ as vermelhas do campo. Dados retirados de
+Wanderley et al. (2023) e Souto et al. (2020)
+A regress˜ ao linear escolhida para calibrar a gravidade superficial foi a proveniente
+das H´ ıades e ´ e representada pela seguinte equa¸ c˜ ao:
+log g = −5.88 · 10−4 · Teff + 6.91 (2.1)
+A regress˜ ao proveniente das H´ ıades possuiR2 = 0.71. Os erros padr˜ oes da vari´ avel
+angular e da constante s˜ ao, respectivamente,σTeff = 5.5 · 10−5 e σconst = 0.188; e os tvalues respectivos s˜ ao,tTeff = −10.692 e tconst = 36.668. O que demonstra que se trata
+de uma regress˜ ao estatisticamente significativa.
+Cap´ ıtulo 2.Metodologia 42
+J´ a a regress˜ ao proveniente das an˜ as M do campo, tamb´ em ´ e estatisticamente
+significativa, com seus erros padr˜ oes e t-values sendo: σTeff,c = 0 .000122 e σconst,c =
+0.476; tTeff,c = −4.930 e tconst,c = 15.007.
+Portanto, ambas regress˜ oes s˜ ao estatisticamente significativas e podemos declarar
+que n˜ ao h´ a efeito de metalicidade presente na calibra¸ c˜ ao da gravidade superficial. Dito
+isso, escolhemos utilizar a calibra¸ c˜ ao proveniente do aglomerado das H´ ıades por ela
+estar distribu´ ıda em uma maior faixa de temperatura do que as estrelas do campo.
+Podemos, ent˜ ao, adicionar a gravidade superficial na forma de logg na nossa amostra de
+estrelas, al´ em da metalicidade e da temperatura efetivas definidas anteriormente.Para
+isso, calculamos o valor de logg para as estrelas de nosso estudo, a partir dos valores j´ a
+conhecidos de Teff e [Fe/H]. Os valores de log g obtidos s˜ ao dados na tabela 2.5.
+2.2.4 Lista de linhas atˆ omicas e moleculares
+A lista de linhas atˆ omicas e moleculares ´ e um dos itens necess´ arios para se realizar
+uma s´ ıntese espectral. Numa mesma regi˜ ao espectral, muitas transi¸ c˜ oes de n´ ıveis de
+energia de ´ atomos, ´ ıons ou mol´ eculas s˜ ao poss´ ıveis, a depender de alguns parˆ ametros
+da estrela, como a abundˆ ancia da esp´ ecie atˆ omica ou molecular, temperatura efetiva da
+estrela e, em uma menor escala, velocidade de microturbulˆ encia (Gray, 2008).
+Saber a quantidade dessas linhas por conta pr´ opria fazendo c´ alculos de transi¸ c˜ ao
+se transforma em uma tarefa herc´ ulea e desnecess´ aria, visto que outros j´ a fizeram esses
+c´ alculos por n´ os. Podemos acessar os dados calculados para milh˜ oes de linhas atrav´ es
+de base de dados atˆ omicos e moleculares. Podemos obter essas listas de linhas atrav´ es
+de algumas fontes como: VALD1 (a base de dados de linhas atˆ omicas de Vienna, em
+inglˆ es), NIST2 e do projeto APOGEE (Smith et al., 2021).
+A lista de linhas que ser´ a utilizada nesse trabalho foi compilada por n´ os atrav´ es
+do VALD. Para isso, selecionamos todas as linhas de 8800 ˚A at´ e 8830˚
+A, na configura¸ c˜ ao
+padr˜ ao, unidade de comprimento de onda em angstrons, unidade de energia em eV e com
+o alargamento de Van der Walls incluso. O formato inicial da lista de linhas extra´ ıda
+VALD ´ e da seguinte forma:
+1http://vald.astro.uu.se/
+2https://www.nist.gov/pml/basic-atomic-spectroscopic-data-handbook
+Cap´ ıtulo 2.Metodologia 43
+1 Lande f a c t o r s Damping parameters
+2 Elm Ion WL air (A) log gf * E low (eV) J l o E up (eV) J up lower upper mean Rad . Stark Waals
+3 ' Sc 2 ' , 8800.00504 , −4.914 , 9.3472 , 4.0 , 10.7558 , 3.0 , 1.080 , 1.330 , 0.710 , 8.720 , −4.600 , −7.290 ,
+4 ' LS 3p6 .3 d .4 f 3G * '
+5 ' LS 3p6 .3 d .7 s 3D'
+6 ' Kurucz S c I I 2009 1 wl : K09 1 gf : K09 1 K09 1 K09 1 K09 1 K09 1 K09 1 K09 1 K09 Sc+ '
+Listing 2.2. Lista de linhas extra´ ıda do VALD
+Acima est´ a um exemplo de uma linha espectral de uma esp´ ecie atˆ omica, no caso,
+o escˆ andio uma vez ionizado, com seus respectivos fatores, valores e referˆ encias. A lista
+inicial, n˜ ao tratada, inclui 769 esp´ ecies atˆ omicas. Ap´ os obtˆ e-la, realizamos uma edi¸ c˜ ao
+considerando os seguintes crit´ erios
+• Corte de todos as esp´ ecies atˆ omicas com est´ agio de ioniza¸ c˜ ao≥ 3, ou seja, a partir
+das esp´ ecies 2 vezes ionizadas;
+• Corte de todas as esp´ ecies atˆ omicas com energia de excita¸ c˜ ao do n´ ıvel inferior
+(E
+low) ≥ 11.7 eV;
+• Corte de todas as esp´ ecies atˆ omicas com log gf< −12;
+• Espa¸ camento e formata¸ c˜ ao baseados no software de s´ ıntese PyMOOGi.
+As esp´ ecies bi-ionizadas foram exclu´ ıdas devido ` a dificuldade de trabalho com
+essas linhas no MOOG e ` as popula¸ c˜ oes muito baixas ou desprez´ ıveis associadas aos
+modelos de atmosferas envolvidos neste trabalho. Da mesma forma, os cortes relativos
+` a energia de excita¸ c˜ ao e ao log gf visaram eliminar esp´ ecies atˆ omicas com contribui¸ c˜ oes
+desprez´ ıveis, al´ em de reduzir a lista para menos de 500 esp´ ecies, um requisito essencial
+para o funcionamento do MOOG.
+Com esses cortes e edi¸ c˜ oes, a lista de linhas atˆ omicas ficou com as colunas divididas
+da seguinte forma: o comprimento de onda da transi¸ c˜ ao, o n´ umero atˆ omico do elemento
+seguido do est´ agio de ioniza¸ c˜ ao, o potencial de excita¸ c˜ ao do n´ ıvel inferior, o log gf —
+que se trata do logaritmo do peso estat´ ıstico da transi¸ c˜ ao (g) multiplicado pela for¸ ca do
+oscilador (f) — e, por fim, um coeficiente associado ao alargamento de Van der Waals,
+por ser o mais presente em estrelas frias. A lista final tem 496 transi¸ c˜ oes atˆ omicas e
+ficou da seguinte forma:
+Cap´ ıtulo 2.Metodologia 44
+1 #Lambda / N Atomico . n i v e l i o n / E low (eV) / log gf * / Waals
+2 8800.418 22.0 4.656 −3.425 −7.400
+3 8800.475 26.0 5.879 −5.194 −7.430
+4 8800.501 23.0 4.269 −5.207 −7.300
+5 8800.588 39.0 0.000 −2.163 −7.740
+6 8800.808 24.0 4.533 −5.922 −7.610
+7 8800.944 26.0 5.883 −4.294 −7.350
+8 8800.967 26.0 5.972 −2.869 −7.320
+9 8800.981 23.0 1.870 −4.714 −7.750
+10 8801.017 24.0 5.210 −4.671 −7.530
+Listing 2.3. Lista de linhas personalizada para a s´ ıntese espectral em an˜ as vermelhas
+2.2.5 Modelos de Atmosferas Estelares
+Modelos de atmosferas, ou modelos de fotosferas estelares, s˜ ao modelos num´ ericos
+que visam gerar um espectro te´ orico. No caso desse trabalho, o espectro te´ orico ´ e necess´ ario para que possamos comparar com o espectro observado e fazer assun¸ c˜ oes acerca
+dos parˆ ametros atmosf´ ericos das estrelas. De forma geral, os modelos de atmosferas estelares se dividem nas seguintes categorias: 1D (uma dimens˜ ao) ou 3D (trˆ es dimens˜ oes),
+LTE (equl´ ıbrio termodinˆ amico local, do inglˆ eslocal termodinamic equilibrium) ou NLTE
+(sem equil´ ıbrio termodinˆ amico local, do inglˆ esnon-local termodinamic equilibrium). Essas categorias de modelos n˜ ao s˜ ao excludentes, podemos ter modelos 1D LTE e 1D
+NLTE; ou 3D LTE e 3D NLTE.
+Os modelos 1D s˜ ao mais simples e requerem significativamente menos poder computacional do que os modelos 3D, mas continuam proporcionando resultados robustos o
+suficiente para que ainda sejam amplamente utilizados na gera¸ c˜ ao de espectros sint´ eticos.
+Em particular, para estrelas frias com propriedades convectivas acentuadas e alta granula¸ c˜ ao superficial, os modelos 3D apresentam seus trunfos (ver grades de modelos 3D
+para an˜ as M em Trampedach et al. 2013). No entanto, sua implementa¸ c˜ ao ´ e desafiadora,
+pois exige n˜ ao apenas uma capacidade computacional muito maior, mas tamb´ em o desenvolvimento de ferramentas espec´ ıficas para simular essas condi¸ c˜ oes. Por tais motivos,
+os modelos 1D permanecem como a forma predominante de abordar atmosferas estelares
+atualmente.
+De forma an´ aloga aos modelos 1D e 3D, os modelos LTE e NLTE, possuem suas
+particularidades. Os modelos LTE requerem menos poder computacional e s˜ ao mais
+facilmente implementados que os modelos NLTE. Entretanto, em situa¸ c˜ oes como de atmosferas altamente convectivas de estrelas frias ou em atmosferas de estrelas gigantes,
+Cap´ ıtulo 2.Metodologia 45
+o LTE acaba sendo menos preciso na gera¸ c˜ ao de modelos que os modelos NLTE. Entretanto, estudos de perfis de linhas em estrelas frias, mostram que para algumas esp´ ecies
+individualizadas, n˜ ao h´ a tanta diferen¸ ca entre os modelos (e.g., Hauschildt et al. 1996,
+1997). De forma geral, a simplicidade e a viabilidade pr´ atica do LTE fazem com que ele
+continue sendo a escolha mais utilizada atualmente.
+Esse trabalho ´ e feito utilizando modelos de uma dimens˜ ao e que respeitam o
+equil´ ıbrio termodinˆ amico local, e, portanto, s˜ ao 1D LTE. Para esse tipo de modelo,
+temos que come¸ car com algumas suposi¸ c˜ oes b´ asicas acerca dele, como dito em Gray
+(2008)[Cap´ ıtulo 9], tais quais:
+• Geometria Plano-paralela: as camadas da atmosfera s˜ ao tratadas como se fossem
+planas e paralelas uma com as outras, sem efeitos de curvatura; e todas as grandezas f´ ısicas, tais quais temperatura, press˜ ao eletrˆ onica, press˜ ao do g´ as, entre outras,
+dependem apenas da profundidade na atmosfera da estrela;
+• Equil´ ıbrio hidrost´ atico, ou seja, a fotosfera ´ e est´ avel, sem grandes acelera¸ c˜ oes de
+massas de g´ as ou perdas de massa estelar na fotosfera;
+• Grˆ anulos, manchas estelares ou campos magn´ eticos, n˜ ao afetam o suficiente a
+fotosfera a ponto de n˜ ao podermos utilizar os valores m´ edios das grandezas da
+estrela.
+Com essas suposi¸ c˜ oes, podemos gerar modelos de atmosferas. Nesse trabalho,
+n˜ ao ser˜ ao demonstradas as equa¸ c˜ oes necess´ arias para o c´ alculo de um modelo, j´ a que o
+objetivo principal ´ e sua aplica¸ c˜ ao para s´ ıntese espectral, mais detalhes podem ser vistos
+em Gray (2008)[Cap´ ıtulo 9].
+De forma geral, embora varie dependendo do grupo que crie o modelo, um modelo
+de atmosferas estelares consiste em um arquivo (.txt, .ascii ou .csv, por exemplo), com
+as grandezas temperatura, press˜ ao eletrˆ onica, press˜ ao do g´ as e coeficiente de absor¸ c˜ ao,
+em fun¸ c˜ ao da profundidade ´ optica (τ0) ou geom´ etrica, divididas em colunas. O que
+varia de um modelo para o outro s˜ ao os parˆ ametros atmosf´ ericos considerados na hora
+do seu c´ alculo, sendo eles: a temperatura efetiva (Teff), gravidade superficial (log g) e
+metalicidade ([Fe/H]). Esses parˆ ametros afetam de forma principal mas n˜ ao limitante,
+respectivamente, a temperatura; a press˜ ao eletrˆ onica e do g´ as; e a metalicidade do
+modelo, que afeta a presen¸ ca de linhas de absor¸ c˜ ao e o cont´ ınuo espectral.
+O c´ alculo de modelos de atmosferas tende a ser muito desafiador e complexo
+computacionalmente se o objetivo for calcular um modelo personalizado para cada estrela
+de uma amostra, ainda mais levando em considera¸ c˜ ao a quantidade de estrelas novas
+Cap´ ıtulo 2.Metodologia 46
+que s˜ ao descobertas diariamente por levantamentos. Por esse motivo, grupos de pesquisa
+criam grids ou grades de modelos em que se variam as faixas de parˆ ametros atmosf´ ericos.
+Por exemplo, um modelo que possui temperatura de 3500 K, metalicidade 0.1 dex e logg
+= 4.7 e outro que possui 3600 K, 0.2 dex de metalicidade e log g = 4.8. Esses modelos
+podem ser posteriormente interpolados para reproduzirem os parˆ ametros atmosf´ ericos
+de sua amostra de estrelas.
+Atualmente existem diversas grades de atmosferas estelares na literatura, tais
+quais: Kurukz (Kurucz, 1979), MARCS (Gustafsson et al., 2008), Phoenix (Husser et al.,
+2013). Desses modelos, poucos se aventuram nas faixas de parˆ ametros das estrelas an˜ as
+vermelhas. A grade de modelos escolhido para esse trabalho foi o de modelos MARCS
+(Gustafsson et al., 2008), que abrange completamente os parˆ ametros atmosf´ ericos da
+nossa amostra de estrelas.
+2.2.5.1 Interpola¸ c˜ ao de Modelos MARCS
+Para realizar a interpola¸ c˜ ao dos modelos MARCS, utilizamos nesse trabalho o
+software Bacchus3 (Masseron et al., 2016), que tamb´ em faz an´ alise espectrosc´ opica 1D
+LTE para estrelas de tipo tardio.
+Esse software usa o pr´ oprio c´ odigo de interpola¸ c˜ ao fornecido pelos modelos MARCS4,
+baseado em FORTRAN. A escolha do uso dessa rotina de interpola¸ c˜ ao dentro do Bacchus
+se deu devido ` a facilidade de realiz´ a-la, j´ a que dentro do arquivo do programa havia a
+grade de modelos com os parˆ ametros necess´ arios para nossa amostra, sem a necessidade
+de baix´ a-los e aplic´ a-los por fora.
+Para fazer a interpola¸ c˜ ao temos que acessar o arquivostellar_parameters.tab
+dentro da pasta do Bacchus. Nele, temos os seguintes dados escritos:
+1 #starname o b s f i l e T e f f logg [ Fe /H] microt convol rv
+2 Sun examples / Sun−rv . asc 5777 4.44 0.00 1.1 −4 0
+3 Arcturus examples / Arcturus −rv . asc 4286 1.66 −0.52 1.71 −4 0
+Listing 2.4. Arquivo stellar parameters.tab de exemplo
+Na primeira coluna, temos o nome da estrela e na segunda o local que est´ a seu
+espectro observado. Nas outras, temos os parˆ ametros atmosf´ ericos para aplicar a interpola¸ c˜ ao dos modelos, sendo eles temperatura efetiva (Teff), gravidade superficial (logg),
+3http://www.astro.ulb.ac.be/pmwiki/Spectro/Bacchus
+4https://marcs.astro.uu.se/software.php
+Cap´ ıtulo 2.Metodologia 47
+metalicidade ([Fe/H]) e microturbulˆ encia (microt); convol e rv n˜ ao servem para a interpola¸ c˜ ao de modelos.
+Nesse caso, as estrelas de exemplo do programa s˜ ao o Sol e Arcturus. Para fazer
+a interpola¸ c˜ ao dos modelos como queremos, devemos usar os parˆ ametros atmosf´ ericos
+iniciais declarados na Se¸ c˜ ao 2.2.3 (Tabelas 2.5 e 2.6).
+ID [Fe/H] - PCA Teff,Int (K) log g
+HIP 439 0.27 3616 4.78
+HIP 21932 -0.19 3679 4.75
+HIP 25878 0.54 3835 4.65
+HIP 36208 -0.05 3253 5.00
+HIP 57548 -0.07 3264 4.99
+HIP 67155 -0.30 3677 4.75
+HIP 70890 -0.01 2901 5.20
+HD 131977 0.24 4507 4.26
+HIP 74995 -0.31 3366 4.93
+HIP 80824 -0.25 3372 4.93
+HIP 85523 0.17 3409 4.91
+HIP 87937 -0.36 3221 5.02
+HIP 92403 -0.17 3162 5.05
+HIP 106440 0.23 3512 4.84
+HIP 113020 0.22 3129 5.07
+HIP 113296 -0.03 3724 4.72
+HIP 114046 -0.05 3692 4.74
+Tabela 2.5. Parˆ ametros atmosf´ ericos iniciais das estrelasTeff.
+ID [Fe/H] - PCA Teff,PCA (K) log g
+HIP 31293 -0.12 3897 4.62
+HIP 31292 -0.36 3643 4.77
+HIP 72509 -0.31 3798 4.68
+HIP 72511 0.16 3353 4.94
+HIP 86961 0.28 3702 4.73
+HIP 86963 0.01 3642 4.77
+Tabela 2.6. Parˆ ametros atmosf´ ericos iniciais das estrelas bin´ arias.
+Para gerar um modelo interpolado, temos que escrever outra linha no arquivo. A
+estrela HIP439 ´ e a primeira estrela de nossa amostra de estrelas Teff, vamos us´ a-la de
+exemplo. Para realizar a interpola¸ c˜ ao do modelo que melhor represente os parˆ ametros
+de HIP439, escrevemos os parˆ ametros atmosf´ ericos mencionados, sendo eles:Teff, log g,
+[Fe/H] e velocidade de microturbulˆ encia.
+Cap´ ıtulo 2.Metodologia 48
+1 #starname o b s f i l e T e f f logg [ Fe /H] microt convol rv
+2 Sun examples / Sun−rv . asc 5777 4.44 0.00 1.1 −4 0
+3 Arcturus examples / Arcturus −rv . asc 4286 1.66 −0.52 1.71 −4 0
+4 HIP439 examples / hip439 . asc 3616 4.78 0.27 1.0 −4 0
+Listing 2.5. Arquivo stellar parameters.tab adicionado de outra estrela para interpola¸ c˜ ao
+Ap´ os escrever no arquivo os parˆ ametros para a interpola¸ c˜ ao, devemos ir atrav´ es
+do terminal para a pasta do Bacchus e utilizar o seguinte comando:
+1 tcsh load parameters . com HIP439
+Listing 2.6. Comando para a interpola¸ c˜ ao
+Que ter´ a a seguinte sa´ ıda:
+1 create d i r e c t o r y HIP439
+2 observed spectrum i s : examples / hip439 . asc
+3 parameters w i l l be read from s t e l l a r p a r a m e t e r s . tab
+4 create d i r e c t o r y HIP439 / models
+5 s t e l l a r parameters selected ( Teff , logg , [ Fe /H] , microturb ) : 3616 4.78 0.27 1.00
+6 create now s t e l l a r parameter f i l e s f o r HIP439
+7 HIP439 / HIP439 . par
+Listing 2.7. Sa´ ıda da interpola¸ c˜ ao
+Ap´ os isso, o Bacchus gera uma pasta com o nome da estrela. Dentro dessa pasta,
+temos o modelo interpolado, que ´ e nomeado da seguinte forma:3616g4.78z0.27_HIP439.int,
+ou seja, temperatura, seguido pela gravidade superficial e pela metalicidade, mais o nome
+da estrela. Na mesma pasta, temos um gr´ afico para avaliar visualmente a interpola¸ c˜ ao
+e um arquivo de texto chamadoHIP439.par, com algumas defini¸ c˜ oes para o posterior
+uso das outras fun¸ c˜ oes do Bacchus. O modelo interpolado tem o seguinte formato:
+1 WEB2MARC
+2 INTERPOL−ppl , T e f f = 3616.0 K log g = 4.78 dex [M/H] = 0.27
+3 NTAU 56
+4 5000.0
+5 1 −5.4855 2692.47 −2.7678 2.4946 0.544906E−02
+6 2 −5.3574 2705.93 −2.7061 2.5551 0.625786E−02
+7 3 −5.2290 2719.67 −2.6408 2.6200 0.725893E−02
+8 4 −5.1009 2733.12 −2.5732 2.6882 0.848923E−02
+9 5 −4.9739 2745.74 −2.5044 2.7588 0.998580E−02
+Listing 2.8. Resultado da interpola¸ c˜ ao
+Vale declarar que o software de interpola¸ c˜ ao do Bacchus n˜ ao fornecia como sa´ ıda
+o modelo dessa forma automaticamente. Sendo assim, como diz na primeira palavra no
+Cap´ ıtulo 2.Metodologia 49
+arquivo, esse modelo se trata de um modelo WEB2MARC, interpolado em geometria
+plano-paralela (INTERPOL-ppl), com temperatura, gravidade superficial e metalicidade
+declaradas na segunda linha. O valor de 5000 representa o comprimento de onda de
+referˆ encia em angstrom. O NTAU com valor de 56 representa o n´ umero de camadas.
+As colunas s˜ ao, na ordem: n´ umero da camada da atmosfera (k), o logaritmo da
+profundidade ´ optica no comprimento de onda de referˆ encia (log(τ5000)), temperatura
+(T), logaritmo da press˜ ao eletrˆ onica (log(P e)), logaritmo da press˜ ao do g´ as (log(P g)) e
+a densidade colunar ( rhox).
+2.2.6 Softwares de S´ ıntese
+Existem muitos softwares na literatura, uns mais simples e outros mais complexos,
+que podem realizar s´ ıntese espectral, em modelos 3D e NLTE ou n˜ ao. Alguns exemplos de softwares existentes s˜ ao: MOOG (Sneden, 1973), Turbospectrum (Plez, 2012),
+BACCHUS (Masseron et al., 2016), SME (Valenti & Piskunov, 1996) e ISPEC (BlancoCuaresma, 2019). Cada um desses softwares tem suas particularidades, benef´ ıcios e
+desafios.
+No caso desse trabalho, como mencionado em alguns dos cap´ ıtulos anteriores,
+vamos usar como software de s´ ıntese o MOOG (Sneden, 1973), atrav´ es da distribui¸ c˜ ao
+open-sourcePyMOOGi (Adamow, 2017), criado por Monika Adamow 5. De fato, o
+MOOG se trata de um c´ odigo que realiza uma variedade de tarefas de an´ alise de linhas
+em LTE e s´ ıntese espectral, sendo tipicamente usado para determina¸ c˜ ao da composi¸ c˜ ao
+qu´ ımica de uma estrela (Sneden, 1973), no nosso caso [Fe/H] e [Mg/H], usando como
+base as abundˆ ancias atˆ omicas do artigo de Asplund et al. (2009).
+A escolha desse software se sucedeu devido ao seu uso em trabalhos anteriores do
+grupo, al´ em de ser relativamente simples de se utilizar. A escolha pelo uso da distribui¸ c˜ ao PyMOOGi ocorreu pois para utilizar o MOOG em sua totalidade ´ e necess´ ario
+um software de interface gr´ afica chamado Supermongo, o qual n˜ ao possu´ ımos direitos.
+Enquanto o PyMOOGi ´ e baseado em Python e utiliza a biblioteca matplotlib, que possui
+distribui¸ c˜ ao gratuita.
+Com tudo que precisamos para realizar uma s´ ıntese espectral enfim definido, vamos gerar espectros sint´ eticos. Esses espectros ser˜ ao utilizados como base para comparar
+com os dados observacionais previamente reduzidos e normalizados, permitindo a determina¸ c˜ ao de [Fe/H] e [Mg/H]. Na pr´ oxima se¸ c˜ ao, detalharemos o processo de cria¸ c˜ ao de
+5https://github.com/madamow/pymoogi
+Cap´ ıtulo 2.Metodologia 50
+espectros sint´ eticos, a compara¸ c˜ ao entre os espectros sint´ eticos e os observados, abordando os crit´ erios adotados para ajuste.
+2.3 Produzindo espectros sint´ eticos com o PyMOOGi
+Possuindo todos os arquivos necess´ arios para rodar o PyMOOGi e iniciar a s´ ıntese,
+precisamos, ent˜ ao, configurar a s´ ıntese atrav´ es do arquivo.par. Esse arquivo ´ e o que
+ter´ a a configura¸ c˜ ao acerca de quais elementos iremos alterar as abundˆ ancias, quantas
+s´ ınteses ser˜ ao feitas em cada rodada do c´ odigo, o intervalo da s´ ıntese, entre outros, que
+ser˜ ao descritos abaixo.
+2.3.1 Arquivo synth.par
+Aqui mostraremos o exemplo de um synth_fe.par, para a s´ ıntese da transi¸ c˜ ao
+do ferro para a estrela Teff HIP 439.
+1 synth
+2 standard out ' o ut 1 f e '
+3 summary out ' o ut 2 f e '
+4 smoothed out ' ou t3 f e '
+5 model in ' 3616g4.78 z0 .27 HIP439 . i n t '
+6 l i n e s i n ' Linhas mdwarf VALD . t x t '
+7 observed in ' hip439 M48 n3 8650 hot norm . t x t '
+8 atmosphere 1
+9 l i n e s 1
+10 molecules 2
+11 f l u x / i n t 0
+12 damping 1
+13 p l o t 2
+14 abundances 1 3
+15 26 −0.75 −0.55 −0.35
+16 s y n l i m i t s
+17 8821.0 8828.0 0.05 1.00
+18 p l o t p a r s 1
+19 8821.0 8828.0 0.62 1.05
+20 3.5 0.000 0.000 1.04
+21 g 0.86 0.0 0.0 0.0 0.0
+22 obspectrum 5
+Listing 2.9. Arquivo synth.par
+Na primeira linha do arquivo, escrevemos a palavra “synth”, isso ir´ a indicar o
+driver do PyMOOGi com o qual iremos realizar o processo de s´ ıntese (vale lembrar que
+o PyMOOGi tamb´ em possui as outras atribui¸ c˜ oes do MOOG, tal qual medir larguras
+equivalentes com abfind, por exemplo).
+As pr´ oximas trˆ es linhas “standard
+out”, “summary out”e “smoothed out”, s˜ ao referentes aos arquivos de sa´ ıda do PyMOOGi, desses arquivos, apenas o “smoothedout”´ e
+necess´ ario para avaliar a s´ ıntese, pois ´ e a partir dele que saem os espectros sint´ eticos
+Cap´ ıtulo 2.Metodologia 51
+calculados pelo MOOG. Os nomes de arquivos escritos ap´ os essas 3 linhas s˜ ao os que
+ser˜ ao gerados pelo PyMOOOGi, nesse caso, “out1 fe”, “out2 fe”e “out3 fe”, sendo o
+“out3 fe”o que possui os espectros sint´ eticos.
+As trˆ es linhas seguintes de entradas s˜ ao “modelin”, “lines in”e “observed in”,
+nelas est˜ ao os arquivos de entradas referentes ao modelo gerado pelo BACCHUS, a lista
+de linhas extra´ ıda e compilada do VALD e o espectro observado, respectivamente.
+As cinco pr´ oximas linhas s˜ ao configura¸ c˜ oes do PyMOOGi (podem ser vistas com
+mais detalhes no manual do MOOG 6), mas de forma geral: “atmosphere”, controla a
+forma que o modelo de atmosferas ´ e mostrado no arquivo de sa´ ıda; “lines”, controla
+a sa´ ıda dos dados de linhas; “molecules”, controla os c´ alculos de equil´ ıbrio molecular;
+“flux/int”, especifica se usaremos o fluxo integrado ou a intensidade central nos c´ alculos;
+“damping”, define os parˆ ametros de amortecimento de Van der Waals na linha; “plot”,
+define se ser˜ ao plotados os espectros sint´ eticos e/ou o observado.
+As pr´ oximas duas linhas definem especificamente os parˆ ametros da s´ ıntese. A
+linha “abundance” deve ser seguida por dois n´ umeros: o primeiro se refere ` a quantidade
+de elementos atˆ omicos cujas abundˆ ancias ser˜ ao variadas, e o segundo indica quantas
+s´ ınteses ser˜ ao realizadas; no caso abaixo, 1 e 3, respectivamente. Assim, ser˜ ao realizadas
+trˆ es s´ ınteses diferentes para apenas um ´ unico elemento. A linha seguinte define a s´ ıntese
+em si: o primeiro n´ umero corresponde ao n´ umero atˆ omico do elemento — nesse caso,
+o n´ umero atˆ omico 26, representando o ferro — enquanto os demais n´ umeros indicam
+as abundˆ ancias com as quais a s´ ıntese ser´ a feita, variando em torno do valor absoluto
+calculado ap´ os a inser¸ c˜ ao dos modelos de atmosferas. Nesse exemplo, como o modelo
+indicado possui [Fe/H] = +0.27, o valor de s´ ıntese do ferro ´ e determinado somando esse
+valor de metalicidade ao valor absoluto de abundˆ ancia solar do ferro, 7.50 (Asplund et al.,
+2009). Assim, os valores ser˜ ao centrados em A(Fe) = 7.77, com varia¸ c˜ oes especificadas
+pela linha.
+A linha “synlimits”, juntamente com a linha seguinte, define os limites da s´ ıntese
+espectral. Neste caso, ela abrange o intervalo de 8821 ˚A ` a 8828˚
+A, com passos de 0.05˚
+A
+e um intervalo adicional de 1 ˚
+A para considera¸ c˜ oes de opacidade das transi¸ c˜ oes vizinhas.
+A linha “plotpars”, juntamente com as trˆ es linhas subsequentes, define os parˆ ametros
+para ajustes da janela gr´ afica e para o alinhamento do espectro observado ao espectro
+sint´ etico. A primeira linha especifica o intervalo da janela espectral em comprimento de
+onda, de 8821˚A a 8828 ˚
+A, e o intervalo de fluxo a ser exibido, de 0.62 a 1.05. A segunda
+linha corresponde ` a um deslocamento de velocidade, que deve ser ajustado para alinhar
+o comprimento de onda observado ao sint´ etico (neste caso, 3.5 km/s). Ela tamb´ em inclui
+6https://www.as.utexas.edu/ chris/codes/WRITEnov2019.pdf
+Cap´ ıtulo 2.Metodologia 52
+dois parˆ ametros adicionais para ajustes de comprimento de onda e fluxo, que n˜ ao est˜ ao
+sendo utilizados neste trabalho, e, por fim, um valor multiplicador do espectro observado
+para ajustar o cont´ ınuo, aqui definido como 1.04, por melhor se adequar ao cont´ ınuo do
+espectro.
+A terceira linha apresenta os parˆ ametros de alargamento. Para nossos espectros,
+consideramos apenas alargamentos gaussianos, pois o perfil instrumental, que domina o
+alargamento, ´ e gaussiano; portanto, utilizamos a letra “g”, seguida do respectivo valor
+do alargamento em angstroms, que neste caso ´ e 0.86. Os demais valores, que n˜ ao s˜ ao
+relevantes para este trabalho, foram definidos como zero.
+Por fim, a ´ ultima linha, identificada como “obspectrum”, define o tipo de arquivo
+do espectro observado. O n´ umero 5 indica que o arquivo est´ a no formato ASCII (.txt).
+2.3.2 Gerando espectros sint´ eticos
+Com o arquivo synth.par configurado, resta apenas executar o PyMOOGi por
+linha de comando:
+1 pymoogi synth . par
+Listing 2.10. Executando o arquivo synth.par
+Ao executar o arquivo synth.par, o PyMOOGi gera a seguinte sa´ ıda no terminal,
+apresentando comandos interativos capazes de alterar aspectos dos espectros sint´ eticos,
+do observado e da janela de plotagem gr´ afica (Figura 2.4).
+Figura 2.4. Terminal de s´ ıntese do PyMOOGi
+Cap´ ıtulo 2.Metodologia 53
+Simultaneamente, ´ e aberta uma janela gr´ afica contendo as s´ ınteses espectrais configuradas. Essa janela exibe os espectros observado e sint´ eticos, juntamente com a
+abundˆ ancia absoluta dos espectros gerados, o nome dos arquivos utilizados na configura¸ c˜ ao e o valor de alargamento gaussiano aplicado (Figura 2.5).
+Figura 2.5. Janela gr´ afica das s´ ınteses espectrais do PyMOOGi. Em hex´ agonos vermelhos o espectro
+observado da estrela HIP 439. Em azul, laranja e verde, os espectros sint´ eticos criados pelo PyMOOGi.
+No canto inferior esquerdo as abundˆ ancias absolutas das s´ ınteses, levando em considera¸ c˜ ao os modelos
+de atmosferas; no canto direito, os arquivos e o alargamento da s´ ıntese.
+Na Figura 2.5, observa-se que o espectro sint´ etico que melhor se ajusta ao observado ´ e o de cor laranja, espectro sint´ etico central, associado ` a abundˆ ancia de ferro
+A(Fe) = 7.22. No entanto, essa verifica¸ c˜ ao n˜ ao ´ e exclusivamente visual. O PyMOOGi
+permite avaliar os res´ ıduos — desvio padr˜ ao das diferen¸ cas entre o espectro observado
+e o sint´ etico — para determinar a melhor s´ ıntese de forma quantitativa (Figura 2.6).
+Figura 2.6. Janela gr´ afica das s´ ınteses espectrais do PyMOOGi da estrela HIP 439, no gr´ afico superior.
+No gr´ afico inferior, res´ ıduos do espectro sint´ etico em rela¸ c˜ ao ao observado. Valor no canto inferior
+esquerdo se refere ao desvio padr˜ ao entre o sint´ etico e o observado. Quanto menor o desvio padr˜ ao,
+melhor a s´ ıntese.
+Cap´ ıtulo 2.Metodologia 54
+Na Figura 2.6, o gr´ afico superior apresenta as s´ ınteses espectrais, enquanto o
+gr´ afico inferior exibe os res´ ıduos entre os espectros sint´ eticos e observado. O valor no
+canto inferior esquerdo corresponde ao desvio padr˜ ao, que serve como crit´ erio preliminar de ajuste: quanto menor o desvio, melhor a s´ ıntese. Para alcan¸ car o menor
+desvio padr˜ ao, deve-se ajustar manualmente os parˆ ametros descritos abaixo no arquivo
+synth.par.
+Inicialmente, definimos valores de metalicidade baseados em Costa-Almeida et al.
+(2021), realizando trˆ es s´ ınteses com abundˆ ancias variando ao redor desses valores. Em
+seguida, ajustamos o deslocamento de velocidade e o fator multiplicativo do cont´ ınuo,
+selecionando os valores que minimizam o desvio padr˜ ao. Com a velocidade radial e o
+fator multiplicativo do cont´ ınuo fixados, passamos a ajustar as abundˆ ancias do elemento
+de interesse (seja Fe ou Mg) juntamente com o alargamento. A abundˆ ancia que retorna
+o menor desvio padr˜ ao ´ e selecionada como o valor central no arquivosynth.par.
+A partir desses valores, utilizamos um c´ odigo para determinar a melhor s´ ıntese
+com base no χ2 calculado entre o espectro sint´ etico e o observado (mais detalhes no
+Cap´ ıtulo 3.2). Caso a abundˆ ancia correspondente ao menor χ2 n˜ ao seja encontrada,
+repetimos o processo at´ e minimiz´ a-lo. Por fim, realizamos varia¸ c˜ oes nas s´ ınteses para
+melhor avalia¸ c˜ ao visual no gr´ afico. Assim, ´ e determinado o valor ´ otimo da abundˆ ancia
+para o elemento na s´ ıntese espectral.
+Cap´ ıtulo 3
+Resultados e Discuss˜ oes
+Se as coisas s˜ ao inating´ ıveis... ora!
+N˜ ao ´ e motivo para n˜ ao querˆ e-las...
+Que tristes os caminhos, se n˜ ao fora
+A presen¸ ca distante das estrelas!
+Mario Quintana
+Neste cap´ ıtulo, apresentamos os resultados da s´ ıntese espectral para as abundˆ ancias
+de [Fe/H] e [Mg/H] da amostra selecionada tanto das estrelas bin´ arias quanto das estrelas Teff, detalhando o m´ etodo empregado para a determina¸ c˜ ao das incertezas associadas.
+Discutimos tamb´ em os perfis de ajuste das s´ ınteses espectrais, com uma an´ alise dos
+valores deχ2 quadrado, que avaliam a qualidade dos ajustes realizados.
+3.1 Abundˆ ancias atˆ omicas de ferro e magn´ esio
+Ap´ os a realiza¸ c˜ ao das s´ ınteses espectrais para as duas subamostras, conforme descrito no Cap´ ıtulo 2, obtivemos os seguintes resultados: as abundˆ ancias determinadas
+para as estrelas bin´ arias est˜ ao apresentadas na Tabela 3.1 e para as estrelasTeff na Tabela 3.2. Cada tabela inclui colunas com a identifica¸ c˜ ao das estrelas, as abundˆ ancias
+de [Fe/H] e [Mg/H], seus respectivos erros, e os valores deχ2 dos ajustes. Nas se¸ c˜ oes
+seguintes, os erros e os crit´ erios de ajuste ser˜ ao discutidos detalhadamente.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 56
+ID [Fe/H] σ[Fe/H] χ2
+Fe [Mg/H] σ[Mg/H] χ2
+Mg
+(dex) (dex) (dex) (dex)
+HIP 31293 -0.19 0.07 22.95 -0.20 0.33 13.09
+HIP 31292 -0.31 0.04 2.40 -0.26 0.09 2.80
+HIP 72509 -0.56 0.05 12.07 -0.29 0.11 20.33
+HIP 72511 0.21 0.03 7.86 0.56 0.11 12.77
+HIP 86961 0.16 0.06 9.88 0.09 0.12 7.99
+HIP 86963 0.04 0.04 13.55 0.01 0.11 12.71
+Tabela 3.1. Abundˆ ancias de ferro e magn´ esio, seus respectivos erros e os ajustes de Qui Quadrado
+para as estrelas bin´ arias.
+ID [Fe/H] σ[Fe/H] χ2
+Fe
+[Mg/H] σ[Mg/H] χ2
+Mg
+(dex) (dex) (dex) (dex)
+HIP 439 -0.28 0.05 4.40 0.20 0.10 8.10
+HIP 21932 -0.30 0.05 4.40 -0.24 0.07 2.10
+HIP 25878 0.20 0.06 68.40 0.24 0.11 53.60
+HIP 36208 -0.12 0.01 8.14 0.31 0.10 65.61
+HIP 57548 -0.21 0.01 5.81 0.07 0.08 3.44
+HIP 67155 -0.52 0.03 2.60 -0.07 0.10 14.67
+HIP 70890 0.18 0.10 33.90 0.75 0.04 19.27
+HD 131977 0.08 0.04 97.70 0.24 0.04 164.28
+HIP 74995 -0.49 0.01 4.40 -0.26 0.10 3.49
+HIP 80824 -0.48 0.01 19.51 -0.44 0.09 22.45
+HIP 85523 -0.04 0.03 10.80 0.05 0.09 4.90
+HIP 87937 -0.63 0.08 66.39 -0.04 0.08 36.08
+HIP 92403 -0.22 0.02 11.96 -0.12 0.07 6.20
+HIP 106440 0.20 0.04 37.70 0.19 0.12 43.88
+HIP 113020 0.07 0.02 10.18 0.41 0.07 10.16
+HIP 113296 -0.06 0.05 2.09 0.14 0.12 1.50
+HIP 114046 -0.24 0.04 1.80 0.01 0.12 13.32
+Tabela 3.2. Abundˆ ancias de ferro e magn´ esio, seus respectivos erros e os ajustes de Qui Quadrado
+para as estrelas Teff.
+3.2 Ajustes e Avalia¸ c˜ ao peloχ2
+Para a determina¸ c˜ ao doχ2 desse trabalho, utilizamos como referˆ encia o c´ alculo
+usado para a s´ ıntese das linhas do l´ ıtio descrito no trabalho de Ghezzi et al. (2009), com
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 57
+adapta¸ c˜ oes espec´ ıficas ` as particularidades das an˜ as vermelhas.
+A f´ ormula empregada para determinar oχ2 e, consequentemente, o melhor ajuste
+entre os espectros sint´ eticos e observado ´ e a seguinte:
+χ2
+r = 1
+d − 1 ·
+nX
+i=1
+(Oi − Si)2
+σ2 (3.1)
+Nessa equa¸ c˜ ao,Oi e Si correspondem, respectivamente, aos fluxos normalizados
+do espectro observado e dos sint´ eticos em um dado ponto i no perfil da linha espectral.
+Como os pontos do espectro sint´ etico s˜ ao gerados a cada 0.05˚A e nem sempre coincidem
+com os pontos do espectro observado, foi necess´ aria uma interpola¸ c˜ ao linear para obter
+o fluxo sint´ etico nos exatos comprimentos de onda do observado. O termoσ2 se trata do
+erro quadr´ atico m´ edio do cont´ ınuo, definido como (S/R)−1, quanto maior o sinal-ru´ ıdo
+menor o erro associado.
+Os graus de liberdade do ajuste s˜ ao dados por d = n − p, onde n ´ e o n´ umero de
+pontos do espectro observado na regi˜ ao do ajuste — 11 pontos tanto para Mg I 8806
+quanto para Fe I 8824 — ep ´ e o n´ umero de parˆ ametros livres no c´ alculo do espectro.
+Para a s´ ıntese do ferro consideramosp = 4, no qual os parˆ ametros livres correspondem ao
+ajuste do cont´ ınuo, comprimento de onda, alargamento das linhas e abundˆ ancia de ferro.
+J´ a para o magn´ esio,p = 3, considerando apenas o ajuste do cont´ ınuo, comprimento de
+onda e a abundˆ ancia de magn´ esio. Isso ocorre pois definimos que ir´ ıamos modificar o
+alargamentos das linhas apenas para a s´ ıntese do ferro e seguir com o valor obtido para
+a s´ ıntese do magn´ esio.
+3.3 Determina¸ c˜ ao do Erro
+Ap´ os determinar o valor ´ otimo de abundˆ ancia para um espectro espec´ ıfico, por
+exemplo, A(Fe) = 7.55, para uma estrela com Teff = 3455 K, criamos um novo modelo
+atmosf´ erico variando a temperatura em +100 K. O valor de 100 K foi escolhido pois ele
+se trata de uma estimativa conservadora para o erro de temperatura efetiva das estrelas
+de nossa amostra, no qual 22 das 23 estrelas possuem erro menor que 100 K. Realizamos
+novamente a s´ ıntese espectral com esse novo modelo — com temperatura efetiva 3555 K
+— e determinamos um valor ´ otimo de abundˆ ancia, por exemplo, A(Fe) = 7.48. Assim,
+o erro foi calculado como:
+σ[X/H] = |A(X)orig − A(X)modelo+100K| (3.2)
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 58
+Neste caso, o erro estimado para a s´ ıntese ´ e σ[Fe/H] = 0 .07 dex. Este c´ alculo
+considera apenas a propaga¸ c˜ ao do erro devido ` a varia¸ c˜ ao de temperatura da estrela.
+Isso significa que o erro ´ e subestimado, pois outros fatores n˜ ao foram inclu´ ıdos, como
+erros na determina¸ c˜ ao do cont´ ınuo, deslocamento de velocidade, calibra¸ c˜ ao da gravidade
+superficial e alargamento das linhas espectrais.
+3.4 Perfis de Ajustes
+Nesta se¸ c˜ ao, ser˜ ao apresentados os perfis de ajustes das s´ ınteses espectrais para
+cada uma das estrelas, come¸ cando pela amostra bin´ aria de 6 estrelas, e, em seguida,
+pela amostra Teff de 17 estrelas. As especificidades explicitadas no par´ agrafo a seguir
+valem da Figura 3.1a at´ e a Figura 3.23b.
+Em cada perfil de linha, s˜ ao mostradas trˆ es s´ ınteses diferentes: a linha vermelha
+representa a s´ ıntese que retorna o menor valor deχ2, sendo, portanto, a que melhor se
+ajusta aos pontos do espectro observado, representados por triˆ angulos cinzas. A linha
+tracejada verde corresponde a uma abundˆ ancia 0.20 dex inferior ` a do s´ ıntese com menor
+χ2, enquanto a linha tracejada azul representa uma abundˆ ancia 0.20 dex superior. A
+rela¸ c˜ ao sinal-ru´ ıdo (S/R) do espectro, essencial para o c´ alculo doχ2, est´ a especificada
+na legenda de cada gr´ afico.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 59
+(a)
+(b)
+Figura 3.1. S´ ınteses da estrela bin´ aria HIP31293 com S/R = 312. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 60
+(a)
+(b)
+Figura 3.2. S´ ınteses da estrela bin´ aria HIP31292 com S/R = 70. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 61
+(a)
+(b)
+Figura 3.3. S´ ınteses da estrela bin´ aria HIP72509 com S/R = 150. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 62
+(a)
+(b)
+Figura 3.4. S´ ınteses da estrela bin´ aria HIP72511 com S/R = 157. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 63
+(a)
+(b)
+Figura 3.5. S´ ınteses da estrela bin´ aria HIP86961 com S/R = 226. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 64
+(a)
+(b)
+Figura 3.6. S´ ınteses da estrela bin´ aria HIP86963 com S/R = 233. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 65
+(a)
+(b)
+Figura 3.7. S´ ınteses da estrelaTeff HIP439 com S/R = 170. (A) S´ ıntese da linha de Fe I 8824˚A; (B)
+S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 66
+(a)
+(b)
+Figura 3.8. S´ ınteses da estrelaTeff HIP21932 com S/R = 130. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 67
+(a)
+(b)
+Figura 3.9. S´ ınteses da estrelaTeff HIP25878 com S/R = 595. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 68
+(a)
+(b)
+Figura 3.10. S´ ınteses da estrelaTeff HIP36208 com S/R = 210. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 69
+(a)
+(b)
+Figura 3.11. S´ ınteses da estrelaTeff HIP57548 com S/R = 190. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 70
+(a)
+(b)
+Figura 3.12. S´ ınteses da estrelaTeff HIP67155 com S/R = 190. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 71
+(a)
+(b)
+Figura 3.13. S´ ınteses da estrelaTeff HIP70890 com S/R = 190. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 72
+(a)
+(b)
+Figura 3.14. S´ ınteses da estrelaTeff HD131977 com S/R = 538. (A) S´ ıntese da linha de Fe I 8824˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 73
+(a)
+(b)
+Figura 3.15. S´ ınteses da estrelaTeff HIP74995 com S/R = 180. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 74
+(a)
+(b)
+Figura 3.16. S´ ınteses da estrelaTeff HIP80824 com S/R = 437. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 75
+(a)
+(b)
+Figura 3.17. S´ ınteses da estrelaTeff HIP85523 com S/R = 210. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 76
+(a)
+(b)
+Figura 3.18. S´ ınteses da estrelaTeff HIP87937 com S/R = 520. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 77
+(a)
+(b)
+Figura 3.19. S´ ınteses da estrelaTeff HIP92403 com S/R = 180. (A) S´ ıntese da linha de Fe I 8824 ˚A;
+(B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 78
+(a)
+(b)
+Figura 3.20. S´ ınteses da estrelaTeff HIP106440 com S/R = 341. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 79
+(a)
+(b)
+Figura 3.21. S´ ınteses da estrelaTeff HIP113020 com S/R = 170. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 80
+(a)
+(b)
+Figura 3.22. S´ ınteses da estrelaTeff HIP113296 com S/R = 110. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 81
+(a)
+(b)
+Figura 3.23. S´ ınteses da estrelaTeff HIP114046 com S/R = 200. (A) S´ ıntese da linha de Fe I 8824
+˚A; (B) S´ ıntese da linha de Mg I 8806˚
+A.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 82
+3.5 An´ alise de Perfis de Ajustes
+Os ajustes de [Fe/H] e [Mg/H] variam bastante em rela¸ c˜ ao ao seuχ2, mais devido
+ao S/R dos espectros. Para a amostra bin´ aria, o χ2 do [Fe/H] varia entre 2.4 e 22.5,
+com um m´ edia de 11.4 e desvio padr˜ ao de 6.8; j´ a para o [Mg/H] varia entre 2.80 e 20.33,
+com uma m´ edia de 11.6 e desvio padr˜ ao de 5.9. Para a amostraTeff, a varia¸ c˜ ao ´ e maior,
+devido ` a espectros de alt´ ıssimo S/R na amostra, que n˜ ao se refletem na qualidade da
+s´ ıntese; para o [Fe/H] a varia¸ c˜ ao ´ e doχ2 ´ e de 2.09 at´ e 97.7, com m´ edia de 22.95 e desvio
+padr˜ ao de 28.68; para o [Mg/Fe] a varia¸ c˜ ao ´ e maior, de 1.5 at´ e 164.28, com m´ edia de
+27.82 e desvio padr˜ ao de 40.1.
+N˜ ao h´ a um padr˜ ao claro para os ajustes ruins, embora fatores como contamina¸ c˜ ao
+por bandas moleculares, que afetam o ajuste do cont´ ınuo, ou a presen¸ ca de outras
+linhas atˆ omicas nas asas do perfil possam ser significativos. Al´ em disso, a falta de
+autoconsistˆ encia dos modelos de atmosfera tamb´ em pode influenciar os resultados. Esse
+crit´ erio ´ e atingido quando a metalicidade de sa´ ıda da s´ ıntese ´ e igual ` a metalicidade do
+modelo de atmosfera.
+Dificuldades em ajustar simultaneamente tanto as asas quanto o centro das linhas
+tamb´ em s˜ ao comuns. Ao plotarmos os χ2 para as amostra bin´ aria (Figura 3.24) e
+Teff (Figura 3.25), observa-se que estrelas com S/R moderado apresentam ajustes mais
+consistentes, enquanto as de alto S/R frequentemente apresentam maiores χ2. Isso pode
+significar que nos casos de alto S/R podem estar sendo evidenciadas limita¸ c˜ oes de nosso
+m´ etodo. A amostraTeff apresenta melhores ajustes entre as temperaturas efetivas de
+3100 K e 3800 K. A amostra bin´ aria n˜ ao apresenta um padr˜ ao claro relativo aos melhores
+ajustes.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 83
+Figura 3.24. Gr´ afico doχ2 e as rela¸ c˜ oes com as grandezas da amostra bin´ aria: (A) Temperatura
+Efetiva, (B) Gravidade Superficial, (C) Metalicidade e (D) Sinal/Ru´ ıdo.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 84
+Figura 3.25. Gr´ afico doχ2 e as rela¸ c˜ oes com as grandezas da amostraTeff: (A) Temperatura Efetiva,
+(B) Gravidade Superficial, (C) Metalicidade e (D) Sinal/Ru´ ıdo.
+Cap´ ıtulo 3.Resultados e Discuss˜ oes 85
+3.6 Compara¸ c˜ ao de Resultados: S´ ıntese Espectral e´Indices
+Espectrais
+Pela ausˆ encia de outros trabalhos na literatura que avaliem a abundˆ ancia qu´ ımica
+de magn´ esio nessas estrelas, resolvemos fazer uma compara¸ c˜ ao apenas com os resultados
+obtidos pelo grupo a partir do trabalho de Costa-Almeida et al. (2021). Ao observar
+a a Figura 3.26, podemos verificar a partir da regress˜ ao linear, embora n˜ ao haja uma
+alta significˆ ancia estat´ ıstica, que existe uma tendˆ encia sistem´ atica de que a metalicidade
+obtida por ´ ındices espectrais est´ a superestimada em rela¸ c˜ ao ` a metalicidade obtida por
+s´ ıntese espectral, em uma ordem de 0.15 dex.
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+[Fe/H] - Ín ice- E-pec.rai- (dex)
+−0.6
+−0.4
+−0.2
+0.0
+0.2
+0.4
+0.6
+[Fe /H] - Síntese Espectral (dex)
+HIP 439
+HIP 25878
+HIP 87937
+HIP 72509
+HIP 80824
+Anãs V ermelhas
+R egressão Linear
+±2 σ
+Figura 3.26. Compara¸ c˜ ao entre a metalicidade obtida por s´ ıntese espectral, no eixo y, e ´ ındices
+espectrais, no eixo x. Podemos observar, a partir da regress˜ ao linear, que, mesmo sem uma alta
+significˆ ancia estat´ ıstica, h´ a uma tendˆ encia de que a metalicidade obtida por ´ ındices foi superestimada
+em rela¸ c˜ ao a metalicidade obtida por s´ ıntese.
+Cap´ ıtulo 4
+Conclus˜ oes e Perspectivas
+Quem n˜ ao quiser deixar a Terra em
+que vivemos
+Pelos astros onde iremos
+Vai ouvir, ver e contar
+Belchior
+Neste trabalho, apresentamos um m´ etodo explorat´ orio para a an´ alise de abundˆ ancias
+qu´ ımicas em an˜ as vermelhas da vizinhan¸ ca solar a partir de s´ ıntese espectral de duas
+transi¸ c˜ oes pouqu´ ıssimo exploradas pela literatura, Fe I 8824˚A e Mg I 8806 ˚
+A, com o
+objetivo de ampliar o conhecimento sobre essas estrelas e de investigar potenciais novos
+m´ etodos para a obten¸ c˜ ao de abundˆ ancias qu´ ımicas. Para isso, utilizamos 23 espectros
+de resolu¸ c˜ ao intermedi´ aria, obtidos pelo grupo no telesc´ opio Perkin-Elmer de 1.6 m, no
+Observat´ orio Pico dos Dias, com o uso do espectr´ ografo coud´ e.
+No Cap´ ıtulo 2, contextualizamos as diferen¸ cas entre o m´ etodo de s´ ıntese espectral
+que utilizamos e o m´ etodo anteriormente adotado pelo grupo. Separamos nossos espectros em duas amostras: estrelas com temperatura efetiva medida interferometricamente
+e sistemas bin´ arios. Tamb´ em descrevemos os itens necess´ arios para realizar uma s´ ıntese
+espectral, desde a prepara¸ c˜ ao da lista de linhas atˆ omicas at´ e a interpola¸ c˜ ao dos modelos
+de atmosferas. Al´ em disso, apresentamos um breve resumo sobre os modelos de atmosferas estelares, destacando algumas de suas particularidades, e explicamos como realizar
+uma s´ ıntese espectral usando o MOOG, por meio da distribui¸ c˜ ao PyMOOGi.
+No Cap´ ıtulo 3, apresentamos os resultados das abundˆ ancias de [Fe/H] e [Mg/H],
+juntamente com suas respectivas incertezas, o ajuste de χ2 e os procedimentos utilizados
+para determin´ a-los. As incertezas foram subestimadas, pois consideraram apenas a
+temperatura efetiva; melhorias futuras devem incluir outros parˆ ametros atmosf´ ericos na
+Cap´ ıtulo 5.Conclus˜ oes e Perspectivas 87
+propaga¸ c˜ ao de erros. Tamb´ em exibimos os perfis de ajuste das linhas Fe I 8824 ˚A e
+Mg I 8806 ˚
+A para as 23 estrelas, acompanhados de coment´ arios sobre as deficiˆ encias
+dos ajustes, especialmente devido ao impacto significativo da raz˜ ao sinal-ru´ ıdo (S/N)
+nas incertezas. Por fim, comparamos graficamente os resultados deste trabalho com os
+obtidos por Costa-Almeida et al. (2021), verificando que as metalicidades determinadas
+anteriormente estavam superestimadas em rela¸ c˜ ao ` as apresentadas aqui.
+O m´ etodo de s´ ıntese espectral desenvolvido neste trabalho, utilizando as duas linhas espectrais in´ editas, mostrou-se competitivo na determina¸ c˜ ao de abundˆ ancias qu´ ımicas,
+com potencial significativo para aprimoramentos futuros. As abundˆ ancias de ferro mostram bom resultado, com coerˆ encia e erros internos baixos. As abundˆ ancias de magn´ esio
+ainda necessitam melhor avalia¸ c˜ ao, pois elas levam a raz˜ oes [Mg/Fe] n˜ ao-f´ ısicas e tem
+erros internos altos. Aplicar a s´ ıntese da transi¸ c˜ ao do Fe I 8824˚A a toda a amostra
+de estrelas provavelmente seria capaz de fornecer bons resultados. De fato, se trata de
+uma substancial melhoria na obten¸ c˜ ao de abundˆ ancias qu´ ımicas em rela¸ c˜ ao ao m´ etodo
+anteriormente empregado pelo grupo.
+Em rela¸ c˜ ao ` as estrelas bin´ arias, os pares HIP 31293 e HIP 31292 e HIP 86961 e
+HIP 86963 forneceram ´ otimos resultados, com as abundˆ ancias de Fe de cada componente do par bin´ ario concordando com a abundˆ ancia da companheira, dentro dos erros,
+confirmando o fato de serem bin´ arias. No entanto, ainda ´ e necess´ ario investigar mais
+casos de bin´ arias na amostra. J´ a o par referente ` as estrelas HIP 72509 e HIP 72511
+apresentou uma grande diferen¸ ca de metalicidade e, dada a coerˆ encia dos outros casos,
+´ e poss´ ıvel inferir que essas estrelas n˜ ao s˜ ao, necessariamente, coevas.
+Para as estrelas da amostra Teff, destacamos, em especial, HIP 70890, a Proxima
+Centauri. Embora seja a estrela com a menor temperatura desta amostra, seu resultado
+de metalicidade est´ a de acordo com o conhecimento atual sobre sua estrela prim´ aria, Alfa
+Centauri, que possui uma metalicidade de 0.24 (Porto de Mello et al., 2008). O valor
+obtido para Proxima Centauri, 0.18, est´ a dentro das incertezas internas. J´ a a abundˆ ancia
+de magn´ esio apresentou um valor n˜ ao f´ ısico, [Mg/Fe] = +0.57 em compara¸ c˜ ao com o
++0.04 encontrado no trabalho de Porto de Mello et al. (2008), indicando a necessidade
+de uma avalia¸ c˜ ao mais detalhada no futuro.
+Destacamos tamb´ em a an˜ a K, HD 131977, que, apesar de um ajuste com altoχ2
+para Fe e Mg, apresentou um valor de metalicidade consistente, 0.08 dex, em compara¸ c˜ ao
+com trabalhos recentes da literatura: 0.02 dex (Soubiran et al., 2022, 2024) para uma
+temperatura efetiva de 4724 K, -0.04 dex (Prugniel et al., 2011) para uma temperatura
+efetiva de 4507 K e 0.14 dex (Luck, 2016) para uma temperatura efetiva de 4625 K.
+Ressaltamos que nenhum dos m´ etodos utilizados nesses estudos foi o de s´ ıntese espectral.
+Cap´ ıtulo 5.Conclus˜ oes e Perspectivas 88
+De forma geral, este trabalho apresentou bons resultados para a metalicidade,
+como evidenciado pelos dois pares de bin´ arias, e pelas estrelas Proxima Centauri e HD
+131977. No entanto, a abundˆ ancia de magn´ esio mostrou diversos valores n˜ ao-f´ ısicos, que
+exigem uma investiga¸ c˜ ao mais aprofundada em estudos futuros.
+Entre os poss´ ıveis aprimoramentos para o futuro, destacamos a expans˜ ao das
+s´ ınteses para a amostra completa de 178 estrelas — com foco na compara¸ c˜ ao entre
+outras bin´ arias; a substitui¸ c˜ ao dos modelos atmosf´ ericos 1D LTE por modelos N-LTE
+ou 3D e, principalmente, a inclus˜ ao de bandas moleculares no tratamento espectral. A
+substitui¸ c˜ ao dos modelos demanda maior capacidade computacional, indispon´ ıvel durante a realiza¸ c˜ ao deste trabalho. Al´ em disso, a explora¸ c˜ ao de outras regi˜ oes espectrais,
+como o tripleto do c´ alcio (8469˚A, 8543 ˚
+A e 8662˚
+A), pode permitir a determina¸ c˜ ao independente de gravidade superficial, evitando calibra¸ c˜ oes baseadas em dados da literatura,
+como foi feito no presente estudo.
+Os pr´ oximos passos incluem a implementa¸ c˜ ao de um processo de autoconsistˆ encia
+dos modelos de atmosferas, realizado por meio de itera¸ c˜ oes sucessivas na interpola¸ c˜ ao
+at´ e que a abundˆ ancia de ferro dos modelos coincida com a obtida na s´ ıntese espectral.
+Espera-se que esse processo resolva principalmente as contamina¸ c˜ oes observadas nas asas
+das linhas espectrais, minimizando ainda mais oχ2. Tamb´ em planejamos desenvolver
+um c´ odigo automatizado capaz de modificar simultaneamente o ajuste do cont´ ınuo, as
+abundˆ ancias qu´ ımicas, o deslocamento de velocidade e o perfil de alargamento do espectro, minimizando oχ2. Essa automa¸ c˜ ao dever´ a tornar o processo significativamente mais
+r´ apido e minucioso, uma vez que, no presente trabalho, esses ajustes foram realizados
+manualmente. Outro passo importante para o futuro do trabalho ´ e incluir as demais
+grandezas para a propaga¸ c˜ ao completa dos erros.
+Por fim, esperamos que este trabalho contribua para o avan¸ co no entendimento de
+an˜ as vermelhas, a partir do estudo da an´ alise de linhas espectrais at´ e ent˜ ao inexploradas,
+e que possa servir como guia introdut´ orio para estudantes que iniciam suas investiga¸ c˜ oes
+sobre essas t˜ ao numerosas estrelas, bem como no uso do m´ etodo de s´ ıntese espectral.
+Referˆ encias Bibliogr´ aficas
+Adamow, M. M. 2017, in American Astronomical Society Meeting Abstracts, Vol. 230,
+American Astronomical Society Meeting Abstracts #230, 216.07
+Adams, F. C., Graves, G. J. M., & Laughlin, G. 2004, in Revista Mexicana de Astronomia y Astrofisica Conference Series, Vol. 22, Revista Mexicana de Astronomia y
+Astrofisica Conference Series, ed. G. Garcia-Segura, G. Tenorio-Tagle, J. Franco, &
+H. W. Yorke, 46–49
+Andama, G., Mah, J., & Bitsch, B. 2024, A&A, 683, A118, doi: 10.1051/0004-6361/
+202348899
+Asplund, M., Grevesse, N., Sauval, A. J., & Scott, P. 2009, ARA&A, 47, 481, doi: 10.
+1146/annurev.astro.46.060407.145222
+Blanco-Cuaresma, S. 2019, MNRAS, 486, 2075, doi: 10.1093/mnras/stz549
+Bochanski, J. J., Hawley, S. L., Covey, K. R., et al. 2010, AJ, 139, 2679, doi: 10.1088/
+0004-6256/139/6/2679
+Bohr, N. 1913, Philosophical Magazine, 26, 476, doi: 10.1080/14786441308634955
+Bonfils, X., Delfosse, X., Udry, S., et al. 2005, Metallicity of M dwarfs: I. A photometric
+calibration and the impact on the mass-luminosity relation at the bottom of the main
+sequence, EDP Sciences, doi:10.1051/0004-6361:20053046
+Boyajian, T. S., von Braun, K., van Belle, G., et al. 2012, The Astrophysical Journal,
+757, 112, doi: 10.1088/0004-637x/757/2/112
+Brand, J. C. D. 1995, Lines of Light, 1st edn. (Routledge), doi:10.1201/9780203748862
+Cannon, A. J., & Pickering, E. C. 1912, Annals of Harvard College Observatory, 56, 115
+Casagrande, L., Flynn, C., & Bessell, M. 2008, Monthly Notices of the Royal Astronomical Society, 389, 585–607, doi: 10.1111/j.1365-2966.2008.13573.x
+Chabrier, G. 2003, PASP, 115, 763, doi: 10.1086/376392
+Bibliografia 90
+Chabrier, G., & Baraffe, I. 1997, Structure and evolution of low-mass stars. https:
+//arxiv.org/abs/astro-ph/9704118
+Charbonneau, D., & Deming, D. 2007, The Dynamics-Based Approach to Studying
+Terrestrial Exoplanets. https://arxiv.org/abs/0706.1047
+Costa-Almeida, E. 2019, Parˆ ametros atmosf´ ericos de an˜ as M da vizinhan¸ ca solar - Trabalho de Conclus˜ ao de Curso, novembro de 2019
+Costa-Almeida, E., Porto de Mello, G. F., Giribaldi, R. E., Lorenzo-Oliveira, D., &
+Ubaldo-Melo, M. L. 2021, MNRAS, 508, 5148, doi: 10.1093/mnras/stab2831
+Curtis, L. J. 1987, Physica Scripta, 35, 805, doi: 10.1088/0031-8949/35/6/008
+Cutri, R. M., Skrutskie, M. F., van Dyk, S., et al. 2003, VizieR Online Data Catalog:
+2MASS All-Sky Catalog of Point Sources (Cutri+ 2003), VizieR On-line Data Catalog:
+II/246. Originally published in: University of Massachusetts and Infrared Processing
+and Analysis Center, (IPAC/California Institute of Technology) (2003)
+Dhondt, F. 2023, 23
+Dom´ ınguez G´ omez, R., Torralba Marco, R., Escudero Gonz´ alez, P., & Mart´ ın S´ anchez,
+M. 2012, Revista De Qu´ ımica, 26, 26.https://revistas.pucp.edu.pe/index.php/
+quimica/article/view/5548
+Dressing, C. D., & Charbonneau, D. 2013, ApJ, 767, 95, doi: 10.1088/0004-637X/767/
+1/95
+Edvardsson, B. 1988, A&A, 190, 148
+Fara, P. 2015, Philosophical transactions. Series A, Mathematical, physical, and engineering sciences, 373, doi: 10.1098/rsta.2014.0213
+Fraunhofer, J. 1817, Denkschriften der k¨ oniglichen Akademie der Wissenschaften, 5, 193
+Gaia Collaboration, Babusiaux, C., van Leeuwen, F., et al. 2018, AA, 616, A10, doi: 10.
+1051/0004-6361/201832843
+Gaia Collaboration, Smart, R. L., Sarro, L. M., et al. 2021, A&A, 649, A6, doi: 10.
+1051/0004-6361/202039498
+Gaia Collaboration, Vallenari, A., Brown, A. G. A., et al. 2023, A&A, 674, A1, doi: 10.
+1051/0004-6361/202243940
+Ghezzi, L., Cunha, K., Smith, V. V., et al. 2009, The Astrophysical Journal, 698,
+451–460, doi: 10.1088/0004-637x/698/1/451
+Bibliografia 91
+Ghezzi, L., Dutra-Ferreira, L., Lorenzo-Oliveira, D., et al. 2014, The Astronomical Journal, 148, 105, doi: 10.1088/0004-6256/148/6/105
+Gray, D. F. 2008, The Observation and Analysis of Stellar Photospheres
+Gustafsson, B., Edvardsson, B., Eriksson, K., et al. 2008, A&A, 486, 951, doi: 10.1051/
+0004-6361:200809724
+Haendler, B. L. 1982, Journal of Chemical Education, 59, 372
+Hauschildt, P. H., Allard, F., Alexander, D. R., & Baron, E. 1997, NLTE effects of Ti I
+in M dwarfs and giants. https://arxiv.org/abs/astro-ph/9705063
+Hauschildt, P. H., Allard, F., Alexander, D. R., Schweitzer, A., & Baron, E. 1996, NLTE
+Model Atmospheres for M Dwarfs and Giants. https://arxiv.org/abs/astro-ph/
+9601155
+Hearnshaw, J. B. 1986, The analysis of starlight : one hundred and fifty years of astronomical spectroscopy
+Herschel, W. 1800, Philosophical Transactions of the Royal Society, 90, 284, doi: 10.
+1098/rstl.1800.0015
+Husser, T. O., Wende-von Berg, S., Dreizler, S., et al. 2013, A&A, 553, A6, doi: 10.
+1051/0004-6361/201219058
+Hyde Wollaston, W. 1802, Philosophical Transactions of the Royal Society of London
+Series I, 92, 365, doi: 10.1098/rstl.1802.0013
+Kaler, J. B. 1997, Stars and their Spectra, An Introduction to the Spectral Sequence
+Kirchhoff, & Bunsen. 1860, The London, Edinburgh, and Dublin Philosophical Magazine
+and Journal of Science, 20, 88, doi: 10.1080/14786446008642913
+Kurucz, R. L. 1979, ApJS, 40, 1, doi: 10.1086/190589
+Lawrence, A., Warren, S. J., Almaini, O., et al. 2007, MNRAS, 379, 1599, doi: 10.1111/
+j.1365-2966.2007.12040.x
+Lorensi, C., & Rosa, D. 2021, Revista Univap, 27, doi: 10.18066/revistaunivap.
+v27i55.2604
+Luck, R. E. 2016, The Astronomical Journal, 153, 21, doi: 10.3847/1538-3881/153/1/
+21
+Masseron, T., Merle, T., & Hawkins, K. 2016, BACCHUS: Brussels Automatic Code
+for Characterizing High accUracy Spectra, Astrophysics Source Code Library, record
+ascl:1605.004
+Bibliografia 92
+Maury, A. C., & Pickering, E. C. 1897, Annals of Harvard College Observatory, 28, 1
+Morgan, W. W., Keenan, P. C., & Kellman, E. 1943, An atlas of stellar spectra, with
+an outline of spectral classification
+Neves, V., Bonfils, X., Santos, N. C., et al. 2012, A&A, 538, A25, doi: 10.1051/
+0004-6361/201118115
+Newton, I. 1672, Philosophical Transactions of the Royal Society, 6, 3075, doi:10.1098/
+rstl.1671.0072
+Newton, I. 1704, Opticks (Dover Press)
+Pasachoff, J. M., & Suer, T.-A. 2010, Journal of Astronomical History and Heritage, 13,
+120
+Passegger, V. M., Wende-von Berg, S., & Reiners, A. 2016, Fundamental M-dwarf parameters from high-resolution spectra using PHOENIX ACES models. I. Parameter
+accuracy and benchmark stars, doi: 10.1051/0004-6361/201322261
+Payne-Gaposchkin, C. H. 1925, PhD thesis, Radcliffe College, United States
+Plez, B. 2012, Turbospectrum: Code for spectral synthesis, Astrophysics Source Code
+Library, record ascl:1205.004
+Pogge, R. 2022, Astronomy 162: Prof. Richard Pogge - Characteristics of the Stellar
+Spectral Types (acessado em 29 abril, 2024). https://www.astronomy.ohio-state.
+edu/pogge.1/Ast162/Unit1/SpTypes/index.html
+Porto de Mello, G. F., Lyra, W., & Keller, G. R. 2008, Astronomy amp; Astrophysics,
+488, 653–666, doi: 10.1051/0004-6361:200810031
+Prugniel, P., Vauglin, I., & Koleva, M. 2011, Astronomy amp; Astrophysics, 531, A165,
+doi: 10.1051/0004-6361/201116769
+Rabus, M., Lachaume, R., Jord´ an, A., et al. 2019, Monthly Notices of the Royal Astronomical Society, 484, 2674–2683, doi: 10.1093/mnras/sty3430
+Rajpurohit, A. S., Reyl´ e, C., Allard, F., et al. 2013, A&A, 556, A15, doi: 10.1051/
+0004-6361/201321346
+Reid, I. N., & Hawley, S. L. 2005, New light on dark stars : red dwarfs, low-mass stars,
+brown dwarfs, doi: 10.1007/3-540-27610-6
+Bibliografia 93
+Rojas-Ayala, B., Covey, K. R., Muirhead, P. S., & Lloyd, J. P. 2012, Metallicity and
+Temperature Indicators in M Dwarf K-band Spectra: Testing New and Updated Calibrations with Observations of 133 Solar Neighborhood M Dwarfs, doi: 10.1088/
+0004-637X/748/2/93
+Rydberg, J. 1890, Philosophical Magazine, 29, 331
+Shields, A. L., Ballard, S., & Johnson, J. A. 2016, Phys. Rep., 663, 1, doi: 10.1016/j.
+physrep.2016.10.003
+Smith, V. V., Bizyaev, D., Cunha, K., et al. 2021, The Astronomical Journal, 161, 254,
+doi: 10.3847/1538-3881/abefdc
+Sneden, C. 1973, ApJ, 184, 839, doi: 10.1086/152374
+Soubiran, Brouillet, N., & Casamiquela, L. 2022, Astronomy amp; Astrophysics, 663,
+A4, doi: 10.1051/0004-6361/202142409
+Soubiran, Creevey, O. L., Lagarde, N., et al. 2024, AA, 682, A145, doi: 10.1051/
+0004-6361/202347136
+Souto, D., Cunha, K., Garc´ ıa-Hern´ andez, D. A., et al. 2017, ApJ, 835, 239, doi: 10.
+3847/1538-4357/835/2/239
+Souto, D., Cunha, K., Smith, V. V., et al. 2020, ApJ, 890, 133, doi:10.3847/1538-4357/
+ab6d07
+Sparavigna, A. C. 2011, Materials Science in Ancient Rome. https://arxiv.org/abs/
+1107.3831
+Sparavigna, A. C. 2012, The play of colours of prisms. https://arxiv.org/abs/1207.
+3504
+Stachel, J. 2009, in Quantum Reality, Relativistic Causality, and Closing the Epistemic
+Circle (Dordrecht: Springer), 79
+Thomas, N. C. 1991, Journal of Chemical Education, 68, 631, doi: 10.1021/ed068p631
+Trampedach, R., Asplund, M., Collet, R., Nordlund, , & Stein, R. F. 2013, The Astrophysical Journal, 769, 18, doi: 10.1088/0004-637x/769/1/18
+Tuomi, M., Jones, H. R. A., Butler, R. P., et al. 2019, arXiv e-prints, arXiv:1906.04644,
+doi: 10.48550/arXiv.1906.04644
+Valenti, J. A., & Fischer, D. A. 2005, ApJS, 159, 141, doi: 10.1086/430500
+Valenti, J. A., & Piskunov, N. 1996, A&AS, 118, 595
+Bibliografia 94
+Vangioni, E., & Olive, K. A. 2019, Monthly Notices of the Royal Astronomical Society,
+484, 3561–3572, doi: 10.1093/mnras/stz210
+Veyette, M. J., Muirhead, P. S., Mann, A. W., & Allard, F. 2016, ApJ, 828, 95, doi: 10.
+3847/0004-637X/828/2/95
+Wanderley, F., Cunha, K., Souto, D., et al. 2023, ApJ, 951, 90, doi: 10.3847/
+1538-4357/acd4bd
+Wenger, M., Ochsenbein, F., Egret, D., et al. 2000, A&AS, 143, 9, doi: 10.1051/aas:
+2000332
+Yamashita, M., Itoh, Y., & Takagi, Y. 2024, A&A, 691, A304, doi:10.1051/0004-6361/
+202452025

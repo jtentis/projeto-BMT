@@ -1,0 +1,120 @@
+{
+  "available_sections": [
+    "conclusion",
+    "introduction",
+    "results"
+  ],
+  "missing_sections": [],
+  "sections": {
+    "introduction": {
+      "header": "1. INTRODUÇÃO…………………………………………………………………….1",
+      "start_char": 69,
+      "end_char": 84,
+      "content": "2. AS DROGAS E O JORNALISMO ...............................................……….….….5 2.1 O jornalismo e a maconha ao longo da história..………………………………6 2.2 Os leitores e as drogas...……………………………………………….……..…10 2.3 As drogas nos boletins policiais...........................................................................13 3. O JORNALISMO E A CIDADE......……………………………………………18 3.1 O jornalismo de cidade ganha novas técnicas.....................…………….………19 3.2 O Tempo na narrativa jornalística.....………………………………………26 3.3 O Estigma e a Notícia…………………………………………………………32 3.4 Equilibrando expectativas....................................................................................33 4. ANÁLISE DAS REPORTAGENS.....……………………………………………37 4.1 A Análise do Discurso Crítica............................................…………….………38 4.2 As ferramentas de análise.........................................…………………………40 4.3 Análise dos objetos.....………………………………………………………41 5. CONCLUSÃO.........................................................................................................57",
+      "content_length": 1073
+    },
+    "results": {
+      "header": "15 . Para o autor, por exemplo, o “Penny Paper” criado nos EUA e Inglaterra, seria um dos formatos",
+      "start_char": 690,
+      "end_char": 692,
+      "content": "responsáveis pela “invenção do conceito moderno de notícia”.",
+      "content_length": 60
+    },
+    "conclusion": {
+      "header": "5. CONCLUSÃO",
+      "start_char": 1814,
+      "end_char": 1842,
+      "content": "A análise metodológica e qualitativa das reportagens publicadas pelo Jornal do Brasil e O Globo, revelam a particularidade do “Verão da Lata” em seu contexto histórico. Com a bibliografia vista nos dois primeiros capítulos, é perceptível a abordagem então única feita pela imprensa carioca. Ainda que em intensidades diferentes – com o Jornal do Brasil demonstrando mais liberdade e inovação em seus formatos – ambos os jornais acabaram por desassociar completamente a chegada da maconha nas praias cariocas à violência e segurança pública, algo que fugia da regra estabelecida ao longo das décadas anteriores. Viuse que os jornais brasileiros criaram um precedente, ao longo do século XX, para uma narrativa que privilegiava a visão do Estado e da polícia. Porém, s e drogas ilícitas eram retratadas em uma imagem desesperadora de seus efeitos como fatores de falência social, no “Verão da Lata”, a maconha assumiu um papel inofensivo. Nas reportagens analisadas, as latas eram ao mesmo tempo vistas como fato curioso e uma inconveniência ou perturbação da ordem pública de escala contida. A vis ão dos jornais mais evidente era a de que, ao longo daqueles meses, as matérias sobre o “Verão” serviriam para aliviar um pouco as tensões das outras notícias mais urgentes e preocupantes. De diversas maneiras, a cobertura feita sobre o “Verão da Lata” antecipou como a maconha seria por vezes tratada na imprensa brasileira nos primeiros anos do s éculo XXI em diante. A leveza se tornou um tom de voz possível para tratar do entorpecente. Naquele momento, entre setembro de 1987 e março de 1988, a droga não era mais motivo de calamidade pública. Nas páginas dos jornais do Rio de Janeiro, ainda que por um tempo limitado, os leitores puderam se deparar com uma cobertura despretensiosa e pouco agressiva. Em sua profunda especificidade, o “Verão da Lata” acabou por desassociar a droga do tráfico nas comunidades cariocas, permitindo aos repórteres vislumbra rem um momento em que a maconha não necessariamente seria uma das causas da derrocada do Rio de Janeiro. Sim, estava associada ao tráfico internacional, do “Solana Star”, mas sua aparição não estava ligada à falência do poder público e sim a uma casualidad e de caráter internacional. No “Verão da Lata”, a maconha apareceu longe das armas. Foi, por um tempo, companheira da risada.",
+      "content_length": 2341
+    }
+  },
+  "available_doco_labels": [
+    "doco:Conclusion",
+    "doco:Discussion",
+    "doco:Introduction",
+    "doco:Results"
+  ],
+  "missing_doco_labels": [],
+  "doco_sections": {
+    "doco:Introduction": [
+      {
+        "header": "1. INTRODUÇÃO…………………………………………………………………….1",
+        "legacy_role": "introduction",
+        "start_char": 69,
+        "end_char": 84,
+        "content": "2. AS DROGAS E O JORNALISMO ...............................................……….….….5 2.1 O jornalismo e a maconha ao longo da história..………………………………6 2.2 Os leitores e as drogas...……………………………………………….……..…10 2.3 As drogas nos boletins policiais...........................................................................13 3. O JORNALISMO E A CIDADE......……………………………………………18 3.1 O jornalismo de cidade ganha novas técnicas.....................…………….………19 3.2 O Tempo na narrativa jornalística.....………………………………………26 3.3 O Estigma e a Notícia…………………………………………………………32 3.4 Equilibrando expectativas....................................................................................33 4. ANÁLISE DAS REPORTAGENS.....……………………………………………37 4.1 A Análise do Discurso Crítica............................................…………….………38 4.2 As ferramentas de análise.........................................…………………………40 4.3 Análise dos objetos.....………………………………………………………41 5. CONCLUSÃO.........................................................................................................57",
+        "content_length": 1073
+      },
+      {
+        "header": "1. INTRODUÇÃO",
+        "legacy_role": "introduction",
+        "start_char": 94,
+        "end_char": 138,
+        "content": "De boca a boca, o “Verão da Lata” deixou de ser apenas uma questão de boletins policiais na imprensa para invadir a cultura: músicas, camisetas, livros e documentários foram feitos em homenagem ao acontecimento. Dezenas de reportagens narraram a chegada das milhares de latas lacradas com maconha nas praias do sul e sudeste brasileiro. Com contornos de romance policial, a história da tentativa frustrada de tráfico internacional de drogas protagonizada pelos tripulantes do navio “Solana Star” foi destrinchada entre setembro de 1987 e março de 1988 nas páginas da grande imprensa. Logo se soube que Stephen Skelton, cozinheiro da embarcação, seria o único preso pelo crime cometido no litoral fluminense. Por isso, a ação da Polícia Federal recebeu repetido destaque em manchetes ao longo de todo o processo. Mas nada disso explica a permanência do caso no imaginário popular carioca. Mais do que isso, dentre as milhares de latas que boiavam no litoral carioca, muitas foram parar na mão da população civil. Além da permanência como acontecimento cultural, o “Verão” se destacou pelas maneiras como não foi descrito. Parte considerável das reportagens feitas sobre venda, compra e uso de entorpecentes figuram exclusivamente no âmbito da violência urbana e de segurança pública, com uma longa e profunda associação entre maconha, tráfico de drogas e falência social nos jornais do Rio de Janeiro. Mas, por conta de sua chegada que fugiu do contexto do crime organizado carioca, as latas do “Solana Star” não foram alvo da mesma contextualização. O seguinte trabalho se propõe, portanto, a entender se o “Verão da Lata” aparece como emblemático na história do jornalismo carioca. O objetivo é analisar, através do estudo bibliográfico sobre como as drogas ilícitas e as próprias cidades aparecem nos jornais, quais são os padrões por eles estabelecidos para essas duas coberturas. Além disso, observar de 1 Tradução do autor. LERNER, Ben. 10:04. Nova Iorque: Faber and Faber, 2014. p 2 2 que maneira o “Verão” foi, de fato, retratado na grande imprensa do Rio de Janeiro através do Jornal do Brasil e O Globo. Por fim, o trabalho tenta entender de que maneira os objetos analisados dialogam com as tendências discursivas apontadas anteriormente, seja mantendo ou afastando-as. Com essas propostas em mente, uma revisão bibliográfica nos dois primeiros capítulos procura dar conta de contextualizar o ocorrido com outros casos similares na história da imprensa brasileira, além de buscar mostrar um arcabouço teórico que contemple o jornalismo, a cidade e as drogas ilícitas. No terceiro capítulo, então, o trabalho passará para uma análise qualitativa de reportagens feitas pelo Jornal do Brasil e O Globo sobre o “Verão da Lata”. Para isso, a metodologia de Análise do Discurso Crítica foi escolhida. O objetivo é descobrir se, na cobertura desses dois jornais, o “Verão” possibilitou uma mudança de formato e tom em relação ao visto nos capítulos anteriores. O primeiro capítulo aborda as relações entre imprensa e drogas ilícitas, analisando como esses entorpecentes — e, mais em específico, a maconha — foram retratados no jornais brasileiros ao longo do século XX. Pesquisas, teorias e reportagens de diversas épocas serão analisados para poder montar um panorama da transformação discursiva do assunto até a chegada do “Verão da Lata”, no final da década de 1980. Mais especificamente, se observa como a maconha alcançou um status de inimigo público nos jornais durante as décadas de",
+        "content_length": 3492
+      }
+    ],
+    "doco:Results": [
+      {
+        "header": "15 . Para o autor, por exemplo, o “Penny Paper” criado nos EUA e Inglaterra, seria um dos formatos",
+        "legacy_role": "results",
+        "start_char": 690,
+        "end_char": 692,
+        "content": "responsáveis pela “invenção do conceito moderno de notícia”.",
+        "content_length": 60
+      },
+      {
+        "header": "17 No jornal O Globo, por exemplo, o primeiro caderno é composto das editorias “Nacional”, “Economia” e",
+        "legacy_role": "results",
+        "start_char": 759,
+        "end_char": 792,
+        "content": "“Rio”. 22 de significado à vida cotidiana”. São ferramentas que têm “seu peso elevado quando as expectativas comuns falham e quando o homem cotidiano se confro nta com anomalias e contradições na regularidade de seu sistema social” (SILVA, 2015, p 12-13). A extrapolação para o fenômeno do “Verão da Lata” é pertinente. Considerando ter sido um episódio que rompeu com o cotidiano da cidade do Rio de Janeiro, uma metrópole simbolicamente marcada pela sua relação com a compra e venda de drogas ilícitas, o caso foi objeto da construção narrativa do jornalismo. Publicações como o Globo e o Jornal do Brasil foram necessárias para o homem burguês carioca, que se viu con frontado com uma sucessão de acontecimentos que lhe escapavam a ordem estabelecida até então. O aparecimento de uma quantidade exorbitante de maconha, ainda por cima desligada do tráfico de drogas das comunidades carentes da cidade, deu espaço a uma série de questionamentos e narrativas conflitantes. A associação entre uso e consumo de drogas com as mazelas sociais, como vista no capítulo anterior, é aqui abalada, e cabe ao jornal retomar as rédeas da realidade para dar sentido àquele acontecimento. Se a droga é desassociada do tráfico de drogas, seu uso é ilegal?18 A resposta está, segundo Silva (2015), na “própria divisão dos jornais tradicionais em secções e cadernos específicos – métrica e cronologicamente segmentados” (2005, p 14), uma maneira de domesticação do tempo. Para ele, a tarefa de leitura do jornal, de “virar a página” permite aos leitores a possibilidade de: Visualizar, uma após a outra, abordagens ‘racionais e objetivas’ dos acontecimentos cotidianos sem se deparar – dia após dia – com o colapso do desconhecido. Mais além, representando o acesso controlado ao ‘caos’ (aquilo que rompe com a regularidade cotidiana) dominado pela racionalidade jornalística. (SILVA, 2015, p 14) Além das divisões formais das páginas do jornal, é preciso analisar os produtores das reportagens que preenchem esses espaços. Historicamente, a figura do repórter se transformou intensamente nos dois séculos desde sua aparição. Em “A importância do texto de qualidade para o jornalismo impresso diário” (2015), Daniela Pereira Bochembuzzo e Samanta Ravazzi analisam o momento de tran sformação do tom de voz do jornalista da virada do século XIX para XX . Segundo elas, foi esse período, de final da Monarquia e",
+        "content_length": 2393
+      }
+    ],
+    "doco:Discussion": [
+      {
+        "header": "4. ANÁLISE DAS REPORTAGENS",
+        "legacy_role": "results",
+        "start_char": 1273,
+        "end_char": 1299,
+        "content": "Na minha rua estão cortando árvores botando trilhos construindo casas. Minha rua acordou mudada. Os vizinhos não se conformam. Eles não sabem que a vida tem dessas exigências brutas. Só minha filha goza o espetáculo e se diverte com os andaimes, a luz da solda autógena e o cimento escorrendo nas formas. (Carlos Drummond de Andrade, 1930)28 Durante o “Verão da Lata”, boa parte do Rio de Janeiro soube das milhares de latas que apareciam flutuando nas praias do litoral fluminense, refletindo o intenso sol de novembro em seu revestimento metálico. Não foi um episódio limitado apenas aos usuários de maconha ou aos inter essados em gerar pés de meia através da revenda dos lotes. Muito menos somente aos moradores da Zona Sul carioca ou de alguma das praias do interior do estado. O “Verão da Lata” se aprofundou no imaginário popular, gerando inclusive gírias que perdurariam por algumas décadas29. E, numa época pré-internet, esse alcance se deu por boca a boca entre os jovens da cidade e pela intensa produção jornalística. Revistas, rádios, televisões e jornais esmiuçaram o caso dando considerável espaço para a investigação em torno dos donos do navio Solana Star e toda a ação da Polícia Federal. Fez-se então uma cobertura tradicional sobre um episódio extremamente não usual. O mesmo aconteceu com o Jornal do Brasil e O Globo, que publicaram dezenas de notas, matérias e reportagens sobre o caso ao longo dos meses de setembro de 1987 e fevereiro de",
+        "content_length": 1462
+      },
+      {
+        "header": "4.1 A Análise do Discurso Crítica",
+        "legacy_role": "results",
+        "start_char": 1318,
+        "end_char": 1341,
+        "content": "Surgida no me io dos anos 60, a Análise do Discurso Crítica é fruto do trabalho conjunto e interdisciplinar de acadêmicos de diversas áreas do conhecimento. Em sua maioria europeus, são e foram pesquisadores oriundos da filosofia, sociologia, antropologia, história, est udos literários, psicologia e linguística. Em comum, compartilhavam da necessidade de encontrar novas maneiras de interpretar o que chamavam de “discurso”, “um evento comunicativo que incorpora um contexto social”30. Como observa o holandês Van Dijk em “New Analysis”, de 1988, essa vontade latente de uma nova metodologia surge por conta da então separação profunda entre a análise linguística e a análise sociológica da comunicação. Se, naquele momento, muito já se havia avançado na maneira como se analisava a comunicação escrita e falada nas duas áreas, pouco era feito para unir ambas as interpretações, o que separava o que Van Dijk considerava “texto e contexto”. É desse somatório de disciplinas anteriormente pouco interligadas que surge o campo de es tudo da Análise do Discurso Crítica. Preocupada em entender como unir o caráter normativo do estudo da gramática com as “propriedades individuais e presas ao contexto” do discurso, ela surge com o objetivo de: Produzir descrições sistemáticas e explícitas das unidades de uso da linguagem que chamamos de discurso [...] o que envolve a integração do texto e contexto no sentido de que o uso de discurso em uma situação social é o mesmo que um ato social. (VAN DIJK, 1988, p 30) Através desse somatório, argumenta Van Dijk, a Análise do Discurso Crítica também se torna um campo de estudo fecundo para a análise das notícias. Para ele, a particularidade de registros, gêneros e táticas retóricas no discurso da imprensa são marcadores que facilitam",
+        "content_length": 1780
+      },
+      {
+        "header": "4.2 As ferramentas de análise",
+        "legacy_role": "results",
+        "start_char": 1390,
+        "end_char": 1436,
+        "content": "Além do estudo contextual da notícia Análise do Discurso Crítica oferece uma série de ferramentas que deverão ser escolhidas e utilizadas durante o estudo do texto em si. Como dito por Norman Fairclough, primeiro as dimensões de intertextualidade e interdiscursividade aparecem, para que então entre a análise dos textos, o que ele chama de “micro-análise da prática discursiva”. Em “Discurso e mudança social”, Fairclough introduz essas ferramentas para a utilização em análise de itens noticiosos. Para o auto r inglês, é preciso que antes da análise, o pesquisador determine um conjunto dessas ferramentas para que conduza sua metodologia. Assim, escolheu -se dentre as possibilidades propostas por Fairclough um total de oito critérios de avaliação textual para as notícias envolvendo o “Verão da Lata” no Jornal do Brasil e no Globo: “Interdiscursividade”, “Condução da prática discursiva”, “Intertextualidade Manifesta”, “Coesão”, “Ethos”, “Gramática”, “Significado das Palavras” e “Prática Social”. A “Interdiscursividade” é a primeira categoria a ser analisada dentro de cada amostra. Nela, Fairclough sugere que se defina qual é “gênero discursivo” a que ela pertence, e, mais do que isso, qual papel cada amostra desempenha nele. Em outras palavras, se dada reportagem é um registro comum em comparação com a forma e estilo de outros discursos noticiosos ou se chega a ter elementos vanguardistas e experimentais. Há as “Conduções de Prática Discursiva”, que buscam iluminar a maneira em que a notícia é cons umida. Se trata 41 de uma ferramenta que apresenta as maneiras com as quais o leitor pode se deparar com a notícia e quais fatores ele leva em consideração durante sua leitura. Por exemplo, se um título ou imagem recebem mais destaques na página ou se uma ilu stração ocupa espaço ou não na reportagem. Já a “Intertextualidade Manifesta” visa analisar como o estilo e a voz se mantêm coerentes – ou não – em uma reportagem se comparada a outras em seu próprio veículo de imprensa. Para isso, é necessário levar em consideração os “Pressupostos” do texto, ou seja, a história dos critérios editoriais de cada jornal e do conhecimento prévio “comum” dos leitores sobre dado tema, e suas “Representações discursivas”, que são as maneiras em que as vozes de personagens entrevistados aparecem. Ela se aproxima bastante do “Ethos”, outra das ferramentas, que leva em consideração como o autor se apresenta dentro de cada texto. O outro fator, “Coesão” é o primeiro de análise puramente sintática e gramatical de uma notícia. Através dela, busca-se entender como as orações e ferramentas retóricas do texto dialogam entre si para gerar um significado maior. A “Gramática” é um dos conceitos e se subdivide nos fatores de “Transitividade”, em que se analisa como ações de um texto se desenrolaram ao longo dele e quais são seus personagens; o “Tema”, que identifica o assunto principal da reportagem e qual sua relevância dentro dela; e a “Modalidade”, onde a linguagem utilizada é estudada, levando em consideração as formas verbais e o uso de adjetivos e advérbios ao longo do registro. Também há o “Significado das palavras”, que analisa as palavras -chaves da reportagem, buscando entender o seu poder de impacto no leitor, que visões específicas elas transmitem sobre o assunto abordado e como elas fazem parte da construção de estigmas do vocabulário jornalístico. E, por último, aparece a “Prática Social”, outra ferramenta que se divide em duas categorias: a “Matriz Social do Discurso”, que traça a origem social do objeto analisado, e as “Ordens do Discurso”, que observa como o objeto pode transformar os valores em que é baseado.",
+        "content_length": 3653
+      },
+      {
+        "header": "4.3 Análise dos objetos",
+        "legacy_role": "results",
+        "start_char": 1436,
+        "end_char": 1455,
+        "content": "Com as ferramentas e conceituação da Análise de Discurso Crítica, e com a revisão bibliográfica dos dois capítulos anteriores, analisaremos o material recolhido sobre o “Verão da Lata”. O total é de 37 reportagens, publicadas tanto no Jornal do Brasil quanto no Globo. Porém, após uma seleção qualitativa desse material, sete serão analisadas; quatro vindas das 42 páginas do Jornal do Brasil e três do Globo. Entre os critérios de escolha estão o tamanho das matérias — que vão além de pequenas notas publicadas ao longo daquele verão —; sua temporalidade, sendo publicadas entre os meses de setembro de 1987 e março de 1988; e, sempre que possível, as matérias que contassem com ilustrações ou infográficos; por último, foram escolhidas reportagens que apresentavam mais proeminentemente fatores explorados nos capítulos anteriores. Texto 1) 31 Nessa matéria, do dia 04 de outubro de 1987, “Itaúna se diverte pescando 200 latas de maconha no mar”, um termo se destaca no título: o verbo “se divertir”. Como visto no primeiro capítulo, e utilizando o “Significado das Palavras”, esse é um uso extremame nte pouco usual em uma cobertura jornalística sobre drogas no Brasil. O significado de “diversão”, que traz um aspecto agradável e lúdico a uma atividade, contrasta diretamente",
+        "content_length": 1280
+      }
+    ],
+    "doco:Conclusion": [
+      {
+        "header": "5. CONCLUSÃO",
+        "legacy_role": "conclusion",
+        "start_char": 1814,
+        "end_char": 1842,
+        "content": "A análise metodológica e qualitativa das reportagens publicadas pelo Jornal do Brasil e O Globo, revelam a particularidade do “Verão da Lata” em seu contexto histórico. Com a bibliografia vista nos dois primeiros capítulos, é perceptível a abordagem então única feita pela imprensa carioca. Ainda que em intensidades diferentes – com o Jornal do Brasil demonstrando mais liberdade e inovação em seus formatos – ambos os jornais acabaram por desassociar completamente a chegada da maconha nas praias cariocas à violência e segurança pública, algo que fugia da regra estabelecida ao longo das décadas anteriores. Viuse que os jornais brasileiros criaram um precedente, ao longo do século XX, para uma narrativa que privilegiava a visão do Estado e da polícia. Porém, s e drogas ilícitas eram retratadas em uma imagem desesperadora de seus efeitos como fatores de falência social, no “Verão da Lata”, a maconha assumiu um papel inofensivo. Nas reportagens analisadas, as latas eram ao mesmo tempo vistas como fato curioso e uma inconveniência ou perturbação da ordem pública de escala contida. A vis ão dos jornais mais evidente era a de que, ao longo daqueles meses, as matérias sobre o “Verão” serviriam para aliviar um pouco as tensões das outras notícias mais urgentes e preocupantes. De diversas maneiras, a cobertura feita sobre o “Verão da Lata” antecipou como a maconha seria por vezes tratada na imprensa brasileira nos primeiros anos do s éculo XXI em diante. A leveza se tornou um tom de voz possível para tratar do entorpecente. Naquele momento, entre setembro de 1987 e março de 1988, a droga não era mais motivo de calamidade pública. Nas páginas dos jornais do Rio de Janeiro, ainda que por um tempo limitado, os leitores puderam se deparar com uma cobertura despretensiosa e pouco agressiva. Em sua profunda especificidade, o “Verão da Lata” acabou por desassociar a droga do tráfico nas comunidades cariocas, permitindo aos repórteres vislumbra rem um momento em que a maconha não necessariamente seria uma das causas da derrocada do Rio de Janeiro. Sim, estava associada ao tráfico internacional, do “Solana Star”, mas sua aparição não estava ligada à falência do poder público e sim a uma casualidad e de caráter internacional. No “Verão da Lata”, a maconha apareceu longe das armas. Foi, por um tempo, companheira da risada.",
+        "content_length": 2341
+      }
+    ]
+  }
+}

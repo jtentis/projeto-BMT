@@ -1,0 +1,1752 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+CENTRO DE CIÊNCIAS JURÍDICAS E ECONÔMICAS
+FACULDADE DE DIREITO
+O DIREITO À DESCONEXÃO LABORAL
+GISELE DIAS AMARAL
+RIO DE JANEIRO
+2017/2º Semestre
+GISELE DIAS AMARAL
+O DIREITO À DESCONEXÃO LABORAL
+Monografia de final de curso , elaborad a no âmbito da
+graduação em Direito da Universidade Federal do Rio de
+Janeiro, como requisito para obtenção do grau de
+Bacharel em Direito, sob orientação do Professor Dr.
+Rodrigo de Lacerda Carelli.
+RIO DE JANEIRO - RJ
+2017/2º Semestre
+GISELE DIAS AMARAL
+O DIREITO À DESCONEXÃO LABORAL
+Monografia de final de curso , elaborad a no âmbito da
+graduação em Direito da Universidade Federal do Rio de
+Janeiro, como requisito para obtenção do grau de
+Bacharel em Direito, sob orientação do Professor Dr.
+Rodrigo de Lacerda Carelli.
+Data da aprovação: ___/___/____.
+Banca examinadora:
+_____________________________________
+Orientador
+_____________________________________
+Membro da banca
+_____________________________________
+Membro da banca
+RIO DE JANEIRO
+2017/2º Semestre
+RESUMO
+___________________________________________________________________________
+O constante avanço tecnológico permite cada vez mais mudanças na forma de organização do
+trabalho, dinamizando as relações entre empresas e trabalhadores, ocasionando mudanças no
+processo produtivo, intensificando a exploração da m ão de obra, flexibilizando horários de
+trabalho e possibilitando novos tipos de contratação de trabalhadores. A introdução das novas
+tecnologias no ambiente de trabalho repercute na vida pessoal do empregado, permitindo sua
+conexão integral ao trabalho e aumentando o controle das empresas sobre a vida do trabalhador.
+Neste sentido, o trabalho acaba transcendendo os seus limites temporais e territoriais,
+adentrando na esfera da vida privada do trabalhador. É nesse contexto que surge a discussão
+sobre o direi to à desconexão, como forma de respeito ao lazer e descanso do empregado,
+assegurando sua saúde, intimidade e liberdade, de forma a se buscar um maior equilíbrio entre
+as suas vidas pessoal e profissional.
+PALAVRAS-CHAVE: direito à desconexão; trabalho; lazer; descanso; vida privada;
+equilíbrio.
+ABSTRACT
+___________________________________________________________________________
+The constant development of new technologies is being able to allow a lot of changes in the
+work organization , making more dynamic the relations between companies and workers,
+bringing changes in the productive process, intensifying the exploitation of labor, making work
+schedules more flexible and enabling new types of workers hiring. The introduction of new
+technologies into the work environment impacts on the employee’s personal life, allowing full
+connection to work , and increasing companies’ control of employees’ live . In this sense, the
+work transcends its temporal and territorial boundaries, entering the ambit of workers’ private
+life. All this motivates the discussion about the right to disconnect, as way to provide the respect
+of employee’s right to leisure and rest , preserving their health, privacy and liberty, in order to
+ensure a better balance between their personal and professional lives.
+KEY-WORDS: right to disconnect; work life; leisure; rest; personal life; balance.
+SUMÁRIO
+1. INTRODUÇÃO .................................................................................................................. 6
+1. DURAÇÃO DO TRABALHO ........................................................................................... 8
+2.1. CONSIDERAÇÕES INICIAIS ....................................................................................... 8
+2.2. DURAÇÃO DO TRABALHO E ASPECTOS LEGAIS .............................................. 11
+2.3. A IMPORTÂNCIA DA LIMITAÇÃO DA DURAÇÃO DO TRABALHO EM PROL
+DA EFETIVAÇÃO DE DIREITOS FUNDAMENTAIS .................................................... 17
+3. A INFLUÊNCIA DA TECNOLOGIA NA FORMATAÇÃO DO TRABALHO ............... 21
+3.1. A EVOLUÇÃO DAS FORMAS DE REALIZAÇÃO E ORGANIZAÇÃO DO
+TRABALHO A PARTIR DO DESENVOLIMENTO TECNOLÓGICO ............................ 21
+3.2. PANORAMA ATUAL .................................................................................................. 26
+3.3. DO TELETRABALHO ................................................................................................. 28
+4. O DIREITO À DESCONEXÃO .......................................................................................... 34
+4.1. CONCEITO ................................................................................................................... 34
+4.2. FUNÇÕES ATRELADAS AO DIREITO À DESCONEXÃO ..................................... 38
+4.3. DO DANO EXISTENCIAL .......................................................................................... 41
+4.4. O DIREITO À DESCONEXÃO NA JURISPRUDÊNCIA BRASILEIRA .................. 45
+4.5. A SOLUÇÃO FRANCESA .......................................................................................... 49
+5. CONCLUSÃO ...................................................................................................................... 52
+REFERÊNCIAS BIBLIOGRÁFICAS ..................................................................................... 57
+6
+1. INTRODUÇÃO
+A presente monografia terá como objeto de estudo o direito à desconexão, que surge como
+tentativa de tutela às problemáticas trazidas às relações de trabalho contemporâneas por meio da
+utilização dos instrumentos tecnológicos, que permitem a conexão a tempo integral ao ambiente
+de trabalho, em prejuízo da saúde, lazer e descanso do trabalhador.
+Com o avanço e constante desenvolvimento da tecnologia, foi possível propiciar maiores
+facilidades à realização do trabalho, de forma que novas tecnologias foram capazes de trazer,
+também, meios para tornar mais dinâmica a interação entr e empregados e empregador, além de
+tornarem mais eficazes as condições de se realizar o trabalho à distância.
+Nesta linha, facilitou -se também a forma de controle da jornada de trabalho 1,
+proporcionando meios mais eficazes e precisos para que se possa del imitar o tempo de trabalho
+consubstanciado no período de tempo que o empregado se submete aos poderes do empregador,
+sujeitando-se ao mesmo, e que se configura como um dos elementos centrais de um contrato de
+trabalho2.
+Além disso, as grandes inovações tec nológicas foram as responsáveis por possibilitar um
+maior controle sobre modo de realização do trabalho e de seu produto, permitindo, com sua
+evolução, novas formatações de exploração da mão de obra, como é o caso do teletrabalho ou
+home-office, em que a r ealização do trabalho é dada à distância, normalmente na residência do
+trabalhador, através dos meios telemáticos, informáticos e de comunicação.
+No entanto, ao tempo em que mencionado avanço traz benesses à realização do trabalho,
+surge um contraponto: o empregado corre cada vez mais o risco de ultrapassar a jornada de oito
+horas diárias, assegurada constitucionalmente, ainda que fora do ambiente de trabalho, em
+detrimento de seu descanso, lazer, vida privada e de sua saúde.
+1 MAIOR, Jorge Luiz Souto. Do Direito à Desconexão do Trabalho. Revista do Tribunal Regional do Trabalho
+da 15ª Região, Campinas, SP, n. 23, p. 296-313, jul./dez. 2003
+2 ALMEIDA, Almiro Eduardo de; SEVERO, Valdete Souto. Direito à De sconexão nas Relações Sociais de
+Trabalho. 2. ed. São Paulo: LTr, 2016.
+7
+Neste sentido, é necessário dizer que durante todo o desenvolvimento dos meios de
+produção e das formas de suas formas de organização , é possível perceber o grande impacto que
+a utilização da tecnologia vem causando não só à formatação do trabalho, mas também aos direitos
+trabalhistas, que foram sofrendo sensível flexibilização em prol de uma constante busca por
+maiores lucros e maior produtividade por parte dos empregadores.
+No primeiro capítulo desde trabalho, serão abordadas as questões atinentes à duração do
+trabalho, tratando da concepção sobre o que é tempo livre e tempo de trabalho, relacionando a
+limitação da duração do trabalho à efetivação dos direitos fundamentais à saúde, descanso, lazer,
+intimidade de vida privada. Aqui, serão observados os aspectos constitucionais e legais da duração
+do trabalho, elucidando quais as razões para a sua limitação, e como isso pode assegurar melhores
+condições de vida e de trabalho ao trabalhador.
+Na sequência, o segundo capítulo tratará da influência dos avanços tecnológicos sobre a
+formatação do trabalho e as formas de organização de produção industrial, indicando de forma
+sucinta como a tecnologia foi direcionada a beneficiar os detentores dos meios de produção, em
+detrimento do bem -estar e da autonomia do trabalhador, prejudicado por extensas e intensas
+jornadas de trabalho e diminuição de sua liberdade e do seu tempo livre.
+Por fim, o terceiro capítulo abordará o direito à desconexão, que, resumidamente, nada mais
+é do que o direito ao não-trabalho3, o direito de se abster das atividades laborativas durante o
+período de descanso do trabalhador, e que se pretende solução às demandas da sociedade da
+informação relativas ao excesso de trabalho ocasionado pela utilização de tecnologias qu e
+permitem a conexão com o trabalho a todo o tempo, fator que enseja a invasão da intimidade do
+trabalhador pelo trabalho.
+Com isso, pretende -se estudar à desconexão como uma nova forma de se interpretar
+institutos já existentes no Direito do Trabalho, com vistas a permitir que o trabalhador se desligue
+do seu ambiente de trabalho, buscando, dessa forma, um maior equilíbrio entre a vida pessoal e a
+vida profissional do empregado, sendo-lhe assegurado o livre exercício dos direitos fundamentais
+ao descanso e ao lazer durante os seus períodos de tempo livre. Isso porque o trabalho não pode
+3 MAIOR, Jorge Luiz Souto. Do Direito à Desconexão do Trabalho. São Paulo, 25 de junho de 2003. Disponível
+em: < http://www.egov.ufsc.br/portal/conteudo/do-direito-%C3%A0-desconex%C3%A3o-do-trabalho>. Acesso
+em 15 mai. 2017
+8
+ser elemento central da vida do ser humano, e que a limitação à duração do trabalho se constitui
+como condição necessária à manutenção de uma vida digna.
+1. DURAÇÃO DO TRABALHO
+2.1. CONSIDERAÇÕES INICIAIS
+A delimitação da duração do trabalho como a conhecemos hoje é resultado de muita
+resistência por parte dos trabalhadores, que durante bastante tempo ficaram submetidos a jornadas
+bem mais extensas, e com o máxim o de intensidade na realização do trabalho, o que foi
+possibilitado pelo ideal capitalista de se buscar maior obtenção de lucros, de forma a proporcionar
+um acúmulo de capital cada vez maior.
+A partir do final do século XVII, a forma com que as pessoas l idavam com o trabalho
+começou a mudar. Isso porque foi nesse momento em que o tempo começou a ser entendido como
+algo a ser consumido, que deveria ser utilizado de forma racional com o objetivo de se atingir a
+riqueza, de modo que “quase todo o tempo passou a ser dedicado ao trabalho, até mesmo o tempo
+do sono e do esporte que passam a ter como finalidade o restabelecimento da eficiência do corpo
+para a continuidade do trabalho”4.
+No contexto da revolução industrial, ocorrida na Inglaterra na metade do séc ulo XVIII, as
+condições para a realização do trabalho eram extremamente desumanas: a duração diária do
+trabalho poderia chegar a dezoito horas. Foi nesse momento em que a jornada de trabalho alcançou
+o seu ápice 5, o que configurou fator que ensejou uma sér ie de movimentos trabalhistas que
+reivindicavam melhores condições de trabalho.
+Foi através do implemento do capitalismo que o trabalho humano foi transformado, nas
+palavras de Ricardo Antunes, em mercadoria especial 6, tornando-se meio para a subsistênci a do
+4 Departamento Intersindical de Estatísticas e Estudos Socioeconômicos - DIEESE. Nota técnica: Redução da Jornada de
+Trabalho no Brasil. Disponível em: < https://www.dieese.org.br/notatecnica/2006/notatec16ReducaoDaJo rnada.pdf>.
+Acesso em: 23 de setembro de 2017.
+5 ROSSO, Sadi Dal. O Ardil da Flexibilidade: Os Trabalhadores e a Teoria do Valor. 1. ed. São Paulo: Boitempo, 2017.
+6 CATTANI, Antônio David; HOLZMANN, Lorena (organizadores). Dicionário de trabalho e tecnolo gia. 2. ed. Porto
+Alegre: Zouk, 2011.
+9
+indivíduo, e não mais voltado à confecção de bens e valores necessários à sobrevivência humana,
+passando a ser enxergada como geradora de valores -troca, cuja intenção era a valorização do
+capital.
+No final dos séculos XIX e XX, o Brasil passou por um processo de industrialização, período
+que ficou marcado por uma exploração massiva do trabalho, que combinando fatores como a
+intensidade da realização do trabalho, possibilitada pela utilização de máquinas em alta velocidade,
+e extensas jornadas de trabalho, que, em muitas das vezes, poderiam alcançar doze horas diárias.
+O grande marco para a limitação da jornada de trabalho se deu em 1919, com a Convenção
+nº 1 da OIT, que determinou o limite da duração diária de trabalho no setor industrial para oito
+horas, perfazendo quarenta e oito horas semanais. Referida convenção tinha por motivação a
+necessidade de salvaguardar a saúde e o bem-estar dos trabalhadores7, diante da percepção de que
+jornadas excessivas são bastante prejudiciais à integridade física e moral dos trabalhadores,
+também na ideia de que a limitação à duração do trabalho seria forma eficaz de limitar concorrência
+desleal.
+A partir daí, no Brasil, foram vários os movimentos dos trabalhadores que pretendiam a
+redução da jornada e a diminuição da intensidade do trabalho 8, que culminaram, em 1932, na
+fixação da jornada em oito horas diárias, por seis dias na semana, através do Decreto nº 21. 365,
+que também estabeleceu a realização de horas extraordinárias, limitando a duração do trabalho em
+dez horas diárias ou sessenta horas semanais.
+Na mesma linha, a Constituição de 1934 manteve a mesma delimitação da duração do
+trabalho, com a diferença de que, naquele momento, a delimitação da quantidade de horas extras
+a serem realizadas ficaria a critério dos empregadores. Na sequência, em 1943, houve a limitação
+das horas extraordinárias a duas horas diárias, com fixação de seu adicional em 20%, através da
+instituição da Consolidação das Leis do Trabalho. Foi apenas com a Constituição Federal, em
+1988, q ue foram estabelecidos os limites da duração do tempo de trabalho da forma que
+conhecemos hoje.
+7 LEE, Sangheon; MCCANN, Deirdre; MESSENGER, Jon C.. Duração do Trabalho em Todo o Mundo: Tendências de
+jornadas de trabalho, legislação e políticas numa perspectiva global comparada. Secretaria Internacional de Trab alho.
+Brasília: OIT, 2009.
+8 CATTANI; HOLZMANN (organizadores), 2011.
+10
+Nesse contexto, há a necessidade de se conceituar tempo de trabalho que, para Sadi Dal
+Rosso9, comportaria três dimensões, a saber: a duração, correspondente a um intervalo de tempo,
+demarcado seu início e fim pelas medidas convencionais de tempo; a distribuição, que diz respeito
+aos momentos em que o trabalho efetivamente está sendo realizado, em período de tempo
+determinado; e intensidade, que traduziria o esforço físico, emocional ou intelectual, desprendido
+pelo empregado quando da execução de determinada tarefa.
+Assim, necessário se faz dizer, que o tempo de não trabalho 10 se contrapõe ao con ceito de
+tempo de trabalho, e compreende os períodos em que o indivíduo exerce atividades alheias à
+jornada, concentrando-se em seu descanso e lazer. É a tempo da vida do indivíduo que corresponde
+ao seu tempo livre. Traduz-se no período em que o trabalhador vai se dedicar às atividades que lhe
+tragam satisfação pessoal e prazer, à realização de trocas sociais e ao convívio com a família.
+O tempo de não trabalho, desse modo, equivaleria ao tempo em que o empregado faz valer
+a sua autonomia; é o tempo livre para gozo de sua liberdade e descanso, e sobre ele o empregado
+deve ter liberdade para dispor . A partir dessa lógica, devemos ter em mente que em atenção às
+limitações da capacidade física, mental e emocional do trabalhador, o tempo de trabalho deve
+sofrer restrições em sua duração, a fim de resguardar a integridade do empregado.
+Valdete Souto e Almiro de Almeida11 asseveram que o tempo de vida não pode ser utilizado
+para servir ao outro, na condição de objeto . Dessa forma, é necessário que se assegure ao
+trabalhador o pleno gozo de seu tempo livre, porque o comprometimento de parte considerável do
+tempo de vida à execução das atividades laborativas traz uma série de prejuízos ao ser humano,
+que vê a própria existência sendo atingida.
+A partir da ideia de que tanto o tempo de trabalho quanto o tempo de lazer constituem formas
+de se assegurar a dignidade do indivíduo, haja vista serem formas de expressão da dignidade
+humana pela sua natureza de direitos fundamentais, é necessário que se ponha em prática o
+9 CATTANI, Antônio David; HOLZMANN, Lorena (organizadores). Dicionário de trabalho e tecnologia. 2. ed. Porto
+Alegre: Zouk, 2011.
+10 CATTANI; HOLZMANN, 2011, p.418.
+11 ALMEIDA, Almiro Eduardo de; SEVERO, Valdete Souto. Direito à Desconexão nas Relações Sociais de
+Trabalho. 2. ed. São Paulo: LTr, 2016, p. 20.
+11
+exercício adequado e responsável do tempo de vida, do tempo que dispomos para o convívio
+social12.
+Neste sentido, é imperioso destacar que na sociedade contemporânea, torna-se cada vez mais
+visível a confusão entre as concepções de t empo de trabalho e o tempo de vida do empregado,
+visto que a tendência atual das empresas é a exigência de uma maior disponibilidade do
+trabalhador, ainda que não no horário de trabalho13, o que corrobora com a ideia de que o capital
+usurpa o tempo que deve pertencer ao crescimento, ao desenvolvimento e à saúde do corpo14.
+2.2. DURAÇÃO DO TRABALHO E ASPECTOS LEGAIS
+A duração do trabalho pode ser compreendida como o lapso temporal em que o empregado
+se coloca à disposição do empregador, de forma que o primeiro abdica de uma parte do seu tempo
+de vida para que possa exercer as atividades laborativas impostas pelo segundo, em atenção a um
+contrato de emprego celebrado entre as partes.
+Da relação de subordinação do empregado ao empregador, percebe -se, desde logo, a
+hipossuficiência do primeiro no contexto de uma relação de emprego, partindo daí a necessidade
+de limitação do poder patronal, em atenção ao Princípio da Proteção, cujo objetivo é possibilitar
+melhores condições de trabalho – e de vida –, buscando trazer equilíbrio a esta relação jurídica que
+já nasce em desarmonia.
+Neste sentido, Bruno Klippel assevera a necessidade de intervenção do Estado no Direito do
+Trabalho15, “uma vez que a subordinação inerente ao vínculo de emprego aliada às expectativas
+dos empregadores lucrarem casa vez mais, propicia a exploração profunda da força de trabalho”.
+Há profundo descompasso entre as posições que ocupam o detentor dos meios de produção
+e aquele que efetivamente produz. Portanto, ao tratar da limitação da duração do trabalho, devemos
+ter em mente que, em prol de se buscar melhores condições para a realização do trabalho, função
+12 SARTRE apud ALMEIDA; SEVERO, 2016.
+13 MOREIRA, Teresa Coelho. A conciliação entre a vida pessoal e a familiar no momiento do trabalho 4.0. In
+Labour & Issues, vol. 3, nº 01, 2017.
+14 ALMEIDA; SEVERO, 2016.
+15 KLIPPEL, Bruno. Jornada de Trabalho e Direitos Fundamentais. 1. ed. São Paulo: LTr, 2016.
+12
+inerente ao Direito do Trabalho, que se afigura como forma de resguardar a integridade física e
+psíquica do trabalhador, restringe-se o poder do empregador sobre a vida do empregado.
+Nesse contexto, faz-se necessário dizer que a expressão “duração do trabalho” apresenta-se
+em sentido lato, podendo ser mensurada segundo diferentes parâmetros, tais como dia, semana,
+mês ou ano.
+À duração diária de trabalho dá -se o nome de jornada, cujo limite de horas é trazido pela
+Constituição Federal de 1988, em seu Art. 7º, XIII, que estabelece que a duração normal do
+trabalho não poderá exceder oito horas diárias, ou quarenta e quatro semanais. A Co nstituição
+Federal prevê, ainda, a possibilidade do exercício de duas horas extraordinárias diárias, mas estas
+em caráter excepcional, sendo necessária a incidência de acréscimo de, no mínimo, 50% ao valor
+do salário-hora normal.
+Com a entrada em vigor da Constituição Federal, revogou-se em parte o Art. 58 da CLT, que
+trazia o limite de quarenta e oito horas à duração semanal do trabalho. O novo limite à duração do
+trabalho lhe acarretou pequena diminuição, mas que ainda assim é apto a proporcionar uma melhor
+condição ao empregado na realização da atividade laborativa.
+Mas não apenas isso: o limite constitucional à duração do trabalho pode ser traduzido na
+ideia de uma maior preocupação do Estado com o trabalhador, reconhecendo -o como sujeito de
+direitos. Todavia, dentro da lógica capitalista na qual estamos inseridos, ao tempo em que se eleva
+o status do trabalhador, permite-se que se proceda à troca de tempo de vida por dinheiro, ao passo
+em que é através do trabalho que o indivíduo aufere renda para que possa ter uma vida digna.
+Assim, concluem Valdete Souto Severo e Almiro Eduardo de Almeida que “a Constituição
+de 1988 é o resultado desse conjunto antagônico de força: de um lado a retomada da lógica de
+proteção aos direitos sociais; de outro, a forte investida neoliberal” e que, assim, a diminuição da
+duração semanal do trabalho, apesar de se tratar de pequeno avanço, tem grande importância na
+construção de em Estado justo, fraterno e solidário16.
+16 ALMEIDA, Almiro Eduardo de; SEVERO, Valdete Souto . O direito à desconexão nas relações sociais de
+trabalho. 2. ed. São Paulo: LTr, 2016.
+13
+Neste ínterim, necessário dizer que, em total desaten ção ao limite diário imposto pela
+Constituição, a reforma trabalhista, introduzida no ordenamento jurídico brasileiro pela Lei
+13.467/2017, confirmando entendimento sumular do TST, acrescentou na Consolidação das Leis
+do Trabalho o art. 59 -A, que permite, em exceção à duração laboral normal, a realização do
+trabalho no regime de “Escala 12 por 36”, em que o empregado é submetido a uma jornada de
+doze horas diárias, seguidas por trinta e seis horas de descanso ininterruptos.
+No entanto, apesar de amplament e aceito pela jurisprudência trabalhista, referido regime é
+bastante criticado pela doutrina, eis que tem como escopo a ampliação dos limites diários da
+duração do trabalho, sem qualquer atenção à saúde do trabalhador que, na maioria das vezes,
+encontra-se vinculado a outro contrato de trabalho adotando o mesmo regime de duração do
+trabalho, de forma que segue espécie de revezamento entre um e outro. Assim, o trabalhador acaba
+por ficar impossibilitado de gozar plenamente do direito ao descanso e ao lazer.
+A elaboração de normas que tratam da duração do trabalho tem observado, em especial, a
+efetivação do direito à saúde do trabalhador, porquanto já comprovado cientificamente que na
+exposição deste a jornadas de trabalho muito extensas, que ultrapassam a s ua capacidade de
+resistência, “os sujeitos trabalhadores entram em processo de adoecimento, chegando, em casos
+extremos, à morte por excesso de trabalho”17.
+Por esse ângulo, deve-se ressaltar o caráter profilático18 atribuído às medidas, fundamentadas
+na prejudicialidade causada à saúde do empregado pela extensão de atividades laborativas, que
+têm por objetivo a diminuição da duração do trabalho (sentido amplo), no contexto da medicina
+do trabalho.
+Neste sentido, Valdete Souto Severo e Almiro Eduardo de Almeida:
+“A jornada é elemento central no que convencionamos denominar contrato de trabalho,
+e as regras sobre a sua limitação constituem a condição necessária para que o homem
+tenha uma vida digna, construindo suas pontes com seus semelhantes e identific ando-se
+como sujeito.” (2016, p. 19)
+17 ROSSO, Sadi Dal. O Ardil da Flexibilidade: Os Trabalhadores e a Teoria do Valor. 1. ed. São Paulo: Boitempo,
+2017, p. 74.
+18 DELGADO, Maurício Godinho. Curso de Direito do Trabalho. 11. ed. S ão Paulo: LTr, 2012.
+14
+Nessa perspectiva, pode -se inferir que os limites constitucionais à duração do trabalho
+encontram-se no “ patamar civilizatório mínimo ”19, explicado por Maurício Godinho Delgado
+como rol mínimo de direitos a serem garantidos ao empregado e que, em atenção ao Princípio da
+Indisponibilidade dos Direitos Trabalhistas, não podem sofrer alterações, tampouco ser objeto de
+negociação coletiva.
+A despeito disto, necessário dizer que a reforma trabalhista inseriu no corpo da C LT o Art.
+611-B, que em seu parágrafo único nega o caráter de norma de saúde e segurança do trabalho das
+regras que tratam da duração do trabalho e intervalos, permitindo, assim, que estas sejam objeto
+de negociação coletiva, que prevalecerá à lei, consoan te o art. 611-A, também acrescentado pela
+reforma, in verbis:
+“Art. 611-A. A convenção coletiva e o acordo coletivo de trabalho têm prevalência sobre
+a lei quando, entre outros, dispuserem sobre:
+I - pacto quanto à jornada de trabalho, observados os li mites constitucionais;
+(...)
+III - intervalo intrajornada, respeitado o limite mínimo de trinta minutos para jornadas
+superiores a seis horas;
+(...)”
+“Art. 611-B. Constituem objeto ilícito de convenção coletiva ou de acordo coletivo de
+trabalho, exclusivamente, a supressão ou a redução dos seguintes direitos:
+(...)
+Parágrafo único. Regras sobre duração do trabalho e intervalos não são consideradas
+como normas de saúde, higiene e segurança do trabalho para os fins do disposto neste
+artigo.”.
+Todavia, deve-se ressaltar que tal previsão merece ser alvo de críticas, na medida em que se
+encontra totalmente dissonante com o posicionamento da doutrina, “ é que as regras jurídicas
+reguladoras da jornada laborativa obreira não são mais apenas regras jurídicas de estrito fundo
+econômico, sendo também, principalmente, regras de saúde pública”20.
+Tratadas como normas de medicina e segurança do trabalho, as regras que limitam a duração
+do trabalho têm caráter imperativo. Nesta perspectiva, afirma Maurício Godinho Delgado que “(...)
+todos os princípios e regras associados ou decorrentes de tal imperatividade incidem,
+soberanamente, nesta seara” (2012, p. 879).
+19 DELGADO, 2012, p. 211.
+20 DELGADO, Maurício Godinho. Duração do Trabalho: o debate sobre a redução para 40 horas semanais. In
+Revista do Tribunal Superior do Trabalho, Porto Alegre, RS, v. 75, n. 2, p. 25 -34, abr./jun. 2009.
+15
+Para tanto, devemos evidenciar o Princípio da Imperatividade das Normas Trabalhistas, a
+partir do qua l aprendemos que as regras trazidas pelo Direito do Trabalho são, em maioria, de
+ordem pública, não podendo, portanto, ser afastadas pela vontade das partes. Tais normas
+configuram restrição à autonomia da vontade das partes, tendo obrigatoriedade de obser vância,
+com vistas a assegurar direitos e garantias fundamentais na relação de trabalho, tomando como
+ponto de partida o desequilíbrio inerente a este tipo de relação jurídica.
+Considerando o caráter imperativo das regras que tratam da limitação à duraç ão do
+trabalho, destacado acima, bem como sua natureza de se buscar a efetivação do direito à saúde do
+empregado, importante dizer que tal regramento sofreu uma grande – e, consequentemente,
+prejudicial – flexibilização pelo legislador pátrio, a partir do texto da reforma trabalhista.
+Isso porque, através da reforma, adentrou no ordenamento jurídico brasileiro o Princípio
+da Intervenção Mínima na Autonomia da Vontade Coletiva, que permite a prevalência da
+convenção ou acordo coletivo de trabalho à lei trabalhista, em se tratando de pacto sobre a jornada
+de trabalho, respeitados os limites constitucionais , e de intervalos intrajornada.
+“Art. 8º - As autoridades administrativas e a Justiça do Trabalho, na falta de disposições
+legais ou contratuais, decidirão, conforme o caso, pela jurisprudência, por analogia, por
+equidade e outros princípios e normas gerais de direito, principalmente do direito do
+trabalho, e, ainda, de acordo com os usos e costumes, o direito comparado, mas sempre
+de maneira que nenhum interesse de classe ou particular prevaleça sobre o interesse
+público.
+(...)
+§ 3 o No exame de convenção coletiva ou acordo coletivo de trabalho, a Justiça do
+Trabalho analisará exclusivamente a conformidade dos elementos essenciais do negócio
+jurídico, respeitado o disposto no art. 104 da Lei n o 10.406, de 10 de janeiro de 2002
+(Código Civil) , e balizará sua atuação pelo princípio da intervenção mínima na
+autonomia da vontade coletiva.” (NR) (Redação parcial do art. 8ª da CLT dada pela Lei
+13.467/2017).
+A limitação à duração do trabalho pode ser analisada a partir de três fundamentos: 1)
+biológico – que considera os reflexos de uma jornada extensa à saúde física e mental do
+trabalhador, haja vista a causação de fadiga e estresse pelo excesso de trabalho 21; 2) social – que
+tem como escopo possibilitar a realização de trocas sociais pelo trabalhador, permitindo-lhe maior
+convívio com a família, colegas e amigos; e 3) econômico – este último ponderando que,
+submetido a menores jornadas de trabalho, o emprega do tem a capacidade de produzir mais,
+auferindo maiores vantagens econômicas ao detentor dos meios de produção.
+21 CASSAR, Vólia Bonfim. Direito do Trabalho. 9. ed. São Paulo: Método, 2015.
+16
+A legislação trabalhista brasileira adotou como critério informador da composição da
+jornada o do tempo à disposição, consoante o disposto no art. 4º da CLT, cujo teor nos traz a
+assertiva de que tempo de trabalho é considerado aquele em que o trabalhador se coloca à
+disposição do empregador, independentemente de estar aguardando ordens, ou efetivamente
+produzindo.
+Neste sentido, infere -se qu e a adoção feita pelo legislador tem justificativa em se evitar
+possíveis arbitrariedades por parte do empregador, como a concessão de intervalos intrajornadas
+não previstos em lei22, ou mesmo desconsiderar como tempo de trabalho o período em que, ainda
+que à disposição do empregador, o empregado esteja aguardando ordens.
+Destaque-se que o tempo de trabalho são será tão somente aquele em que o trabalhador se
+coloca à disposição no estabelecimento da empresa, no local de trabalho propriamente dito: basta
+que o empregado tenha se colocado à disposição do empregador para a realização de alguma
+atividade laborativa.
+O maior exemplo de realização do trabalho fora do estabelecimento empresarial é o
+teletrabalho, agora regulamentado pelo texto da Reforma Traba lhista, conceituado como sendo
+aquele trabalho que será realizado fora das dependências do empregador, a partir da utilização de
+tecnologias de informação ou comunicação. Em que pese a utilização de meios telemáticos para a
+realização do trabalho, mantem -se a subordinação, elemento central na relação de emprego. No
+entanto, pela mesma reforma, a esse tipo de regime de trabalho, não se aplicam as regras do
+controle de jornada, por considerar o teletrabalho incompatível com o controle de jornada,
+conforme o inciso III que foi incluído no art. 62 da CLT.
+“Art. 62 - Não são abrangidos pelo regime previsto neste capítulo:
+(...)
+III - os empregados em regime de teletrabalho.”
+Também podem ser considerados como limites à duração do trabalho os intervalos
+trabalhistas destinados ao descanso do empregado, que segundo Godinho Delgado 23,
+correspondem a períodos de tempo, remunerados ou não, que podem ocorrer durante ou após a
+22 CASSAR, 2015.
+23 DELGADO, 2012, p. 946.
+17
+jornada de trabalho, ou mesmo em lapsos temporais concedidos semana (descanso semanal
+remunerado) ou anualmente (férias), em que há cessação da prestação de serviços pelo empregado
+e da sua disponibilidade ao empregador, cujo propósito é a recuperação física e mental do
+trabalhador, ou mesmo a propiciação de tempo familiar ou em sociedade.
+Por conseguinte, podemos concluir que o tempo de trabalho, assim considerado aquele em
+que o empregado se coloca à disposição do empregador, deve obedecer e atender aos limites
+constitucionais estabelecidos, com vistas a melhor efetivar os direitos fundamentais à saúde, lazer
+e descanso do trabalhador.
+2.3. A IMPORTÂNCIA DA LIMITAÇÃO DA DURAÇÃO DO TRABALHO EM PROL
+DA EFETIVAÇÃO DE DIREITOS FUNDAMENTAIS
+Dentre os fundamentos que justificam a limitação da duração do trabalho, merece destaque
+aquele que toma como escopo a proteção à saúde do trabalhador, direito trazido pela Constituição
+Federal, no título do Direitos de Garantias Fundamentais, e que se torna extremamente prejudicado
+diante de jornadas de trabalho extensas e exaustivas.
+Nas palavras de Maurício Godinho Delgado24:
+“A extensão do tempo de disponibilidade humana em decorrência do contrato laboral
+implica repercussões no plano da saúde do(a) trabalhador(a), no plano de sua educação
+e também no contexto de suas relações com a família e correspo ndentes crianças e
+adolescentes envolvidos.”
+Importa dizer que o direito à saúde, assim como o direito ao trabalho e ao lazer, elencados
+no art. 6º da Constituição Federal, integram o rol dos chamados Direitos Sociais que, numa
+perspectiva evolutivo -histórica, são classificados pela doutrina como direitos fundamentais de
+segunda geração, cuja preocupação é a busca por uma justiça social, através da efetivação do
+Princípio da Igualdade.
+24 DELGADO, Maurício Godinho. Duração do Trabalho: o debate sobre a redução para 40 horas semanais. Disponível em:
+<https://juslaboris.tst.jus.br/bitstream/handle/1939/13496/002_delgado.pdf?sequence=5>. Acesso em 01 de setembro de
+2017.
+18
+Os direitos sociais traduzem, segundo Alexandre de Moraes, liberdades positivas25, ao passo
+em que têm por finalidade uma atuação estatal para garantir ao indivíduo condições mínimas ao
+exercício de uma vida digna, com a melhoria de condições de vida aos hipossuficientes, visando
+à concretização da igualdade social 26. Contrapõem-se, portanto, aos direitos fundamentais de
+primeira geração, considerados como forma de limitação ao poder e atuação estatais, em atenção
+à autonomia pessoal, esta pautada nas liberdades individuais e na propriedade privada.
+Conquanto os direitos sociais tenham como objetivo a busca por melhorias nas condições de
+vida do indivíduo, a Constituição Federal arrola, em seu art. 7º, direitos cujo exercício é apto à
+efetivação dessas melhorias. Dentre tais direitos encontram -se a limitação à duração do trab alho
+(incisos XIII e XIV), o descanso semanal remunerado (inciso XV) e o gozo de férias remuneradas
+(inciso XVII).
+Se o trabalho é um meio necessário à manutenção da dignidade humana, é dever do Estado
+assegurar ao trabalhador o seu exercício em condiçõe s dignas, de forma a se fazer proteger,
+também, a sua saúde e lazer. Isso porque, do contrário, estaríamos negando a qualidade de sujeito
+de direitos conferida ao trabalhador pela Constituição Federal de 1988.
+Por isso, podemos concluir que os direitos acima elencados configuram verdadeira restrição
+ao poder patronal, na medida em que limitam o lapso temporal em que o trabalhador ficará
+submetido ao empregador. Desse ponto, depreende -se a ideia de que a proteção à saúde do
+trabalhador encontra amparo na efetivação de outros direitos fundamentais, como lazer e descanso.
+Reconhecido pelo texto constitucional o papel da limitação à duração do trabalho à
+efetivação dos direitos sociais do indivíduo, necessário dizer que não é somente a eles que se busca
+efetivação, mas também àqueles trazidos pelo art. 5º da Constituição Federal, como a liberdade
+intimidade e vida privada.
+Posto que quando da celebração de um contrato de emprego o trabalhador dispõe de parte
+de seu tempo de vida, é consequência a limitação ao gozo de direitos, eis que, durante aquele
+período, será o trabalhador afetado pela subordinação, sendo manifesta, então, a necessidade de
+sua restrição.
+25 MORAES, Alexandre de. Direito Constitucional. 32. ed. São Paulo: Atlas, 2016, p. 348.
+26 Idem.
+19
+É possível identificar, dessa forma, a profunda relação que tem o Direito do Trabalho e a
+efetivação dos direitos fundamentais trazidos pelo texto da Constituição Federal. Dê -se destaque
+ao valor finalístico essencial27 do Direito do Trabalho, consistente na melhoria das condições de
+pactuação da força de trabalho na ordem econômica 28, atrelado ao Princí pio da Proteção, que é
+princípio basilar deste ramo do Direito.
+Neste sentido, afirma Bruno Klippel29:
+“O respeito aos direitos humanos nas relações de trabalho, efetivados através da
+manutenção das relações trabalhistas baseadas no respeito aos direitos fundamentais,
+mostra-se como cerne do Direito do Trabalho, como a sua essência, sendo que o
+desenvolvimento do Direito do Trabalho, na caminhada entre o estado liberal e o social,
+esteve sempre atrelado à preocupação com o direito fundamental à saúde do
+trabalhador.”
+Demonstra-se necessária, assim, a observância aos direitos fundamentais nas relações de
+emprego, com vistas a afastar a autonomia da vontade privada nesse tipo de relação jurídica, eis
+que, conforme demonstrado anteriormente, o empregado é par te hipossuficiente e vulnerável, e
+que para sua subsistência e de sua família, seria capaz, inclusive, de renunciar a normas que visem
+proteger sua saúde, lazer, descanso e tantos outros direitos fundamentais que lhe foram garantidos
+pelo legislador constituinte.
+Portanto, atribuir a natureza de normas de higiene, proteção à saúde e segurança do trabalho
+às normas que tratam da duração do trabalho e intervalos e, além disso, dar -lhes, caráter de
+indisponibilidade, são formas de se conferir efetividade aos direitos fundamentais do trabalhador
+posto que, destarte, estaríamos assegurando não somente a sua saúde, como também o lazer, a
+intimidade e a vida privada e, desse modo, trazendo condições dignas para o exercício do direito
+ao trabalho, elemento inafastável da dignidade da pessoa humana30.
+As normas que cuidam da limitação da duração do trabalho, assim como aquelas que se
+preocupam com a instituição de intervalos durante a após a jornada, possuem caráter de normas
+de saúde pública, porque atinentes à medicina e segurança do trabalho. Buscam a efetivação do
+27 DELGADO, 2012, p 58.
+28 Idem.
+29 KLIPPEL, 2016, p. 22.
+30 ALMEIDA; SEVERO, 2016, p. 13.
+20
+direito fundamental à saúde do empregado, em vista da constatação de que a extensão do contato
+do empregado em determinadas atividades pode ser condição para configuração de potenciais
+efeitos insalubres ou perigosos para aquela atividade31.
+Nessa perspectiva, em uma postura de desobediência à limitação da duração do trabalho, ou
+mesmo diante de uma hipotética e prejudicial falta de regulamentação, haveria uma diminuição
+sensível da convivência do trabalhador com sua família e em outros cír culos, impedindo -o de
+efetivar as trocas sociais necessárias à sua constituição como sujeito. Segundo Valdete Severo e
+Almiro Eduardo, “não há como dissociarmos a ideia de direito ao lazer, à cultura, à educação,
+do direito à limitação da jornada, num ambi ente capitalista em que a maioria absoluta dos
+cidadãos realiza a atividade laboral" (2016, p. 32).
+O direito fundamental ao descanso, bem como o ao lazer, tem como fundamento a ideia de
+que o empregado precisa de momentos em que não irá exercer atividad es laborativas, já que o
+corpo humano encontra limites físicos e mentais à realização de esforço. Tais direitos
+proporcionam não só benefícios aos trabalhadores, que têm diminuição da fadiga, de adoecimentos
+e de acidentes de trabalho, causados pelo desemp enho de jornadas extensas, mas também ao
+empregador, porque se mantem a produtividade e a qualidade do serviço prestado32.
+Neste sentido, leciona C alvet33 que, o lazer na sua dimensão humana pode ser analisado a
+partir de quatro perspectivas: o direito ao lazer como necessidade biológica, consubstanciado nos
+momentos em que o trabalhador poderá reestabelecer as suas energias e, dessa forma, evitar
+doenças profissionais; da perspectiva social, calcado no tempo livre após o trabalho, e que
+possibilita as inter ações humanas e o convívio social, possibilitando a realização de atividades
+recreativas; lazer como necessidade psíquica, quando o trabalhador se dedica afazeres que lhe
+permitam esquecer a realidade da vida; e do lazer existencial, a partir da ideia de a cesso a bens
+imateriais (informações, cultura) e materiais que lhe proporcionem crescimento individual.
+31 DELGADO, 2012, p. 948.
+32 KLIPPEL, 2016, p. 56.
+33 CALVET, Otávio Amaral. A Eficácia Horizontal Imediata do Direito Social ao Lazer nas Relações Privadas
+de Trabalho. 2005. 176 f. Dissertação (Mestrado) – Pontifícia Universidade Católica de São Paulo. S ão Paulo,
+2005.
+21
+Diante disso, podemos encarar o trabalho em excesso como uma grande ameaça à efetivação
+dos direitos à saúde, descanso, lazer e vida privada do empregado. Por esse ponto de vista, resta
+evidenciada a grande importância da limitação à duração do trabalho em prol do pleno exercício
+dos direitos fundamentais do trabalhador.
+3. A INFLUÊNCIA DA TECNOLOGIA NA FORMATAÇÃO DO TRABALHO
+3.1. A EVOLUÇÃO DAS FORMAS DE REALIZAÇÃO E ORGANIZAÇÃO DO
+TRABALHO A PARTIR DO DESENVOLIMENTO TECNOLÓGICO
+O constante avanço t ecnológico, guiado pelo ideário do sistema capitalista de produção,
+desencadeou uma série de mudanças estruturais no processo produtivo no mundo, fazendo com
+que tanto as formas de realização e organização do trabalho, quanto a forma que o trabalho em si
+é enxergado pela sociedade passassem por modificações significativas.
+O trabalho, que no século XVII era realizado através de manufaturas, forma de organização
+de trabalho em que a habilidade manual do trabalhador era fator básico do processo de
+produção34. O trabalhador que detinha todo o conhecimento sobre o processo produtivo,
+realizando o trabalho a partir dos meios de produção que pertenciam ao empregador, sem que
+houvesse forma de imposição de forma ou velocidade de execução das tarefas, sendo ele o centro
+do processo produtivo, de forma a exercer controle sobre o ritmo e o processo da realização do
+trabalho.
+No momento em que o trabalho nas manufaturas começou a ser calcado na cooperação, a
+partir de uma divisão técnica do trabalho, o tempo dispend ido para a produção de determinado
+bem passou por uma diminuição, ao tempo em que ocorreu aumento na produtividade, a partir da
+divisão de tarefas entre os trabalhadores, tarefas essas que passaram por um processo de
+especialização. Tal fato ensejou diminuição na qualificação técnica nos trabalhadores e, também,
+no valor da força de trabalho35.
+34 TEIXEIRA, Déa Lúcia Pimentel; SOUZA, Maria Carolina A. F. de. Organização do processo de trabalho na
+evolução do capitalismo. Revista de Administração de Empresas, São Paulo, vol. 25, n. 4, out./dez. 1985.
+35 TEIXEIRA; SOUZA, 1985.
+22
+Com o advento do capitalismo e a ocorrência da Revolução Industrial no século XVIII,
+houve o rompimento com o sistema das manufaturas, a partir da introdução de m áquinas para
+auxiliar e agilizar o processo produtivo. Dessa forma, o trabalho manual, pautado na habilidade e
+agilidade do trabalhador, perde a sua importância, dando espaço a atividades ritmadas, realizadas
+através das máquinas: a função do trabalhador p assa a ser vigiá -las e operá -las, não mais sendo
+necessárias aptidões especiais que vão diferenciar o trabalhador.
+Segundo Marx36:
+“foi através da porta da fábrica que o homem pobre, a partir do século XVIII, foi
+introduzido no mundo burguês, onde a fábrica, com vistas à racionalização, já era
+pensada a partir das máquinas e não a partir do homem, levando a uma cisão entre a
+concepção e execução do trabalho, processo esse extremamente alienante para o
+trabalhador”.
+O primeiro modelo de produção difundido no bojo da Revolução Industrial foi o taylorismo,
+a partir do qual, rompendo-se com a mentalidade de trabalho calcado nas habilidades pessoais do
+trabalhador, o maquinário ocupa o centro do processo produtivo, que não mais precisar ser
+conhecido na sua totalidade por aquele que produz.
+Frederick Taylor, a partir do seu entendimento quanto aos princípios científicos de
+administração, idealizou processo produtivo a partir de uma nova gestão do trabalho. Aplicando
+uma maior racionalização no ambiente fa bril, sua ideia era a de que, com o objetivo de buscar
+maior produtividade 37, seria necessário: a) padronização das atividades que o compõem; b)
+contenção dos custos operacionais; c) melhor aproveitamento do tempo de execução do trabalho,
+tornando-o, pois, mensurável e melhor controlável pelo capital.
+Então, a partir de uma gerência científica, ocorreu espécie de reorganização do trabalho.
+Aqui, através na introdução de padrões hierárquicos no ambiente de produção, haveria um maior
+controle do processo produtivo. Os trabalhadores passaram a ser meros e xecutores de tarefas,
+enquanto apenas a administração do trabalho possuía todo o conhecimento sobre o processo de
+produção.
+36MARX, Karl apud CARVALHO, M. e Agenor Manoel de. O impacto da tecnologia no mercado de trabalho e as
+mudanças no ambiente de produção. Evidêcia. Axará/MG, vol. 12, p. 153 -172, 2010.
+37 TEIXEIRA, SOUZA, 1985.
+23
+TEIXEIRA e SOUZA38 destacam que foi por do estudo dos fundamentos de organização do
+trabalho que foi possibilitada a transferência do controle do processo produtivo à direção
+capitalista, que impunha uma maneira rigorosa e predeterminada à execução das tarefas pelo
+trabalhador. Foi a mecanização do processo produtivo que possibilitou a sujeição do trabalhador
+ao capital, desvalorizando a força de trabalho, prolongando a jornada e intensificando o trabalho.
+No início do século XX, surge o sistema fordista de produção, que vigorou como paradigma
+organizacional, econômico e político hegemônico na economia mundial39 até a década de 1970 –
+período marcado pela produção e consumo em massa, bem como pela introdução da linha de
+montagem no processo produtivo.
+Buscando diminuição no tempo dispendido para a produção automobilística e o aumento na
+produtividade, Henry Ford, mantendo alguns dos princípios tayloristas, estabeleceu uma maior
+simplificação das tarefas a serem realizadas por cada operário, propiciando individualização das
+tarefas em maior nível. A realização do trabalho se dava de forma repetitiva e fragmentada, e a
+remuneração dos operários se dava por tarefa produzida.
+Nesse contexto, “a divisão do trabalho, que anteriormente se dava em função das
+características do homem, passa a ter como base as características das máquinas ”40, de forma
+que o tempo para a realização das tarefas era imposto pelos engenhos tecnológicos, na medida em
+que toda tarefa passível de mecanização a eles foi transferida: o trabalhador não mais possuía
+controle sobre seu ritmo de trabalho.
+Com isso, diante do fato de que os salários eram pagos com medida na produtividade, a
+intensidade voluntária por parte dos operários quando do desempenho de suas funções foi
+desestimulada41, o que gerou uma grande rotatividade nos postos de trabalho (que era possibilitada
+justamente pelo fato de as tarefas exigirem pouca qu alificação dos operários, por serem simples
+em demasiado, não exigindo qualificação técnica dos operários e, portanto, podendo ser realizadas
+por qualquer pessoa).
+38 TEIXEIRA, SOUZA, 1985.
+39 CATTANI; HOLZMANN (organizadores), 2011.
+40 TEIXEIRA; SOUZA, 1985.
+41 Idem.
+24
+Com vistas a solucionar o problema, Ford estabeleceu o pagamento por dia de trabalho, que
+funcionava da seguinte forma: o operário que tivesse bom comportamento poderia receber cinco
+dólares ao dia, valor superior à média no mercado industrial.
+No entanto, referido bom comportamento não era apenas o desempenhado dentro do
+ambiente fabril, de forma que os trabalhadores eram vigiados por um Departamento de Sociologia,
+que tinham a função de verificar como aqueles operários viviam fora do trabalho. Note -se que,
+assim, foi possibilitada a transcendência do poder patronal ao âmbito da vida privada d aquele
+trabalhador.
+Com a aplicação do seu método de produção, Ford buscou uma diminuição dos custos
+necessários à fabricação dos produtos combinado com grande aumento da produtividade através
+da padronização do processo de produção e dos produtos fabric ados, conseguindo atingir o seu
+objetivo. Nas palavras de Linhart 42, o fordismo fico u caracterizado pelo emprego de uma
+“tecnologia baseada em máquinas de propósitos únicos e divisão social e técnica do trabalho
+baseada na utilização da cadeia de montagem”.
+Todavia, o sistema fordista enfrentou uma grande crise na década de 1970, provocada
+principalmente pela resistência dos operários ao aumento da produtividade, diante das condições
+de trabalho em que se encontravam, e pela saturação dos mercados de consumo, voltado à época
+a diversificação dos produtos, e não mais aos produtos homogêneos fabricados por Ford.
+Assim, deixou-se o modelo de produção em massa para dar lugar ao toyotismo, modelo de
+produção enxuta 43, implementado primeiramente no Japão, na indúst ria automobilística, com
+vistas a superar a crise capitalista vivida ao fim do século XX. Diante da estagnação do mercado
+de consumo, a solução colocada em pauta é condicionar a produção à demanda consumidora – é o
+denominado modelo just-in-time de produção.
+No sistema de produção toyotista, o processo produtivo passou a ser realizado em equipe,
+de forma que não havia uma demarcação rígida das tarefas a serem realizadas por cada
+42 LINHART apud CATTANI; HOLZMANN (organizadores), 2011.
+43 CATTANI; HOLZMANN (organizadores), 2011.
+25
+trabalhador44. Havia a necessidade de que os operários conseguissem atuar em cada uma das
+tarefas, de modo que a flexibilidade operava como norte para as habilidades dos trabalhadores.
+Enquanto no fordismo o controle sobre o processo produtivo recaía nas mãos da
+administração, no toyotismo a supervisão era realizada pelos própri os operários organizados em
+grupo, diante da possibilidade do pagamento de bônus pela produtividade. Aqui, buscava-se forma
+de constância na máxima qualidade dos produtos atrelada ao controle de desperdícios.
+No entanto, ao tempo em que o toytismo consegue alcançar maior produtividade pela adesão
+dos operários às metas estabelecidas pela empresa 45, percebe-se que, diante da flexibilidade nas
+habilidades de cada trabalhador integrante de um grupo – de modo que um trabalhador é capaz de
+operar diversas máqui nas e desempenhar diferentes tarefas –, além de promover diminuição do
+contingente de trabalhadores, permite que haja uma intensificação da exploração da força de
+trabalho, de forma que “os tempos de trabalho ‘morto’ desaparecem dos horários de trabalho”46.
+Por atuar junto ao controle do ritmo de da qualidade na produção, é passada ao trabalhador
+uma falsa ideia de autonomia, conforme destaca SANTOS47:
+O processo de aumento da exploração do trabalho aparece travestido por uma idéia de
+maior autonomia do trabalhador. Desse modo, o operário se percebe como alguém que
+está controlando o processo produtivo. Além de aumentar a produtividade do trabalho,
+a estratégia capitalista objetiva angariar o consentimento passivo do trabalhador frente
+às inovações na orga nização do trabalho, o que implica em novas formas de
+subordinação do trabalho ao capital, principalmente pelo engajamento do trabalho na
+produção.
+O toyotismo foi marcado pela flexibilização dos contratos de trabalho, pela utilização da
+terceirização e d a subcontratação, que levaram à fragmentação da classe trabalhadora, de modo
+que lhe foi diminuída a capacidade de organização para reivindicações 48. Além disso, pode -se
+inferir que foi período também marcado por uma realização exaustiva do trabalho, pautada também
+44 Idem.
+45 CATANNI; HOLZMANN (organizadores), 2011.
+46 ROSSO apud SANTOS, Paulo Roberto Félix dos. A intensificação da exploração da força de trabalho com a
+produção flexível: elementos para o debate. In O Social em Questão, ano XIV, n. 25/26, Rio de Janeiro, 2011.
+Disponível em: < http://osocialemquestao.ser.puc-rio.br/cgi/cgilua.exe/sys/start.htm>. Acesso em 08 de novembro de
+2017.
+47 SANTOS, 2011.
+48 CATANNI; HOLZMANN (organizadores), 2011.
+26
+em horas extras longas, semanas de trabalho sem folga, redução do tempo de lazer 49, excesso
+de trabalho que culminou na morte de muitos trabalhadores.
+Conforme se vê, com a evolução das formas de organização da produção industrial, houve
+sensível diminuição da autonomia de que dispunha o trabalhador, tanto sobre o modo de realização
+do trabalho, quanto do tempo dispendido à fabricação de algum produto. O trabalhador, que antes
+era valorizado por suas habilidades manuais, passou a ser enxergado com simples operador de
+máquinas, que poderia ser descartado a qualquer tempo, devido à simplicidade de execução das
+tarefas.
+Com vistas a uma maior produtividade, os trabalhadores foram submetidos a jornadas de
+trabalho extenuantes, que perpassavam a sua ca pacidade física e mental e que, conforme
+demonstrado anteriormente, chegaram ao seu ápice na Revolução Industrial. O poder exercido
+pelo empregador sobre os operários chegou a transcender os limites da vida profissional, de modo
+que restou afetada inclusive a liberdade do trabalhador de dispor sobre o seu próprio tempo.
+Em todo esse período de evolução tecnológica, percebe-se uma diminuição cada vez maior
+dos períodos de descanso e lazer, atrelada a uma constante intensificação na exploração da classe
+operária, cujas condições de trabalho causaram sérios prejuízos à saúde e qualidade de vida
+daqueles que produzem.
+3.2. PANORAMA ATUAL
+Conforme demonstrado anteriormente, os constantes avanços tecnológicos influenciam
+sobremaneira nas relações de trabalho, uma vez que recaem sobre a forma de organização do
+processo produtivo. Nesse sentido, é possível dizer que o Direito do Trabalho é um dos ramos do
+Direito mais suscetíveis à influência das transformações tecnológicas50.
+A sociedade atual, caracterizada como uma sociedade da informação, está passando por uma
+revolução tec nológica, a partir da qual, com o notável crescimento que teve a internet e a
+possibilidade de conexão a tempo integral aos meios eletrônicos, propiciou-se maior dinamização
+nas relações de trabalho.
+49 ALVES, Leonardo M. Toyotismo. Ensaios e Notas, 24 de setembro de 2017. Disponível em:
+<https://ensaiosenotas.com/2017/09/24/toyotismo/>. Acesso em 10 de novembro de 2017.
+50 MOREIRA, 2017.
+27
+Apontada como Indústria 4.0, a revolução informática v ivida tem se mostrado verdadeiro
+desafio ao Direito do Trabalho, porque altera toda a forma realização do trabalho, que passa a ser
+desempenhado a partir de plataformas digitais e de tecnologias que permitem a troca de
+informações no mundo todo, criando um novo tipo de trabalhador cuja subordinação é marcada
+por uma falta de limites espaciais e temporais51.
+A partir disso, extrai-se a ideia de que o trabalho contemporâneo vem assinalado por intensa
+flexibilização do tempo e do ambiente de trabalho, passando ao trabalhador uma imagem de uma
+maior liberdade assegurada. Cresce a impessoalidade nas relações de trabalho, agora possibilitadas
+em níveis globais52.
+Aduz Teresa Coelho 53 que a flexibilização dos horários de trabalho apresenta grande
+obstáculo à sua limitação. Isso porque atualmente muitos dos trabalhadores são avaliados a partir
+dos resultados obtidos, tornando cada vez mais dificultosa a conciliação entre o tempo de trabalho
+e o da vida pessoal.
+Segundo Elaine Rabelo54, a crença tida no século passado de que, com o desenvolvimento
+tecnológico, as pessoas teriam mais momentos de lazer e diminuição nas horas de trabalho, não se
+concretizou, na medida em que as novas tecnol ogias possibilitam o exercício de cada vez mais
+horas trabalhadas fora do ambiente de trabalho, destacando que a tecnologia é primordial em se
+tratando da invasão pelo trabalho na vida privada do indivíduo.
+No entanto, os reflexos das novas tecnologias não se limitam à nova organização de
+produção, mas há repercussão , também, no contexto das relações empregatícias . Isso porque
+permite ao trabalhador a sua conexão a tempo integral ao trabalho, através da utilização de e-mails,
+mensagens ou aplicativos que permitam a comunicação e troca de informações em tempo real,
+fazendo com que o trabalhador esteja disponível a todo momento, o que possibilita o aumento do
+controle do empregador sobre a vida do empregado.
+51 RAY apud MOREIRA, 2017.
+52 ALVES, 2017.
+53 MOREIRA, 2017.
+54 GONGALVEZ, Juliana. Tecnologia, Rapidez e precarização compõem cenário do mercado de trabalho atual.
+Brasil de Fato, 27 de junho de 2017. Disponível em: < https://www.brasildefato.com.br/2016/06/27/tecnologiarapidez-e-precarizacao-compoem-cenario-do-mercado-de-trabalho-atual/>. Acesso em 16 de novembro de 2017.
+28
+Ademais, a utilização dos meios eletrônicos possibilita outras formas de contratação de
+trabalhadores, como é o caso do trabalho à distância. A exemplo, tem-se o teletrabalho, em que
+realização do trabalho se dá fora das dependências do empregador, atravé s de aparelhos
+informáticos e de comunicação. Outro exemplo é o regime de sobreaviso, em que o empregado é
+submetido ao controle do empregador a partir de meios telemáticos, à distância, e permanecem em
+plantão, aguardando ser acionado para a execução de algum serviço.
+Destaca Souto Maior55 que, ao mesmo tempo em que os meios tecnológicos possibilitam a
+informação e atualização do indivíduo sobre o que acontece ao seu redor no mundo externo, sua
+utilização também é responsável pela submissão do homem à tecnologia, convertendo o prazer da
+informação em uma obrigação, a fim de que o homem não venha a perder seu lugar no mercado
+de trabalho.
+Ainda que os avanços tecnológicos proporcionem maior facilitação à realização do trabalho
+e permitam novas padrões de c ontratação de trabalhadores, é necessária muita cautela na sua
+utilização, haja vista que tem como decorrência diminuição à autonomia do indivíduo, por meio
+flexibilização dos horários de trabalho, com consequente anulação entre os conceitos de tempos
+de t rabalho e não trabalho 56, diferenciação fundamental para identificar os horários de lazer e
+descanso, e aqueles destinados às atividades laborais.
+3.3. DO TELETRABALHO
+Como consequência das revoluções tecnológicas vividas, surge o regime do teletrabal ho,
+também conhecido como home -office, modalidade de trabalho à distância que tem como
+pressuposto a utilização dos meios tecnológicos para a manutenção das relações entre empregado
+e empregador e para a prestação das atividades laborativas, cuja realizaçã o se dará fora das
+dependências do empregador, conforme já explicitado anteriormente.
+Para Godinho Delgado57, o teletrabalho é aquele realizado por meio da informática e novos
+meios de comunicação, podendo se concretizar a partir de diversos locais pela ut ilização de
+55SOUTO MAIOR, 2003.
+56 ROSSO, 2017.
+57 DELGADO, 2012.
+29
+aparelhos eletrônicos. Noutro aspecto, Vólia Bomfim 58 destaca que o teletrabalho “pode ser
+desenvolvido no domicílio do empregado ou em um centro de computação, um escritório virtual
+ou alugado por hora para este fim aos interessados, pois há uma descentralização da empresa”.
+Antes da Reforma ocorrida no ano de 2017 , o teletrabalho tinha conceito indefinido 59,
+recebendo diferentes sentidos na doutrina brasileira. Para alguns autores, teletrabalho seria aquele
+exercido apenas com a utilização dos meios informáticos, não abarcando, para tanto, telefones e
+outros meios de comunicação, podendo inclusive ser realizado parcialmente dentro do
+estabelecimento empresarial.
+Outra corrente defende teletrabalho seria o trabalho remoto, que se consubstanciava na
+prestação de serviços pela utilização de instrumentos tecnológicos e de informática,
+preferencialmente no ambiente da casa do trabalhador, destacando -se aqui a presença da
+subordinação ao tomador de serviços.
+O conceito legal de teletrabalho foi trazido para o ordenamento jurídico brasileiro através
+da reforma trabalhista, que inseriu na CLT o Art. 75-B, com a seguinte redação:
+“Art. 75-B. Considera-se teletrabalho a prestação de serviços preponderantemente fora
+das dependências do empregador, com a utilização de tecnologias de informação e de
+comunicação que, por sua natureza, não se constituam como trabalho externo.
+Parágrafo único. O comparecimento às dependências do empregador para a realização
+de atividades específicas que exijam a presença do empregado no estabelecimento não
+descaracteriza o regime de teletrabalho.”
+Anteriormente, referida espécie de trabalho à distância passou a ser cuidada pelo Art. 6º da
+CLT, após atualização legislativa promovida pela Lei nº 12.551/2011, que equiparava o trabalho
+à distância ao trabalho desempenhado nos estabelecimentos empresariais, de forma que se
+mantinham a subordinação e o controle patronal através dos meios telemáticos.
+Neste sentido, assevera Godinho Delgado 60 que referida alteração promoveu a
+incorporação dos conceitos de subordinação objetiva e estrutural, de forma a equipará -las, com o
+58 CASSAR, Vólia Bomfim. Direito do Trabalho. 9. ed. São Paulo: Método, 2015.
+59 Idem.
+60 DELGADO, 2012.
+30
+objetivo ao reconhecimento da e xistência de relação de emprego em se tratando de trabalho à
+distância, à subordinação clássica, de modo que aqueles que desempenham o trabalho à distância
+estejam submetidos a controle por meios telemáticos e informatizados – sendo estes equiparados
+aos meios pessoais de subordinação.
+Note-se, em atenção ao Princípio da Proteção, é possível dizer que equiparação do
+trabalho à distância àquele realizado nas dependências do trabalhador é forma de possibilitar um
+expansionismo do alcance do Direito do Tra balho61, que passa a conseguir tutelar as situações
+decorrentes do avanço tecnológico em prol daquele que exerce a atividade laborativa com o
+objetivo de propiciar maiores lucros aos detentores dos meios de produção.
+Pelo texto da Reforma, o teletrabalho deverá ser instituído mediante contrato escrito, que
+especificará quais serão as atividades laborativas a serem desempenhadas. Ademais, apesar de se
+tratar de trabalho à distância, ou remoto, o comparecimento do empregado ao estabelecimento
+empresarial para a realização de atividades específicas não é apto a descaracterizar referido regime,
+consoante dispõe o parágrafo único do artigo 75-C, destacado acima.
+Embora o Governo Federal trate a defenda a Reforma Trabalhista como o instrumento
+necessário à modernização do Direito do Trabalho , difundindo amplamente esta posição em seu
+sítio eletrônico 62, por, em tese, atualizá-lo, em tese, às novas necessidades do mercado e que,
+portanto, as inovações trazidas devem ser consideradas como avanço, é necessário termos um olhar
+crítico.
+Em primeiro lugar, é necessário dizer que o discurso de modernização com vistas à
+verdadeira regulamentação do teletrabalho é falacioso. Isso porque este regime de trabalho à
+distância já era muito bem regulamentado pelo art. 6º, parágrafo único, da CLT, que o equiparava
+ao trabalho realizado nas dependências do empregador, de forma que ao teletrabalhador já eram
+assegurados os direitos trabalhistas.
+61 DELGADO, 2012.
+62 GOVERNO DO BRASIL. N ão fique na dúvida: confira tudo o que você queria saber sobre a modernização
+trabalhista. Governo do Brasil. Publicado em 11 de novembro de 2017. Disponível em:
+<http://www.brasil.gov.br/trabalhista/textos/nao-fique-na-duvida-confira-aqui-tudo-o-que-voce-queria-sabersobre-a-modernizacao-trabalhista>. Acesso em 16 de novembro de 2017.
+31
+Conforme explicitado anteriormente, a Reforma trouxe ao teletrabalho a característic a de
+incompatibilidade com o regime de controle de jornada trazido pela CLT, por se tratar de trabalho
+remoto, e que pouco seria o controle do empregador sobre o empregado pelo exercício do poder
+diretivo, visto que o trabalho seria desempenhado fora do estabelecimento empresarial.
+Tal disposição busca espécie de flexibilização dos horários de trabalho, passando ao
+empregado a falsa impressão de que teria mais autonomia quando da realização do trabalho, e que
+poderia dispor livremente do seu tempo, de forma que gozaria de verdadeira liberdade para definir
+a sua jornada.
+No entanto, é falaciosa a afirmação, porque, em verdade, inúmeros são os softwares
+existentes que podem ser utilizados pelas empresas para que sejam medidos o tempo de trabalho
+e a produtividade daquele empregado durante período específico de tempo, fato que torna possível
+o controle de jornada. Salienta MAGELA MELO63:
+De forma perversa, o legislador incluiu no inciso III do art. 62 da CLT o
+teletrabalhador , de modo a retirar a proteção à jornada, desconsiderando o grande
+avanço tecnológico que permite atualmente aos empregadores controlar a localização
+exata do trabalhador, as atividades que estão sendo desempenhadas e os horários de
+início e fim.
+Neste ponto, necessário dizer que se, de alguma forma, o teletrabalhador passarem por
+algum tipo de vigilância quanto ao tempo despendido à realização do trabalho, e pelos períodos
+em que estiverem conectados ao sistema informacional da empresa, e sofrerem alguma forma de
+penalização, seja por diminuição da contraprestação pecuniária, seja advertência ou chamada de
+atenção pelo empregador, deverá, como consequência, ter seu controle de jornada reconhecido,
+aplicando ao caso os limites constitucionais e assegurando eventual pagamento de adicional por
+horas extraordinárias realizadas.
+63 MELO, Geraldo Magela. O teletrabalhador na nova CLT. 03 de agosto de 2017. Migalhas. Disponível em:
+<http://www.migalhas.com.br/dePeso/16,MI263029,71043-O+teletrabalho+na+nova+CLT>. Acesso em 08 de
+novembro de 2017.
+32
+Átila da Rold 64 destaca a perversidade da regulamentação do teletrabalho pela reforma
+trabalhista, diante da precarização que traz à realização do trabalho. Explico: a falta de controle de
+jornada e a possibilidade de se passar ao trabalhador a responsabilidade quanto à segurança e saúde
+no trabalho são formas de diminuição da responsabilidade do empregador, de forma a recair sobre
+o empregado função que não é sua, já que não é ele o ti tular do poder diretivo, tampouco aquele
+que aufere lucros através da exploração da mão de obra de determinad a classe.
+“O regime de teletrabalho imposto pela “reforma trabalhista” é perverso porque se
+apresenta sob a falácia do discurso da “modernização” quando trata-se de mais uma
+modalidade de prestação de trabalho, desta vez por via remota, sem qualquer garantia
+de proteção ao empregado, tanto em termos de duração de limite máximo na jornada de
+trabalho, da responsabilidade pelo custo dos meios de prod ução e de transferir a
+responsabilidade pela segurança e higidez do ambiente de trabalho, eximindo -se o
+empregador de qualquer fiscalização, a não ser no que diz respeito ao cumprimento de
+metas impostas unilateralmente pela empresa.”
+Diante disso, é possível perceber a existência de duas grandes consequências advindas da
+realização do teletrabalho e da falta de controle de jornada. A primeira delas é a confusão que se
+cria entre o que é ambiente de trabalho, e o que é o ambiente de casa, em que o empregado exerceria
+a sua vida privada.
+O trabalho realizado na residência do trabalhador faz com que o mesmo não mais enxergue
+a sua casa como ambiente de descanso, porque atrelada à jornada, à realização laboral, e dela não
+podendo ser desa ssociado. Isso implica dizer que o gozo do descanso e lazer se torna
+comprometido, visto que inexistiria desligamento do ambiente de trabalho.
+Conforme ressalta ROESLER 65, “ o local de trabalho confunde -se com a moradia do
+trabalhador, invertendo a lógica do princípio da proteção e os fundamentos da própria relação
+entre Capital x trabalho que sempre vigoraram na realidade do sistema produtivo capitalista”.
+A segunda grande consequência se situa na falta de controle de jornada: sem ele, a
+realização de jornadas excessivas se torna uma realidade casa vez mais possível, o que, por certo,
+prejudica diretamente a saúde do trabalhador, que fica sobremaneira suscetível à prática da
+sobrejornada sem muitas das vezes ter a real percepção de que isso está ocorrend o. Por isso, o
+64 ROESLER, Átila da Rold. Reforma Trabalhista prejudicou muito a vida de quem “trabalha em casa”. 16 de agosto
+de 2017. Carta Capital. Disponível em: < http://justificando.cartacapital.com.br/2017/08/29/reforma-trabalhistaprejudicou-muito-vida-de-quem-trabalha-de-casa/>. Acesso em: 08 de novembro de 2017.
+65 Idem.
+33
+empregado acaba por se submeter a jornadas superiores ao limite constitucional, que lhe tomam
+parte do seu tempo de vida.
+Além disso, por não haver controle de jornada, aumenta a possibilidade de a
+contraprestação pecuniária a que o empre gado faz jus na constância de um contrato de emprego
+ser medida pela imposição de metas: o salário passa a ter como justificativa o número de tarefas
+realizadas pelo empregado em determinado período, incutindo -se na cabeça do empregado que
+quanto mais produzir, mais poderá receber ao final do mês.
+Dessa forma, além de uma extensa jornada de trabalho, incidiria sobre a realização
+laborativa alto grau de intensidade, que, conforme demonstrado anteriormente, é capaz de levar o
+empregado à exaustão física e mental, por transcender os seus limites fisiológicos.
+O teletrabalhador acaba por não poder dispor livremente de seu tempo, dedicando seu
+tempo de vida à produção e, portanto, ficando indisponível ao convívio familiar e social, além de
+ser impedido à concretização dos projetos pessoais que venham a lhe trazer satisfação como ser
+humano. Ele se mantém conectado ao trabalho a praticamente todo o tempo.
+Com isso, o empregado se vê apartado da efetivação de seus direitos fundamentais à saúde,
+ao descanso, lazer, intimidade e vida privada, sendo prejudicado na manutenção a sua di gnidade.
+Neste sentido, aponta ROESLER66:
+Desde logo percebeu -se que o trabalhador que labora em casa em situação de
+subordinação e controle remoto pelo empregador tem o espaço de sua vida íntima
+invadida pelo Capital, trazendo -lhe prejuízos familiares e sociais que não contribuem
+para uma condição digna de vida, afetando o seu direito de desconexão ao trabalho e o
+prejudicando em suas atividades privadas, como lazer, cultura, artes, atividades físicas,
+entre outras, além de desagregar a classe trabalhador a e fomentar a competição entre
+os próprios empregados.
+Diante disso, tem -se que o teletrabalho da forma como foi regulamentado pela Reforma
+Trabalhista, acaba se tornando prejudicial ao trabalhador. Isso porque, conforme já exposto, o
+trabalho, apesar de ser direito fundamental trazido pelo art. 6º da Constituição Federal e de ser
+considerado como necessário à manutenção da dignidade daquele que produz, não pode ter o seu
+exercício realizado de forma a trazer prejuízo à saúde, descanso e lazer.
+66 ROESLER, 2017.
+34
+4. O DIREITO À DESCONEXÃO
+4.1. CONCEITO
+O alargamento da utilização da tecnologia é inerente à sociedade contemporânea, e permite,
+de forma cada vez mais incisiva, a conexão por tempo integral 67, o que, em um aspecto negativo,
+acaba por permitir uma maior dispon ibilidade do empregado, ainda que à distância e fora da
+jornada de trabalho, aos interesses do empregador.
+Neste sentido, torna-se cada vez mais tênue o limite entre a vida profissional do indivíduo e
+sua vida privada, de modo que o tempo de trabalho extrapola a sua duração normal, e não apenas
+isso: impede que o empregado se desconecte do ambiente laboral. Tal fato faz com que o
+trabalhador não consiga usufruir integralmente de seus direitos fundamentais ao descanso, lazer,
+intimidade e vida privada, quedando prejudicada a sua saúde.
+Fato é que a conexão integral e em tempo real ao trabalho, possibilitada pelo grande avanço
+tecnológico vivido atualmente, acaba violando as normas regulamentadoras da duração do trabalho
+e, com isso, possibilita a exigência por parte do empregador à realização de tarefas ou à resolução
+de problemas atinentes à rotina laboral pelo empregado, atingindo -lhe em sua esfera de direitos
+fundamentais – que são entendidos como forma de expressão da dignidade humana – sem que
+neste momento esteja dentro do lapso da jornada de trabalho.
+Nesta perspectiva, Souto Maior68 sugere que:
+“o trabalho, no prisma da filosofia moderna, e conforme reconhecem vários
+ordenamentos jurídicos, dignifica o homem, mas sob outro ângulo, é o trabalho que retira
+esta dignidade do homem, impondo -lhe limites enquanto pessoa na medida em que
+avança sobre a sua intimidade e a sua vida privada.”
+Assim, em meio a um grande desrespeito a direitos fundamentais do trabalhador, torna -se
+necessária a imposição de um sistema de proteção apto a chancelar as novas situações trazidas ao
+cotidiano das pessoas através da tecnologia. Não pode a revolução tecnológica vivida atualmente
+trazer impactos negativos à maneira de realização do trabalho, tampouco servir como forma de se
+67ALMEIDA; SEVERO, 2016, p. 39.
+68 SOUTO MAIOR, 2003.
+35
+estender o controle patronal ao ambiente familiar do empregado, de modo que “ o tempo de vida
+não pode ser utilizado para servir ao outro, na condição de objeto”69.
+Conforme demonstrado, a utilização das novas tecnologias é responsável por possibilitar um
+prolongamento do ambiente de trabalho, fazendo com que o vínculo empregatício, sobretudo no
+elemento da subordinação, transcenda os limites da vida profissional do empregado, alcançando o
+ambiente privado, e criando, assim, obstáculos ao pleno gozo do descanso, lazer, liberdade e
+intimidade.
+Dessa forma, é possível perceber que há um constante desrespeito à limitação da duração do
+trabalho, com consequente invasão da vida pessoal do empregado, que nem mesmo durante os
+seus períodos de descanso e lazer se vê efetivamente desligado do ambiente laboral. Nessa
+perspectiva, segundo KEHL 70, o sensível aumento nos casos de depressão vem atrelado,
+principalmente, à perda ou desrespeito da desconexão laboral e do lazer.
+Insta dizer que a tecnologia não pode ser de todo criticada, porque se utilizada de forma
+responsável, não causará qualquer dano ao empregado. As inovações tecnológicas facilitam a
+comunicação entre as pesso as, bem como podem ser utilizadas no intuito de se diminuir a
+penosidade de determinado trabalho, e consequentemente o esforço a ser depreendido pelo
+trabalhador.
+A preocupação aqui estabelecida é quando o avanço tecnológico é direcionado para
+beneficiar apenas aquele que detém os meios de produção, adentrando na esfera privada da vida
+do empregado e lhe diminuindo direitos. Isso porque, durante toda a história de evolução dos meios
+de produção, propiciada pelo constante desenvolvimento da tecnologia, o trabalhador foi
+prejudicado nas suas condições de vida e de trabalho, sendo-lhe diminuídos a autonomia e o tempo
+livre, como consequência do aumento significativo das jornadas de trabalho, conforme elucidado
+anteriormente.
+Dada essa discussão, é necessár io se fazer observação quanto ao teletrabalho, bastante
+difundido na sociedade da informação, e que se traduz como uma nova forma de produção
+decorrente dos avanços tecnológicos. Este tipo de regime permite a realização do trabalho fora das
+69 ALMEIDA; SEVERO, 2016, p. 20.
+70 KEHL apud ALMEIDA; SEVERO, 2016.
+36
+dependências do empregador, através da utilização dos meios informáticos e eletrônicos de
+comunicação.
+O teletrabalho, além de ser prejudicial ao empregado por lhe passar a falsa impressão de
+que proporciona um aumento da sua autonomia, porque aparentemente permite ao trabalhador que
+disponha sobre a formatação da sua jornada de trabalho, atrela à residência do trabalhador a
+imagem de seu ambiente de trabalho, causando confusão nos limites entre os conceitos de casa e
+vida privada, e trabalho e vida profissional – o que restou ainda mais acentuado pela
+impossibilidade de aplicação do controle de jornada ao teletrabalho, a partir da reforma trabalhista
+implementada no corrente ano.
+A partir desse panorama, como forma de tutelar o problema apresentado, surge a discussão
+sobre o que tem sido chamado de direito à desconexão, tratado por alguns como o direito à
+privacidade no século XXI71, que se apresenta como um direito cujo objetivo é o desligamento do
+empregado do ambiente de trabalho durante os seus períodos de descans o e lazer, fazendo com
+que não lhe seja exigível qualquer realização laborativa nestes períodos.
+Conforme destacam ALMEIDA e SEVERO 72, o direito à desconexão encontra suporte
+nos objetivos e fundamentos da Constituição Federal, bem como na preservação do s direitos
+fundamentais à saúde, limitação à duração do trabalho, descanso e lazer – que se afiguram como
+condição para a concretização do projeto constitucional que visa o bem de todos e estabelece a
+dignidade da pessoa humana como um dos fundamentos da República73.
+Por mais intuitivo que possa parecer o raciocínio de que durante os períodos de descanso
+não é prudente, tampouco correto, que se exija do trabalhador o desempenho de atividades
+atinentes ao trabalho, a conduta das empresas em exigir cada ve z mais a disponibilidade do
+empregado faz com que o óbvio deva ser explicado.
+Neste sentido, tem -se que houve esforço da doutrina em realizar espécie de releitura de
+institutos já existentes, com vistas a alcançar a nova realidade tecnológica, e assim coibir as
+arbitrariedades cometidas pelo empregador e que levam à extrapolação da jornada de trabalho pelo
+71 MOREIRA, Teresa Coelho.
+72 ALMEIDA; SEVERO, 2016.
+73 Idem, p. 31.
+37
+empregado, em detrimento de seu descanso e lazer. Neste sentido, ALMEIDA e SEVERO 74
+destacam que a exigência de realização do trabalho por mais de oit o horas diárias significa
+transformar os trabalhadores em animais, direcionados ao seu esgotamento físico e mental, por ter
+sido prejudicado o direito à desconexão e ao lazer.
+Para Souto Maior75, o direito à desconexão se traduziria no direito ao não trabalho, que não
+deve ser entendido como um direito em sentido leigo, mas sim a partir de uma “ perspectiva
+técnico-jurídica, para fins de identificar a existência de um bem da vida, o não -trabalho, cuja
+preservação possa se dar, em concreto, por uma pretensão que se deduza em juízo”.
+Nas palavras de Vólia Bonfim, o direito à desconexão seria o direito de “ se afastar
+totalmente do ambiente de trabalho, preservando seus momentos de relaxamento, de lazer, seu
+ambiente domiciliar contra as novas técnicas invas ivas que penetram na vida íntima do
+empregado” (2015, p. 662).
+O direito à desconexão, então, pode ser entendido como aquele que vai impedir que o
+empregado sofra ingerências por parte das empresas fora do tempo de trabalho, de modo que seja
+possibilitado um maior equilíbrio entre a vida pessoal e a vida profissional daquele que trabalha.
+Nesse contexto, assevera Souto Maior 76 que à desconexão não é abordada do sentido de não
+trabalhar, mas de se que o labor seja realizado até o ponto de preservação à saúde e vida privada.
+Os trabalhadores precisam de seu tempo de descanso e lazer para a manutenção de sua
+dignidade. Não é apenas do trabalho que vive o homem, sendo necessário à sua existência enquanto
+ser humano da convivência com sua família e amigos, do relaxamento e do tempo livre. O
+empregado é que deve escolher o que fazer durante os períodos de não trabalho, de modo que não
+cabe ao empregador interferir em sua esfera privada, a subordinação não pode ser estendida para
+fora da jornada de trabalho.
+Neste sentido, Calvet77 destaca que é a partir da perspectiva do lazer como necessidade
+psíquica do trabalhador que se permite a desconexão do trabalho como direito inerente à própria
+74 ALMEIDA; SEVERO, 2016.
+75 MAIOR, Jorge Luiz Souto. Do Direito à Desconexão do Trabalho. Revista do Tribunal Regional do Trabalho da 15ª
+Região, Campinas, SP, n. 23, p. 296-313, jul./dez. 2003
+76 Idem.
+77 CALVET, 2005.
+38
+vida do trabalhador, a partir da sua dedicação a atividades lhe tragam prazer e viabilizam a
+concretização de desejos e projetos pessoais, inclusive aqueles de vida profissional do indivíduo.
+Na existência de um contrato de trabalho, o trabalhador abdica de uma parte do seu tempo
+de vida para se dedicar a uma atividade laborativa, sujeitando -se às ordens de quem explora a
+atividade econômica. Os meios tecnológicos não podem permitir o avanço dessa sujeição, de forma
+a comprometer ainda mais o tempo de vida do trabalhador.
+Noutras palavras, o direito à desconexão se configura como sendo aquele que permitirá ao
+empregado que se afaste do ambiente laboral, física e tecnologicamente, de forma a coibir a
+exigência, por parte do empregador, quanto à realização de quaisquer atividades de trabalho, ao
+tempo em que goza do seu período de descanso.
+4.2. FUNÇÕES ATRELADAS AO DIREITO À DESCONEXÃO
+Reconhecido o fato de que a desvinculação do empregado ao trabalho é condição necessária
+à manutenção de sua dignidade, é possível dizer que o direito à desconexão desempenha função
+importante na tentativa de se limitar o poder do empregador sobre a vida do empregado, limitar a
+jornada de trabalho e resguardar direitos fundamentais.
+Do conceito de direito à desconexão apresentado, depreende -se a ideia de que, durante os
+períodos de descanso, o empregado não pode sofrer qualquer tipo de ingerência por parte do
+empregador, que somente poderá exercer o poder diretivo durante o tempo de trabalho. Isso porque
+a subordinação trazida como elemento do contrato empregatício restringe -se apenas ao tempo no
+qual o trabalhador está submetido à jornada.
+Em outras palavras, o direito à desconexão pode ser entendido como uma limitação direta
+ao poder que o empregador exerce sobre o empregado, poder este legitimado tanto pela CLT,
+quanto pela própria lógica da Constituição Federal, que coloca como um dos fundamentos da
+República os valores sociais do trabalho e da livre-iniciativa (art. 1º, IV, CRFB).
+Quando falamos em desconexão como forma de limitação à duração do trabalho, devemos
+ter em mente que, em verdade, a necessidade do reconhecimento do direito a se desconectar surge
+39
+do desrespeito ao limite constitucional do tempo de trabalho propiciado pelos meios tecnológicos.
+A realização de atividades laborativas para além da duração normal do trabalho constitui, ao
+mesmo tempo, excesso de jornada e diminuição da liberdade e autonomia do empregado.
+Todavia, muitas das vezes, mesmo sem perceber, e ac hando natural, o empregado
+desenvolve atividades laborativas no âmbito de sua residência, quando, por exemplo, tenta
+solucionar problemas relacionados ao trabalho durante o seu tempo livre, recebe ligações, e-mails,
+e até mesmo mensagens instantâneas de seu empregador, não enxergando qualquer irregularidade
+nessas situações, por considerar tratarem -se de tarefas rápidas, de fácil desenvolvimento, e que
+seria pouco o tempo despendido com elas.
+No entanto, ao passo que isso acontece, o ambiente de trabalho invade a esfera privada da
+vida do empregado, causando -lhe estresses desmedidos e comprometendo o seu bem -estar. Ao
+invés de utilizar seu tempo livre com aquilo que realmente lhe traz satisfação, descansar, na
+promoção de cultura e lazer, o trabalhador se mantém conectado ao trabalho.
+Neste sentido, a fim de o homem tenha uma vida saudável e prazerosa78, a abordagem a ser
+feita sobre o direito à desconexão deve ser feita tratando de questões atinentes à jornada de trabalho
+e relacionando-as ao descanso e lazer, direitos que perfazem condição mínima à vida digna.
+Assim, necessário destacar o caráter de direito fundamental atribuído pelo legislador
+constituinte ao direito ao lazer, disposto no art. 6º da Constituição Federal, e que, segundo Calvet79,
+se traduz no direito fundamental que possibilita o desenvolvimento existencial do ser humano, na
+busca por sua elevação física, psíquica, social e espiritual, a partir da ideia de gozo do seu tempo
+livre da forma que bem entender, realizando as atividades que realmente goste e lhe dão prazer.
+Importante dizer que não é somente em relação ao âmbito da residên cia do empregado que
+deve alcançar a desconexão: a análise do direito à desconexão deve abranger o sentido de
+desvinculação do trabalho mental e fisicamente, no curso do tempo do trabalho, e no seu fim.
+Durante as pausas e os intervalos de descanso ocorri dos no decorrer da jornada de trabalho, a
+78 ALMEIDA; SEVERO, 2016, p. 39.
+79 CALVET, 2005.
+40
+desconexão também deve ser aplicada, na medida em que “ o homem não é máquina e de que a
+vida transcorre enquanto trabalhamos”80.
+Diante disso, Valdete Souto e Almiro Eduardo asseveram que o direito à desconexão se
+“materializa no direito à preservação da intimidade e mesmo no reconhecimento da
+possibilidade de que o empregado, enquanto trabalha, utilize – de forma proporcional e
+adequada – “válvulas de escape” que permitam a desconexão, por alguns minutos,
+tornando mais produtivas e satisfatórias suas horas de trabalho” (2016, p. 41).
+Se o tempo de trabalho é aquele em que o empregado está à disposição do empregador, podese dizer que uma das funções atreladas ao direito à desconexão seria o de auxiliar na limitação da
+jornada de trabalho, na medida em que, durante determinados momentos – assim entendido por
+qualquer período de descanso que deva ser concedido ao empregado –, o requisito “estar à
+disposição de” não existiria, e tampouco poderia existir, dessa forma, a sujeição do empregado.
+O direito à desconexão deve ser analisado a partir da perspectiva das normas que tratam da
+limitação à duração do trabalho 81, na medida em que é a limitação da jornada condição para o
+exercício da desconexão, cuja necessidade de reconhecimento pode ser traduzida como forma de
+respeito à dignidade do trabalhador.
+Haja vista a dupla função que exerce a limitação da jornada, que ao tempo em que busca
+melhores condições de trabalho ao empregado, também possui caráter econômico, o mesmo ocorre
+com o direito à desconexão, conforme evidenciado por Valdete Severo e Almiro Eduardo:
+“A limitação do tempo de trabalho e, portanto, sob a perspectiva inversa, o respeito ao
+direito à desconexão, é garantia tanto para quem trabalha, quan to para quem emprega
+a força de trabalho, ou mesmo para a própria sociedade. (2016, p. 14)
+De igual modo, o direito à desconexão também pode ser entendido como aquele que
+possibilita e assegura o exercício de outros direitos trabalhistas, constitucionalm ente previstos,
+conforme anteriormente explicitado, porquanto seja possível a sua interpretação como expressão
+do respeito à dignidade humana82.
+80 ALMEIDA; SEVERO, 2016, p. 41.
+81 Idem.
+82 Ibidem.
+41
+Tal pensamento decorre da ótica de proteção aos direitos fundamentais que se aplica à
+limitação da jornada. A d esconexão assegura a saúde do empregado, porque não permite a
+realização de qualquer tarefa para além da jornada, justificada nos limites à capacidade física e
+mental do trabalhador, evitando o esgotamento e desgaste do trabalhador causados por excesso de
+jornada.
+Ao mesmo tempo, com a desconexão torna -se mais efetivo o respeito aos períodos de
+descanso e lazer, servindo como meio de se diferenciar, na prática, o que é o tempo de trabalho,
+da vida profissional do empregado, e o seu tempo livre, em que deve prevalecer sua autonomia
+como ser humano que é, para desfrutar daquilo que lhe traz satisfação pessoal e prazer, seja para
+passar este tempo com família e amigos, seja para se empenhar em projetos pessoais. O direito a
+desconexão busca um maior respeito à vida privada e à intimidade do trabalhador, de forma a se
+preservar sua personalidade.
+O direito à desconexão, a partir da ótica de proteção e efetivação do direito ao lazer, pode
+ser compreendido por meio da perspectiva social da dimensão humana do lazer elucidada por
+Calvet83, como uma tentativa de “ retorno da convivência humana íntima, não mais relegada a
+curtos períodos de tempo determinados pelo ritmo do trabalho”.
+Neste ínterim, pode -se concluir que, reco nhecido o direito à desconexão, a melhora na
+qualidade de vida do empregado seria uma decorrência lógica, uma vez que, dessa forma, estariam
+sendo respeitados seus limites fisiológicos e suas necessidades sociais, causando ao trabalhador
+menos estresse e l he possibilitando um melhor aproveit amento de seu descanso e lazer.
+4.3. DO DANO EXISTENCIAL
+Inicialmente, deve-se reconhecer que, ainda que o trabalhador esteja em horário de descanso
+e lazer, se ele desempenha alguma atividade de trabalho durante men cionados períodos, é
+necessário que haja o reconhecimento do tempo despendido como tempo de trabalho. Isso porque,
+do contrário, haveria enriquecimento ilícito por parte do empregador, que em momento que
+extrapola a duração normal do trabalho, teve o empre gado à sua disposição – ou seja, para além
+83 CALVET, 2005.
+42
+do pactuado como tempo de trabalho, o empregador aufere indevidamente pela produtividade do
+empregado.
+Tratando como questões meramente financeiras ou econômicas, sem qualquer repercussão
+no âmbito da vida pessoal do empregado, seriam, então, consequências lógicas do reconhecimento
+como tempo de trabalho o seu cômputo como jornada de trabalho, a devida remuneração como
+tempo de trabalho, com eventual pagamento do adicional de horas extraordinárias.
+No entanto, há causação de dano para além da situação econômica do trabalhador. O simples
+reconhecimento como tempo de trabalho não é o suficiente a reparar o empregado por todo o
+prejuízo que lhe é causado por este tipo de conduta do empregador, posto que sua esfera de direitos
+fundamentais foi atingida, de forma que o trabalhador se encontra alijado do direito de dispor
+livremente de seu tempo.
+Nas palavras de Rúbia Zantonelli e Jorge Cavalcanti84:
+“É possível perceber prejuízo ao desfrute pelo trabalhador dos pra zeres de sua própria
+existência tanto quando dele se exige a realização de horas extras em tempo superior ao
+determinado pela lei como quando dele se exige um número tão grande de atribuições
+que precise permanecer em atividade durante seus períodos de descanso, ainda que longe
+da empresa, ou fique esgotado ao ponto de não encontrar forças para desfrutar de seu
+tempo livre.”
+Uma parte da dignidade do trabalhador está “ intrinsecamente relacionada com o tempo
+potencial de convívio em sociedade”85, visto que o homem é um ser social86. Portanto, o trabalho
+restringe o tempo em que o empregado pode se dedicar às trocas sociais. Ao mesmo tempo, o
+trabalho se encontra como condição à existência do homem87. Por conseguinte, com o objetivo de
+melhor promover a dignida de humana, é necessário que haja equilíbrio entre o labor e a
+desconexão do trabalho, permitida através da limitação à duração do trabalho, seja pelo descanso
+semanal remunerado, seja pelos intervalos intra ou inter jornadas.
+84 ALVARENGA, Rúbia Zantonelli; FILHO, Jorge Cavalca nti Boucinhas. O Dano Existencial e o Direito do
+Trabalho. In Revista Eletrônica do Tribunal Regional do Trabalho da 9ª Região. Vol. 2, nº 22. Brasília: TRT, 2013.
+85 COLNAGO, Lorena de Mello Rezende. Dano existencial e a Jornada de Trabalho. In Revista Eletrônica do Tribunal
+Regional do Trabalho da 9ª Região. Vol. 2, nº 22. Brasília: TRT, 2013.
+86 HOBBES apud COLNAGO, 2013.
+87 MARX, Karl apud ANTUNES, Ricardo. Dicionário de trabalho e tecnologia. 2. ed. Porto Alegre: Zouk, 2011.
+43
+O desrespeito à duração norm al do trabalho por meio da exigência de cumprimento de
+jornadas excessivas por parte dos empregadores tem sido interpretado pela jurisprudência
+trabalhista como obstáculo ao trabalhador para a vida em sociedade, impedindo-o de conviver com
+a família; mas t ambém como obstáculo ao trabalhador para atingir a satisfação pessoal, vez que
+acaba por direcionar a maior parte de seu tempo ao trabalho, não podendo, assim, colocar em
+prática os seus projetos pessoais.
+A estreita relação que se mantém entre a limitaç ão à duração do trabalho e a desconexão
+laboral do trabalhador nos leva à conclusão de que a desatenção, ou o não reconhecimento do
+direito à desconexão, caminha para um comportamento arbitrário do empregador, e configura
+verdadeira forma de prorrogação de jornada.
+Nesse contexto, fala-se em dano existencial, que se caracteriza como aquele em que, através
+da exigência por parte do empregador de prestação de serviço para além da jornada, lesiona a
+própria existência do empregado, que se vê tolhido em sua liberdade de escolha, e impedido de
+colocar em prática seus planos de vida. Traduz uma ameaça ao “ sentido que a pessoa atribui à
+existência, ao sentido espiritual da vida”88.
+Segundo Zantonelli e Cavalvanti89, o dano existencial é resultado de práticas abus ivas do
+empregador que impossibilitam o trabalhador do convívio em sociedade, que se daria através da
+realização de atividades destinadas ao lazer e ao descanso, trazendo -lhe felicidade e bem -estar,
+sendo, portanto, obstáculo à vida privada do empregado.
+No mesmo sentido, explica Hidemberg Alves da Frota90 que o dano existencial, espécie de
+dano imaterial, é aquele se constitui quando o trabalhador se vê alijado, parcial ou integralmente,
+da execução ou execução de seus projetos de vida, entendidos como aqueles projetos que têm por
+objetivo a busca pela satisfação pessoal do indivíduo em diversos aspectos de sua vida – desde a
+dimensão familiar, até educacional ou profissional –, tornando dificultoso a retomada de sua vida
+em âmbito público ou privado, principalmente no que tange as convivências familiar, profissional
+ou social.
+88 NUNES, Raquel Portugal apud FROTA, Hidemberg Alves da. Noções Fundamentais sobre o Dano Existencial.
+In Revista Eletrônica do Tribunal Regional do Trabalho da 9ª Região. Vol. 2, nº 22. Brasília: TRT, 2013.
+89 ALVARENGA; BOUCINHAS FILHO, 2013.
+90 FROTA, 2013.
+44
+Necessário se fazer, no entanto, uma diferenciação entre o dano existencial e o dano moral,
+sendo ambos espécie do gênero dano de natureza extrapatrimonial. O dano moral, em um aspecto
+objetivo, configura verdadeira lesão a aspecto atinente à personalidade do indivíduo, de modo que
+a sua reparação busca a compensação pelo prejuízo causado à honra, integri dade física ou moral,
+saúde, imagem ou vida privada.91
+Por seu turno, o dano existencial não guarda relação direta com esfera íntima do indivíduo,
+mas sim resulta da frustração ao projeto de vida do empregado, que o impede de lhe trazer
+satisfação ou reali zação pessoal, obrigando o trabalhador a reprogramar sua vida e ocasionando
+mudanças em sua relação com o contexto social.
+Destaque-se que, a despeito do apontamento da doutrina no sentido de causação de dano
+existencial pela ofensa ao direito à desconexã o, a jurisprudência trabalhista brasileira tem
+considerado o desrespeito à desconexão do empregado como causa ensejadora ao pagamento de
+indenização a título de danos morais, diante da repercussão que este tipo de conduta patronal
+apresenta à esfera da personalidade do indivíduo.
+Necessário dizer, no entanto, que a responsabilidade civil do empregador pela ocorrência do
+dano existencial não exclui a possibilidade de responsabilização da empresa por danos morais, em
+que pese tratarem-se de dois tipos de dano imaterial, podendo haver, dessa forma, cumulação entre
+ambos.
+Explicam Alvarenga e Boucinhas Filho 92 que a referida cumulação se justifica tanto pelos
+danos causados pelo impedimento à realização de atividades que proporcionem prazer ao
+trabalhador, qua nto aos danos causados à sua saúde, ainda que eventual sequela advinda de
+acidente de trabalho não lhe cause diminuição na sua capacidade física.
+Imperiosa a observação de que o reconhecimento da possibilidade de cumulação da
+responsabilização por dano existencial à responsabilização por dano moral configura forma de
+reparação integral ao trabalhador, efetivando-se a “proteção total do ser humano contra as ofensas
+aos seus direitos fundamentais”93.
+91 DELGADO apud ALVARENGA; BOUCINHAS FILHO, 2013.
+92 ALVARENGA; BOUCINHAS FILHO, 2013.
+93 ALMEIDA NETO apud ALVARENGA; BOUCINHAS FILHO, 2013.
+45
+Portanto, é inequívoca a ideia de que a manutenção da subordinação por meios telemáticos,
+com consequente alargamento do tempo à disposição, ao ultrapassar os limites à duração do
+trabalho adentrando na esfera da vida privada do empregado, constitui ato ilícito, ensejando a
+responsabilização civil do empregador.
+Neste sentido, tem -se que a não observância ou o desrespeito à desconexão laboral são
+fatores ensejadores da causação de grandes prejuízos aos trabalhadores, seja na esfera existencial,
+seja na sua esfera moral, devendo, destarte, serem coibidas. Há a necessidade, em atenção à esfera
+da vida privada do empregado, de que a este lhe seja assegurado o direito de recusar as ingerências
+patronais durante o seu período de descanso e lazer, diante de uma situação de desobediência aos
+limites impostos pela legislação trabalhista.
+Se o fundamento de proteção à saúde, descanso, lazer, intimidade e vida privada do
+empregado não for o suficiente para que o empregador se abstenha de praticar ta is condutas, não
+sendo espontâneo o respeito à desconex ão do empregado por parte do empregador, o Poder
+Judiciário tem papel fundamental na efetivação desse direito, com a devida condenação do
+empregador à reparação aos prejuízos causados. No entanto, deve-se ter em mente que o controle
+a posteriori não pode ser fator primordial ao cumprimento de um direito que, diante da sua íntima
+ligação com a saúde, lazer e descanso do trabalhador, se pretende fundamental.
+4.4. O DIREITO À DESCONEXÃO NA JURISPRUDÊNCIA BRASILEIRA
+Em recente decisão, o Tribunal Superior do Trabalho reconheceu a necessidade de respeito
+ao direito à desconexão, ao manter decisão proferida pelo Tribunal Regional do Trabalho da 2ª
+Região, que determinou o pagamento de indenização ao empregado que trabalhava sob o regime
+de sobreaviso, estipulado pelo empregador de forma a impedir que o empregado pudesse gozar de
+seu lazer e descanso plenamente.
+No julgamento do Agravo AIRR-2058-43.2012.5.02.0464, de relatoria do Ministro Cláudio
+Mascarenhas Brandão, inicialmente constatou-se que o regime de sobreaviso, por si só, já importa
+diminuição ou cerceamento da liberdade do empregado de dispor sobre o seu próprio tempo, diante
+46
+da constante expectativa de ser contatado pelo empregador para o desempenho de atividades
+laborativas durante período de descanso.
+Nesse contexto, foi reconhecido que, a fim de salvaguardar a dignidade do empregado, devese coibir a realização de excesso de jornada, sendo necessária a sua desconexão do trabalho em
+prol da preservação de sua integridade física e mental, sua vid a social e familiar, em atenção à
+previsão constitucional dos direitos fundamentais ao lazer e à saúde.
+Destaque-se que o Ministro Relator afirma a dignidade da pessoa humana como sendo o
+núcleo axiológico do ordenamento jurídico brasileiro, servindo com o parâmetro a todo o cenário
+jurídico. Aduz, também, que o trabalhador não perde a condição de pessoa humana pelo simples
+fato de exercer atividades laborativas, de forma que o poder diretivo e de fiscalização do
+empregador deve se voltar à preservação dos direitos da personalidade do empregado.
+No caso em tela, o reclamante, que trabalhava como analista de suporte, era submetido a
+plantões de quatorze dias seguidos, nos quais, além do cumprimento da jornada de trabalho,
+também permanecia à disposição do e mpregador, chegando, inclusive, a trabalhar durante
+madrugadas em determinados momentos.
+Destacou-se no voto do relator que as novas tecnologias, sobretudo no que diz respeito ao
+melhoramento à forma de realização do trabalho e de comunicação entre empregado e empregador,
+não podem constituir instrumento para a precarização dos direitos trabalhistas. Neste sentido, foi
+apontado que nos regimes de trabalho à distância, referida precarização é ocasionada
+principalmente pela exclusão do tempo à disposição do empregador, de modo que há realização
+laborativa para além do expediente de trabalho.
+Ainda, no acórdão aponta -se para o fato de que “ o avanço tecnológico e o aprimoramento
+das ferramentas de comunicação no trabalho devem servir para a melhoria das relações de
+trabalho e otimização das atividades, jamais para escravizar o trabalhador”.
+Assim, diante da constatação de que a limitação da jornada é condição ao exercício da
+desconexão, foi verificado que houve o cumprimento de excesso de jornada pelo em pregado
+reclamante, pela quantidade de tempo em que o trabalhador esteve submetido ao poder do
+empregador, causando-lhe lesão a sua esfera privada e direitos fundamentais, pela ofensa ao direito
+47
+à desconexão, conforme se depreende do trecho do acórdão, publicado em 27/10/2017, destacado
+abaixo.
+“A exigência para que o empregado esteja conectado por meio de smartphone, notebook
+ou BIP, após a jornada de trabalho ordinária, é o que caracteriza ofensa ao direito à
+desconexão. Isso porque não pode ir a locais d istantes, sem sinal telefônico ou internet,
+ficando privado de sua liberdade para usufruir efetivamente do tempo destinado ao
+descanso. Com efeito, o excesso de jornada aparece em vários estudos como uma das
+razões para doenças ocupacionais relacionadas à depressão e ao transtorno de
+ansiedade, o que leva a crer que essa conexão demasiada contribui, em muito, para que
+o empregado cada vez mais, fique privado de ter uma vida saudável e prazerosa” .
+Na mesma linha, a jurisprudência dos tribunais regionais do trabalho também caminha no
+sentido de reconhecimento e efetivação do direito à desconexão, de forma a condenar as empresas
+que, no exercício arbitrário do poder patronal, não observam os limites constitucionais e legais à
+duração do trabalho. A exemplo, a decisão proferida em sede recurso ordinário, que destaca a
+necessidade de desvinculação do empregado das atividades laborativas durante os intervalos
+intrajornada, como forma de preservação da saúde e segurança do trabalhador.
+Direito à desconexão do tra balho. Intervalo intrajornada substituído por pagamento de
+horas extras. Norma de ordem pública e caráter cogente. Invalidade. O artigo 71 da CLT,
+ao prever a obrigatoriedade do intervalo intrajornada, estabelece norma de ordem
+pública e de caráter cogente , indisponível pelas partes, nem mesmo no campo da
+autonomia privada coletiva (negociação coletiva). Os períodos de descanso intrajornada
+previstos em lei devem ser gozados pelo trabalhador com total desvinculação de suas
+atividades laborais. Trata -se do d enominado "direito à desconexão do trabalho" ,
+expressão cunhada pelo doutrinador Jorge Luiz Souto Maior. O "direito ao não
+trabalho", durante o intervalo dentro da jornada, tem por escopo a preservação da
+saúde, física e mental, e a própria segurança do em pregado, como forma mínima de
+assegurar a dignidade da pessoa humana. O mero pagamento de horas extras, em
+substituição à fruição do intervalo intrajornada, (...) (TRT-4 - RO:
+1199000320095040332 RS 0119900 -03.2009.5.04.0332, Relator: DENISE PACHECO,
+Data de Julgamento: 04/08/2011, 2ª Vara do Trabalho de São Leopoldo)
+Outro exemplo é o julgado abaixo, que evidencia a previsão constitucional do direito ao lazer
+como direito fundamental, e reconhece que a organização da jornada de trabalho pelo empregador
+deve ter observância à preservação da vida privada, social e familiar do empregado, constituindo
+ato ilícito a conduta do empregador que impede o trabalhador de gozar de modo efetivo do seu
+direito ao descanso, por caracterizar forma abusiva de exercício d o poder patronal. Indica, ainda,
+a invasão da vida privada do empregado pelo trabalho, por atingir a esfera íntima da vida do
+trabalhador.
+DIREITO AO LAZER E À DESCONEXÃO DO TRABALHO. NÃO OBSERVÂNCIA POR
+PARTE DO EMPREGADOR. DANOS MORAIS. CABIMENTO. O di reito ao lazer está
+expressamente previsto nos artigos 6º, 7º, IV, 217, parágrafo 3º e 227 da Constituição
+Federal, estando alçado à categoria de direito fundamental. Também está previsto no
+48
+art. 4º do Complemento da Declaração dos Direitos do Homem (elaborado pela Liga dos
+Direitos do Homem e do Cidadão em 1936), no art. XXIV da Declaração Universal dos
+Direitos Humanos, de 1948, no art. 7º do Pacto Internacional Relativo aos Direitos
+Econômicos, Sociais e Culturais, de 1966, ratificado pelo Brasil, e no a rt. 7º , g e h do
+Protocolo de San Salvador (Protocolo Adicional à Convenção Interamericana Sobre
+Direitos Humanos em Matéria de Direitos Econômicos, Sociais e Culturais), ratificado
+pelo Brasil (Decreto 3.321/99). Ao empregador incumbe organizar a jornada de trabalho
+de modo a assegurar ao trabalhador a preservação da sua vida privada, social e familiar,
+assegurando-lhe a desconexão do trabalho. Ao impedir o efetivo descanso do
+empregado, o empregador exerce o poder empregatício de forma abusiva, e sua conduta
+caracteriza ato ilícito, nos termos do art. 187 do Código Civil. Cabível, nesse caso,
+indenização por danos morais, pois o trabalho invade a vida privada do trabalhador,
+atingindo sua esfera íntima e personalíssima, nos termos do art. 5º., V e X da
+Constituição Federal e dos artigos 186 e 927 do Código Civil. No caso em tela, ficou
+provado que ao autor era imposto o trabalho em horas extras habituais em finais de
+semana, sob pena de punição. Recurso não provido. (TRT-2 - RO:
+02485001820095020067 SP 024 85001820095020067 A20, Relator: IVANI CONTINI
+BRAMANTE, Data de Julgamento: 25/02/2014, 4ª TURMA, Data de Publicação:
+14/03/2014)
+Merece destaque também julgado que reconhece a configuração do dano existencial, como
+consequência da violação ao direito à d esconexão e ao lazer, evidenciando a importância da
+convivência social do empregado e a realização de suas atividades da vida privada, trazendo a
+reflexão de que a vida do trabalhador não deve se limitar ao trabalho, de forma que o indivíduo
+deve ter liberdade para dispor sobre o seu tempo de descanso e lazer, para realização de atividades
+que lhe tragam felicidade e satisfação pessoal, sob pena de restar relegado a segundo plano o seu
+projeto de vida.
+VIOLAÇÃO AO DIREITO À DESCONEXÃO, AO ESQUECIMENTO, AO LAZER,
+ASSIM COMO À CONVIVÊNCIA FAMILIAR E SOCIAL. DANO EXISTENCIAL.
+ESPÉCIE DO GÊNERO DANO MORAL. A supressão de tempo para que o trabalhador
+se realize, como ser humano, pessoal, familiar e socialmente é causadora de danos
+morais. Viver não é apenas trabalhar; é conviver; é relacionar-se com seus semelhantes
+na busca do equilíbrio interior e exterior, da alegria, da felicidade e da harmonia,
+consigo próprio, assim como em toda a gama das relações sociais materiais e espirituais.
+Quem somente trabalha, dificilmente é feliz; também não é feliz quem apenas se diverte;
+a vida é um ponto de equilíbrio entre o trabalho e o lazer, de modo que as férias, por
+exemplo, constituem importante instituto justrabalhista, que transcende o próprio Direito
+do Trabalho. Com efeito, configura -se o dano moral, com coloração existencial,
+quando o empregado tem ceifada a oportunidade de dedicar -se às atividades de sua
+vida privada, em face das tarefas laborais excessivas, deixando as relações familiares,
+o convívio social, a prá tica de esportes, o lazer, a cultura, vilipendiado ficando o
+princípio da dignidade da pessoa humana - artigo 1º, III, CRF. Consoante Sartre, "Ter,
+fazer e ser são as categorias cardeais da realidade humana. Classificam em si todas
+condutas do homem" (O Se r e o Nada), sem as quais, acrescento, em sua comunhão,
+carece a pessoa humana daquilo que o mesmo filósofo denominou de "transcendência -
+faticidade". Nos casos de jornadas de trabalho extenuantes, o trabalhador é explorado
+exaustiva, contínua e ininterrupt amente, retirando do prestador de serviços a
+possibilidade de se organizar interiormente e externamente como pessoa humana,
+sempre e sempre em permanente evolução, desprezado ficando, de conseguinte, o seu
+projeto de vida. A sociedade industrial pós-moderna tem se pautado pela produtividade,
+pela quantidade e pela qualidade, pela multifuncionalidade, pelo sistema just in time,
+pela competitividade, pela disponibilidade full time, pela conexão permanente e pelas
+metas, sob o comando, direto e indireto, cada vez mais intenso e profundo do tomador de
+serviços, por si ou por empresa interposta . Nessas circunstâncias, consoante moderna
+49
+doutrina, desencadeia-se o dano moral com conotação existencial, de cunho nitidamente
+extrapatrimonial. (TRT 3ª Região. Primeira Turma. 0011884-91.2015.5.03.0163 (PJe).
+Recurso Ordinário. Rel. Luiz Otávio Linhares Renault. DEJT/TRT3/Cad. Jud.
+02/08/2017, P. 373)
+À luz do exposto, partindo -se da premissa de que o desrespeito à desconexão culmina em
+excesso de jornada e, portanto, na inobservância da proteção da saúde, descanso e lazer do
+empregado, é possível perceber a crescente preocupação do judiciário brasileiro com o
+reconhecimento e efetivação do direito à desconexão, como forma de limitar o poder empregatício
+das empresas, coi bindo o seu exercício de forma abusiva, e determinando a reparação do
+trabalhador pelo prejuízo causado por meio da ofensa a seus direitos fundamentais, de modo a se
+preservar, assim, a dignidade da pessoa humana.
+4.5. A SOLUÇÃO FRANCESA
+Em janeiro do corrente ano, passou a vigorar na França lei que prevê o direito à desconexão,
+como tentativa de chancelar as situações decorrentes da influência das novas tecnologias na
+formatação do trabalho, sendo certo que a França foi o primeiro país europeu a se p reocupar com
+a questão94.
+De acordo com notícia veiculada pelo El País 95, cerca de 37% dos trabalhadores franceses
+ativos admitem utilizar ferramentas de trabalho após o expediente, e aproximadamente 12% dos
+trabalhadores sofrem de burnout, também chamado de esgotamento profissional, entendido como
+uma síndrome causada pela realização de trabalho excessivo, acima da capacidade física e mental
+do trabalhador.
+Assim, necessário dizer que no ano de 2015, foram realizadas pesquisas acerca das condições
+de trabalho na França, com vistas a servir de base à reforma trabalhista local. Mateo Avorago, em
+seu artigo96 sobre a proposta francesa à resolução da problemática ora debatida, destaca o relatório
+feito por Bruno Mettling, intitulado “Transformation numérique et vie au travail”, que centralizou
+94 AVOGARO, Matteo. Right to Disconnect: French and Italian Proposals for a Global Issue. In: 5th Conference
+of the Regulating for Decent Network at the Internacional Labour Office Geneva, 03/05 de Julho.
+95 TERUEL, Ana. França reconhece direito de se desconectar do trabalho. Jornal El País. Paris, 04 de janeiro de
+2017. Disponível em: < https://brasil.elpais.com/brasil/2017/01/03/economia/1483440318_216051.html>. Acesso
+em 31 de outubro de 2017.
+96 AVOGARO, 2017.
+50
+sua análise na necessidade de o Estado promover forma de salvaguardar a desconexão do
+trabalhador dos aparelhos eletrônicos utilizados durante o trabalho após a jornada, e assim
+possibilitar um maior equilíbrio entre a vida privada e a rotina laboral.
+“the report analyses a number of company collective agreements referring to the right to
+disconnect. Furthermore, it warns the legislator about the necessity to safeguard a
+correct work-life balance, inter alia, suggesting the opportunity to enact rules bestowing
+to workers the right to disconnect from the devices and services utilized during the
+working performance.”
+A despeito disso, Bruno Mettling 97 aponta para duas dificuldades trazidas pela util ização
+das novas tecnologias no ambiente de trabalho: no âmbito jurídico, pode gerar situações que
+infrinjam os limites da duração do trabalho; no âmbito da vida privada, uma maior complexidade
+na sua articulação com a vida profissional.
+A medida legal f rancesa tem sido tratada pelos veículos de comunicação como meio de
+subsidiar a desobrigação dos trabalhadores de se manterem conectados ao trabalho, através de
+smartphones, tablets e outros aparelhos eletrônicos, de modo que não necessitarão responder e -
+mails, ligações ou mensagens provenientes dos seus respectivos empregadores.
+Neste sentido, segundo o Daily Mail98, “workers will be able to ignore telephone calls and
+emails from their bosses during evenings and weekends in an attempt to help them have more of a
+social life outside of their working week”.
+Pela lei francesa, as empresas que tenham, pelo menos, cinquenta empregados, deverão
+estabelecer horários nos quais não haverá intervenção do trabalho, a fim de resguardar o período
+de descanso, de convívio familiar e a vida pessoal do trabalhador. De acor do com Nelson
+Rosenvald99, “os empregadores serão obrigados a definir procedimentos formais para impedir
+que o trabalho invada o tempo pessoal do funcionário”.
+97 MELLTING apud HARF, Rafael Neves. Direito à Desconexão: estudo comparado entre o direito brasileiro e o
+direito francês. In Revista Eletrônica do Tribunal Regional do Trabalho da 4ª Região. Vol. 13, nº 205. Porto Alegre:
+TRT, 2017.
+98 GLANFIELD, Emma. Fr ance set to pass new law giving workers the right to ignore work e -mails outside of
+their contracted hours. Daily Mail. 18 de fevereiro de 2016. Disponível em:
+<http://www.dailymail.co.uk/news/article-3452338/France-set-pass-new-law-giving-workers-right-ignore-workemails-outside-contracted-hours.html>. Acesso em 05 de novembro de 2017.
+99 ROSENVALD, Nelson. O Direito de Desconectar. Em 11 de janeiro de 2017. Disponível em:
+<https://www.nelsonrosenvald.info/single-post/2017/01/09/O-direito-de-desconectar>. Acesso em 05 de
+novembro de 2017.
+51
+O direito à desconexão foi introduzido do Código de Trabalho Francês através da Loi n°
+2016-1088, de 08 de agosto de 2016, em seu art. 55, que alterou a redação do art. 6º e incluiu o
+art. 7º 100, cuja vigência iniciou em 01 de janeiro de 2017, da seguinte maneira:
+I. - L'article L. 2242-8 du code du travail est ainsi modifié :
+1° Le 6° est complété par les mots : « , notamment au moyen des outils numériques
+disponibles dans l'entreprise ; »
+2° Il est ajouté un 7° ainsi rédigé :
+« 7° Les modalités du plein exercice par le salarié de son droit à la déconnexion et la
+mise en place par l'entreprise de d ispositifs de régulation de l'utilisation des outils
+numériques, en vue d'assurer le respect des temps de repos et de congé ainsi que de la
+vie personnelle et familiale. A défaut d'accord, l'employeur élabore une charte, après avis
+du comité d'entreprise o u, à défaut, des délégués du personnel. Cette charte définit ces
+modalités de l'exercice du droit à la déconnexion et prévoit en outre la mise en œuvre, à
+destination des salariés et du personnel d'encadrement et de direction, d'actions de
+formation et de sensibilisation à un usage raisonnable des outils numériques. »
+O legislador francês tratou o direito à desconexão de forma geral, não determinando de que
+forma deverá ser efetivado, tampouco estabelece sanções às empresas pelo não reconhecimento,
+colocando-o como objeto de negociações coletivas anuais obrigatórias, que deverão dispor sobre
+as formas de utilização dos aparelhos eletrônicos de forma que não sejam comprometidos os
+períodos de descanso dos trabalhadores.
+Nas palavras de Rafael Neves Harff101:
+“A medida sancionada não prevê mecanismos concretos para assegurar que o uso dos
+dispositivos digitais não interrompa o gozo dos períodos de descanso, relegando aos
+acordos coletivos o estabelecimento das formas de exercício do Direito à Desconexão.
+Desta forma, as categorias podem determinar as modalidades de desconexão que mais
+se adaptem a suas realidades.”
+Assevera Avogaro102 que, de acordo com as primeiras opiniões de especialistas, os acordos
+coletivos que cuidem do direito à desconexão poderão dispor sobre sua regulamentação mais
+específica, cominar sanções a condutas ilegais e instituir declarações programáticas, a fim de
+estabelecer políticas que enfoquem o equilíbrio entre a esfera pessoal e a laboral, que serão
+introduzidas no ambiente de trabalho.
+Apesar de o reconhecimento do direito à desconexão pela França, através de aparato
+legislativo, configurar pequeno avanço, o modo francês de regulamentação desse direito não se
+100 HARF, 2017.
+101 Idem.
+102 AVOGARO, 2017.
+52
+mostra o suficiente à sua efetivação, porque não traz um modelo legal mínimo pré -estabelecido
+para que seja concedido o direito à desconexão, deixando a função para as negociações coletivas.
+Ainda, a obrigatoriedade de observância do direito à desconexão é aplicável apenas a
+empresas que tenham em seu quadro pessoal a partir de cinquenta empregados, o que acaba por
+limitar o exercício desse direito.
+Se o que se busca com o reconhecimento do direito à desconexão é a necessidade de se
+assegurar a saúde do trabalhador, evitando -se o seu acometimento por síndromes, como a citada
+burnout, bem como resguardar o descanso e o lazer do empregado, talvez melhor solução seria um
+amplo reconhecimento desse direi to, a todo e qualquer trabalhador, não condicionando a sua
+regulamentação a negociações coletivas , de forma que seu exercício fosse possibilitado durante
+todos os períodos que não os acordados como duração do trabalho.
+5. CONCLUSÃO
+Tendo em vista a importância do trabalho na vida das pessoas, porquanto seja condição ao
+exercício de uma vida digna, e instrumento a partir do qual o indivíduo consegue os meios para
+sua subsistência na sociedade atual, e em atenção ao fato de que, para o exercício do labor o
+trabalhador abdica de uma parte de seu tempo de vida, surge a necessidade de limitação da sua
+duração.
+Neste sentido, a limitação à duração do trabalho trazida pela Constituição Federal , a oito
+horas diárias e quarenta e quatro hora s semanais, encontra justificativa nos reflexos que uma
+jornada intensa e excessiva pode causar à vida do trabalhador. Isso porque, além de prejudicial à
+saúde de quem trabalha, o trabalho em excesso furta parte do tempo em que o trabalhador deveria
+se dedicar ao seu descanso, lazer, e ao convívio com família e amigos. O trabalhador se vê tolhido
+na liberdade de dispor sobre o seu próprio tempo.
+Por isso, torna-se necessária a diferenciação entre tempo de vida e tempo de trabalho, a fim
+de que o trabalhado r possa identificar os períodos em que poderá fazer valer a sua autonomia,
+tendo liberdade para dispor sobre o seu próprio tempo, e assim se dedica às atividades que mais
+lhe aprouver, gozando, dessa forma, plenamente dos seus direitos fundamentais ao desc anso e ao
+lazer.
+53
+Durante toda a evolução das formas de organização industrial, que influenciou uma série de
+outros setores, propiciada pelo constante desenvolvimento da tecnologia, é possível constatar
+grande prejuízo aos trabalhadores, que desde a ocorr ência da Revolução Industrial, a partir da
+introdução das máquinas no processo produtivo, foram perdendo sua autonomia na realização do
+trabalho, passando a ser encarados como meros executores de tarefas.
+Submetidos a jornadas cada vez extensas e desgas tantes, os operários tinham parte
+considerável de seu tempo de vida tomada pelo trabalho – assim como o que ocorre hoje em dia ,
+o que tem sido possibilitado principalmente pela utilização dos smartphones e computadores, ou
+no caso do teletrabalhador, em que seu ambiente residencial se confunde com o de trabalho, a ele
+sempre está associado.
+Fato é que ao invés de se utilizar a tecnologia com vistas à diminuição da penosidade do
+trabalho e do esforço empreendido pelo trabalhador durante as atividades laborativas, a sua
+utilização foi voltada diretamente à intensificação da exploração da mão de obra, fazendo com que
+o empregado continuasse a ser submetido a jornadas intensas e excessivas, em detrimento de sua
+saúde e seus limites fisiológicos.
+Atualmente, a larga utilização de instrumentos que possibilitam a conexão e informação a
+tempo real e integral, como tablets e smartphones, vem causando grandes desafios ao Direito do
+Trabalho, porque possibilitam o exercício do poder diretivo do empregador para além da duração
+do trabalho. Por diversas vezes, os trabalhadores são acionados em seus aparelhos eletrônicos após
+a jornada, sem perceber, em um primeiro momento, os prejuízos que podem ser causados por este
+tipo de conduta das empresas.
+É possível perc eber um alargamento do poder patronal que, atrelado à possibilidade de
+extensão do ambiente de trabalho, transcende os limites impostos ao contrato de trabalho e atinge
+a vida pessoal do empregado. Por isso, o trabalhador se vê impedido de se desligar completamente
+do trabalho, permanecendo a ele conectado mesmo estando em sua residência . Há, dessa forma,
+um rompimento da barreira existente entre a vida privada e a vida profissional do trabalhador.
+Referido rompimento de barreiras encontra-se presente, também, nos trabalhos realizados à
+distância, principalmente no que tange ao teletrabalho, a partir do qual o trabalho é realizado, na
+54
+maioria das vezes, na residência do trabalhador, e que teve regulamentação prejudicial ao
+teletrabalhador pela recente Reforma Trabalhista, tendo em vista que a ele tornou-se incompatível
+a aplicação do controle de jornada, flexibilizando os horários de trabalho, de forma a intensificar
+a confusão entre ambiente de trabalho e ambiente de casa, visto que a todo momento o empregado
+estará integrado ao trabalho, em prejuízo de seu lazer e descanso.
+O trabalho vem estampado como direito fundamental no art. 6º da Constituição Federal, mas
+o seu exercício não pode ser obstáculo ao gozo do descanso e lazer, tampouco pode ser prejudicial
+à saúde do trabalhador. Ao responder e -mails, ligações ou mensagens do empregador durante o
+seu tempo livre, o empregado está desempenhando atividade laborativa, porque se manteve à
+disposição do empregador ao longo desse período.
+Note-se que na vi gência de um contrato de trabalho, o trabalhador abdica de uma parte de
+seu tempo de vida para, sujeitando -se ao poder diretivo, dedicar -se a atividades que vão gerar o
+enriquecimento dos detentores dos meios de produção. A utilização dos meios eletrônicos de
+comunicação não pode possibilitar um maior comprometimento do tempo de vida do empregado
+pelo avanço dessa sujeição. Há, com isso, verdadeira invasão do trabalho na vida pessoal do
+trabalhador, cujas fronteiras tornam-se cada vez mais invisíveis.
+Diante do grande impacto que crescente avanço tecnológico vem causando às relações de
+trabalho, de forma que o empregado se vê alijado do pleno exercício de seus direitos fundamentais
+ao descanso e lazer, surge a discussão sobre o direito à desconexão, que ve m sendo entendido
+como solução às práticas arbitrárias dos empregadores, e que pode ser entendido como a
+prerrogativa de o trabalhador não se sujeitar ao poder diretivo durante os seus períodos de
+descanso.
+Em que pese parecer se tratar de direito novo, o direito à desconexão se traduz, na verdade,
+em verdadeira releitura de institutos já existentes – como os limites legais e constitucionais à
+duração do trabalho, direitos fundamentais ao descanso e lazer, e os intervalos, cujo objetivo é
+resguardar a saúde do empregado.
+Busca-se, a partir de sua efetivação, um maior equilíbrio entre a vida pessoal e a vida
+profissional do trabalhador, preservando a sua esfera íntima e lhe possibilitando maiores condições
+ao exercício da sua liberdade de escolha quanto à utilização de seu tempo livre. O trabalhador não
+55
+é máquina, não é objeto de relação jurídica. Ele é sujeito de direitos, e a ele devem ser asseguradas
+condições voltadas à manutenção de sua dignidade.
+Neste sentido, pode-se dizer que o direito à desconexão se configuraria como verdadeiro
+limite ao poder do empregador sobre o empregado, impedindo -o sofrer quaisquer tipos de
+ingerência da empresa durante o seu tempo livre. Também, pode ser entendido como forma de
+limitação à duração do trabalho, na medida em que assegura ao empregado a prerrogativa de
+recusar ordens do empregador em seus períodos de descanso.
+Se durante mencionados períodos de descanso o empregado fo r compelido à realização
+laboral, e, portanto tolhido na sua liberdade, pode-se entender que durante esse tempo esteve à
+disposição do empregador, de forma que o tempo depreendido pelo trabalhador deve ser
+reconhecido como tempo de trabalho, na medida em que a subordinação transcendeu os limites do
+contrato de trabalho, sendo certo que esse reconhecimento não é hábil a reparar por si só os
+prejuízos causados ao trabalhador.
+A partir disso, d eve-se destacar que a conduta do empregador em exigir a realização de
+trabalho ou em acionar o empregado dur ante o seu período de descanso constitui ato ilícito, que
+pode ensejar a causação do dano existencial – por impedir a concretização dos planos de vida do
+empregado, que se mantém conectado ao trabalho e perde a liberdade d e dispor sobre o próprio
+tempo – , e do dano moral – por lesão a um dos direitos da personalidade do empregado, como a
+integridade física e moral –, devendo, portanto, o empregador responsabilizado civilmente por tais
+práticas arbitrárias.
+O direito à desconexão configura tentativa de ch ancela da nova realidade trazida pela
+utilização das novas tecnologias de comunicação, que possibilitam uma maior sujeição do
+empregado ao empregador através da conexão em tempo real , buscando impedir que sejam
+causados maiores prejuízos à saúde, descanso e lazer dos trabalhadores.
+Se os direitos fundamentais são interpretados como forma de expressão da dignidade
+humana, conclui -se, destarte, que o direito à desconexão se afigura como espécie de direito
+fundamental que, embora não previsto explicitamente na Constituição Federal, torna-se
+indispensável ao pleno gozo dos direitos fundamentais ao descanso, lazer, intimidade e vida
+56
+privada na sociedade da informação, promovendo, dessa forma, a manutenção de uma vida digna
+ao trabalhador.
+Portanto, é necessário o reconhecimento da desconexão como um direito fundamental do
+trabalhador, sendo dever dos operadores do direito a sua proteção e prática, não somente quando,
+lesionado em seu direito , o empregado busca o reconhecimento através do Judiciário. Mas sim
+durante todo o período de vigência do contrato de trabalho: o direito fundamental à desconexão
+deve servir como meio a coibir as arbitrariedades patronais, devendo ser respeitado em todo e
+qualquer momento de descanso a que o trabalhador faz jus , assegurando -se não só à duração
+normal do trabalho, mas principalmente a efetivação dos direitos fundamentais ao descanso e lazer
+do empregado.
+57
+REFERÊNCIAS BIBLIOGRÁFICAS
+ALMEIDA, Almiro Eduardo de; SEVERO, Valdete Souto. Direito à Desconexão nas
+Relações Sociais de Trabalho. 2. ed. São Paulo: LTr, 2016.
+ALVARENGA, Rúbia Zantonelli; FILHO, Jorge Cavalcanti Boucinhas. O Dano Existencial e
+o Direito do Trabalho. In Revista Eletrônica do Tribunal Regional do Trabalho da 9ª
+Região. Vol. 2, nº 22. Brasília: TRT, 2013.
+ALVES, Leonardo M. Toyotismo. Ensaios e Notas, 24 de setembro de 2017. Disponível em:
+<https://ensaiosenotas.com/2017/09/24/toyotismo/>. Acesso em 10 de novembro de 2017.
+AVOGARO, Matteo. Right to Disconnect: French and Italian Proposals for a Global Issue. In:
+5th Conference of the Regulating for Decent Network at the Internacional Labour Office
+Geneva, 03-05 de junho de 2017.
+BACK, Caroline Bourdot. A Reparação Pelo Dano Existencial Baseada em Jornada de Trabalho
+Excessiva. OAB/SC, 18 de abril de 2016. Disponível em : <http://www.oabsc.org.br/artigos/reparacao-pelo-dano-existencial-baseada-em-jornada-trabalhoexcessiva/1709>. Acesso em 02 jun. 2017.
+BRASIL. Consolidação das Leis do Trabalho. Decreto -lei nº 5.452 de 01 de maio de 1943.
+Introdução. Disponível em: < http://www.planalto.gov.br/ccivil_03/_ato2015-
+2018/2017/lei/L13467.htm>. Acesso em 9 de novembro de 2017.
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil . Brasília:
+Senado Federal, 1988.
+BRASIL. Congresso Nacional. Lei nº. 13.467 de 13 de julho de 2017. Altera a Consolidação
+das Leis do Trabalho. Diário Oficial da União. Brasília, DF, 14 jul. 2017. Disponível em:<
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13467.htm>. Acesso em: 9 de
+novembro de 2017.
+BRASIL. Superio r Tribunal do Trabalho. Agravo de Instrumento AIRR -2058-
+43.2012.5.02.0464. Agravante: HEWLETT -PACKARD BRASIL LTDA. Agravado: Ramiro
+De Freitas Diz. Relator: Ministro Cláudio Mascarenhas Brandão. Brasília, julgado em 18 de
+outubro de 2017. Lex: Jurisprudência do TST. Diário da Justiça, Brasília, 27 de outubro de
+2017.
+BRASIL. Tribunal Regional do Trabalho (2ª Região). Recurso Ordinário RO
+02485001820095020067. Recorrente: ICOMON TECNOLOGIA LTDA. Recorrido s: Fabio
+Wesley Servulo Borges e TELEFÔNICA BRASIL S .A.. Relatora: Desembargadora Ivani
+Contini Bramante. São Paulo, julgado em 25 de fevereiro de 2014. Lex: Jurisprudência do TRT-
+2. Publicado em 14 de março de 2014.
+58
+BRASIL. Tribunal Regional do Trabalho (4ª Região). Recurso Ordinário RO
+1199000320095040332. Recorrentes: Hilson Garcia da Silva Júnior e Companhia Estadual De
+Geração E Transmissão De Energia Elétrica - CEEE-GT. Recorrido: Empresa de Vigilância
+Noroeste LTDA. Relatora: Desembargadora Denise Pacheco. Porto Alegre, julgado em 04 de
+agosto de 2011. Lex: Jurisprudência do TRT-4. DEJT, 12 de outubro de 2011.
+CALVET, Otávio Amaral. A Eficácia Horizontal Imediata do Direito Social ao Lazer nas
+Relações Privadas de Trabalho . 2005. 176 f. Dissertação (Mestrado) – Pontifícia
+Universidade Católica de São Paulo. São Paulo, 2015.
+CARVALHO, M. e Agenor Manoel de. O impacto da tecnologia no mercado de trabalho e
+as mudanças no ambiente de produção. Evidêcia. Axará/MG, vol. 12, p. 153-172, 2010.
+CASSAR, Vólia Bomfim. Direito do Trabalho. 9. ed. São Paulo: Método, 2015.
+CATTANI, Antônio David; HOLZMANN, Lorena (Org.). Dicionário de trabalho e
+tecnologia. 2. ed. Porto Alegre: Zouk, 2011.
+COLNAGO, Lorena de Mello Rezende. Dano existencial e a Jornada de Trabalho. In Revista
+Eletrônica do Tribunal Regional do Trabalho da 9ª Região . Vol. 2, nº 22. Brasília: TRT,
+2013.
+DELGADO, Maurício Godinho. Curso de Direito do Trabalho. 11. ed. São Paulo: LTr, 2012.
+DELGADO, Maurício Godinho. Duração do Trabalho: o debate sobre a redução para 40 horas
+semanais. In Revista do Tribunal Superior do Trabalho, Porto Alegre, RS, v. 75, n. 2, p. 25-
+34, abr./jun. 2009.
+DEPARTAMENTO INTERSINDICAL DE ESTATÍSTICAS E ESTUDOS
+SOCIOECONÔMICOS. Nota técnica: Redução da Jornada de Trabalho no Brasil. DIESSE. 16
+de março de 2006. Disponível em:
+<https://www.dieese.org.br/notatecnica/2006/notatec16ReducaoDaJornada.pdf>. Acesso em:
+23 de setembro de 2017.
+GLANFIELD, Emma. France set to pass new law giving workers the right to ignore work e -
+mails outside of their contr acted hours. Daily Mail. 18 de fevereiro de 2016. Disponível em:
+<http://www.dailymail.co.uk/news/article-3452338/France-set-pass-new-law-giving-workersright-ignore-work-emails-outside-contracted-hours.html>. Acesso em 05 de novembro de
+2017.
+GONGALVEZ, Juliana. Tecnologia, Rapidez e precarização compõem cenário do mercado de
+trabalho atual. Brasil de Fato , 27 de junho de 2017. Disponível em: <
+https://www.brasildefato.com.br/2016/06/27/tecnologia-rapidez-e-precarizacao-compoemcenario-do-mercado-de-trabalho-atual/>. Acesso em 16 de novembro de 2017.
+59
+GOVERNO DO BRASIL. Não fique na dúvida: confira tudo o que você queria saber sobre a
+modernização trabalhista. Governo do Brasil. Publicado em 11 de novembro de 2017.
+Disponível em: <http://www.brasil.gov.br/trabalhista/textos/nao-fique-na-duvida-confira-aquitudo-o-que-voce-queria-saber-sobre-a-modernizacao-trabalhista>. Acesso em 16 de novembro
+de 2017.
+HARF, Rafael Neves. Direito à Desconexão: estudo comparado entre o direito brasileiro e o
+direito francês. In Revista Eletrônica do Tribunal Regional do Trabalho da 4ª Região. Vol.
+13, nº 205. Porto Alegre: TRT, 2017.
+KLIPPEL, Bruno. Jornada de Trabalho e Direitos Fundamentais . 1. ed. São Paulo: LTr,
+2016.
+LEE, Sangheon; MCCANN, Deirdre; MESSENGER, Jon C.. Duração do Trabalho em Todo
+o Mundo: Tendências de jornadas de trabalho, legislação e políticas numa perspectiva global
+comparada. Secretaria Internacional de Trabalho. Brasília: OIT, 2009.
+MORAES, Alexandre de. Direito Constitucional. 32. ed. São Paulo: Atlas, 2016.
+FROTA, Hidemberg Alves da. Noções Fundamentais sobre o Dano Existencial. In Revista
+Eletrônica do Tribunal Regional do Trabalho da 9 ª Região. Vol. 2, nº 22. Brasília: TRT,
+2013.
+MAIOR, Jorge Luiz Souto. Do Direito à Desconexão do Trabalho . Revista do Tribunal
+Regional do Trabalho da 15ª Região, Campinas, SP, n. 23, p. 296-313, jul./dez. 2003.
+MELO, Geraldo Magela. O teletrabalhador na nova CLT. 03 de agosto de 2017. Migalhas.
+Disponível em: <http://www.migalhas.com.br/dePeso/16,MI263029,71043 -
+O+teletrabalho+na+nova+CLT>. Acesso em 08 de novembro de 2017.
+MINARDI, Josiane Ribeiro. O Direito ao Lazer e as Relações de Trabalho. Âmbito Jurídico.
+Disponível em:
+<http://www.ambitojuridico.com.br/site/index.php?n_link=revista_artigos_leitura&artigo_id=
+8081>. Acesso em 02 jun. 2017.
+MOREIRA, Teresa Coelho. A conciliação entre a vida pessoal e a familiar no momiento do
+trabalho 4.0. In Labour & Issues, vol. 3, nº 01, 2017.
+ROESLER, Átila da Rold. Reforma Trabalhista prejudicou muito a vida de quem “trabalha em
+casa”. 16 de agosto de 2017. Carta Capital. Disponível em:
+<http://justificando.cartacapital.com.br/2017/08/29/reforma-trabalhista-prejudicou-muitovida-de-quem-trabalha-de-casa/>. Acesso em: 08 de novembro de 2017.
+ROSENVALD, Nelson. O Direito de Desconectar. Blog de Nelson Rosenvald , 11 de janeiro
+de 2017. Disponível em: <https://www.nelsonrosenvald.info/single -post/2017/01/09/Odireito-de-desconectar>. Acesso em 05 de novembro de 2017.
+60
+ROSSO, Sadi Dal. O Ardil da Flexibilidade: Os Trabalhadores e a Teoria do Valor . 1. ed. São
+Paulo: Boitempo, 2017.
+SANTOS, Paulo Roberto Félix dos. A intensificação da exploração da força de trabalho co m a
+produção flexível: elementos para o debate . In O Social em Questão , ano XIV, n. 25/26, Rio de
+Janeiro, 2011. Disponível em: < http://osocialemquestao.ser.puc-rio.br/cgi/cgilua.exe/sys/start.htm>.
+Acesso em 08 de novembro de 2017.
+SILVA, William Barbie iro da. O Direito à Desconexão : um direito fundamental ao não
+trabalho aplicável aos gerentes bancários. 2015. 26 f. Artigo Científico (Pós -graduação) –
+Fundação Escola da Magistratura do Trabalho. Porto Alegre, 2015.
+TEIXEIRA, Déa Lúcia Pimentel; SOUZA, Maria Carolina A. F. de. Organização do processo
+de trabalho na evolução do capitalismo. Revista de Administração de Empresas, São Paulo,
+vol. 25, n. 4, out./dez. 1985.
+TERUEL, Ana. França reconhece direito de se desconectar do trabalho. Jornal El País. Paris,
+04 de janeiro de 2017. Disponível em: <
+https://brasil.elpais.com/brasil/2017/01/03/economia/1483440318_216051.html>. Acesso em
+31 de outubro de 2017.

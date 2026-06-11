@@ -1,0 +1,849 @@
+1
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+FACULDADE DE ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS
+TRABALHO DE CONCLUSÃO DE CURSO
+Leonardo Yuji Harita
+LOJAS RENNER – ANÁLISE ECONÔMICO FINANCEIRA (VALUATION) BASEADA
+NO MODELO DE FLUXO DE CAIXA DESCONTADO
+Rio de Janeiro
+2
+2023
+3
+Leonardo Yuji Harita
+LOJAS RENNER – ANÁLISE ECONÔMICO FINANCEIRA (VALUATION) BASEADA
+NO MODELO DE FLUXO DE CAIXA DESCONTADO
+Trabalho de Conclusão de Curso da
+Universidade Federal do Rio de Janeiro , como
+requisito para a obtenção do título de formado
+em ciências contábeis.
+Orientador: Prof. Domenico Mandarino
+Rio de Janeiro
+2023
+4
+5
+Leonardo Yuji Harita
+LOJAS RENNER – ANÁLISE ECONÔMICO FINANCEIRA (VALUATION) BASEADA
+NO MODELO DE FLUXO DE CAIXA DESCONTADO
+Trabalho de Conclusão de Curso da
+Universidade Federal do Rio de Janeiro, como
+requisito para a obtenção do título de formado
+em ciências contábeis.
+Rio de Janeiro, 30 de dezembro de 2023.
+____________________________________________________________
+Prof. Domenico Mandarino – Orientador
+Universidade Federal do Rio de Janeiro (UFRJ)
+__________________________________________________________
+Profª. Alessandra Lima Marques - Banca
+Universidade Federal do Rio de Janeiro (UFRJ)
+__________________________________________________________
+Profª. Marcos Roberto Pinto – Banca
+Universidade Federal do Rio de Janeiro (UFRJ)
+6
+DEDICATÓRIA
+Dedico este trabalho a Deus, pois sem Ele a confecção deste trabalho não seria possível.
+7
+AGRADECIMENTOS
+Agradeço a todos os familiares, amigos e docentes que me ajudaram no processo de
+confecção do trabalho.
+8
+“Never invest in a business you don’t understand,” (Warren Buffet)
+9
+RESUMO
+Este trabalho tem como objetivo analisar, numa perspectiva fundamentalista, a
+empresa varejista Renner, considerando o momento atual do setor em que a empresa atua .
+Primeiro, analisou-se a situação macroeconômica mundial e do país e do setor onde atua. Após
+isso, foi analisada a empresa desde a parte qualitativa, como seu modelo de negócios, principais
+riscos, estratégias da companhia e outros, até a parte quantitativa, no caso sua performance
+financeira com base nos resultados contábeis. Ao final, foi calculado o valor justo da companhia
+através do mét odo fluxo de caixa descontado, em que o fluxo de caixa livre para a firma foi
+calculado e projetado com premissas feitas pelo autor e foi descontado pelo custo de capital da
+empresa, também calculado pelo autor . Apesar de se ter percebido que a Lojas Renner é uma
+empresa muito eficiente e que gera bons retornos ao acionista, concluiu-se que suas ações estão
+subvalorizadas, e que seu valor justo é de R$ 24,21.
+Palavras-chave: Valuation; Renner; Varejo; FCFF; FCD; Análise; Fluxo de Caixa Descontado
+10
+ABSTRACT
+This work aims to analyze, from a fundamentalist perspective, the retail company Renner,
+considering the current moment of the sector in which the company operates. First, the
+worldwide and country -specific macroeconomic situation and the sector in which i t operates
+were analyzed. After that, the company was examined from its qualitative aspects, such as its
+business model, key risks, company strategies, among others, to its quantitative aspects,
+specifically its financial performance based on accounting results. Finally, the fair value of the
+company was calculated through the discounted cash flow method, where the free cash flow to
+the firm was calculated and projected with assumptions made by the author and discounted by
+the company's cost of capital, als o calculated by the author. Despite recognizing that Lojas
+Renner is a highly efficient company that generates good returns for shareholders, it was
+concluded that its stocks are undervalued, and its fair value is estimated at R$ 24.21
+Keywords: Valuation; Renner; Retail; FCFF; DCF; Analysis; Discounted Cash Flow
+11
+LISTA DE FIGURAS
+Figura 1: Projeção Economia Mundial .......................................................... 19
+Figura 2: Projeção Brasil – Boletim Focus .................................................... 20
+Figura 3: Encantômetro Lojas Renner .......................................................... 27
+Figura 4: Estrutura de Endividamento da Empresa ...................................... 35
+12
+LISTA DE TABELAS
+Tabela 1: Participação por Marca na Receita Líquida ............................................... 22
+Tabela 2: Número de Lojas por Marca ....................................................................... 22
+Tabela 3: Cálculo do WACC...................................................................................... 38
+Tabela 4: DRE Lojas Renner – 2018 a 2022 .............................................................. 39
+Tabela 5: Histórico e Projeção do Fluxo de Caixa Livre para a Firma ...................... 40
+Tabela 6: Cálculo do WACC na Perpetuidade ........................................................... 41
+Tabela 7: Cálculo do Valor Justo ............................................................................... 42
+13
+LISTA DE GRÁFICOS
+Gráfico 1: Índice de Confiança do Consumidor ............................................ 25
+14
+LISTA DE ABREVIATURAS E SIGLAS
+FCFE – Free Cash Flow to Equity
+FCFF – Free Cash Flow to Firm
+ERP – Equity Risk Premium
+FED – Federal Reserve
+FMI – Fundo Monetário Internacional
+IPCA – Índice de Preços ao Consumidor Amplo
+TV – Terminal Value
+WACC – Weighted Average Cost of Capital
+15
+SUMÁRIO
+1 INTRODUÇÃO ............................................................................................... 17
+2 FUNDAMENTAÇÃO TEÓRICA .................................................................... 18
+2.1 Contexto Macroeconômico Global ...................................................................... 18
+2.2 Contexto Macroeconômico Brasileiro .................................................................. 19
+2.3 História da Empresa........................................................................................... 20
+2.4 Modelo de Negócio ........................................................................................... 21
+2.4.1 Marcas da Empresa ......................................................................................... 21
+2.4.2 Cenário Competitivo ........................................................................................ 25
+2.4.3 Principais Riscos .............................................................................................. 26
+2.4.4 Vantagens Competitivas .................................................................................. 27
+2.5 Principais Prêmios Recebidos ............................................................................. 28
+2.6 Avaliação por Múltiplos ..................................................................................... 28
+2.7 Modelo de Fluxo de Caixa Descontado ................................................................ 29
+3 METODOLOGIA ........................................................................................... 31
+3.1 Fluxo de Caixa Livre para a Firma (FCFF) ........................................................... 32
+3.2 Custo Médio Ponderrado de Capital (WACC) ...................................................... 32
+3.2.1 Custo do Capital Próprio (Ke) ......................................................................... 33
+4 APRESENTAÇÃO E ANÁLISE DOS DADOS ................................................ 35
+4.1 Custo Médio Ponderado de Capital (WACC) ....................................................... 35
+4.1.1 Estrutura de Capital ........................................................................................ 35
+4.1.2 Custo do Capital de Terceiros (Kd) .................................................................. 35
+4.1.3 Custo do Capital Próprio (Ke) ......................................................................... 35
+4.1.4 Aplicação do WACC ........................................................................................ 37
+4.2 Valor de mercado (market cap) ........................................................................... 38
+4.3 Fluxo de Caixa Livre para a Firma(FCFF) ............................................................ 38
+4.3.1 Premissas da Projeção ..................................................................................... 39
+4.3.2 Projeção do Fluxo de Caixa Livre para a Firma ............................................... 40
+4.3.3 Valor dos Fluxos de Caixa na Perpetuidade ...................................................... 41
+4.3.4 Valor Justo da Ação ......................................................................................... 42
+16
+5 CONCLUSÃO ................................................................................................. 44
+REFERÊNCIAS ......................................................................................................... 46
+17
+1 INTRODUÇÃO
+Após a taxa de juros básica do Brasil bater 2% em 2020, por conta da interrupção das
+atividades econômicas durante a pandemia causada pelo Covid -19 gradualmente o Banco
+Central subiu a Selic para conter a inflação, terminando o ano de 2022 em 13,75%.
+O cenário atual é desafiador para alguns setores, especialmente para o varejo de moda,
+setor fortemente dependente da atividade econômica, nível de desemprego e taxas de juros.
+Com a taxa de juros alta, o acesso ao crédito fica dificultado, afetando o cres cimento e
+desenvolvimento do setor.
+Segundo Copeland, Koller e Murrin (2002), a capacidade de gerar valor é parte
+essencial do desenvolvimento de estratégias corporativas e empresariais sólidas. Nesse
+contexto, buscou-se fazer uma avaliação econômico financeira, um valuation, da empresa Lojas
+Renner, varejista com mais de 24 mil colaboradores que conta com as marcas Renner,
+Camicado, Youcom, Realize CFI e Repassa.
+De acordo com Palepu, Healy e Bernard (2004), valuation é o processo de conversão
+de uma projeção em uma estimativa do valor de uma empresa ou de alguma parte da empresa.
+Para isso, será utilizado a metodologia do Fluxo de Caixa Descontado, que define o valor de
+um ativo como a soma dos seus fluxos de caixa futuros trazidos a valor presente por uma taxa
+de desconto calculada. Sendo assim, será possível chegar a um valor justo para a empresa
+O principal objetivo desta monografia foi analisar a companhia Lojas Renner e
+investigar se as ações da empresa estão subavaliadas na perspectiva fundamentalista, ou seja, o
+valor justo da empresa está acima do valor de mercado por ação. Para isso, o trabalho, ao longo
+dos capítulos, fará o processo de análise da empresa, pegando desde o cenário macroeconômico,
+até a parte qualitativa e quantitativa da companhia. Após isso, foi-se calculado o valor justo da
+empresa através da metodologia do fluxo de caixa descontado.
+Dentre as limitações, pode -se destacar o fato de que o estudo de caso do trabalho é
+somente da Lojas Renner, empresa varejista, e que o trabalho é feito sob uma perspectiva
+fundamentalista, onde o valor justo da empresa é reflexo das projeções para o fluxo de caixa da
+livre da companhia, que conta com as premissas feitas pelo analista. “Valuation é, por definição,
+a técnica de ‘reduzir a subjetividade’ de algo que é subjetivo por natureza.” (Póvoa, 2012, p. 4)
+O trabalho foi dividido em capítulos que passam desde o contexto macroeconômico
+global e do país, a análise qualitativa e quantitativa da empresa, o cálculo e premissas utilizadas
+para o fluxo de caixa descontado e a apresentação das conclusões ao final.
+18
+2 FUNDAMENTAÇÃO TEÓRICA
+2.1 CONTEXTO MACROECONÔMICO GLOBAL
+O ano de 2023 está influenciado fortemente pelo aumento da inflação global. Em 2020
+com o início da pandemia causada pela Covid -19, as restrições impostas foram severas e
+causaram uma colisão no mundo, tanto de oferta quanto de demanda, fazendo com que
+indústrias e atividades de serviço fechassem. A respostas das economias foi a redução das taxas
+de juros, com intuito de aumentar o consum o da população e mitigar o forte impacto da
+pandemia. Porém, com a redução das taxas de juros e aumento do consumo, a expectativa é de
+aumento da inflação e aumento dos preços.
+Segundo o relatório “World Economic Outlook Update” divulgado pelo Fundo
+Monetário Internacional (FMI), a economia global continua se recuperando gradualmente da
+crise da Covid -19 e do impacto da guerra da Ucrânia com a Rússia. A expectativa do fundo
+para 2023 é de que a economia global crescerá menos em 2023 e 2024 do que em 2022,
+passando de 3,5% no ano passado para 3% em ambos os anos. Em contraste, os países
+emergentes vão acelerar sua taxa de crescimento de 3,1% no ano passado para 4,1% neste ano
+e no próximo.
+Atualmente existe uma perspectiva diferente no cenário global, ao comparar Estados
+Unidos com a Europa. Segundo o economista chefe do Itaú Unibanco Mario Mesquita, mestre
+e doutor pela Universidade de Oxford e ex-diretor de política econômica do Banco Central do
+Brasil, a perspectiva do mercado é de que o FED não irá subir mais os juros em 2023, que
+atualmente está 5,25%. O relatório do Itaú BBA afirmou que o país continua a crescer acima
+de expectativa do mercado no ano, com expansão do PIB no terceiro trimestre de 2023 de 4,9%,
+especialmente puxado pelo consumo.
+19
+Figura 1: Projeção Economia Mundial
+Fonte: Itaú BBA (2023)
+O cenário europeu segue com a atividade econômica fraca e sem perspectivas de
+melhora, com o recuo do PIB no terceiro trimestre de 2023 de 0,1%. Junto a isso, a inflação
+segue consolidando tendência de queda, atualmente no valor de 2,9%. Diante desse cenár io, a
+expectativa indicada no relatório é de que o Banco Central Europeu antecipe o ciclo de corte de
+juros para junho de 2024.
+Ao olhar o cenário da China, a economia do país indica que o crescimento será
+positivo, com crescimento do PIB no terceiro trimestre de 2023 melhor do que o esperado e o
+anúncio do governo de emissão adicional de 1 trilhão de yuans em títulos do governo central.
+2.2 CONTEXTO MACROECONÔMICO BRASILEIRO
+O PIB do país em 2020 de 3,9%, crescimento em 2021 de 4,6% e aumento em 2022
+de 2,9%. Isso se deu por conta da pandemia da Covid-19, em que no ano de 2020 com restrições
+do isolamento social, a atividade econômica local foi muito afetada, uma vez que muita s
+empresas fecharam e, como mencionado anteriormente, houve impacto da colisão de oferta e
+demanda. Segundo o boletim focus do Banco Central, a expectativa é de que o PIB crescerá em
+2023 2,85% e 1,5% em 2024.
+Um ponto de destaque para a economia foi o movimento na taxa básica de juros, a
+Selic. Com o grande impacto da pandemia, o banco central do país utilizou como estratégia a
+redução gradual da taxa de juros, que antes da pandemia, em janeiro de 2020 estava p róxima
+dos 7%, chegou a bater 1,9% no ano de 2021, atingindo a menor taxa da história do Brasil.
+Porém, em 2022 a taxa sofreu um aumento significativo devido a alguns fatores, especialmente
+a pressão inflacionária, visto que a economia foi muito estimulada com a Selic batendo 1,9%
+20
+em 2021. Assim, o banco central teve como estratégia desacelerar o consumo e os
+investimentos. Para o futuro, o banco central projeta uma Selic no fim de 2023 no patamar de
+11,75%, e em 2024 9,25%.
+O relatório abaixo pego do banco central do Brasil indica as projeções feitas pela
+própria instituição sobre os principais indicadores macro, como inflação e crescimento do
+Produto Interno Bruto (PIB) do país.
+Figura 2: Projeção Brasil – Boletim Focus
+Fonte: Banco Central do Brasil (2023)
+Será de suma importância a atuação do banco central na definição da política
+monetária do país para os próximos anos, uma vez que a redução na taxa de juros está sendo
+vista pelo mercado como uma realidade no próximo ano, porém é preciso lidar também com a
+contenção da inflação do país, problema histórico no Brasil.
+2.3 HISTÓRIA DA EMPRESA
+A Renner começou sua história como integrante do grupo de indústria fabril A. J.
+Renner, fundado por Antônio Jacob Renner, com a inauguração do seu primeiro ponto de venda
+para a comercialização de artigos têxteis em 1922 em Porto Alegre. Em 1940, ela se tornou
+uma loja de departamento com um mix de produtos mais amplo, em 1965 tornou -se
+independente do grupo e em 1967 abriu seu capital para o mercado.
+Em 1991 a empresa passou por reestruturação e especializou -se no nicho da moda,
+com total de 8 lojas. A partir de 1994 a empresa iniciou o processo de expansão da companhia,
+inaugurando lojas fora do Rio Grande do Sul.
+Em 2005, com 64 pontos de venda, a empresa entrou no Novo Mercado como o
+primeiro corporation do país, ou seja, a primeira empresa a não ter nenhum acionista
+controlador.
+Na fase de expansão para novos negócios, a empresa adquiriu a Camicado em 2011,
+marca voltada ao segmento de casa e decoração. Após isso, lançou a Youcom em 2011 com
+21
+seus produtos voltados ao público jovem. Em seguida lançou a Ashua em 2016, marca de moda
+plus size. Por fim, a empresa criou a Realize em 2017, instituição financeira 100% controlada
+pela Lojas Renner, trazendo maior governança na gestão de produtos finan ceiros oferecidos
+pela companhia.
+Ainda em 2017 a empresa iniciou seu processo de abertura de lojas fora do Brasil,
+começando com 3 lojas no Uruguai. Atualmente grupo já ultrapassou a marca de 10 lojas no
+exterior.
+Em 2021 a companhia adquiriu a Repassa, plataforma online que revende roupas,
+calçados e acessórios. O negócio foi importante para a Lojas Renner, pois entrava em um
+mercado em crescimento, que é o de revenda de moda. Além disso, a companhia também
+adquiriu em 2022 a Uello, empresa logtech focada na otimização de entregas do e -commerce
+por meio de uma rede de parceiros e hubs.
+Toda a história coloca hoje a companhia como maior varejista de moda no Brasil em
+termos de faturamento bruto. Em dezembro de 2022, a empresa contava com 672 unidades de
+negócio em todo o Brasil l, sendo 422 Renner (incluindo 10 no Uruguai e 4 na Argentina ), 13
+Ashua,123 Camicado e 114 Youcom, e opera centros de distribuição nos estados de Santa
+Catarina, Rio de Janeiro e São Paulo. Além disso, também existe as empresas Realize e
+Repassa.
+2.4 MODELO DE NEGÓCIO
+A Companhia é um dos maiores ecossistemas de moda e lifestyle do Brasil, com uma
+plataforma ampla de marcas, serviços e clientes.
+No exercício encerrado em 31 de dezembro de 2022, a Companhia alcançou R$
+17.823,7 milhões de Receita Bruta Total e seu valor de mercado representava R$ 20 bilhões em
+30 de dezembro de 2022. Ainda, o Lucro Líquido totalizou R$ 1.291,7 milhões no exercício
+encerrado em 31 de dezembro de 2022.
+2.4.1 Marcas da Empresa
+A empresa possui a estratégia de ser um ecossistema de moda e lifestyle para os
+clientes, composta pelas marcas Renner, Camicado, Youcom, Ashua, Realize, Repassa e Uello.
+22
+Tabela 1: Participação por Marca na Receita Líquida
+2022 2021
+Receita Líquida 11.575 9.554
+Por Marca
+Renner (Inclui Ashua e Repassa) 10.603 8.613
+% Receita Líquida 92% 90%
+Youcom 405 291
+% Receita Líquida 3% 3%
+Camicado 567 650
+% Receita Líquida 5% 7%
+Fonte: O autor (2023)
+Tabela 2: Número de Lojas por Marca
+2022 2021
+N° de Lojas 672 636
+Renner 435 413
+Camicado 123 119
+Youcom 114 104
+Fonte: O autor (2023)
+A companhia lança e adquire novas marcas conforme as tendências de mercado, como
+por exemplo o caso da Repassa. Em um cenário de pandemia, fechamento de lojas físicas,
+recessão econômica e lojas tendo que se acostumar a utilizar o e -commerce, as lojas online e
+grupos nas redes sociais de revenda de roupas cresceu muito. Assim, a Lojas Renn er percebeu
+a tendência e decidiu entrar nesse mercado através da Repassa.
+2.4.1.1 Renner
+Rede de Lojas Renner, que representou 92% da receita líquida do grupo em 2022, é o
+principal negócio da companhia. A marca desenvolve e vende roupas, calçados e moda íntima
+para mulheres, homens, adolescentes e crianças. Contudo, o público-alvo são mulheres de 18 a
+38 anos, de classe média/alta. Além disso, a empresa desenvolve as coleções por estação.
+A companhia também vende acessórios e cosméticos por meio de marcas próprias e
+oferece também mercadorias em certas categorias de terceiros.
+Além disso, a Renner seguiu evoluindo para ter um negócio mais digital e
+omnichannel, com novos formatos de lojas e a implantação de ferramentas necessárias para
+fortalecer o relacionamento com os clientes. Para isso, seguiu aprimorando os diversos canais
+de venda e a agilidade nas entregas, com o objetivo de melhorar cada vez mais a experiência
+omni dos clientes.
+23
+2.4.1.2 Camicado
+A Camicado é a marca especializada em casa e decoração, que oferece uma grande variedade
+de produtos, entre artigos de decoração, utensílios de cozinha, eletroportáteis, eletrodomésticos,
+móveis e cama, mesa e banho. Além dos itens de revenda, desenvolve itens de marca própria e
+conta com sellers no seu marketplace. Ainda, a Camicado é especialista em lista de presentes
+para casamento, chá de casa nova e aniversários.
+Adquirida em 2011, a marca é a maior varejista nacional neste segmento, com presença em
+todas as regiões do país. Em 2022, inaugurou 4 unidades, somando 123 em operação. As lojas
+possuem área média de 420 m2, perfazendo 51,6 mil m2 de área total.
+A Camicado têm avançado na direção de proporcionar um ambiente digital cada vez mais bem
+preparado para os clientes, apresentando crescimento relevante na venda dos Novos Canais,
+tais como WhatsApp, digitalização da força de Vendas e através dos afiliados do programa
+Minha Sacola. Também seguiu evoluindo no seu marketplace, que hoje conta com 505 sellers
+e mais de 280 mil produtos ativos. No ano, foram incluídas novas categorias, como
+eletrodomésticos e eletroeletrônicos.
+2.4.1.3 Youcom
+A Youcom é uma marca de moda e lifestyle jovem lançada em 2013. As lojas, em formato
+especializado, oferecem produtos de qualidade, a preços competitivos, com alto apelo de moda
+e sempre conectados ao comportamento e necessidades do consumidor jovem, de fo rma
+inovadora e sustentável.
+A empresa seguiu investindo na aceleração da transformação digital do negócio e no
+fortalecimento do seu posicionamento de moda e lifestyle jovem nos canais digitais, através da
+constante evolução de features do seu aplicativo, que vem apresentando resultados importantes
+de downloads e retenção de clientes.
+2.4.1.4 Ashua
+Lançada em 2016 no e-commerce voltada à moda Curve e Plus Size, a Ashua oferece produtos
+que valorizam as curvas e o corpo feminino, com qualidade e informação de moda. Desde 2018,
+24
+a marca tem suas lojas físicas para ampliação da oferta omnicanal e encerrou o ano com 13
+unidades em operação, sendo 4 inauguradas em 2022.
+2.4.1.5 Realize CFI
+A Realize Crédito, Financiamento e Investimento S.A apoia o negócio de varejo da Lojas
+Renner, através da oferta de um conjunto de serviços financeiros aos clientes, entre eles o
+Cartão Renner (private label) e o Meu Cartão (cartão de crédito internaciona l), além do Saque
+Rápido – modalidade de empréstimo pessoal - e de um portfólio de seguros e, na frente de
+investimentos, emissão de CDB. Adicionalmente, oferece soluções para negócios, com
+operações de antecipação de recebíveis para sellers do ecossistema, assim como financiamento
+de capital de giro e concessão de crédito para fornecedores.
+Um ponto interessante é que a seção de cartões fica dentro do aplicativo Renner voltado para
+as compras, o que aumenta as possibilidades do usuário fazer um cartão, assim como facilita a
+jornada do consumidor, que pode resolver todas as suas questões relacionadas à Renner em um
+só lugar.
+2.4.1.6 Repassa
+O Repassa é uma plataforma online que revende roupas, calçados e acessórios, adquirido em
+2021. É uma startup nativa digital, fundada em 2015, com sustentabilidade no centro. O Repassa
+amplia a oferta de serviços adjacentes aos clientes, atuando no segmento gerenciado de revenda
+de moda.
+No ano de 2022, diversas ações de comunicação do Repassa foram realizadas a partir dos canais
+Renner, reforçando o objetivo da Companhia de estimular o consumo consciente e a ampliação
+da vida útil das peças
+2.4.1.7 Uello
+A Uello é uma logtech nativa digital de entregas de última milha, com foco em experiência e
+gestão em tempo real, fundamental para um last mile mais eficiente e com mais velocidade e
+qualidade. Ao longo de 2022, a operação de gestão direta de transportes na região de São Paulo
+passou a utilizar o sistema de gerenciamento de entregas de last mile desenvolvido pela Uello,
+contribuindo para ganhos de velocidade e eficiência.
+25
+2.4.2 Cenário Competitivo
+O setor possui drivers já conhecidos no mercado, no caso dados que indicam a
+expectativa de performance do setor.
+Um driver importante é a própria economia e seus ciclos. O setor de varejo vestuário
+é muito dependente da atividade econômica do país. O índice de Pearson, indicador que mede
+correlação entre dois fatores, calculado resultou no valor de 0,88, indicando forte relação entre
+o PIB e das vendas das empresas do setor de capital aberto.
+A índice de confiança do consumidor também é um bom indicador para a performance
+do setor. O índice mostra a disposição do consumidor em comprar e demandar produtos e
+serviços. Calculado pela FGV, ao olhar o histórico do índice é possível ver movimentos be m
+definidos, como a queda de 2013 a 2016 durante a crise no governo Dilma, com seu
+impeachment em 2016, e a queda de 2020 a 2022, por conta da pandemia do Covid-19. De 2022
+até o mês de setembro de 2023 a confiança do consumidor tem melhorado, dado o cenár io de
+melhora econômica e reabertura.
+Gráfico 1: Índice de Confiança do Consumidor
+Fonte: Banco Central do Brasil (2023)
+Outro driver do setor é a taxa de desemprego. Uma vez que o setor é de consumo
+discricionário, momentos de maior desemprego, como o que ocorreu na pandemia, afetam as
+vendas das empresas, pois a população fica mais apreensiva sobre seu poder de compra no
+futuro, focando em consumos mais básicos.
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+jan/13 jan/14 jan/15 jan/16 jan/17 jan/18 jan/19 jan/20 jan/21 jan/22 jan/23 set/23
+26
+Além disso, pode-se mencionar como driver a taxa básica de juros. O acesso ao crédito
+é importante para o setor e seu crescimento, especialmente o caso da Renner que possui sua
+marca de serviços financeiros, e com taxas altas de juros o acesso ao crédito f ica mais caro e
+menos disponível, afetando negativamente o setor.
+Assim, o setor é altamente dependente da economia do país. Períodos de recessão e
+crise acarretam o aumento do nível de incerteza, crescimento do desemprego e aumento das
+taxas de juros. Todos os fatores impactam negativamente o setor.
+Além da atividade econômica, um fator importante para o setor é a digitalização,
+especialmente após a pandemia. Isso tem ocorrido tanto no sentido de aumentar a presença
+digital das marcas, por meio do marketing e de novas formas de se relacionar com o púb lico
+consumidor, quanto na questão de realizar operações online, com o e -commerce, e integrar o
+mundo on e off pelo omnichannel.
+2.4.3 Principais Riscos
+No cenário macroeconômico, como já mencionado a empresa depende, para ter
+sucesso nas operações, de diversos fatores, como: Gastos e confiança do consumidor, taxa
+básica de juros, crescimento do PIB, disponibilidade de crédito, níveis de empregabilidade etc.
+Ao olhar na perspectiva setorial, um risco bem definido para o setor atualmente é a
+competição com varejistas online. Na medida que a Renner está dando foco para digitalização
+e omnicanalidade, a competição desse segmento vem crescendo, uma vez que suas barreiras de
+entrada são menores do que abrir lojas físicas. Um exemplo dessa competição é a Shein, que
+cresceu muito durante a pandemia e hoje representa um player/competidor forte para o setor.
+Para os riscos do negócio da Lojas Renner em si, pode-se destacar os seguintes pontos:
+(1) A empresa pode não conseguir entregar a assertividade que vem entregado em suas
+coleções, tendo risco de não acompanhar as tendências atuais de moda; (2) Dificuldade em
+repassar preço, pois a maioria dos fornecedores da empresa é formada por sociedades de
+pequeno e médio porte, mais suscetíveis a dificuldades financeiras e operacionais caso ocorra
+uma crise econômica. A empresa afirma que não pode prever se será capaz de repassar esse
+aumento de custo para os consumidores finais; (3) Dificuldade na inauguração e operação de
+novas lojas com êxito. Uma vez que seu modelo de negócio depende da expansão de novas
+lojas, é um risco relevante caso a empresa não consiga mais e xpandir seu número de lojas ou
+não ser assertiva nas localizações, gerando canibalização entre as suas próprias lojas.
+27
+2.4.4 Vantagens Competitivas
+Uma vantagem da companhia é sua oferta diversificada de produtos, adaptando -se â
+demanda do público. A Renner tem conseguido manter mix’s de produto eficientes, na medida
+em que tem ganhado market share e crescido suas margens. Isso acontece através das su as
+marcas que atingem mercados consumidores diferentes, como por exemplo a Youcom, focada
+em moda jovem, ou a Ashua, focada em moda Plus Size.
+Um outro ponto forte da empresa é a proposta de geração de valor e foco no cliente, a
+chamada “Cultura do Encantamento”. Há mais de 20 anos, a Companhia foi pioneira com a
+criação do “Encantômetro”, que mensura a experiência de compra dos clientes nas loja s da
+Renner. Encantar o cliente é um dos valores e propósitos da empresa. Assim, a empresa ano
+após ano melhora seu nível de encantamento com os clientes, indicando uma geração de valor
+forte.
+Figura 3: Encantômetro Lojas Renner
+Fonte: Formulário de Referência da Lojas Renner (Dezembro 2022)
+Além disso, a logística da companhia é um diferencial competitivo. Isso permite a
+empresa atender as diferentes demandas climáticas, regionais e preferências locais de marcas,
+estilos, cores e temas. Um bom indicador dessa preocupação da empresa é a aquisição da Uello,
+empresa focada em logística.
+Por fim, uma vantagem competitiva da empresa é sua estratégia em si e seus diferentes
+mercados que a empresa atinge, desde roupas a produtos de decoração, soluções financeiras e
+o marketplace. Segundo o formulário de referência da companhia a estratégia atual da empresa
+28
+se baseia nos seguintes objetivos: (1) ser o ecossistema líder no varejo de moda e lifestyle e
+referência na América Latina; (2) ampliar seu mercado endereçável; (3) fortalecer sua cultura
+de encantamento; (4) aumento do life time value; (5) ser referência em atração e retenção de
+talentos de moda, varejo, tecnologia, dados, fulfillment e inovação; e (6) a criação de uma
+plataforma única de marcas, parceiros e vendedores.
+2.5 PRINCIPAIS PRÊMIOS RECEBIDOS
+Desde 2006 a empresa já tem recebido diversos prêmios e reconhecimentos do
+mercado. Por exemplo, em 2007 a companhia recebeu prêmio de governança corporativa do
+IGBC.
+Em 2010 a Renner recebeu o 1° lugar no setor de Consumo e Varejo da América Latina
+pela Institucional Investor Magazine nas categorias melhor CEO e melhor RI (Relação com
+Investidores)
+Em 2015 ficou em 1° lugar no ranking da Revista Capital Aberto, o qual lista as
+melhores companhias para os acionistas (Categoria com valor de mercado entre R$ 5 bilhões e
+R$ 15 bilhões).
+Em 2021 e 2022 a empresa foi a vencedora do prêmio Empresa Mais Digital na
+categoria Varejo da Plus Digital Award.
+2.6 AVALIAÇÃO POR MÚLTIPLOS
+Segundo Assaf Neto (2014), os modelos de avaliação procuram, basicamente, projetar
+como serão os comportamentos dos ativos financeiros, elaborando previsões com relação às
+variações de seus preços no mercado.
+Rocha (2007) pontua em seu artigo que na falta de suporte do valuation por meio de
+estudos compreensivos e críticos, o mercado acaba produzindo indicadores paramétricos para
+avaliar o preço de uma ação, como múltiplos por exemplo.
+Damodaran (2017) comenta que, com relação à análise fundamentalista, existem
+apenas duas abordagens de avaliação. A primeira, conforme mencionada anteriormente, é a
+intrínseca. O valor intrínseco é determinado pelos fluxos de caixa que esperam que sejam
+gerados pelo ativo durante a sua vida útil e pelo grau de incerteza a ele associado. A segunda é
+a abordagem relativa, na qual o valor do ativo é estimado utilizando como base os preços de
+mercado de ativos similares. Não existe motivo para optar por utilizar somente uma abordagem
+29
+no momento de realizar a avaliação, inclusive, as chances de sucesso aumentam ao se utilizar
+as duas.
+O modelo de avaliação por múltiplos se baseia no conceito de valuation relativo, ou
+seja, o valor de um ativo analisado é definido com base em ativos comparáveis. Isso é, ativos
+que operam em mercados similares, atendendo públicos similares e oferecendo pr odutos
+similares.
+Desse modo, uma empresa com múltiplos inferiores a média do setor é considerada
+subavaliada. Por outro lado, uma empresa com múltiplos superiores a média do setor é
+considerada sobreavaliada.
+Ainda segundo Damodaran (2017), os três pontos essenciais na avaliação relativa são:
+(i) encontrar ativos comparáveis que são precificados pelo mercado; (ii) ampliar os preços de
+mercado até uma variável comum para gerar preços padronizados que sejam comparáveis entre
+os diferentes ativos ao comparar os valores padronizados; e (iii) realizar ajustes para compensar
+as diferenças entre os ativos
+Entretanto, essa abordagem recebe críticas por ser rasa, por não levar em consideração
+outros fatores intrínsecos ao negócio da empresa e por tomar como premissa que os ativos
+comparáveis estão precificados ao seu valor justo. Além disso, os múltiplos pode m ser
+facilmente manipulados pelas empresas, pois esta
+metodologia de avaliação é bastante sensível a mudanças nos números reportados, os
+quais podem ser manipulados através de manobras contábeis.
+2.7 MODELO DE FLUXO DE CAIXA DESCONTADO
+O fluxo de caixa descontado (FCD) é um dos principais instrumentos de precificação
+de ativos. Essa metodologia considera que o objetivo maior de qualquer empresa não
+beneficente é obter lucro, o que se traduz em geração de caixa para seus acionistas. Em uma
+pesquisa realizada por Martelanc (2005), verificou -se que os métodos mais utilizados para
+avaliação de fusões e aquisições no Brasil eram Fluxo de Caixa Descontado (FCD) e Múltiplos
+(Avaliação Relativa).
+Assim, o valor justo de uma empresa é o valor dos fluxos de caixa futuros trazidos ao
+valor presente por meio de uma taxa de desconto. Essa taxa reflete o grau de incerteza do
+investimento.
+30
+Vale destacar que os fluxos de caixa variam entre diferentes ativos e a taxa de desconto
+será em função do risco do caixa estimado, com taxas mais altas para ativos mais arriscados e
+taxas mais baixas para ativos mais seguros
+Para esse trabalho foi escolhido o modelo de fluxo de caixa descontado, por ser a
+abordagem que o analista considera tanto aspectos macroeconômicos quanto aspectos
+microeconômicos em sua análise.
+31
+3 METODOLOGIA
+Em relação a classificação, a abordagem da pesquisa é qualitativa. Apesar da parte
+quantitativa da empresa também ser levada em consideração, o trabalho foi feito sob viés
+fundamentalista, em que são feitas projeções com base em premissas do analista. Assim, o
+valuation pelo método escolhido é considerado como uma arte, não como ciência, uma vez que
+ele pode refletir qualquer premissa utilizada. Segundo Damodaran (2017) o seu modelo de
+valuation reflete aquilo que você coloca como premissa. Um jargão conhecido para que m
+trabalha na área é o “ garbage in, garbage out ”, ou seja, se você coloca lixo no modelo, ele
+refletirá esse lixo projetado.
+Além disso, a pesquisa é classificada como descritiva, análise de conteúdo,
+bibliográfica e um estudo de caso. Para Andrade (2004) as pesquisas descritivas, tal qual a
+realizada neste artigo, caracterizam -se pela observação, registro, análise, classificação e
+interpretação dos fatos sem que haja interferência sobre eles por parte do pesquisador. Para Gil
+(2006) a principal característica da pesquisa de caráter descritivo é que se objetiva
+primordialmente a descrição das características de certa população, ou fenômeno ou, então,
+procura-se verificar possíveis relações entre variáveis.
+A empresa escolhida foi a Renner com intuito de entender se as ações da empresa estão
+ou não subavaliadas. Para isso, foi utilizado como base para o trabalho os documentos listados
+no site de relacionamento com investidores da empresa, como o formulário de referência e suas
+apresentações institucionais, relatórios setoriais aonde a empresa atua, relatórios macro feitos
+por bancos de investimento, como o Itaú BBA e também notícias relevantes para a empresa.
+Segundo Damodaran, o valor intrínseco de um ativo é determinado pelos fluxos de
+caixa esperados que o ativo irá gerar em sua vida útil, trazendo -os a valor presente através de
+uma taxa de desconto que reflita o grau de incerteza do investimento. Para o mod elo de fluxo
+de caixa é utilizada o mesmo raciocínio.
+É possível separar o modelo de fluxo de caixa descontado em diferentes métodos,
+sendo os dois principais: modelo de fluxo de caixa livre para a empresa (free cash flow to firm
+- FCFF) e modelo de fluxo de caixa livre para o acionista (free cash flow to equity - FCFE).
+Ambos estimam os fluxos de caixa futuros e uma taxa de desconto. Porém, as taxas de
+desconto e a metodologia de projeção dos fluxos de caixa são diferentes entre os dois métodos,
+uma vez que são óticas diferentes.
+32
+3.1 FLUXO DE CAIXA LIVRE PARA A FIRMA (FCFF)
+Segundo Póvoa (2012), o fluxo de caixa para a firma (free cash flow to firm - FCFF),
+abrange todo o fluxo de caixa da empresa a ser distribuído entre os credores e acionistas, sob a
+forma de dividendos e juros. O FCFF é o fluxo de caixa que resta a empresa após quitadas todas
+as suas necessidades de investimento no período. O cálculo é da seguinte forma:
+FCFF = EBIT x (1 - IR) + Depreciação - CAPEX - Variação no Capital de Giro
+Onde:
+EBIT = Earnings Before Interest and Taxes, ou LAJIR, que significa Lucro Antes de
+Juros e Imposto de Renda.
+IR = Imposto de renda e contribuição social sobre lucro líquido
+Depreciação = Depreciação do período
+CAPEX = Capital expenditures, ou investimentos em capital
+Variação no capital de giro = Variação no capital de giro necessário para a execução
+das atividades da empresa.
+Uma vez que o FCFF representa o caixa disponível para os acionistas e credores, a
+taxa de desconto utilizada deve levar em consideração tanto os riscos dos credores (Kd), quanto
+os riscos dos acionistas (Ke), de forma ponderada pela participação de cada cl asse no
+financiamento da empresa. Utiliza -se como taxa de desconto, o WACC (Weighted Average
+Capital Cost), custo médio ponderado de capital.
+3.2 CUSTO MÉDIO PONDERRADO DE CAPITAL (WACC)
+Segundo Assaf Neto (2014), o WACC (Weight Average Cost of Capital) é o retorno
+mínimo que o investidor espera receber de forma a remunerar o custo de oportunidade
+(comparação de alternativas financeiras de riscos semelhantes) dos recursos aplicados.
+Segundo Copeland, o WACC é calculado a partir da seguinte equação:
+WACC = Ke * E/(E+D) + Kd * (1-IR) * D/(E+D)
+Onde:
+Ke = Custo do capital próprio
+33
+E = Capital próprio
+D = Capital de terceiros
+Kd = Custo do capital de terceiros
+IR = Alíquota de imposto de renda e contribuição social
+3.2.1 Custo do Capital Próprio (Ke)
+O custo do capital próprio é a taxa de retorno que o acionista exige para
+investir na empresa. Para estimar o valor será utilizado o modelo CAPM, uma equação
+que serve para encontrar o custo de capital próprio.
+CAPM = Rf + β (Rm - Rf)
+Onde:
+CAPM = Taxa de retorno esperada para se investir no ativo
+Rf = Taxa livre de risco
+β = Coeficiente beta ou risco sistemático
+Rm = Taxa de retorno esperada para o mercado
+A taxa livre de risco (Rf) refere-se ao retorno que o investidor teria se aplicasse em um
+ativo livre de risco. Geralmente é utilizada uma taxa de um título público federal, pois usa-se a
+premissa de que um governo não dará calote. O coeficiente beta, ou risco sistemático, relaciona
+o movimento passado da ação com relação aos movimentos do mercado e corresponde ao risco
+não diversificável.
+Segundo Damodaran (2012) o único risco que é relevante para fins de estimativa do
+custo de capital é o risco de mercado ou o risco que não pode ser diversificado. O argumento é
+de que mercados menos maduros e ainda em desenvolvimento, como o Brasil, a série histórica
+de retornos do mercado não é longa o bastante para gerar uma estatística confiável. Assim, é
+preciso somar o prêmio por esse risco no CAPM, que fica da seguinte forma:
+CAPM = Rf + β * (Rm - Rf + CRP)
+Onde:
+Rf = Taxa de juros do tesouro dos EUA
+34
+β = Beta
+Rm = Taxa de retorno esperada para um mercado maduro (EUA)
+CRP = Country Risk Premium, ou prêmio de risco país
+35
+4 APRESENTAÇÃO E ANÁLISE DOS DADOS
+4.1 CUSTO MÉDIO PONDERADO DE CAPITAL (WACC)
+4.1.1 Estrutura de Capital
+Para o cálculo da estrutura de capital é preciso olhar o valor da dívida líquida da
+empresa e do patrimônio líquido a valor de mercado. Nos últimos dois anos, 2021 e 2022, a
+empresa possuía dívida líquida negativa, ou seja, possuía um valor de caixa maior do que o
+valor da dívida. Assim, a sua estrutura de capital é 100% capital de sócios.
+4.1.2 Custo do Capital de Terceiros (Kd)
+Como mencionado anteriormente, a empresa possui sua dívida líquida negativa por
+conta da posição de caixa da companhia ser maior do que seu endividamento. Ao olhar a dívida
+bruta da companhia, a empresa possui majoritariamente sua dívida concentrada em uma
+debênture, mas também possui linhas de curto prazo, como algumas linhas de capital de giro e
+4131, consequentemente também um derivativo como hedge da 4131.
+O custo de capital da companhia foi definido como a taxa da debênture, CDI + 1,6%.
+Figura 4: Estrutura de Endividamento da Empresa
+Fonte: Formulário de Referência da Lojas Renner (2022)
+4.1.3 Custo do Capital Próprio (Ke)
+O custo de capital próprio foi calculado através do modelo CAPM.
+4.1.3.1 Taxa livre de Risco (Rf)
+36
+O trabalho utilizou como taxa livre de risco a remuneração do T -Bond americano de
+10 anos, uma vez que o título do governo americano é considerado o investimento mais seguro
+do mundo. A taxa é de 4,65%, segundo o investing.com.
+4.1.3.2 Prêmio de Risco (Rm e CRP)
+O prêmio de risco é composto pela soma do risco país brasileiro e do prêmio de risco
+de um mercado maduro, que nesse caso foi utilizado os Estados Unidos. Para o prêmio de risco
+de um mercado maduro o valor foi calculado e sugerido por Damodaran em seu blo g,
+encontrando o valor de 5%. Por último, para o prêmio de risco país, no caso o Brasil, que
+expressa basicamente o risco de crédito a que os investidores estrangeiros estão submetidos
+quando investem no país, o indicador escolhido foi o EMBI +Br. O dado f oi obtido através de
+consulta ao IPEA na data de 13 de novembro de 2023, com valor de 2%. Portanto, o prêmio de
+risco é de 7%.
+4.1.3.3 Alíquota de IR (IR)
+Em relação a alíquota de imposto de renda e contribuição social sobre lucro líquido no
+Brasil, a Lojas Renner historicamente paga uma alíquota abaixo de 30%, uma vez que recebe
+benefícios tributários. De 2017 a 2019 a empresa pagou cerca de 27% e durante a pandemia a
+empresa pagou ainda menos. Em 2020 pagou 9%, 2021 pagou 1% e em 2022 pagou 7%.
+Apesar da alíquota no Brasil ser de 34%, para esse trabalho foi considerado uma
+alíquota de 30%, dado o cenário mencionado anteriormente da empresa.
+4.1.3.4 Beta
+O beta utilizado para o trabalho foi calculado e sugerido por Damodaran em seu blog.
+Para isso, foi utilizado o beta do segmento “Retail General”, correspondente ao setor de varejo,
+que era de 1,36. O valor indica que o setor possui uma volatilidade maior do que o mercado,
+que faz sentido, dado a ciclicidade e dependência da economia do setor.
+4.1.3.5 CAPM
+Após pegar e calcular todas as variáveis do modelo, pode-se aplicar segundo a fórmula:
+37
+CAPM = Rf + βL * (Rm - Rf + CRP)
+Ao aplicar a fórmula com os valores obtidos anteriormente, é concluído que o custo
+de capital próprio (Ke) é de 14,17%.
+4.1.4 Aplicação do WACC
+Com os dados calculados anteriormente do custo de capital próprio (Ke) e custo de
+capital de terceiros (Kd), é possível calcular o custo médio ponderado de capital através da
+fórmula do WACC.
+WACC = Ke * E/(E+D) + Kd * (1-IR) * D/(E+D)
+Levando em consideração que E/(E+D) representa a porcentagem de capital próprio
+na composição de capital da companhia e D/(E+D) representa a porcentagem de capital de
+terceiros no capital da companhia, chega-se a:
+WACC = 14,17% * 100% + 13,86% * (1-30%) * 0% = 14,17%
+A tabela abaixo ilustra os valores utilizados no cálculo do WACC da companhia:
+38
+Tabela 3: Cálculo do WACC
+Fonte: O Autor (2023)
+O custo de capital da empresa ficou em 14,17%, igual ao valor do custo de capital
+próprio da companhia. Isso porque a empresa possui dívida líquida negativa, assim a proporção
+de capital de terceiros na empresa fica igual a zero.
+4.2 VALOR DE MERCADO (MARKET CAP)
+O valor de mercado da empresa foi obtido através do preço de fechamento das ações
+da Lojas Renner no dia 20 de novembro de 2023, multiplicado pelo total de ações no
+fechamento do 1º trimestre de 2023, obtido através do site da B3. O valor de mercado
+encontrado foi de R$ 13,919 bilhões.
+4.3 FLUXO DE CAIXA LIVRE PARA A FIRMA(FCFF)
+Para o cálculo do fluxo de caixa livre para a firma, o quadro abaixo expõe a
+demonstração do resultado do exercício da Lojas Renner nos anos de 2017 a 2022.
+39
+Tabela 4: DRE Lojas Renner – 2018 a 2022
+Fonte: O Autor (2023)
+Nota-se que a empresa teve seu faturamento crescente com exceção ao ano de 2020,
+onde a companhia foi muito afetada pela pandemia com fechamentos de lojas e,
+consequentemente, seu faturamento reduziu em comparação ao ano anterior. O que chama a
+atenção é que mesmo nesse ano de exceção, o lucro líquido em 2020 foi superior ao ano de
+2019, especialmente por conta do menor pagamento de impostos sobre o lucro feito pela
+empresa em 2020.
+4.3.1 Premissas da Projeção
+Na elaboração das premissas que deram base para o modelo, foram levadas em
+consideração tanto variáveis macroeconômicas quanto microeconômicas.
+Para projeção da receita bruta, foi utilizado como premissa o crescimento por meio da
+divisão do negócio em diferentes mercados, desde a operação da Renner, mas passando também
+pelas outras marcas, como Youcom, Camicado e Repassa.
+Ao olhar para a situação macroeconômica, a perspectiva para o setor é boa, dado o
+cenário de expectativa de redução gradual da taxa de juros no país, contenção da inflação e
+crescimento do PIB para os próximos anos. Ao olhar no micro, o cenário projetado é de
+crescimento para a empresa, visto que ela tem tido assertividade nos mercados onde opera, vem
+entregando crescimento historicamente, está entrando em mercados novos que são dados como
+tendência, como o de revenda de roupas, e possui muita sinergia dentro da sua operação, como
+por exemplo o Realize, empresa de serviços financeiros que possui sinergia com a operação da
+Lojas Renner na venda a crédito.
+40
+Para projeção do custo de mercadoria vendida, historicamente o valor ficou próximo
+de 40% da receita líquida. Mesmo com projeção de crescimento da empresa e um cenário
+próspero, não foi projetado melhora nem piora na porcentagem do custo em relação a recei ta
+líquida. A empresa já está madura e já possui seu forte poder de barganha com fornecedores.
+Além disso, a empresa está exposta a riscos cambiais, visto que possui parte dos seus
+fornecedores no mercado externo. Ao olhar as despesas operacionais, foi pro jetado uma
+melhora de 1 p.p a cada ano da projeção, indicando que a empresa terá mais eficiência em
+gerenciar suas despesas comerciais, de venda e administrativa.
+O CAPEX foi projetado como uma porcentagem da receita líquida, uma vez que o
+plano de expansão da empresa inclui tanto a digitalização quanto a expansão em quantidade de
+lojas. Já a variação do capital de giro, a empresa foi muito afetada durante a pandemia com seus
+prazos, visto que a inadimplência aumentou e com as restrições físicas o estoque ficou ocioso.
+Assim, a projeção do capital de giro foi feita por meio de projeções para os indicadores de dias
+de clientes, dias de estoques e dias de fornecedores.
+O crescimento na perpetuidade foi de 4%.
+4.3.2 Projeção do Fluxo de Caixa Livre para a Firma
+O fluxo de caixa livre para a firma foi projetado é apresentado no quadro a seguir. A
+projeção desse fluxo de caixa livre leva em consideração todas as projeções mencionadas
+anteriormente. A última linha indica o valor presente dos fluxos de caixa livres, que foram
+descontados pelo custo médio ponderado de capital (WACC), conforme a metodologia do fluxo
+de caixa descontado é aplicada.
+Tabela 5: Histórico e Projeção do Fluxo de Caixa Livre para a Firma
+Fonte: O Autor (2023
+Ao somar o valor presente dos fluxos de caixa projetados o valor encontrado é
+equivalente a R$ 4,077 milhões.
+41
+4.3.3 Valor dos Fluxos de Caixa na Perpetuidade
+Segundo Damodaran (2012), na perpetuidade, os betas de todas as empresas tendem a
+1. Além disso, seria imprudente acreditar que a Lojas Renner manteria seus benefícios fiscais
+eternamente. Portanto, é mais indicado se considerar que a alíquota de IR e CSLL na
+perpetuidade será de 34%. Sendo assim, é necessário se recalcular o WACC para a
+perpetuidade.
+Tabela 6: Cálculo do WACC na Perpetuidade
+Fonte: O Autor (2023)
+Aplicando a mesma metodologia de cálculo do WACC utilizada anteriormente, e dessa
+vez atualizando o beta alavancado para 1 e o IR e CSLL para 34%, encontramos o um custo
+médio ponderado de capital de 11,65%. A tabela a seguir demonstra os números utilizado s no
+cálculo do WACC na perpetuidade:
+Assim, o valor da perpetuidade pode ser obtido através do modelo de Gordon, que
+estabelece que:
+P0 = D0 * (1 + g)/(Ke - g)
+Onde:
+42
+P0 = Preço da ação no momento atual
+D0 = Dividendo da ação no momento atual
+g = Taxa de crescimento na perpetuidade
+Ke = Custo de capital
+Após calcular o custo de capital para perpetuidade e considerar um crescimento na
+perpetuidade de 4%, pode -se aplicar a fórmula e o trazer o valor encontrado para o valor
+presente, encontrando que o valor justo da perpetuidade é de R$ 18,221 bilhões.
+4.3.4 Valor Justo da Ação
+Após isso é possível encontrar o valor justo da empresa ao somar o valor explícito na
+projeção com o valor da perpetuidade, encontrando assim o valor de R$ 22,01 bilhões. Porém,
+esse valor é disponível para acionistas e credores. É preciso descontar o valor da dívida líquida
+para encontrar o valor disponível para sócios (Equity Value).
+Tabela 7: Cálculo do Valor Justo
+Fonte: O Autor (2023)
+Ao calcular a dívida líquida, nota-se que o valor do caixa é maior do que a dívida total
+do grupo, resultando em uma dívida líquida negativa.
+Para encontrar o valor justo de cada ação, é preciso dividir o valor da participação pelo
+total de ações. Assim, foi encontrado o valor justo de cada ação da empresa o valor de R$ 24,21.
+43
+44
+5 CONCLUSÃO
+Este trabalho teve o objetivo calcular e estimar o valor justo para a Lojas Renner
+através da metodologia do fluxo de caixa descontado.
+Para isso foi necessário analisar a situação macroeconômica e setorial na qual a
+empresa se insere e depois compreender os fundamentos da empresa, analisando tanto o modelo
+de negócio quanto os resultados financeiros da empresa.
+Após a projeção dos fluxos de caixa futuros, foram necessários alguns cálculos para
+se definir o custo de oportunidade do investimento. A partir deste custo de oportunidade e dos
+fluxos já projetados, foi possível calcular o valor justo da Lojas Renner por meio do modelo de
+fluxo de caixa descontado, utilizando a metodologia do fluxo de caixa livre para a firma.
+Ao se concluir que o valor justo da ação é de R$ 24,21, verificou -se que embora a
+Lojas Renner seja uma empresa extremamente eficiente e rentável, a mesma está subvalorizada,
+ou seja, seu valor justo está abaixo do valor de mercado, que atualmente é de 14,45, indicando
+um upside de 67,53%.
+A subvalorização acontece porque, por melhor que seja a operação da empresa, ela não
+está imune às euforias do mercado, que eventualmente a precifica muito acima ou muito abaixo
+de seu valor justo. Entretanto, essas falhas na precificação são oportunidades de investimento
+que, se acertadas, podem render bons lucros ao acionista.
+Apesar que o trabalho tenha concluído que a melhor atitude seria a compra das ações,
+isso não garante que as mesmas se desvalorizarão no futuro, pois o valuation é bastante
+subjetivo e pode ser influenciado pelo viés do analista. Somado a isso, a ferramenta do fluxo de
+caixa descontado tenta prever o futuro, o que é impossível de ser feito com precisão. Assim,
+podem acontecer surpresas que elevarão o preço da ação ou farão o mesmo despencar.
+Dayanna (2013) em seu artigo chegou a um valor justo por ação da empresas Lojas
+Renner de R$ 71,96, com uma taxa de desconto de 11,83%. Fica claro a fala anterior de que o
+valuation muda conforme as expectativas das empresas vão mudando também, visto que o valor
+justo encontrado em 2013 por Dayanna foi quase R$ 50,00 acima do valor encontrado por esse
+trabalho atual.
+Portanto, é cabível ressaltar que este é um trabalho acadêmico, e as decisões de compra
+ou de venda da ação devem ser compreendidas e decididas pelo investidor, apesar de qualquer
+recomendação que este possa vir a receber. Portanto, a decisão final de inve stimento fica a
+cargo do investidor.
+45
+46
+REFERÊNCIAS
+BANCO CENTRAL DO BRASIL. Focus - Relatório de Mercado. [S. l.], 26 nov. 2023.
+Disponível em: https://www.bcb.gov.br/publicacoes/focus. Acesso em: 26 nov. 2023.
+COPELAND, Tom; KOLLER, Tim; MURRIN, Jack. Avaliação de Empresas. Tradução
+Maria Cláudia S. R. Ratto. 2. ed. São Paulo: Makron Books, 2000.Tradução de: Valuation -
+Measuring and managing the value of companies.
+LOJAS RENNER. Relações com Investidores: Lojas Renner. Disponível em:
+<http://arezzoco.com.br/>. Acesso em: 20 nov. 2023
+DAMODARAN, Aswath. Betas by Sector (US). 2023. Disponível em:
+<http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html>. Acesso em:
+20 nov. 2023.
+DAMODARAN, Aswath. Country Default Spread and Risk Premiums. 2023. Disponível
+em:
+<https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.html>. Acesso
+em 20 nov. 2023.
+DAMODARAN, Aswath. Valuation: Como avaliar empresas e escolher as melhores
+ações. LTC, 2012.
+ITAÚ BBA. Análises Macroeconômicas. 2023. Disponível em:
+< https://www.itau.com.br/itaubba-pt/analises-economicas>. Acesso em 20 nov. 2023.
+BANCO CENTRAL DO BRASIL. Taxa Selic. [S. l.], 20 nov. 2023. Disponível em:
+<https://www.bcb.gov.br/>. Acesso em: 20 nov. 2023.
+IPEA. EMBI+ Risco-Brasil. [S. l.], 20 nov. 2023. Disponível em:
+<http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=40940&module=M>. Acesso em: 20
+nov. 2023.
+PÓVOA, Alexandre. Valuation - Como Precificar Ações. [S. l.: s. n.], 2012
+NETO, Assaf. Valuation - Métricas de Valor e Avaliação de Empresas. [S. l.: s. n.], 2014
+DAMODARAN, Aswath. Narrative and Numbers: The Value of Stories in Business. [S. l.:
+s. n.], 2014
+PALEPU, K. G.; HEALY, P. G.; BERNARD, V. L. Business analysis and valuation: using
+financial statements. 3. ed. Ohio: South-Western College Publishing, 2004.
+47
+ROCHA-LIMA, J. IPO das Empresas Brasileiras de Real Estate: a Questão da Valuation.
+2007
+WERNECK, DAYANNA: Avaliação de Empresas: estudo de caso das Lojas Renner. 2013
+MARTELANC, R. Utilização de Metodologias de Avaliação de empresas:
+Resultados de uma pesquisa no Brasil. 2005.
+GIL, Antônio Carlos. Como Elaborar Projetos de Pesquisa. 4. ed. São Paulo: Atlas, 2006.

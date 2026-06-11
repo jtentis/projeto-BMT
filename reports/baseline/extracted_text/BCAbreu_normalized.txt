@@ -1,0 +1,1528 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+CENTRO DE CIÊNCIAS JURÍDICAS E ECONÔMICAS
+FACULDADE DE DIREITO
+A INTERVENÇÃO FEDERAL E OS DESDOBRAMENTOS DA SUA APLICAÇÃO
+CASO DO RIO DE JANEIRO
+BRUNO CAMPOS DE ABREU
+Rio de Janeiro
+2019.2
+BRUNO CAMPOS DE ABREU
+A INTERVENÇÃO FEDERAL E OS SEUS DESDOBRAMENTOS NO CASO DO RIO
+DE JANEIRO
+Monografia de final de curso, elaborada no âmbito da
+graduação em Direito da Universidade Federal do Rio
+de Janeiro, como pré-requisito para obtenção do grau
+de bacharel em Direito, sob a orientação da Professora
+Ms. Anna Cecília Faro Bonan.
+Rio de Janeiro
+2019.2
+BRUNO CAMPOS DE ABREU
+A INTERVENÇÃO FEDERAL E OS DESDOBRAMENTOS DA SUA APLICAÇÃO NO
+CASO DO RIO DE JANEIRO
+Monografia de final de curso, elaborada no âmbito da
+graduação em Direito da Universidade Federal do Rio
+de Janeiro, como pré-requisito para obtenção do grau
+de bacharel em Direito, sob a orientação da Professora
+Ms. Anna Cecília Faro Bonan.
+Data da Aprovação: __ / __ /2019.
+Banca Examinadora:
+__________________________________
+Orientador
+__________________________________
+Membro da Banca
+_________________________________
+Membro da Banca
+__________________________________
+Rio de Janeiro
+2019.2
+RESUMO
+A intervenção federal insurge no ord enamento jurídico brasileiro como uma medida extrema e,
+portanto, excepcional. E em razão disso, tal obra tem a finalidade de expor as condições, o
+procedimento e os requisitos necessário para aplicação desse instituto. Para esclarecer como se
+sucede um ca so de intervenção federal serão abordadas as condições necessárias inseridas do
+Direito Brasileiro. Acompanhado disso, é necessário abordar, também, a estrutura de Estado e do
+Governo que serve como pilar para a República Federativa do Brasil, o que torna necessário
+explicar, portanto, os atributos e a história do federalismo. Além disso, essa obra visa associar essa
+compreensão teórica, jurídica e histórica com o advento da Intervenção Federal que se sucedeu no
+Estado do Rio de Janeiro em 2018. Nesse aspec to, cabe esclarecer as mazelas sociais e políticas
+ocasionadas pelo desvio de finalidade que foi dado na a plicação deste instituto. Nesse ponto, essa
+pesquisa se estrutura sobre dados e sobre uma visão crítica apurada diante dos efeitos maléficas
+gerados em meio às particularidades encontradas no Estado do Rio de Janeiro.
+Palavras-chave: Intervenção Federal. Federalismo. Autonomia. Pressupostos da intervenção.
+Segregação. Seletividade.
+ABSTRACT
+Federal intervention insurge in the Brazilian legal system as an extreme and therefore exceptional
+measure. And because of that, this work has the purpose of exposing the conditions, the procedure
+and the necessary requirements for the application of this institute. In order to clarify how a federal
+intervention ca se happens, the necessary conditions of Brazilian Law will be addressed.
+Accompanied by this, it is also necessary to address the State and Government structure that serves
+as the pillar for the Federative Republic of Brazil, which makes it necessary to ex plain, therefore,
+the attributes and history of federalism. Moreover, this work aims to associate this theoretical, legal
+and historical understanding with the advent of the Federal Intervention that took place in the State
+of Rio de Janeiro in 2018. In th is respect, it is worth clarifying the social and political problems
+caused by the deviation of purpose that was given. in the application of this institute. At this point,
+this research is structured on data and on a critical view of the harmful effects g enerated in the
+particularities found in the State of Rio de Janeiro.
+Keywords: Fe deral Intervention. Federalism. Autonomy. Assumptions of intervention.
+Segregation. Selectivity.
+SUMÁRIO
+1. INTRODUÇÃO................................................................................................................7
+2. O ESTADO E O FEDERALISMO BRASILEIRO......................................................8
+2.1. O Estado e as formas de Estado....................................................................................8
+2.2. Os aspectos do federalismo e o Estado Federal............................................................10
+2.3. A evolução do Estado Federal brasileiro......................................................................13
+3. A INTERVENÇÃO FEDERAL NO DIREITO BRASILEIRO...................................23
+3.1. A autonomia e o conceito de intervenção......................................................................23
+3.2. Competência, procedimento e espécies de intervenção.................................................24
+3.3. Hipóteses de intervenção federal na Constituição Federal de 1988...............................25
+3.4. A intervenção nos municípios e suas hipóteses.............................................................39
+3.5. Pressupostos formais da intervenção na Constituição Federal de 1988.........................42
+3.5.1. A iniciativa e execução da intervenção..................................................................42
+3.6. Forma, limites e prazo da intervenção federal...............................................................44
+3.7. Controle político e jurisdicional.....................................................................................46
+3.8. A figura do interventor...................................................................................................47
+4. OS DESDOBRAMENTOS DA INTERVENÇÃO FEDERAL NO ESTADO DO RIO DE
+JANEIRO...............................................................................................................................48
+4.1. A crise no estado do Rio de Janeiro...............................................................................48
+4.2. A decretação da intervenção federal no Rio de Janeiro.................................................49
+4.3. A intervenção federal como mecanismo de controle social..........................................50
+5. CONCLUSÃO...................................................................................................................56
+REFERÊNCIAS....................................................................................................................59
+7
+1. INTRODUÇÃO
+O objeto de pesquisa da presente monografia se debruça sobre a análise jurídica do instituto
+da intervenção federal no ordenamento jurídico Brasil e quais os impactos institucionais, sociais,
+políticos e jurídicos decorrentes da sua decretação no Estado do Rio de Janeiro no ano de 2018.
+Lembrando que, desde a promulga ção da Constituição da Repúb lica Federativa do Brasil de
+1988, foi a primeira situação em que o referido instituto foi implementado.
+Sob tal perspectiva, serão examinadas, conjuntamente, as transformações e aspectos do
+federalismo; o tratamento dado à intervenção federal no contexto das demais constituições
+republicanas contidas ao longo da história no Brasil; a Intervenção Federal no campo do Direito
+Comparado; os efeitos e impactos da Intervenção Federal no município Rio de Janeiro; a
+diferenciação entre a Intervenção Federal e out ras formas de Intervenção da União e do Estado
+(Estado de sítio, por exemplo) e estado de exceção (intervenção militar, por exemplo); as
+abordagens sobre os pressupostos materiais e formais da intervenção na constituição de 1988.
+É possível identificar, nesse contexto, que o tema da intervenção federal passou a ganhar
+maior repercussão e abordagem recentemente, principalmente com o advento da atual intervenção
+da União sobre o estado do Rio de Janeiro em 2018.
+Assim, procurar-se-á fomentar as discussões que cerceiam o instituto, procurando esclarecer
+se existe algum vínculo entre os institutos supracitados, quais as finalidades de cada um, as
+razões pelas quais a intervenção deve ser decretada, os desdobramentos que tomou tal instituto de
+acordo com a ev olução do federalismo até a sua aplicação no Rio de Janeiro. Tudo isso será
+abordado, inicialmente, sobre um viés cronológico e histórico, seguindo a explicação jurídica dos
+pressupostos desse instituto e as suas consequências quanto ao caso específico de implementação
+no caso do Rio de Janeiro.
+8
+2. O ESTADO E O FEDERALISMO BRASILEIRO
+2.1. O Estado e as formas de Estado
+Torna-se fundamental considerar preliminarmente o fato de que o poder constituinte
+originário à época, convocado por meio de assembleia constituinte, para elaborar a constituição da
+república federativa de 1988, adotou o modelo federativo de Estado, ou seja, o Brasil é um Estado
+federal por ter adotado a federação como forma de Estado.
+A forma de estado delimita a forma pela qual o poder e stará territorialmente repartido. Na
+federação há diversos entes federativos (União, Estados, Distrito Federal e Municípios), todos eles
+autônomos, dotados de governo próprio e de capacidade política. São pessoas jurídicas de direito
+público que mantêm entre si um vínculo indissolúvel.
+Em razão dessa indissolubilidade, um estado ou município brasileiro não pode se separar do
+Brasil; diz -se que, em uma federação, não há o direito de secessão. É esse o princípio da
+indissolubilidade do vínculo federativo, o qual é reforçado pelo fato de que a federação é cláusula
+pétrea da CF/88 (artigo 60§ 4º, I, CF), não podendo, portanto, ser objeto de emenda constitucional
+tendente à sua abolição.
+Há entre esses entes políticos a vigência do pacto federativo, o qual asse gura a inexistência
+de hierarquia entre eles e garante o respeito mútuo a a utonomia, conferida pela Constituição da
+República Federativa do Brasil. Uma vez em que há uma ruptura desse pacto e que se fere tal
+autonomia, o Estado tende a sua desestabilização e desordem e, consequentemente, a sua
+decadência.
+Tomando por pressuposto tal noção, há mais transparência para que se possa visualizar como
+insurgirá a figura da intervenção federal, instituto esse criado com um viés de excepcionalidade no
+qual a União poderá intervir na autonomia dos Estados e do Distrito Federal para reestabelecer uma
+determinada ordem e status quo.
+9
+Apesar da divergência doutrinária para tentar conceituar o que é e em qual contexto surgiu o
+Estado, podemos compreendê-lo, de forma genérica, como uma instituição que organiza e governa
+um povo de forma soberana, a partir de um determinado território. Entretanto, o Estado provém de
+uma construção política e lógica, baseado na noção clássica do contrato social . A partir dessas
+ideias, Silva classifica o Estado da seguinte forma:
+Estado é, na justa definição de Balladore Pallieri, uma ordenação que tem por fim
+específico e essencial à regulamentação global das relações sociais entre os membros de
+uma dada população sobre um dado território, na qual a palavra ordenação expressa à ideia
+de poder soberano, institucionalizado. 1
+Além disso, é pacificado o entendimento de que o Estado é composto por, pelo menos, três
+elementos basilares: o território, o povo e o poder soberano. Entende-se este primeiro como sendo
+uma união social, cultural, ideológica e política, configurando o sentido que se dá a uma unidade
+política, e não meramente a uma representação política. O território deve ser compreendido além
+da dimensão geog ráfica representada atrav és dos limites das terras, pois o mesmo compreende
+também a plataforma continental; prédios e embaixadas construídos por outros países; além de
+embarcações e aeronaves com a bandeira brasileira, além de outros casos específicos.
+Quanto à forma de Estado, a doutrina clássica é uniforme ao definir que o mesmo diz respeito
+à maneira pela qual o poder está territorialmente repartido. Isto é, a repartição territorial do Poder
+que irá definir a forma de Estado. Dessa maneira, um Estado poderá ser classificado como unitário
+ou federal.
+Um Estado Unitário é aquele no qual o poder está territorialmente centralizado, ou seja, os
+órgãos nele inserido exercem a soberania nacional para todo território2. Além disso, cabe dizer que
+nesta forma de estado inexiste a auto nomia política repartida entre o seu território. Lewandowski
+classifica o estado unitário da seguinte forma:
+O Estado Unitário ‘é aquele que não possui senão um único elemento de impulsão política
+governamental’ Tal tipo de estruturação estatal não compor ta, pois, divisões internas. As
+circunscrições territoriais em que este eventualmente se subdivide não são dotadas de
+autonomia política. No máximo outorga-se às diferentes regiões que o integram certo grau
+1 SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 25. ed São Paulo: Malheiros, 2005. p. 99.
+2 BASTOS, Celso Ribeiro. Curso de Direito Constitucional. 21. ed. São Paulo: Saraiva, 1999, p. 43.
+10
+de autonomia administrativa, de modo a emprestar eficácia à ação governamental. Nessa
+forma de Estado, portanto, todos os cidadãos submetem -se a um único governo e a uma
+mesma lei.3
+Essa forma de estado se remonta, tradicionalmente, em Estados com dimensões territoriais
+menores, em populações homogêneas . Como exemplos dos Estados em que vigora tal Forma de
+Estado, pode-se citar a França, Itália, Espanha, Portugal, Bélgica, Holanda, Su écia, Dinamarca e
+Noruega. Por outro lado, o Brasil adotou a federação como forma de Estado, onde o poder é
+territorialmente descentralizado, sendo, portanto, um Estado Federal.
+2.2. Os aspectos do federalismo e o Estado Federal
+A palavra federalismo derivada do latim foedus, foederis, significa aliança, pacto, união. Pois
+é da União, da aliança, do pa cto entre Estados que ela nasce4. O federalismo teve como fonte de
+origem a Constituição norte-americana de 1787.
+De forma simplificada, pode-se dizer que a federação constitui a união entre os estados ou
+grupos sociais organizados que, tendo por fundamento um acordo de vonta des, visa à consecução
+de objetivos comuns5. É necessário lembrar, portanto, que tais coletividades públicas precisam ser
+dotadas de autonomia política-constitucional, autonomia federativa.
+Logo, um Estado Federal, apresenta duas características principa is, segundo a doutrina,
+sendo elas: a autonomia e a participação. A autonomia representa a capacidade dos Estados e
+Municípios de terem a sua própria estrutura governamental e competências, di stintas daquelas da
+União. Já a participação, por sua vez, confere aos Estados a possibilidade de interferir no formato
+das leis. O ordenamento jurídico brasileiro estabelece que cabe ao Senado Federal garantir a
+participação, uma vez que é este o órgão que representa os Estados no Congresso Nacional.
+Ainda sobre o assunto, cabe uma distinção fundamental: a autonomia difere da soberania. No
+3 LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no Brasil. 2. ed. Belo
+Horizonte: Fórum, 2018, p.14.
+4 TEMER, Michel. Elementos de Direito Constitucional. 22. ed. São Paulo: Malheiros Editores. P. 59.
+5 LEWANDOWSKI, op. cit., p.15
+11
+Brasil, por exemplo, apenas a República Federativa do Brasil é considerada soberana, inclusive
+para fins de direito internacional. ; só ela possui personalidade internacional. Isso se deve ao fato
+de que na federação, os entes reunidos, apesar de n ão perderem as suas personalidades jurídicas,
+abrem mão de algumas prerrogativas, em benefício do todo (o Estado Federal). Dessas, a principal
+é a soberania. Silva conceitua o Estado Federal da seguinte forma:
+Estado federal é o todo, dotado de personalidade jurídica de Direito Público Internacional.
+A União é a entidade federal formada pela reunião das partes componentes, constituindo
+pessoa jurídica de Direito Público interno, autônoma em relação aos Estados e a que cabe
+exercer as prerrogativas da soberania do Estado brasileiro. Os Estados-membros são
+entidades federativas componentes, dotadas de autonomia e também de personalidade
+jurídica de Direito Público interno.
+A posição dos Munic ípios, do Distrito Federal e dos Territórios será examinada depois.
+'No Estado federal há que distinguir soberania e autonomia e seus respectivos titulares.
+Houve muita discussão sobre a natureza jurídica do Estado federal, mas, hoje, já está
+definido que o Estado federal, o todo, como pessoa reconhecida pelo Direito internacional,
+é o único titular da soberania, cons iderada poder consistente na capacidade de
+autodeterminação. Os Estados federados são titulares tão só de autonomia, compreendida
+como governo próprio dentro do círculo de competências tra çadas pela Constituição
+Federal.6
+Apesar da existência de diferentes formas de federações existentes atualmente e das inúmeras
+abordagens teóricas acerca do assunto, é possível identificar, no mínimo, quatro c aracterísticas
+básicas do Estado Federal : (i) repartição de competências; (ii) au tonomia política das unidades
+federadas; (iii) participação dos membros nas decisões da União; e (iv) atribuição de renda própria
+às esferas de competência. 7
+Diante destes atributos, verifica-se que a autonomia política é corolário da descentralização
+político-administrativa. Essa característica confere as unidades federadas o poder de autogoverno
+e auto-organização, que são garantidas através das suas próprias constituições estaduais.
+Em relação à participação dos entes nas decisões da União, nota-se que o pacto ou equilíbrio
+federativo é mantido pelo Senado Federal e este manifesta a vontade nacional da participação dos
+Estados-membros, como dito anteriormente.8
+6 SILVA, op. cit., p. 102
+7 Para um estudo comparativo das diferentes formas de asso ciação federativa, v. DUCHACEK, Ivo D. Comparative
+federalismo: the territorial dimensiono of politics. New York: Halt, Rinehart & Winston, 1970, p.188-275.
+8 NOVELINO, Marcelo. Direito Constitucional. 3. ed. São Paulo: Método, 2009, p. 530/531.
+12
+Nesse sentido, compreende-se que as constituições dos Estados Federais têm competência
+para tratar de tudo àquilo que não pertence à União. Já está, terá a sua competência restrita para
+tratar somente sobre aquilo que está previsto expressamente pela constituição federal. Restando,
+portanto, aos estados-membros, o poder residual.9
+A atribuição de rendas próprias às carrega consigo o condão de ser indispensável aos entes
+da federação, que exercem a sua auto nomia dentro de uma esfera de competência própria, serem
+contemplados com a necessária contrapartida financeira para fazer face às obrigações decorrentes
+do exercício pleno de suas atribuições. E, modernamente, fala -se, inclusive, em autonomia
+financeira.10
+Para classificar os diferentes tipos de federalismo de f orma didática estarão expostas nessa
+obra algumas das suas atribuições mais populares, apesar da vasta delimitação teórica sobre o
+assunto.
+Dessa forma, podem-se dividir os tipos de federalismo da seguinte forma:
+Quanto a Formação história ou Surgimento:
+Agregação: Estados independentes deixam de lado sua soberania, agregam-se formando um
+novo Estado Federado. É o caso dos Estados Unidos.
+Desagregação: Ocorre quando determinado Estado unitário decide se descentralizar. É o caso
+do Brasil.
+Quanto ao modo de separação de atribuições ou repartição de competências:
+Dual: A separação de competências entre os entes federados é rígida e não existe cooperação
+entre ambos. Os Estados Unidos em seu estágio inicial.
+Cooperativo: Existe uma aproximação entre os entes federados que atuam em conjunto.
+Como acontece no Brasil
+9 V. sobre o conceito WILLIAMS, Jerre S. Constitutional analysis. Saint Paul: West, 1979. p. 146
+10 LEWANDOWSKI, op. cit., p.20
+13
+Quanto à concentração do poder:
+Centrípeto: Observa-se o fortalecimento do poder central do Estado em relação aos Estados
+Membros.
+Centrífugo: Observa -se a preservação dos poderes dos Estados Membro s e aquisição de
+maior autonomia em relação ao Estado.
+Quanto à decorrência de vários fatores ou sistematização da repartição de competências:
+Simétrico: Homogeneidade de fatores culturais e linguísticos dentre outros. Ex. No Brasil o
+MPF é espelho para o MPE.
+Assimétrico: Heterogeneidade ou diversidade de fatores culturais e linguísticos dentre outros.
+Quanto ao federalismo orgânico : O Estado é visto como organismo onde se busca a
+manutenção do todo em detrimento da parte. Os estados membros só têm a per der nessa relação
+em que são apenas reflexos do poder central.
+Quanto ao Federalismo de integração : Observa-se a supremacia do Gove rno central sobre
+os entes federativos (quebrando a autonomia entre si). Aqui o modelo federativo é atenuado.
+Quanto ao federalismo de equilíbrio: A ideia que se tem é a de entes federativos mantendose em harmonia, fortalecendo as instituições.
+Quanto ao federalismo de segundo grau : No Estado brasileiro temos uma ordem central,
+ordem regional e ordem local, representadas res pectivamente por União, Estados e Municípios
+(Tríplice Estrutura do Estado - contrário do modelo norte americano que reconhece somente a união
+e os estados membros). O Município, ao se organizar, deve ob servar a Constituição Federal e a
+Constituição do seu respectivo Estado.
+2.3. A evolução do Estado Federal brasileiro
+O Brasil adotou a federação como forma de Estado, sendo, portanto, um Estado Federal ,
+14
+assim como adotou a República como sua forma de governo .11 Logo, a sua organização política e
+administrativa é organizada como uma República Federativa.
+Essa estrutura passou a existir após o advento da proclamação da República, em 1889, com
+a consolidação da primeira Constituição Republicana, que entrou em vigor em 1891. Ressalta-se
+que a Federação foi imp lantada provisoriamente ( veio a se consolidar , de fato e de direito , na
+promulgação da constituição de 1891) no paí s por meio do Decreto nº 1, de 15 de novembro de
+1889, que adotou, também, a república como forma de governo.
+O ministro Lewandoski elucida um recorte do momento compreendido entre a primeira
+constituição (na época do império), de 1824, até a proclamação da república, da seguinte forma:
+Antes desse momento, mais precisamente, de 1824, ano da promulgação da primeira
+Constituição, até 1889, data da proclamação da República, o Brasil constituía um Império,
+estruturado como um Estado unitário, que se subdividia em províncias , com autonomia
+muito limitada.12
+Ao final do século XIX a frente opositora à monarquia centralizadora e autocrática ,
+constituída pelos entusiastas e idealistas do federalismo, já dominava as ambições federalistas
+naquele cenário.13 Somado a isso, pesava, também, a questão da heterogeneidade sociocultural da
+população brasileira que se dividia em ao longo de uma extensão geográfica continental14.
+Após o surgimento do pioneiro modelo federativo do Estado norte -americano de 1787 (o
+primeiro a surgir) muitos outros Estados passaram a aderi -lo, e com o Brasil não foi diferente. O
+Brasil adotou os contornos do seu federalismo baseado no modelo norte-americano, em especial a
+coexistência de duas esferas de governo distintas, uma nacional e outra estadual.
+Com a derrocada da monarquia , caracterizada pela divisão territorial em províncias, e a
+11 Além da república, também existem outras duas formas de governo: a monarquia e o anarquismo. A República
+representa o poder exercido por um presidente (no caso do presidencialismo) ou pelo primeiro -ministro (no caso do
+parlamentarismo); que são eleitos por eleições diretas (diretamente pelo voto popular) ou por eleições indiretas (através
+de representantes escolhidos pelo povo).
+12 LEWANDOWSKI, op. cit., p.25
+13 CRUZ COSTA, João. Pequena história da República. 3. ed. Rio de Janeiro: Civilização Brasileira, 1974. p. 28-29.
+14 SODRÉ, Nelson Werneck. Formação histórica do Brasil. São Paulo: Brasiliense, 1968. p. 292-293.
+15
+insurgência da república , os estados -membros passam a preencher o cenário nacional . Estados
+estes, unidos de forma perpétua e indissolúvel, con forme assinalado através do artigo 1º da
+Constituição de 1889, vigente à época, sinalizando a existência dos Estados Unidos do Brasil.
+Um fato que chama a atenção nesse contexto é que a lógica e a necessidade de se criarem
+munícipios coexistindo no mesmo ambiente que a União e os Estados já era uma ideia difundida e
+respaldada desde o início da federação no Brasil, apesar de ter sido impl ementada (de direit o,
+efetivamente) tardiamente, com a constituição da república federativa do Brasil de 1988. Isso se
+devia ao fato dessas localidades concentrarem a sua autonomia em função das grandes distâncias
+entre si e, principalmente, do governo cen tral. Tal situação é uma herança dos tempos colônias, o
+que conferia uma grande responsabilidade nas mãos dos seus governantes locais. Com relação à
+questão da municipalidade, Meirelles elucida o seguinte:
+As municipalidades tiveram inegável influência na organização políti ca que se ensaiava
+no Brasil, arrogando -se, por iniciativa própria, relevantes atribuições de governo, de
+administração e de justiça.15
+Devido a isso, é correto afirmar que o Brasil é detentor de um federalismo híbrido, sui
+generis, em decorrência do fato de ostentar, portanto, três níveis político-administrativos: União,
+estados e municípios. Lembrando que usualmente o modelo mais adotado entre as federações é
+aquele em que coexistem a União e os Estados., além disso, no caso do Brasil, cada ente possui
+suas competências e rendas próprias.
+Entretanto, antes do advento da constituição de 1988 os municípios ainda não integravam
+ainda o pacto federativo, apesar de já gozarem de relevant e autonomia, como foi dito. Por esse
+efeito histórico, na instauração da carta magna de 1988 o poder constituinte originário passou a
+integrar, pela primeira vez, os munícipios, assim como o Distrito Federal, como entidades
+federativas. Com essa previsão c onstitucional, o federalismo passou a ser considerado um
+federalismo de terceiro grau, ou seja, uma federação composta pela União, pelos Estados e pelos
+municípios. Além disso, os territórios foram excluídos desse pacto.
+15 MEIRELLES, Hely Lopes. Direito Municipal Brasileiro. 3. ed. São Paulo: Revista dos Tribunais, 1977. p. 5.
+16
+Além disso, é relevante expor que todos esses entes são igualmente autônomos e possuem o
+mesmo “status hier árquico”, recebendo, portanto, um tratamento jurídico isonômico. Cada um
+exerce as suas competências dentro dos limites reservados pela Constituição Federal.
+Tal estrutura é expressamente prevista através do artigo 1º da constituição federal, o qual
+consubstancia o fato da República Federativa do Brasil ser formada pela união indissolúvel desses
+entes federativos. Nessa conjuntura, também ganha destaque as obse rvações que devem ser feitas
+acerca do Distrito Federal. Eis que é um ente federativo dotado de a utonomia política, financeira,
+administrativa e legislativa, porém, se diferencia na medida em que mescla ademais atributos de
+Estados e Municípios. Isto é, exerce competências normativas e tributárias típica dos Estados e dos
+Municípios e, “cumulativament e, sofre, em muitos aspectos de sua estrutura de poder, a
+interferência da União.”16
+Ao longo da história, a federação brasileira enfrentou um movimento pendular em relação a
+sua centralização e descentralização. Com isso, os entes federados, passaram por períodos
+contrastantes em que o poder se concentrou de maneira mais contundente no seio da União e outros
+em que foram amplamente agraciados ao ter sua autonomia própria posta evidência.
+Destacam-se como grandes exemplos dessas situações, respectivamente, a notoriedade que
+os Estados-membros passaram a exercer logo após a decretação do Brasil enquanto Estado Federal,
+em 1891; e o m ovimento ditatorial militar vivenciado a partir de 1964, expressando uma fase de
+exceção.
+Nessa perspectiva, ao permitir que os entes federados passassem a gozar de uma expressiva
+autonomia após a implementação da federação, uma onda de excessos começou a acontecer. As
+constituições estaduais passaram a extrapolar os limites da sua competência, ferindo, em inúmeras
+ocorrências, o que era assegurado constitucionalmente, na medida em que buscavam uma maior
+independência em relação ao poder central. Alguns estados -membros chegaram a se
+16 Como, por exemplo, no concernente à competência que tem a União para organizar e manter o Poder Judiciário no
+Distrito Federal no Distrito Federal, conforme o artigo 21 XIII, da CF.; v. sobre o assunto Enrique Ricardo Lewandoski,
+Distrito Federal brasileño em el contexto del régimen federal. In: ROCA, Ricardo Pablo [et a]l. Estatutos Jurídicos de
+las Capitalesy Áreas Metropolitanas. Bogotá: Universidad Externado de Colombia, 1991. p. 45-71.
+17
+autoproclamarem “soberanos”.
+Tal período ficou concebido como “República Velha”, e foi interrompido pela revolução de
+1930, caracterizada como um golpe de Estado como intuito destituir o governo vigente à época ,
+colocando fim às oligarquias regionais do Brasil e dando força máxima a centralização do poder
+político-institucional. Essa revolução abriu as portas para a chegada de u m processo de
+industrialização.
+Acompanhado disso, sensíveis acontecimentos políticos também ocorreram, como a
+revolução constitucionalista armada de 1932, em São Paulo, e as severas mudanças
+socioeconômicas na conjuntura do p aís. Dessa forma, não restou outro efeito senão o colapso do
+federalismo que vigorava até então.
+Entre 1930 e 1934, data do advento da nova constituição, os Estados eram governados pela
+figura do interventor do Governo Federal. 17 Porém, a partir da promul gação da constituição de
+1934, marcada pela pressão por parte dos constitucionalistas, sendo consequência direta da
+revolução constitucionalista de 1932, serviu para restabelecer a democracia e o pacto federativo.
+Uma nova Assembleia Constituinte foi conv ocada em 1933 para delimitar essa nova
+constituição que veio para substituir a anterior de 1891. Essa reforma serviu para criar melhorias e
+novas condições de vida e cidadania para a população, inaugurando novas lei s afetas à educação,
+trabalho, saúde e cultura.
+Em 1937 uma nova constituição Republicana foi instaurada, evidenciando o que ficou
+conhecido como “Estado Novo” e a ditadura de Getúlio Vargas. Essa carta magna ficou também
+conhecida como “Polaca”, uma vez que foi inspirada na constituição da Polônia.
+Tal período ficou caracterizado pela centralização de poderes em face do Poder Executivo,
+retomando, portanto, os traços do unitarismo, alterando, inclusive, a própria estrutura estatal. O
+17 BASBAUM, Leôncio. História sincera da República: de 1930 a 1960. 4. ed. São Paulo: Alfa-Ômega, 1976. p. 13-
+35.
+18
+Estado passou a re primir, neste momento, qualquer manifesta ção política que tentasse figurar de
+forma aleatória ou contrária ao atual governo.18
+Esse cenário perdurou até 1945, encontrando um federalismo enfraquecido e desconfigurado
+devido às articulações autoritárias do governo anterior. O Brasil havia participa do da 2º Guerra
+Mundial (entre 1939 -1945), ao lado das forças aliadas (França, Inglaterra, E stados Unidos e
+posteriormente a União Soviética), contra o nazismo e o fascismo.
+Após o retorno das tropas instaurou -se um novo processo de redemocratização, e uma
+Assembleia Nacional Constituinte foi convocada após o afastamento de Getúlio Vargas,
+promulgando a Constituição de 1946, recebendo, inclusive o apoio de todas as correntes políticas
+do país. Após tal feito o princípio federativo retomou o seu fôlego, de forma que se ampliou a
+autonomia dos Estados e municípios, assim como os poderes voltaram a se reequilibrar. Cabe
+registrar que se instaurou , também, o pluripartidarismo deu espaço p ara que novos candidatos
+pudessem concorrer à presidência da República.
+Após quase vinte anos de normalidade institucional houve um golpe militar em 31 de março
+de 1964, destituindo João Goulart da presidência da república. Em 09 de abril, a Junta Militar
+editou o primeiro ato institucional, mantendo a constituição de 1946, ma s com diversas
+modificações, por exemplo: eleição indireta do Presidente da República; suspenção das garantias
+individuais; de estabilidade e vitaliciedade; suspensão de direitos políticos; cassação de mandatos
+legislativos. Em seu Ato Institucional n.º 2 os partidos políticos foram extintos.
+Pelo Ato Institucional n.º 4 o Congresso Nacional foi convocado extraordinariamente para
+discutir, votar e promulgar o projeto de Constituição pelo Presidente da República em um prazo de
+quarenta dias. Dessa forma se promulgou constituição outorgada de 1967, uma vez que o congresso
+nacional já não possuía mais legitimidade para representar os anseios da nação. Essa constituição
+vigorou apenas até 1969.
+O interstício entre a promulgação dessas duas constituições foi marcado por um momento de
+18 LEWANDOWSKI, op. cit., p.30
+19
+desenvolvimento econômico que o país experimentara, em função da reorganização do sistema
+financeiro e produtivo e da entrada maciça de capital estrangeiro. Entretanto, o cenário político era
+outro, a radicalização política era expressiva em todos os aspectos.
+Enquanto o militares cerceavam as liberdades democráticas, praticavam torturas e
+perseguições políticas, com prisões ilegais, mortes e exílios; A frente opositora a esse sistema
+organizara um acirramento político-ideológico, guerrilhas urbanas e rurais aconteciam, assaltos a
+bancos, sequestro de embaixadores etc.
+Em dezembro de 1968 foi editado o famoso Ato Institucional nº 5, que concentrou ainda mais
+poderes nas mãos do Presidente da República. A constituição de 1969 recepcionou tal ato e, além
+disso, passou a admitir a existência de duas ordens, uma constitucional e outra institucional, com
+a subordinação da primeira à segunda.
+Após a extensa prevalência desse regime político (desde 1964) eclodiu novamente um
+momento de des centralização, inclusive, esse processo já era planejado nos tempos finais do
+próprio governo militar, sendo arquitetado na lenta e gradual gestão do Presidente Geisel.19 Ou
+seja, o sistema ditatorial militar chegava ao seu esgotamento e as forças op osicionistas obtiveram
+vitórias nas eleições realizadas, mobilizando a opinião pública para o processo de redemocratização
+do Estado Brasileiro.
+Apesar da eleição para o novo presidente ter sido indireta, a oposição já exercia uma grande
+pressão sobre o Congress o Nacional, fazendo com que fosse convocada uma nova Assembleia
+Constituinte. Com efeito , foram eleitos deputados e senadores incumbidos, principalmen te, de
+elaborar a atual Constituição Brasileira, promulgada em 05 de outubro de 1988.
+Tal constituição foi conhecida como “constituição cidadã” por ser amplamente voltada para
+a defesa dos direitos dos cidadãos. Ela foi fruto de um poder constituinte originário, originado por
+um processo de transição pacífica do regime militar para o regime democrático. Destaca-se que foi
+19 Nessa fase consolidou-se a anistia política, o processo de abertura do governo Figueiredo e a eleição indireta para
+Tancredo Neves e José Sarney pelo Congresso Nacional para os cargos de Presidente e Vice-Presidente da República.
+20
+realizado um plebiscito após a sua promulgação para que o povo pudesse deliberar a respeito da
+escolha sobre a forma de governo a ser adotada (república ou monarquia).
+Deste feito, n ovamente se remontava o movimento pendul ar do federalismo brasileiro.
+Conjuntamente a isso, observou-se que a União veio por concentrar grande parte das competências
+e das rendas. Tal feito é comumente associado ao fato de o Estado federal brasileiro ter se formado
+a partir de um processo de descentralização de um Estado que era unitário.
+Diz-se que o federalismo brasileiro evoluiu de um “federalismo dual para um federalismo
+cooperativo ou de integração , caracterizando -se o primeiro pela existência de uma distribuição
+vertical de competências e uma previsão de tr ibutos exclusivos para cada um dos níveis político -
+administrativos, e o segundo pelo entrelaçamento das esferas de poder central e local, pela
+distribuição mais equitativa da renda nacional, através da técnica das receitas compartilhadas e,
+ainda, pelo exp ediente da outorga de competências concorrentes ou comuns em determinados
+assuntos, sempre, porém, sob a supremacia da União”.20
+Da mesma forma também ocorreu na história do federalismo norte americano, entretanto, no
+caso brasileiro houveram algumas nuanc es que merecem destaque: Houve uma concentração
+exacerbada de poder na figura do governo central desde a década de 30; houve a necessidade de
+combater o processo inflacionário que se agravou a partir dos anos 50; a União contraiu uma dívida
+externa e inter na alarmante . Tais elementos dificultaram , por exemplo, a possibilidade mais
+agressiva de descentralização do sistema federativo, apesar de ser esse o maior anseio dos
+constitucionalistas de 1988.
+O que se observa, portanto, é a manutenção de excessivos poderes conferidos à União desde
+1969, com tal quadro permanecendo praticamente inalterado com a constituição vigente, cabendo
+a tal ente o poder decisório sobre os planos para o Brasil como um todo. Tais planos englobam,
+inclusive, competências que deveria m ser residuais dos Estados e municípios, o que restou
+consubstanciado taxativamente nos artigos da constituição federal (a exemplo do inciso XX).
+20 LEWANDOWSKI, op. cit., p.33
+21
+Em relação às competências legislativas, a situação se repete, mantendo-se o papel privativo
+da União de legislar sobre matérias que também eram previstas em constituições anteriores - direito
+civil, comercial, penal, processual, eleitoral, agrário, marítimo, espacial e do trabalho, o que
+representa todo rol de direito substantivo e adjetivo. Por outro lado, a carta magna de 1988 trouxe
+consigo algumas novidades. Dentre elas, em relação a divisão de competências, em seu artigo 23
+foi consubstanciada a competência comum aos três níveis político -administrativos da Federação,
+exigindo a cooperação entre a União, Estados e municípios.
+Destacam-se entre as áreas delimitadas nesse dispositivo cita -se: a saúde, a assistência
+pública, a proteção ao meio ambiente, a defesa dos bens de valor histórico, cultural e paisagístico,
+produção agropecuária, abastecimento alimentar , construção de moradias e implantação de
+saneamento básico.21
+Outra inovação nesse sentido foi à edição do artigo 24 que determina a competência
+concorrente entre a União e os Estados para legislar sobre determinados assuntos, ficando excluídos
+os Municípios. Nessa esteira, aos estados restou resguardada a matéria residual, sendo conferido a
+eles o poder de se organizarem pelas leis e constituições que estes adotarem, respectivamente,
+garantindo a sua capacidade de auto-organização e de autogoverno.
+Os municípios merecem destaque porque passaram a ser institucionalizados pela primeira
+vez na história como um ente federativo, apesar de já ter exercido ao longo da história uma gama
+de poderes . Agora estes passam a ter autonomia e tem a capacidade de elabora r as suas leis
+orgânicas.
+Em relação a distribuição de renda em âmbito nacional, algumas modificações essenciais
+foram trazidas. Uma delas reside no fato dos Estados e municípios terem sid o “agraciados” com
+receitas adicionais e com uma maior participação nos fundos fiscais previstos na constituição.
+No tocante a esse assunto, permaneceu inalterada a posição da União, no sentido de ser
+21 ALMEIDA, Fernanda Dias Menezes de. Competências na Constituição de 1988 . São Paulo: Atlas, 1991, p. 142 -
+147.
+22
+privilegiada desde a época da federação e no sentido de ser a responsável por instituir os impostos
+sobre a exportação, importação, produtos industrializados, renda e proventos de qualquer natureza
+etc. (assim como se configurava no texto constitucional anterior).
+Em relação à perda de arrecadação de determinados tributos, é certo observar que a União
+não mais receberá a arrecadação proveniente da prestação de serviços de transportes e
+comunicações, uma vez que está foi transferida para os Estados. Porém, a União caberá o imposto
+sobre as grandes fortunas, definido por lei complementar.
+Em suma, destacam -se como algumas d as características principais da Constituição da
+república federativa do Brasil de 1988 as seguintes:
+A Federação, a república e o presidencialismo foram mantidos com forma de estado, forma
+de governo e sistema de governo; Reestabelecimento do regime democrático ao país; Valorização
+dos direitos fundamentais da pessoa humana; Surgimento de alguns novos “remédios
+constitucionais”: habeas data; mandado de injunção; mandado de segurança coletivo; Valorização
+de direitos sociais; Municípios elevados ao status de entidade federativa (com autonomia própria);
+Ampliação do controle abstrato de constitucionalidade; Extensão da legitimidade ativa para
+proposição da ação direta de constituc ionalidade; Instituída a tutela do controle da
+constitucionalidade por omissão; Realização de uma revisão constitucional de cinco anos depois
+de promulgada a constituição; Possibilidade de reeleição (apenas mais um mandato) para os cargos
+de Presidente da República; governadores dos estados e do Distrito Federal e de prefeitos
+municipais; Reforma do judiciário.
+23
+3. A INTERVENÇÃO FEDERAL NO DIREITO BRASILEIRO
+3.1. A autonomia e o conceito de intervenção
+No Estado Federal o federalismo é estruturado a partir da autonomia das entidades que o
+compõe. A autonomia pode ser entendida, portanto, como um princípio básico dentro dessa forma
+de estado, ela representa a capacidade d os entes federativos de agirem dentro de limites
+previamente estabelecidos.
+A Constituição Federal do Estado deverá conter os dispositivos adequados para delimitar a
+autonomia de cada entidade federativa. Contrariamente a essa ideologia, insurge o instituto da
+intervenção, mecanismo este responsável por se “contrapor” ao que assegura a noção de autonomia.
+Genericamente, diz-se que a intervenção é a interferência de u ma entidade federativa em outra, a
+invasão da esfera de competências constitucionais atribuídas aos Estados -Membros ou ao s
+Municípios.22
+Nesse contexto, Silva elucida o seguinte entendimento sobre a autonomia entre os entes
+federados:
+Autonomia é a capaci dade de agir dentro de círculo preestabelecido, como se nota pelos
+artigos 25, 29 e 32 que a reconhecem aos Estados, Municípios e Distrito Federal,
+respeitados os princípios estabelecidos na Constituição. É, pois, poder limitado e
+circunscrito e é nisso que se verifica o equilíbrio da federação, que rege as relações entre
+União, Estados, Distrito Federal e Municípios, todos autônomos nos termos da
+Constituição (artigo 18). Esse equilíbrio federativo realiza-se por mecanismos instituídos
+na constituição rígi da, entre os quais sobreleva o da intervenção federal nos Estados e
+agora também no Distrito Federal e dos Estados nos Municípios, que está prevista nos
+artigos. 34 a 36.23
+Estamos diante, portanto, de uma medida extrema, de natureza política, que carrega como
+prerrogativa, através do que é exposto no Artigo 34 da Constituição Federal, o objetivo de garantir,
+individualmente ou conjuntamente, a ordem constitucional; a defesa do Estado; a defesa das
+22 PINHO, Rodrigo César Rabello. Da organização do Estado, d os Poderes, e histórico das Constituições . Coleção
+sinopses jurídicas v. 18. 11. ed. São Paulo: Saraiva, 2011, p. 29.
+23 SILVA, op. cit., p. 488
+24
+finanças estaduais; a defesa do princípio federativo (pacto federativo).
+A intervenção possui o seu caráter de excepcionalidade por representar uma antítese à
+autonomia, pois afasta momentaneamente a atuação autônoma entre estes en tes, e por isso a
+hipótese de ocorrência dessa medida deve ser prevista taxativamen te dentro do ordenamento
+jurídico. Feitos estes apontamentos, cabe esclarecer que a nossa Carta Magna de 1988 veio por
+elencar, através de seu artigo 34, os sete casos taxativos em que a intervenção federal está
+autorizada, sendo estes “os pressupostos materiais” para sua implementação
+Ademais, não há que se falar ou associar a intervenção federal a uma violação ao Estado
+Democrático Direito, uma vez que o nosso ordenam ento jurídico assegura a sua decretação como
+um meio, de caráter extraordinário, para alcançar a preservação da indissolubilidade e a viabilidade
+da federação. Além disso, esse instituto não se configura como uma medida de exceção da União,
+pois não representa uma supremacia da mesma em relação aos Estados. A união não estará atuando
+para ate nder interesses particulares, mas sim para que os entes políticos voltem a cumprir os
+preceitos constitucionais e legais.
+3.2. Competência, procedimento e espécies de intervenção
+De forma simplificada, A Constituição Federal e 1988 prevê duas espécies de intervenção: a
+intervenção federal nos Estados e a intervenção estadual nos municípios. Por intervenção estadual,
+concebe-se, genericamente, que a União não possui competência para intervir nos municípios
+situados nos Estados-membros, uma vez que isto não é assegurado no texto constitucional, cabendo
+apenas aos Estados-Membros esse direito.
+Já sobre a intervenção federal, também denominada de execução federal ou coação federal,
+corresponde a intervenção da União nos Estados, no Distrito Federal e nos Municípios localizados
+em Territórios Federais.24
+24 Apesar dos “Territórios Federais” integrarem a União, eles não foram recepcionados na Constituição de 1988 como
+entes federados. Portanto, são considerados meras descentralizações administrativas.
+25
+A competência para decretar e executar uma intervenção federal caberá, privativamente, ao
+chefe do Poder Executivo, o que no caso do Brasil, corresponde ao Presidente da República. Pelo
+princípio da simetria entre os entes federativos, o governador do Esta do terá de competência
+privativa para decretar a intervenção estadual.
+Tais medidas podem acontecer de duas formas: de forma espontânea ou provocada. Quando
+a intervenção se dá de maneira espontânea (também chamada de discricionária), ela estará sujeita
+a critérios de conveniência e oportunidade para ser executada, cabendo ao Presidente da República
+agir de ofício, apesar dessa liberdade como meio para atuar nesse caso.
+No caso da intervenção por provocação, há um aten dimento a solicitação do Poder
+Legislativo ou Executivo local ou a requisição do Poder Judiciário. No caso da “solicitação” tratase de mero pedido, o que não corresponde, portanto, a vinculação ao Presidente da República. Por
+outro lado, a “requisição” descrita acima, indica uma ordem, isto é, indica uma decisão judicial que
+vincula o Presidente da República , o que faz com que o decreto de intervenção expedido pela
+Presidência da República seja formalmente simbólico.
+3.3. Hipóteses de intervenção federal na Constituição Federal de 1988
+No artigo 34 da constituição federal estão enumeradas as sete as hipóteses que autorizam a
+incidência da intervenção federal, sendo consideradas, portanto, como os pressupostos materiais.
+As mesmas também são denominadas de “pressupostos de fundo de intervenção”, segundo Silva.
+Lembrando que a intervenção federal é um instituto típico da estrutura do Estado , o autor elucida
+o seguinte entendimento:
+Os pressupostos de fundo da intervenção federal nos Estados constituem situações críticas
+que põem em risco a segurança do Estado, o equilíbrio federativo, as finanças estaduais e
+a estabilidade da ordem constitucional.25
+A seguir estarão expostas as hipóteses de intervenção federal sobre os Estados e sobre o
+Distrito Federal, de acordo com a classificação de José Afonso da Silva e com o que está
+25 SILVA, op. cit., p. 489.
+26
+consubstanciado na constituição pátria, ao longo do artigo 34, começando pelas hipóteses expostas
+no inciso I do referido artigo.
+De acordo com tal hipótese, a Federação não permite que os seus entes federados tenham o
+direito de secessão, ou seja, estes não podem se declarar independentes e separar-se da unidade
+política, pois tal dispositivo tem por objetivo a manutenção da integridade nacional, sob o risco de
+recaimento da intervenção.
+Tal entendimento é também garantido no texto das Constituições Estaduais, de forma
+explícita e implícita. Consoante a tal circunstância, também estará proibido a qualquer unidade da
+federação a autorização de permanência ou entrada de força estrangeira em seu território, caso não
+haja o consenso e autorização do Congresso Nacional.
+Nesta hipótese, o Presidente da República estará autorizado a agir de maneira discricionária,
+restando como efeito o crime de responsabilidade no caso de omissão pelo mesmo, de acordo com
+o artigo 85, I da Constituição. Essa hipótese nunca ocorreu até o momento ao longo da história.
+No caso do inciso II, do artigo 34, t rata-se de hipótese que visa repelir a invasão de uma
+entidade da Federação em outra, o que faz com que se assemelhe com a hipótese anterior quanto à
+iniciativa exclusiva do Presidente da República, pois esse agirá de forma independente de
+provocação, na condição de comandante supremo das Forças Armadas.
+Uma vez constatada a invasão, caberá ao Presidente decretar a intervenção, mesmo que não
+seja declarada formalmente uma guerra, uma vez que se trata de uma situação de extrema urgência.
+Observa-se que a intervenção, nesse caso, não representa um viés punitivo, isto é, não é necessário
+que se prove a conivência do Estado (ou do Distrito Federal) supostamente invadido, pois o que
+interessa é o critério objetivo que reside da usurpação do território invadido. 26
+É necessário traçar uma distinção de extrema rel evância sobre este assunto: o instituto da
+26 FERREIRA FILHO, Manoel Gonçalves. Comentários à Constituição brasileira de 1988. São Paulo: Saraiva, 1990.
+v. 1, p. 231.
+27
+intervenção não se confunde com o estado de sítio. O artigo 137, II, CF assegura que o Estado de
+Sítio pode ser solicitado pelo chefe do executivo no caso de “declaração do estado de guerra ou
+resposta a agressão armada estrangeira”, após ser ouvidos o Cons elho da República e o Conselho
+de Defesa nacional e após a autorização do Congresso Nacional.
+A medida é extremamente gravosa e tem um caráter excepcionalíssimo , pois é capaz de
+suspender as garantias fundamenta is em quase toda sua integralidade, apesar d e ser transitória.
+Entretanto, a sua ocorrência pode ocorrer simultaneamente com a incidência da intervenção, o que
+dificilmente ocorreria, pois, a intervenção é uma alternativa mais branda e mais rápida, apesar de
+interferir na autonomia dos entes federativos.
+O artigo 137 da carta magna de 1988 também estabelece a hipótese de incidência do Estado
+de Sítio no caso de haver “grande comoção de repercussão nacional ou a ocorrência de fatos que
+comprovem a ineficácia do estado de defesa”. Para tal caso o prazo de duração é de, no máximo,
+30 dias, cabendo prorrogação quando houver extrema necessidade fundamentada. Já no segundo
+plano não há previsão de prazo estabelecida, conforme o artigo 37, da Constituição.
+Já houve um precedente histórico de intervenção nesse sentido, representado pelo “conflito
+territorial que eclodiu em 1912, entre o Estado do Paraná e o de Santa Catarina, na chamada
+Campanha do Contestado , o qual somente foi debelado em 1915, quando as forças federais,
+comandadas pelo General Setembrino de Carvalho, lograram colocar um fim no movimento.27
+O inciso III do artigo 34 traz a intervenção como forma de pôr termo a grave
+comprometimento da ordem pública e assim como se verificou no inciso II, a perturbação da ordem
+pública deverá ser excepcionalmente grave para que a intervenção federal p ossa ser licitamente
+implementada.
+Isto é, a intromissão do governo central nos negócios internos dos estados só poderá ocorrer
+em casos e specíficos, uma vez que não é qualquer perturbação à ordem pública que ensejará tal
+forma de intervenção. Tal situação ocorrerá nos casos de desordem em q ue as autoridades locais
+27 LEWANDOWSKI, op. cit., p.105
+28
+não consigam conter e debelar a situação (de desordem). Apesar de existirem diferentes espécies e
+níveis de desestabilidade da ordem, a ordem sempre deve ser vista como a antítese do caos,
+entretanto, esse deve representar uma condição grave para abonar a ação federal.28
+Nesse contexto, compreende -se por ordem pública “a situação e o estado de legalidade,
+normal em que as autoridades exercem suas atribuições precípuas e os cidadãos as respeitam e
+acatam, sem constrangimento ou protesto”, conforme o entendimento de Plácido e Silva.29
+Com efeito, diante do caso grave perturbação da o rdem, o Presidente da República estará
+autorizado a decidir sobre a intervenção sem que haja anuência prévia do Congresso Nacional ou
+do Poder Judiciário, a posteriori. Caso o chefe do Executivo federal haja de maneira exorbitante
+estará incorrendo em crime de responsabilidade.
+O artigo 2º da Constituição de 1988 assegura a tripartição de Poderes, isto é, os Poderes
+Legislativo, Executivo e Judiciário são poderes da União, independentes e harmônicos entre si.
+Tamanha é a importância da separação dos poder es que tal estrutura foi concebida como uma
+cláusula pétrea pelo constituinte originário, de acordo com o artigo 60, § 4º, III, da Constituição,
+sendo, portanto, um pilar estruturante da República Federativa do Brasil. Ou seja, representa um
+dispositivo constitucional que não pode ser alterado por Proposta de Emenda Constitucional (PEC)
+e a hipótese do inciso IV visa garantir o livre exercício de tais poderes.
+A intervenção se materializa nessa hipótese quando há uma interferência significativa na
+atuação destes Poderes, de maneira que fiquem impedidos ou coagidos para exercerem as sua s
+atribuições.
+Isso se verifica, por exemplo, quando o Legislativo se encontrar impedido de reunir -se
+livremente, quando seu poder de deliberativo (com previsão constitucion al) for ameaçado ou
+restringido e/ou quando for impedido de dar exequibilidade aos seus atos; no caso do executivo, a
+28 LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no Brasil. 2. ed. Belo
+Horizonte: Fórum, 2018, p.106 apud CRETELLA JÚNIOR, José. Comentários à Constituição de 1988. Rio de Janeiro:
+Forense Universitária, 1991. V. 4, p. 20171.
+29 SILVA, De Plácido e. Vocabulário jurídico. 3. Ed. Rio de Janeiro: Forense, 1967. V. 3., p. 1502.
+29
+intervenção se dará mediante o constrangimento à sua atuação, seja pela recusa à sua posse do
+eleito, seja pela não transferência de poder ao substituto, nos casos de renúncia ou impeachment; e
+no caso do Judiciário, ocorrerá intervenção no caso de seus órgãos estarem materialmente
+cerceados para o desempenho da sua judicatura, por ação ou omissão das autoridades estaduais.
+A hipótese tra zida no inciso V trata-se de re organização das finanças da unidade da
+federação que: a) “suspender o pagamento da dívida fundada por mais de dois anos consecutivos,
+salvo motivo de força maior;” b) deixar de entregar aos Municípios receitas tributárias fixadas nesta
+Constituição, dentro dos prazos estabelecidos em lei”. Por dívida pública ou fundada, a lei de
+responsabilidade fiscal esclarece que são aquelas que correspondem ao montante total, apurado
+sem duplicidade, das obrigações financeiras do ente da F ederação, assumidas em virtude de lei,
+contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo
+superior a doze anos meses.
+Sobre a conceituação da dívida fundada, há muito se diverge doutrinariamente sobre o
+assunto, desde o momento que passou a ser inserida como um pressuposto para a intervenção, com
+a Reforma de 1962 que alterou a Constituição de 1861. Entretanto, Pontes de Miranda esclarece a
+seguinte conceituação sobre o assunto:
+É a resultante da vinculaçã o da entidade estatal, regularmente inscrita nos livros da
+Fazenda, tal como se dá com os títulos, os empréstimos e adicionais restituíveis.30
+Pensando na lógica da interdependência econômica entre as unidades da federaçã o, a
+desorganização e o descontrole da condição financeira de uma delas pode gerar um impacto em
+outro ente ou no país como um todo. E é justamente nessa condição que caberá ao poder central
+intervir na unidade da federal , de maneira a reconstruir o quadro de instabilidade financeira e
+orçamentária que unidade se encontra. Apesar do objetivo da intervenção, nesse caso, ser o de
+reconstrução, o seu caráter ainda é excepcional.
+30 PONTES DE MIRANDA, Francisco Cavalcanti. Comentários à Constituição de 1967, com a Emenda n.1, de 1969.
+2. ed. São Paulo: Revista dos tribunais, 1970, p. 225.
+30
+Há na cronologia histórica brasileira uma situação marcante sobre o assunto. O f ato em tela
+ocorreu no Estado do Espirito Santo, que não honrou sua dívida externa com a França. Tal potência
+credora protestou a dívida pela via diplomática e pela via da intimidação, ao enviar um de seus
+cruzadores (conhecido com Arethusa) para o Rio de Janeiro (que era capital do Brasil à época), o
+que obrigou a União a saldar o débito.
+Em relação à arrecadação tributária atribuída aos Municípios, somente com a Constituição
+de 1946 é que estes passaram a participar da arrecadação dos Estados e da União, o que se repetiu
+nas demais cartas magnas, inclusive na vigente. Nesse contexto, vale salientar que a autonomia dos
+municípios está intrinsicamente atrelada as suas rendas.
+A intervenção não fica adstrita somente à hipótese de retenção de recursos tributários, como
+também no caso de esta belecer o Estado qualquer condição para a sua liberação. Por fim, resta
+condicionar a atuação direta do presidente da República diante dos pressupostos supracitados, e o
+mesmo se atribui no caso dos municípios, uma vez que o retardamento na liberação de ve rbas
+pertencentes aos Municípios pode inviabilizar a prestação do s serviços públicos essenciais à
+população.
+É tradicional entre as federações um atributo em comum: a repartição de competências entre
+os seus entes federados. Partindo dessa premissa a hipótese do inciso VI tem por objetivo prover a
+execução de lei feder al, ordem ou decisão judicial , logo, observa-se que a União, em regra, é a
+responsável por editar as normas de interesse geral, enquanto cabe aos entes federados o papel de
+cumpri-las e adota-las nas suas localidades.
+Para ditar tal ordem e evitar que haja conflitos, tais normas são expressamente previstas nas
+constituições dos Estados Federais. Dito isso, é essencial conceber, portanto, que tais normas têm
+o condão de serem imperativas, e se u cumprimento deve ser imediatos, caso contrário, haverá a
+desestabilização desse sistema, o que o levaria ao caos institucional.
+Os entes federados não podem, portanto, descumprir as leis federais sobre o pretexto de
+inconstitucionalidade ou de outro vício formal qualquer, uma vez que tal caso deverá ser suscitado
+31
+em juízo perante os tribunais. Seguindo esse raciocínio, Ferreira Filho esclarece que “a intervenção
+federal só deve ser tida por lícita quando não couber solução judiciária para o caso.”31
+Diante de tal caso, caberá ao chefe do executivo federal agir soment e após o Superior
+Tribunal de Justiça prover a representação do Procurador-Geral da República, limitando-se, diante
+do que estabelece o artigo35, par. 3º, CF, a suspender o ato impugnado, caso seja eficaz a medida,
+e será dispensada, nesse caso, a oitiva d o Congresso Nacional, conforme o que se configura no
+artigo 36, IV e parágrafo 3º da Constituição Federal.
+Em relação à intervenção no caso de descumprimento de “ordem ou decisão judicial”, pode
+se dizer que está relacionada a qualquer ordem ou decisão proveniente de um órgão judiciário no
+âmbito federal, estadual ou do distrito federal. Isso se aplicou na constituição vigente, diferente do
+que se pregava nas constituições de 1891, 1934 e 193 7, por conceber o judiciário como uma
+instituição dotada de soberania nacional, o que não ocorreu anteriormente.
+Pontes de Miranda compreende, nessa colocação, a “ordem” da seguinte maneira: “qualquer
+comandamento ou mandado”; e por “decisão” ele entende que seja “qualquer resolução, que se
+haja de executar”32. Lewandowski aborda tais expressões da seguinte maneira:
+Na verdade, uma ordem consiste numa determinação assinalada por um uma corte ou um
+magistrado, dentro ou fora de uma lide, para que se faça ou deixe de fazer algo, ao passo
+que uma decisão constituí um ato processual terminativo ou interlocutório, de observância
+compulsória pelas partes ou por terceiros, compreendendo todas a s espécies de
+pronunciamento judiciais de caráter cogente.33
+Nesses casos, as autoridades competentes de cada unidade da federação estarão obrigadas a
+obedecer tais ordens e decisões judiciais e terão que aplicá-las a outrem, mesmo que se deva utilizar
+da força policial , caso a ocasião exija. Tal descumprimento ou a falta de apoio à sua execução
+ensejará a intervenção.
+31 FERREIRA FILHO, op. cit., p. 234.
+32 PONTES DE MIRANDA, op. cit., p. 244.
+33 LEWANDOWSKI, op. cit., p.118
+32
+Vale estabel ecer, ainda, que diante da incidência dessa hipóteses de descumprimento a
+intervenção estará condicionada ao que se consubstancia no Artigo 36, II, CF, ou seja, a medida
+será decr etada por meio de requisição do Supremo Tribunal Federal , do Superior Tribuna l de
+Justiça ou do Tribunal Superior Eleitoral, conforme a natureza da ordem desacatada. E ao
+Presidente da República, caberá o empreendimento da intervenção, sem que haja análise de seu
+mérito.
+Apesar de determinadas características díspares entre os entes da federação, essa estrutura
+estatal visa o equilíbrio entre eles, pretendendo sempre assegurar a observância de determinados
+princípios constitucionais, de acordo com o inciso VII, com vistas a um somatório de forças e de
+recursos entre os mesmos. Para que isso ocorra é necessário que tais unidades da federação atendam
+a princípios em comum na sua organização interna, sem prejuízo da alteração das diversidades de
+cada local.
+O mesmo entendimento se aplica no caso das Constituições Estaduais e na formulação das
+leis orgânicas (no caso do Distrito Federal) , isto é, na elaboração destas deverá haver a estrita
+observância e respeito aos princípios que foram estabelecidos pelo constituinte no texto da
+Constituição Federal. O mesmo se deve no caso dos Munic ípios, quanto da elaboração da sua
+legislação local, por corolário ao que prega a Constituição Estadual e, consequentemente, ao que
+está exposto na Carta Magna vigente.
+No que tange os “princípio s constitucionais” tratados nesse dispositivo, há divergênc ias
+doutrinárias ao tentarem conceitua -los. No entanto, uma parcela doutrinária considera-os como
+“sensíveis”, uma vez que a sua não observância e descumprimento enseja uma medida mais
+enérgica, como é o caso da intervenção federal.
+Paralelo a isso, pode-se dizer que essa categoria de princípios convive no mesmo ambiente
+que os princípios classificados como “estabelecidos”. Estes representam um conjunto de princípios
+que também tem como efeito a observância obrigatória, e podem estar dispostos expressamente ou
+implicitamente no texto constitucional, porém, o seu descumprimento não cria precedente para que
+se reaja através de uma medida extrema, ou seja, não cabe o uso da intervenção federal.
+33
+Tais princípios “sensíveis” estão situados no artigo 34, VII, enumerados entre a alínea “a” e
+a alínea “d”, da C onstituição Federal e são elas: a forma republicana, sistema representativo e
+regime democrático; os direitos da pessoa humana; a autonomia municipal; a prestação de contas
+da administração pública, direta e indireta; a aplicação do mínimo exigido da receita resultante de
+impostos estaduais, compreendida a proveniente de transferências, na manutenção e
+desenvolvimento do ensino e nas ações e serviços públicos de saúde.
+Já no artigo 37 estão os princípios “estabelecidos”, os quais estão dirigidos à administração
+pública em geral. Dessa maneira, é necessário traçar os comentários sobre os princípios dessa
+primeira categoria:
+A “forma republicana” foi o p rimeiro dentre tais princípios a aparecer no texto de uma
+constituição federal brasileira. E isso ocorreu na Carta Maior de 1891, uma vez que se objetivava
+impedir a restauração da Monarquia e a reimplantação do Estado Unitário, e caso isso não fosse
+cumprido, já era permitido que se decretasse a intervenção federal.
+Deve-se observar que a República consiste em uma forma de governo em que o todos os
+poderes procedem direta ou indiretamente do povo, de maneira que os seus governantes exercem
+um poder temporário. Sobre o assunto, Geraldo Ataliba define o governo republicano e a República
+da seguinte forma:
+República é o regime político em que os exercentes das funções políticas (executivas e
+legislativas) representam o povo e decidem em seu nome, fazendo -o com
+responsabilidade, eletivamente e mediante mandatos renováveis periodicamente. 34
+Contrariamente, a monarquia se apresenta como outra forma de governo que carrega
+características totalmente opostas em sua essência. Nela figura a ideia de vitaliciedade,
+hereditariedade e irresponsabilidade, por exemplo. 35 Com os poderes concentrados no mo narca,
+34 ATALIBA, Geraldo. República e Constituição. São Paulo: Revista dos Tribunais, 1985. p. IX.
+35 LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no Brasil. 2. ed. Belo
+Horizonte: Fórum, 2018, p.122 apud. DALLARI, Dalmo de Abreu. Elementos de teoria geral do Estado. 2. ed. atual.
+São Paulo: Saraiva, 1998, p. 81.
+34
+ele pode governar durante toda a vida, caso haja condição física para tal, e na sua “linha sucessória”
+abriga-se alguém de sua livre escolha, sem que isso implique em satisfações para o povo ou para
+qualquer instituição política.
+Na Reforma de 196 2 passou a ser assegurado constitucionalmente o princípio do “regime
+representativo”, e é este princípio que expressa o que se entende por soberania popular. Este
+princípio funciona como um veículo dentro do sistema constitucional no qual o povo governa po r
+meio de seus representantes eleitos, o que representa a “participação dos cidadãos da gestão da
+coisa pública”.36
+A Constituição Federal de 1988 adotou, nesse aspecto, a democracia semidireta. Esse sistema
+representativo de governo mescla a eleição de re presentantes para administrar os negócios
+públicos, assim como introduz mecanismos de participação mais direta do povo, sendo eles: o
+plebiscito o referendo e a iniciativa popular. Entretanto, essa via mais direta de participação ocorre
+em situações ocasionais e específicas, de acordo com o artigo 1º, parágrafo único e com o artigo
+14, incisos I, II e III.
+Para garantir a legitimidade dos representantes eleitos é utilizada, no Brasil, a eleição baseada
+no princípio do sufrágio geral, igual, direto, secreto e periódico.37 Para efetivar tal medida, impõese a extensão do direito de voto a todos os cidadãos, ressalvados aqueles que não exercem
+capacidade para tal ato, vedada a segregação por ideologia, gênero, raça , cor etc.
+Para que se garanta um cenário justa e democrático quanto a participação política foi
+estabelecido o pluripartidarismo político como um dos fundamentos da República Federativa do
+Brasil. Além disso, deve se garantir a ampla liberdade de opinião, de reunião e de associação, além
+de outras franquias pertinentes.
+36 LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no Brasil. 2. ed. Belo
+Horizonte: Fórum, 2018, p.123 apud. CARRÉ DE MALBERG, Raymond. Contribution a la théorie génerale de
+l’État: spécialement d’aprés les donnes fournies par le droit constitutionnel français. Paris, Sirey, 1922. t. 2, p. 202.
+37 CANOTILHO, José Joaquim Gomes. Direito Constitucional. 3. Ed. Coimbra: Almedina, 1983, p. 344.
+35
+A intervenção se fará necessária caso o próprio Estado ou o Distrito Federal impeça a
+participação do povo sobre as decisões da gestão pública, seja embarreirando o direito ao voto, seja
+obstando o funcionamento dos partidos políticos, ou anulando os direitos fundamentais.
+Além dessas hipóteses em que recai o uso do instituto da intervenção federal, merece
+destaque uma outra, isto é, é essencial que se respeite o regime de governo democrático adotado
+no Brasil.
+Por “regime”, nesse caso, compreende-se não apenas a noção de obrigação que as unidades
+federadas têm de adotar formalmente as instituições que dizem respeito ao próprio regime
+democrático, aqui foram abarcados elementos como a participação do povo no poder; o sufrágio
+universal; o império da lei; o império da lei; a separação dos poderes; a garantia das liberdades
+públicas; o governo da maioria; a expressão das minorias; o direito de oposição etc.
+Por “democracia”, nesse contexto de regime democrático, deve -se conceituá-la estendendo
+o seu alcance para além dos meios de governo, de modo a incluir as finalidades políticas, o que faz
+com que abranja. Segundo o entendimento de Lipson:
+Os propósitos para que o Estado é conduzido”. Tal dimensão não se correlaciona apenas
+com a “inclusão de valores tradicionais relativos à liberdade individual, à igualdade de
+direitos e à supremacia popular, cumprindo incorporar ainda provisões para o bem -estar
+público e a justiça social”. 38
+Portanto, qualquer Estado-membro que ouse implementar um sistema de privilégios dentro
+dos limites de sua localidade, usando qualquer instituição que o seja, promovendo, assim , a
+desigualdade social, mesmo que manipulada para parecer que está reproduzindo atos democráticos,
+sujeita-se a sofrer a intervenção federal, pois tal fatalidade ameaça a unidade dos entes federados.
+Após duas décadas de um regime autoritário no Brasil, o constituinte de 1988 passou a dar
+ênfase sobre o tema da “dignidade da pessoa humana” , resguardando, portanto, a aplicação da
+intervenção federal diante dos casos de desrespeito a tal entendimento.
+38 LIPSON, Leslie. A civilização democrática. Rio de Janeiro: Zahar, 1966. V.1, p. 91.
+36
+A Constituição não estabelece taxativamente os direitos da pessoa em seu texto, o que se
+verifica, por e xemplo, sob a luz do artigo5, par. 2º, ao assegurar que os direitos e garantias
+expressos na Constituição não excluem outros decorrentes do regime e dos princípios por ela
+adotados, ou dos tratados internacionais adotados pela sua República Federativa. Tal entendimento
+decorre da 9ª Emenda à Constituição dos Estados Unidos.
+Tal assunto se mostra delicado por estar inserido dentro da interpretação de direitos
+fundamentais implícitos. Nos casos em que suscitarem questionamentos ou lacunas, a interpretação
+deverá ser feita sempre de modo mais favorável às pessoas. 39
+Na constituição de 1988 não há uma estrita aplicação meramente normativista e positivista
+desses direitos, o que a aproxima de uma posição mais jusnaturalista, pois o objetivo é reconhecer
+a existência de direitos subjetivos não expressos na sua parte dogmática, dando créditos ao fato de
+serem direitos fundados na lei natural e no valor intrínseco da pessoa humana, ainda que possam
+carecer de eficácia plena, por não possuírem as garantias devidas.
+Sendo assim, a violação dos direito s e garantias fundamentais por parte dos Estados e pelo
+Distrito Federal justifica a intervenção federal, estende-se nessa linha, aqueles direitos afetos a
+dignidade da pessoa humana, traduzida como um dos fundamentos da República Federativa do
+Brasil, de acordo com o artigo 1º, da Constituição. Observa-se, nesse cenário, que a medida extrema
+só é lícita para ser aplicada quando houver atentados maciços ou recorrentes aos direitos e garantias
+dos cidadãos, na medida que tal situação não possa ser revertida por vias institucionais ordinárias.
+Ressalta-se que existem meios institucionais menos gravosos que podem ser utilizados diante
+da situação exposta, antes de se instaurar uma intervenção federal. Para isso se fala na intervenção
+em alguma unidade federada com o intuito de proteger os direitos da pessoa.
+Com relação à autonomia municipal, t al dispositivo é direcionado aos Estados, apesar da
+aparente confusão que tal lógica pode causar. Isso se deve ao fato de que o artigo 32 da Constituição
+39 DALLARI, Dalmo de Abreu. O que são os direitos das pessoa. São Paulo: Brasiliense, 1981, p. 23.
+37
+veda a divi são do Distrito Federal em Municípios, nota -se que não pode este ente incorrer na
+violação tratada aqui.
+Com a vigência da constituição atual os municípios passaram a ser amplamente agraciados e
+prestigiados, diferentemente do que ocorrera em momentos anteriores, ao longo da movimentação
+pendular do federalismo brasileiro, apesar de já constar alguns contornos da sua existência desde a
+primeira Constituição política do país de 1824. Para ilustrar a concepção de município no Estado
+brasileiro, Herculano de Freitas expõe a seguinte colocação sobre o assunto:
+Entre nós, a colonização nos trouxe o município, que já a invasão romana trouxera do
+Lácio para a Península Ibérica; o município precedeu ao reino, precedeu à independência,
+precedeu à Nação, e a Nação unitária sempre teve o município como uma das bases da sua
+organização.40
+A primeira Constituição Republicana trouxe à tona a questão da autonomia dos municípios,
+apesar de estabelecê -los como uma fração da organização te rritorial dos Estados -membros da
+Federação. Já com a Reforma de 1926 o atentado à autonomia municipal passou a configurar
+pressuposto autorizador da intervenção federal. A Const ituição Federal de 1934 caminhou nesse
+mesmo sentido, porém, a Constituição de 1937 suprimiu tal entendimento.
+Em 1946, a implementação da nova constituição resguardou novamente esse dispositivo, o
+que se perpetuou nas Constituições de 1967 e de 1969. Após longos períodos de vulnerabilidade
+na inclusão dos Municípios, e da ausência de sua participação na repartição da rend a nacional,
+atualmente ele foi alçado à categoria de membro da federação brasileira, o que explica a elevação
+da autonomia municipal. Lembrando que o conceito de autonomia diz respeito, genericamente, ao
+poder de governar a si próprio.
+Quanto à autonomia municipal, José Afonso da Silva descreve quatro categorias de
+capacidades que são pilares desta, sob a égide da nova Constituição cidadã de 1988 : capacidade
+de auto -organização – pela elaboração de lei orgânica; capacidade de autoadministração –
+manutenção e prestação de serviços públicos de interesse local; capacidade de autogoverno – pela
+40 LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no Brasil. 2. ed. Belo
+Horizonte: Fórum, 2018, p.130 apud. FREITAS, Herculano de. Direito Constitucional. São Paulo, 1965, p. 414.
+38
+eleição de vereadores e prefeitos; normatividade própria – pela elaboração de leis dentro do seu
+âmbito de competência.41
+O princípio da prestação de contas da administração pública, direta e indireta passou a ser
+incorporado no ordenamento jurídico brasileiro a partir da Constituição de 1934. Tal fato sucedeu
+nas constituições ulteriores, ganhando espaço na constituição federal vigente a partir do artigo 34,
+VII, “d”.
+O descumprimento do seu enunciado gera a incidência da intervenção federal. Isso se deve
+ao elevado grau de importância que tal princípio exerce, uma vez que constitui uma obrigação
+inafastável do gestor de bens e interesses alheios. Tal entendimento se aplica tanto aos gerentes da
+vida privada, quanto aos administradores dentro do poder público. Meirelles depreende o seguinte
+pensamento acerca do assunto: “a prestação de contas não se refere apenas aos dinheiros públicos,
+à gestão financeira, mas a todos os atos de governo e de administração.”42
+Consoante a tal compreensão, a Carta Magna assegura, também, a obrigação que a
+Administração Pública tem em fornecer certidões para a defesa de direitos e o esclarecimento de
+situações, além disso, caberá sempre a exigência de transparência e publicidade dos atos e contratos
+que a mesma concretizar.
+Apesar dessa noção, é no campo financeiro que o dever de prestar contas ganha a sua maior
+conotação e importância. Conforme compreende Manoel Gonçalves Ferreira Filho, essa obrigação
+da prestação de contas deve dar -se em conformidade com as diretrizes gerais de caráter
+orçamentário editado pela União , conforme de consubstancia no artigo 24, II e §1º, CF, além de
+prestar obediência também aos artigos 70 a 75 do texto constitucional.43
+Tanto na União quanto em todos os outros entes federados, as pessoas físicas e as entidades
+41 LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no Brasil. 2. ed. Belo
+Horizonte: Fórum, 20 18, p.131 apud. SILVA, José Afonso da. O Município na Constituição de 1988 . Revista dos
+Tribunais: São Paulo, 1989, p. 8.
+42 MEIRELLES, Hely Lopes. Distrito administrativo brasileiro. 14. Ed. São Paulo: Revista dos tribunais, 1989, p. 88.
+43 FERREIRA FILHO, op. cit., p. 236.
+39
+governamentais nelas situadas deverão prestar contas dos “dinheiros” que utilize, arrecade, guarde,
+gerencie ou administre; assim como dos bens e valores públicos q ue possui, ou pelos quais o ente
+público responda.
+Cabe recordar que as Cortes de Contas constituem os órgãos auxiliares do legislativo no
+desempenho do controle externo, no que diz respeito à ‘fisc alização contábil, financeira,
+orçamentária, operacional e patrimonial da Administração direta e indireta, quanto a legalidade,
+legitimidade, economicidade, aplicação, das subvenções e renúncia de receitas, atuando
+paralelamente ao sistema de controle interno de cada Poder, nos termos do estatuído no artigo70,
+caput, da Carta Magna.’44
+Isto leva a concluir que a prestação de contas ocorre, atualmente, da forma mais ampla
+possível, não podendo ser objeto de obstrução pela Administração Direta ou Indireta da unidade
+federada.
+3.4. A intervenção nos municípios e suas hipóteses
+Da mesma forma que ocorre no caso da intervenção federal, a intervenção dos Estados nos
+seus municípios e a intervenção da União nos seus territórios rege -se pelo princípio da não
+intervenção, vide o que se reproduz no artigo 35, caput, da Constituição. Tal fato significa que a
+medida somente poderá se dar através das quatro hipóteses dispostas nos incisos desse dispositivo
+constitucional.
+Tal matéria é disciplinada exclusivamente e taxativamente pela Constituição Federal, não
+dando margem, portanto, para que as Constituições Estaduais tratem do assunto. Tal entendimento
+era diferente antes do advento da Constituição de 1988, ou seja, até a Constituição Federal de 1967
+(por meio da eme nda constitucional de 1969) as Constituições Estaduais delimitavam o
+procedimento da intervenção sobre os Municípios.
+A Constituição Federal vigente estabelece outra situação através do artigo 35, que é a
+44 LEWANDOSKI, op. cit., p. 132.
+40
+Intervenção da União nos Municípios localizados nos Territórios Federais. Apesar dessa previsão
+formal, tal pressuposto é inaplicável, uma vez que os únicos três Territórios que existiam até a
+Constituição de 1969 hoje já não mais existem.
+Com efeito, os Territórios de Roraima e Amapá foram transformado s em Estados e o de
+Fernando de Noronha acabou incorporado ao Estado de Pernambuco, em decorrência da aplicação
+dos artigos 14 e 15 do Ato das Disposições Constitucionais Transitórias. Deve -se lembrar de que
+por se enquadrar nesse rol de direitos, tais normas são de caráter prospectivo, ou seja, seus efeitos
+são gerados no futuro, quando se criarem novos territórios, conforme se assegura no artigo 18, §2º,
+da Constituição.
+Das hipóteses de intervenção nos municípios, a primeira delas é deixar de ser paga, sem
+motivo de força maior, por dois anos consecutivos, a dívida fundada . Nesse caso não bastará que
+o Município alegue apenas a excludente de força maior, ou seja, cumpre comprovar, também, a sua
+ocorrência de forma objetiva para que ocorra a intervenção.
+Também é uma hipótese, prevista no inciso II do referido artigo, se não forem prestadas
+contas devidas, na forma da lei. Anteriormente, a aplicação deste dispositivo restringia-se apenas
+ao âmbito estadual, importando apenas a prestação de contas na forma da lei estadual. Com a nova
+Constituição Federal de 1988 tal posicionamento foi suprimido, de forma que a intervenção passou
+a ser cabível diante da violação de lei federal, estadual ou municipal que digam respeito à prestação
+de contas.
+A partir dessa n ova interpretação, as leis orgânicas passaram a regular o assunto, além das
+leis federais e estaduais, inclusive, naquilo que tratar do controle interno reservado a cada um dos
+Poderes, que pode ocorrer sem interferência do controle externo, executado com o auxílio do
+Tribunal de Contas.
+A terceira hipótese é a de não tiver sido aplicado o mínimo exigido da receita municipal na
+manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde e, conforme
+observação de Manoel Gonçalves Ferreir a Filho, a Constituição em vigor “ não especifica o
+41
+quantum a ser aplicado no ensino, não restringe essa aplicação ao ensino primário e à receita
+tributária.”45 Na Constituição anterior a intervenção era decretada diante dos casos em que não
+houvesse aplicação, no ensino primário, em cada ano, de vinte por cento, no mínimo, da receita
+tributária.
+O artigo 212 da Constituição Federal de 1988 traduziu esse entendimento assegurando de
+forma específica que os Municípios precisam aplicar, anualmente, vinte e cinc o por cento, no
+mínimo, da receita resultante dos impostos , compreendida a proveniente de transferências, na
+manutenção e desenvolvimento de ensino.
+Nada impedirá, entretanto, que a receita proveniente dos impostos, no percentual do mínimo
+exigido, possa ser distribuída pelos diferentes graus de ensino, com a ressalva de que o Município
+atue prioritariamente na educação infantil e na educação fundamental, conforme se verifica a luz
+do artigo 211, §2º, da Constituição.
+O inciso IV traz a hipótese de quando o Tribunal de Justiça der provimento à representação
+para assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a
+execução de lei, de ordem ou de decisão judicial. A República Federativa do Brasil é regida pelo
+Estado Democrático de Direito, e em ocorrência disso o Brasil adota a observância, o respeito e o
+cumprimento das leis e a proteção do judiciário. Nessa linha, não poderá o Município causar
+qualquer instabilidade a tal estrutura. Q ualquer Município que venha desobedecer tais preceitos
+será sancionado com a intervenção municipal.
+Ademais, é de observância obrigatória pelos Municípios a autonomia municipal, por força
+do artigo 129, caput, CF, principalmente em relação à capacidade de auto -organização, a qual é
+limitada não só pelos princípios estabelecidos na Constituição Federal, como também por aqueles
+consignados nas Constituições Estaduais. Nesse segundo caso , a intervenção se dará caso o
+Tribunal dê provimento à representação que pleiteie a medida.
+3.5. Pressupostos formais da intervenção na Constituição Federal de 1988
+45 FERREIRA FILHO, op. cit., p. 237.
+42
+3.5.1. A iniciativa e execução da intervenção
+O artigo 36 da Constituição Federal veio por regulamentar a competência dos diferentes
+órgãos responsáveis por instaurar e executar a intervenção f ederal. Os incisos abordados em tal
+dispositivo dizem respeito exclusivamente à intervenção em Estado ou no Distrito F ederal, e os
+seus parágrafos expressam a intervenção nos Municípios.
+Dessa maneira, diz-se que a competência para decretar a intervenção cabe ao Presidente da
+República, e esta pode se dar de maneira discricionária ou vinculada, de acordo com a hipótese em
+que se basear. 46 Deve-se salientar, no entanto, que apesar da execução caber exclusivamente ao
+chefe do Poder Executivo, a deliberação so bre a pertinência da intervenção poderá ser de outro
+poder. No caso da intervenção estadual, adere -se a lógica do princípio da simetria entre os entes
+federativos, ou seja, está incumbido ao Governador do Estado a competência privativa para
+decretar a intervenção dos Estados sobre os municípios.
+O que está exposto no artigo 36, I, da Constituição, consubstancia a forma como se inicia a
+ação interventiva e como ela é didaticamente classificada: ela pode se dar de forma espontânea ou
+provocada.
+A forma provocada enquadra duas situações. Uma dessas situações pode se dar quando há
+um pedido (solicitação) expresso e inequívoco do Poder Legislativo ou Executivo (coacto ou
+impedido) ao Presidente da República, e este receberá tal solicitação, porém, não estará vinculado
+(obrigado) a intervir. Por outro lado, há outra hipótese que vai de encontro a tal entendimento, uma
+vez há a requisição do Supremo Tribunal Federal nos casos em que houver coação contra o Poder
+Judiciário.
+Nessa circunstância, o Supremo Tribunal Federal age de ofício ou por solicitação do Tribunal
+de Justiça do Estado, e por ser uma ordem, é uma decisão judicial que vincula o Presidente da
+46 FERREIRA FILHO, Manoel Gonçalves. Curso de Direito Constitucional, 40. ed. Rio de Janeiro: Saraiva, 2015, p.
+54.
+43
+República, o que faz com que o decreto de intervenção a ser expedido pelo Presidente represente
+uma mera formalização de uma decisão soberana do Poder Judiciário.
+Uma importante questão a ser analisada nesse sentido se daria caso o poder local coacto ou
+impedido não conseguisse se manifestar, por alguma razão. A doutrina nacional compreende que
+a solicitação, diante qualquer caso de constrangimento, deve ser presumida.
+Sempre que houver qualquer coação contra a atuação do Poder Judiciário em alguma unidade
+federada caberá ao Supremo Tribunal Federal, nessa circunstância, agir de ofício, ou por solicitação
+do Presidente do Tribunal de Justiça do Estado, conforme disposto no artigo 350, I, do Regimento
+Interno do Supremo Tribunal Federal.
+A desobediência de qualquer ordem ou decisão judiciária por parte do ente federado também
+enseja a intervenção por requisição. Tal hipótese aparece no inciso II do artigo 36, da Carta Maior,
+e nesse caso a requisição será feita pelo STF, pelo STJ ou pelo Tribunal Superior Eleitoral. Aqui,
+a requisição é feita ao chefe do executivo , após apreciação da questão ou quando, de ofíci o,
+tomarem ciência do fato.
+Nesse caso, estará o Presidente da República obrigado a intervir, por se tratar de qu estão
+vinculada e não de questão discricionária. Caso ele descumpra tal mandamento estará incorrendo
+em um crime de responsabilidade, segundo o artigo 85, VII, da Constituição.
+Diante de tais casos, Pontes de Miranda levanta a questão do papel do Congresso Nacional
+diante de tais aplicações. Segundo tal autor, o Legislativo não pode suspender a intervenção, sendo
+desnecessária, inclusive, a sua aprovação, salvo “se houvesse processo de responsabilidade do
+membro ou dos membros do Poder Judiciário, que a requisitaram, ou se o Presidente da República
+interveio sem a provocação devida”. 47
+Por outro lado, diante de manifesta ilegalidade ou patente desvio de finalidade na decretação
+da intervenção, o Congresso Nacional poderá se pronunciar e suspender tal ato, a qualquer tempo,
+47 PONTES DE MIRANDA, op. cit., p. 253.
+44
+haja vista o que assegura o artigo 49, IV, da Constituição.
+Em relação ao artigo 36, III, da Constituição , se consubstanci a o utro caso de requisição
+judicial para a intervenção federal . Ocorrerá para assegurar a observância dos princípios
+constitucionais obrigatórios, quando o Supremo Tribunal Federal der proviment o à representação
+do Procurador-Geral da República nesse sentido, e quando se evidenciar recusa à execução de lei
+federal (conforme está previsto, também, na Emenda Constitucional 45/2004). Aqui dependerá de
+prévia apreciação do STF, na forma legal e regimental. Uma vez que há provimento pelo STF,
+incumbirá ao Presidente da República decretar a intervenção federal no prazo improrrogável de 15
+dias, não importando a análise de mérito para tal questão.
+É lícita a iniciativa incondicionada do presidente da República para intervir, diante de
+determinados casos de emergência. Tais casos, conforme antes visto, se enquadram nos incisos I,
+II e III do artigo 34 Constituição Federal : para manter a integrid ade nacional, repelir invasão
+estrangeira ou de uma unidade da federação em outra, pôr termo a grave comprometimento da
+ordem pública. Também estará autorizado a agir de ofício nos casos que dizem respeito à
+reorganização das finanças dos entes federados.
+Importante ressaltar que tais casos representam uma competência discricionária , o que
+permite que o Presidente da República possa exercê-la, por ser seu titular, ou pode delegá-la.
+3.6. Forma, limites e prazo da intervenção federal
+A Intervenção Federal se dá sobre a forma de decreto expedido pelo Presidente da República,
+o qual fixará a amplitude, o prazo, as condições e, possivelmente, o interventor. Apesar disso, é
+possível a realização da intervenção sem a nomeação deste, limitando -se o decreto a suspender a
+execução do ato impugnado, se esta medida bastar para o restabelecimento da normalidade e do
+equilíbrio federativo.
+Em relação à duração da intervenção federal, é necess ário frisar que se trata de um ato
+temporário, cabível em hipótese taxativamente prevista, em que prevalecerá apenas pelo tempo
+45
+necessário para a superação da causa que a justificou. Uma vez que restarem cessados os motivos
+que deram causa à decretação e e xecução da intervenção as autoridades afastadas serão
+reconduzidas para os seus cargos, salvo impedimentos legais , em consonância com o artigo 36,
+§4º, da Constituição . Para tanto, o afastamento de Governadores de Estado e de Prefeitos
+Municipais são medid as excepcionais, admitidas somente quando necessárias para resolver o
+motivo que justificou a intervenção.
+Outro ponto de relevante interesse se deve ao questionamento se há ou não a possibilida de
+de se emendar a constituição enquanto persistir uma intervenção federal no país. Nesse contexto,
+o Artigo 60, §1º, da Constituição, impõe, taxativamente, três limitaç ões circunstanciais quanto à
+possibilidade de haver qualquer reform a, sendo tais circun stâncias a de que a Constituição não
+poderá ser emendada quando em intervenção federal, de estado de defesa ou de estado de sítio.
+Nessas circunstâncias, portanto, há u ma limitação quanto à atuação do Poder constituinte
+derivado. O poder constituinte orig inário estabeleceu tais preceitos com o intuito de coibir que a
+atuação desmedida ou arbitrária dos parlamentares, fortalecendo assim, o princípio da segurança
+jurídica, como também, o equilíbrio institucional e político. Assim inibe -se que haja
+movimentações e manobras políticas em meio a um silêncio normativo, ocasionado
+temporariamente, devido às circunstâncias.
+Entretanto, as propostas de emenda constitucional poderã o ser apresentadas e discutidas
+perante o Congresso Nacional, não podendo ganhar vigência e legitimidade, por ora.
+3.7. Controle político e jurisdicional
+A intervenção está sujeita ao controle político do Congresso Nacional, enquanto a
+intervenção estadual está sujeita ao controle político da Assembleia Legislativa . Em ambos os
+casos, os seus pares tem um prazo de 24 horas para reunirem os seus pares, e a partir daí o controle
+político deverá ser exercido dentro de mais um prazo de 24 horas, contados a partir da expedição
+do decreto de intervenção.
+46
+Nesses casos, quando tais casas legisla tivas se encontrarem em recesso , terão que ser
+convocadas extraordinariamente no prazo de 24 horas para apreciação da política de intervenção.
+Lembrando que, é exclusiva a competência do Congresso Nacional para aprovar ou não a
+intervenção federal, bem como suspendê-la, já que assim dispõe o artigo 49, IV, da Constituição.
+Uma vez que a intervenção for suspensa pelo legislativo, será reestabelecida a autonomia da
+entidade federativa, com a recondução de todas as pessoas que foram afastadas de seus cargos
+provisoriamente.
+Já no caso da apreciação judicial, como observado nos casos específicos já apresentados, o
+artigo 36, §3º, da Constituição permite a dispensa a posterior da apreciação do Congresso Nacional
+se o decreto de intervenção se limitar a suspend er o ato impugnado e for o suficiente para o
+reestabelecimento da normalidade. Por se tratar de ato de nat ureza eminentemente política, o
+controle jurisdicional é possível somente se houver violação das regras previstas na Constituição
+Federal.
+Quanto ao seu aspecto formal, o judiciário também se manifestará analisando a juridicidade
+do decreto interventivo. Aqui não há que se falar em julgamento de mérito por parte do judiciário,
+uma vez que o ato tem natureza política e parte de ato praticado pelo chefe do executivo. A atuação
+judicial aqui poderá ocorrer, mediante provocação, caso haja a desobediência aos imperativos
+descritos nos artigos 34 e 36 da constituição federal, os quais asseguram os pressupostos materiais
+e formais para que a intervenção possa ocorrer. É válido salientar que a competência para o controle
+jurisdicional tem origem por parte do Supremo Tribunal Federal.
+3.8. A figura do interventor
+Outra dúvida recorrente acerca da intervenção federal se refere a quem tem competência para
+exercer “o cargo temporário” de interventor e quem poderá nomeá -lo. O interventor será aquela
+pessoa de plena confiança do Presidente da República, sendo designado para atuar prestando -lhe
+integral subordinação, atuando dentro dos limites do espaço físico do Est ado-membro e sob as
+delimitações estabelecidas no decreto.
+47
+Constitucionalmente falando, não subsistem requisitos específicos que o interventor precise
+preencher para ser investido nesse cargo. Ou seja, o mesmo não precisa ser necessariamente militar
+e nem precisa obedecer a limitações de faixa etária.
+O interventor assumirá o controle do Estado -membro, em caráter temporário, estando o
+governador afastado ou não, até que se cumpra o que foi estabelecido via decreto. Demais
+autoridades – como o governador, secretários de Estado, Comandantes da Polícia Militar – podem
+ser afastados de seus cargos enquan to estiver em vigência tal decreto. Ao término da vigência do
+decreto, as autoridades anteriormente competentes retornaram aos seus respectivos cargos caso não
+haja nenhuma forma de impedimento.
+A nomeação de um interventor dependerá da espécie de interve nção deflagrada, não sendo
+essencial em todas as suas acepções. Lembrando que no caso da intervenção da União sobre um
+Estado, será indispensável que se cumpra tal nomeação.
+48
+4. OS DESDOBRAMENTOS DA INTERVENÇÃO FEDERAL NO ESTADO DO RIO DE
+JANEIRO
+4.1. A crise no estado do Rio de Janeiro
+No dia 17 de julho de 2016 , há 49 dias dos jogos olímpicos, o então governador do Rio de
+Janeiro, à época, Francisco Dornelles, decretou estado de calamidade pública em decorrência da
+crise financeira vivenciada pelo Estado.
+Tal decreto previu que as autoridades competentes poderiam adotar medidas excepcionais
+necessárias à racionalização de todos os serviços públicos es senciais, com vistas à realização dos
+Jogos Olímpicos do Rio de Janeiro em 2016 e editar atos normativos necessários para regulamentar
+o estado de calamidade pública. Além disso, o decreto permitia que o gov erno contraísse
+empréstimos sem precisar da aprov ação da Assembleia Legislativa e contratar empresas sem
+licitação.48
+Foram inúmeros os fatores que fizeram com que o Estado do Rio de Janeiro chegasse a tal
+colapso. Dentre eles, destaca-se, por exemplo, o episódio da “operação lava-jato”, conhecido como
+o maior escândalo de corrupção na história do Brasil , fazendo insurgir a crise institucional da
+Petrobras; os gastos astronômicos com a Copa do Mundo em 2014 e com os Jogos Olímpicos em
+2016; a queda no preç o do barril do petróleo e a redistribuição de royalties do petróleo no país e
+no próprio estado ; a queda no valor da arrecadação do ICMS; inúmeras falhar e episódios de
+corrupção na administração financeira do país.
+Nesse cenário, a má gestão do governo do Rio de Janeiro, somado com os gastos volumosos
+para sediar a Copa do Mundo e os Jogos Olímpicos , representaram os principais fatores para
+antecipar tal processo de dilapidação dos cofres públicos. Inclusive, o governo do Rio de Janeiro
+alegou que devido a crise financeira que se instaurou, não haveria como arcar com os Jogos
+Olímpicos que estavam prestes a acontecer, sendo esse um dos argumentos utilizados para decretar
+48 RIO de Janeir o decreta estado de calamidade pública. DW. Disponível em: < https://www.dw.com/pt-br/rio-dejaneiro-decreta-estado-de-calamidade-p%C3%BAblica/a-19339499>. Acesso em: 26 nov. 2019.
+49
+a intervenção. O Decreto interventivo que estaria por vir, representou uma transferência de um
+problema do âmbito Estadual para o âmbit o federal, antes que um completo estado de caos e
+falência se assolasse.49
+Para se ter uma dimensão de tais gastos, pode -se citar a reforma do Marac anã, que resultou
+em um gasto de 1,2 bilhão de reais aos cofres públicos do Estado e o investimento de 10 b ilhões
+para concretizar as obras, revitalizações municipais e instalações das Olimpíadas.
+Além disso, o Estado também passou por um aumento drástico nos últimos anos com
+despesas destinadas aos salários e aposentadoria dos servidores ativos, inativos e p ensionistas do
+Poder executivo. Conforme informou a Secretaria de Estado de Planejamento e Gestão, os gastos
+com esse setor aumentaram , em 2016, para 37 bilhões de reais. Com efeito dessa crise, cerca de
+390 mil desses servidores tiveram os seus salários atrasados.
+4.2. A decretação da intervenção federal no Rio de Janeiro
+O Governador Luiz Fernando “Pezão” tentou estender a aplicação do decreto de calamidade
+pública até o fim de 2018. Tal prorrogação se relacionava com a trat ativa do governo do Rio de
+Janeiro com o Congresso Nacional , no sentido de tentar angariar benefícios com o plano de
+recuperação fiscal que ali tramitava, o que poderia suspender, portanto, os prazos da Lei de
+Responsabilidade Fiscal para questões referentes com pessoal e dívida pública.
+Tal pedido foi acatado, e foi estabelecida a lei 7.483 de 8 de novembro de 2016, a qual
+prorrogara o prazo de validade do decreto de estado de calamidade no âmbito da administração
+financeira. Tal fundamento ganhou efetividade com o Decreto 45.692 de 2016.131.
+Entretanto, tal situação se alterou em 2017. Nesse ano, o Procurador -Geral da República,
+Rodrigo Janot, apresentou perante ao Supremo Tribunal Federal o pedido de intervenção Fe deral
+no Estado do Rio de Janeiro, baseando -se no afastamento de seis conselheiros do Tribunal de
+49 COMO o estado do Rio de Janeiro chegou à falência? DW. Disponível em: < https://www.dw.com/pt-br/como-oestado-do-rio-de-janeiro-chegou-%C3%A0-fal%C3%AAncia/a-19344065>. Acesso em: 26 nov. 2019.
+50
+Contas do Estado do Rio de Janeiro , por 180 dias. Tal afastamento se deu em função do suposto
+envolvimento desses conselheiros com casos de propina e fraudes para aliviar a fiscalização e
+aditamento em contratos milionários celebrados entre o Poder Público com empresas privadas e
+construtoras, além do envolvimento com demais agentes públicos e políticos.50
+Por conseguinte, a intervenção federal no Estado do Rio de Janeiro originou-se através do
+Decreto nº 9.288, de 16 de fev ereiro de 2018, e teve como objetivo pôr termo a grave
+comprometimento da ordem pública, de acordo com seu artigo 1º, § 2º. Devido a dec retação por
+tal hipótese, tratou -se de uma intervenção de cunho discricionário do Presidente da República,
+conforme já explicado nesta pesquisa.
+O Decreto foi submetido no mesmo dia à apreciação pelo Congresso Nacional , sendo
+aprovada no dia 20 de fevereiro do mesmo ano, por meio do Decreto legislativo nº 10, de 2018. A
+amplitude da intervenção se restringiu apenas à área de segurança pública, sendo que o seu prazo
+final foi até o dia 31 de dezembro de 2018. O Decreto nomeou um General do Exército : Walter
+Souza Braga Neto, e suas atribuições seriam aquelas que competiam ao Governador do Estado,
+restritivamente ao que tange à segurança pública.51
+4.3. A intervenção federal como mecanismo de controle social
+Apesar de atender a todos os requisitos formais e materiais, a intervenção federal no Rio de
+Janeiro merece considerações de alta relevância quanto aos seus impactos no ca mpo social,
+institucional e político.
+Ao longo da cronologia histórica, o município do Rio de Janeiro se apresenta como um local
+em que se inserem conflitos e contrastes sociais muito intensos. Desde a época republicana, o lugar
+50 PROCURADOR-geral pede intervenção federal no Rio de Janeiro por crise no TCE-RJ. Notícias Supremo Tribunal
+Federal. Disponível: em:. <http://www.stf.jus.br/portal/cms/v erNoticiaDetalhe.asp?idConteudo=341990> Acesso
+em: 27 nov. 2019.
+51 Artigo 2º Fica nomeado para o cargo de Interventor o General de Exército Walter Souza Braga Netto.
+Parágrafo único. O cargo de Interventor é de natureza militar.
+Artigo 3º As atribuições do Interventor são aquelas previstas no artigo 145 da Constituição do Estado do Rio de Janeiro
+necessárias às ações de segurança pública, previstas no Título V da Constituição do Estado do Rio de Janeiro.
+51
+que já foi constituído como a capital do Brasil, é marcado pela segregação e violência em diversas
+escalas e localidades, principalmente sobre os menos favorecidos.
+A população que anteriormente ocupava os cortiços, e que posteriormente passou a ocupar
+favelas, já sofre com “intervenções” bem antes da decretação dessa intervenção federal de 2018.
+Quando se fala das classes menos abastadas sempre temos que refletir que é essa parcela da
+população que mais sofre com a restrição de direitos e as punições mais severas.
+Essas pessoas são historicamente segregadas e estigmatizados, como se não pertencessem a
+própria cidade. Com isso, se torna mais claro perceber quais comportamentos que antes ocorriam
+no passado hoje se reproduzem de maneiras bem parecidas, sobre pessoas que estão presen tes em
+um mesmo nicho social. Portanto, nessa parte da pesquisa estarão descritas as análises sobre esse
+processo de repressão violenta de direitos, das intervenções seletivas, a militarização urbana e a
+remoção de populações carentes , conjuntamente a insu rgência da interve nção federal no ano de
+2018 no Estado do Rio de Janeiro.
+Desde a década de 90 as áreas “favelizadas” passaram a ser vista como um sinônimo de
+lugares violentos. E justamente sobre esse estigma o governo passou a se valer da ideia da política
+de combate às drogas e redução da criminalidade , além de outros exemplos, para implementar
+medidas de coação e imposição contra as pessoas que ali se encontravam. Nesse cenário,
+insurgiram no início do século XXI as “Unidades de Policía Pacificadora”. Tais Unidades foram
+instaladas dentro dessas comunidades sobre o falso pretexto de garantia da paz, enquan to na
+verdade passaram a representar uma onda de excessos e remoções, sem alterar substancialmente as
+taxas de criminalidade.
+Com a aproximação do s Jogos Olímpic os no Rio de Janeiro em 2016 houve a remoção de
+cerca de 3.500 famílias para dar espaço a construção do Parque Olímpico. Embora o governo tenha
+se valido da concessão de uso para promover tal ato, é nítida o descaso visando interesses
+imobiliários sem se importar com as consequências das famílias que sofreram com medidas como
+essa, pois muitos não tiveram tempo de se planejar ou recursos para optar por um lugar acessível.
+Além desse, um outro dado que chama atenção sobre esse assunto, é o fato de que 77.206 pessoas
+52
+foram desocupadas e transferidas entre 2009 e 2015.52
+Além dessa forma de “intervenção” registrada por tais desocupações, o Rio de Janeiro já
+sofria anteriormente com a “militarização urbana”, na medida em que o poder policial sempre foi
+utilizado como um mecanismo de controle das populações menos favorecidas. A questão carrega,
+ainda, determinadas particulares quando vivenciadas no Rio de Janeiro, uma vez que no mesmo
+ambiente convivem pessoas honestas e trabalhadoras, pessoas que i ntegram grupos paramilitares,
+traficantes e o policiamento militar que age sem preparo ou de forma abusiva.
+Muitas vezes nas áreas carentes de recursos e sobre o predomínio dos conflitos urbanos
+sangrentos, brechas são criadas para que determinados grupos dominem a região e ditem os direitos
+e deveres para as pessoas que vivem à margem da sociedade, uma vez que o Estado somente se faz
+presente ali para dizimar uma política do medo, ou seja, por uma intervenção segm entada e
+violenta.53
+Para comprovar a situação de violência como forme de controle dos desfavorecidos, um dado
+pode ser usado para chamar atenção : entre 2006 e 2016 a taxa de homicídio de negros aumentou
+23,1%, enquanto a de pessoas não negras reduziu 6,8% , conforme informa o Atlas da violência.
+No sistema prisional a situação de desigualdade se repete, uma vez que em 2016 o Infopen
+informou que 64% da população carcerária do Brasil era composta por negros. Desses, 41%
+possuem ensino fundamental incompleto, 14% completaram o ensino fundamental, 15% estudaram
+até o ensino médio incompleto, e 9% o completaram. Tudo isso em um cenário nacional onde os
+negros representam 53% da população.54
+Com vista a solucionar o “grave comprometimento da ordem pública” como se propõe, a
+intervenção federal se caminha justamente pelo caminho contrário , isto é, apenas se formalizou
+52 Segundo o Dossiê “Megaeventos e Violações dos Di reitos Humanos no Rio de Janeiro”, realizado pelo Comitê
+Popular da Copa e das Olimpíadas do Rio de Janeiro
+53 GRAHAM, Stephen. Cidades sitiadas: o novo urbanismo militar. Tradução de Alyne Azuma. São Paulo: Boitempo,
+2016, p. 121.
+54 SANTOS, Thandara (org.); ROSA, Marlene Inês da (colab.). Levantamento nacional de informações penitenciárias:
+INFOPEN. Atual. Junho de 2016. Brasília: Ministério da Justiça e Seguranç a Pública. Departamento Penitenciário
+Nacional, 2017, p. 61.
+53
+como um mecanismo de força do Estado, em que os resultados se mostraram pouco eficazes quando
+comparados a alta letalidade em seus efeitos colaterais.
+Para comprovar tal feito, serão abordados alguns dados e estatísticas, muitos deles retirados
+do “Observatório da Intervenção”. Quanto aos crimes contra a vida e crimes dolosos no Estado do
+Rio de Janeiro – homicídios dolosos, latrocí nios, mortes por intervenção de agentes do Estado e
+lesão corporal seguida de morte- houve uma redução de apenas 1,7% em relação a 2017. Enquanto
+na capital e na baixada fluminense houve uma redução de 9,4% e 6,5%, respectivamente, no
+Interior do Estado o aumento desses crimes aumentou 15,8%. Como a intervenção pri orizou o
+“combate a violência” na capital devido aos megaeventos que ocorreram, muitos criminosos
+migraram para o interior do Estado, o que representou um aumento da violência nesses locais.55
+O número de mortes por agentes do estado aumentou em todo o Est ado, o que representou
+33,7% de aumento em relação a 2017, com um total de 1.375 mortes. Os número de agentes de
+segurança também foi elevado, o que expõe os prejuízos para todos os lados: 99 agente morreram
+e 140 foram feridos.
+A taxa de roubos de cargas sofreu uma diminuição de 17,2% em todo o Estado, o que dá uma
+falsa sensação da justiça sendo cumprida, enquanto na ve rdade só uma categoria de crimes teve
+uma diminuição mais acentuada (esse tipo de crime integra os crimes contra o patrimônio).
+Diferentemente situação se deu, por exemplo, no caso de roubos e furtos nas ruas, uma vez que
+estes sofreram um aumento de 1% entre 2019 e 2018.
+Um dado alarmante se deve a quantidade de ocorrências por tiroteios e disparos com armas
+de fogo. Foram registrados cerca de surpreendentes 8.613 tiroteios e disparos de armas de fogo, o
+que é maior 56,6% quando comparado com 2017. Além disso, foram registradas 54 chacinas56.
+É certo que cada Estado e cada cidade apresenta suas próprias peculiaridades, e, em vista
+disso, uma política pública deve, necessariamente, ser precedida de uma análise e planejame nto
+55 RAMOS, Silvia (coord.). Intervenção federal: um modelo para não copiar. Rio de Janeiro, CESeC, fevereiro de
+2019, p. 04.
+56 RAMOS, Ibid., p. 11.
+54
+adequado ao local no qual se pretende introduzir. Contudo, o que não se pode ignorar é que a
+adoção de medidas paliativas, visando a qualquer custo a “alcançar” a segu rança pública,
+historicamente não apresenta resultados positivos. Nesse sentido, Souza expressa sua preocupação
+em relação à questão da segurança pública, salientando que ela não pode ser reduzida a um caso de
+polícia, apenas repressivo ou mesmo preventivo , mas, ao contrário, deve envolver uma série de
+ações, “em diferentes domínios (inclu indo-se o planejamento e a gestão urbanos) e escalas (da
+microlocal [sic] às supralocais), que deve ir construindo as condições para uma segurança maior e
+para a redução de riscos”57.
+Esse estudo permite que se observe como a (falta de) proteção se dá de forma seletiva no
+ambiente urbano. Na esteira do que anteriormente foi exposto, com base em Souza (2008), de que
+segurança pública significa, em uma palavra, a tranquilida de que os cidadãos podem usufruir em
+saber que não sofrerão uma violência a qualquer momento, verifica -se, então, nos relatos dos
+moradores da favela, que eles são os mais atingidos pelas violências que a qualquer momento
+podem irromper em suas ruas e adentrar em suas casas.
+Como já se verificou, a intervenção federal no Estado do Rio de Janeiro foi decretada com o
+fito de pôr termo ao grave comprometimento da ordem pública, já que essa situação teria se tornado
+de tal forma amplíssima, que as autoridades estatais já não logravam êxito em garantir segurança à
+população. No parecer proferido no plenário da Câmara dos Deputados, elaborado pela Comissão
+de Constituição e Justiça e de Cidadania, por meio da Mensagem ao Congresso Nacional nº 18
+(2018, p. 10) 58, quando da votação do texto do Decreto de intervenção federal, lê -se o seguinte
+trecho: “áreas que, outrora, não apresentavam índices significativos de violência passaram a ser
+consideradas como áreas de risco”.
+No entanto, como se viu, a população situada nas favelas e periferias há muito convive com
+um cenário igualmente grave. Pois, então, é de se questionar: que práticas sociais, jurídicas e
+institucionais determinam que já não se pode tolerar a violência, quando atingidos, pelo seu
+57 SOUZA, Marcelo Lopes de. Fobópole: o medo gener alizado e a militarização da questão urbana. Rio de Janeiro:
+Bertrand Brasil, 2008, p. 150.
+58 Parecer proferido no plenário da Câmara dos Deputados, elaborado pela Comissão de Constituição e Justiça e de
+Cidadania, por meio da Mensagem ao Congresso Nacional nº 18 (2018, p. 10)
+55
+aumento vertiginoso, certos locais?
+Resta evidente que recorrer-se ao viés repressivo para combater violências é uma política há
+muito desgastada e ineficaz. Apesar disso, conforme explica Souza, ante “a ‘impossibilidade’ de
+eliminar as causas profundas da boa parte da criminalidade violenta” – “impossibilidade” essa que
+o autor atribui a vários fatores, dentre eles, a falta de diálogo entre uma política de desenvolvimento
+urbano e uma de segurança pública –, “a ‘solução’ conservadora restringe-se a retirar os ‘bandidos’
+de circulação”59.
+Sendo que, no Brasil, tal solução apresenta -se envolta em toda sorte de ilegalidades, a
+exemplo da eliminação de criminosos, ao arrepio da lei, por violência policial e ação de milícias,
+ante a incapacidade do sistema penal, bem como do sistema carcerário, e da corrupção policial60.
+Além disso , deve -se reconhecer que as incursões violentas empreendidas nas áreas
+segregadas não investigam, previamente, quem são os criminosos. O resultado é que todos sofrem
+com tais medidas, que vêm a agravar a situação de pobreza e privações que muitas vezes é vivida
+pelos moradores. Conforme assinalou Nilo Batista, “pouco importa que o dano econômico e social
+produzido por um só dos grandes crimes de colarinho branco (falências fraudulentas, sonegações
+fiscais, evasão de d ivisas, etc) supere de mil vezes o somatório de todos os roubos e furtos”. A
+prática demonstra, que, no Brasil, a figura que ronda o imaginário social quanto ao criminoso indica
+que ele tem endereço e tem cor.61
+59 SOUZA, op. cit., p. 173.
+60 SOUZA, Ibid., p. 150.
+61 BATISTA, Nilo. Punidos e mal pagos: violência, justiça, segurança pública e direitos humanos no Brasil de hoje.
+Rio de Janeiro: Revan, 1990, p. 168.
+56
+5. CONCLUSÃO
+Após a pesquisa realizada, pode -se entender como ocorreu à decretação do estado de
+calamidade financeira do Estado do Rio de Janeiro e os principais pontos que influenciaram na
+referida crise.
+As ordens existentes nos entes federativos devem existir de f orma organizada e equilibrada
+para que, assim, se tenham preservados os interesses locais e a solidificação dos Estados.
+Entretanto, nem sempre as relações interfederativas são pautadas no equilíbrio. Por algumas
+vezes, o desiquilíbrio nos estados-membros pode colocar o pacto federativo em risco, ocasionando
+situações de gravidade. Quando há a possibilidade de a estrutura do Estado Federal ser atingida,
+surge a intervenção federal como o mecanismo hábil a ser utilizado para corrigir e equilibrar o
+Estado que esteja passando por adversidades.
+No período Imperial, a intervenção do governo central era permanente, pois o Brasil
+caracterizava-se como um Estado unitário. A intervenção federal, tal como concebida na teoria
+federalista, foi verdadeiramente solid ificada na Cons tituição de 1891, visto que nessa época foi
+implantada a forma federativa de Estado.
+Na história brasileira, verifica -se que a intervenção federal passou por períodos em que foi
+muito utilizada. Houve momentos da história que a intervenção federal tinha a sua utilização
+definida pelo chefe do Executivo federal, sem atender a nenhum tipo de conteúdo estabelecido pela
+Constituição Federal, como ocorreu nos períodos de totalitarismo, notadamente durante o Estado
+Novo (1937-1945) e após o golpe militar de 1964. A intervenção federal é considerada como uma
+medida extrema, devendo ser adotada com cautela e parcimônia pela União. Está sempre foi a
+intenção dos textos constitucionais democráticos. Dessa maneira, torna -se clara, a intenção do
+constituinte no sentido de que a intervenção federal não pode ser utilizada indiscriminadamente, a
+qualquer modo e qualquer tempo.
+Atualmente, a Constituição Federal de 1988 elencou as hipóteses que autorizam a intervenção
+57
+federal, bem como o procedimento de ca da uma. Essas h ipóteses são consideradas como um rol
+taxativo, entretanto há certa polissemia presente nos incisos do artigo 34 da Constituição Federal,
+o que acaba permitindo uma abertura interpretativa.
+Para que a intervenção federal não seja utilizada de forma inadequada, deve-se analisar, no
+caso concreto, a adequação da situação fática em relação ao enunciado constitucional, bem como
+a razoabilidade e a proporcionalidade da medida.
+Após a promulgação da Constituição Federal de 1988 só houve a intervenção federal em
+2018, no Estado do Rio de Janeiro . As autoridades competentes para deliberar sobre a utilização
+da intervenção federal não optaram pela mesma até esse momento . A falta de aplicabilidade da
+intervenção federal é certamente resultante do rigor de seus requisitos, o que torna sempre duvidosa
+a correção de sua colocação em prática.
+A não utilização da intervenção federal pode remeter a dilemas distintos. O Brasil possui um
+federalismo que tem o seu desenvolvimento de forma plena, equilibrado em relação à U nião,
+respeitando fervorosamente o que estabelece a Constituição de 1988, e por isso não existe a
+necessidade da intervenção federal; ou, em outro viés, o federalismo brasile iro apenas é
+considerado como uma “ficção” constitucional, visto que não se tem a sua aplicação prática, mesmo
+quando se verificam casos de grande repercussão, que colocam em risco o pacto federativo e
+parecem subsumir-se nas hipóteses elencadas na Constituição Federal de 1988.
+Após a pesquisa realizada, pode -se entender como ocorreu à decretação do estado de
+calamidade financeira do Estado do Rio de Janeiro, bem como os principais pontos que
+influenciaram para o advento da referida crise. Constata -se que a possibilidade de intervenção
+federal no Estado do Rio de Janeiro se f ez present e, pois a crise financeira e a decretação de
+calamidade pública podem ser consideradas hipóteses contempladas pelos incisos III e V do artigo
+34 da Constituição de 1988.
+Entretanto, sob um prisma crítico, tal medida de exceção teve o condão de ser utilizada como
+uma ferramenta reprodutora de ainda mais estigmas sociais e de abusos de autoridade, tendo como
+58
+resultado uma diminuição pífia nas taxas de criminalidade . O caso do Rio de Janeiro apresentou
+determinadas particularidades que revelaram as verdadeiras intenções governamentais escusas por
+trás do verdadeiro fim que deveria se destinar tal instituto.
+59
+REFERÊNCIAS
+ALMEIDA, Fernanda Dias Menezes de. Competências na Constituição de 1988. São Paulo: Atlas,
+1991.
+ATALIBA, Geraldo. República e Constituição. São Paulo: Revista dos Tribunais, 1985.
+BASBAUM, Leôncio. História sincera da República : de 1930 a 1960. 4. ed. São Paulo: Alfa -
+Ômega, 1976.
+BASTOS, Celso Ribeiro. Curso de Direito Constitucional. 21. ed. São Paulo: Saraiva, 1999.
+BATISTA, Nilo. Punidos e mal pagos: violência, justiça, segurança pública e direitos humanos no
+Brasil de hoje. Rio de Janeiro: Revan, 1990.
+CANOTILHO, José Joaquim Gomes. Direito Constitucional. 3. ed. Coimbra: Almedina, 1983.
+COMO o estado do Rio de Janeiro chegou à fa lência? DW. Dispon ível em:
+<https://www.dw.com/pt-br/como-o-estado-do-rio-de-janeiro-chegou-%C3%A0-
+fal%C3%AAncia/a-19344065>. Acesso em: 26 nov. 2019.
+CRUZ COSTA, João. Pequena história da República. 3.ed. Rio de Janeiro: Civilização Brasileira,
+1974.
+DALLARI, Dalmo de Abreu. O que são os direitos das pessoa. São Paulo: Brasiliense, 1981.
+DUCHACEK, Ivo D. Comparative federalismo: the territorial dimensiono of politics. New York:
+Halt, Rinehart & Winston, 1970.
+FERREIRA FILHO, Manoel Gonçalves. Comentários à Constituição brasileira de 1988. v. 1. São
+Paulo: Saraiva, 1990.
+. Curso de Direito Constitucional, 40. ed. Rio de Janeiro: Saraiva, 2015.
+GRAHAM, Stephen. Cidades sitiadas: o novo urbanismo militar. Tradução de Alyne Azuma. São
+Paulo: Boitempo, 2016.
+LEWANDOWSKI, Enrique Ricardo. Pressupostos materiais e formais da intervenção federal no
+Brasil. 2. ed. Belo Horizonte: Fórum, 2018.
+. apud. DALLARI, Dalmo de Abreu. Elementos de teoria geral do Estado , 2. ed. atual. São
+Paulo: Saraiva, 1998.
+. apud. CARRÉ DE MALBERG, Raymond. Contribution a la théorie génerale de l’État:
+spécialement d’aprés les donnes fournies par le droit constitutionnel français. Paris, Sirey, 1922.
+t. 2.
+60
+. apud. FREITAS, Herculano de. Direito Constitucional. São Paulo, 1965.
+. apud. SILVA, José Afonso da. O Município na Constituição de 1988. Revista dos Tribunais:
+São Paulo, 1989.
+. apud CRETELLA JÚNIOR, José. Comentários à Constituição de 1988. v. 4. Rio de Janeiro:
+Forense Universitária, 1991.
+LIPSON, Leslie. A civilização democrática. v. 1. Rio de Janeiro: Zahar, 1966.
+MEIRELLES, Hely Lopes. Direito Municipal Brasileiro. 3. ed. São Paulo: Revista dos Tribunais,
+1977.
+. Distrito administrativo brasileiro. 14. ed. São Paulo: Revista dos tribunais, 1989.
+NOVELINO, Marcelo. Direito Constitucional. 3. ed. São Paulo: Método, 2009.
+PINHO, Rodrigo César Rabello. Da org anização do Estado, dos Poderes, e histórico das
+Constituições. Coleção sinopses jurídicas v. 18. 11. ed. São Paulo: Saraiva, 2011.
+PONTES DE MIRANDA, Francisco Cavalcanti. Comentários à Constituição de 1967, com a
+Emenda n.1 de 1969. 2. ed. São Paulo: Revista dos tribunais, 1970.
+PROCURADOR-geral pede intervenção federal no Rio de Janeiro por crise no TCE -RJ. Notícias
+Supremo Tribunal Federal . Disponível: em:.
+<http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=341990> Acesso em: 27
+nov. 2019.
+RAMOS, Silvia (coord.). Intervenção federal: um modelo para não copiar. Rio de Janeiro, CESeC,
+fevereiro de 2019.
+RIO de Janeiro decreta estado de calamid ade pública. DW. Disponível em:
+<https://www.dw.com/pt-br/rio-de-janeiro-decreta-estado-de-calamidade-p%C3%BAblica/a-
+19339499>. Acesso em: 26 nov. 2019.
+SANTOS, Thandara (org.); ROSA, Marlene Inês da (colab.). Levantamento nacional de
+informações penitenciárias: INFOPEN. Atual. Junho de 2016. Brasília: Ministério da Justiça e
+Segurança Pública. Departamento Penitenciário Nacional, 2017.
+SILVA, De Plácido e. Vocabulário jurídico. v. 3. 3. ed. Rio de Janeiro: Forense, 1967.
+SILVA, José Afonso da. Curso de Direito Constitucional Positivo . 25. ed São Paulo: Malheiros,
+2005.
+SODRÉ, Nelson Werneck. Formação histórica do Brasil. São Paulo: Brasiliense, 1968.
+61
+SOUZA, Marcelo Lopes de. Fobópole: o medo generalizado e a militarização da questão urb ana.
+Rio de Janeiro: Bertrand Brasil, 2008.
+TEMER, Michel. Elementos de Direito Constitucional. 22. ed. São Paulo: Malheiros Editores.
+WILLIAMS, Jerre S. Constitutional analysis. Saint Paul: West, 1979.

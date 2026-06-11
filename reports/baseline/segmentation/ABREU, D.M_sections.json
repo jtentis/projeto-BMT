@@ -1,0 +1,154 @@
+{
+  "available_sections": [
+    "conclusion",
+    "introduction",
+    "results"
+  ],
+  "missing_sections": [],
+  "sections": {
+    "introduction": {
+      "header": "1 INTRODUÇÃO 01",
+      "start_char": 47,
+      "end_char": 48,
+      "content": "",
+      "content_length": 0
+    },
+    "results": {
+      "header": "5.1 Técnicas de preparação das amostras para análise de",
+      "start_char": 63,
+      "end_char": 66,
+      "content": "palinofácies 22",
+      "content_length": 15
+    },
+    "conclusion": {
+      "header": "10 CONCLUSÕES 123",
+      "start_char": 109,
+      "end_char": 110,
+      "content": "",
+      "content_length": 0
+    }
+  },
+  "available_doco_labels": [
+    "doco:Conclusion",
+    "doco:Discussion",
+    "doco:Introduction",
+    "doco:Methods"
+  ],
+  "missing_doco_labels": [
+    "doco:Results"
+  ],
+  "doco_sections": {
+    "doco:Introduction": [
+      {
+        "header": "1 INTRODUÇÃO 01",
+        "legacy_role": "introduction",
+        "start_char": 47,
+        "end_char": 48,
+        "content": "",
+        "content_length": 0
+      },
+      {
+        "header": "1. INTRODUÇÃO",
+        "legacy_role": "introduction",
+        "start_char": 534,
+        "end_char": 567,
+        "content": "A Bacia do Parnaíba é uma extensa bacia intracratônica preenchida principalmente por rochas paleozóicas. Localiza-se na região Nordeste do Brasil, abrangendo a quase totalidade dos estados do Maranhão e Piauí e parte do leste do Pará, oeste do Ceará e norte de Goiás e Tocantins (Figura 1). Estudos realizados pela PETROBRÁS resultaram na descoberta de indícios e acumulações subcomerciais de hidrocarbonetos. A Formação Pimenteira possui poucos estudos geológicos aprofundados, porém podemos destacar, o estudo realizado por Rodrigues (1995), que contribui na abordagem dos aspectos da geoquímica orgânica, e o trabalho de Young (2003) que contribuiu na identificação de potenciais intervalos de rocha reservatório na Formação Pimenteira através de análise estratigráfica. Os dados de análises geoquímicas obtidas por Rodrigues (1995) indicam que os níveis de maior concentração de matéria orgânica da Bacia do Parnaíba concentram-se na Formação Pimenteira. Essa formação é constituída em sua maior parte por extensos folhelhos e siltitos, com algumas camadas delgadas de arenito fino. (Góes et al, 1994). O objetivo principal deste trabalho foi a determinação de parâmetros palinofaciológicos através da identificação e quantificação dos componentes particulados da matéria orgânica e sua variação vertical ao longo das seções estudadas. Para a elaboração do presente estudo palinofaciológico foram realizadas, no laboratório de Palinofácies e Fácies Orgânica situado na Universidade Federal do Rio de Janeiro, análise de microscopia em luz branca transmitida e de luz azul incidente (fluorescência), para a identificação dos diferentes grupos e subgrupos de componentes da matéria orgânica. Foi também utilizada a técnica de Índice de Coloração dos Esporos (ICE) para a análise da maturidade térmica das amostras. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 2 - Os resultados obtidos foram aplicados à determinação das tendências de proximalidade, distribuição, maturação térmica e inferências paleoambientais. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 3 -",
+        "content_length": 2081
+      }
+    ],
+    "doco:Methods": [
+      {
+        "header": "5 MÉTODOS DE ESTUDO 22",
+        "legacy_role": null,
+        "start_char": 62,
+        "end_char": 79,
+        "content": "5.1 Técnicas de preparação das amostras para análise de palinofácies 22 5.2 Análises de palinofácies 25 5.2.1 TÉCNICAS DE MICROSCOPIA 5.2.1.1 Microscopia em luz branca transmitida 25 5.2.1.2 Microscopia em luz azul incidente - fluorescência 26 5.2.1.3 Índice de Coloração de Esporos (ICE) 26 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com iv 5.3 Obtenção dos dados 5.3.1 CONTAGEM DOS COMPONENTES ORGÂNICOS 29 5.4 Tratamento dos dados 32 5.4.1 ANÁLISES DE AGRUPAMENTO 32",
+        "content_length": 474
+      },
+      {
+        "header": "5. MÉTODOS DE ESTUDO",
+        "legacy_role": null,
+        "start_char": 958,
+        "end_char": 990,
+        "content": "A técnica de palinofácies, utilizada neste estudo, envolveu o exame qualitativo e quantitativo, tanto da matéria orgânica total quanto na distribuição das diversas classes desta nos sedimentos. As variações detectadas nos grupos e subgrupos de componentes da matéria orgânica foram utilizadas nas inferências paleoambientais. 5.1.Técnicas de preparação das amostras para análise de palinofácies As amostras analisadas foram confeccionadas pela Petrobrás, portanto a descrição do procedimento laboratorial de preparação das amostras visa apenas a apresentação e explicação de como foram realizadas. A preparação do material para análise de palinofácies utilizou os procedimentos palinológicos padrões, não oxidativos, descritos por Tyson (1995) e Mendonça Filho (1999). Este procedimento consistiu na trituração do material, utilizando moinho manual, em fragmentos de aproximadamente 5 mm. Nas etapas de isolamento da matéria orgânica utilizou-se o Sistema de Neutralização de Resíduos Ácidos desenvolvido por Assis (2000) (figura 8). As amostras foram acondicionadas em saquinhos plásticos devidamente etiquetados. Posteriormente, foram colocadas em suporte de polipropileno de dois graus com encaixes para 3/2” conectados a água de lavagem por um sistema de mainfold de torneiras de filtro ½” e caneleta de descarte de resíduos dotado de luvas de encaixe para bécher de 1000 ml. Este primeiro estágio consistiu na maceração do material por acidificação. O primeiro estágio desta técnica de maceração por acidificação iniciouse com a adição de ácido clorídrico (HCl) à 32%(aproximadamente 100 ml ou uma quantidade suficiente para recobrir todo material), a fim de eliminar a fração mineral carbonática possivelmente presente na amostra. Após 18 horas, PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 23 - descartou-se o resíduo ácido e as amostras foram lavadas em água destilada, em um processo de decantação, por três vezes consecutivas. O segundo estágio de maceração por acidificação visou a eliminação de silicatos, utilizado-se ácido fluorídrico (HF) à 40% ao material (aproximadamente",
+        "content_length": 2097
+      }
+    ],
+    "doco:Discussion": [
+      {
+        "header": "5.1 Técnicas de preparação das amostras para análise de",
+        "legacy_role": "results",
+        "start_char": 63,
+        "end_char": 66,
+        "content": "palinofácies 22",
+        "content_length": 15
+      },
+      {
+        "header": "5.2 Análises de palinofácies 25",
+        "legacy_role": "results",
+        "start_char": 66,
+        "end_char": 74,
+        "content": "5.2.1 TÉCNICAS DE MICROSCOPIA 5.2.1.1 Microscopia em luz branca transmitida 25 5.2.1.2 Microscopia em luz azul incidente - fluorescência 26 5.2.1.3 Índice de Coloração de Esporos (ICE) 26 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com iv",
+        "content_length": 242
+      },
+      {
+        "header": "5.4.1 ANÁLISES DE AGRUPAMENTO 32",
+        "legacy_role": "results",
+        "start_char": 78,
+        "end_char": 79,
+        "content": "",
+        "content_length": 0
+      },
+      {
+        "header": "9 RESULTADOS E DISCUSSÕES 46",
+        "legacy_role": "results",
+        "start_char": 91,
+        "end_char": 109,
+        "content": "9.1 Representação dos dados 46 9.1.1 DIAGRAMAS TERNÁRIOS 46 9.1.2 DENDOGRAMAS 47 9.2 Contagem dos componentes da matéria orgânica 48 9.2.1 TESTEMUNHO DE SONDAGEM VL-03 54 9.2.2 TESTEMUNHO DE SONDAGEM PM-06 57 9.2.3 TESTEMUNHO DE SONDAGEM ST-12 61 9.2.4 TESTEMUNHO DE SONDAGEM SM-IST-4 65 9.2.5 TESTEMUNHO DE SONDAGEM CT-02 69 9.2.6 TESTEMUNHO DE SONDAGEM PM-10 71 9.3 Maturidade térmica 75 9.4 Descrição dos componentes orgânicos 85 9.5 Análise de agrupamento modo –R 87 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com v 9.6 Matriz de correlação utilizando o coeficiente r-Pearson 91 9.7 Inferências paleoambientais 93",
+        "content_length": 622
+      },
+      {
+        "header": "9.5 Análise de agrupamento modo –R 87",
+        "legacy_role": "results",
+        "start_char": 104,
+        "end_char": 107,
+        "content": "PDF Creator - PDF4Free v2.0 http://www.pdf4free.com v",
+        "content_length": 53
+      },
+      {
+        "header": "5.2. Análises de palinofácies",
+        "legacy_role": "results",
+        "start_char": 1045,
+        "end_char": 1232,
+        "content": "A análise de palinofácies é uma técnica na qual o operador tenta identificar os componentes palinológicos individuais (fitoclastos, palinomorfos e matéria orgânica amorfa) e suas proporções relativas em qualquer uma das amostras, atentando particularmente ao seu tamanho, forma e estado de preservação (Tyson, 1993; 1995). Isto pode fornecer informações sobre o tipo de aporte terrestre, condições redox, tendências transgressiva/regressiva e pode, também, permitir a subdivisão de unidades litologicamente uniformes. 5.2.1. TÉCNICAS DE MICROSCOPIA O principal objetivo da microscopia é a caracterização da origem da matéria orgânica, a determinação das percentagens relativas e o estado de preservação dos diferentes constituintes que compõem a matéria orgânica total. A combinação do procedimento de identificação visual dos componentes orgânicos em luz branca transmitida, e a observação em fluorescência destes, foi importante para a detecção da presença de palinomorfos significativos, os quais poderiam passar desapercebidos durante o procedimento de contagem. Além disso, foi realizado o Índice de Coloração dos Esporos (ICE), que tem como objetivo a verificação do estágio da maturação térmica da amostra. As análises microscópicas foram realizadas no Laboratório de Palinofácies, Setor de Paleontologia e Estratigrafia, Departamento de Geologia, Instituto de Geociências. 5.2.1.1. Microscopia em luz branca transmitida A análise microscópica foi efetuada sobre lâminas organopalinológicas em microscópio Zeiss modelos AXIOSKOP 2 PLUS, oculares com aumento de 10x e objetivas de 20 e 40x de aumento. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 26 - 5.2.1.2. Microscopia em luz azul incidente - fluorescência A matéria orgânica freqüentemente mostra uma fluorescência natural quando excitada com luz azul ou ultravioleta de uma lâmpada de mercúrio. Isto é chamado “autofluorescência”, para distinguir da fluorescência produzida pelo tingimento artificial com componentes fluorcromados, como os utilizados em microbiologia (Tyson, 1995). Cada lâmina organopalinológica foi examinada em luz azul incidente (fluorescência) utilizando microscópio Zeiss modelo AXIOSKOP 2 PLUS com fonte de fluorescência com lâmpada de mercúrio HBO-100W, em aumento de 20X (ou 40X para um exame particular mais detalhado). Tal exame foi realizado primeiramente para determinar o estado de preservação dos componentes orgânicos presentes nas amostras (principalmente matéria orgânica amorfa e palinomorfos). 5.2.1.3. Índice de Coloração de Esporos (ICE) A coloração original de alguns componentes orgânicos das rochas sedimentares, tais como esporomorfos (esporos e grãos de pólen), é alterada de acordo com o efeito térmico a que foram submetidos, tornando-se mais escuros com o aumento da temperatura. A atribuição de valores numéricos a estas variações de coloração constitui o Índice de Coloração de Esporos (ICE), a partir do qual são desenvolvidos estudos de maturação térmica (Figura 5.1). Gutjahr (1966) realizou as primeiras pesquisas para utilizar a variação de coloração de esporos e grãos de pólen como uma indicação do estágio de maturação térmica, observando uma variação na coloração dessas partículas desde o amarelo até o marrom escuro, aplicando o termo “carbonização” para este processo de alteração térmica. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 27 - Staplin (1969) introduziu a técnica do Índice de Alteração Térmica (IAT), a qual é baseada nas mudanças de coloração da matéria orgânica em relação ao nível de evolução térmica dos sedimentos. O IAT apresenta uma escala de 1 a 5. Em 1971, Correia constatou que as variações de colorações dos esporos e grãos de pólen, com o aumento da temperatura, eram mais favoráveis para uma correlação. O Índice de Coloração de Esporos (ICE), utilizado neste trabalho, foi desenvolvido por Barnard et al. (1981), e apresenta uma escala de 1 a 10 em intervalos de 0,5. Foi designado para dar linearidade com o aumento de profundidade e temperatura, pronunciado pela mudança de coloração (Figura 11). PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 28 - Figura 11: Escala de ICE, Barnard et al. (1981), padrão Robertson Research. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 29 - 5.3.Obtenção dos dados 5.3.1. CONTAGEM DOS COMPONENTES ORGÂNICOS Fez-se à cobertura da lâmina utilizando um retículo cruzado graduado em oculares de 10X e objetiva de 20X de aumento. Foram registradas somente aquelas partículas que passaram diretamente sobre o retículo. Os dados de contagem foram registrados manualmente em folhas de contagem (tabela 1), obedecendo à classificação proposta (tabela 2). Todas as partículas foram contadas, exceto aquelas com tamanho inferior a 10 µm (retículo graduado) e qualquer contaminante (reconhecidos pela cor, relevo ou forma), sendo que os fragmentos de palinomorfos, não identificáveis, com menos da metade da forma e tamanho original, foram ignorados. Foram realizadas contagens de no mínimo 300 pontos e máximo 500 pontos para os grupos de componentes da matéria orgânica, sendo que, em algumas amostras, isto não foi possível pela falta de material orgânico. Utilizou-se o sistema combinado de microscopia em luz branca transmitida e ultravioleta incidente (fluorescência), para a caracterização e classificação do material orgânico proposto. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 30 - Tabela 1: Ficha utilizada para a contagem dos componentes orgânicos. Amostra: FITOCLASTOS Opaco Não-opaco Cutícula Membrana Spongiophyton MOA PALINOMORFOS Esporomorfo Esporo Microplâncton Marinho Prasinófitas Acritárca Água doce Botryococcus Zoomorfos Escolecodonte Quitinozoários PDF Creator - PDF4Free v2.0 http://www.pdf4free.com Tabela 2: Classificação geral dos principais componentes da matéria orgânica (baseado em Tyson 1995; Mendonça Filho, 1999; Carvalho; 2001; Mendonça Filho et.al.,2002) GRUPOS & SUBGRUPOS ORIGEM DESCRIÇÃO Fitoclastos Opaco Partícula de cor preta de forma quadrática. Sem bioestruturas internas. Não-opaco Derivado de tecidos lenhosos de vegetais Partícula de cor marrom, podendo ser ou não bioestruturada. Cutícula Derivado de folhas de vegetais superiores São partículas de coloração amarelo pálido a marrom claro, delgadas em forma de lâminas com contornos nítidos, podendo demonstrar boas estruturas celulares Membrana Não celular São partículas de coloração amarelo pálido, apresentando-se comumente com aparência “desbotada” e transparente Spongiophyton Não se sabe a origem Partícula de cor amarelada, relevo alto, normalmente bem maior do que os outros componentes da MO. Data o período Devoniano Matéria Orgânica Amorfa Material orgânico derivado de ataque microbiológico Material não estruturado e com formato variado; cor: amarelo laranja-vermelho; laranja algumas vezes inclusões como palinomorfos, fitoclastos, pirita, etc; fluorescente a não Palinomorfos Esporomorfo Esporos Palinomorfo terrestre produzido por pteridófitos, briófitas e fungos. Palinomorfo de forma triangular ou circular, apresentando a marca trilete (“Y”) ou monolete (uma cicatriz) Ornamentação variada. Prasinófitas Microfóssies produzidos por pequenas algas quadriflageladas Maioria, como Tasmanites, são esféricas; diâmetro 50 à 2000 µm. Pré-CambrianoMicroplâncton marinho Acritárca Origem incerta Possui forma variada, econtrou forma de um núcleo e diversos tentáculos. Tem uma aparencia \"estrelada\". Microplâncton de água doce Botryococcus Alga Chlorococcale Colônias globular irregular; tamanho 30 a 2000 µm, algumas vezes com vários lóbulos; laranja marrom. Carbonífero Escoleocodonte É reconhecido principalmente por possuir um esqueleto em forma de \"serrote\" . Cor: marromZoomorfos Quitinozoários Origem Animal Possuem uma coloração marrom e forma de garrafa. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 32 - 5.4.Tratamento dos dados Após a contagem das partículas orgânicas foi realizado tratamento estatístico com os dados obtidos. Estes dados foram recalculados para valores percentuais relativos aos grupos e subgrupos da matéria orgânica e submetidos a análises de agrupamento. 5.4.1. ANÁLISES DE AGRUPAMENTO A análise de agrupamento procura agrupar amostras com as mesmas características bióticas e abióticas, ou associar espécies em comunidade, de acordo com o objetivo do seu trabalho (Valentin, 2000) e tem larga aplicação em estudo de paleocomunidades. No presente estudo, a análise de agrupamento foi empregada para reconhecer o grau de similaridade entre os componentes da matéria orgânica (modo R) podendo assim reuni-los em conjuntos com maior similaridade. Deste modo, foi possível determinar a abundância dos grupos de componentes da matéria orgânica e estabelecer relações entre as análises de palinofácies. Além disso, foi empregado o coeficiente de correlação linear r de Pearson ( rPearson), um dos mais utilizados para quantificar a dependência linear entre os elementos e, assim determinar a matriz de correlação e identificar a relação entre os componentes orgânicos. O coeficiente r-Pearson é adimensional e expressa exclusivamente a intensidade linear entre as variáveis. Este varia, em valor absoluto, entre 0 (nenhuma relação linear) e 1 (relação linear perfeita, seja direta para r = +1, seja inversa para r = -1 (Valentin, 2000). Os resultados das análises de agrupamento são representados por dendogramas, que são definidos como um diagrama ramificado que contém entidades reunidas por algum critério (Wiley, 1981). PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 33 -",
+        "content_length": 9547
+      },
+      {
+        "header": "5.4.1. ANÁLISES DE AGRUPAMENTO",
+        "legacy_role": "results",
+        "start_char": 1211,
+        "end_char": 1232,
+        "content": "A análise de agrupamento procura agrupar amostras com as mesmas características bióticas e abióticas, ou associar espécies em comunidade, de acordo com o objetivo do seu trabalho (Valentin, 2000) e tem larga aplicação em estudo de paleocomunidades. No presente estudo, a análise de agrupamento foi empregada para reconhecer o grau de similaridade entre os componentes da matéria orgânica (modo R) podendo assim reuni-los em conjuntos com maior similaridade. Deste modo, foi possível determinar a abundância dos grupos de componentes da matéria orgânica e estabelecer relações entre as análises de palinofácies. Além disso, foi empregado o coeficiente de correlação linear r de Pearson ( rPearson), um dos mais utilizados para quantificar a dependência linear entre os elementos e, assim determinar a matriz de correlação e identificar a relação entre os componentes orgânicos. O coeficiente r-Pearson é adimensional e expressa exclusivamente a intensidade linear entre as variáveis. Este varia, em valor absoluto, entre 0 (nenhuma relação linear) e 1 (relação linear perfeita, seja direta para r = +1, seja inversa para r = -1 (Valentin, 2000). Os resultados das análises de agrupamento são representados por dendogramas, que são definidos como um diagrama ramificado que contém entidades reunidas por algum critério (Wiley, 1981). PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 33 -",
+        "content_length": 1390
+      },
+      {
+        "header": "9. RESULTADOS E DISCUSSÕES",
+        "legacy_role": "results",
+        "start_char": 1576,
+        "end_char": 1706,
+        "content": "Foram analisadas um total de 44 lâminas organopalinológicas. Das 44 lâminas analisadas foram realizadas contagens de partículas orgânicas em somente 38 lâminas. Isto foi devido à ausência de material orgânico em uma lamina (CT-02.51) do poço CT-02 e devido a total impossibilidade de se fazer a contagem das cinco laminas do poço CT-01 por apresentarem um elevado estágio de evolução térmica, não podendo se fazer o reconhecimento dos componentes orgânicos. 9.1. Representação dos dados 9.1.1. DIAGRAMAS TERNÁRIOS De acordo com Tyson (1993, 1995), os diagramas ternários (triangulares) são formas simples de representação gráfica, porém de um significado extremamente profícuo de apresentação de dados (percentagens) de palinofácies. Mesmo utilizando dados relativamente simples, os resultados, quando plotados no diagrama ternário apropriado, podem demonstrar um significante potencial para a discriminação de diferenças temporal e espacial em ambientes deposicionais. Os dados percentuais da assembléia da matéria orgânica (parâmetros obtidos para os grupos fitoclasto, palinomorfo e matéria orgânica amorfa) para o conjunto total de amostras analisadas foram apresentados sob a forma de tabelas e de uma série de diagramas ternários. Nos diagramas ternários, o total dos três componentes plotados foram normalizados à 100%, de acordo com Tyson (1993; 1995). Seguindo a convenção proposta por Tyson (1989; 1993; 1995), todos os diagramas são orientados de forma que os componentes que são indicadores de maior proximidade terrestre (proximais / terrestres) são colocados no ápice dos PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 47 - diagramas. No vértice inferior esquerdo do diagrama, são colocados os componentes que apresentam uma associação positiva com ambientes distais ou redutores. Este procedimento permite uma visão geral da natureza dos resultados, sua variabilidade e a presença das principais tendências apresentadas pelos grupos de dados obtidos. 9.1.2. DENDROGRAMAS Os resultados das análises de agrupamento modo R foram representados por dendrogramas. Após a obtenção dos dados das contagens foi efetuado um tratamento estatístico através do programa Excel 97. Os diagramas foram construídos utilizando os programasMinpet 2.02 e Corel Draw 9.0 e foram construídos com os dados percentuais relativos aos diferentes grupos de componentes da matéria orgânica (total de fitoclastos, total de palinomorfos, total de matéria orgânica amorfa - MOA, esporos, prasinófitas, acritárcas etc). Estes dados foram recalculados para valores percentuais e submetidos a análises de agrupamento utilizando o software Statistica for Windows versão 4.3. PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 48 - 9.2.Contagem dos componentes da matéria orgânica No poço VL-03 observou-se o domínio do grupo palinomorfos no total de componentes da matéria orgânica (50,79%), com os fitoclastos constituindo o segundo grupo em dominância (34,35%), e subordinadamente MOA com valores percentuais médios de 14,86% (figura 12 e tabelas 4). VL-03 Fitoclasto MOA Palinomorfo Figura 12: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes orgânicos da matéria orgânica do poço VL-03. Tabela 4: Valores percentuais dos 3 principais grupos da matéria orgânica do poço VL-03. Poço VL-03 Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%) VL03.01 21,21 57,67 9,67 32,67 100,00 VL03.02 26 57,19 25,54 17,27 100,00 VL03.04 47,2 47,89 40,85 11,27 100,00 VL03.03 51,4 40,00 53,10 6,90 100,00 VL03.05 52,9 58,01 32,38 9,61 100,00 VL03.06 58,3 34,14 51,03 14,83 100,00 VL03.07 64,15 60,66 27,87 11,48 100,00 Média 50,79 34,35 14,86 100,00 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 49 - No poço PM-06 observou-se o domínio do grupo palinomorfos com 48,72% do total da matéria orgânica, a MOA constitui o segundo grupo em dominância (36.72%), e o grupo dos fitoclastos possui valores percentuais médios de 14,56% (figura 13 e tabela 5). PM-06 Fitoclasto PalinomorfoMOA Figura 13: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes orgânicos da matéria orgânica do poço PM-06. Tabela 5: Valores percentuais dos 3 principais grupos da matéria orgânica do poço PM-06. Poço PM-06 Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%) PM06.08 4,3 26,01 4,73 69,26 100,00 PM06.09 16,15 20,77 5,75 73,48 100,00 PM06.10 16,75 54,48 29,31 16,21 100,00 PM06.11 19,2 68,58 16,22 15,20 100,00 PM06.12 28,36 73,78 16,78 9,44 100,00 Média 48,72 14,56 36,72 100,00 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 50 - No poço ST-12 observou-se o domínio do grupo palinomorfos com 59.27% do total da matéria orgânica, e os valores de MOA e fitoclasto possuem média percentual semelhante, 21.20% e 19.52%, respectivamente. (figura 14 e tabela 6) ST-12 Fitoclasto PalinomorfoMOA Figura 14: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes orgânicos da matéria orgânica do poço ST-12. Tabela 6: Valores percentuais dos 3 principais grupos da matéria orgânica do poço ST-12. Poço ST-12 Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%) ST12.13 34,25 39,48 27,31 33,21 100,00 ST12.14 47,85 78,86 11,74 9,40 100,00 ST12.15 49,5 61,32 21,40 17,28 100,00 ST12.16 50,9 51,99 27,08 20,94 100,00 ST-12.17 54,3 64,73 10,08 25,19 100,00 Média 59,27 19,52 21,20 100,00 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 51 - No poço SM-IST-4 a média percentual dos palinomorfos e MOA foi aproximadamente a mesma, 46,96% e 46,61% respectivamente. O grupo fitoclasto aparece com apenas 6,43% do total da matéria orgânica (figura 15 e tabela 7). SM-IST-4 Fitoclasto MOA Palinomorfo Figura 15: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes orgânicos da matéria orgânica do poço SM-IST-4. Tabela 7: Valores percentuais dos 3 principais grupos da matéria orgânica do poço SM-IST-4. Poço SM-IST-4 Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%) SM-IST4.18 20 77,85 8,05 14,09 100,00 SM-IST4.19 21,89 59,67 7,00 33,33 100,00 SM-IST4.20 27,49 54,10 10,16 35,74 100,00 SM-IST4.21 28,07 15,79 3,62 80,59 100,00 SM-IST4.22 28,89 27,39 3,30 69,31 100,00 Média 46,96 6,43 46,61 100,00 PDF Creator - PDF4Free v2.0 http://www.pdf4free.com - 52 - No poço CT-02 observou-se o domínio do grupo palinomorfos com 53,40%, o grupo dos fitoclastos constitui o segundo em dominância (36.96%), e a MOA possui valores percentuais médios de 9,64% do total da matéria orgânica (figura",
+        "content_length": 6513
+      }
+    ],
+    "doco:Conclusion": [
+      {
+        "header": "10 CONCLUSÕES 123",
+        "legacy_role": "conclusion",
+        "start_char": 109,
+        "end_char": 110,
+        "content": "",
+        "content_length": 0
+      }
+    ]
+  }
+}

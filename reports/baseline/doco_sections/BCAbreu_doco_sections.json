@@ -1,0 +1,62 @@
+{
+  "document_id": "BCAbreu",
+  "available_doco_labels": [
+    "doco:Conclusion",
+    "doco:Introduction",
+    "doco:Methods",
+    "doco:Results"
+  ],
+  "missing_doco_labels": [
+    "doco:Discussion"
+  ],
+  "doco_sections": {
+    "doco:Introduction": [
+      {
+        "header": "1. INTRODUÇÃO",
+        "legacy_role": "introduction",
+        "start_char": 91,
+        "end_char": 115,
+        "content": "O objeto de pesquisa da presente monografia se debruça sobre a análise jurídica do instituto da intervenção federal no ordenamento jurídico Brasil e quais os impactos institucionais, sociais, políticos e jurídicos decorrentes da sua decretação no Estado do Rio de Janeiro no ano de 2018. Lembrando que, desde a promulga ção da Constituição da Repúb lica Federativa do Brasil de 1988, foi a primeira situação em que o referido instituto foi implementado. Sob tal perspectiva, serão examinadas, conjuntamente, as transformações e aspectos do federalismo; o tratamento dado à intervenção federal no contexto das demais constituições republicanas contidas ao longo da história no Brasil; a Intervenção Federal no campo do Direito Comparado; os efeitos e impactos da Intervenção Federal no município Rio de Janeiro; a diferenciação entre a Intervenção Federal e out ras formas de Intervenção da União e do Estado (Estado de sítio, por exemplo) e estado de exceção (intervenção militar, por exemplo); as abordagens sobre os pressupostos materiais e formais da intervenção na constituição de 1988. É possível identificar, nesse contexto, que o tema da intervenção federal passou a ganhar maior repercussão e abordagem recentemente, principalmente com o advento da atual intervenção da União sobre o estado do Rio de Janeiro em 2018. Assim, procurar-se-á fomentar as discussões que cerceiam o instituto, procurando esclarecer se existe algum vínculo entre os institutos supracitados, quais as finalidades de cada um, as razões pelas quais a intervenção deve ser decretada, os desdobramentos que tomou tal instituto de acordo com a ev olução do federalismo até a sua aplicação no Rio de Janeiro. Tudo isso será abordado, inicialmente, sobre um viés cronológico e histórico, seguindo a explicação jurídica dos pressupostos desse instituto e as suas consequências quanto ao caso específico de implementação no caso do Rio de Janeiro. 8",
+        "content_length": 1924
+      }
+    ],
+    "doco:Methods": [
+      {
+        "header": "8 NOVELINO, Marcelo. Direito Constitucional. 3. ed. São Paulo: Método, 2009, p. 530/531.",
+        "legacy_role": null,
+        "start_char": 232,
+        "end_char": 258,
+        "content": "12 Nesse sentido, compreende-se que as constituições dos Estados Federais têm competência para tratar de tudo àquilo que não pertence à União. Já está, terá a sua competência restrita para tratar somente sobre aquilo que está previsto expressamente pela constituição federal. Restando, portanto, aos estados-membros, o poder residual.9 A atribuição de rendas próprias às carrega consigo o condão de ser indispensável aos entes da federação, que exercem a sua auto nomia dentro de uma esfera de competência própria, serem contemplados com a necessária contrapartida financeira para fazer face às obrigações decorrentes do exercício pleno de suas atribuições. E, modernamente, fala -se, inclusive, em autonomia financeira.10 Para classificar os diferentes tipos de federalismo de f orma didática estarão expostas nessa obra algumas das suas atribuições mais populares, apesar da vasta delimitação teórica sobre o assunto. Dessa forma, podem-se dividir os tipos de federalismo da seguinte forma: Quanto a Formação história ou Surgimento: Agregação: Estados independentes deixam de lado sua soberania, agregam-se formando um novo Estado Federado. É o caso dos Estados Unidos. Desagregação: Ocorre quando determinado Estado unitário decide se descentralizar. É o caso do Brasil. Quanto ao modo de separação de atribuições ou repartição de competências: Dual: A separação de competências entre os entes federados é rígida e não existe cooperação entre ambos. Os Estados Unidos em seu estágio inicial. Cooperativo: Existe uma aproximação entre os entes federados que atuam em conjunto. Como acontece no Brasil 9 V. sobre o conceito WILLIAMS, Jerre S. Constitutional analysis. Saint Paul: West, 1979. p. 146",
+        "content_length": 1699
+      }
+    ],
+    "doco:Results": [
+      {
+        "header": "16 Como, por exemplo, no concernente à competência que tem a União para organizar e manter o Poder Judiciário no",
+        "legacy_role": "results",
+        "start_char": 365,
+        "end_char": 393,
+        "content": "Distrito Federal no Distrito Federal, conforme o artigo 21 XIII, da CF.; v. sobre o assunto Enrique Ricardo Lewandoski, Distrito Federal brasileño em el contexto del régimen federal. In: ROCA, Ricardo Pablo [et a]l. Estatutos Jurídicos de las Capitalesy Áreas Metropolitanas. Bogotá: Universidad Externado de Colombia, 1991. p. 45-71. 17 autoproclamarem “soberanos”. Tal período ficou concebido como “República Velha”, e foi interrompido pela revolução de 1930, caracterizada como um golpe de Estado como intuito destituir o governo vigente à época , colocando fim às oligarquias regionais do Brasil e dando força máxima a centralização do poder político-institucional. Essa revolução abriu as portas para a chegada de u m processo de industrialização. Acompanhado disso, sensíveis acontecimentos políticos também ocorreram, como a revolução constitucionalista armada de 1932, em São Paulo, e as severas mudanças socioeconômicas na conjuntura do p aís. Dessa forma, não restou outro efeito senão o colapso do federalismo que vigorava até então. Entre 1930 e 1934, data do advento da nova constituição, os Estados eram governados pela figura do interventor do Governo Federal. 17 Porém, a partir da promul gação da constituição de 1934, marcada pela pressão por parte dos constitucionalistas, sendo consequência direta da revolução constitucionalista de 1932, serviu para restabelecer a democracia e o pacto federativo. Uma nova Assembleia Constituinte foi conv ocada em 1933 para delimitar essa nova constituição que veio para substituir a anterior de 1891. Essa reforma serviu para criar melhorias e novas condições de vida e cidadania para a população, inaugurando novas lei s afetas à educação, trabalho, saúde e cultura. Em 1937 uma nova constituição Republicana foi instaurada, evidenciando o que ficou conhecido como “Estado Novo” e a ditadura de Getúlio Vargas. Essa carta magna ficou também conhecida como “Polaca”, uma vez que foi inspirada na constituição da Polônia. Tal período ficou caracterizado pela centralização de poderes em face do Poder Executivo, retomando, portanto, os traços do unitarismo, alterando, inclusive, a própria estrutura estatal. O",
+        "content_length": 2166
+      },
+      {
+        "header": "55 RAMOS, Silvia (coord.). Intervenção federal: um modelo para não copiar. Rio de Janeiro, CESeC, fevereiro de",
+        "legacy_role": "results",
+        "start_char": 1348,
+        "end_char": 1350,
+        "content": "2019, p. 04.",
+        "content_length": 12
+      }
+    ],
+    "doco:Conclusion": [
+      {
+        "header": "5. CONCLUSÃO",
+        "legacy_role": "conclusion",
+        "start_char": 1405,
+        "end_char": 1454,
+        "content": "Após a pesquisa realizada, pode -se entender como ocorreu à decretação do estado de calamidade financeira do Estado do Rio de Janeiro e os principais pontos que influenciaram na referida crise. As ordens existentes nos entes federativos devem existir de f orma organizada e equilibrada para que, assim, se tenham preservados os interesses locais e a solidificação dos Estados. Entretanto, nem sempre as relações interfederativas são pautadas no equilíbrio. Por algumas vezes, o desiquilíbrio nos estados-membros pode colocar o pacto federativo em risco, ocasionando situações de gravidade. Quando há a possibilidade de a estrutura do Estado Federal ser atingida, surge a intervenção federal como o mecanismo hábil a ser utilizado para corrigir e equilibrar o Estado que esteja passando por adversidades. No período Imperial, a intervenção do governo central era permanente, pois o Brasil caracterizava-se como um Estado unitário. A intervenção federal, tal como concebida na teoria federalista, foi verdadeiramente solid ificada na Cons tituição de 1891, visto que nessa época foi implantada a forma federativa de Estado. Na história brasileira, verifica -se que a intervenção federal passou por períodos em que foi muito utilizada. Houve momentos da história que a intervenção federal tinha a sua utilização definida pelo chefe do Executivo federal, sem atender a nenhum tipo de conteúdo estabelecido pela Constituição Federal, como ocorreu nos períodos de totalitarismo, notadamente durante o Estado Novo (1937-1945) e após o golpe militar de 1964. A intervenção federal é considerada como uma medida extrema, devendo ser adotada com cautela e parcimônia pela União. Está sempre foi a intenção dos textos constitucionais democráticos. Dessa maneira, torna -se clara, a intenção do constituinte no sentido de que a intervenção federal não pode ser utilizada indiscriminadamente, a qualquer modo e qualquer tempo. Atualmente, a Constituição Federal de 1988 elencou as hipóteses que autorizam a intervenção 57 federal, bem como o procedimento de ca da uma. Essas h ipóteses são consideradas como um rol taxativo, entretanto há certa polissemia presente nos incisos do artigo 34 da Constituição Federal, o que acaba permitindo uma abertura interpretativa. Para que a intervenção federal não seja utilizada de forma inadequada, deve-se analisar, no caso concreto, a adequação da situação fática em relação ao enunciado constitucional, bem como a razoabilidade e a proporcionalidade da medida. Após a promulgação da Constituição Federal de 1988 só houve a intervenção federal em 2018, no Estado do Rio de Janeiro . As autoridades competentes para deliberar sobre a utilização da intervenção federal não optaram pela mesma até esse momento . A falta de aplicabilidade da intervenção federal é certamente resultante do rigor de seus requisitos, o que torna sempre duvidosa a correção de sua colocação em prática. A não utilização da intervenção federal pode remeter a dilemas distintos. O Brasil possui um federalismo que tem o seu desenvolvimento de forma plena, equilibrado em relação à U nião, respeitando fervorosamente o que estabelece a Constituição de 1988, e por isso não existe a necessidade da intervenção federal; ou, em outro viés, o federalismo brasile iro apenas é considerado como uma “ficção” constitucional, visto que não se tem a sua aplicação prática, mesmo quando se verificam casos de grande repercussão, que colocam em risco o pacto federativo e parecem subsumir-se nas hipóteses elencadas na Constituição Federal de 1988. Após a pesquisa realizada, pode -se entender como ocorreu à decretação do estado de calamidade financeira do Estado do Rio de Janeiro, bem como os principais pontos que influenciaram para o advento da referida crise. Constata -se que a possibilidade de intervenção federal no Estado do Rio de Janeiro se f ez present e, pois a crise financeira e a decretação de calamidade pública podem ser consideradas hipóteses contempladas pelos incisos III e V do artigo",
+        "content_length": 3997
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "document_id": "monopoli10017560",
+  "available_doco_labels": [
+    "doco:Discussion"
+  ],
+  "missing_doco_labels": [
+    "doco:Introduction",
+    "doco:Results",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Discussion": [
+      {
+        "header": "2. Critério de preparação e avaliação de respostas a emergências",
+        "legacy_role": "results",
+        "start_char": 509,
+        "end_char": 512,
+        "content": "radiológicas e preparação de apoio a centrais nucleares (NRC -NUREG 0654);",
+        "content_length": 74
+      }
+    ]
+  }
+}

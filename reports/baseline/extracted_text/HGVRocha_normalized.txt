@@ -1,0 +1,1314 @@
+HIGOR GABRIEL VIANNA DA ROCHA
+IDENTIFICAÇÃO E CARACTERIZAÇÃO DE BACTÉRIAS MARINHAS
+DEGRADADORAS DE HIDROCARBONETOS DO PETRÓLEO
+Monografia apresentada ao Instituto de
+Microbiologia Paulo de Góes, da
+Universidade Federal do Rio de Janeiro,
+como pré-requisito para a obtenção do grau
+de Bacharel em Ciências Biológicas:
+Microbiologia e Imunologia.
+INSTITUTO DE MICROBIOLOGIA PAULO DE GÓES
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO RIO DE
+JANEIRO
+DEZEMBRO / 2025
+ii
+Trabalho realizado no Departamento de
+Microbiologia Geral, do Instituto de
+Microbiologia Paulo de Góes, UFRJ, sob a
+orientação da Professora Lucy Seldin e
+coorientação da Doutora Karen Caroline
+Ferreira Santaren.
+iii
+FICHA CATALOGRÁFICA
+iv
+FOLHA DE APROVAÇÃO
+v
+AGRADECIMENTOS
+É impossível encerrar esta etapa sem agradecer a todos que, de alguma forma, fizeram parte da
+minha trajetória. Ao longo desses quatro anos, cada gesto de apoio, direto ou indireto, grande ou pequeno,
+ajudou a sustentar o caminho que me trouxe até aqui. Este trabalho carrega um pouco de cada uma dessas
+presenças.
+Primeiramente, agradeço às três mulheres da minha vida. À minha mãe, que sempre investiu em
+mim, dedicando anos de luta para nos oferecer dignidade e conforto dentro do possível. À minha irmã,
+cuja presença eu não imagino perder, que me arranca risos nos dias difíceis e está sempre disposta a me
+ajudar. E à minha avó, sem a qual não existiriam minha mãe, minha irmã e nem eu. Uma mulher
+incansável, que fez e faz tudo pelos filhos e netos e que é a razão pela qual eu desejo conquistar meu lugar
+no mundo. Eu amo profundamente cada uma de vocês.
+Agradeço também aos amigos que conheci durante o ensino médio no IFRJ, que caminharam
+ao meu lado não apenas no período em que descobri m inha paixão pela ciência, enquanto ainda
+cursávamos o técnico em química, mas também na UFRJ. Mesmo que estivéssemos distantes das mesmas
+salas de aula, cada um foi fundamental no meu apoio emocional, especialmente Camille, Samuel e Fabi,
+além dos outros que, ao lerem estas palavras, saberão que fazem parte disso. Entre encontros aleatórios
+pelos corredores, chopadas e idas ao Cobal, construímos memórias que jamais esquecerei (e outras que
+vocês jamais vão me deixar esquecer).
+Entre as muitas pessoas incríveis que cruzaram meu caminho ao longo da graduação,
+algumas se tornaram particularmente especiais: Yasmin, Luana, Matheus e Pâmella. A presença
+de vocês transformou esses quatro anos em algo muito mais leve, gentil e possível. Cada
+conversa, cada risada e cada silêncio compartilhado ajudou a tornar o peso do percurso menor.
+De certa forma, foi inesperado encontrar em vocês uma parte tão importante da minha história.
+Vocês estiveram comigo nas vitórias e, sobretudo, nas muitas derrotas. Nada disso teria sido
+possível sem vocês, e sou muito grato por ter vivido essa etapa ao lado de cada um.
+Durante essa caminhada, tive o privilégio de desenvolver minha iniciação científica
+no LGM, onde realizei grande parte do trabalho que culminou neste projeto. Agradeço
+imensamente à professora Lucy por ter acreditado em mim desde o início, por ter me dado essa
+chance no laboratório e, principalmente, por ter tido muita paciência comigo (e haja paciência).
+Agradeço também à doutora Karen, a melhor coorientadora que eu poderia ter desejado, sempre
+cuidadosa, compreensiva e paciente, e que se tornou um verdadeiro exemplo para mim na vida
+acadêmica. Minha gratidão se estende à Janinha, sempre pronta a ajudar de um jeito simples e
+tranquilo, e a todos do LGM, cuja convivência e ensinamentos contribuíram muito para o meu
+aprendizado.
+Além disso, tive a oportunidade de conhecer no LGM duas pessoas incríveis que se
+tornaram amigas muito queridas, Larissa e Helena. Agradeço à Larissa por todo apoio, pelos
+momentos de descontração e pelas risadas (algumas com você e outras de você, no melhor
+sentido possível) que me ajudaram nos dias mais difíceis. Sua trajetória longa e intensa, que
+acompanhei de perto e na qual também pude ajudar, foi uma inspiração para mim, e tudo isso
+sempre aconteceu de forma muito recíproca. À Helena, agradeço pela amizade que, mesmo
+começando mais tarde, rapidamente se tornou essencial. Você se tornou uma presença
+importante, e nos dias em que coincidíamos na rotina (mesmo não sendo tão frequentes),
+aparecia com um “tá tudo bem?” e um bom humor que sempre marcava o momento.
+Agradeço aos membros da banca por aceitarem avaliar este trabalho e por dedicarem
+seu tempo e conhecimento para suas valiosas contribuições.
+Por fim, agradeço às agências de fomento CNPq, CAPES e FAPERJ pelo apoio
+financeiro e institucional, que tornou possível a realização deste trabalho.
+vi
+RESUMO
+HIGOR GABRIEL VIANNA DA ROCHA
+IDENTIFICAÇÃO E CARACTERIZAÇÃO DE BACTÉRIAS MARINHAS
+DEGRADADORAS DE HIDROCARBONETOS DO PETRÓLEO
+Orientadora: Lucy Seldin
+Coorientadora: Karen Caroline Ferreira Santaren
+Resumo da Monografia apresentada no Instituto de Microbiologia Paulo de Góes da
+Universidade Federal do Rio de Janeiro, como parte dos requisitos necessários para
+obtenção do título de Bacharel em Ciências Biológicas: Microbiologia e Imunologia e
+aprovação no RCS Trabalho de Conclusão de Curso.
+A exploração intensa de petróleo, especialmente em ambientes marinhos, tem contribuído para
+eventos de contaminação ambiental de diferentes magnitudes. Os hidrocarbonetos policíclicos
+aromáticos (HPA) de petróleo apresentam elevado potencial tóxico, mutagênico e
+carcinogênico, além de persistirem no ambiente, gerando riscos ao ecossistema e à saúde
+humana. Entre 2019 e 2023, foram registradas 270 ocorrências de descargas de óleo cru no
+Brasil, evidenciando a necessidade de ferramentas eficazes para a descontaminação e o
+monitoramento desses ambientes. Os microrganismos desempenham papel crucial na
+degradação de hidrocarbonetos de petróleo e na produção de bioemulsificantes e
+biossurfactantes, contribuindo para a remoção natural desses poluentes. Neste estudo, buscouse selecionar estirpes bacterianas com potencial para futura aplicação em estudos de
+biorremediação e biomonitoramento. Para isso, foram isoladas e caracterizadas estirpes
+presentes em amostras de água coletadas em oito praias do litoral do Rio de Janeiro, incluindo
+Arpoador, Grumari, Vermelha, Sahy, Itacuruçá, Itaipuaçu, Ferradura e Itaipu, avaliando sua
+capacidade de tolerar e/ou degradar naftaleno – modelo de HPA. Foram montados microcosmos
+em triplicata contendo 0,1% de naftaleno e o isolamento foi realizado em meio ágar marine,
+tendo sido isoladas pelo menos 28 colônias de cada praia, totalizando 231 estirpes. O DNA das
+estirpes foi extraído para identificação molecular baseada no gene que codifica o 16S rRNA, e
+todas as estirpes foram submetidas a testes de emulsificação. Os testes de deslocamento de óleo
+e colapso da gota foram realizados quando o índice de emulsificação foi igual ou superior a
+40%. Foi também testada a capacidade das estirpes em degradar HPA, através do crescimento
+em meio contendo naftaleno como única fonte de carbono. Por fim, genes marcadores
+relacionados à degradação de HPA foram detectados por PCR. Alguns gêneros foram
+encontrados exclusivamente em praias específicas, como Frondibacter e Novosphingobium
+(em Arpoador), enquanto outros, como Salipiger e Alteromonas, foram isolados de mais da
+metade das praias. Dezoito estirpes apresentaram índices de emulsificação entre 40% e 72%,
+das quais seis também foram positivas nos testes de colapso de gota e deslocamento de óleo.
+Dezessete estirpes cresceram utilizando naftaleno como única fonte de carbono, e foi possível
+detectar genes de degradação de HPA, por PCR, a partir de oito delas. Considerando o potencial
+vii
+de degradação e a frequência de gêneros isolados de praias, estirpes dos gêneros Alteromonas,
+Salipiger e Pseudooceanicola se destacaram como promissoras para a biorremediação de HPA.
+Entre elas, algumas estirpes de Pseudooceanicola e Alteromonas também demonstraram
+produção de bioemulsificantes e biossurfactantes, reforçando seu potencial. A caracterização
+dessas estirpes permitiu formar uma coleção de culturas com potencial aplicação em estudos de
+biorremediação e biomonitoramento, oferecendo subsídios importantes para estratégias de
+recuperação de ambientes marinhos tropicais contaminados por derivados do petróleo.
+Palavras-chave: biorremediação marinha, bioemulsificantes, biossurfactantes, derramamento
+de óleo, hidrocarbonetos policíclicos aromáticos (HPA), PCR
+viii
+ABSTRACT
+HIGOR GABRIEL VIANNA DA ROCHA
+IDENTIFICAÇÃO E CARACTERIZAÇÃO DE BACTÉRIAS MARINHAS
+DEGRADADORAS DE HIDROCARBONETOS DO PETRÓLEO
+Orientadora: Lucy Seldin
+Coorientadora: Karen Caroline Ferreira Santaren
+Abstract da Monografia apresentada no Instituto de Microbiologia Paulo de Góes da
+Universidade Federal do Rio de Janeiro, como parte dos requisitos necessários para
+obtenção do título de Bacharel em Ciências Biológicas: Microbiologia e Imunologia e
+aprovação no RCS Trabalho de Conclusão de Curso.
+The intensive exploitation of petroleum, especially in marine environments, has contributed to
+contamination events of different magnitudes. Petroleum-derived polycyclic aromatic
+hydrocarbons (PAH) present high toxic, mutagenic and carcinogenic potential, in addition to
+persisting in the environment, posing risks to ecosystems and human health. Between 2019 and
+2023, 270 occurrences of crude oil discharges were recorded in Brazil, highlighting the need
+for effective tools for the decontamination and monitoring of these environments.
+Microorganisms play a crucial role in the degradation of petroleum hydrocarbons and in the
+production of biosurfactants and bioemulsifiers, contributing to the natural removal of these
+pollutants. In this study, the aim was to select bacterial strains with potential for future
+application in bioremediation and biomonitoring studies. For this purpose, strains present in
+water samples collected from eight beaches along the coast of Rio de Janeiro were isolated and
+characterized, including Arpoador, Grumari, Vermelha, Sahy, Itacuruçá, Itaipuaçu, Ferradura
+and Itaipu, assessing their ability to tolerate and degrade naphthalene – a model PAH.
+Microcosms were set up in triplicate containing 0.1% naphthalene and the isolation was
+performed on marine agar medium, with at least 28 colonies isolated from each beach, totaling
+231 strains. The DNA of the strains was extracted for molecular identification based on the 16S
+rRNA gene, and all strains were subjected to emulsification tests. Oil displacement and drop
+collapse assays were performed when the emulsification index was equal to or higher than 40%.
+The ability of the strains to degrade PAH was also tested through growth in medium containing
+naphthalene as the sole carbon source. Finally, marker genes related to PAH degradation were
+detected by PCR. Some genera were found exclusively in specific beaches, such as
+Frondibacter and Novosphingobium (in Arpoador), while others, such as Salipiger and
+Alteromonas, were isolated from more than half of the beaches. Eighteen strains showed
+emulsification indices between 40% and 72%, of which six were also positive in the drop
+collapse and oil displacement assays. Seventeen strains grew using naphthalene as the sole
+carbon source, and it was possible to detect PAH-degrading genes by PCR in eight of them.
+Considering the degradation potential and the frequency of genera isolated from the beaches,
+strains of the genera Alteromonas, Salipiger and Pseudooceanicola stood out as promising for
+ix
+PAH bioremediation. Among them, some strains of Pseudooceanicola and Alteromonas also
+demonstrated the production of biosurfactants and bioemulsifiers, reinforcing their potential.
+The characterization of these strains allowed the formation of a culture collection with potential
+application in bioremediation and biomonitoring studies, offering important support for the
+development of strategies aimed at the recovery of tropical marine environments contaminated
+by petroleum derivatives.
+Keywords: marine bioremediation, bioemulsifiers, biosurfactants, oil spill, polycyclic aromatic
+hydrocarbons (PAH), PCR
+x
+RESUMO PARA LEIGOS
+HIGOR GABRIEL VIANNA DA ROCHA
+BACTÉRIAS MARINHAS QUE AJUDAM A COMBATER A POLUIÇÃO POR
+ÓLEO: DESCOBRINDO MICRORGANISMOS QUE DEGRADAM
+HIDROCARBONETOS
+Orientadora: Lucy Seldin
+Coorientadora: Karen Caroline Ferreira Santaren
+Resumo para leigos da Monografia apresentada no Instituto de Microbiologia Paulo de
+Góes da Universidade Federal do Rio de Janeiro, como parte dos requisitos necessários
+para obtenção do título de Bacharel em Ciências Biológicas: Microbiologia e Imunologia
+e aprovação no RCS Trabalho de Conclusão de Curso.
+O derramamento de petróleo em praias e mares é um problema frequente e preocupante,
+podendo afetar ecossistemas inteiros e representar riscos à saúde humana, já que alguns
+componentes do petróleo podem causar doenças, e até mesmo levar à morte. Para investigar
+formas naturais de remover poluentes do petróleo de águas marinhas, nosso estudo focou em
+procurar bactérias, organismos tão pequenos que só podem ser vistos com microscópio, que
+vivem na água do mar e que podem usar os componentes do petróleo como alimento,
+degradando moléculas complexas em partes menores que não fazem tanto mal ao ambiente.
+Além disso, algumas bactérias produzem substâncias chamadas bioemulsificantes e
+biossurfactantes, que funcionam como detergentes naturais, ajudando a dividir as moléculas de
+petróleo em partes menores, que serão mais facilmente degradadas. Coletamos amostras de
+água de oito praias do litoral do Rio de Janeiro, a partir das quais encontramos mais de 200
+bactérias diferentes, e observamos quais conseguiam usar os poluentes como alimento e quais
+produziam esses detergentes naturais. Descobrimos que alguns grupos de bactérias, como
+Alteromonas, Salipiger e Pseudooceanicola , aparecem em várias praias e têm grande
+capacidade de degradar esses poluentes, além de produzir essas substâncias que facilitam sua
+remoção. Selecionamos então esses grupos de bactérias, por estarem distribuídos de forma
+consistente e por suas habilidades de degradar poluentes, podendo servir não apenas como
+aliados na recuperação de ambientes marinhos, mas também como indicadores biológicos,
+ajudando a monitorar a saúde das praias. Com esses resultados, podemos contribuir para a
+preservação de ecossistemas costeiros e para a proteção da população que frequenta essas áreas.
+xi
+ÍNDICE
+RESUMO ................................................................................................................................... vi
+ABSTRACT ............................................................................................................................ viii
+RESUMO PARA LEIGOS ......................................................................................................... x
+1. INTRODUÇÃO ...................................................................................................................... 1
+1.1 O petróleo ......................................................................................................................... 1
+1.2 Contaminação ambiental por petróleo e suas implicações ............................................... 2
+1.3 Hidrocarbonetos policíclicos aromáticos (HPA) e toxicidade associada ......................... 3
+1.4 Métodos de biorremediação e biomonitoramento ............................................................ 5
+1.5 Diversidade bacteriana e genes funcionais na biorremediação de hidrocarbonetos ......... 8
+2. JUSTIFICATIVA ................................................................................................................. 11
+3. OBJETIVOS ......................................................................................................................... 12
+3.1 Objetivos específicos ...................................................................................................... 12
+4. MATERIAL E MÉTODOS .................................................................................................. 13
+4.1 Amostragem de água marinha ........................................................................................ 13
+4.2 Montagem de microcosmos para enriquecimento de bactérias degradadoras e/ou
+tolerantes à naftaleno ............................................................................................................ 13
+4.3 Isolamento de bactérias marinhas degradadoras e/ou tolerantes à naftaleno ................. 14
+4.4 Identificação das estirpes isoladas .................................................................................. 14
+4.5 Teste de degradação de naftaleno ................................................................................... 14
+4.6 Teste de emulsificação .................................................................................................... 15
+4.7 Testes de colapso da gota e deslocamento de óleo ......................................................... 15
+4.8 Amplificação de genes relacionados à degradação de HPA ........................................... 15
+5. RESULTADOS .................................................................................................................... 16
+5.1 Características das áreas de amostragem ........................................................................ 16
+5.2 Isolamento e identificação de estirpes bacterianas ......................................................... 16
+5.3 Teste de degradação de naftaleno e amplificação de genes associados à degradação de
+HPA ...................................................................................................................................... 18
+5.4 Testes de emulsificação, deslocamento de óleo e colapso de gota ................................. 19
+6. DISCUSSÃO ........................................................................................................................ 21
+7. CONCLUSÃO ...................................................................................................................... 26
+8. REFERÊNCIAS ................................................................................................................... 27
+1
+1. INTRODUÇÃO
+1.1 O petróleo
+Considerado um composto orgânico de estrutura complexa, o petróleo é
+majoritariamente uma mistura de hidrocarbonetos, isto é, espécies químicas orgânicas formadas
+exclusivamente por átomos de carbono e hidrogênio, que variam desde compostos simples,
+como o metano, estruturas com dezenas de átomos de carbono, como o n-tetradecano, ou até
+mesmo estruturas com formações de anéis aromáticos, como o benzeno (Speight, 2015).
+Dentre as frações de hidrocarbonetos que compõem o petróleo, destacam-se os nalcanos, os cicloalcanos, os hidrocarbonetos monocíclicos aromáticos (HMA) e os
+hidrocarbonetos policíclicos aromáticos (HPA) (Guermouche et al., 2015). Esses grupos
+diferem estruturalmente pela presença de cadeias lineares ou ramificadas nos n-alcanos, de
+anéis saturados nos cicloalcanos e de sistemas conjugados em um único (HMA) ou múltiplos
+(HPA) anéis. Essas diferenças estruturais influenciam as propriedades químicas e a estabilidade
+desses compostos (Speight, 2015). Além dos hidrocarbonetos, o petróleo também é formado
+por compostos contendo enxofre, nitrogênio, oxigênio e traços de metais pesados, como
+vanádio e níquel (Hasan et al., 2024).
+O petróleo é encontrado em poros e fraturas de formações rochosas, onde se acumula
+em rochas-reservatório. Sua formação tem origem na decomposição de matéria orgânica —
+como restos de plâncton e microrganismos marinhos — soterrada ao longo de milhões de anos,
+sofrendo transformações químicas e microbiológicas sob altas pressões e temperaturas (Lima
+et al., 2014).
+Devido à sua composição e versatilidade, o petróleo passou a exercer um papel central
+no fornecimento de energia e na economia global, sendo utilizado para a produção de uma
+ampla variedade de produtos, incluindo combustíveis fósseis e produtos petroquímicos usados
+na fabricação de plásticos, fertilizantes, fármacos, entre outros (Speight e El Gendy, 2017).
+Segundo dados do Energy Institute , apresentados na Statistical Review of World Energy
+(Revisão Estatística Mundial de Energia) mais recente (2024), em 2023 o mundo consumiu
+619,63 EJ de energia, dos quais aproximadamente 31,7% (196,43 EJ) foram provenientes do
+petróleo, o que representou um aumento de 2,5% em relação ao ano anterior.
+Esse cenário evidencia que a demanda por esse insumo continua em crescimento,
+acompanhando o aumento geral do consumo de energia mundial, mesmo com a expansão de
+outras fontes energéticas. Além disso, o Brasil se destacou como o sétimo maior produtor de
+barris de petróleo no mundo no mesmo período (Energy Institute, 2024). No país, a indústria
+2
+do petróleo e gás responde por 17% do produto interno bruto (PIB) industrial e por 33,1% da
+oferta interna de energia, revelando sua importância dentro da indústria nacional (IBP, 2025).
+1.2 Contaminação ambiental por petróleo e suas implicações
+Devido à exploração intensiva do petróleo, principalmente em ambientes marinhos,
+derramamentos de óleo de diferentes escalas são eventos frequentes, geralmente resultantes de
+acidentes durante a produção e transporte de petróleo e seus derivados em todo o mundo
+(Acosta-González et al., 2015). Entre 2013 e 2023, de acordo com o Relatório Anual de
+Segurança Operacional das Atividades de Exploração e Produção de Petróleo e Gás Natural,
+foram registrados em território brasileiro 767 incidentes com descarga de óleo cru e óleo diesel
+em ambientes marinhos (Figura 1). Os maiores derramamentos desse período ocorreram
+principalmente no litoral Sudeste, nas bacias entre Rio de Janeiro, São Paulo e Espírito Santo,
+regiões que concentram grande parte da produção nacional em águas profundas (ANP, 2024;
+IBP, 2025).
+Figura 1 – Incidentes com descarga de óleo e diesel em ambiente marinho no Brasil entre 2013 e 2023,
+apresentando os volumes vazados (m³) e a quantidade anual de eventos r elacionados a óleo e a diesel. As barras
+representam os volumes de óleo e diesel derramados, enquanto as linhas indicam o número de incidentes para cada
+tipo de substância no período analisado (ANP, 2024).
+Derramamentos de óleo em ambientes marinhos podem acarretar efeitos nocivos aos
+sistemas ecológicos e à saúde humana, além de perdas econômicas significativas (Macaulay e
+Rees, 2014). Do ponto de vista econômico, os impactos causados por esses acidentes afetam
+diretamente atividades como a pesca, o turismo e a indústria costeira, gerando perdas
+financeiras que vão desde pequenas comunidades locais (Estevo et al., 2021; Soares et al., 2022)
+até grandes setores da economia (Court et al., 2020). Além disso, esses eventos resultam em
+custos significativos com ações de contenção, limpeza e recuperação ambiental, além de
+prejuízos para diferentes cadeias produtivas (Alló e Loureiro, 2013; Sandifer et al., 2021).
+3
+No contexto ambiental, os impactos dos derramamentos de óleo são variados e
+complexos, incluindo alterações na distribuição de espécies, toxicidade para a vida marinha,
+mudanças na comunidade planctônica, degradação de habitats, entre outros (Estevo et al.,
+2021). Alguns estudos mostraram impactos diretos em populações de peixes, invertebrados e
+grandes predadores marinhos, como o atum-rabilho (Thunnus thynnus ) e o mahi-mahi
+(Coryphaena hippurus), durante um acidente que ocorreu no Golfo do México em 2010, com
+registros de alterações fisiológicas, comportamentais e reprodutivas (Beyer et al., 2016; Nelson
+et al., 2016).
+Dentre os riscos gerados à saúde humana, destacam-se quadros alérgicos, respiratórios
+e dermatológicos, observados tanto em trabalhadores da limpeza quanto em moradores das
+áreas afetadas (Sandifer et al., 2021). O GuLF STUDY identificou maior prevalência de tosse,
+sibilos e dispneia, além de aumento do risco de asma em indivíduos expostos a vapores de
+hidrocarbonetos e dispersantes químicos (Sandler et al., 2014; Kwok et al., 2017). Além disso,
+dermatites de contato e eczemas foram relatados em pessoas com contato direto com óleo cru
+e produtos químicos de descontaminação (Zock et al., 2007).
+Exposições crônicas a hidrocarbonetos e solventes presentes em derramamentos de
+óleo podem desencadear respostas imunotóxicas e agravar reações alérgicas, afetando
+simultaneamente diferentes sistemas do corpo (Laffon, Pásaro, e Valdiglesias, 2016). Além
+disso, esse tipo de exposição está associado a riscos mais graves à saúde, incluindo diversos
+tipos de câncer, como melanoma e câncer de pulmão, toxicidades múltiplas (genotóxica,
+hematotóxica e cardiotóxica) e impactos sobre o sistema endócrino, sistema nervoso, rins e
+desenvolvimento embrionário (Ossai et al., 2020). Estudos também indicam que trabalhadores
+cronicamente expostos a certas classes de hidrocarbonetos podem apresentar redução nos níveis
+séricos de imunoglobulinas, refletindo comprometimento da resposta imune humoral, além de
+efeitos hematológicos, como hemólise de eritrócitos após inalação oral ou nasal de naftaleno
+(Szczeklik et al., 1994; Srogi, 2007).
+1.3 Hidrocarbonetos policíclicos aromáticos (HPA) e toxicidade associada
+Os riscos ao ambiente e à saúde pública decorrentes da exposição a compostos
+derivados do petróleo estão diretamente relacionados à estrutura química dos hidrocarbonetos
+presentes (Truskewycz et al., 2019). Os HPA são particularmente preocupantes devido à sua
+persistência no ambiente e potencial toxicidade. Esses compostos apresentam estrutura formada
+por dois ou mais anéis aromáticos condensados, planos e conjugados, o que lhes confere elevada
+estabilidade, baixa solubilidade em água e alta lipofilicidade, favorecendo a persistência e a
+4
+bioacumulação no ambiente marinho (Haritash e Kaushik, 2009). Embora existam mais de cem
+HPA descritos, a Agência de Proteção Ambiental dos Estados Unidos (USEPA) classifica
+dezesseis deles (Figura 2) como contaminantes prioritários devido ao potencial tóxico que
+apresentam (Mallah et al., 2022).
+Figura 2 – Representação 2D dos 16 HPA prioritários segundo a USEPA (Adaptado de Reizer, Viskolcz e Fiser,
+2022).
+Os HPA exercem grande parte de seu efeito mutagênico e carcinogênico após
+bioativação hepática e extra-hepática mediada dependente da sinalização AhR/CYP, sendo
+CYP1A1 e CYP1B1 enzimas centrais na conversão de HPA em epóxidos e diol-epóxidos
+reativos (Masaki et al., 2021; Montano et al., 2025). Os metabólitos eletrofílicos podem se ligar
+covalentemente às bases do DNA, como ocorre com os adutos de metabólitos finais de
+benzo[a]pireno no N2 da guanina. Esses eventos estão associados a mutações específicas
+observadas em tumores humanos, incluindo substituições de guanina por timina em regiões
+críticas do gene p53. Esse gene desempenha um papel fundamental como supressor tumoral,
+regulando a divisão celular, reparando danos no DNA e promovendo a eliminação de células
+comprometidas, contribuindo assim para a prevenção do desenvolvimento de tumores (Pfeifer
+et al., 2002; Tretyakova et al., 2002; Moorthy, Chu e Carlin, 2015).
+Mecanismos alternativos de ativação exercem influência importante: a geração de oquinonas a partir de HPA pelas dihidrodiol-desidrogenases inicia ciclos redox que produzem
+5
+espécies reativas de oxigênio (ROS), ocasionando danos oxidativos ao DNA e formando adutos
+que comprometem os sistemas de reparo e a estabilidade celular (Penning et al., 1999; Park et
+al., 2006; Ryu e Hong, 2024). Esses efeitos oxidativos reforçam a ação direta dos epóxidos,
+expandindo o espectro de lesões capazes de favorecer a transformação celular e o
+desenvolvimento tumoral (Moorthy, Chu e Carlin, 2015).
+Evidências recentes indicam que os efeitos dos HPA ultrapassam a genotoxicidade
+clássica, envolvendo também profundas alterações epigenéticas. Entre essas modificações
+destacam-se mudanças na metilação do DNA, variações nos padrões de histonas e perfis de
+miRNA desregulados, fenômenos que, em modelos experimentais, foram associados a efeitos
+multigeracionais. Esses achados sugerem que a exposição a HPA não se limita à indução de
+lesões diretas no DNA, mas pode provocar reprogramações persistentes da expressão gênica
+(Bukowska e Sicińska, 2021; Wan et al., 2022; Pandelides et al., 2023).
+Paralelamente, a ativação do eixo AhR/CYP pode intensificar respostas inflamatórias
+e estimular sinais pró-proliferativos em determinados contextos celulares. Assim, o risco
+toxicológico dos HPA emerge de uma complexa interação entre múltiplos mecanismos:
+ativação metabólica, formação de adutos covalentes, estresse oxidativo, alterações epigenéticas
+e fatores que modulam a susceptibilidade genética e ambiental do organismo à exposição (Yuan
+et al., 2025; Zhang et al., 2025).
+1.4 Métodos de biorremediação e biomonitoramento
+A crescente demanda por petróleo e seus derivados, aliada à alta periculosidade desses
+compostos, tem intensificado os riscos ambientais e sanitários decorrentes de sua exploração e
+uso. Assim, torna-se indispensável o desenvolvimento de ferramentas eficazes para o
+monitoramento e a remediação de áreas contaminadas (Sharma et al., 2024). Os derramamentos
+de óleo, especialmente em ambientes marinhos, exigem abordagens integradas que considerem
+as propriedades físico-químicas do petróleo, as condições ambientais e a sensibilidade
+ecológica das áreas afetadas (Tewari e Sirvaiya, 2015).
+De modo geral, as técnicas de remediação de áreas impactadas por petróleo são
+classificadas em métodos físicos, químicos, térmicos e biológicos, ou biorremediação (Dave e
+Ghaly, 2011; Dhaka e Chattopadhyay, 2021; Purohit et al., 2024). Cada abordagem apresenta
+vantagens operacionais, mas também limitações relevantes. Os métodos físicos, como barreiras
+de contenção e skimmers, permitem a remoção mecânica do óleo da superfície, porém sua
+eficiência é restrita a derramamentos recentes e a condições ambientais favoráveis, além de não
+6
+atuarem sobre frações dissolvidas ou emulsificadas do contaminante (Dhaka e Chattopadhyay,
+2021).
+Os métodos químicos, que incluem o uso de dispersantes e desemulsificantes, podem
+facilitar a dispersão do óleo e aumentar sua biodisponibilidade, mas não promovem a remoção
+efetiva do poluente e podem apresentar efeitos tóxicos para organismos aquáticos (Ivshina et
+al., 2015). Já os métodos térmicos, como a queima in situ, possibilitam a rápida redução do
+volume de óleo, porém dependem de condições operacionais específicas e podem gerar
+emissões atmosféricas e impactos ambientais adicionais, o que limita sua aplicação em
+ecossistemas sensíveis (Ekperusi et al., 2019).
+Diante dessas limitações, a biorremediação tem ganhado destaque como uma
+abordagem biológica voltada à transformação dos contaminantes de forma mais sustentável
+(Purohit et al., 2024), ao empregar organismos vivos capazes de metabolizar compostos tóxicos
+de maneira natural. Nesse processo, substâncias complexas podem ser convertidas em
+compostos menos complexos, o que, em muitos casos, contribui para a redução da toxicidade
+ambiental (Macaulay e Rees, 2014), embora alguns intermediários ainda possam apresentar
+efeitos adversos ou permanecer persistentes no ambiente (Bekins et al., 2020; San-Martin et al.,
+2020).
+Um exemplo é a fitorremediação, que utiliza plantas aquáticas como Alternanthera
+philoxeroides e Sagittaria lancifolia na remoção e degradação de hidrocarbonetos em
+ecossistemas contaminados (Sharma et al., 2024). Já a biorremediação microbiana fundamentase na ação de bactérias e fungos capazes de metabolizar hidrocarbonetos como fontes de
+carbono e energia, promovendo sua conversão em compostos potencialmente menos tóxicos e
+contribuindo para a restauração ambiental (Varjani, 2017; Rahmati et al., 2022).
+Entre as principais abordagens empregadas estão a bioaumentação (introdução de
+estirpes microbianas com alta capacidade degradadora no ambiente), bioestimulação (adição de
+nutrientes ou ajustes nas condições ambientais para favorecer o crescimento dos
+microrganismos nativos), uso de biossurfactantes (aplicação de compostos tensoativos
+microbianos que aumentam a biodisponibilidade dos hidrocarbonetos) e atenuação natural
+(monitoramento dos processos naturais de degradação sem intervenção direta) (Rahmati et al.,
+2022). Essas estratégias, quando ajustadas às condições ambientais locais, podem alcançar
+taxas significativas de descontaminação (Rahmati et al., 2022).
+Considerando a aplicação de estratégias de biorremediação em áreas impactadas por
+petróleo e seus derivados, o biomonitoramento surge como uma abordagem complementar para
+a avaliação da contaminação ambiental e do progresso dos processos de recuperação
+7
+(Davletgildeeva e Kuznetsov, 2024). Ao incorporar respostas biológicas aos dados ambientais,
+essa estratégia permite identificar e quantificar os efeitos decorrentes da exposição a HPA e a
+outros compostos associados ao petróleo, contribuindo para uma compreensão mais ampla e
+integrada da dinâmica de degradação e recuperação dos ecossistemas afetados (Vethaak et al.,
+2017).
+Diferentemente das análises físico-químicas convencionais, que se restringem à
+identificação e à quantificação dos contaminantes no ambiente, o biomonitoramento oferece
+uma perspectiva funcional, ao evidenciar como os organismos respondem à exposição a esses
+compostos em níveis bioquímicos, fisiológicos e moleculares (Davletgildeeva e Kuznetsov,
+2024). Essa abordagem possibilita avaliar não apenas a presença dos poluentes, mas também
+seus efeitos biológicos e ecológicos, sendo particularmente relevante em ambientes complexos,
+como os ecossistemas marinhos (Kumar et al., 2024).
+Nesse contexto, bactérias degradadoras de hidrocarbonetos destacam-se como
+potenciais bioindicadoras, uma vez que apresentam respostas rápidas e mensuráveis à presença
+dos contaminantes (García-García et al., 2023). Em ambientes contaminados, estudos têm
+demonstrado um enriquecimento natural de comunidades bacterianas capazes de utilizar
+hidrocarbonetos do petróleo como fonte de carbono e energia. Essa adaptação microbiana
+evidencia tanto o potencial desses microrganismos para processos de biorremediação quanto
+sua utilidade como biomarcadores de contaminação em ecossistemas marinhos (Cardoso, 2022;
+Mohammed, Omar e Hasan, 2023).
+Na prática, o uso de microrganismos como bioindicadores de poluição por óleo tem
+sido realizado por meio de abordagens que permitem detectar e quantificar alterações nas
+comunidades microbianas em ambientes impactados. Estudos recentes têm utilizado o
+sequenciamento do gene que codifica o 16S rRNA e abordagens metagenômicas para
+caracterizar mudanças na estrutura e na diversidade bacteriana em solos contaminados por
+hidrocarbonetos, evidenciando o enriquecimento de grupos microbianos associados à
+degradação de compostos petrolíferos (Liu et al., 2024; Bayatian, Pourbabaee e Amoozegar,
+2025). Em complemento, a identificação e a quantificação de genes funcionais relacionados a
+rotas metabólicas de degradação permitem inferir o potencial funcional das comunidades
+microbianas e sua resposta à contaminação, contribuindo para uma avaliação mais integrada da
+poluição por petróleo (Valencia-Luna et al., 2025).
+Dessa forma, o uso integrado do biomonitoramento em áreas submetidas à
+biorremediação permite uma avaliação mais abrangente da eficácia das estratégias adotadas, ao
+possibilitar a detecção de impactos sobre organismos vivos e a identificação precoce d e
+8
+possíveis desequilíbrios ecológicos (Pérez-Vázquez et al., 2024). Essa abordagem integrada
+fornece subsídios importantes para o aprimoramento de ações de manejo e conservação
+ambiental, bem como para o acompanhamento da recuperação de ecossistemas afetados por
+contaminação por petróleo (Martins, Costa e Bianchini, 2023).
+1.5 Diversidade bacteriana e genes funcionais na biorremediação de hidrocarbonetos
+Entre os microrganismos capazes de biorremediar ambientes contaminados por
+petróleo, destacam-se as bactérias, que utilizam hidrocarbonetos como fonte de carbono e
+energia e representam os principais agentes na degradação desses poluentes, desempenhando
+papel central na limpeza natural de áreas afetadas (Waikhom et al., 2020). Diversos estudos na
+literatura descrevem estirpes pertencentes a gêneros como Alteromonas, Pseudomonas ,
+Bacillus, Rhodococcus e Mycobacterium por sua capacidade de degradar HPA (Jin, Kim e Jeon,
+2015; Kuppusamy et al., 2017; Sakshi e Haritash, 2020; Walton e Buchan, 2024).
+A degradação de HPA por bactérias geralmente se inicia com a hidroxilação de um
+dos anéis aromáticos, mediada por enzimas como dioxigenases ou monooxigenases, tornando
+os HPA mais suscetíveis a reações de degradação subsequentes (Kanaly e Harayam, 2000). Em
+seguida, ocorrem reações de rearranjo e clivagem do anel aromático, gerando intermediários
+monocíclicos que podem ser direcionados para o metabolismo central bacteriano (Waikhom
+et al., 2020). Nem todas as bactérias degradadoras de HPA realizam sua mineralização
+completa, alguns grupos são capazes apenas de converter o composto em intermediários menos
+tóxicos através da hidroxilação e adição de grupos metoxila (Walton e Buchan, 2024). Esses
+intermediários podem ser metabolizados ou acumulados na célula bacteriana, dependendo das
+condições ambientais e da capacidade metabólica da espécie envolvida (Walton e Buchan,
+2024).
+Além da degradação de contaminantes, algumas bactérias também sintetizam
+bioemulsificantes e biossurfactantes, ampliando as possibilidades de aplicação em processos
+industriais e intervenções ambientais e aumentando a eficiência na remoção de poluentes por
+meio de uma diversidade de estruturas e mecanismos (Satpute et al., 2010). Essas moléculas
+anfifílicas de origem biológica possuem regiões hidrofílicas e hidrofóbicas e apresentam menor
+toxicidade e maior biodegradabilidade em comparação aos surfactantes sintéticos, atuando
+como agentes de interface ao promoverem a miscibilidade entre fases normalmente imiscíveis,
+como óleo/água ou ar/água (Silva et al., 2022).
+Embora tanto os biossurfactantes quanto os bioemulsificantes formem emulsões
+estáveis, apenas os biossurfactantes têm a capacidade de reduzir significativamente as tensões
+9
+superficial e interfacial (Uzoigwe et al., 2015). Essa diferença funcional é essencial para definir
+aplicações específicas para cada tipo de molécula (Mujumdar, Joshi e Karve, 2020).
+A bioprospecção de bactérias capazes de degradar compostos tóxicos e/ou produzir
+bioemulsificantes ou biossurfactantes tem se consolidado como uma estratégia promissora no
+desenvolvimento de tecnologias sustentáveis para a biorremediação de ambientes contaminados
+por petróleo e seus derivados. Microrganismos nativos de ecossistemas impactados, como
+zonas costeiras, manguezais e ambientes marinhos, frequentemente possuem adaptações
+metabólicas que os tornam eficientes na degradação de hidrocarbonetos e na síntese de
+moléculas anfifílicas com potencial para aumentar a biodisponibilidade desses poluentes (Banat
+et al., 2014; Sharma et al., 2024).
+Considerando esse panorama, o isolamento e a caracterização de estirpes bacterianas
+com capacidade para degradar hidrocarbonetos e produzir bioemulsificantes ou
+biossurfactantes representam uma etapa essencial para ampliar as estratégias disponíveis para
+descontaminação de áreas impactadas por derramamentos de óleo. Esses estudos contribuem
+para a ampliação do conhecimento sobre a diversidade microbiana e sobre os mecanismos
+envolvidos na degradação de compostos derivados do petróleo, oferecendo bases para o
+desenvolvimento futuro de soluções mais adequadas às particularidades de cada ecossistema
+(Uzoigwe et al., 2015).
+O emprego de métodos moleculares (independentes de cultivo), como a reação em
+cadeia da polimerase (PCR) direcionada a genes funcionais, o sequenciamento do gene que
+codifica o 16S rRNA e análises de bioinformática, tem contribuído significativamente para a
+detecção e identificação de bactérias degradadoras de hidrocarbonetos em ambientes marinhos.
+Diferentes estudos estimam uma vasta diversidade de microrganismos que carregam
+genes chave, como alkB, ladA, rhd e pahE, que codificam enzimas envolvidas na oxidação
+inicial de alcanos e na hidroxilação de anéis aromáticos de HPA. A distribuição desses genes
+reflete adaptações metabólicas a diferentes condições ambientais, como variações de
+temperatura, salinidade e disponibilidade de substratos (Cébron et al., 2008; Liu et al., 2015;
+Liang, Huang e Wang, 2019b).
+Abordagens moleculares, combinadas a métodos clássicos (dependentes de cultivo)
+como enriquecimento e cultivo em diferentes meios de cultura, não apenas ampliam a eficiência
+da bioprospecção em ambientes complexos como os sistemas marinhos, mas também fornecem
+subsídios fundamentais para o desenvolvimento de estratégias de biorremediação mais
+direcionadas, adaptadas às condições locais e apoiadas na seleção de bioindicadores
+10
+microbianos baseados em genes funcionais, permitindo um monitoramento ambiental mais
+preciso e preditivo (Song et al., 2021; Carlos et al., 2023; Rojas-Vargas et al., 2024).
+11
+2. JUSTIFICATIVA
+Derramamentos de petróleo em ambientes marinhos configuram uma forma altamente
+impactante de poluição ambiental, ameaçando não apenas a integridade dos ecossistemas
+aquáticos, mas também a economia e a saúde pública. Entre os componentes do petróleo, os
+hidrocarbonetos policíclicos aromáticos (HPA) se destacam por seu elevado potencial tóxico,
+mutagênico e carcinogênico, além de sua alta persistência e capacidade de bioacumulação nos
+organismos e nas cadeias tróficas.
+Diante desse desafio, a biorremediação microbiana surge como uma alternativa
+sustentável, econômica e ambientalmente segura para mitigar os efeitos desses poluentes. Em
+especial, bactérias degradadoras de hidrocarbonetos desempenham papel fundamental nesse
+processo, convertendo compostos tóxicos em substâncias potencialmente menos nocivas por
+meio de suas vias metabólicas especializadas.
+A identificação de estirpes bacterianas com capacidade para degradar HPA e/ou
+produzir bioemulsificantes e biossurfactantes é um passo essencial rumo ao desenvolvimento
+de estratégias de descontaminação mais eficazes e adaptadas às condições naturais dos
+ambientes afetados. A integração entre abordagens moleculares avançadas e métodos clássicos
+de enriquecimento e cultivo tem ampliado significativamente o potencial de descoberta e
+caracterização desses microrganismos, favorecendo não apenas ações de remediação, mas
+também o aperfeiçoamento de estratégias de biomonitoramento em ecossistemas marinhos
+vulneráveis à contaminação por hidrocarbonetos.
+Assim, este estudo se justifica pela relevância científica e ambiental de identificar e
+caracterizar bactérias com potencial biotecnológico, capazes de atuar tanto na biorremediação
+quanto no monitoramento de áreas impactadas por petróleo. Além de contribuir para o avanço
+do conhecimento na área, esse trabalho visa promover soluções sustentáveis e tecnologicamente
+viáveis, alinhadas aos desafios globais de preservação ambiental e desenvolvimento
+sustentável.
+12
+3. OBJETIVOS
+O presente estudo tem como objetivo identificar e caracterizar estirpes bacterianas
+degradadoras de naftaleno e/ou produtoras de bioemulsificantes/biossurfactantes a partir de oito
+praias do estado do Rio de Janeiro, para selecionar grupos com potencial para aplicação em
+estratégias de biorremediação e biomonitoramento ambiental.
+3.1 Objetivos específicos
+1. Isolar estirpes bacterianas degradadoras e/ou tolerantes ao naftaleno, provenientes de
+amostras de água do mar coletadas em oito praias do estado do Rio de Janeiro;
+2. Identificar molecularmente as estirpes isoladas, através do sequenciamento de amplicons do
+gene que codifica o 16S rRNA por Sanger;
+3. Avaliar o potencial das estirpes isoladas quanto à produção de moléculas com potencial
+emulsificante através de ensaios in vitro;
+4. Avaliar potencial de produção de biossurfactantes pelas estirpes com atividade emulsificante
+detectada, utilizando os testes de colapso da gota e deslocamento de óleo como indicadores de
+atividade tensoativa;
+5. Avaliar a capacidade das estirpes isoladas quanto à degradação de naftaleno – modelo de
+HPA –, através de ensaios in vitro;
+6. Detectar a presença de genes funcionais relacionados à degradação de HPA, através de PCR,
+em estirpes que apresentaram resultado positivo no teste de degradação de naftaleno;
+7. Utilizar os dados obtidos, bem como o padrão de distribuição dos gêneros bacterianos nas
+oito diferentes praias, para selecionar estirpes com potencial para aplicação futura em processos
+de biorremediação e biomonitoramento de ambientes marinhos impactados por contaminação
+por HPA.
+13
+4. MATERIAL E MÉTODOS
+4.1 Amostragem de água marinha
+Foram coletadas amostras de água marinha em oito diferentes praias do estado do Rio
+de Janeiro (Tabela 1). Em cada local de coleta, foi obtido 1 L de água em frasco estéril , a uma
+profundidade entre 10 e 30 cm da superfície. As temperaturas da água e do ar foram medidas
+no momento da amostragem utilizando um termômetro. A salinidade e o pH foram
+determinados com auxílio de um medidor portátil (Mettler Toledo-Inlab, Leicester, Reino
+Unido).
+Tabela 1 – Dados de localização das oito praias estudadas e respectivas datas de coleta.
+Praia
+Cidade Coordenadas
+geográficas
+Data de coleta
+Arpoador (ARP) Rio de Janeiro - RJ 22°59'15,4''S
+43°12'00,1''W
+Março 2022
+Grumari (GRU) Rio de Janeiro - RJ 23°02'52,7''S
+43°31'17,6''W
+Março 2022
+Itacuruçá (ITA) Mangaratiba - RJ 22°55'50.9"S
+43°54'44.0"W
+Junho 2022
+Sahy (SAH) Mangaratiba - RJ 22°56'28.9"S
+44°00'29.8"W
+Junho 2022
+Vermelha (URC) Rio de Janeiro - RJ 22°57'24.1''S
+43°09'54.0''W
+Agosto 2022
+Itaipuaçu (MAR) Maricá - RJ 22°58'13.0''S
+43°00'40.4''W
+Setembro 2022
+Ferradura (BUZ) Búzios - RJ 22°46'05.8''S
+41°53'08.3''W
+Novembro 2022
+Itaipu (NIT) Niterói - RJ 25°58'19.8''S
+43°02'43.6''W
+Dezembro 2022
+4.2 Montagem de microcosmos para enriquecimento de bactérias degradadoras e/ou
+tolerantes à naftaleno
+A partir das amostras coletadas, foram utilizados frascos estéreis de 50 mL para a
+montagem de microcosmos em triplicata, contendo 25 mL de água do mar e 0,025 g (0,1%) de
+naftaleno (Sigma-Aldrich, Milwaukee, Estados Unidos), utilizado como HPA. Os frascos foram
+posicionados horizontalmente, cobertos com papel laminado para evitar exposição à luz e
+mantidos sob agitação constante durante 14 dias à temperatura ambiente (entre 20 e 30 °C),
+para enriquecimento de bactérias capazes de tolerar e/ou degradar o naftaleno.
+14
+4.3 Isolamento de bactérias marinhas degradadoras e/ou tolerantes à naftaleno
+Após 14 dias de incubação, foram coletadas alíquotas das triplicatas dos microcosmos,
+obtendo-se 1 mL da água enriquecida correspondente a cada praia. Em seguida, foram
+realizadas diluições seriadas (10⁻¹ a 10⁻³) em solução salina estéril a 0,85%. As diluições foram
+semeadas (0,1 mL) em placas contendo Ágar Marinho (Difco) e incubadas por 72 horas a 34
+°C. As colônias obtidas a partir de cada amostra foram selecionadas com base em características
+morfológicas, como cor, tamanho e formato, para o isolamento das estirpes bacterianas.
+4.4 Identificação das estirpes isoladas
+O DNA genômico de todas as estirpes isoladas foi extraído utilizando o kit
+Fungal/Bacterial Miniprep (Zymo Research, Califórnia, Estados Unidos), conforme o protocolo
+do fabricante. O gene que codifica o 16S rRNA de cada estirpe foi amplificado por reação em
+cadeia da polimerase (PCR) com os iniciadores PA (5’-AGAGTTTGATCCTGGCTCAG-3’) e
+PH (5’ -AAGGAGGTGATCCAGCCGCA-3’) (Massol -Deya et al., 1995). O protocolo de
+amplificação consistiu em uma desnaturação inicial de 3 min a 95 °C, seguida de 35 ciclos de
+1 min a 95 °C (desnaturação), 30 s a 48 °C (anelamento) e 2 min a 72 °C (extensão), com uma
+extensão final de 6 min a 72 °C.
+Para a identificação molecular, produtos de PCR foram purificados utilizando o kit
+Wizard SV Gel and PCR Clean-Up System (Promega Corporation, Madison, Estados Unidos),
+seguindo as instruções do fabricante. Um mínimo de 10 ng/µL de cada amostra purificada foi
+empregado no sequenciamento Sanger (SeqStudioTM – Applied Biosystems – Thermo Fisher),
+utilizando o iniciador 515F (5’ -GTGCCAGCMGCCGCGGTAA-3’) (Caporaso et al., 2011)
+pela Plataforma de Sequenciamento de DNA (PSEQDNA) do Instituto de Biofísica Carlos
+Chagas Filho – UFRJ.
+Para a classificação taxonômica, as sequências obtidas no sequenciamento Sanger
+foram comparadas com o banco de dados GenBank por meio da ferramenta BLASTN do NCBI,
+considerando valores mínimos de 99% de cobertura e 98% de identidade.
+4.5 Teste de degradação de naftaleno
+As estirpes isoladas foram cultivadas em meio Tryptic Soy Broth (TSB, Difco) a 34
+°C por 48 horas. Em seguida, 1 mL do cultivo foi centrifugado a 13.000 × g por 15 minutos, e
+o sobrenadante foi descartado. O precipitado foi lavado duas vezes com solução salina estéril a
+0,85%, e posteriormente adicionado ao meio Bushnell Haas suplementado com 3,5% de NaCl,
+em placas de 24 poços. O naftaleno 99% (Sigma–Aldrich) foi utilizado como única fonte de
+15
+carbono. Foram preparados controles negativos, sem células bacterianas, e o crescimento
+microbiano foi avaliado comparando-se a turbidez do meio com a do controle negativo.
+4.6 Teste de emulsificação
+As estirpes isoladas foram cultivadas em meio TSB a 34 °C por 48 horas. Após o
+cultivo, 1 mL da suspensão foi centrifugado a 13.000 × g por 15 minutos, e o sobrenadante foi
+transferido para tubos de 2 mL contendo 1 mL de hexadecano. A mistura foi agitada em vórtex
+por 2 minutos em alta velocidade, e o índice de emulsificação (E₂₄) foi calculado como a
+porcentagem da altura da camada emulsificada (mm) dividida pela altura total do líquido, após
+24 horas em repouso à temperatura ambiente (Cooper e Goldenberg, 1987).
+O teste foi realizado em triplicata, e amostras com valor médio de E₂₄ igual ou superior
+a 40% foram consideradas positivas, sendo selecionadas para os testes de colapso da gota e
+deslocamento de óleo.
+4.7 Testes de colapso da gota e deslocamento de óleo
+Para o teste de colapso da gota, as estirpes foram cultivadas em meio TSB a 34 °C por
+48 horas. Após centrifugação (13.000 × g por 15 minutos), 10 µL do sobrenadante livre de
+células foi depositado sobre uma lâmina de vidro recoberta com óleo cru. Como controle
+positivo, foram utilizados 10 µL de dodecil sulfato de sódio (SDS) a 10%, e como controle
+negativo, 10 µL de água destilada. O teste foi considerado positivo para a produção de
+biossurfactantes quando o diâmetro da gota espalhada, medido com régua milimetrada, excedeu
+em pelo menos 1 mm o diâmetro observado no controle negativo (Jain et al., 1991).
+Para o teste de deslocamento de óleo, adicionou-se uma gota de óleo cru a 25 mL de
+água destilada em uma placa de Petri, e 10 µL do sobrenadante livre de células foi aplicado
+sobre a camada de óleo. O ensaio foi considerado positivo quando houve deslocamento do óleo,
+formando uma zona clara, indicando a presença de biossurfactante. Foram utilizados água
+destilada e SDS a 10% como controles negativo e positivo, respectivamente (Morikawa, Hirata
+e Imanaka, 2000).
+4.8 Amplificação de genes relacionados à degradação de HPA
+Diferentes reações de PCR foram realizadas com iniciadores relacionados à
+degradação de HPA, sendo: pahE1F (5-TGCGGCGGGTGTNAAYGGNA-3’) /pahE1R (5’-
+CCTGAGGAATCTCCCTGAGGAACTCGGACATYTSTGCCCARAAGGACATYTSTGC
+CCARAA-3’) para Betaproteobacteria e Gammaproteobacteria; pahE2F (5’-
+AGCATGGGAACKYTKGGNGA-3’) / pahE2R (5’-TTTGGCGGTVACVACYTG-3’) para
+16
+Alphaproteobacteria (Liang, Huang e Wang, 2019a); Rhd GN-F (5’-
+GAGATGCATACCACGTKGGTTGGA-3’) / Rhd GN-R (5’-
+AGCTGTTGTTCGGGAAGAYWGTGCMGT-3’) para bactérias gram-negativas e Rhd GP-F
+(5’-CGGGAACACGGTGCCRTGDAT RAA- 3’) / Rhd GP-R (5’-
+GGGGAACACGGTGCCRTGDAT-3’) para bactérias gram-positivas (Cébron et al., 2008). Os
+iniciadores pahE amplificam o gene pahE, que codifica enzimas envolvidas na oxidação inicial
+dos anéis aromáticos durante a degradação de HPA, enquanto os iniciadores Rhd amplificam
+genes rhd que codificam dioxigenases do tipo Rieske, associadas às etapas iniciais da
+degradação aeróbia de hidrocarbonetos aromáticos. As condições de amplificação foram as
+mesmas descritas para a identificação das estirpes isoladas (item 4.4).
+5. RESULTADOS
+5.1 Características das áreas de amostragem
+As características físico-químicas dos oito locais de coleta estão descritas na Tabela 2.
+A salinidade da água variou entre 3,0% em NIT e 3,5% em ARP. O valor de pH foi 8 para as
+amostras provenientes de MAR e NIT, enquanto nas demais praias o pH foi igual a 7. A menor
+temperatura do ar registrada ocorreu na URC, atingindo 17 °C, ao passo que a maior
+temperatura foi observada em GRU, com 32 °C (Tabela 2). Durante o período de amostragem,
+todas as praias foram classificadas como próprias para banho, de acordo com os dados de
+balneabilidade divulgados pelo Instituto Estadual do Ambiente do Rio de Janeiro (INEA).
+Tabela 2 – Características físico-químicas da água do mar , registradas no momento da coleta de água, incluindo
+temperatura da água e do ar, salinidade e pH.
+Praia (código) Temperatura
+da água (°C)
+Temperatura
+do ar (°C)
+pH Salinidade (%)
+Arpoador (ARP) 24 28 7 3,5
+Grumari (GRU) 26 32 7 3,4
+Itacuruçá (ITA) 23 24 7 3,2
+Sahy (SAH) 23 23 7 3,3
+Vermelha (URC) 22 17 7 3,1
+Itaipuaçu (MAR) 23 25 8 3,1
+Ferradura (BUZ) 21 21 7 3,2
+Itaipu (NIT) 26 29 8 3,0
+5.2 Isolamento e identificação de estirpes bacterianas
+Após a incubação dos microcosmos contendo naftaleno à temperatura ambiente por 14
+dias, foram obtidos 231 isolados, correspondendo a um mínimo de 27 estirpes por amostra de
+água. A identificação molecular indicou que as bactérias isoladas pertenciam a 35 gêneros
+distintos, dos quais: 13 gêneros foram encontrados em ARP, 11 gêneros em ITA e SAH, 10
+gêneros em GRU e MAR, 9 gêneros em NIT, 8 gêneros em BUZ e 5 gêneros em URC (Figura
+17
+3). Todas as sequências bacterianas foram depositadas no Sequence Read Archive
+(SUB13695071) do banco de dados NCBI.
+Figura 3 – Mapa de calor representando a abundância de cada estirpe bacteriana isolada nas oito praias estudadas.
+Cores mais quentes (tons de amarelo) representam maior abundância e cores mais frias (tons de roxo) representam
+menor abundância de estirpes. O índice de similaridade de Bray –Curtis foi aplicado para avaliar a proximidade
+entre as comunidades bacterianas dos diferentes locais de amostragem, permitindo visualizar padrões de
+distribuição e ocorrência entre as áreas costeiras estudadas.
+Conforme mostrado na Figura 3, alguns gêneros foram isolados apenas em poucas
+amostras de água. Por exemplo, Frondibacter sp., Novosphingobium sp., Tropicimonas sp. e
+18
+Idiomarina sp. foram encontrados somente em ARP. Aurantiacibacter sp. e Cytobacillus sp.
+foram isolados exclusivamente em ITA. Algoriphagus sp. foi detectado em MAR e NIT. SAH
+e ITA foram as únicas praias onde Marinobacter sp., Shimia sp. e Phaeobacter sp. foram
+encontrados. Oceanicola sp. e Polaribacter sp. apareceram apenas em URC. Já os gêneros
+Micrococcus sp., Thalassospira sp. e Roseibacterium sp. foram isolados apenas em NIT (Figura
+3).
+Por outro lado, estirpes pertencentes a determinados gêneros foram encontrados em
+pelo menos metade das praias estudadas: Mesoflavibacter sp. e Muricauda sp. estavam
+presentes em sete praias (exceto URC); Alteromonas sp. foi detectado em 7 das 8 áreas
+analisadas (não encontrado em ITA); Salipiger spfoi encontrado em 5 praias (exceto ITA, NIT
+e URC); Pseudooceanicola sp. foi encontrado em ARP, BUZ, GRU, ITA e URC; e Celeribacter
+sp. foi detectado em 4 praias (ARP, ITA, NIT e URC) (Figura 3).
+5.3 Teste de degradação de naftaleno e amplificação de genes associados à degradação de
+HPA
+Dezessete estirpes apresentaram resultado positivo no teste de degradação de
+naftaleno, sendo estas pertencentes aos gêneros Salipiger, Pseudooceanicola, Alteromonas,
+Marinobacter, Cytobacillus, Micrococcus, Microbacterium e Halopseudomonas (Tabela 3).
+Figura 4 – Exemplo de resultado do experimento de degradação de naftaleno (adaptado de San taren, 2025).
+Legenda: RP: resultado positivo para o teste.
+Com base na identificação das estirpes que demonstraram potencial para degradar o
+naftaleno, foram selecionados iniciadores específicos para a amplificação de genes
+relacionados à degradação de hidrocarbonetos. Como as bactérias Cytobacillus (ITA 30 e ITA
+34), Micrococcus (NIT 15) e Microbacterium (SAH 15) são gram-positivas, foi utilizado o
+19
+iniciador Rhd GP. Já as demais estirpes, como pertencem a gêneros constituídos de bactérias
+gram-negativas, foi empregado o iniciador Rhd GN.
+Além disso, para Proteobacteria, também foram utilizados iniciadores mais
+específicos: o iniciador pahE2 foi aplicado para Alphaproteobacteria — Salipiger (ARP 20 e
+SAH 13) e Pseudooceanicola (BUZ 2); enquanto o iniciador pahE1 foi direcionado às
+Gammaproteobacteria — Halopseudomonas (SAH 29), Alteromonas (ARP 24, GRU 12, URC
+28) e Marinobacter (ITA 10, ITA 20, ITA 29, SAH 14, SAH 27, SAH 32).
+A amplificação por PCR dos genes associados à degradação de HPA revelou que 8 das
+17 estirpes testadas apresentaram resultados positivos para a presença desses genes (Tabela 3).
+5.4 Testes de emulsificação, deslocamento de óleo e colapso de gota
+Dentre as 231 estirpes analisadas, 18 apresentaram índice de emulsificação (E24)
+variando entre 40 e 72,1% (Tabela 3). Essas estirpes pertencem aos gêneros Idiomarina,
+Alteromonas, Roseivirga, Marinobacter, Cytobacillus, Celeribacter e Pseudooceanicola.
+Os maiores valores de emulsificação foram observados nas estirpes dos gêneros
+Idiomarina sp. (ARP 22) e Alteromonas sp. (BUZ 8, URC 28 e URC 30), com índices
+superiores a 69% (Tabela 3). Entre as 18 estirpes avaliadas, seis apresentaram resultados
+positivos tanto no teste de colapso de gota quanto no de deslocamento de óleo:
+Pseudooceanicola sp. (ARP 21), Idiomarina sp. (ARP 22), Alteromonas sp. (ARP 24),
+Roseivirga sp. (GRU 24), Marinobacter sp. (ITA 27) e Cytobacillus sp. (ITA 30) (Tabela 3).
+Por fim, as estirpes Pseudooceanicola sp. (BUZ 2), Cytobacillus sp. (ITA 30 e ITA
+34) e Alteromonas sp. (ARP 24 e URC 28) demonstraram potencial para degradar naftaleno e
+para produzir bioemulsificantes e/ou biossurfactantes (Tabela 3).
+Tabela 3 – Estirpes bacterianas apresentando resultados positivos para degradação de naftaleno e/ou emulsificação
+de hexadecano (E24 maior ou igual a 40%). Legenda: Negativo (-); Positivo (+), Não testado (Nt).
+Código
+da
+estirpe
+Praia Gênero Teste de
+degradação
+E24
+média
+Teste de
+deslocamento de
+óleo e colapso da
+gota
+PCR
+ARP 20 Arpoador Salipiger sp. + - Nt +
+ARP 21 Arpoador Pseudooceanicola sp. - 58,3% + Nt
+ARP 22 Arpoador Idiomarina sp. - 70,6% + Nt
+ARP 24 Arpoador Alteromonas sp. + 40% + -
+ARP 29 Arpoador Celeribacter sp. - 60% - Nt
+ARP 31 Arpoador Alteromonas sp. - 59% - Nt
+BUZ 1 Ferradura Alteromonas sp. - 66,3% + Nt
+20
+BUZ 2 Ferradura Pseudooceanicola sp. + 58% - -
+BUZ 8 Ferradura Alteromonas sp. - 69,3% + Nt
+GRU 12 Grumari Alteromonas sp. + - Nt -
+GRU 24 Grumari Roseivirga sp. - 50,4% + Nt
+ITA 10 Itacuruçá Marinobacter sp. + - Nt +
+ITA 20 Itacuruçá Marinobacter sp. + - Nt -
+ITA 25 Itacuruçá Marinobacter sp. - 61,6% - Nt
+ITA 27 Itacuruçá Marinobacter sp. - 52,9% + Nt
+ITA 28 Itacuruçá Marinobacter sp. - 59,3% - Nt
+ITA 29 Itacuruçá Marinobacter sp. + - Nt -
+ITA 30 Itacuruçá Cytobacillus sp. + 67% + +
+ITA 34 Itacuruçá Cytobacillus sp. + 61% - +
+NIT 15 Itaipu Micrococcus sp. + - Nt -
+SAH 13 Sahy Salipiger sp. + - Nt -
+SAH 14 Sahy Marinobacter sp. + - Nt +
+SAH 15 Sahy Microbacterium sp. + - Nt -
+SAH 27 Sahy Marinobacter sp. + - Nt -
+SAH 29 Sahy Halopseudomonas sp. + - Nt +
+SAH 32 Sahy Marinobacter sp. + - Nt +
+SAH 33 Sahy Marinobacter sp. - 48,5% - Nt
+URC 27 Vermelha Celeribacter sp. - 63,4% - Nt
+URC 28 Vermelha Alteromonas sp. + 71% - +
+URC 30 Vermelha Alteromonas sp. - 72,1% - Nt
+Figura 5 – Exemplos de resultados dos experimentos descritos no tópico 5.4: a. Teste de emulsificação; b. Teste
+de deslocamento de óleo; c. Teste do colapso da gota (adaptado de Santaren, 2025). Legenda: CP: controle
+positivo; CN: controle negativo; RP: resultado positivo para o teste.
+21
+6. DISCUSSÃO
+Neste estudo, foram analisadas amostras de água coletadas em oito praias do estado do
+Rio de Janeiro, buscando isolar e caracterizar bactérias com capacidade de tolerar e/ou degradar
+o naftaleno – modelo de HPA, incluindo aquelas produtoras de bioemulsificantes ou
+biossurfactantes. As praias amostradas pertencem a diferentes regiões da costa fluminense,
+sendo que as mais distantes entre si, SAH e BUZ, encontram-se separadas por
+aproximadamente 160 quilômetros.
+Nos locais amostrados, a salinidade variou entre 3,0 % e 3,5%, e o pH apresentou
+valores neutros a levemente alcalinos (7–8), condições compatíveis com a atividade de bactérias
+marinhas degradadoras de hidrocarbonetos. Segundo Das e Chandran (2011), a presença de
+microrganismos com capacidades metabólicas adequadas, combinada com nutrientes, oxigênio
+e pH favorável (entre 6 e 9), é essencial para manter taxas ótimas de crescimento e
+biodegradação de hidrocarbonetos de petróleo. Em experimentos com microcosmos contendo
+água do mar, observou-se que gêneros frequentemente envolvidos na degradação de
+hidrocarbonetos, como Marinobacter, predominam em salinidades em torno de 4 %, ao passo
+que variações extremas de salinidade tendem a afetar negativamente o metabolismo microbiano
+(Martins e Peixoto, 2012; Jurelevicius et al., 2013). Assim, os dados de salinidade e pH
+observados nas praias estudadas sugerem que essas condições são favoráveis para a presença e
+atuação de microrganismos com potencial de biorremediação de hidrocarbonetos.
+A aplicação de processos de biorremediação tem sido considerada em diferentes
+contextos como uma alternativa ecológica em potencial para lidar com os efeitos de
+derramamentos de óleo (Gogoi et al., 2025). Diversas bactérias têm sido amplamente estudadas
+por seu papel essencial na degradação de compostos derivados do petróleo, já que muitas
+estirpes bacterianas de diversas espécies possuem vias metabólicas capazes de utilizar
+hidrocarbonetos como fonte de carbono e energia, promovendo a remoção natural desses
+poluentes em ambientes contaminados (Martínez-Rivera e Cardona-Gallo, 2021; Prartono et
+al., 2022).
+A detecção de dezessete estirpes com potencial para a degradação de naftaleno,
+pertencentes aos gêneros Salipiger, Pseudooceanicola, Alteromonas, Marinobacter,
+Cytobacillus, Micrococcus, Microbacterium e Halopseudomonas, indica que tanto
+microrganismos tradicionalmente conhecidos pela degradação de HPA quanto grupos menos
+estudados podem contribuir para a remoção de compostos aromáticos em ambientes marinhos.
+22
+Alteromonas, Marinobacter, Micrococcus e Microbacterium são gêneros cujas
+estirpes têm demonstrado potencial para degradar HPA, com evidências tanto em análises
+genômicas quanto em experimentos realizados em ecossistemas marinhos contaminados.
+Estudos mostram que essas bactérias podem atuar em diferentes frações de HPA, contribuindo
+para a redução de poluentes em sedimentos costeiros ou até mesmo ambientes hipersalinos. A
+combinação de dados genômicos e testes de degradação in vitro reforça seu potencial
+metabólico e sugere que essas estirpes podem ser componentes importantes de consórcios
+microbianos voltados à mitigação de hidrocarbonetos aromáticos em ambientes marinhos
+(Sheng et al., 2009; Ifeanyi e Ihenatuoha, 2011; Jin et al., 2012; Ahmad et al., 2021; Fan et al.,
+2022; Jamal, 2022; Logeshwaran et al., 2022; Iriani, Allison e Bugg, 2025).
+Salipiger e Pseudooceanicola são gêneros cujas capacidades de degradar HPA ainda
+são pouco exploradas, com poucos estudos relatando sua atuação em ambientes marinhos (Lai
+et al., 2015; Louvado et al., 2015; Yani et al., 2020; Li et al., 2023). De forma semelhante,
+Halopseudomonas e Cytobacillus apresentam evidências ainda mais limitadas de participação
+na degradação de HPA (Rojas-Vargas et al., 2024; Alim et al., 2025). Essa limitação pode estar
+relacionada às recentes reclassificações desses gêneros, que reorganizaram espécies
+anteriormente atribuídas aos gêneros Pseudomonas e Bacillus, respectivamente (Patel e Gupta,
+2020; Rudra e Gupta, 2021). Apesar do potencial indicado, são necessários mais estudos
+experimentais e genômicos para melhor compreender a capacidade desses gêneros na
+degradação de HPA em ecossistemas marinhos.
+Os resultados positivos observados tanto no ensaio fenotípico de degradação de
+naftaleno quanto na PCR são consistentes com a literatura e indicam que essas estirpes
+apresentam vias metabólicas bem definidas para a degradação de HPA. Estudos com Salipiger
+demonstram que espécies desse gênero, isoladas de consórcios enriquecidos com HPA,
+possuem não apenas a capacidade funcional de degradar compostos aromáticos, mas também
+evidências genéticas dessa atividade, com a identificação de genes envolvidos nas etapas
+iniciais da oxidação do anel aromático (Li et al., 2023).
+De forma semelhante, espécies de Marinobacter são amplamente descritas como
+portadoras de clusters gênicos do tipo nah e pah, associados à codificação de dioxigenases
+responsáveis pela ativação do naftaleno, enquanto Alteromonas tem sido apontada como um
+gênero-chave na biodegradação de HPA em ambientes marinhos, com detecção consistente de
+genes de dioxigenases e atividade degradadora tanto in vitro quanto em condições ambientais
+(Jin et al., 2012; Wang et al., 2017).
+23
+Por outro lado, a ocorrência de degradação in vitro em estirpes que não apresentaram
+amplificação por PCR é compatível com o que tem sido descrito na literatura. Marcadores
+funcionais como pahE são amplamente utilizados, porém não abrangem toda a diversidade
+genética envolvida na degradação de HPA, de modo que variações nas sequências gênica s
+podem impedir o pareamento adequado dos iniciadores e resultar em falsos negativos. Além
+disso, alguns microrganismos podem utilizar enzimas ou vias metabólicas alternativas para
+degradar o naftaleno, que não são detectadas pelos iniciadores empregados neste estudo, o que
+explica a discordância entre os resultados fenotípicos e moleculares observados (Liang et al.,
+2019a; Vogel et al., 2024).
+Além da degradação de hidrocarbonetos, a produção de bioemulsificantes e
+biossurfactantes por microrganismos é fundamental na biorremediação, pois amplia a
+biodisponibilidade de poluentes hidrofóbicos e favorece sua remoção de ambientes
+contaminados (Sharma, Lavania e Lal, 2021).
+Nesse sentido, os gêneros Marinobacter, Alteromonas, Cytobacillus e
+Pseudooceanicola também apresentaram resultados positivos no teste de emulsificação, com
+índices variando entre 40 e 72%. Na literatura, há evidências que reforçam potencial de
+produção de bioemulsificantes e biossurfactantes de estirpes pertencente aos três primeiros
+gêneros (Dikit, Maneerat e Saimmai, 2019; Concórdio-Reis et al., 2021; Kalumbe e Pawar,
+2025). Contudo, para Pseudooceanicola, ainda não há relatos disponíveis sobre a produção
+desses compostos, tornando relevante a investigação de estirpes pertencentes a esse gênero,
+como das estirpes ARP 21, que demonstrou atividade emulsificante, e BUZ 2, que além de
+produzir, também apresentou resultado positivo no teste de degradação de naftaleno.
+A frequência de estirpes pertencentes a determinados gêneros bacterianos entre as
+praias analisadas, mesmo diante da distância geográfica entre os pontos de coleta, revela um
+padrão ecológico relevante. A presença de Alteromonas, Salipiger e Pseudooceanicola em
+diferentes locais indica que esses microrganismos possuem ampla distribuição em ambientes
+marinhos costeiros, conseguindo persistir em condições típicas desse ecossistema. Essa
+recorrência, aliada ao potencial de degradação de HPA e à habilidade de produzir
+bioemulsificantes e biossurfactantes observada em algumas estirpes, como a BUZ 2 e a ARP
+24, sugere que esses grupos microbianos podem desempenhar papel importante na atenuação
+natural desses compostos em ecossistemas marinhos.
+Embora não tenham apresentado atividade nos testes realizados neste estudo, estirpes
+pertencentes aos gêneros Mesoflavibacter e Muricauda foram detectadas em sete das oito praias
+amostradas, indicando ampla distribuição nos ambientes marinhos estudados. Evidências na
+24
+literatura mostram que estirpes desses gêneros podem possuir genes funcionais relacionados à
+degradação de hidrocarbonetos, incluindo compostos aromáticos, e já foram associadas a locais
+impactados por derramamentos de óleo, como observações na costa europeia e em amostras do
+Rio de Janeiro contaminadas com heptadecano e petróleo bruto (Jurelevicius et al., 2013;
+Acosta-González et al., 2015; Peeb et al., 2022).
+A ampla distribuição de gêneros como Alteromonas, Salipiger, Pseudooceanicola,
+Mesoflavibacter e Muricauda nas praias estudadas, aliada ao potencial de degradação de HPA
+e à capacidade de produzir bioemulsificantes ou biossurfactantes neste estudo ou relatado na
+literatura, sugere que esses microrganismos não apenas desempenham papel funcional
+importante em ecossistemas marinhos, mas também apresentam características que os tornam
+relevantes na seleção de possíveis indicadores de contaminação. A frequência elevada desses
+gêneros favorece a detecção de respostas microbianas típicas da exposição a hidrocarbonetos,
+como alterações na abundância relativa, mudanças na estrutura da comunidade e aumento na
+expressão de genes associados à degradação (Rahmati et al., 2022), indicando que podem ser
+considerados candidatos promissores para estudos voltados à identificação de potenciais
+biomarcadores em programas de biomonitoramento ambiental.
+A partir dessa perspectiva, o biomonitoramento microbiano tem sido reconhecido
+como uma abordagem sensível para a avaliação de contaminação por petróleo, uma vez que
+comunidades bacterianas respondem rapidamente à presença de hidrocarbonetos por meio de
+alterações na composição taxonômica, na abundância relativa de grupos funcionais e na
+expressão de genes associados à degradação. Diferentemente de parâmetros físico-químicos
+pontuais, essas respostas biológicas refletem tanto a exposição quanto o impacto ecológico dos
+contaminantes ao longo do tempo, tornando os microrganismos indicadores eficientes de
+pressão ambiental em ecossistemas aquáticos e marinhos (Kumar et al., 2024; Liu et al., 2024).
+Sob esse enfoque, a recorrência de gêneros como Alteromonas, Salipiger e
+Pseudooceanicola em diferentes praias analisadas neste estudo reforça seu potencial como
+bioindicadores de contaminação por petróleo. Esses grupos são frequentemente descritos como
+bactérias oportunistas, capazes de responder rapidamente ao enriquecimento por
+hidrocarbonetos, apresentando aumento significativo de abundância em ambientes impactados
+por óleo. Assim, variações espaciais e temporais na ocorrência desses gêneros têm sido
+associadas ao grau de impacto ambiental e à dinâmica de recuperação de ecossistemas costeiros,
+refletindo processos de pressão e atenuação natural relacionados à poluição por petróleo
+(Rahmati et al., 2022; Liu et al., 2024; Bayatian, Pourbabaee e Amoozegar, 2025).
+25
+Além disso, a associação entre a capacidade de degradação de HPA, a produção de
+bioemulsificantes e a ampla distribuição geográfica observada em algumas estirpes sugere que
+esses microrganismos podem atuar não apenas como agentes de atenuação natural, mas também
+como ferramentas de biomonitoramento funcional. A detecção recorrente desses grupos, aliada
+à identificação de respostas metabólicas específicas, permite inferir tanto a presença de
+hidrocarbonetos quanto o estado funcional do ecossistema, fornecendo informações relevantes
+para programas de monitoramento ambiental baseados em indicadores biológicos e para a
+avaliação da eficácia de estratégias de biorremediação (Martins, Costa e Bianchini, 2023; PérezVázquez et al., 2024).
+O destaque para as estirpes Pseudooceanicola sp. BUZ 2 e Alteromonas sp. ARP 24 e
+URC 28, que combinaram o potencial de degradação de hidrocarbonetos com a produção de
+emulsificantes, reforça a relevância desses isolados como candidatos promissores para
+estratégias de biorremediação. Essa capacidade de degradar compostos hidrofóbicos e aumentar
+sua biodisponibilidade é especialmente vantajosa em ambientes marinhos, onde a dispersão dos
+poluentes é influenciada por uma série de fatores físico-químicos complexos, como salinidade,
+temperatura, turbulência, pressão e presença de partículas em suspensão, que afetam a
+solubilidade e a disponibilidade dos hidrocarbonetos para degradação microbiana (Das e
+Chandran, 2011).
+A caracterização das estirpes neste estudo representa, portanto, um avanço
+significativo na investigação da diversidade microbiana marinha associada à degradação de
+HPA e produção de bioemulsificantes/biossurfactantes. A partir desse estudo foi selecionada
+uma coleção de culturas com potencial biotecnológico para futuras investigações e aplicações
+em estratégias de biorremediação e biomonitoramento, particularmente em regiões tropicais
+sujeitas à contaminação por petróleo e seus derivados.
+26
+7. CONCLUSÃO
+Os resultados obtidos neste trabalho indicam que diferentes gêneros demonstraram
+potencial para a degradação de HPA ou para a produção de biossurfactantes e/ou
+bioemulsificantes, com alguns se destacando de forma particularmente interessante.
+Alteromonas, Pseudooceanicola e Salipiger apresentaram ampla distribuição nas praias
+estudadas e desempenhos relevantes diante dos hidrocarbonetos avaliados. Entre eles, estirpes
+de Alteromonas e Pseudooceanicola mostraram capacidade consistente de associar a
+degradação de HPA à produção de compostos dispersantes, enquanto Salipiger contribuiu de
+maneira expressiva pela eficiência na degradação de HPA. Esses resultados reforçam o papel
+estratégico desses grupos microbianos na atenuação de poluentes hidrofóbicos em ambientes
+marinhos. Assim, esse estudo contribui para a formação de uma coleção de culturas com valor
+biotecnológico e colabora para futuras pesquisas que explorem sua aplicação para a
+biorremediação e biomonitoramento de ambientes marinhos, que representam estratégias
+sustentáveis de mitigação de impactos ambientais decorrentes de derramamentos de petróleo e
+seus derivados.
+27
+8. REFERÊNCIAS
+Acosta-González, A., Abercron, S.-M. M., Rosselló-Móra, R., Wittich, R.-M. e Marqués, S. (2015). The effect
+of oil spills on the bacterial diversity and catabolic function in coastal sediments: a case study on the Prestige oil
+spill. Environmental Science and Pollution Research, 22, 15200–15214.
+Ahmad, M., Ling, J., Zhang, Y., Sajjad, W., Yang, Q., Zhou, W. e Dong, J. (2021). Effect of pyrene and
+phenanthrene in shaping bacterial communities in seagrass meadows sediments. Archives of Microbiology, 203,
+4259–4272.
+Alim, M. B., Oves, M., Jamal, M. T. e Kunarso, K. (2025). Comparative hydrocarbon biodegradation by Bacillus
+haikouensis and Cytobacillus kochii: pure culture versus consortium performance. Journal of Pure & Applied
+Microbiology, 19, 2069–2086.
+Alló, M. e Loureiro, M. (2013). Estimating a meta-damage regression model for large accidental oil spills.
+Ecological Economics, 86, 167–175.
+ANP (2024). Agência Nacional do Petróleo, Gás Natural e Biocombustíveis. Relatório Anual de Segurança
+Operacional das Atividades de Exploração e Produção de Petróleo e Gás Natural de 2023. Rio de Janeiro: ANP.
+Disponível em: https://www.gov.br/anp/pt-br/assuntos/exploracao-e-producao -de-oleo-e-gas/segurancaoperacional/arq/raso/2023-relatorio-anual-seguranca-operacional.pdf. Acesso em 18/06/2025.
+Banat, I.M., Satpute, S.K., Cameotra, S.S., Patil, R. e Nyayanit, N.V. (2014). Cos t effective technologies and
+renewable substrates for biosurfactants production. Frontiers in Microbiology, 5, 697.
+Bayatian, M., Pourbabaee, A. A. e Amoozegar, M. A. (2025). Revealing the composition of bacterial
+communities in various oil-contaminated soils and investigating their intrinsic traits in hydrocarbon degradation.
+Scientific Reports, 15(1), 22016.
+Bekins, B. A., Brennan, J. C., Tillitt, D. E., Cozzarelli, I. M., Illig, J. M. e Martinović-Weigelt, D. (2020).
+Biological effects of hydrocarbon degradation intermediates: is the total petroleum hydrocarbon analytical
+method adequate for risk assessment? Environmental Science & Technology, 54, 11396–11404.
+Beyer, J., Trannum, H.C., Bakke, T., Hodson, P.V. e Collier, T.K. (2016). Environmental effects of the
+Deepwater Horizon oil spill: a review. Marine Pollution Bulletin, 110(1), 28 –51.
+Bukowska, B. e Sicińska, P. (2021). Influence of benzo(a)pyrene on different epigenetic processes. International
+Journal of Molecular Sciences, 22, 13453.
+Caporaso, J. G., Lauber, C. L., Walters, W. A., Berg-Lyons, D., Lozupone, C. A., Turnbaugh, P. J., Fierer, N. e
+Knight, R. (2011). Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample.
+Proceedings of the National Academy of Sciences of the United States of America, 1 08, 4516–4522.
+Cardoso, A. D. G. B. (2022). Desenvolvimento de biomarcadores para detecção da presença de hidrocarbonetos
+em ambientes marinhos do Rio de Janeiro. Trabalho de Conclusão de Curso (Bacharelado em Ciências
+Biológicas: Microbiologia e Imunologia) – Instituto de Microbiologia Paulo de Góes, Universidade Federal do
+Rio de Janeiro, Rio de Janeiro.
+Carlos, L. M., Camacho, K. F., Duarte, A. W., Oliveira, V. M., Boroski, M., Rosa, L. H., Vieira, R., Neto, A. A.,
+Ottoni, J. R. e Passarini, M. R. Z. (2023). Bioprospecting the potential of the microbial community associated to
+Antarctic marine sediments for hydrocarbon bioremediation. Brazilian Journal of Microbiology, 54, 471–485.
+Cébron, A., Norini, M. P., Beguiristain, T. e Dubois, E. (2008). Real-time PCR quantification of PAH-ring
+hydroxylating dioxygenase genes from Gram positive and Gram-negative bacteria in soils contaminated with
+polycyclic aromatic hydrocarbons. Journal of Microbiological Methods, 73, 148–159.
+Concórdio-Reis, P., Alves, V. D., Moppert, X., Guézennec, J., Freitas, F. e Reis, M. A. (2021). Characterization
+and biotechnological potential of extracellular polysaccharides synthesized by Alteromonas strains isolated from
+French Polynesia marine environments. Marine Drugs, 19, 522.
+28
+Cooper, D. G. e Goldenberg, B. G. (1987). Surface-active agents from two Bacillus species. Applied and
+Environmental Microbiology, 53, 224–229.
+Court, C., Hodges, A. W., Coffey, K., Ainsworth, C. H. e Yoskowitz, D. (2020). Effects of the Deepwater
+Horizon oil spill on human communities: catch and economic impacts. In: Deep Oil Spills: Facts, Fate, and
+Effects. Murawski, S. A., Ainsworth, C. H., Gilbert, S., Hollander, D. J., Paris, C. B., Schlüter, M. e Wetzel, D.
+L., eds. (Cham, Springer), pp. 569–580.
+Das, N. e Chandran, P. (2011). Microbial degradation of petroleum hydrocarbon contaminants: an overview.
+Biotechnology Research International, 2011, 941810.
+Dave, D. e Ghaly, A. E. (2011). Remediation technologies for marine oil spills: a critical review and comparative
+analysis. American Journal of Environmental Sciences, 7, 423–440.
+Davletgildeeva, A. T. e Kuznetsov, N. A. (2024). Bioremediation of polycyclic aromatic hydrocarbons by means
+of bacteria and bacterial enzymes. Microorganisms, 12(9), 1814.
+Dhaka, A. e Chattopadhyay, P. (2021). A review on physical remediation techniques for treatment of marine oil
+spills. Journal of Environmental Management, 288, 112428.
+Dikit, P., Maneerat, S. e Saimmai, A. (2019). The effective emulsifying property of biosurfactant–producing
+Marinobacter hydrocarbonoclasticus ST1 obtained from palm oil contaminated sites. Applied Biochemistry and
+Microbiology, 55, 615–625.
+Ekperusi, A. O., Onyena, A. P., Akpudo, M. Y., Peter, C. C., Akpoduado, C. O. e Ekperusi, O. H. (2019). In-situ
+burning as an oil spill control measure and its effect on the environment. In: Anais do SPE Nigeria Annual
+International Conference and Exhibition, Lagos, Nigéria, p. D023S025R005.
+ENERGY INSTITUTE (2024). The Energy Institute Statistical Review of World Energy (74. ed.). Disponível
+em: https://www.energyinst.org/statistical-review. Acesso em 15/06/2025.
+Estevo, M. de O., Lopes, P. F. M., de Oliveira Júnior, J. G. C., Junqueira, A. B., de Oliveira Santos, A. P., da
+Silva Lima, J. A., Malhado, A. C. M., Ladle, R. J. e Campos-Silva, J. V. (2021). Immediate social and economic
+impacts of a major oil spill on Brazilian coastal fishing communities. Marine Pollution Bulletin, 164, 111984.
+Fan, W., Jin, J., Zhang, Z., Han, L., Li, K. e Wang, C. (2022). Degradation of phenanthrene by consortium 5H
+under hypersaline conditions. Environmental Pollution, 308, 119730.
+García-García, R., Bocanegra-García, V., Vital-López, L., García-Mena, J., Zamora-Antuñano, M. A., CruzHernández, M. A., Rodríguez-Reséndiz, J. e Mendoza-Herrera, A. (2023). Assessment of the microbial
+communities in soil contaminated with petroleum using next-generation sequencing tools. Applied Sciences, 13,
+6922.
+Gogoi, R., Bora, S. S., Gogoi, B., Naorem, R. S. e Barooah, M. (2025). Insights into the microbial diversity and
+functionalities of potential hydrocarbon-degrading bioremediation agents in oil spill sludge of Assam, India.
+Archives of Microbiology, 207, 1–15.
+Guermouche, A. M., Bensalah, F., Gury, J. e Duran, R. (2015). Isolation and characterization of different
+bacterial strains for bioremediation of n-alkanes and polycyclic aromatic hydrocarbons. Environmental Science
+and Pollution Research, 22, 15332–15346.
+Haritash, A. K. e Kaushik, C. P. (2009). Biodegradation aspects of polycyclic aromatic hydrocarbons (PAHs): a
+review. Journal of Hazardous Materials, 169, 1–15.
+Hasan, A. M. A., Kamal, R. S., Farag, R. K. e Abdel Raouf, M. E. (2024). Petroleum sludge formation and its
+treatment methodologies: a review. Environmental Science and Pollution Research, 31, 8369–8386.
+IBP (2025). Instituto Brasileiro de Petróleo e Gás. Panorama Geral do Setor de O&G: Uma Agenda para o
+Futuro. Rio de Janeiro: IBP. Disponível em: https://www.ibp.org.br/publicacoes/panorama-geral-do-setor-deoleo-e-gas-uma-agenda-para-o-futuro/. Acesso em 15/06/2025.
+29
+Ifeanyi, V. O. e Ihenatuoha, U. A. (2011). Effects of the consortium of Pseudomonas, Bacillus and Micrococcus
+spp. on polycyclic aromatic hydrocarbons in crude oil. Nigerian Journal of Biotechnology, 22, 28–33.
+Iriani, P., Allison, G. G. e Bugg, T. D. (2025). Degradation of brown coal and 1-methylnaphthalene by a
+Micrococcus luteus isolate: investigation of a novel aromatic degradation gene cluster containing paa genes.
+Journal of Applied Microbiology, 136, lxaf153.
+Ivshina, I. B., Kuyukina, M. S., Krivoruchko, A. V., Elkin, A. A., Makarov, S. O., Cunningham, C. J., Peshkur,
+T. A., Atlas, R. M. e Philp, J. C. (2015). Oil spill problems and sustainable response strategies through new
+technologies. Environmental Science: Processes & Impacts, 17, 1201–1219.
+Jain, D. K., Collins-Thompson, D. L., Lee, H. e Trevors, J. T. (1991). A drop-collapsing test for screening
+surfactant-producing microorganisms. Journal of Microbiological Methods, 13, 271–279.
+Jamal, M. T. (2022). Enrichment of potential halophilic Marinobacter consortium for mineralization of
+petroleum hydrocarbons and also as oil reservoir indicator in Red Sea, Saudi Arabia. Polycyclic Aromatic
+Compounds, 42, 400–411.
+Jin, H. M., Kim, J. M., Lee, H. J., Madsen, E. L. e Jeon, C. O. (2012). Alteromonas as a key agent of polycyclic
+aromatic hydrocarbon biodegradation in crude oil-contaminated coastal sediment. Environmental Science &
+Technology, 46, 7731–7740.
+Jin, H. M., Kim, K. H. e Jeon, C. O. (2015). Alteromonas naphthalenivorans sp. nov., a polycyclic aromatic
+hydrocarbon-degrading bacterium isolated from tidal-flat sediment. Internation al Journal of Systematic and
+Evolutionary Microbiology, 65, 4208–4214.
+Jurelevicius, D., Alvarez, V. M., Marques, J. M., de Sousa Lima, L. R. F., Dias, F. D. A. e Seldin, L. (2013).
+Bacterial community response to petroleum hydrocarbon amendments in freshwater, marine, and hypersaline
+water-containing microcosms. Applied and Environmental Microbiology, 79, 5927–5935.
+Kalumbe, A. A. e Pawar, S. T. (2025). Isolation and characterization of biosurfactant-producing Cytobacillus
+oceanisediminis MS-05A. International Journal of Plant and Environment, 11, 279–288.
+Kanaly, R. A. e Harayama, S. (2000). Biodegradation of high molecular weight polycyclic aromatic
+hydrocarbons by bacteria. Journal of Bacteriology, 182, 2059–2067.
+Kumar, K., Kumar, S., Shukla, S. P. e Bhramchari, R. K. (2024). "Microbial indicators of aquatic pollution". In
+Handbook of aquatic microbiology. CRC Press, 171-182.
+Kuppusamy, S., Thavamani, P., Singh, S., Megharaj, M. e Naidu, R. (2017). Polycyclic aromatic hydrocarbons
+(PAHs) degradation potential, surfactant production, metal resistance and enzymatic activity of two novel
+cellulose-degrading bacteria isolated from koala faeces. Environmental Earth Sciences, 76, 14.
+Kwok, R. K., Engel, L. S., Miller, A. K., Blair, A., Curry, M. D., Jackson II, W. B., Stewart, P. A., Stenzel, M.
+R., Birnbaum, L. S., Sandler, D. P. e GuLF STUDY Research Team. (2017). The GuLF STUDY: a prospective
+study of persons involved in the Deepwater Horizon oil spill response and clean-up. Environmental Health
+Perspectives, 125, 570–578.
+Laffon, B., Pásaro, E. e Valdiglesias, V. (2016). Effects of exposure to oil spills on human health: updated
+review. Journal of Toxicology and Environmental Health, Part B, 19, 105–128.
+Lai, Q., Li, G., Liu, X., Du, Y., Sun, F. e Shao, Z. (2015). Pseudooceanicola atlanticus gen. nov. sp. nov.,
+isolated from surface seawater of the Atlantic Ocean and reclassification of Oceanicola batsensis, Oceanicola
+marinus, Oceanicola nitratireducens, Oceanicola nanhaiensis, Oceanicola antarcticus and Oceanicola
+flagellatus, as Pseudooceanicola batsensis comb. nov., Pseudooceanicola marinus comb. nov.,
+Pseudooceanicola nitratireducens comb. nov., Pseudooceanicola nanhaiensis comb. nov., Pseudooceanicola
+antarcticus comb. nov., and Pseudooceanicola flagellatus comb. nov. Antonie Van Leeuwenhoek, 107, 1065–
+1074.
+30
+Li, J., Lai, Q., Hu, A., Liu, H., Qin, D., Yang, X., Tian, Y. e Yu, C. P. (2023). Salipiger pentaromativorans sp.
+nov., a polycyclic aromatic hydrocarbon-degrading bacterium isolated from mangrove sediment. International
+Journal of Systematic and Evolutionary Microbiology, 73, 005716.
+Liang, C., Huang, Y. e Wang, H. (2019a). pahE, a functional marker gene for polycyclic aromatic hydrocarbondegrading bacteria. Applied and Environmental Microbiology, 85, 1–17.
+Liang, Y., Huang, X. e Wang, W. (2019b). Diversity and abundance of alkane hydroxylase genes in oilcontaminated marine sediments revealed by metagenomic analysis. Environmental Pollution, 251, 815–823.
+Lima, R.M.S.R., Zanetti, K., Krawulski, C.C., Trigueiro, R.M. e Luiz, L.A.C. (2014). Recursos naturais e fontes
+de energia. In: Suzuki Rosa Lima, M., Zanetti, K., Krawulski, C.C., Trigueiro, R.M., Luiz, L.A.C., orgs.
+(Londrina: Unopar), pp. 51–52.
+Liu, Q., He, W., Zhang, W., Wang, L. e Tang, J. (2024). Metagenomic analysis reveals the microbial response to
+petroleum contamination in oilfield soils. Science of The Total Environment, 912, 168972.
+Liu, Q., Tang, J., Bai, Z., Hecker, M. e Giesy, J. P. (2015). Distribution of petroleum degrading genes and factor
+analysis of petroleum contaminated soil from the Dagang Oilfield, China. Scientific Reports, 5, 11068.
+Logeshwaran, P., Subashchandrabose, S. R., Krishnan, K., Sivaram, A. K., Annamalai, P., Naidu, R. e Megharaj,
+M. (2022). Polycyclic aromatic hydrocarbons biodegradation by fenamiphos degrading Microbacterium
+esteraromaticum MM1. Environmental Technology & Innovation, 27, 102465.
+Louvado, A., Gomes, N. C. M., Simões, M. M. Q., Almeida, A. P., Cleary, D. F. R. e Cunha, A. (2015).
+Polycyclic aromatic hydrocarbons in deep sea sediments: microbe–pollutant interactions in a remote
+environment. The Science of the Total Environment, 526, 312–328.
+Macaulay, B.M. e Rees, D. (2014). Bioremediation of oil spills: a review of challenges for research
+advancement. Annals of Environmental Science, 8, 9–37.
+Mallah, M. A., Changxing, L., Mallah, M. A., Noreen, S., Liu, Y., Saeed, M., Xi, H., Ahmed, B., Feng, F.,
+Mirjat, A. A., Wang, W., Jabar, A., Naveed, M., Li, J.-H. e Zhang, Q. (2022). Polycyclic aromatic hydrocarbon
+and its effects on human health: an overview. Chemosphere, 296, 133948.
+Martínez-Rivera, A. e Cardona-Gallo, S. A. (2021). Oil bioremediation in soils contaminated with oil spills in
+tropical environments. Anais da Academia Brasileira de Ciências, 93, e20201102.
+Martins, L. F. e Peixoto, R. S. (2012). Biodegradation of petroleum hydrocarbons in hypersaline environments.
+Brazilian Journal of Microbiology, 43, 865–872.
+Martins, M. F., Costa, P. G. e Bianchini, A. (2023). Bioaccumulation and potential impacts of persistent organic
+pollutants and contaminants of emerging concern in guitarfishes and angelsharks from Southeastern Brazil.
+Science of the Total Environment, 893, 164873.
+Masaki, T., Okazawa, M., Asano, R., Inagaki, T., Ishibashi, T., Yamagishi, A., Umeki-Mizushima, S.,
+Nishimura, M., Manabe, Y., Ishibashi-Ueda, H., Shirai, M., Tsuchimochi, H., Pearson, J. T., Kumanogoh, A.,
+Sakata, Y., Ogo, T., Kishimoto, T. e Nakaoka, Y. (2021). Aryl hydrocarbon receptor is essential for the
+pathogenesis of pulmonary arterial hypertension. Proceedings of the National Academy of Sciences, 118, 11.
+Massol-Deya, A.A., Odelson, D.A., Hickey, R.F. e Tiedje, J.M. (1995). Bacterial community fingerprinting of
+amplified 16S and 16–23S ribosomal DNA gene sequences and restriction endonuclease analysis (ARDRA). In:
+Akkermans, A.D.L., Van Elsas, J.D., De Bruijn, F.J., eds. Molecular Microbial Ecology Manual. Dordrecht:
+Springer, pp. 289–296.
+Mohammed, S. A., Omar, T. J. e Hasan, A. H. (2023). Degradation of crude oil and pure hydrocarbon fractions
+by some wild bacterial and fungal species. arXiv preprint arXiv:2301.08715.
+Montano, L., Baldini, G. M., Piscopo, M., Liguori, G., Lombardi, R., Ricciardi, M., Esposito, G., Pinto, G.,
+Fontanarosa, C., Spinelli, M., Palmieri, I., Sofia, D., Brogna, C., Carati, C., Esposito, M., Gallo, P., Amoresano,
+A. e Motta, O. (2025). Polycyclic aromatic hydrocarbons (PAHs) in the environment: occupational exposure,
+health risks and fertility implications. Toxics, 13, 151.
+31
+Moorthy, B., Chu, C. e Carlin, D. J. (2015). Polycyclic aromatic hydrocarbons: from metabolism to lung cancer.
+Toxicological Sciences, 145, 5–15.
+Morikawa, M., Hirata, Y. e Imanaka, T. (2000). A study on the structure–function relationship of lipopeptide
+biosurfactants. Biochimica et Biophysica Acta, 1488, 211–218.
+Mujumdar, S., Joshi, P. e Karve, N. (2020). Production, characterization, and applications of bioemulsifiers (BE)
+and biosurfactants (BS) produced by Acinetobacter spp.: a review. International Journal of Current Microbiology
+and Applied Sciences, 9, 2906–2919.
+Nelson, D. A., Crossley II, D. A., Mager, E. M., Stieglitz, J. D., Hoenig, R. H., Benetti, D. D., Grosell, M. e
+Scholz, N. L. (2016). Impacts of Deepwater Horizon crude oil exposure on adult mahi-mahi (Coryphaena
+hippurus) swim performance. Environmental Toxicology and Chemistry, 35, 2613–2622.
+Ossai, I. C., Ahmed, A., Hassan, A. e Hamid, F. S. (2020). Remediation of soil and water contaminated with
+petroleum hydrocarbon: a review. Environmental Technology & Innovation, 17, 100526.
+Pandelides, Z., Sturgis, M. C., Thornton, C., Aluru, N. e Willett, K. L. (2023). Benzo [a] pyrene-induced
+multigenerational changes in gene expression, behavior, and DNA methylation are primarily influenced by
+paternal exposure. Toxicology and Applied Pharmacology, 469, 116545.
+Park, J.-H., Troxel, A. B., Harvey, R. G. e Penning, T. M. (2006). Polycyclic aromatic hydrocarbon (PAH) oquinones produced by the aldo-keto-reductases (AKRs) generate abasic sites, oxidized pyrimidines, and 8-oxodGuo via reactive oxygen species. Chemical Research in Toxicology, 19, 719 –728.
+Patel, S. e Gupta, R. S. (2020). A phylogenomic and comparative genomic framework for resolving the
+polyphyly of the genus Bacillus: proposal for six new genera of Bacillus species, Peribacillus gen. nov.,
+Cytobacillus gen. nov., Mesobacillus gen. nov., Neobacillus gen. nov., Metabacillus gen. nov. and
+Alkalihalobacillus gen. nov. International Journal of Systematic and Evolutionary Microbiology, 70, 406–438.
+Peeb, A., Dang, N. P., Truu, M., Nõlvak, H., Petrich, C. e Truu, J. (2022). Assessment of hydrocarbon
+degradation potential in microbial communities in Arctic sea ice. Microorganisms, 10, 328.
+Penning, T. M., Burczynski, M. E., Chien Fu Hung, McCoull, K. D., Palackal, N. T. e Tsuruda, L. (1999).
+Dihydrodiol dehydrogenases and polycyclic aromatic hydrocarbon activation: ge neration of reactive and redox
+active o-quinones. Chemical Research in Toxicology, 12, 1–18.
+Pérez-Vázquez, A., Urionabarrenetxea, E., Artetxe, U., Rutkoski, C. F., Gomez-Sagasti, M. T., Garcia-Velasco,
+N. e Soto, M. (2024). Integrative assessment of in situ combined bioremediation strategies applied to remediate
+soils spilled with sewage sludges. Frontiers in Environmental Science, 12, 1370820.
+Pfeifer, G. P., Denissenko, M. F., Olivier, M., Tretyakova, N., Hecht, S. S. e Hainaut, P. (2002). Tobacco smoke
+carcinogens, DNA damage and p53 mutations in smoking-associated cancers. Oncogene, 21, 7435–7451.
+Prartono, T., Dwinovantyo, A., Syafrizal, S. e Syakti, A. D. (2022). Potential use of deep-sea sediment bacteria
+for oil spill biodegradation: a laboratory simulation. Microorganisms, 10, 1616.
+Purohit, B. K., Tewari, S., Prasad, K. S. N. V., Talari, V. K., Pandey, N., Choudhury, P. e Panda, S. S. (2024).
+Marine oil spill clean-up: a review on technologies with recent trends and challenges. R egional Studies in
+Marine Science, 103876.
+Rahmati, F., Asgari Lajayer, B., Shadfar, N., van Bodegom, P. M. e van Hullebusch, E. D. (2022). A review on
+biotechnological approaches applied for marine hydrocarbon spills remediation. Microorganisms, 10, 1289.
+Reizer, E., Viskolcz, B. e Fiser, B. (2022). Formation and growth mechanisms of polycyclic aromatic
+hydrocarbons: a mini-review. Chemosphere, 291, 132793.
+Rojas-Vargas, J., Rebollar, E. A., Sanchez-Flores, A., e Pardo-López, L. (2024). A comparative genomic study
+of a hydrocarbon-degrading marine bacterial consortium. Plos one, 19(8), e0303363.
+Rudra, B., e Gupta, R. S. (2021). Phylogenomic and comparative genomic analyses of species of the family
+Pseudomonadaceae: Proposals for the genera Halopseudomonas gen. nov. and Atopomonas gen. nov., merger of
+32
+the genus Oblitimonas with the genus Thiopseudomonas, and transfer of some misclassified species of the genus
+Pseudomonas into other genera. International Journal of Systematic and Evolutionary Microbiology, 71(9),
+005011.
+Ryu, J. Y. e Hong, D. H. (2024). Association of mixed polycyclic aromatic hydrocarbons exposure with
+oxidative stress in Korean adults. Scientific Reports, 14, 7511.
+Sakshi e Haritash, A.K. (2020). A comprehensive review of metabolic and genomic aspects of PAH-degradation.
+Archives of Microbiology, 202(8), 2033–2058.
+Sandifer P.A., Ferguson, A., Finucane, M.L., Partyka, M., Solo-Gabriele, H.M Walker, A.H., Wowk, K., Caffey,
+R. e Yoskowitz, D. (2021). Human health and socioeconomic effects of the Deepwater Horizon oil spill in the
+Gulf of Mexico. Oceanography, 34(1), 174–191.
+Sandler, D., Engel, L., McGrath, J., Payne, J., Rose, K., Ekenga, C., Curry, M., Miller, A., Blair, A., Birnbaum,
+L. e Kwok, R. (2014). Respiratory symptoms in oil spill clean-up workers participating in the Gulf STUDY. In:
+ISEE Conference Abstracts, 26(1), 2278, agosto 2014.
+San-Martín, M. I., Escapa, A., Alonso, R. M., Canle, M., e Morán, A. (2020). Degradation of 2-
+mercaptobenzothizaole in microbial electrolysis cells: Intermediates, toxicity, and microbial co mmunities.
+Science of The Total Environment, 733, 139155.
+Santaren, K. C. F. (2025). Monitoramento de ambientes marinhos contaminados com hidrocarbonetos
+aromáticos de petróleo através de métodos moleculares. Tese de Doutorado em Ciências (Microb iologia),
+Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro, Rio de Janeiro.
+Satpute, S.K., Banat, I.M., Dhakephalkar, P.K., Banpurkar, A.G., Chopade, B.A. (2010). Biosurfactants,
+bioemulsifiers and exopolysaccharides from marine microorganisms. Biotechnology Advances, 28(4), 436–450.
+Sharma, K., Shah, G., Singhal, K. e Soni, V. (2024). Comprehensive insights into the impact of oil pollution on
+the environment. Regional Studies in Marine Science, 74, 103516.
+Sharma, N., Lavania, M. e Lal, B. (2021). Biosurfactant: a next-generation tool for sustainable remediation of
+organic pollutants. Frontiers in Microbiology, 12, 821531.
+Sheng, X. F., He, L. Y., Zhou, L., & Shen, Y. Y. (2009). Characterization of Microbacterium sp. F10a and its
+role in polycyclic aromatic hydrocarbon removal in low-temperature soil. Canadia n journal of microbiology,
+55(5), 529-535.
+Silva, T.P., Paixão, S.M., Tavares, J., Gil, C.V., Torres, C.A.V., Freitas, F. e Alves, L. (2022). A new
+biosurfactant/bioemulsifier from Gordonia alkanivorans strain 1B: production and characterization. Processes,
+Basel, 10(5), 845.
+Soares, M.O., Teixeira, C.E.P., Bezerra, L.E.A., Rabelo, E.F., Castro, I.B. e Cavalcante, R.M. (2022). The most
+extensive oil spill registered in tropical oceans (Brazil): the balance sheet of a disaster. Environmental Science
+and Pollution Research, 29, 19869–19877.
+Song, B., Li, Z., Li, S., Zhang, Z., Fu, Q., Wang, S., Li, L. e Qi, S. (2021). Functional metagenomic and
+enrichment metatranscriptomic analysis of marine microbial activities within a marine oil spill area.
+Environmental Pollution, 274, 116555.
+Speight, J. G. (2015). Handbook of petroleum product analysis. John Wiley & Sons.
+Speight, J.G. e El Gendy, N.S. (2017). Introduction to petroleum biotechnology. (Cambridge, MA: Gulf
+Professional Publishing).
+Srogi, K. (2007). Monitoring of environmental exposure to polycyclic aromatic hydrocarbons: a review.
+Environmental chemistry letters, 5(4), 169-195.
+Szczeklik, A., Szczeklik, J., Galuszka, Z., Musial, J., Kolarzyk, E. e Targosz, D. (1994). Humoral
+immunosuppression in men exposed to polycyclic aromatic hydrocarbons and related carcinogens in polluted
+environments. Environmental health perspectives, 102(3), 302-304.
+33
+Tewari, S. e Sirvaiya, A. (2015). Oil spill remediation and its regulation. International Journal of Engineering
+Research and General Science, 1(6), 1-7.
+Tretyakova, N., Matter, B., Jones, R. e Shallop, A. (2002). Formation of benzo[a]pyrene diol epoxide-DNA
+adducts at specific guanines within K-ras and p53 gene sequences: stable isotope-labeling mass spectrometry
+approach. Biochemistry, 41(30), 9535–9544.
+Truskewycz, A., Gundry, T. D., Khudur, L. S., Kolobaric, A., Taha, M., Aburto-Medina, A., Ball, A. S. e
+Shahsavari, E. (2019). Petroleum Hydrocarbon Contamination in Terrestrial Ecosystems—Fate and Microbial
+Responses. Molecules, 24(18).
+Uzoigwe, C., Burgess, J.G., Ennis, C.J. e Rahman, P.K.S.M. (2015). Bioemulsifiers are not biosurfactants and
+require different screening approaches. Frontiers in Microbiology, 6, 245.
+Valencia-Luna, G. A., Lozada-Campos, D., Pardo-López, L., Millán-López, K. S., Loera, O., Tapia-Hernández,
+A. e Pérez-Armendáriz, B. (2025). Biodegradation potential and taxonomic composition of hydrocarbondegrading bacterial consortia in diesel-contaminated agricultural soils. Applied Microbiology, 5(4), 126.
+Varjani, S. J. (2017). Microbial degradation of petroleum hydrocarbons. Bioresource Technology, 223, 277-286.
+Vethaak, A. D., Davies, I. M., Thain, J. E., Gubbins, M. J., Martínez-Gómez, C., Robinson, C. D., Moffat, C. F.,
+Burgeot, T., Maes, T., Wosniok, W., Giltrap, M., Lang, T. e Hylland, K. (2017). Integrated indicator framework
+and methodology for monitoring and assessment of hazardous substances and their effects in the marine
+environment. Marine environmental research, 124, 11-20.
+Vogel, A. L., Thompson, K. J., Straub, D., Musat, F., Gutierrez, T. e Kleindienst, S. (2024). Genetic redundancy
+in the naphthalene degradation pathway of Cycloclasticus pugetii strain PS 1 enables response to varying
+substrate concentrations. FEMS Microbiology Ecology, 100(6), fiae060.
+Waikhom, D., Ngasotter, S., Devi, L.S., Devi, M.S. e Singh, A.S. (2020). Role of microbes in petroleum
+hydrocarbon degradation in the aquatic environment: a review. International Journal of Current Microbiology
+and Applied Sciences, 9(5), 2990–2903.
+Walton, J.L. e Buchan, A. (2024). Evidence for novel polycyclic aromatic hydrocarbon degradation pathways in
+culturable marine isolates. Microbiology Spectrum, 11(6), e03409–23.
+Wan, T., Au, D. W. T., Mo, J., Chen, L., Cheung, K. M., Kong, R. Y. C. e Seemann, F. (2022). Assessment of
+parental benzo [a] pyrene exposure-induced cross-generational neurotoxicity and changes in offspring sperm
+DNA methylome in medaka fish. Environmental epigenetics, 8(1), dvac013.
+Wang, C., Guo, G., Huang, Y., Hao, H. e Wang, H. (2017). Salt adaptation and evolutionary implication of a
+Nah-related PAHs dioxygenase cloned from a halophilic phenanthrene degrading consortium. Scientific Reports,
+7, 12525.
+Yani, M., Charlena, C., Mas’ud, Z. A., Anas, I., Setiadi, Y. e Syakti, A. D. (2020). Isolation, selection and
+identification of polyaromatic hydrocarbons (PAHs) degrading bacteria from heavy oil waste (HOW)
+contaminated soil. HAYATI Journal of Biosciences, 27, 142.
+Yuan, L., Zhang, Y., Xu, J., Liu, F., Liang, Y., Wang, B., Wu, M., Fan, Z. e Yang, L. (2025). Polycyclic
+aromatic hydrocarbons promote tumorigenesis of gallbladder cancer via aryl hydrocarbon Receptor-HEGBC
+positive feedback axis. iScience, 28(5).
+Zhang, F., Zhao, B., Fan, Y., Qin, L., Shi, J., Chen, L., Xu, L., Jin, X., Sun, M., Deng, H., Zeng, H., Xiao, Z.,
+Yang, X. e Ge, G. (2025). Discovery of a novel AhR–CYP1A1 axis activator for mitigating inflammatory
+diseases using an in situ functional imaging assay. Acta Pharmaceutica Sinica B, 15(1), 508-525.
+Zock, J.-P., Rodriguez-Trigo, G., Pozo-Rodriguez, F., Barberà, J.A., Bouso, L., Torralba, Y., Antó, J.M., Gómez,
+F.P., Fuster, C., Verea, H., SEPAR-Prestige Study Group (2007). Prolon ged respiratory symptoms in clean up
+workers of the Prestige oil spill. American Journal of Respiratory and Critical Care Medicine, 176(6), 610–617.

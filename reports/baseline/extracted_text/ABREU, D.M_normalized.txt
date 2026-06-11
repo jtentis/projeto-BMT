@@ -1,0 +1,3467 @@
+U N I V E R S I D A D E F E D E R A L D O R I O D E J A N E I R O
+CENTRO DE CIÊNCIAS MATEMÁTICAS E DA NATUREZA
+I N S T I T U T O D E G E O C I Ê N C I A S
+RIO DE JANEIRO – RJ – BRASIL
+MAIO DE 2005
+CARACTERIZAÇÃO DOS COMPONENTES ORGÂNICOS
+PARTICULADOS EM SEÇÕES DEVONIANAS DA BACIA DO
+PARNAÍBA
+DIOGO MATTOSO ABREU
+MONOGRAFIA SUBMETIDA AO CURSO DE GRADUAÇÃO EM GEOLOGIA
+DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO, COMO REQUISITO
+OBRIGATÓRIO DA DISCIPLINA “TRABALHO FINAL DE CURSO”
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+RIO DE JANEIRO – RJ – BRASIL
+MAIO DE 2005
+CARACTERIZAÇÃO DOS COMPONENTES ORGÂNICOS PARTICULADOS EM
+SEÇÕES DEVONIANAS DA BACIA DO PARNAÍBA
+DIOGO MATTOSO ABREU
+MONOGRAFIA SUBMETIDA AO CURSO DE GRADUAÇÃO EM GEOLOGIA DA
+UNIVERSIDADE FEDERAL DO RIO DE J ANEIRO, COMO REQUISITO
+OBRIGATÓRIO DA DISCIPLINA “TRABALHO FINAL DE CURSO”.
+SETOR: Geologia Econômica e Regional
+ORIENTADOR: Prof. Dr. João Graciano Mendonça Filho
+APROVADA POR:
+_____________________________________________
+Prof. Dr. João Graciano Mendonça Filho (UFRJ)
+_____________________________________________
+Prof. Dr. Leonardo F. Borghi de Almeida (UFRJ )
+_____________________________________________
+Prof. Dr. Marcelo de A. Carvalho (Museu Nacional / UFRJ)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+FICHA CATALOGRÁFICA
+ABREU, DIOGO MATTOSO
+CARACTERIZAÇÃO DOS COMPONENTES ORGÂNICOS PARTICULADOS EM SEÇÕES
+DEVONIANAS DA BACIA DO PARNAÍBA [RIO DE JANEIRO] 2005.
+xvii, 131 p., 9 estampas 29,7 cm (Instituto de Geociências – UFRJ, B.Sc.,Curso de Graduação em
+Geologia, 2005).
+Monografia – Universidade Federal do Rio de Janeiro, realizada no Instituto de Geociências.
+1. Formação Pimenteira 2. Devoniano. 3. Palinofácies. 4. Maturação Térmica.
+I – IGEO/UFRJII – Título (série)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+iii
+SUMÁRIO
+AGRADECIMENTOS vi
+RESUMO viii
+ÍNDICE DE FIGURAS x
+ÍNDICE DE TABELAS xiv
+1 INTRODUÇÃO 01
+2 CONCEITO DE PALINOFÁCIES E FÁCIES ORGÃNICA 03
+3 BACIA DO PARNAÍBA 05
+3.1 Tectônica e sedimentação 06
+3.2 Estratigrafia 07
+3.2.1 GRUPO SERRA GRANDE 07
+3.2.2 GRUPO CANINDÉ 07
+3.2.3 GRUPO BALSAS 08
+3.3 Formação Pimenteira 10
+3.3.1 BREVE HISTÓRICO 10
+3.3.2 LITOESTRATIGRAFIA 10
+3.3.3 PALEOAMBIENTES DEPOSICIONAIS 12
+3.3.4 BIOESTRATIGRAFIA E DATAÇÃO 13
+3.3.5 GEOLOGIA DO PETRÓLEO 13
+4 MATERIAL DE ESTUDO 16
+5 MÉTODOS DE ESTUDO 22
+5.1 Técnicas de preparação das amostras para análise de
+palinofácies
+22
+5.2 Análises de palinofácies 25
+5.2.1 TÉCNICAS DE MICROSCOPIA
+5.2.1.1 Microscopia em luz branca transmitida
+25
+5.2.1.2 Microscopia em luz azul incidente - fluorescência 26
+5.2.1.3 Índice de Coloração de Esporos (ICE) 26
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+iv
+5.3 Obtenção dos dados
+5.3.1 CONTAGEM DOS COMPONENTES ORGÂNICOS
+29
+5.4 Tratamento dos dados 32
+5.4.1 ANÁLISES DE AGRUPAMENTO 32
+6 CLASSIFICAÇÃO E DEFINIÇÃO DOS COMPONENTES ORGÂNICOS 33
+6.1 Classificação da matéria orgânica 34
+6.1.1 FITOCLASTOS 34
+6.1.2 PALINOMORFOS 35
+6.1.3 MATERIAL ORGÂNICO AMORFO 37
+7 DISTRIBUIÇÃO DOS GRUPOS DE COMPONENTES DA MATÉRIA
+ORGÂNICA
+38
+7.1 Fitoclastos 38
+7.2 Palinomorfos 41
+7.3 Matéria Orgânica Amorfa (M.O.A.) 43
+8 PARÂMETROS PALINOFACIOLÓGICOS 45
+9 RESULTADOS E DISCUSSÕES 46
+9.1 Representação dos dados 46
+9.1.1 DIAGRAMAS TERNÁRIOS 46
+9.1.2 DENDOGRAMAS 47
+9.2 Contagem dos componentes da matéria orgânica 48
+9.2.1 TESTEMUNHO DE SONDAGEM VL-03 54
+9.2.2 TESTEMUNHO DE SONDAGEM PM-06 57
+9.2.3 TESTEMUNHO DE SONDAGEM ST-12 61
+9.2.4 TESTEMUNHO DE SONDAGEM SM-IST-4 65
+9.2.5 TESTEMUNHO DE SONDAGEM CT-02 69
+9.2.6 TESTEMUNHO DE SONDAGEM PM-10 71
+9.3 Maturidade térmica 75
+9.4 Descrição dos componentes orgânicos 85
+9.5 Análise de agrupamento modo –R 87
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+v
+9.6 Matriz de correlação utilizando o coeficiente r-Pearson 91
+9.7 Inferências paleoambientais 93
+10 CONCLUSÕES 123
+11 REFERÊNCIAS BIBLIOGRÁFICAS 126
+ANEXO (ESTAMPA)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+vi
+AGRADECIMENTOS
+Gostaria de agradec er ao meu orientador Prof. Dr. J oão Grac iano de
+Mendonça Filho, pela amizade e orientação deste trabalho.
+Aos amigos da turma de geologia 99, em especial :
+• Antônio - o mais disposto às diversas aventuras.
+• Juliano – o mais engraçado, sempre nos tirando gargalhadas.
+• Igor – meu c o-orientador, amigo, me ajudou muito na elaboraç ão deste
+trabalho. Obrigado !
+• Régis – mes mo es tando em outro Es tado, c ontinua morando aqui no
+nosso coração.
+• Marcel – macaense cheio de gírias e com um s otaque muito engraçado,
+é um grande amigo também.
+• Beto – Nos últimos tempos anda muito s umido, mas quando o
+encontramos, sempre tem uma ótima historinha para nos contar.
+• Rafinha – depois que des cobriu o s urf, foi difíc il enc ontrá-lo na
+faculdade, gente boa toda vida.
+• Edson – parc eiro de c ampo 2, lev arei pra s empre aquela imagem do
+vaso na s ua testa. Papai, quem diária ?!!!
+• Carol – Menina s uper especial, nota dez , que s empre me acompanhou
+nessa longa trajetória na fac uldade. Obrigado por tudo, v ocê es tará
+sempre em meu coração !
+• Marcelle – a grande arquiteta das bijus , amiga e companheira !
+• Paulinha – parc eira de campo 1, queria brigar c omigo a todo custo, mas
+eu não deixei !
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+vii
+• Janaina – grande J ana, mamãe de uma menina linda, obrigado por tudo
+querida !
+• Helen – parc eira do c ampo III, me aturou nos momentos de maior mau
+humor, obrigado por tudo !
+Aos demais amigo de fac uldade, Léo Penha, Henrique Tioz ão, Eric k, Mauro,
+Pangaré, Romário, Fagner, Chic lete, Vitão, Mário, Zé Lele, Max, Viv ian, Marc os
+Baião, Leandro, Marc elo, Potó, Hatus hika, Raphael Pietz sch, Diogo Merenda,
+Thiago Muriç oca, Anders on, Deniz e, Dric a, Giov ani, Guilherme, Doniz ete e
+Jaqueline. Muito obrigado !!!
+Aos profes sores, Cláudio Limeira, Leonardo Borghi, J oel Valenç a, J oão
+Baptista, Julio Mendes , Henrique Day an, Carlos Eduardo, Rudolph Trouw, Cláudio
+Margueron, Helena Poliv anov, Gérs on Cardos o, por terem feito a diferenç a em
+minha formação profissional.
+À geóloga M.Sc .Taissa Rêgo Menez es, pela amiz ade e grande ajuda na
+realização deste trabalho.
+À minha namorada, pela s abedoria e compreensão dos momentos em que não
+pude lhe dar a atenção merecida.
+Aos meus familiares, em especial, aos meus pais , minha irmã e minha tia Léo,
+que sempre foram exemplo, e c ontribuíram com incentivo e apoio durante não s ó o
+tempo na faculdade mas também em toda a minha vida.
+E princ ipalmente a Deus , pois foi o alic erce de tudo, nada dis so teria s ido
+realizado sem Ele !!!
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+viii
+RESUMO DA MONOGRAFIA APRESENTADA AO CURSO DE GRADUAÇÃO EM
+GEOLOGIA DA UNIVERSIDADE FEDERAL DO RIO DE J ANEIRO, COMO
+REQUISITO OBRIGATÓRIO DA DISCIPLINA “TRABALHO FINAL DE CURSO”
+CARACTERIZAÇÃO DOS COMPONENTES ORGÂNICOS PARTICULADOS EM
+SEÇÕES DEVONIANAS DA BACIA DO PARNAÍBA
+DIOGO MATTOSO ABREU
+RIO DE JANEIRO, MAIO DE 2005
+ORIENTADOR: Prof. Dr. João Graciano Mendonça Filho
+SETOR: Geologia Econômica e Regional
+A c aracterização dos c omponentes orgânic os partic ulados foi realiz ada em
+seções devonianas da Formação Pimenteira na borda les te da bacia do Parnaíba. A
+formação é c onstituída em s ua maior parte por es pessas camadas de folhelhos e
+siltitos, com algumas c amadas delgadas de arenito fino. O objetiv o princ ipal des te
+trabalho foi a determinaç ão de parâmetros palinofac iológicos atrav és da
+identificação e quantific ação dos c omponentes partic ulados da matéria orgânic a e
+sua v ariação v ertical ao longo das s eções es tudadas. Es tes parâmetros
+palinofaciológicos foram aplic ados à determinaç ão das tendênc ias de
+proximalidade, dis tribuição, maturação térmica e inferênc ias paleoambientais . Para
+tanto foi realiz ada analis e de quarenta e quatro laminas organopalinológic as
+utilizando a mic roscopia em luz branc a trans mitida (MLT) e luz az ul inc idente
+(fluorescência). Ainda determinou-s e pelo método MLT e fluores cência o estágio de
+evolução térmic a atrav és do Índic e de Coloraç ão de Es poros (ICE). Foi realiz ada
+contagem de 300 a 500 partíc ulas por lâmina, s endo então efetuado um tratamento
+estatístico relativ o aos diferentes grupos da matéria orgânic a. Os res ultados
+percentuais obtidos foram s ubmetidos a anális es de agrupamento modo-R (para
+verificar s imilaridades entre os c omponentes orgânic os). Os res ultados apontam
+que as s eções es tudadas da Formaç ão Pimenteira s ão c ompostas
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+ix
+predominantemente por es poromorfos (repres entados por es poros), microplâncton
+de parede orgânic a marinho (algas pras inófitas e ac ritarcas), matéria orgânic a
+amorfa, fitoc lastos opac os, fitoc lastos não opac os, cutículas de v egetais terres tres
+superiores e mic roplâncton de parede orgânic a de água doc e (algas do gênero
+Botryococcus). Os res ultados de Índic e de Coloraç ão dos Es poros (ICE),
+determinaram de um modo geral um baixo es tágio de evolução térmica (maturação)
+da matéria orgânic a, o que demons tra um baixo grau de diagênes e pelo proc esso
+natural de aumento de temperatura c onseqüente do aumento da profundidade de
+soterramento. No entanto, algumas amos tras apresentaram um elev ado estágio de
+evolução térmic a, proporc ionado pelo efeito térmic o de intrus ivas ígneas . As
+inferências paleoambientais foram bas eadas no diagrama ternário c om os c ampos
+de palinofác ies definido pelos v alores perc entuais dos três princ ipais grupos de
+componentes da matéria orgânic a (Ty son, 1993) e na repres entação diagramátic a
+de palinomorfos modific ado de Turnau e Rac ki (1999). As s eções es tratigráficas
+foram divididas em interv alos, os quais foram definidos pela anális e da dis posição
+das amostras no diagrama ternário com os campos de palinofácies de Tyson (1993).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+x
+ÍNDICE DE FIGURAS
+Figura 1: Mapa de localização da Bacia do Parnaíba. 5
+Figura 2: Carta estratigráfica da Bacia do Parnaíba (ANP,2002). 9
+Figura 3: Perfil estratigráfico da Formaç ão Pimenteira na área dos projetos São
+Miguel do Tapuio e Fosfato de São Miguel do Tapuio, na borda les ta da bacia do
+Parnaíba. (Young, 2003).
+17
+Figura 4: Perfil estratigráfico do testemunho de sondagem VL-03. 18
+Figura 5: Perfil estratigráfico do testemunho de sondagem PM-06. 18
+Figura 6: Perfil estratigráfico do testemunho de sondagem ST-12. 19
+Figura 7: Perfil estratigráfico do testemunho de sondagem SM-IST-4. 19
+Figura 8: Perfil estratigráfico do testemunho de sondagem CT-01. 20
+Figura 9: Perfil estratigráfico do testemunho de sondagem CT-02. 20
+Figura 10: Perfil estratigráfico do testemunho de sondagem PM-10. 21
+Figura 11: Escala de ICE, Barnard et al. (1981), padrão Roberts on Research. 28
+Figura 12: Diagrama ternário mos trando os v alores percentuais dos três grupos
+de componentes orgânicos da matéria orgânica do poço VL-03.
+48
+Figura 13: Diagrama ternário mos trando os v alores percentuais dos três grupos
+de componentes orgânicos da matéria orgânica do poço PM-06.
+49
+Figura 14: Diagrama ternário mos trando os v alores percentuais dos três grupos
+de componentes orgânicos da matéria orgânica do poço ST-12.
+50
+Figura 15: Diagrama ternário mos trando os v alores percentuais dos três grupos
+de componentes orgânicos da matéria orgânica do poço SM-IST-4.
+51
+Figura 16: Diagrama ternário mos trando os v alores percentuais dos três grupos
+de componentes orgânicos da matéria orgânica do poço CT-02.
+52
+Figura 17: Diagrama ternário mos trando os v alores percentuais dos três grupos
+de componentes orgânicos da matéria orgânica do poço PM-10. 53
+Figura 18 : Dis tribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a do
+poço VL-03.
+56
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xi
+Figura 19 : Dis tribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a do
+poço PM-06.
+60
+Figura 20: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a do
+poço ST-12.
+64
+Figura 21: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a do
+poço SM-IST-4.
+68
+Figura 22: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a do
+poço CT-02.
+70
+Figura 23: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a do
+poço PM-10.
+74
+Figura 24: Relação entre o tempo (milhões de anos ), Temperatura (°C) e
+Maturação (ICE e %Ro) (Barnard et al. 1981).
+76
+Figura 25: Gráfico mos trando a v ariação do ICE do poç o VL-03 c om a
+profundidade.
+77
+Figura 26: Gráfico mos trando a v ariação do ICE do poç o PM-06 c om a
+profundidade.
+78
+Figura 27: Gráfico mos trando a v ariação do ICE do poç o ST-12 c om a
+profundidade.
+79
+Figura 28: Gráfico mos trando a v ariação do ICE do poç o ST-12 c om a
+profundidade.
+80
+Figura 29: Gráfico mos trando a v ariação do ICE do poç o CT-01 c om a
+profundidade.
+81
+Figura 30: Gráfico mos trando a v ariação do ICE do poç o CT-02 c om a
+profundidade. 82
+Figura 31: Gráfico mos trando a v ariação do ICE do poç o PM-10 c om a
+profundidade.
+83
+Figura 32: Dendograma produzido pela análise de agrupamento modo-R para os
+grupos e subgrupos de componentes da matéria orgânica do poço VL-03.
+87
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xii
+Figura 33: Dendograma produzido pela análise de agrupamento modo-R para os
+grupos e subgrupos de componentes da matéria orgânica do poço PM-06.
+88
+Figura 34: Dendograma produzido pela análise de agrupamento modo-R para os
+grupos e subgrupos de componentes da matéria orgânica do poço ST-12.
+89
+Figura 35: Dendograma produzido pela análise de agrupamento modo-R para os
+grupos e subgrupos de componentes da matéria orgânica do poço SM-IST-4.
+90
+Figura 36: Diagrama ternário c om os c ampos de palinofác ies definido pelos
+valores perc entuais dos três princ ipais grupos de c omponentes da matéria
+orgânica (Tyson, 1993)
+93
+Figura 37: Representação diagramática de palinomorfos modificado de Turnau e
+Racki (1999).
+95
+Figura 38: Diagrama ternário FITO-MOA-PALINO c om os c ampos de
+palinofácies (Tyson, 1993) do poço VL-03.
+96
+Figura 39: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a com
+as s ubdivisões dos interv alos definidos pelo diagrama ternário c om os c ampos
+de palinofácies do poço VL-03.
+97
+Figura 40: Diagrama ternário FITO-MOA-PALINO c om os c ampos de
+palinofácies (Tyson, 1993) do poço PM-06.
+101
+Figura 41: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a com
+as s ubdivisões dos interv alos definidos pelo diagrama ternário c om os c ampos
+de palinofácies do poço PM-06.
+103
+Figura 42: Diagrama ternário FITO-MOA-PALINO c om os c ampos de
+palinofácies (Tyson, 1993) do poço ST-12.
+105
+Figura 43: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a com
+as s ubdivisões dos interv alos definidos pelo diagrama ternário c om os c ampos
+de palinofácies do poço ST-12.
+107
+Figura 44: Diagrama ternário FITO-MOA-PALINO c om os c ampos de
+palinofácies (Tyson, 1993) do poço SM-IST-4.
+110
+Figura 45: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a com
+as s ubdivisões dos interv alos definidos pelo diagrama ternário c om os c ampos
+de palinofácies do poço SM-IST-4.
+111
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xiii
+Figura 46: Diagrama ternário FITO-MOA-PALINO c om os c ampos de
+palinofácies (Tyson, 1993) do poço CT-02.
+114
+Figura 47: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a com
+as s ubdivisões dos interv alos definidos pelo diagrama ternário c om os c ampos
+de palinofácies do poço CT-02.
+115
+Figura 48: Diagrama ternário FITO-MOA-PALINO c om os c ampos de
+palinofácies (Tyson, 1993) do poço PM-10.
+119
+Figura 49: Distribuição dos v alores perc entuais dos grupos e s ubgrupos de
+componentes da matéria orgânic a em relaç ão ao total de matéria orgânic a com
+as s ubdivisões dos interv alos definidos pelo diagrama ternário c om os c ampos
+de palinofácies do poço PM-10.
+121
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xiv
+ÍNDICE DE TABELAS
+Tabela 1: Ficha utilizada para a contagem dos componentes orgânicos. 30
+Tabela 2: Classificação geral dos princ ipais c omponentes da matéria
+orgânica (baseado em Ty son 1995; Mendonç a Filho, 1999; Carv alho; 2001;
+Mendonça Filho et.al.,2002).
+31
+Tabela 3: Parâmetros c alculados para os grupos e s ubgrupos de
+componentes da matéria orgânic a e as tendênc ias generalizadas proximal –
+distal, baseado em Tyson (1993) e Mendonça Filho (1999).
+45
+Tabela 4: Valores perc entuais dos 3 princ ipais grupos da matéria orgânic a
+do poço VL-03.
+48
+Tabela 5: Valores perc entuais dos 3 princ ipais grupos da matéria orgânic a
+do poço PM-06.
+49
+Tabela 6: Valores perc entuais dos 3 princ ipais grupos da matéria orgânic a
+do poço ST-12.
+50
+Tabela 7: Valores perc entuais dos 3 princ ipais grupos da matéria orgânic a
+do poço SM-IST-4.
+51
+Tabela 8: Valores perc entuais dos 3 princ ipais grupos da matéria orgânic a
+do poço CT-02.
+52
+Tabela 9: Valores perc entuais dos 3 princ ipais grupos da matéria orgânic a
+do poço PM-10.
+53
+Tabela 10: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+ao total de palinomorfos do poço VL-03.
+54
+Tabela 11: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+de matéria orgânica do poço VL-03.
+55
+Tabela 12: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+ao total de palinomorfos do poço PM-06.
+57
+Tabela 13: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+ao total de matéria orgânica do poço PM-06.
+58
+Tabela 14: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+ao total de palinomorfos do poço ST-12.
+61
+Tabela 15: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+de matéria orgânica do poço ST-12.
+62
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xv
+Tabela 16: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+ao total de palinomorfos do poço SM-IST-4..
+65
+Tabela 17: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+de matéria orgânica do poço SM-IST-4.
+66
+Tabela 18: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+ao total de palinomorfos do poço PM-10.
+71
+Tabela 19: Valores percentuais dos subgrupos dos palinomorfos em relaç ão
+de matéria orgânica do poço PM-10.
+72
+Tabela 20: Representa os interv alos de ICE e s uas res pectivas zonas de
+maturidade para o período Devoniano.
+75
+Tabela 21: Resultado do Índice de Coloração de Esporos para o poço VL-03 77
+Tabela 22: Resultado do Índic e de Coloraç ão de Es poros para o poç o PM-
+06.
+78
+Tabela 23: Resultado do Índic e de Coloraç ão de Es poros para o poç o ST-
+12..
+79
+Tabela 24: Resultado do Índic e de Coloraç ão de Es poros para o poç o SMIST-4.
+80
+Tabela 25: Resultado do Índic e de Coloraç ão de Es poros para o poç o CT-
+01.
+81
+Tabela 26: Resultado do Índic e de Coloraç ão de Es poros para o poç o CT-
+02.
+82
+Tabela 27: Resultado do Índic e de Coloraç ão de Es poros para o poç o PM-
+10.
+83
+Tabela 28: Resultados dos s ubgrupos obtidos pela anális e de agrupamento
+modo-R para a sondagem VL-03.
+87
+Tabela 29: Resultados dos s ubgrupos obtidos pela anális e de agrupamento
+modo-R para a sondagem PM-06.
+88
+Tabela 30: Resultados dos s ubgrupos obtidos pela anális e de agrupamento
+modo-R para a sondagem ST-12.
+89
+Tabela 31: Resultados dos s ubgrupos obtidos pela anális e de agrupamento
+modo-R para a sondagem SM-IST-4.
+90
+Tabela 32: Correlação de matrizes (coeficiente r-Pearson) para a sondagem 91
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xvi
+VL-03.
+Tabela 33: Correlação de matrizes (coeficiente r-Pearson) para a sondagem
+PM-06.
+91
+Tabela 34: Correlação de matrizes (coeficiente r-Pearson) para a sondagem
+ST-12.
+92
+Tabela 35: Correlação de matrizes (coeficiente r-Pearson) para a sondagem
+SM-IST-4.
+92
+Tabela 36: Paleoambientes definidos pelos c ampos de palinofác ies para
+sedimentos marinhos (Tyson, 1993) relacionado no diagrama da figura 35.
+94
+Tabela 37: Palinofácies definidas pelo diagrama de palinomorfos modific ado
+de Turnau e Racki (1999).
+95
+Tabela 38: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo I do poço VL-03.
+98
+Tabela 39: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo II do poço VL-03.
+98
+Tabela 40: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo III do poço VL-03.
+99
+Tabela 41: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo IV do poço VL-03.
+99
+Tabela 42: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo V do poço VL-03.
+100
+Tabela 43: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo I do poço PM-06.
+104
+Tabela 44: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo II do poço PM-06.
+104
+Tabela 45: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo I do poço ST-12.
+108
+Tabela 46: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo II do poço ST-12.
+109
+Tabela 47: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo I do poço SM-IST-4.
+112
+Tabela 48: Valores perc entuais médios dos 3 grupos de c omponentes da 113
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+xvii
+matéria orgânica no intervalo II do poço SM-IST-4.
+Tabela 49: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo I do poço CT-02.
+116
+Tabela 50: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo II do poço CT-02.
+116
+Tabela 51: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo III do poço CT-02.
+117
+Tabela 52: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo IV do poço CT-02.
+117
+Tabela 53: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo V do poço CT-02.
+118
+Tabela 54: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo VI do poço CT-02.
+118
+Tabela 55: Valores perc entuais médios dos 3 grupos de c omponentes da
+matéria orgânica no intervalo I do poço PM-10.
+122
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 1 -
+1. INTRODUÇÃO
+A Bacia do Parnaíba é uma extensa bacia intracratônica preenchida
+principalmente por rochas paleozóicas. Localiza-se na região Nordeste do Brasil,
+abrangendo a quase totalidade dos estados do Maranhão e Piauí e parte do leste
+do Pará, oeste do Ceará e norte de Goiás e Tocantins (Figura 1).
+Estudos realizados pela PETROBRÁS resultaram na descoberta de indícios
+e acumulações subcomerciais de hidrocarbonetos. A Formação Pimenteira possui
+poucos estudos geológicos aprofundados, porém podemos destacar, o estudo
+realizado por Rodrigues (1995), que contribui na abordagem dos aspectos da
+geoquímica orgânica, e o trabalho de Young (2003) que contribuiu na identificação
+de potenciais intervalos de rocha reservatório na Formação Pimenteira através de
+análise estratigráfica.
+Os dados de análises geoquímicas obtidas por Rodrigues (1995) indicam
+que os níveis de maior concentração de matéria orgânica da Bacia do Parnaíba
+concentram-se na Formação Pimenteira. Essa formação é constituída em sua
+maior parte por extensos folhelhos e siltitos, com algumas camadas delgadas de
+arenito fino. (Góes et al, 1994).
+O objetivo principal deste trabalho foi a determinação de parâmetros
+palinofaciológicos através da identificação e quantificação dos componentes
+particulados da matéria orgânica e sua variação vertical ao longo das seções
+estudadas.
+Para a elaboração do presente estudo palinofaciológico foram realizadas, no
+laboratório de Palinofácies e Fácies Orgânica situado na Universidade Federal do
+Rio de Janeiro, análise de microscopia em luz branca transmitida e de luz azul
+incidente (fluorescência), para a identificação dos diferentes grupos e subgrupos
+de componentes da matéria orgânica. Foi também utilizada a técnica de Índice de
+Coloração dos Esporos (ICE) para a análise da maturidade térmica das amostras.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 2 -
+Os resultados obtidos foram aplicados à determinação das tendências de
+proximalidade, distribuição, maturação térmica e inferências paleoambientais.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 3 -
+2. CONCEITO DE PALINOFÁCIES E FÁCIES ORGÃNICA
+A palinofácies foi conceitualmente introduzida por Combaz (1964) e sua
+definição pode ser entendida como o estudo palinológico do total de componentes
+da matéria orgânica contida em um sedimento após a remoção da matriz
+sedimentar (mineral) pela acidificação com HCl (ácido clorídrico) e HF (ácido
+fluorídrico). A análise por palinofácies envolve o estudo integrado de todos os
+aspectos dos componentes da matéria orgânica como: identificação dos
+componentes particulados individuais, determinação de suas proporções relativas
+e absolutas, seus tamanhos e estado de preservação.
+Segundo Tyson (1995), a análise de palinofácies é o estudo palinológico de
+ambientes deposicionais e do potencial de rochas geradoras de hidrocarbonetos
+baseado na assembléia total dos componentes da matéria orgânica particulada,
+podendo ser definida como “um corpo de sedimento contendo uma assembléia
+distinta de matéria orgânica palinológica idealizada para refletir um grupo
+específico de condições ambientais, ou para ser associada com um nível
+característico do potencial de geração de hidrocarbonetos”.
+Rogers (1980) foi o primeiro a utilizar o termo “fácies orgânica”, para exprimir
+que uma fácies orgânica deve ser definida pelo conteúdo de matéria orgânica
+(primeiramente tipo, e menos freqüentemente quantidade), pela fonte de matéria
+orgânica e pelo ambiente deposicional.
+Segundo Tyson (1995), o conceito de fácies orgânica pode ser definido como
+um “grupo de sedimentos contendo um conjunto distinto de constituintes orgânicos
+que podem ser reconhecidos por microscopia ou estar associado com uma
+composição organogeoquímica característica”.
+O conceito moderno de “Fácies Orgânica” é, em muitas formas, equivalente
+ao conceito de “Palinofácies”.
+Palinofácies representa um aspecto particular de fácies orgânica (aquela que
+pode ser determinada por estudo palinológico da matéria orgânica).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 4 -
+Palinofácies pode, assim, ser considerada como “fácies orgânica definida
+palinológicamente”. (e.g. Habib, 1982; 1993).
+A palinofácies é provavelmente a única técnica discriminante mais simples
+que pode providenciar todas as respostas para o estudo e explicação dos modelos
+de fácies orgânica. Isto é devido, simplesmente, a não existência de um substituto
+para a observação visual direta do conteúdo orgânico que está atualmente nos
+sedimentos.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 5 -
+3. BACIA DO PARNAÍBA
+A bacia do Parnaíba (Figura 1) é uma extensa bacia intracratônica que ocupa
+uma área de aproximadamente 600.000 km², localiza-se na região Nordeste do
+Brasil, abrangendo a quase totalidade dos estados do Maranhão e Piauí e parte
+do leste do Pará, oeste do Ceará e norte de Goiás e Tocantins. Foram
+depositados pouco mais de 3000 metros de espessura de coluna sedimentar.
+Figura 1: Mapa de localização da bacia do Parnaíba (Young, 2003).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 6 -
+3.1.Tectônica e sedimentação
+A bacia do Parnaíba formou-se no Eopaleozóico, após a colisão entre as
+plataformas Amazônica e Brasileira, resultando no fechamento dos cinturões
+móveis Araguaia, Própria e Arioses, no final do Pré Cambriano Superior e início do
+paleozóico (Caputo et al., 1983).
+Cunha (1986) reconhece a enorme influência tectônica dos pulsos terminais
+do Ciclo Brasiliano (Cambriano-Ordoviciano) sobre a sedimentação subseqüente
+da bacia do Parnaíba. Em função desta tectônica formaram-se grabens, com eixos
+orientados principalmente nordeste/sudoeste e norte/sul, os quais foram
+preenchidos por sedimento aluviais e fluviais correspondentes a Seqüência I de
+Freitas (1990) e a Formação Mirador de Carozzi et al. (1975).
+A subsidência termal da região, criou uma grande depressão ordoviciana que
+controla a sedimentação ocorrida nas duas primeiras seqüências deposicionais, a
+seqüência Siluriana, representada pelos sedimentos fluvio-deltaicos do Grupo
+Serra Grande e a seqüência Devoniana, representada pelos sedimentos do Grupo
+Canindé. Estas seqüências encontram-se com seus depocentros fortemente
+controlados pelos lineamentos Transbrasiliano e Picos- Santa Inês.
+A terceira seqüência deposicional ocorre a partir do Carbonífero, com a
+deposição dos sedimentos do Grupo Balsa. Este grupo marca uma progressiva
+continentalização e desertificação em toda a bacia do Parnaíba, está ligado a
+Reativação Wealdeniana, que representa a desagregação do paleocontinente
+Gondwana.
+Distintamente de Góes & Feijó (1994), entende-se neste trabalho que a
+entidade geológica chamada ‘’bacia do Parnaíba’’ está representada apenas pelos
+sedimentos paleozóicos correspondentes aos grupos Serra Grande, Canindé e
+Balsas. Tais grupos tiveram seu desenvolvimento tectônico e sedimentar
+associado à subsidência do embasamento da bacia dentro do contexto evolutivo
+do paleocontinente Gondwana. Os aspectos tectônicos e deposicionais dos
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 7 -
+sedimentos pós-Grupo Balsas estão associados diretamente ao processo de
+ruptura do Gondwana e, por isso, devem ser tratados e estudados como uma
+bacia de evolução distinta da do Parnaíba (q.v. Rosseti et al., 2001).
+3.2.Estratigrafia
+Neste contexto, é possível dividir estratigraficamente a bacia do Parnaíba em
+três seqüências distintas: Siluriana, Devoniana e Carbonífero-Triássica (Figura 2),
+cada qual correlata a um dos seus três grupos (Serra Grande, Canindé e Balsas,
+respectivamente) ( Góes & Feijó, 1994).
+3.2.1. GRUPO SERRA GRANDE
+O Grupo Serra Grande ( sensu Góes et al., 1992 apud Góes & Feijó,1994) é
+dividido em três formações: Ipu, Tianguá e Jaicós. A Formação Ipu (Campbell,
+1949 apud Góes & Feijó, 1994) é composta, predominantemente, de arenitos
+médios a grossos e, secundariamente, por siltitos, folhelhos e diamictitos. A
+Formação Tinguá (Rodrigues, 1967 apud Góes & Feijó, 1994) consiste em
+folhelhos cinza, siltitos e arenitos micáceos. A Formação Jaicós (Plummer, 1946
+apudGóes & Feijó, 1994) é composta por arenitos médios a grossos e,
+eventualmente, pelitos.
+O Grupo Serra Grande tem seus contatos inferior, com o embasamento, e
+superior, com o Grupo Canindé, em discordância erosiva.
+3.2.2. GRUPO CANINDÉ
+O Grupo Canindé ( sensu Góes et al., 1992 apud Góes & Feijó, 1994) está
+dividido em cinco formações: Itaim, Pimenteira, Cabeças, Longá e Poti. A
+Formação Itaim (Kegel, 1953 apud Góes & Feijó, 1994) é composta por arenitos
+finos esbranquiçados e por folhelhos cinzas a pretos. A Formação Pimenteira
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 8 -
+caracteriza-se por folhelhos cinzas a pretos intercalados com finas camadas de
+areia fina. A Formação Cabeças é representada por arenitos finos e ocorrências
+de diamictitos. Nela ocorre também uma fácies de arenitos grossos. A Formação
+Longá (Albuquerque & Dequech, 1946 apud Góes & Feijó, 1994) abrange
+folhelhos e siltitos cinzas e arenitos finos argilosos brancos. A Formação Poti
+(Paiva, 1937 apud Góes & Feijó, 1994), é composta por arenitos cinzaesbranquiçados, intercalados e interlaminados com folhelhos e siltitos.
+O contato superior do Grupo Canindé com o Grupo Balsas é discordante
+erosivo.
+3.2.3. GRUPO BALSAS
+O Grupo Balsas (sensu Góes et al., 1993 apud Góes & Feijó, 1994) divide-se
+em quatro formações: Piauí, Pedra de Fogo, Motuca e Sambaíba. A Formação
+Piauí (Small,1914apud Góes & Feijó, 1994) denomina arenitos finos a médios
+bem selecionados, conglomerados, folhelhos vermelhos e calcários
+esbranquiçados. (Lima Filho, 1991 apud Góes & Feijó, 1994). A Formação Pedra
+de Fogo (Plummer, 1946 apud Góes & Feijó, 1994) caracteriza-se pela presença
+de sílex e de calcário oolítico, pisolítico, intercalados com arenitos, folhelhos e
+anidrita. A Formação Motuca (Plummer, 1946apud Góes & Feijó, 1994) compõese de siltito avermelhado e marrom, arenitos brancos, anidrita e raros calcários. A
+Formação Sambaíba (Plummer, 1946apud Góes & Feijó, 1994) consiste de
+arenitos médios a finos, bimodais, bem selecionados, com estratificação cruzada
+de porte grande.
+O contato superior do Grupo Balsas com os sedimentos supra-Grupo Balsas
+é discordante erosivo.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 9 -
+Figura 2: Carta estratigráfica da Bacia do Parnaíba (ANP,2002).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 10 -
+3.3.Formação Pimenteira
+3.3.1. BREVE HISTÓRICO
+Historicamente, o termo ‘’folheto Pimenteira’’ foi inicialmente utilizado por
+Small (1914 apud Brito, 1979) para identificar camadas de folhelhos aflorantes
+próximos à Cidade de Pimenteira, no Município de Valença do Piauí, Estado do
+Piauí. Posteriormente, Plummer (1946 apud Campbell et al., 1949) conferiu a
+hierarquia de formação a tais rochas e discerniu dois membros: Oitis, inferior,
+constituído de folhelhos, e Picos, superior, constituído por uma intercalação de
+arenitos e folhelhos. Entretanto, Kegel (1953), ao estudar a fauna do Membro
+Oitis, percebeu que ela era mais recente que a do Membro Picos e pertencente ao
+Membro Passagem da Formação Cabeças, o que levou o termo Oitis ao
+abandono. Então, Kegel (1953) redefiniu a Formação Pimenteira, incluindo-lhe na
+base uma seção de arenitos denominada Membro Itaim, mas mantendo na parte
+superior o Membro Picos, predominantemente argiloso.
+Tais proposições permanecem em vigência e ainda são utilizadas por alguns
+autores (q.v. Mabesoone, 1994). Porém, no âmbito interno da Petrobrás, o
+Membro Itaim fora elevado a formação por Carozzi et al. (1975), resultando no
+abandono do termo Picos. Tais fatos estão refletidos na carta estratigráfica
+proposta por Góes & Feijó (1994).
+3.3.2. LITOESTRATIGRAFIA
+Góes et al. (1994) descrevem a Formação Pimenteira como um pacote de
+rochas sedimentares constituído, em sua maior parte, por espessos folhelhos e
+siltitos. Em escala reduzida, seriam encontradas lentes e delgadas camadas de
+arenitos finos.
+Lima Filho (1998), citando Della Fávera (1984), descreve a Formação
+Pimenteira como uma série de ciclos granocrescentes para cima, com 10 a 30 m
+de espessura, começando com argilitos e terminando com corpos de arenitos de 3
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 11 -
+a 5 m de espessura, com geometria de barras ou lobos e distribuição lateral de
+aproximadamente 100 m.
+Na borda Leste da bacia ocorrem anomalias radiométricas associadas a
+nódulos fosfáticos na Formação Pimenteira. Fuzikawa (1968 apud Oliveira &
+Barros, 1976) foi o primeiro a apontar, após levantamentos cintilométricos na bacia
+do Parnaíba, a ocorrência de tais anomalias na área da cidade de São Miguel do
+Tapuio, Estado do Piauí. Posteriormente, alunos de graduação da UFPE (Melo,
+1971), por meio de convênio com a CNEN, mapearam estas anomalias e
+constataram que elas se localizavam na parte superior da Formação Itaim e que
+representavam lentes de conglomerados fosfáticos. Em 1972, o projeto São
+Miguel do Tapuio (CNEN / CPRM – Albuquerque et al.,1972) realizou uma série de
+furos de sondagem no entorno da cidade de São Miguel do Tapuio com o intuito
+de verificar a continuidade dessas anomalias radiométricas em subsuperfície,
+assim como a prospectividade das mesmas para urânio, visto a clássica
+associação fosfato-urânio. Tal projeto verificou que as anomalias situam-se na
+‘’zona de transição’’ entre a Formação Itaim e a Formação Pimenteira, que são
+descontínuas e com valores muito variáveis de radioatividade, não configurando
+uma jazida de interesse econômico. Posteriormente, em 1976, um novo projeto
+chamado Fosfato de São Miguel do Tapuio (DNPM / CPRM – Oliveira & Barros,
+1976) foi realizado com o objetivo de avaliar economicamente as reservas e os
+teores de fosfato nas regiões próximas as cidades de São Miguel do Tapuio e
+Pimenteiras, no Estado do Piauí.
+Os contatos inferior e superior da Formação Pimenteira com as Formações
+Itaim e Cabeças, respectivamente, são freqüentemente interpretados como
+concordantes e gradacionais (Della Fávera, 1990; Caputo, 1984; Carvalho, 1995;
+Lima & Leite, 1978). Entretanto, Lima & Leite (1978) notam que localmente, o
+contato superior com a Formação Cabeças pode ser discordante. Estes autores
+descrevem o contato entre essas formações, na região de Anízio de Abreu (PI),
+como nitidamente erosivo devido à ocorrência de um conglomerado com 1,10 m
+de espessura na base da Formação Cabeças, este contendo blocos angulosos de
+siltitos e folhelhos com até 30 cm de diâmetro. Tal camada repousa sobre
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 12 -
+superfície ondulada e irregular desenvolvida sobre os folhelhos subjacentes de
+Formação Pimenteiras.
+Oliveira & Barros (1976), em estudos na borda Leste da bacia, sugerem a
+presença de diastemas no contato entre as formações Itaim e Pimenteira devido à
+ocorrência de rochas carbonáticas, ferruginosas, oolíticas e fosfatadas,
+interpretadas pelos autores como diagnósticas de pequenas taxas de
+sedimentação. Os mesmos autores apontam também que localmente, o contato
+entre as formações Cabeças e Pimenteira se faz em discordância erosiva, visto a
+ocorrência de conglomerados com seixos fosfáticos na base da Formação
+Cabeças, seixos estes que seriam originários da Formação Pimenteira.
+3.3.3. PALEOAMBIENTES DEPOSICIONAIS
+As propostas de ambientes de sedimentação para a Formação Pimenteira na
+literatura são bem homogêneas. De forma geral, grande parte dos autores
+concordam que ela se deu em ambiente marinho plataformal (Della Fávera, 1990,
+2001; Albuquerque, 2000; Melo, 1988; Mesner & Wooldridge, 1964).
+Carozzi et al. (1975) interpretam os sedimentos do Membro Carolina, em
+particular, como sendo depósitos de frente deltaica e de canais distributários.
+Oliveira & Barros (1976) interpretam as duas zonas de rochas carbonáticas,
+oolíticas e ferruginosas como resultado de deposição químico-clástica. Para as
+subunidades definidas pelos mesmos autores, as interpretações são as seguintes:
+DpA, ambiente de offshore com eventuais sedimentos de prodelta; DpB, barras de
+prodelta; DpC, ambiente marinho offshore fortemente euxínico; e DpD como
+depósitos de frente deltaica, prodelta e offshore.
+Ribeiro & Dardenne (1978) interpretam os depósitos de oolitos ferruginosos
+como de origem lagunar, e o restante da formação como depositada em ambiente
+de offshore.
+Melo (1988) aponta deposição em ambiente marinho distal a costeiro, com a
+presença de barras de offshore.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 13 -
+Della Fávera (1990) mostrou retrabalhamento de sedimentos arenosos por
+tempestades nessa formação.
+Mabesoone (1994) apontou, com base em análises litológicas e de estruturas
+sedimentares, ambiente litorâneo e de planície de maré.
+Della Fávera (2001) acrescenta que as areias da Formação Pimenteira tem
+afinidade genética com prodeltas, cujas frentes deltaicas seriam os arenitos da
+Formação Cabeças.
+3.3.4. BIOESTRATIGRAFIA E DATAÇÃO
+A Formação Pimenteira é uma unidade rica em macro e microfósseis. Vários
+autores propuseram zoneamentos bioestratigráficos para a bacia usando
+diferentes grupos de microfósseis. O primeiro e mais utilizado deles é o de Muller
+(1962 apud Melo, 2002), que combina o uso de acritarcas, miósporos e
+quitinozoários. Tal zoneamento utiliza zonas nomeadas de A a T, abrangendo do
+Siluriano ao Cretáceo. Segundo esse zoneamento, a Formação Pimenteira
+abrange desde o terço final da biozona R até o fim da biozona Qsuperior.
+Recentemente, Grahn et al. (2001) revisaram este zoneamento proposto por
+Muller (1962 apud Melo, 2002), apontando que o limite inferior da Formação
+Pimenteira situar-se-ia aproximadamente no meio da zona R, e seu limite superior
+coincide com o limite da zona Qsuperior. Isso concede à formação uma idade que
+vai de meados do Eifeliano ao fim do Frasniano.
+3.3.5. GEOLOGIA DO PETRÓLEO
+Segundo Góes et al. (1990), a Formação Pimenteira é considerada a
+principal formação geradora de óleo da bacia.
+Rodrigues (1995), ao estudar a geoquímica das formações potencialmente
+geradoras de óleo da bacia, identificou cinco intervalos de rochas favoráveis,
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 14 -
+estando três destes dentro da Formação Pimenteira. Ele denominou-os, da base
+para o topo, de folhelhos radioativos A, B e C.
+Os folhelhos radioativos A, situados aproximados no limite
+Eifeliano/Givetiano, têm espessura máxima de 20 m, possuem índices de carbono
+orgânico total (COT) variando de 1,0% a 3,0% matéria orgânica do tipo III, e são
+os únicos que se encontram maturos por subsidência, no NO da bacia. Entretanto,
+são pouco espessos para a geração de um volume apreciável de hidrocarbonetos.
+Os folhelhos radioativos B, situados na parte média do Givetiano, são
+encontrados apenas na parte central e norte da bacia. Possuem espessura
+máxima de 20 m, COT variando de 1,0 a 3,5% e matéria orgânica mista, dos tipos
+II e III. Este intervalo apresenta pouca evolução térmica por subsistência,
+associando-se uma possível geração de óleo ao efeito térmico induzido por
+intrusões de diabásio.
+Os folhelhos radioativos C correspondem aos folhelhos depositados no
+Frasniano, correlacionáveis aos folhelhos geradores das bacias do Solimões
+(Formação Jandiatuba) e do Amazonas (Formação Barreirinha). É o principal
+intervalo de folhelhos radioativos da bacia, alcançando 40 m de espessura e
+teores de COT de até 5,0%. Sua matéria orgânica é de tipo II. Este intervalo não
+atingiu evolução térmica por subsidência em nenhuma parte conhecida da bacia;
+portanto a geração de óleo por tais folhelhos fica associada diretamente ao efeito
+térmico induzido por intrusões de diabásio.
+Esses intervalos de folhelhos radioativos representam superfícies de
+inundação marinha da bacia durante o Devoniano, que proporcionaram a melhor
+preservação da matéria orgânica devido ao estabelecimento de condições
+anóxicas no fundo marinho. Esses intervalos de máxima inundação contêm
+seções condensadas, das quais a do Frasniano corresponde à superfície de
+inundação máxima do Devoniano.
+Rodrigues (1995), após analisar os indícios de hidrocarbonetos encontrados
+nas áreas de Balsas (1-TB-2-MA) e Capinzal (1-CP-1-MA), Estado do Maranhão,
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 15 -
+constatou que estes tiveram sua origem nos folhelhos radioativos da Formação
+Pimenteira, com sua geração associada ao efeito térmico de intrusões básicas.
+Quanto aos reservatórios, Góes et al. (1990) sugeriram que corpos
+lenticulares de arenitos dentro da própria Formação Pimenteira poderiam servir
+como reservatórios de HC, visto que o processo de migração ficaria bastante
+facilitando devido ao direto contato com as rochas geradoras.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 16 -
+4. MATERIAL DE ESTUDO
+O material de estudo é constituído de quarenta e quatro amostras relativas a
+sete testemunhos de sondagem dos projetos São Miguel do Tapuio (Albuquerque
+et al., 1972) e Fosfato de São Miguel do Tapuio (Oliveira & Barros, 1976), a área
+destes projetos é de aproximadamente 3250 km, e localiza-se na borda leste da
+bacia do Parnaíba, incluindo as cidades de Pimenteiras e São Miguel do Tapuio.
+O perfil estratigráfico referente à Formação Pimenteira na área dos projetos
+São Miguel do Tapuio e Fosfato de São Miguel do Tapuio esta representado na
+figura 3 e os perfis estratigráficos referentes aos testemunhos de sondagem VL-
+03, PM-06, ST-12, SM-IST-4, CT-01, CT-02 e PM-10 estão representados nas
+figuras 4, 5, 6, 7, 8, 9 e 10, respectivamente.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 17 -
+Figura 3: Perfil estratigráfico da Formação Pimenteira na área dos projetos São Miguel do Tapuio e
+Fosfato de São Miguel do Tapuio, na borda lesta da bacia do Parnaíba. (Young, 2003).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 18 -
+20
+25
+30
+35
+40
+45
+50
+55
+65
+70
+60
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 4: Perfil estratigráfico do testemunho de sondagem VL-03.
+0
+5
+10
+15
+20
+25
+30
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 5: Perfil estratigráfico do testemunho de sondagem PM-06.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 19 -
+30
+35
+40
+45
+50
+55
+60
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 6: Perfil estratigráfico do testemunho de sondagem ST-12.
+20
+25
+30
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 7: Perfil estratigráfico do testemunho de sondagem SM-IST-4.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 20 -
+0
+10
+20
+30
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 8: Perfil estratigráfico do testemunho de sondagem CT-01.
+0
+10
+20
+30
+40
+50
+60
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 9: Perfil estratigráfico do testemunho de sondagem CT-02.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 21 -
+75
+80
+85
+Arenito
+Siltito
+Folhelho
+Não recuperado
+Figura 10: Perfil estratigráfico do testemunho de sondagem PM-10.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 22 -
+5. MÉTODOS DE ESTUDO
+A técnica de palinofácies, utilizada neste estudo, envolveu o exame
+qualitativo e quantitativo, tanto da matéria orgânica total quanto na distribuição das
+diversas classes desta nos sedimentos.
+As variações detectadas nos grupos e subgrupos de componentes da
+matéria orgânica foram utilizadas nas inferências paleoambientais.
+5.1.Técnicas de preparação das amostras para análise de palinofácies
+As amostras analisadas foram confeccionadas pela Petrobrás, portanto a
+descrição do procedimento laboratorial de preparação das amostras visa apenas a
+apresentação e explicação de como foram realizadas.
+A preparação do material para análise de palinofácies utilizou os
+procedimentos palinológicos padrões, não oxidativos, descritos por Tyson (1995) e
+Mendonça Filho (1999). Este procedimento consistiu na trituração do material,
+utilizando moinho manual, em fragmentos de aproximadamente 5 mm.
+Nas etapas de isolamento da matéria orgânica utilizou-se o Sistema de
+Neutralização de Resíduos Ácidos desenvolvido por Assis (2000) (figura 8).
+As amostras foram acondicionadas em saquinhos plásticos devidamente
+etiquetados. Posteriormente, foram colocadas em suporte de polipropileno de dois
+graus com encaixes para 3/2” conectados a água de lavagem por um sistema de
+mainfold de torneiras de filtro ½” e caneleta de descarte de resíduos dotado de
+luvas de encaixe para bécher de 1000 ml. Este primeiro estágio consistiu na
+maceração do material por acidificação.
+O primeiro estágio desta técnica de maceração por acidificação iniciouse
+com a adição de ácido clorídrico (HCl) à 32%(aproximadamente 100 ml ou uma
+quantidade suficiente para recobrir todo material), a fim de eliminar a fração
+mineral carbonática possivelmente presente na amostra. Após 18 horas,
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 23 -
+descartou-se o resíduo ácido e as amostras foram lavadas em água destilada, em
+um processo de decantação, por três vezes consecutivas.
+O segundo estágio de maceração por acidificação visou a eliminação de
+silicatos, utilizado-se ácido fluorídrico (HF) à 40% ao material (aproximadamente
+100 ml ou uma quantidade suficiente para recobrir todo material). Após 24 horas
+deste processo, fez-se o descarte simultâneo do resíduo ácido, seguida da
+lavagem das amostras por 3 a 4 vezes.
+Após a operação de eliminação dos silicatos, adicionou-se aproximadamente
+50 ml de HCl à 32% para a remoção de cristais de fluorssilicatos que poderiam ter
+sido precipitados durante o tratamento com HF.
+Tal solução permaneceu em repouso por 1 hora. Depois deste procedimento,
+fez-se novamente o descarte de resíduos ácidos e a lavagem do material com
+água destilada por 3 vezes consecutivas.
+Após a operação de eliminação de fluorssilicatos, descartou-se a fração
+granulométrica maior que 1,68 mm, correspondente à fração do material que não
+reagiu com os ácidos. A amostra contida no bécher foi transferida para o sistema
+peneira/tubo de 250 ml, onde se verteu a água, mantendo a amostra em meio
+aquoso, precipitada no fundo do tubo.
+A próxima etapa da preparação das amostras consistiu na separação por
+flotação utilizando um líquido de densidade intermediária entre o material orgânico
+e inorgânico, com o objetivo de separar a fração orgânica da fração inorgânica
+residual. Transportou-se a amostra para tubos de ensaio de 50 ml, onde foi
+adicionado, no mínimo, o dobro de sua quantidade de cloreto de zinco (ZnCl2),
+densidade 1,9 a 2 g/cm3. Após tal processo, colocou-se o tubo no agitador por 15
+minutos para homogeneizar a amostra, e em seguida transferiu-se o tubo para
+Centrífuga IEC CENTRA GP8 por 30 minutos (velocidade 2000 rpm), onde
+ocorreu a separação do material em duas frações.
+A fração sobrenadante (material orgânico) foi retirada dos tubos e
+transportadas para tubos de 200 ml devidamente identificados e o precipitado foi
+descartado.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 24 -
+A etapa seguinte visou à eliminação do ZnCl2 e a separação do material
+orgânico em duas frações distintas, a primeira > 20 µm e < 200 µm, a segunda >
+200 µm 1 e < 1,68 mm. Esta etapa consistiu no peneiramento seguido de
+desagregação do material através de lavagem com HCl. Neste procedimento
+transferiu-se ¾ da amostra contida no tubo de 50 ml para um bécher de 200 ml
+através de uma peneira de PVC de malha de 200 µm. Aos poucos, foi transferido
+o conteúdo do bécher para uma peneira em acrílico de malha 20 µm sob contínua
+ação de água, até que a amostra estivesse totalmente peneirada e completa a
+eliminação do ZnCl2. À fração adquirida por este processo adicionou-se algumas
+gotas de ácido clorídrico à 20%, e água destilada para posterior processo de
+lavagem efetuado por três vezes consecutivas.
+Posteriormente, recolheu-se o resíduo obtido em vidros (30 ml) devidamente
+identificados para o procedimento de montagem da lâmina.
+Para a preparação das lâminas organopalinológicas utilizou-se uma lâmina
+de vidro (24 x 76 mm), devidamente identificada com etiqueta, que recebeu duas
+lamínulas (24 x 32 mm), uma com o material orgânico na fração > 20 µm e < 200
+µm e a outra com o material orgânico na fração > 200 µm 1 e < 1,68 mm da
+seguinte maneira: sobre uma chapa aquecida entre 40ºC e 50ºC, colocou-se na
+parte superior da lâmina três gotas de goma de acácia e uma gota da solução
+contendo o material orgânico que, posteriormente, foi espalhado sobre a lâmina,
+utilizando-se de algumas gotas de água destilada.
+Após a secagem do material sobre a lâmina, esta recebeu três gotas de
+Entellan-Merck (resina) e a lamínula (24 x 32 mm) para colagem.
+Após a secagem da lâmina com as lamínulas sobrepostas, fez-se a sua
+limpeza, eliminando-se o excesso de resíduo de suas bordas.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 25 -
+5.2. Análises de palinofácies
+A análise de palinofácies é uma técnica na qual o operador tenta identificar
+os componentes palinológicos individuais (fitoclastos, palinomorfos e matéria
+orgânica amorfa) e suas proporções relativas em qualquer uma das amostras,
+atentando particularmente ao seu tamanho, forma e estado de preservação
+(Tyson, 1993; 1995). Isto pode fornecer informações sobre o tipo de aporte
+terrestre, condições redox, tendências transgressiva/regressiva e pode, também,
+permitir a subdivisão de unidades litologicamente uniformes.
+5.2.1. TÉCNICAS DE MICROSCOPIA
+O principal objetivo da microscopia é a caracterização da origem da matéria
+orgânica, a determinação das percentagens relativas e o estado de preservação
+dos diferentes constituintes que compõem a matéria orgânica total.
+A combinação do procedimento de identificação visual dos componentes
+orgânicos em luz branca transmitida, e a observação em fluorescência destes, foi
+importante para a detecção da presença de palinomorfos significativos, os quais
+poderiam passar desapercebidos durante o procedimento de contagem.
+Além disso, foi realizado o Índice de Coloração dos Esporos (ICE), que tem
+como objetivo a verificação do estágio da maturação térmica da amostra.
+As análises microscópicas foram realizadas no Laboratório de Palinofácies,
+Setor de Paleontologia e Estratigrafia, Departamento de Geologia, Instituto de
+Geociências.
+5.2.1.1. Microscopia em luz branca transmitida
+A análise microscópica foi efetuada sobre lâminas organopalinológicas em
+microscópio Zeiss modelos AXIOSKOP 2 PLUS, oculares com aumento de 10x e
+objetivas de 20 e 40x de aumento.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 26 -
+5.2.1.2. Microscopia em luz azul incidente - fluorescência
+A matéria orgânica freqüentemente mostra uma fluorescência natural quando
+excitada com luz azul ou ultravioleta de uma lâmpada de mercúrio. Isto é chamado
+“autofluorescência”, para distinguir da fluorescência produzida pelo tingimento
+artificial com componentes fluorcromados, como os utilizados em microbiologia
+(Tyson, 1995).
+Cada lâmina organopalinológica foi examinada em luz azul incidente
+(fluorescência) utilizando microscópio Zeiss modelo AXIOSKOP 2 PLUS com fonte
+de fluorescência com lâmpada de mercúrio HBO-100W, em aumento de 20X (ou
+40X para um exame particular mais detalhado). Tal exame foi realizado
+primeiramente para determinar o estado de preservação dos componentes
+orgânicos presentes nas amostras (principalmente matéria orgânica amorfa e
+palinomorfos).
+5.2.1.3. Índice de Coloração de Esporos (ICE)
+A coloração original de alguns componentes orgânicos das rochas
+sedimentares, tais como esporomorfos (esporos e grãos de pólen), é alterada de
+acordo com o efeito térmico a que foram submetidos, tornando-se mais escuros
+com o aumento da temperatura. A atribuição de valores numéricos a estas
+variações de coloração constitui o Índice de Coloração de Esporos (ICE), a partir
+do qual são desenvolvidos estudos de maturação térmica (Figura 5.1).
+Gutjahr (1966) realizou as primeiras pesquisas para utilizar a variação de
+coloração de esporos e grãos de pólen como uma indicação do estágio de
+maturação térmica, observando uma variação na coloração dessas partículas
+desde o amarelo até o marrom escuro, aplicando o termo “carbonização” para este
+processo de alteração térmica.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 27 -
+Staplin (1969) introduziu a técnica do Índice de Alteração Térmica (IAT), a
+qual é baseada nas mudanças de coloração da matéria orgânica em relação ao
+nível de evolução térmica dos sedimentos. O IAT apresenta uma escala de 1 a 5.
+Em 1971, Correia constatou que as variações de colorações dos esporos e
+grãos de pólen, com o aumento da temperatura, eram mais favoráveis para uma
+correlação. O Índice de Coloração de Esporos (ICE), utilizado neste trabalho, foi
+desenvolvido por Barnard et al. (1981), e apresenta uma escala de 1 a 10 em
+intervalos de 0,5. Foi designado para dar linearidade com o aumento de
+profundidade e temperatura, pronunciado pela mudança de coloração (Figura 11).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 28 -
+Figura 11: Escala de ICE, Barnard et al. (1981), padrão Robertson Research.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 29 -
+5.3.Obtenção dos dados
+5.3.1. CONTAGEM DOS COMPONENTES ORGÂNICOS
+Fez-se à cobertura da lâmina utilizando um retículo cruzado graduado em
+oculares de 10X e objetiva de 20X de aumento. Foram registradas somente
+aquelas partículas que passaram diretamente sobre o retículo.
+Os dados de contagem foram registrados manualmente em folhas de
+contagem (tabela 1), obedecendo à classificação proposta (tabela 2). Todas as
+partículas foram contadas, exceto aquelas com tamanho inferior a 10 µm (retículo
+graduado) e qualquer contaminante (reconhecidos pela cor, relevo ou forma),
+sendo que os fragmentos de palinomorfos, não identificáveis, com menos da
+metade da forma e tamanho original, foram ignorados.
+Foram realizadas contagens de no mínimo 300 pontos e máximo 500 pontos
+para os grupos de componentes da matéria orgânica, sendo que, em algumas
+amostras, isto não foi possível pela falta de material orgânico.
+Utilizou-se o sistema combinado de microscopia em luz branca transmitida e
+ultravioleta incidente (fluorescência), para a caracterização e classificação do
+material orgânico proposto.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 30 -
+Tabela 1: Ficha utilizada para a contagem dos componentes orgânicos.
+Amostra:
+FITOCLASTOS Opaco
+Não-opaco
+Cutícula
+Membrana
+Spongiophyton
+MOA
+PALINOMORFOS Esporomorfo Esporo
+Microplâncton Marinho Prasinófitas
+Acritárca
+Água doce Botryococcus
+Zoomorfos Escolecodonte
+Quitinozoários
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+Tabela 2: Classificação geral dos principais componentes da matéria orgânica (baseado em Tyson 1995; Mendonça Filho, 1999; Carvalho; 2001;
+Mendonça Filho et.al.,2002)
+GRUPOS &
+SUBGRUPOS ORIGEM DESCRIÇÃO
+Fitoclastos Opaco Partícula de cor preta de forma quadrática. Sem
+bioestruturas internas.
+Não-opaco
+Derivado de tecidos lenhosos de
+vegetais Partícula de cor marrom, podendo ser ou não
+bioestruturada.
+Cutícula Derivado de folhas de vegetais
+superiores
+São partículas de coloração amarelo pálido a marrom
+claro, delgadas em forma de lâminas com contornos
+nítidos, podendo demonstrar boas estruturas celulares
+Membrana Não celular
+São partículas de coloração amarelo pálido,
+apresentando-se comumente com aparência
+“desbotada” e transparente
+Spongiophyton Não se sabe a origem
+Partícula de cor amarelada, relevo alto, normalmente
+bem maior do que os outros componentes da MO.
+Data o período Devoniano
+Matéria
+Orgânica
+Amorfa
+Material orgânico derivado de
+ataque microbiológico
+Material não estruturado e com formato variado; cor:
+amarelo laranja-vermelho; laranja
+algumas vezes inclusões como palinomorfos,
+fitoclastos, pirita, etc; fluorescente a não
+Palinomorfos Esporomorfo Esporos
+Palinomorfo terrestre produzido
+por pteridófitos, briófitas e
+fungos.
+Palinomorfo de forma triangular ou circular,
+apresentando a marca trilete (“Y”) ou monolete (uma
+cicatriz) Ornamentação variada.
+Prasinófitas Microfóssies produzidos por
+pequenas algas quadriflageladas
+Maioria, como Tasmanites, são esféricas; diâmetro 50
+à 2000 µm. Pré-CambrianoMicroplâncton
+marinho Acritárca Origem incerta
+Possui forma variada, econtrou
+forma de um núcleo e diversos tentáculos. Tem uma
+aparencia "estrelada".
+Microplâncton de
+água doce Botryococcus Alga Chlorococcale
+Colônias globular irregular; tamanho 30 a 2000 µm,
+algumas vezes com vários lóbulos; laranja marrom.
+Carbonífero
+Escoleocodonte É reconhecido principalmente por possuir um
+esqueleto em forma de "serrote" . Cor: marromZoomorfos
+Quitinozoários
+Origem Animal
+Possuem uma coloração marrom e forma de garrafa.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 32 -
+5.4.Tratamento dos dados
+Após a contagem das partículas orgânicas foi realizado tratamento estatístico
+com os dados obtidos. Estes dados foram recalculados para valores percentuais
+relativos aos grupos e subgrupos da matéria orgânica e submetidos a análises de
+agrupamento.
+5.4.1. ANÁLISES DE AGRUPAMENTO
+A análise de agrupamento procura agrupar amostras com as mesmas
+características bióticas e abióticas, ou associar espécies em comunidade, de
+acordo com o objetivo do seu trabalho (Valentin, 2000) e tem larga aplicação em
+estudo de paleocomunidades.
+No presente estudo, a análise de agrupamento foi empregada para
+reconhecer o grau de similaridade entre os componentes da matéria orgânica
+(modo R) podendo assim reuni-los em conjuntos com maior similaridade. Deste
+modo, foi possível determinar a abundância dos grupos de componentes da
+matéria orgânica e estabelecer relações entre as análises de palinofácies.
+Além disso, foi empregado o coeficiente de correlação linear r de Pearson ( rPearson), um dos mais utilizados para quantificar a dependência linear entre os
+elementos e, assim determinar a matriz de correlação e identificar a relação entre
+os componentes orgânicos. O coeficiente r-Pearson é adimensional e expressa
+exclusivamente a intensidade linear entre as variáveis. Este varia, em valor
+absoluto, entre 0 (nenhuma relação linear) e 1 (relação linear perfeita, seja direta
+para r = +1, seja inversa para r = -1 (Valentin, 2000).
+Os resultados das análises de agrupamento são representados por
+dendogramas, que são definidos como um diagrama ramificado que contém
+entidades reunidas por algum critério (Wiley, 1981).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 33 -
+6. CLASSIFICAÇÃO E DEFINIÇÃO DOS COMPONENTES ORGÂNICOS
+A matéria orgânica sedimentar, que é insolúvel em solventes orgânicos, é
+denominada querogênio, sendo comumente mais rica em hidrogênio e de baixa
+aromaticidade (Welte, 1972).
+Segundo Durand (1980); o querogênio é a matéria orgânica sedimentar
+insolúvel em solventes orgânicos. Tissot & Welte (1984) consideraram o
+querogênio como constituintes orgânicos das rochas sedimentares que são
+insolúveis em componentes aquosos alcalinos e solventes orgânicos.
+O querogênio, segundo Tyson (1995), não é uma substância individual
+variável, mas uma mistura complexa e heterogênea cuja composição reflete
+proporções grandemente variáveis de um grande número de materiais
+precursores.
+Classificação do querogênio:
+• Tipo I – Matéria orgânica algal lacustre e matéria orgânica enriquecida
+em lipídios por ação bacteriana (amorfa).
+• Tipo II – Matéria orgânica marinha depositada em ambientes redutores
+(mais esporos, grãos de pólen, cutículas de vegetais superiores).
+• Tipo III – Matéria orgânica lenhosa de vegetais terrestres superiores.
+Para este estudo adaptou-se o sistema de classificação geral dos principais
+componentes da matéria orgânica (baseado em Tyson, 1995; Mendonça Filho,
+1999; Carvalho, 2001; Mendonça Filho et al., 2002) (tabela 2), sendo o material
+orgânico dividido em três grupos principais e seus respectivos subgrupos:
+Fitoclastos, Palinomorfos e Matéria Orgânica Amorfa. A rigorosa subdivisão da
+categoria de palinomorfos tem a finalidade de identificar qualquer variação
+quantitativa que poderia estar relacionada aos principais controles na distribuição
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 34 -
+da matéria orgânica e, assim, utilizar esses fatores na determinação de seu
+significado paleoambiental.
+6.1.Classificação da matéria orgânica
+Os fitoclastos foram divididos em não-opacos (de coloração amarelada a
+marrom muito escuro) e opacos (pretos).
+Os palinomorfos foram somente divididos em esporomorfos de origem
+terrestre (esporos) e organismos aquáticos (algas de água doce/salobra, plâncton
+marinho). Esta divisão forneceu indicações da proximidade de fontes fluviais e
+informação sobre tendências transgressiva/regressiva.
+A matéria orgânica amorfa constitui o restante do material orgânico e é
+separada do resto da assembléia com base em seu caráter não estruturado.
+6.1.1. FITOCLASTOS
+• Fitoclastos opacos (pretos)
+Este grupo é representado por fragmentos de coloração preta, opacos, que
+podem apresentar uma forma equidimensional (quadrático) ou alongada
+(retangular - onde o eixo longo da partícula é maior que três vezes o comprimento
+do eixo curto) e exibir margens angulares a subangulares e contornos nítidos.
+• Fitoclastos não-opacos (marrons)
+Este grupo é representado por fragmentos com coloração que varia de
+marrom claro a marrom muito escuro (Tuweni & Tyson, 1994).
+Os fitoclastos não-degradados deste tipo não demonstram qualquer estrutura
+botânica interna. Essas partículas podem variar em tamanho, sendo normalmente
+equidimensionais com contornos angulares.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 35 -
+São fitoclastos bioestruturados são representados por fragmentos de células
+traqueídicas (e/ou raios) do xilema secundário de vegetais superiores; mostram
+caracteristicamente alguma forma de estrutura botânica interna. Translúcidos,
+geralmente de coloração marrom; forma equidimensional a retangular, estrutura
+interna claramente visível.
+• Spongiophyton
+Componente de origem incerta. Gensel et.al. (1991) aloja este vegetal fóssil
+dentro da linhagem das embriófitas. Um hábito terrestre para esse organismo é
+sugerido por Rodrigues (1995), Guerra-Sommer et.al. (1996 a), Guerra- Sommer
+et al (1996 b) e Mendonça Filho et. al. (2003).
+• Cutículas
+São partículas de coloração amarelo pálido a marrom claro, delgadas em
+forma de lâminas com contornos nítidos, podendo demonstrar boas estruturas
+celulares (lados retos ou paredes celulares circulares), representando a camada
+de cutina da epiderme de folhas de vegetais superiores.
+• Membranas
+São partículas de coloração amarelo pálido, apresentando-se comumente
+com aparência “desbotada” e transparente. Representa tecido não celular e tem
+comumente uma forma irregular com aparência degradada.
+6.1.2. PALINOMORFOS
+Refere-se a todo componente de parede orgânica resistente ao ataque com
+HCL (ácido clorídrico) e HF (ácido fluorídrico), sendo dividido em: esporomorfos,
+microplâncton de parede orgânica e zoomorfos.
+Esporomorfos
+É um termo utilizado para descrever palinomorfos derivados de macrófitas
+terrestres.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 36 -
+• Esporos
+São produzidos por plantas talófitas, briófitas e pteridófitas. Tem sua origem
+em criptógamo, ou seja, em vegetais que não são capazes de se reproduzir por
+meio de flores, ou apresentam pequeno órgão reprodutor (Playford & Dettmann,
+1996). Apresentam como principal característica sua estrutura interna, como
+marca trilete ou monolete. Em fluorescência, apresentam variações de colorações
+do amarelo ao laranja.
+Microplâncton de parede orgânica
+Podem ser divididos em microplâncton de parede orgânica de água doce ou
+microplâncton de parede orgânica marinho.
+• Botryococcus (água doce)
+Esta alga ocorre em colônias com uma coloração amarelo brilhante e forma
+botrioidal, podendo algumas vezes se assemelhar aos fitoclastos não-opacos
+degradados (Whitaker et al., 1992), devido provavelmente a um escurecimento na
+cor da alga. Em tais casos essas algas podem ser somente reconhecidas em luz
+fluorescente.
+• Prasinophyta (marinho)
+Fensome et. al. (1990) considera as Prasinophytas como sendo a mais
+primitiva alga verde. As formas modernas deste grupo de algas tem sido
+consideradas como classe Prasinophyceae, proveniente dos gêneros
+Cymatiosphaera, Leiosphaeridia, Maranhites,Pterospermele, Tasmanites entre
+outras.
+Wall (1962) , faz um estudo comparativo do fóssil Tasmanites com o ciclo de
+vida das algas mais recentes.
+• Acritarcha (marinho)
+Os acritarches é um grupo polifilético de palinomorfos,que significa origem
+incerta. Evitt (1963) introduziu o termo acritarcha como uma categoria informal
+para todos os palinomorfos não-esporomorfos e não-dinocistos que possuiam
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 37 -
+afinidade incerta, com a condição de ser fitoplâncton marinho. Ocorrem desde o
+Pré-Cambriano ao Recente.
+Downie (1973), classifica as acritarchas segundo critérios como: paredes
+estruturais, tipos de pilome, natureza dos processos, crista e forma do corpo
+central da vesícula.
+Zoomorfos
+Esta classificação é atribuída aos restos orgânicos animais, fazem parte
+deste grupo os Quitinozoários e os Escoleocodontes.
+6.1.3. MATERIAL ORGÂNICO AMORFO
+• Matéria Orgânica Amorfa (M.O.A.)
+A matéria orgânica amorfa é representada por uma matéria orgânica não
+estruturada com uma forma ou contorno irregular. Esse material é tipicamente
+representado por uma coloração cinza-preta a laranja-marrom, apresentando uma
+matriz granular heterogênea freqüentemente com manchas pretas, as quais
+podem ser inclusões de pirita. Podem formar grumos ou ser finamente dispersa. É
+provavelmente derivada de bactérias, fitoplâncton e agregados orgânicos
+degradados (Tyson, 1993). O estado de preservação da matéria orgânica amorfa
+é importante na caracterização de condições deposicionais e na determinação do
+potencial de hidrocarbonetos, podendo ser avaliada utilizando luz fluorescente
+azul.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 38 -
+7. DISTRIBUIÇÃO DOS GRUPOS DE COMPONENTES DA MATÉRIA
+ORGÂNICA
+A variável mais importante que controla os parâmetros de tendência na
+distribuição dos grupos e subgrupos de componentes da matéria orgânica é a
+proximalidade (tendência proximal-distal). O conceito de proximalidade usado em
+palinofácies envolve o seguinte número de fatores interrelacionados:
+a. proximidade do ponto de origem de sedimentos siliciclásticos flúviodeltaicos e matéria orgânica terrestre (fitoclastos);
+b. a magnitude do ponto de origem flúvio-deltaico (ex. sua taxa de descarga);
+c. a magnitude e natureza da produtividade primária terrestre na área fonte
+do sedimento;
+d. a duração relativa total do processo de transporte (intermitente ou
+contínuo) entre a área fonte das partículas e seu sítio final de deposição;
+e. o gradiente paleoambiental entre a área fonte e o sítio final de deposição;
+f. variação da linha de costa
+7.1.Fitoclastos
+A alta percentagem de fitoclastos pode estar relacionada a três fatores:
+elevado suprimento de fitoclastos, sua preservação e sedimentação seletiva
+condicionada à condições hidrodinâmicas.
+Um alto suprimento de fitoclastos pode diluir todos os outros componentes
+orgânicos e refletir características proximais, onde a deposição ocorre próximo à
+flora-mãe. O transporte insuficiente não permite a seleção do fitoclasto refletindo
+uma assembléia de caráter proximal de composição misturada e com maior
+variedade de tamanhos de partículas (Tyson, 1993).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 39 -
+A matéria orgânica de origem terrestre é transportada pelos rios até alcançar
+o oceano, mas quase toda ela é removida de zonas estuarinas (Wollast, 1983).
+Grande parte dessa matéria orgânica terrestre é depositada próximo a
+desembocadura dos rios e permanece na plataforma interna; quantidades
+significativas alcançam a plataforma externa somente quando a descarga dos rios
+é alta, ou quando a plataforma é estreita (Muller, 1956; Hedges & Parker, 1976;
+Porcklington & Leonard, 1979 apud Tyson, 1993).
+Degens e Mopper (1976) sugerem que somente os sedimentos depositados
+em regiões estuarinas ou próximos à linhas de costa revelam forte influência
+terrígena, não considerando condições transgressivas e regressivas.
+Segundo Habib (1982), os picos globais de redeposição de matéria orgânica
+terrestre no oceano coincidem com o rebaixamento do nível do mar, quando a
+plataforma é exposta, ou quando a plataforma é estreita e cortada por cânios onde
+há alta freqüência de correntes de turbidez. No oceano a alta abundância de
+fitoclastos está fortemente relacionada à ocorrência e freqüência de turbiditos
+(Tyson, 1984).
+Percentagens mais elevadas de fitoclastos não-opacos são usualmente
+encontradas próximas de fontes fluviais onde tais partículas diluem qualquer tipo
+de fitoclastos opacos, palinomorfos ou matéria orgânica amorfa que esteja
+presente. Existe um decréscimo geral na percentagem de fitoclastos em direção
+distal, como um resultado da diminuição na abundância absoluta afastando-se de
+sua fonte, ocorrendo um aumento na diluição por palinomorfos ou matéria
+orgânica amorfa. Em alguns casos uma alta percentagem de fitoclastos pode
+indicar condições oxidantes onde somente o material mais refratário é preservado
+(Tyson, 1989). Fitoclastos não-opacos nãobioestruturados são dominantes em
+ambientes mais proximais onde, esses elementos podem ser de coloração muito
+escura devido à oxidação (Tyson, 1995). Com uma distância maior de transporte,
+o material não-opaco nãobioestruturado previamente dominante é finalmente
+removido do sistema pela deposição seletiva ou degradação seletiva; ocorrendo
+um correspondente aumento da percentagem dos tecidos lenhosos mais
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 40 -
+refratários (tecidos do xilema - listras e traqueídeos), e especialmente uma
+diminuição no tamanho das partículas fitoclásticas devido aos processos de
+fragmentação durante o transporte. Isto resulta na mudança das proporções dos
+diferentes grupos de fitoclastos ao longo de uma seção transversal proximal-distal.
+Os fitoclastos opacos têm maior resistência à degradação em relação à
+fração não-opaca, e permanecerão no ambiente deposicional após a destruição
+seletiva da maioria dos outros materiais orgânicos. Percentagens relativas
+elevadas são, assim, associadas com sedimentos de grãos grosseiros de
+ambientes oxidantes de alta energia de deltas e fácies de planície costeira
+(Denison & Fowler, 1980; Fisher, 1980; Hancock & Fisher, 1981; Parryet al., 1981;
+Batten, 1982; Boulter & Riddick, 1986; Bustin, 1988; Highton et al., 1991; William,
+1992; Tyson, 1993). Esta correlação com ambientes de alta energia tem sido
+considerada refletir a densidade mais elevada das partículas em relação à fração
+não-opaca (Denison & Fowler, 1980; Fisher, 1980; Hancock & Fisher, 1981; Parry
+et al., 1981; Highton et al., 1991; Fisher & Hancock, 1985).
+A percentagem relativa de partículas opacas freqüentemente aumenta em
+ambientes mais distais, seu tamanho torna-se menor e assumem forma mais
+alongada como um resultado do processo de transporte prolongado com a
+conseqüente cominuição dos fragmentos (Parryet al., 1981; Tyson, 1995).
+Whitaker et al . (1992) consideram os fitoclastos opacos, especialmente a
+fração de forma alongada, as partículas mais flutuantes de todos os tipos de
+fitoclastos. Contudo, Tyson (1995) argumenta que o tamanho e a porosidade
+intrapartícula determinará a densidade efetiva e, portanto, o diferente
+comportamento hidrodinâmico dessas partículas.
+O aumento na percentagem de cutículas é comum em ambientes terrestres
+proximais, especialmente em camadas onde se encontram a deposição de
+vegetais in situ (Batten, 1973). Contudo, essas partículas não estão associadas
+somente com sedimentos de grãos finos de baixa energia (Tyson, 1995). Com o
+aumento da distância e duração do processo de transporte, os fragmentos de
+cutículas tornam-se degradados, resultando em alteração física e uma redução no
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 41 -
+tamanho. Através de leques submarinos, quantidades significativas de cutículas
+atingem áreas profundas da bacia, depositadas a partir dos cânios (Habib, 1982).
+Boulter and Riddick (1986) observaram que as cutículas são relativamente mais
+abundantes em regiões de mais alta energia em leques submarinos,
+especialmente nos canais arenosos. Eles sugerem que este material flutuante
+passa normalmente pelos leques, e é rapidamente trapeado pela rápida
+sedimentação durante deposição de areias por fluxos gravitacionais.
+A percentagem de fitoclastos é também influenciada pelos efeitos da
+equivalência hidrodinâmica. Estes fragmentos lenhosos sendo partículas
+orgânicas relativamente grandes e densas são freqüentemente concentradas em
+sedimentos ricos em areia muito fina ou silte grosseiro (Tyson, 1993).
+7.2.Palinomorfos
+Sendo o menos abundante dos três principais grupos morfológicos da
+matéria orgânica particulada, a abundância relativa de palinomorfos é
+primeiramente controlada pela extensão da diluição por fitoclastos ou matéria
+orgânica amorfa (Tyson, 1993). Em ambientes onde os percentuais de fitoclastos
+e matéria orgânica amorfa são reduzidos, o conteúdo de palinomorfos é mais
+elevado. Em ambientes distais, de baixa energia e moderadamente oxidantes, a
+assembléia de palinomorfos apresenta valores percentuais elevados de
+esporomorfos (esporos e grãos de pólen). Efeitos diversos podem também levar a
+ocorrência de concentrações elevadas de palinomorfos em sedimentos ricos em
+material síltico de granulação média a fina, devido, principalmente, à equivalência
+hidrodinâmica existente entre esse material sedimentar e os constituintes
+palinomorfos (Müller, 1959; Wall et al., 1977 ; Tyson, 1993).
+Percentagem de esporomorfos
+A abundância absoluta de esporomorfos em sedimentos marinhos
+geralmente mostra mais ou menos um decréscimo exponencial em direção
+offshore (Mudie, 1982), sendo fortemente dependente do tamanho e característica
+da drenagem da bacia, magnitude e variação da descarga dos rios. Altas
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 42 -
+abundâncias de esporomorfos são encontradas em áreas deltaicas, mas essas
+abundâncias caem rapidamente em áreas offshore (Muller, 1959; Darrell & Hart,
+1970). As fácies de prodelta apresentam alta percentagem de esporomorfos, com
+assembléias com alta abundância absoluta e diversidade moderada (Mudie,
+1982). Bacias ocêanicas ou outras permanentemente com águas estratificadas
+são freqüentemente dominadas por altas percentagens de esporomorfos (baixa
+abundância absoluta) (Habib, 1982).
+Percentagem de plâncton marinho
+A percentagem de microplâncton de parede orgânica marinho na fração
+palinomorfo, comporta-se de maneira inversa ao conteúdo de esporomorfos.
+Percentuais elevados de microplâncton de parede orgânica marinho
+geralmente ocorrem em áreas distantes de fontes flúvio-deltaicas (Tyson, 1993).
+Na plataforma continental ocorre o declínio absoluto de esporomorfos e o
+aumento dos componentes microplânctonicos de parede orgânica marinhos, onde
+no caso dos dinocistos, a abundância máxima ocorre no talude continental,
+decrescendo com a lâmina d’ água. A abundância absoluta de dinocistos não está
+simplesmente relacionada com a produtividade primária, pois parte da sua
+distribuição é modificada por fatores sedimentológicos, e parte, porque os
+dinocistos constituem uma incosistente e pequena proporção da população dos
+dinoflagelados e dos componentes fitoplânctonicos totais (Wall, 1977).
+De acordo com Tyson (1995), as prasinófitas raramente ocorrem em
+percentuais elevados, porém são significativamente importantes na caracterização
+de fácies marinha franca, especialmente intervalos disóxicoanóxicos com baixas
+taxas de acumulação de sedimentos siliciclásticos. Em ambientes mais proximais,
+essas algas ocorrem em número muito reduzido, apresentando um significado
+ambiental questionável.
+Percentagem de plâncton de água doce
+A percentagem do microplâncton de água doce (algas do gênero
+Botryococcus) em sedimentos marinhos pode ser usada como indicadora da
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 43 -
+proximidade relativa de áreas fonte flúvio-deltaicas e redeposição a partir dessas
+áreas. Percentuais elevados de algas do gênero Botryococcus ocorrem,
+tipicamente, em ambientes lacustres de água doce e de baixa energia, diminuindo
+a medida que se alcançam as fácies mais distais (Tyson, 1995), porém são
+registradas também em fácies temporariamente hipersalinas (Hunt, 1987).
+Botryococcusaumentam sua capacidade de flutuação, sendo transportadas de
+áreas deltaicas para a plataforma, onde são componentes minoritários da
+assembléia de componentes da matéria orgânica (Tyson, 1993).
+7.3. Matéria Orgânica Amorfa (M.O.A.)
+A alta percentagem na abundância de matéria orgânica amorfa é
+característica de áreas de alta preservação devido às condições redutoras e de
+baixa energia, especialmente aquelas afastadas de áreas de atividades
+fluviodeltaicas que estão associadas com processos de diluição por esporomorfos
+e fitoclastos (Tyson, 1987; 1989; 1993; Bustin, 1988). Em fácies deltaicas
+proximais de baixa energia pode ser possível que algum material amorfo presente
+seja o produto da degradação de vegetais superiores. Tyson (1993) menciona que
+elevadas percentagens de M.O.A. fluorescente reflete, principalmente, o aumento
+do nível de preservação dentro de condições redutoras e, em menor extensão,
+indica uma sedimentação afastada da fonte ativa dos componentes terrestres. A
+maior parte da matéria orgânica marinha em sedimentos está representada pela
+matéria orgânica amorfa, mas este tipo de componente orgânico é facilmente
+degradado quando exposto a condições aeróbicas. Contudo, devido ao grande
+reservatório de agregados orgânicos marinhos, quando as condições são
+suficientemente redutoras, a matéria orgânica amorfa freqüentemente engloba
+outros componentes da matéria orgânica (Tyson, 1987; 1989; 1993).
+A intensidade de fluorescência da M.O.A. é controlada pelas condições redox
+dentro do qual ocorreu sua deposição; condições desóxico-anóxicas preservam os
+componentes lábeis da M.O.A., que são ricos em hidrogênio. A fluorescência,
+como um todo, é parcialmente controlada pela fonte planctônica e os tipos de
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 44 -
+partículas inclusas. A fluorescência da matriz de partículas amorfas heterogêneas,
+a qual se degrada muito facilmente, é o indicador mais sensitivo de condições
+redox (Tyson, 1993).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 45 -
+8. PARÂMETROS PALINOFACIOLÓGICOS
+As tendências na distribuição dos grupos da matéria orgânica importantes
+para a caracterização paleoambiental estão sumarizadas na tabela 3.
+Os cálculos para a determinação dos parâmetros foram baseados na
+percentagem de freqüência relativa de partículas para a matéria orgânica total. Os
+grupos importantes na palinofácies foram então recalculados para detectar as
+variações nos diferentes grupos de fitoclastos e palinomorfos. Tyson (1993; 1995)
+descreve em detalhe as tendências gerais de vários parâmetros.
+Tabela 3: Parâmetros calculados para os grupos e subgrupos de componentes da matéria
+orgânica e as tendências generalizadas proximal – distal, baseado em Tyson (1993) e Mendonça
+Filho (1999).
+TENDÊNCIA
+PARÂMETROS
+PROXIMAL DISTAL
+% fitoclastos do total de matéria orgânica alta baixa
+% palinomorfos do total de matéria orgânica baixa alta
+% matéria orgânica amorfa do total de matéria orgânica baixa alta
+% esporomorfos dos palinomorfos alta baixa
+Abundância absoluta de esporomorfos alta baixa
+% fitoplancton marinho dos palinomorfos baixo alto
+% Botryococcus dos palinomorfos alta baixa
+Razão de fitoclastos / palinomorfos alta baixa
+Razão fitoclastos opacos / fitoclastos não opacos baixo alto
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 46 -
+9. RESULTADOS E DISCUSSÕES
+Foram analisadas um total de 44 lâminas organopalinológicas. Das 44
+lâminas analisadas foram realizadas contagens de partículas orgânicas em
+somente 38 lâminas. Isto foi devido à ausência de material orgânico em uma
+lamina (CT-02.51) do poço CT-02 e devido a total impossibilidade de se fazer a
+contagem das cinco laminas do poço CT-01 por apresentarem um elevado estágio
+de evolução térmica, não podendo se fazer o reconhecimento dos componentes
+orgânicos.
+9.1. Representação dos dados
+9.1.1. DIAGRAMAS TERNÁRIOS
+De acordo com Tyson (1993, 1995), os diagramas ternários (triangulares)
+são formas simples de representação gráfica, porém de um significado
+extremamente profícuo de apresentação de dados (percentagens) de palinofácies.
+Mesmo utilizando dados relativamente simples, os resultados, quando plotados no
+diagrama ternário apropriado, podem demonstrar um significante potencial para a
+discriminação de diferenças temporal e espacial em ambientes deposicionais.
+Os dados percentuais da assembléia da matéria orgânica (parâmetros
+obtidos para os grupos fitoclasto, palinomorfo e matéria orgânica amorfa) para o
+conjunto total de amostras analisadas foram apresentados sob a forma de tabelas
+e de uma série de diagramas ternários. Nos diagramas ternários, o total dos três
+componentes plotados foram normalizados à 100%, de acordo com Tyson (1993;
+1995).
+Seguindo a convenção proposta por Tyson (1989; 1993; 1995), todos os
+diagramas são orientados de forma que os componentes que são indicadores de
+maior proximidade terrestre (proximais / terrestres) são colocados no ápice dos
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 47 -
+diagramas. No vértice inferior esquerdo do diagrama, são colocados os
+componentes que apresentam uma associação positiva com ambientes distais ou
+redutores. Este procedimento permite uma visão geral da natureza dos resultados,
+sua variabilidade e a presença das principais tendências apresentadas pelos
+grupos de dados obtidos.
+9.1.2. DENDROGRAMAS
+Os resultados das análises de agrupamento modo R foram representados
+por dendrogramas.
+Após a obtenção dos dados das contagens foi efetuado um tratamento
+estatístico através do programa Excel 97. Os diagramas foram construídos
+utilizando os programasMinpet 2.02 e Corel Draw 9.0 e foram construídos com os
+dados percentuais relativos aos diferentes grupos de componentes da matéria
+orgânica (total de fitoclastos, total de palinomorfos, total de matéria orgânica
+amorfa - MOA, esporos, prasinófitas, acritárcas etc). Estes dados foram
+recalculados para valores percentuais e submetidos a análises de agrupamento
+utilizando o software Statistica for Windows versão 4.3.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 48 -
+9.2.Contagem dos componentes da matéria orgânica
+No poço VL-03 observou-se o domínio do grupo palinomorfos no total de
+componentes da matéria orgânica (50,79%), com os fitoclastos constituindo o
+segundo grupo em dominância (34,35%), e subordinadamente MOA com valores
+percentuais médios de 14,86% (figura 12 e tabelas 4).
+VL-03
+Fitoclasto
+MOA Palinomorfo
+Figura 12: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes
+orgânicos da matéria orgânica do poço VL-03.
+Tabela 4: Valores percentuais dos 3 principais grupos da matéria orgânica do poço VL-03.
+Poço VL-03
+Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%)
+VL03.01 21,21 57,67 9,67 32,67 100,00
+VL03.02 26 57,19 25,54 17,27 100,00
+VL03.04 47,2 47,89 40,85 11,27 100,00
+VL03.03 51,4 40,00 53,10 6,90 100,00
+VL03.05 52,9 58,01 32,38 9,61 100,00
+VL03.06 58,3 34,14 51,03 14,83 100,00
+VL03.07 64,15 60,66 27,87 11,48 100,00
+Média 50,79 34,35 14,86 100,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 49 -
+No poço PM-06 observou-se o domínio do grupo palinomorfos com 48,72%
+do total da matéria orgânica, a MOA constitui o segundo grupo em dominância
+(36.72%), e o grupo dos fitoclastos possui valores percentuais médios de 14,56%
+(figura 13 e tabela 5).
+PM-06
+Fitoclasto
+PalinomorfoMOA
+Figura 13: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes
+orgânicos da matéria orgânica do poço PM-06.
+Tabela 5: Valores percentuais dos 3 principais grupos da matéria orgânica do poço PM-06.
+Poço PM-06
+Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%)
+PM06.08 4,3 26,01 4,73 69,26 100,00
+PM06.09 16,15 20,77 5,75 73,48 100,00
+PM06.10 16,75 54,48 29,31 16,21 100,00
+PM06.11 19,2 68,58 16,22 15,20 100,00
+PM06.12 28,36 73,78 16,78 9,44 100,00
+Média 48,72 14,56 36,72 100,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 50 -
+No poço ST-12 observou-se o domínio do grupo palinomorfos com 59.27%
+do total da matéria orgânica, e os valores de MOA e fitoclasto possuem média
+percentual semelhante, 21.20% e 19.52%, respectivamente. (figura 14 e tabela 6)
+ST-12
+Fitoclasto
+PalinomorfoMOA
+Figura 14: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes
+orgânicos da matéria orgânica do poço ST-12.
+Tabela 6: Valores percentuais dos 3 principais grupos da matéria orgânica do poço ST-12.
+Poço ST-12
+Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%)
+ST12.13 34,25 39,48 27,31 33,21 100,00
+ST12.14 47,85 78,86 11,74 9,40 100,00
+ST12.15 49,5 61,32 21,40 17,28 100,00
+ST12.16 50,9 51,99 27,08 20,94 100,00
+ST-12.17 54,3 64,73 10,08 25,19 100,00
+Média 59,27 19,52 21,20 100,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 51 -
+No poço SM-IST-4 a média percentual dos palinomorfos e MOA foi
+aproximadamente a mesma, 46,96% e 46,61% respectivamente. O grupo
+fitoclasto aparece com apenas 6,43% do total da matéria orgânica (figura 15 e
+tabela 7).
+SM-IST-4
+Fitoclasto
+MOA Palinomorfo
+Figura 15: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes
+orgânicos da matéria orgânica do poço SM-IST-4.
+Tabela 7: Valores percentuais dos 3 principais grupos da matéria orgânica do poço SM-IST-4.
+Poço SM-IST-4
+Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%)
+SM-IST4.18 20 77,85 8,05 14,09 100,00
+SM-IST4.19 21,89 59,67 7,00 33,33 100,00
+SM-IST4.20 27,49 54,10 10,16 35,74 100,00
+SM-IST4.21 28,07 15,79 3,62 80,59 100,00
+SM-IST4.22 28,89 27,39 3,30 69,31 100,00
+Média 46,96 6,43 46,61 100,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 52 -
+No poço CT-02 observou-se o domínio do grupo palinomorfos com 53,40%, o
+grupo dos fitoclastos constitui o segundo em dominância (36.96%), e a MOA
+possui valores percentuais médios de 9,64% do total da matéria orgânica (figura
+16 e tabela 8).
+CT-02
+Fitoclasto
+MOA Palinomorfo
+Figura 16: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes
+orgânicos da matéria orgânica do poço CT-02.
+Tabela 8: Valores percentuais dos 3 principais grupos da matéria orgânica do poço CT-02.
+Poço CT-02
+Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%)
+CT02.23 2,55 12,96 42,59 44,44 100,00
+CT02.24 10,25 41,53 51,12 7,35 100,00
+CT02.25 12,55 26,67 60,00 13,33 100,00
+CT02.26 17,3 38,39 54,17 7,44 100,00
+CT02.51 21,3 SEM MATERIAL
+CT02.50 25,86 82,51 14,85 2,64 100,00
+CT02.49 30,15 65,15 29,32 5,54 100,00
+CT02.48 33,85 66,48 27,70 5,82 100,00
+CT02.47 37,47 55,00 36,67 8,33 100,00
+CT02.46 42,07 80,33 18,03 1,64 100,00
+CT02.44 50,27 59,75 33,96 6,29 100,00
+CT02.45 52,07 57,33 33,67 9,00 100,00
+CT02.43 57,67 83,33 15,00 1,67 100,00
+CT02.42 59,72 31,56 54,67 13,78 100,00
+CT02.41 62,32 46,67 45,67 7,67 100,00
+Média 53,40 36,96 9,64 100,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 53 -
+No poço PM-10 ocorre o predomínio do grupo de MOA com 89,15%, os
+palinomorfos aparecem com 9,70% e os fitoclastos com 1,15 % do total da matéria
+orgânica. (figura 17 e tabela 9).
+PM-10
+Fitoclasto
+PalinomorfoMOA
+Figura 17: Diagrama ternário mostrando os valores percentuais dos três grupos de componentes
+orgânicos da matéria orgânica do poço PM-10.
+Tabela 9: Valores percentuais dos 3 principais grupos da matéria orgânica do poço PM-10.
+Poço PM-10
+Amostra Prof. (m) Palinomorfos(%) Fitoclastos(%) MOA(%) MO (%)
+PM10.27 76,1 9,51 1,97 88,52 100,00
+PM10.28 80,65 9,90 0,33 89,77 100,00
+Média 9,70 1,15 89,15 100,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 54 -
+9.2.1. TESTEMUNHO DE SONDAGEM VL-03
+No poço VL-03, o grupo dos fitoclastos é constituído principalmente por
+fitoclastos não opacos e cutículas.
+A fração de palinomorfos mostra os esporos como componentes dominantes
+(86,04 % do total de palinomorfos), o plâncton marinho, representado por
+prasinófitas e acritarcas, possuem média percentual de 1,65% e 10,73% do total
+de palinomorfos, respectivamente. (tabelas 10 e 11).
+Os spongiophytons representam 6,10% do total da matéria orgânica.
+Algas de água doce do gênero Botryococcus e zoomorfos aparecem
+somente como ocorrências localizadas.
+A figura 18 ilustra a distribuição dos valores percentuais dos grupos e
+subgrupos da matéria orgânica em relação ao total de matéria orgânica ao longo
+da seção sedimentar VL-03.
+Tabela 10: Valores percentuais dos subgrupos dos palinomorfos em relação ao total de
+palinomorfos do poço VL-03.
+Poço VL-03
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%)
+VL03.01 21,21 64,16 3,47 31,79 0,58
+VL03.02 26,00 72,33 0,63 26,42 0,63
+VL03.04 47,20 94,12 0,74 4,41 0,74
+VL03.03 51,40 94,83 1,72 3,45 0,00
+VL03.05 52,90 92,02 1,84 1,84 4,29
+VL03.06 58,30 92,93 1,01 5,05 1,01
+VL03.07 64,15 91,89 2,16 2,16 3,78
+Média 86,04 1,65 10,73 1,58
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 55 -
+Tabela 11: Valores percentuais dos subgrupos dos palinomorfos em relação de matéria orgânica
+do poço VL-03.
+Poço VL-03
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%) % Total Palinomorfos
+VL03.01 21,21 35,02 1,89 17,35 0,32 54,57
+VL03.02 26,00 37,22 0,32 13,59 0,32 51,46
+VL03.04 47,20 42,52 0,33 1,99 0,33 45,18
+VL03.03 51,40 34,59 0,63 1,26 0,00 36,48
+VL03.05 52,90 49,34 0,99 0,99 2,30 53,62
+VL03.06 58,30 30,67 0,33 1,67 0,33 33,00
+VL03.07 64,15 54,66 1,29 1,29 2,25 59,49
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+VL-03
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%)
+15 20 25 30 35105 0 0 10 20 30 40 50 60
+20
+25
+30
+35
+40
+45
+50
+55
+65
+70
+60
+0 10 20 30 40 50 60 0 10 20 30 40 50 60 0 1 2 3
+Figura 18: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao tot
+orgânica do poço VL-03.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 57 -
+9.2.2. TESTEMUNHO DE SONDAGEM PM-06
+No poço PM-06, o grupo dos fitoclastos é constituído principalmente por
+fitoclastos não opacos.
+No grupo dos palinomorfos, os esporos continuam dominando com 80,44%
+do total de palinomorfos, as prasinófitas apresentam-se com 1,41% e os acritarcas
+17,63% da média percentual do total de palinomorfos. (tabelas 12 e 13).
+Os spongiophytons representam 4,35% do total da matéria orgânica.
+Algas de água doce do gênero Botryococcus e zoomorfos aparecem
+somente como ocorrências localizadas.
+A figura 19 ilustra a distribuição dos valores percentuais dos grupos e
+subgrupos da matéria orgânica em relação ao total de matéria orgânica ao longo
+da seção sedimentar PM-06.
+Tabela 12: Valores percentuais dos subgrupos dos palinomorfos em relação ao total de
+palinomorfos do poço PM-06.
+Poço PM-06
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%)
+PM06.08 4,3 22,08 2,60 75,32 0,00
+PM06.09 16,15 92,31 0,00 7,69 0,00
+PM06.10 16,75 93,67 2,53 3,16 0,63
+PM06.11 19,2 96,06 0,99 1,97 0,99
+PM06.12 28,36 98,10 0,95 0,00 0,95
+Média 80,44 1,41 17,63 0,51
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 58 -
+Tabela 13: Valores percentuais dos subgrupos dos palinomorfos em relação ao total de matéria
+orgânica do poço PM-06.
+Poço PM-06
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%) % Total Palinomorfos
+PM06.08 4,3 5,54 0,65 18,89 0,00 25,08
+PM06.09 16,15 18,75 0,00 1,56 0,00 20,31
+PM06.10 16,75 48,37 1,31 1,63 0,33 51,63
+PM06.11 19,2 63,11 0,65 1,29 0,65 65,70
+PM06.12 28,36 67,65 0,65 0,00 0,65 68,95
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PM-06
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%)
+15 20 25 3010 5 020 30 100 40 60 70 8050 20 30 100 40 60 70 8050 20 30 10 040 60 70 8050 210 30
+5
+10
+15
+20
+25
+30
+Figura 19: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de matéria
+orgânica do poço PM-06.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 61 -
+9.2.3. TESTEMUNHO DE SONDAGEM ST-12
+No poço ST-12, os fitoclastos não opacos são os principais constituintes do
+grupo dos fitoclastos.
+Dentro da fração de palinomorfos os esporos destacam-se com 94,98% do
+total de palinomorfos, o plânctons marinho, representado por prasinófitas e
+acritarcas, possuem média percentual de 0,49% e 2,58% do total de palinomorfos,
+respectivamente. (tabelas 14 e 15).
+Os spongiophytons apresentam-se com a significativa parcela de 13,33% do
+total da matéria orgânica analisada.
+Algas de água doce do gênero Botryococcus aparecem com
+aproximadamente 1% do total de matéria orgânica os e zoomorfos aparecem
+somente como ocorrências localizadas.
+A figura 20 ilustra a distribuição dos valores percentuais dos grupos e
+subgrupos da matéria orgânica em relação ao total de matéria orgânica ao longo
+da seção sedimentar ST-12.
+Tabela 14: Valores percentuais dos subgrupos dos palinomorfos em relação ao total de
+palinomorfos do poço ST-12.
+Poço ST-12
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%)
+ST12.13 34,25 95,33 0,00 2,80 1,87
+ST12.14 47,85 97,87 0,00 0,85 1,28
+ST12.15 49,5 99,33 0,67 0,00 0,00
+ST12.16 50,9 93,75 0,00 2,08 4,17
+ST12.17 54,3 88,62 1,80 7,19 2,40
+Média 94,98 0,49 2,58 1,94
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 62 -
+Tabela 15: Valores percentuais dos subgrupos dos palinomorfos em relação de matéria orgânica
+do poço ST-12.
+Poço ST-12
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%) % Total Palinomorfos
+ST12.13 34,25 33,89 0,00 1,00 0,66 35,55
+ST12.14 47,85 69,07 0,00 0,60 0,90 70,57
+ST12.15 49,5 49,01 0,33 0,00 0,00 49,34
+ST12.16 50,9 42,86 0,00 0,95 1,90 45,71
+ST12.17 54,3 49,01 0,99 3,97 1,32 55,30
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+40
+50
+ST-12
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%)
+2030 10 0 30 40 50 600 10 20 70 20 30100 30 40 50 600 10 20 70 1 20
+35
+40
+45
+50
+55
+60
+30
+Figura 20: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de matéria
+orgânica do poço ST-12.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 65 -
+9.2.4. TESTEMUNHO DE SONDAGEM SM-IST-4
+No poço SM-IST-4, o grupo dos fitoclastos é constituído principalmente por
+fitoclastos não opacos e cutículas.
+Na fração de palinomorfos os esporos continuam dominando com 76,01 %
+do total de palinomorfos, as algas prasinófitas e acritarcas, possuem média
+percentual de 15,53% e 5,95% do total de palinomorfos, respectivamente. (tabelas
+16 e 17).
+Os spongiophytons representam apenas 2,95% do total da matéria orgânica.
+Algas de água doce do gênero Botryococcus e zoomorfos aparecem
+somente como ocorrências localizadas.
+A figura 21 ilustra a distribuição dos valores percentuais dos grupos e
+subgrupos da matéria orgânica em relação ao total de matéria orgânica ao longo
+da seção sedimentar SM-IST-4.
+Tabela 16: Valores percentuais dos subgrupos dos palinomorfos em relação ao total de
+palinomorfos do poço SM-IST-4.
+Poço SM-IST-4
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%)
+SM1st.18 20,00 88,36 6,03 3,88 1,72
+SM1st.19 21,89 86,59 6,70 2,79 3,91
+SM1st.20 27,49 45,45 47,27 6,06 1,21
+SM1st.21 28,07 72,92 10,42 14,58 2,08
+SM1st.22 28,89 86,75 7,23 2,41 3,61
+Média 76,01 15,53 5,95 2,51
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 66 -
+Tabela 17: Valores percentuais dos subgrupos dos palinomorfos em relação de matéria orgânica
+do poço SM-IST-4.
+Poço SM-IST-4
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%) % Total Palinomorfos
+SM-IST.18 20,00 65,92 4,50 2,89 1,29 74,60
+SM-IST.19 21,89 50,16 3,88 1,62 2,27 57,93
+SM-IST.20 27,49 23,81 24,76 3,17 0,63 52,38
+SM-IST.21 28,07 11,11 1,59 2,22 0,32 15,24
+SM-IST.22 28,89 23,53 1,96 0,65 0,98 27,12
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+SM-IST-4
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%)
+20 30 100 0 5 10 1540 50 60 80 7020 30 100 40 50 60 80 70 20 30 100 40 50 60 80 7020 30 100 40 50 60 80 70 2 6 84 10 20 30 100 40 50 60 80 7020 30 100 40 50 60 80 70 020
+25
+30
+Figura 21: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de matéria
+orgânica do poço SM-IST-4.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 69 -
+9.2.5. TESTEMUNHO DE SONDAGEM CT-02
+No poço CT-02, não foi feita a divisão dos subgrupos dos componentes da
+matéria orgânica. Ficando os componentes orgânicos divididos somente nos três
+principais grupos da matéria orgânica (fitoclastos, palinomorfos e MOA). Esta
+subdivisão não foi feita pela dificuldade de se reconhecer os diversos subgrupos,
+pois o a matéria orgânica encontra-se em um estágio evoluído de maturação
+térmica.
+A figura 22 ilustra a distribuição dos valores percentuais dos grupos e
+subgrupos da matéria orgânica em relação ao total de matéria orgânica ao longo
+da seção sedimentar CT-02.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+20
+30
+40
+50
+CT-02
+MOA(%) Palinomorfo(%) Fitoclasto(%)
+0 10 20 30 40 50 0 10 20 30 4010 20 30 40 500 70 90 800
+10
+20
+30
+40
+50
+60
+Figura 22: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de matéria
+orgânica do poço CT-02.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 71 -
+9.2.6. TESTEMUNHO DE SONDAGEM PM-10
+No poço PM-10, o grupo dos fitoclastos é constituído principalmente por
+cutículas.
+A fração de palinomorfos mostra os esporos como componentes dominantes
+(52,70 % do total de palinomorfos), o plâncton marinho, representado por
+prasinófitas e acritarcas, apresentam praticamente a mesma média percentual,
+23,79% e 23,51% do total de palinomorfos, respectivamente. (tabelas 18 e 19).
+Os spongiophytons representam somente 1,46% do total da matéria
+orgânica.
+Não observou-se ocorrências de algas do gênero Botryococcus e zoomorfos.
+A figura 23 ilustra a distribuição dos valores percentuais dos grupos e
+subgrupos da matéria orgânica em relação ao total de matéria orgânica ao longo
+da seção sedimentar PM-10.
+Tabela 18: Valores percentuais dos subgrupos dos palinomorfos em relação ao total de
+palinomorfos do poço PM-10.
+Poço PM-10
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%)
+PM10.27 76,1 62,07 27,59 10,34 0,00
+PM10.28 80,65 43,33 20,00 36,67 0,00
+Média 52,70 23,79 23,51 0,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 72 -
+Tabela 19: Valores percentuais dos subgrupos dos palinomorfos em relação de matéria orgânica
+do poço PM-10.
+Poço PM-10
+Amostra Prof. (m) Esporo (%) Prasinófitas (%) Acritarcas (%) Outros (%) % Total Palinomorfos
+PM10.27 76,1 5,84 2,60 0,97 0,00 9,42
+PM10.28 80,65 4,21 1,94 3,56 0,00 9,71
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PM-10
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%)
+20 3010 0 40 50 60 80 70 90 20 3010 0 40 50 60 80 70 90 20 3010 0 40 50 60 80 70 90 20 3010 0 40 5020 3010 0 40 50 60 80 70 90
+75
+80
+85
+Figura 23: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de matéria
+orgânica do poço PM-10.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 75 -
+9.3. Maturidade térmica
+O grau de evolução térmica das amostras foi obtido pelo Índice de Coloração de
+Esporos (ICE).
+O ICE foi aplicado em esporos. Para cada amostra procurou-se determinar a cor
+de maior número de indivíduos possível, estabelecendo de um modo geral, como índice
+da amostra, a cor predominante. Foi utilizado o padrão de ICE da Robertson Research
+International Group.
+Para o período Devoniano, são consideradas de acordo com Barnard et al. 1981
+(figura 24) imaturas as amostras que apresentam ICE de 1 a 4 , as amostras que
+apresentam ICE de 4 a 8 são consideradas maturas, e as que variam de 8 a 10 são
+caracterizadas como supermaturas. (tabela 20)
+Tabela 20: Representa os intervalos de ICE e suas respectivas zonas de maturidade para o período
+Devoniano.
+ICE IMATURA MATURA SUPERMATURA
+1 a 4
+4 a 8
+8 a 10
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 76 -
+Figura 24: Relação entre o tempo (milhões de anos), Temperatura (°C) e Maturação (ICE e %Ro)
+(Barnard et al. 1981).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 77 -
+No poço VL-03 os resultados de ICE mostram uma coloração amarela, índice
+3 a 4,5, a qual está expressa na tabela 21 e no gráfico mostrando a variação do
+ICE com a profundidade (Figura 25). O poço VL-03 esta inserido no contexto de
+zona imatura.
+Tabela 21: Resultado do Índice de Coloração de Esporos para o poço VL-03
+VL-03 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+21,21
+26,00
+47,20
+51,40
+52,90
+58,30
+64,15
+25
+30
+35
+40
+45
+50
+55
+65
+70
+60
+1 3 5 62 4 8 7 10 9
+Figura 25: Gráfico mostrando a variação do ICE do poço VL-03 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 78 -
+Para as amostras coletadas no testemunho de sondagem PM-06, os valores
+do Índice de Coloração de Esporos variam 3,5 a 4,5, expressos na tabela 22 e no
+gráfico que mostra a variação de ICE com a profundidade (Figura 26), os esporos
+apresentam coloração amarelada. O poço PM-06 representa também uma zona
+imatura.
+Tabela 22: Resultado do Índice de Coloração de Esporos para o poço PM-06.
+PM-06 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+4,30
+16,15
+16,75
+19,20
+28,36
+0
+5
+10
+15
+20
+25
+30
+1 3 5 62 4 8 7 10 9
+Figura 26: Gráfico mostrando a variação do ICE do poço PM-06 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 79 -
+O poço ST-12 apresenta, de um modo geral, uma variação de ICE entre 3,5
+e 4,5, porém a amostra referente ao topo do poço, apresenta um ICE bem variado
+(4 a 8). O poço ST-12 foi interpretado como tendo influência de intrusivas ígneas,
+tal fato foi verificado não somente pelos exemplares de esporos com altos índices,
+mas também pela anomalia do gráfico que mostra os valores mais altos de ICE no
+topo do perfil estratigráfico. A tabela 23 e no gráfico que mostra a variação de ICE
+com a profundidade (Figura 27) expressam essa variação. A coloração
+predominante é amarelada, e a zona correspondente é a imatura.
+Tabela 23: Resultado do Índice de Coloração de Esporos para o poço ST-12.
+ST-12 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+34,25
+47,85
+49,50
+50,90
+54,30
+40
+50
+30
+35
+40
+45
+50
+55
+60
+1 3 5 62 4 8 7 10 9
+Figura 27: Gráfico mostrando a variação do ICE do poço ST-12 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 80 -
+Para o poço SM-IST-4, os valores do Índice de Coloração de Esporos variam
+3 a 4, expressos na tabela 24 e no gráfico que mostra a variação de ICE com a
+profundidade (Figura 28), os esporos apresentam coloração amarelo claro. O poço
+SM-IST-4 representa uma zona imatura.
+Tabela 24: Resultado do Índice de Coloração de Esporos para o poço SM-IST-4.
+SM-IST-4 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+20,00
+21,89
+27,49
+28,07
+28,89
+20
+25
+30
+1 3 5 62 4 8 7 10 9
+Figura 28: Gráfico mostrando a variação do ICE do poço ST-12 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 81 -
+Para o poço CT-01 as amostras coletadas apresentam valores do Índice de
+Coloração de Esporos igual a 10, as partículas possuem coloração preta, o que
+demonstra o estágio mais evoluído de maturidade térmica (zona supermatura)
+dessas amostras. O poço CT-01 recebe forte influencia de intrusivas ígneas no
+local.
+Os valores de ICE estão expressos na tabela 25 e no gráfico que mostra a
+variação de ICE com a profundidade (Figura 29).
+Tabela 25: Resultado do Índice de Coloração de Esporos para o poço CT-01.
+CT-01 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+3,3
+5,55
+21,9
+27,3
+28,9
+0
+10
+20
+30
+1 3 5 62 4 8 7 10 9
+Figura 29: Gráfico mostrando a variação do ICE do poço CT-01 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 82 -
+As amostras coletadas no poço CT-02 apresentam valores do Índice de
+Coloração de Esporos que varia de 7,5 a 9, expressos na tabela 26 e no gráfico
+que mostra a variação de ICE com a profundidade (Figura 30), os esporos
+apresentam coloração desde o castanho escuro até o marrom escuro. O poço CT-
+02 também se encontra numa zona supermatura. O poço CT-02 também recebe
+influência de intrusivas ígneas, fato constatado não só pelos exemplares de
+esporos com altos índices, mas também pela anomalia do gráfico que mostra os
+valores mais altos de ICE no topo do perfil estratigráfico.
+Tabela 26: Resultado do Índice de Coloração de Esporos para o poço CT-02.
+CT-02 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+2,55
+10,25
+12,55
+17,3
+25,86
+30,15
+33,85
+37,47
+42,07
+50,27
+52,07
+57,67
+59,72
+62,32
+20
+30
+40
+50
+0
+10
+20
+30
+40
+50
+60
+1 3 5 62 4 8 7 10 9
+Figura 30: Gráfico mostrando a variação do ICE do poço CT-02 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 83 -
+No poço PM-10 os resultados de ICE apresentaram uma coloração amarelo
+claro, índice 3 a 3,5, a qual está expressa na tabela 27 e no gráfico mostrando a
+variação do ICE com a profundidade (Figura 31). O poço PM-10 se encontra numa
+zona de baixo estágio de evolução térmica ( zona imatura).
+Tabela 27: Resultado do Índice de Coloração de Esporos para o poço PM-10.
+PM-10 Profundidade X ICE
+Profundidade 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0 5,5 6,0 6,5 7,0 7,5 8,0 8,5 9,0 9,5 10,0
+76,10
+80,65
+75
+80
+85
+1 3 5 62 4 8 7 10 9
+Figura 31: Gráfico mostrando a variação do ICE do poço PM-10 com a profundidade.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 84 -
+De um modo geral os resultados indicam um baixo estágio de evolução
+térmica (maturação) da matéria orgânica presente nas amostras das seções
+analisadas, o que demonstra um baixo grau de diagênese pelo processo natural
+de aumento de temperatura conseqüente do aumento da profundidade de
+soterramento. No entanto, nas amostras que apresentam um elevado estagio de
+evolução térmica, o efeito térmico foi proporcionado pela proximidade de intrusivas
+ígneas.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 85 -
+9.4.Descrição dos componentes orgânicos
+As cutículas ocorrem em grande quantidade e geralmente bem degradadas
+com colorações de fluorescência variando do amarelo bem claro ao laranja escuro
+a sem fluorescência, mas no geral ocorrem com colorações de fluorescência
+moderada a forte (fotos 1.1, 1.2, 2.1 e 2.2, estampa, anexo). Os demais subgrupos
+dos fitoclastos ocorrem em fragmentos alongados ou irregulares. Por vezes,
+alguns fitoclastos não-opacos exibiram coloração de fluorescência bem fraca
+(fotos 3.1, 3.2, 4.1 e 4.2, estampa, anexo).
+A matéria orgânica amorfa ocorre em forma de grumos, com colorações
+variando do amarelo claro ao castanho escuro e por vezes dispersa. Apresentou
+colorações de fluorescência variando do amarelo claro ao laranja (fotos 5.1, 5.2,
+6.1 e 6.2, estampa, anexo).
+Os esporos ocorrem bem preservados com colorações de fluorescência do
+amarelo-esverdeado ao laranja claro, mas por vezes estavam degradados com
+coloração de fluorescência fraca (fotos 7.1, 7.2, 8.1 e 8.2, estampa, anexo).
+Os spongiophytons ocorrem de tamanhos variados, porém
+predominantemente em partículas grandes, apresentam um relevo alto, coloração
+castanha escura em luz branca refletida e possui uma fluorescência amarela bem
+alta (fotos 9.1, 9.2, 10.1 e 10.2, estampa, anexo).
+Algas do grupo das prasinófitas ocorrem no geral bem preservadas com
+coloração de fluorescência forte (fotos 11.1, 11.2, 12.1e 12.2, estampa, anexo).
+Algas do grupo dos acritarcas ocorrem em geral dispersas e apresentam
+fluorescência de coloração amarelada (fotos 13.1, 13.2, 14.1 e 14.2, estampa,
+anexo).
+Algas do gênero Botryococcus ocorrem exibindo colônias e estruturas
+internas visíveis e identificáveis com coloração de fluorescência amarelo intenso
+(fotos 15.1, 15.2, 16.1 e 16.2, estampa, anexo ).
+No grupo dos zoomorfos ocorrem os quitinozoários e escolecodonte.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 86 -
+Nos poços CT-01 e CT-02, o material orgânico apresenta-se escuro devido
+ao elevado grau de maturação térmica (fotos 17, 18, 19 e 20, estampa, anexo).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 87 -
+9.5.Análise de agrupamento modo –R
+Foi feita a análise de agrupamento modo–R para os grupos e subgrupos de
+componentes da matéria orgânica, ou seja, os componentes orgânicos foram
+reunidos em grupos com maiores similaridades.
+Para o poço VL-03 observou-se a separação em quatro subgrupos (1-
+esporos; 2-Spongiophyton, fitoclasto; 3- Prasinófita; 4 - Acritarca, MOA). (tabela 28
+e figuras 32).
+Tabela 28: Resultados dos subgrupos obtidos pela análise de agrupamento modo-R para a
+sondagem VL-03.
+Poço VL-03
+Subgrupos Componentes orgânicos
+1 Esporo
+2 Spongiophyton, fitoclasto
+3 Prasinófita
+4 Acritarca, MOA
+Poço VL-03
+Ward`s method
+1-Pearson r
+esporo spon fito prasi acri moa
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Linkage Distance
+Figura 32: Dendrograma produzido pela análise de agrupamento modo-R para os grupos e
+subgrupos de componentes da matéria orgânica do poço VL-03.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 88 -
+Para o poço PM-06 observou-se a separação em três subgrupos (1- esporos,
+spongiophyton; 2- Fitoclasto, prasinófita; 3- Acritarca, MOA). (tabela 29 e figuras
+33).
+Tabela 29: Resultados dos subgrupos obtidos pela análise de agrupamento modo-R para a
+sondagem PM-06.
+Poço PM-06
+Subgrupos Componentes orgânicos
+1 Esporo, spongiophyton
+2 Fitoclasto, prasinófita
+3 Acritarca, MOA
+POÇO PM 06
+Ward`s method
+1-Pearson r
+esporo spon prasi fito acri moa
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+Linkage Distance
+Figura 33: Dendrograma produzido pela análise de agrupamento modo-R para os grupos e
+subgrupos de componentes da matéria orgânica do poço PM-06.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 89 -
+Para o poço ST-12 observou-se a separação em quatro subgrupos (1-
+esporos; 2- Acritarca, Prasinófita; 3- Spongiophyton; 4 - Fitoclasto, MOA). (tabela
+30 e figuras 34).
+Tabela 30: Resultados dos subgrupos obtidos pela análise de agrupamento modo-R para a
+sondagem ST-12.
+Poço ST-12
+Subgrupos Componentes orgânicos
+1 Esporo
+2 Acritarca, prasinófita
+3 Spongiophyton
+4 Fitoclasto, MOA
+POÇO ST.12
+Ward`s method
+1-Pearson r
+esporo acri prasi spon fito moa
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Linkage Distance
+Figura 34: Dendrograma produzido pela análise de agrupamento modo-R para os grupos e
+subgrupos de componentes da matéria orgânica do poço ST-12.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 90 -
+Para o poço SM-IST-4 observou-se a separação em quatro subgrupos (1-
+esporos; 2- Acritarca, Spongiophyton; 3- Fitoclasto, prasinófita; 4 - MOA). (tabela
+31 e figuras 35).
+Tabela 31: Resultados dos subgrupos obtidos pela análise de agrupamento modo-R para a
+sondagem SM-IST-4.
+Poço SM-IST-4
+Subgrupos Componentes orgânicos
+1 Esporo
+2 Acritarca, spongiophyton
+3 Fitoclasto, prasinófita
+4 MOA
+POÇO SMI_ST
+Ward`s method
+1-Pearson r
+esporo acri spon prasi fito moa
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Linkage Distance
+Figura 35: Dendrograma produzido pela análise de agrupamento modo-R para os grupos e
+subgrupos de componentes da matéria orgânica do poço SM-IST-4.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 91 -
+9.6.Matriz de correlação utilizando o coeficiente r-Pearson
+Através da matriz de correlação (tabelas 32, 33, 34 e 35) utilizando o
+coeficiente r-Pearson (1/-1), onde os valores mais próximos de +1 correspondem a
+correlações mais positivas e valores próximos de –1 a correlações menos
+positivas, pode-se observar que os componentes orgânicos com mesmas
+tendências de distribuição (tendências proximal-distal e equivalência
+hidrodinâmica) apresentaram de maneira coerente correlações positivas, ou seja,
+próximo de 1 ou vice-versa.
+Tabela 32: Correlação de matrizes (coeficiente r-Pearson) para a sondagem VL-03.
+Poço VL-03
+Variável MOA Fitoclasto Spongiophyton Esporo Prasinófita Acritarca
+MOA 1,00 -0,74 -0,16 -0,35 0,63 0,86
+Fitoclasto -0,74 1,00 -0,03 -0,24 -0,72 -0,79
+Spongiophyton -0,16 -0,03 1,00 -0,29 -0,32 0,29
+Esporo -0,35 -0,24 -0,29 1,00 0,28 -0,37
+Prasinófita 0,63 -0,72 -0,32 0,28 1,00 0,42
+Acritarca 0,86 -0,79 0,29 -0,37 0,42 1,00
+Tabela 33: Correlação de matrizes (coeficiente r-Pearson) para a sondagem PM-06.
+Poço PM-06
+Variável MOA Fitoclasto Spongiophyton Esporo Prasinófita Acritarca
+MOA 1,00 -0,82 -0,86 -0,95 -0,64 0,59
+Fitoclasto -0,82 1,00 0,66 0,68 0,83 -0,54
+Spongiophyton -0,86 0,66 1,00 0,76 0,65 -0,32
+Esporo -0,95 0,68 0,76 1,00 0,38 -0,75
+Prasinófita -0,64 0,83 0,65 0,38 1,00 0,00
+Acritarca 0,59 -0,54 -0,32 -0,75 0,00 1,00
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 92 -
+Tabela 34: Correlação de matrizes (coeficiente r-Pearson) para a sondagem ST-12.
+Poço ST-12
+Variável MOA Fitoclasto Spongiophyton Esporo Prasinófita Acritarca
+MOA 1,00 0,52 -0,27 -0,89 0,11 0,35
+Fitoclasto 0,52 1,00 -0,22 -0,75 -0,64 -0,50
+Spongiophyton -0,27 -0,22 1,00 0,01 0,49 -0,05
+Esporo -0,89 -0,75 0,01 1,00 0,01 -0,09
+Prasinófita 0,11 -0,64 0,49 0,01 1,00 0,83
+Acritarca 0,35 -0,50 -0,05 -0,09 0,83 1,00
+Tabela 35: Correlação de matrizes (coeficiente r-Pearson) para a sondagem SM-IST-4.
+Poço SM-IST-4
+Variável MOA Fitoclasto Spongiophyton Esporo Prasinófita Acritarca
+MOA 1,00 -0,83 -0,54 -0,87 -0,34 -0,55
+Fitoclasto -0,83 1,00 0,52 0,45 0,80 0,76
+Spongiophyton -0,54 0,52 1,00 0,41 0,17 0,85
+Esporo -0,87 0,45 0,41 1,00 -0,15 0,21
+Prasinófita -0,34 0,80 0,17 -0,15 1,00 0,63
+Acritarca -0,55 0,76 0,85 0,21 0,63 1,00
+Notou-se que nas quatro sucessões sedimentares analisadas, os
+coeficientes de correlação mostraram o grau de similaridades entre os
+componentes orgânicos. Isto é, no geral, os componentes orgânicos com
+tendências de distribuição em fácies mais proximais apresentaram correlações
+positivas entre si.
+Quando os coeficientes r-Pearson destes componentes orgânicos são
+analisados com os coeficientes dos demais componentes orgânicos com
+distribuição preferencialmente em fácies mais distais, o grau de correlação entre
+eles torna-se negativo
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 93 -
+9.7.Inferências paleoambientais
+As inferências paleoambientais foram baseadas na integração dos dados de
+palinofácies que forneceram uma estimativa das tendências paleoambientais e
+tendências proximais-distais.
+Foram utilizados o diagrama ternário que representa os dados percentuais
+dos 3 principais grupos de componentes da matéria orgânica de Tyson (1993),
+onde há 9 campos de palinofácies com seus respectivos paleoambientes (figura
+36 e tabela 36) e o esquema de representação diagramática de palinomorfos
+modificado de Turnau e Racki (1999) (figura 37 e tabela 37).
+Figura 36: Diagrama ternário com os campos de palinofácies definido pelos valores percentuais
+dos três principais grupos de componentes da matéria orgânica (Tyson, 1993).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 94 -
+Tabela 36: Paleoambientes definidos pelos campos de palinofácies para sedimentos marinhos
+(Tyson, 1993) relacionado no diagrama da figura 35.
+Campos de palinofácies distiguidos pelo
+diagrama ternário FIT-MOA-PALIN Características da matéria orgânica
+I – bacia ou plataforma altamente proximal Alto suprimento de fitoclasto dilui todos os outros
+componentes.
+II – bacia marginal desóxica-anóxica
+MOA diluída pelo alto suprimento de fitoclastos, mas
+com moderada a boa preservação de MOA.
+Quantidade de COT marinho depende do estado redox
+da bacia.
+III – Plataforma óxica heterolítica (“plataforma
+proximal”)
+Geralmente baixa taxa de preservação de MOA,
+abundância absoluta de fitoclastos depende da
+proximidade de fontes flúvio-deltaicas. Oxidação e
+retrabalhamento comuns.
+IV- Transição plataforma-bacia
+Transição da plataforma para a bacia (por exemplo:
+aumento da subsidência/profundidade da lâmina
+d’água) ou espaço (por exemplo: talude);Abundância
+absoluta de fitoclastos depende da proximidade da
+fonte e do grau de deposição. Quantidade de COT
+marinho depende do estado redox da bacia. IVa:
+desóxico. IVb: subóxico-anóxico.
+V - Plataforma óxica dominada por lama
+(“plataforma distal”)
+Baixa a moderada MOA (normalmente degradada).
+Palinomorfos abundantes. Margas de coloração clara
+bioturbadas são comuns.
+VI – Plataforma proximal subóxica-anóxica
+Boa taxa de preservação de MOA (condições
+redutoras na bacia). Conteúdo absoluto de fitoclastos
+deve se moderado a alto devido ao input de turbiditos
+e/ou proximidade da fonte.
+VII – “Plataforma” distal desóxica-anóxica
+Moderada a boa taxa de preservação de MOA, baixo a
+moderado conteúdo de palinomorfos. Lamitos escuros
+bioturbados são comuns.
+VIII – Plataforma distas desóxica-óxica
+MOA dominante, excelente taxa de preservação de
+MOA. Baixo a moderado conteúdo de palinomorfos.
+Folhelhos ricos em matéria orgânica são depositados
+sob de condições de coluna d´água estratificada.
+IX- Bacia distal subóxica-anóxica
+MOA dominante. Baixo conteúdo de palinomorfos.
+Freqüentemente rico em alginitas. Depósitos de águas
+profundas ou depósitos de condições de coluna d´água
+estratificada ou sedimentos de bacia faminta.
+Conceitos:
+Anóxico – Refere-se a coluna de água ou sedimentos que contem menos que 0.1 ml
+de oxigênio / 1 de água (Demaison e Moore, 1980)
+Disóxico – Coluna de água ou sedimento contendo entre 0.2 e 2.0 ml de oxigênio / 1
+de água (Tyson e Pearson, 1991).
+Óxico – Coluna de água oxigenada ou sedimentos contendo mais de 2.0 ml oxigênio /
+1 de água (Tyson e Pearson, 1991)
+Subóxico - Coluna de água ou sedimento contendo de 0 a 0.2 ml oxigênio / 1 de
+água. (Tyson e Pearson, 1991)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 95 -
+Até 10%
+10 - 20%
+70 - 99%
+20 - 60%
+Figura 37: Representação diagramática de palinomorfos modificado de Turnau e Racki
+(1999).
+Tabela 37: Palinofácies definidas pelo diagrama de palinomorfos modificado de Turnau e
+Racki (1999).
+Características de distribuição dos palinomorfos
+Palinofácies I
+Caracterizada pela dominância de esporos e pela baixa percentagem
+de acritarcas e prasinófitas.
+Paleoambiente proximal (plataforma).
+Palinofácies II
+Os esporos aparecem com mais de 20%, acritarcas e prasinófitas
+representam mais de 10% dos palinomorfos.
+Paleoambiente intermediário (plataforma).
+Palinofácies III
+Baixa porcentagem de esporos (<20%), e alta porcentagem de
+acritarcas e prasinófitas.
+Paleoambiente distal (plataforma-bacia).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 96 -
+No testemunho de sondagem VL-03 as amostras concentram-se nos campos
+III e V. O campo III corresponde ao paleoambiente de plataforma óxica (plataforma
+proximal). O campo V é caracterizado por um paleoambiente de plataforma óxica
+dominada por lama (plataforma distal). (figura 38).
+O topo da seção corresponde a palinofácies II (paleoambiente intermediário)
+e a base a palinofácies I (paleoambiente proximal) do diagrama de palinomorfos
+modificado de Turnau e Racki (1999).
+Devido o percentual de esporomorfos no poço VL-03 contribuir com a maior
+parte do elevado percentual de palinomorfos (tabela 10) e o diagrama ternário de
+Tyson (1993) não contemplar essa particularidade, embora todos os resultados
+estejam sendo plotados nesse diagrama, é a representação diagramática de
+palinomorfos modificado de Turnau e Racki (1999) que melhor representará a
+caracterização paleoambiental.
+Fitoclasto
+PalinomorfoMOA
+I
+II
+III
+IV b
+V
+VI
+VII
+VIII
+IX
+Figura 38: Diagrama ternário FITO-MOA-PALINO com os campos de palinofácies (Tyson, 1993) do
+poço VL-03.
+A seção estratigráfica foi dividida em cinco intervalos, os quais foram
+definidos pela análise da disposição das amostras do poço VL-03 no diagrama
+ternário com os campos de palinofácies. (figura 39)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+VL-03
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%) Acritarca(%)
+15 20 25 30 35105 0 0 10 20 30 40 50 60
+20
+25
+30
+35
+40
+45
+50
+55
+65
+70
+60
+0 10 20 30 40 50 60 0 10 20 30 40 50 60 0 1 2 3 5 4 0 5 10 15
+Figura 39: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de
+matéria orgânica com as subdivisões dos intervalos definidos pelo diagrama ternário com os campos de palinofácies do poço VL
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 98 -
+Intervalo 1 - Amostras: VL-03.1, VL-03.2, VL-03.4
+Neste intervalo as amostras concentram-se no campo V do diagrama ternário
+com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma óxica dominada por lama (plataforma distal) e é evidenciado pela
+elevada média percentual de palinomorfos (54,25%), a média percentual de MOA
+e fitoclastos é de 20,40% e 25,35%, respectivamente. (tabela 38). Esta média
+percentual alta de palinomorfos é devido aos elevados valores percentuais de
+esporos.
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostras VL-03.1, VL-03.2 correspondem a palinofácies II (paleoambiente
+intermediário) e a amostra de VL-03.4 corresponde a palinofácies I (paleoambiente
+proximal).
+Tabela 38: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo I do poço VL-03.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo I 54,25 25,35 20,40
+Intervalo 2 - Amostra: VL-03.3
+A amostra que corresponde a este intervalo localiza-se no campo III do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de plataforma óxica (plataforma proximal) e é evidenciado pela
+elevada média percentual de fitoclastos (53,10%), a média de palinomorfos
+também é alta (40,00%) e a de MOA é de 6,90%. (tabela 39).
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostra VL-03.3 corresponde a palinofácies I (paleoambiente proximal).
+Tabela 39: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo II do poço VL-03.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Mediado
+intervalo II 40,00 53,10 6,90
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 99 -
+Intervalo 3 - Amostra: VL-03.5
+A amostra correspondente a este intervalo localiza-se no campo V do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de plataforma óxica dominada por lama (plataforma distal) e é
+evidenciado pela elevada média percentual de palinomorfos (58,01%), média
+percentual de fitoclastos e MOA é de 32,38% e 9,61%, respectivamente. (tabela
+40). Esta média percentual alta de palinomorfos é devido aos elevados valores
+percentuais de esporos.
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostra VL-03.5 corresponde a palinofácies I (paleoambiente proximal).
+Tabela 40: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo III do poço VL-03.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo III 58,01 32,38 9,61
+Intervalo 4 – Amostras: VL-03.6
+A amostra que corresponde a este intervalo localiza-se no campo III do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de plataforma óxica (plataforma proximal) e é caracterizado pela
+elevada média percentual de fitoclastos (51,03%), a média percentual de
+palinomorfos e MOA é de 34,14% e 14,83%, respectivamente. (tabela 41).
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostra VL-03.6 corresponde a palinofácies I (paleoambiente proximal).
+Tabela 41: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo IV do poço VL-03.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo IV 34,14 51,03 14,83
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 100 -
+Intervalo 5 - Amostras: VL-03.7
+A amostra correspondente a este intervalo localiza-se no campo V do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de plataforma óxica dominada por lama (plataforma distal) e é
+evidenciado pela elevada média percentual de palinomorfos (60,66%), a média
+percentual de fitoclastos e MOA é de 27,87% e 11,48%, respectivamente. (tabela
+42). Os elevados valores percentuais de esporos são os responsáveis pela alta
+média percentual de palinomorfos .
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostra VL-03.7 corresponde a palinofácies I (paleoambiente proximal).
+Tabela 42: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo V do poço VL-03.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo V 60,66 27,87 11,48
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 101 -
+No testemunho de sondagem PM-06 as amostras concentram-se nos
+campos V e VIII. O campo V corresponde ao paleoambiente de plataforma óxica
+dominada por lama (plataforma distal). O campo VIII é caracterizado por um
+paleoambiente de plataforma distal desóxica-óxica. (figura 40).
+O topo da seção corresponde a palinofácies II (paleoambiente intermediário)
+e a base a palinofácies I (paleoambiente proximal) do diagrama de palinomorfos
+modificado de Turnau e Racki (1999).
+Devido o percentual de esporomorfos no poço PM-06 contribuir com a maior
+parte do elevado percentual de palinomorfos (tabela 12) e o diagrama ternário de
+Tyson (1993) não contemplar essa particularidade, embora todos os resultados
+estejam sendo plotados nesse diagrama, é a representação diagramática de
+palinomorfos modificado de Turnau e Racki (1999) que melhor representará a
+caracterização paleoambiental.
+Fitoclasto
+PalinomorfoMOA
+I
+II
+III
+IV b
+V
+VI
+VII
+VIII
+IX
+Figura 40: Diagrama ternário FITO-MOA-PALINO com os campos de palinofácies (Tyson, 1993) do
+poço PM-06.
+A seção estratigráfica foi dividida em dois intervalos, os quais foram definidos
+pela análise da disposição das amostras do poço PM-06 no diagrama ternário
+com os campos de palinofácies. (figura 41)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PM-06
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%) Acritarca(%)
+15 20 25 30105 020 30 100 40 60 70 8050 20 30 100 40 60 70 8050 20 30 10 040 60 70 8050 100 155210 4 3 5 6
+0
+5
+10
+15
+20
+25
+30
+Figura 41 : Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de
+matéria orgânica com as subdivisões dos intervalos definidos pelo diagrama ternário com os campos de palinofácies do poço PM
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 104 -
+Intervalo 1 – Amostras: PM-06.8 e PM-06.9
+Neste intervalo as amostras concentram-se no campo VIII do diagrama
+ternário com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma distal desóxica-óxica e é evidenciado pela elevada média percentual de
+MOA (71,37%), a média percentual de palinomorfos e fitoclastos é de 23,39% e
+5,24%, respectivamente. (tabela 43).
+De acordo com a representação diagramática modificada de Turnau e Racki
+a amostra PM-06.8 corresponde a palinofácies II (paleoambiente intermediário) e a
+amostra de PM-06.9 corresponde a palinofácies I (paleoambiente proximal).
+Tabela 43: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo I do poço PM-06.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo I 23,39 5,24 71,37
+Intervalo 2 - Amostras: PM-06.10, PM-06.11, PM-06.12
+Neste intervalo as amostras concentram-se no campo V do diagrama ternário
+com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma óxica dominada por lama (plataforma distal). Este intervalo é
+evidenciado pela elevada média percentual de palinomorfos (65,61%), a média
+percentual de MOA é de 13,62% e a de fitoclastos é de 20,77%. (tabela 44). Esta
+média percentual alta de palinomorfos é devido aos elevados valores percentuais
+de esporos.
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostras PM-06.10, PM-06.11, PM-06.12 correspondem a palinofácies I
+(paleoambiente proximal).
+Tabela 44: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo II do poço PM-06.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Média do
+intervalo II 65,61 20,77 13,62
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 105 -
+No testemunho de sondagem ST-12 as amostras concentram-se no campo
+V. O campo V corresponde ao paleoambiente de plataforma óxica dominada por
+lama (plataforma distal). Há também influência do campo VII no poço ST-12, o
+campo VII é caracterizado por um paleoambiente de plataforma distal desóxicaanóxica. (figura 42).
+A seção corresponde a palinofácies I (paleoambiente proximal) do diagrama
+de palinomorfos modificado de Turnau e Racki (1999).
+Devido o percentual de esporomorfos no poço ST-12 contribuir com a maior
+parte do elevado percentual de palinomorfos (tabela 14) e o diagrama ternário de
+Tyson (1993) não contemplar essa particularidade, embora todos os resultados
+estejam sendo plotados nesse diagrama, é a representação diagramática de
+palinomorfos modificado de Turnau e Racki (1999) que melhor representará a
+caracterização paleoambiental.
+Fitoclasto
+PalinomorfoMOA
+I
+II
+III
+IV b
+V
+VI
+VII
+VIII
+IX
+Figura 42: Diagrama ternário FITO-MOA-PALINO com os campos de palinofácies (Tyson, 1993) do
+poço ST-12.
+A seção estratigráfica foi dividida em dois intervalos, os quais foram definidos
+pela análise da disposição das amostras do poço ST-12 no diagrama ternário com
+os campos de palinofácies (figura 43).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+ST-12
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%) Acritarca(%)
+20100 30 40 50 600 10 20 70 20 30100 30 40 50 600 10 20 70 1 2 3 540 1 2 3 4030
+40
+50
+30
+35
+40
+45
+50
+55
+60
+Figura 43 : Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de
+matéria orgânica com as subdivisões dos intervalos definidos pelo diagrama ternário com os campos de palinofácies do poço ST
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 108 -
+Intervalo 1 - Amostras: ST-12.13 e ST-12.14
+Neste intervalo as amostras recebem influencia dos campos V e VII do
+diagrama ternário com os campos de palinofácies que correspondem aos
+paleoambientes de plataforma óxica dominada por lama (plataforma distal) e de
+plataforma distal desóxica-anóxica, respectivamente. O intervalo é caracterizado
+pela elevada média percentual de palinomorfos (59,17%), a média percentual de
+fitoclastos e de MOA é de 19,53% e 21,30%, respectivamente. (tabela 45). Os
+elevados valores percentuais de esporos são os responsáveis pela alta média
+percentual de palinomorfos.
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostras ST-12.13 e ST-12.14 correspondem a palinofácies I (paleoambiente
+proximal).
+Tabela 45 : Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo I do poço ST-12.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Média do
+intervalo I 59,17 19,53 21,30
+Intervalo 2 - Amostra: ST-12.15, ST-12.16 e ST-12.17
+Neste intervalo as amostras concentram-se no campo V do diagrama ternário
+com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma óxica dominada por lama (plataforma distal). Este intervalo é
+evidenciado pela elevada média percentual de palinomorfos (59,34%), a média
+percentual de MOA e fitoclastos são semelhantes e possuem valores de 21,14% e
+19,52%, respectivamente. (tabela 46). Esta média percentual alta de palinomorfos
+é devido aos elevados valores percentuais de esporos.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 109 -
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostras ST-12.15, ST-12.16 e ST-12.17 correspondem a palinofácies I
+(paleoambiente proximal).
+Tabela 46: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica
+no intervalo II do poço ST-12.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo II 59,34 19,52 21,14
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 110 -
+No testemunho de sondagem SM-IST-4 as amostras concentram-se nos
+campos V, VII e VIII. O campo V corresponde ao paleoambiente de plataforma
+óxica dominada por lama (plataforma distal). O campo VII é caracterizado por um
+paleoambiente de plataforma distal desóxica-anóxica. O campo VIII é apontado
+como um paleoambiente de plataforma distal desóxica-óxica (figura 44).
+A seção corresponde a palinofácies I (paleoambiente proximal), porém
+possui uma amostra com influência da palinofácies III (paleoambiente distal),
+devido a grande quantidade de prasinófitas, do diagrama de palinomorfos
+modificado de Turnau e Racki (1999).
+Devido o percentual de esporomorfos no poço SM-IST-4 contribuir com a
+maior parte do elevado percentual de palinomorfos (tabela 16) e o diagrama
+ternário de Tyson (1993) não contemplar essa particularidade, embora todos os
+resultados estejam sendo plotados nesse diagrama, é a representação
+diagramática de palinomorfos modificado de Turnau e Racki (1999) que melhor
+representará a caracterização paleoambiental.
+Fitoclasto
+PalinomorfoMOA
+I
+II
+III
+IV b
+V
+VI
+VII
+VIII
+IX
+Figura 44: Diagrama ternário FITO-MOA-PALINO com os campos de palinofácies (Tyson, 1993) do
+poço SM-IST-4.
+A seção estratigráfica foi dividida em dois intervalos, os quais foram definidos
+pela análise da disposição das amostras do poço SM-IST-4 no diagrama ternário
+com os campos de palinofácies( figura 45).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+SM-IST-4
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%) Acritarca(%)
+20 30 100 0 5 10 15 2040 50 60 80 7020 30 100 40 50 60 80 70 20 30 100 40 50 60 80 7020 30 100 40 50 60 80 70 2 6 84 10 20 30 100 40 50 60 80 7020 30 100 40 50 60 80 70 0 25 1 2 3 40
+20
+25
+30
+Figura 45: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de
+matéria orgânica com as subdivisões dos intervalos definidos pelo diagrama ternário com os campos de palinofácies do poço SM
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 112 -
+Intervalo 1 - Amostras: SM-IST-4.18, SM-IST-4.19 e SM-IST-4.20
+Neste intervalo as amostras correspondem ao campo V, porém também
+recebe influencia do campo VII do diagrama ternário com os campos de
+palinofácies. Os paleoambientes correspondentes são os de plataforma óxica
+dominada por lama (plataforma distal) e de plataforma distal desóxica-anóxica,
+respectivamente. O intervalo é caracterizado pela elevada média percentual de
+palinomorfos (63,87%), a MOA e o grupo dos fitoclastos possuem média
+percentual de 27,72% e 8,41%, respectivamente. (tabela 47). Os elevados valores
+percentuais de esporos são os responsáveis pela alta média percentual de
+palinomorfos.
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostras SM-IST-4.18 e SM-IST-4.19 correspondem a palinofácies I
+(paleoambiente proximal) e a amostra de SM-IST-4.20 corresponde a palinofácies
+III (paleoambiente distal).
+Tabela 47: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo I do poço SM-IST-4.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Média do
+intervalo I 63,87 8,41 27,72
+Intervalo 2 - Amostra: SM-IST-4.21 e SM-IST-4.22
+Neste intervalo as amostras concentram-se no campo VIII do diagrama
+ternário com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma distal desóxica-óxica. O intervalo é caracterizado pela elevada média
+percentual de MOA (74,95%), a média percentual de palinomorfos é de 21,59% e
+a média percentual de fitoclastos é baixa (3,46%), conforme a tabela 48.
+De acordo com a representação diagramática modificada de Turnau e Racki
+as amostras SM-IST-4.21 e SM-IST-4.22 correspondem a palinofácies I
+(paleoambiente proximal).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 113 -
+Tabela 48: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo II do poço SM-IST-4.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo II 21,59 3,46 74,95
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 114 -
+No testemunho de sondagem CT-02 as amostras concentram-se nos campos
+III, IVa, IVb e V. O campo III corresponde ao paleoambiente de plataforma óxica
+(plataforma proximal). O campo IV é caracterizado por um paleoambiente de
+transição plataforma - bacia (IVa- desóxico, IVb- subóxido-anóxido). O campo V
+tem as características de um paleoambiente de plataforma óxica dominada por
+lama (plataforma distal). (figura 46).
+Neste poço não houve a subdivisão dos palinomorfos devido ao alto grau de
+maturidade térmica, portanto não se fez a análise segundo o diagrama proposto
+por Turnau e Racki.
+Fitoclasto
+PalinomorfoMOA
+I
+II
+III
+IV b
+V
+VI
+VII
+VIII
+IX
+Figura 46: Diagrama ternário FITO-MOA-PALINO com os campos de palinofácies (Tyson, 1993) do
+poço CT-02.
+A seção estratigráfica foi dividida em seis intervalos, os quais foram definidos
+pela análise da disposição das amostras do poço CT-02 no diagrama ternário
+com os campos de palinofácies (figura 47).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+20
+30
+40
+50
+CT-02
+MOA(%) Palinomorfo(%) Fitoclasto(%)
+0 10 20 30 40 50 0 10 20 30 40 50 6010 2030 40 500 70 90 800
+10
+20
+30
+40
+50
+60
+Intervalo 6 (relativo campo III)
+Intervalo 5 (relativo campo V)
+Intervalo 1 (relativo campo IVb)
+Intervalo 4 (relativo campo III)
+Intervalo 2 (relativo campo III)
+Figura 47: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de
+matéria orgânica com as subdivisões dos intervalos definidos pelo diagrama ternário com os campos de palinofácies do poço CT
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 116 -
+Intervalo 1 - Amostra: CT-02.23
+A amostra que corresponde a este intervalo localiza-se no campo IVb do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de transição plataforma-bacia subóxido-anóxido. Neste intervalo as
+médias percentuais de MOA e fitoclastos são semelhantes, 44,44% e 42,59 %,
+respectivamente. A média percentual de palinomorfos é de 12,96%. (tabela 49).
+Tabela 49: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo I do poço CT-02.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo I 12,96 42,59 44,44
+Intervalo 2 - Amostra: CT-02.24
+A amostra que corresponde a este intervalo localiza-se no campo III do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de plataforma óxica (plataforma proximal). Este intervalo é
+evidenciado pela elevada média percentual de fitoclastos (51,12%), a média
+percentual de palinomorfos também é alta (41,53%) e a média de MOA é de
+7,35%. (tabela 50).
+Tabela 50: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo II do poço CT-02.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Média do
+intervalo II 41,53 51,12 7,35
+Intervalo 3 - Amostra: CT-02.25
+A amostra que corresponde a este intervalo recebe influência dos campos III
+e IVa do diagrama ternário com os campos de palinofácies que correspondem aos
+paleoambientes de plataforma óxica (plataforma proximal) e de transição
+plataforma - bacia desóxico, respectivamente. Este intervalo é caracterizado por
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 117 -
+uma elevada média percentual de fitoclastos (60,00%), a média percentual de
+palinomorfos é de 26,67% e a de MOA é de 13,33. (tabela 51).
+Tabela 51: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo III do poço CT-02.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo III 26,67 60,00 13,33
+Intervalo 4 – Amostra: CT-02.26
+A amostra que corresponde a este intervalo localiza-se no campo III do
+diagrama ternário com os campos de palinofácies que corresponde a um
+paleoambiente de plataforma óxica (plataforma proximal). Este intervalo é
+evidenciado pela elevada média percentual de fitoclastos (54,17%), a média
+percentual de palinomorfos e de MOA é de 38,39% e 7,44%, respectivamente.
+(tabela 52).
+Tabela 52: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo IV do poço CT-02.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Média do
+intervalo IV 38,39 54,17 7,44
+Intervalo 5 - Amostras: CT-02.43, CT-02,44, CT-02.45, CT-02.46, CT-02.47,
+CT-02.48, CT-02.49 e CT-02.50
+Neste intervalo as amostras concentram-se no campo V do diagrama ternário
+com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma óxica dominada por lama (plataforma distal). Este intervalo é
+caracterizado por uma elevada média percentual de palinomorfos (68,73%), a
+média percentual de fitoclastos é de 26,15% e a média de MOA é baixa (5,12%)
+conforme a tabela 52. Esta média percentual alta de palinomorfos é devido aos
+elevados valores percentuais de esporos. (tabela 53)
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 118 -
+Tabela 53: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo V do poço CT-02.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo V 68,73 26,15 5,12
+Intervalo 6 – CT-02.41 e CT-02.42
+Neste intervalo as amostras concentram-se no campo III do diagrama
+ternário com os campos de palinofácies que corresponde a um paleoambiente de
+plataforma óxica (plataforma proximal). Este intervalo possui elevada média
+percentual de fitoclastos (50,17%), a média percentual de MOA é de 10,72% e a
+média percentual do grupo dos palinomorfos é de 39,11%. (tabela 54).
+Tabela 54: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo VI do poço CT-02.
+Palinomorfos(%) Fitoclastos(%) MOA(%)
+Média do
+intervalo VI 39,11 50,17 10,72
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 119 -
+No testemunho de sondagem PM-10 as duas amostras concentram-se no
+campo IX. O campo IX corresponde ao paleoambiente de bacia distal subóxidaanóxida. (figura 48).
+Neste poço não foi feita a análise segundo o diagrama proposto por Turnau e
+Racki pois o grupo dos palinomorfos apresenta-se com menos de 10% do total da
+matéria orgânica.
+Fitoclasto
+PalinomorfoMOA
+I
+II
+III
+IV b
+V
+VI
+VII
+VIII
+IX
+Figura 48: Diagrama ternário FITO-MOA-PALINO com os campos de palinofácies (Tyson, 1993) do
+poço PM-10.
+A seção estratigráfica é representada por um intervalo, o qual foi definido
+pela análise da disposição das amostras do poço PM-10 no diagrama ternário
+com os campos de palinofácies (figura 49).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+PM-10
+MOA(%) Palinomorfo(%) Fitoclasto(%) Esporo(%) Prasinofita(%) Acritarca(%)
+20 3010 0 40 50 60 80 70 90 20 3010 0 40 50 60 80 70 90 20 3010 0 40 50 60 80 70 90 20 3010 0 40 5020 3010 0 40 50 60 80 70 9020 3010 0 40 50 60 80 70 90
+75
+80
+85
+Figura 49: Distribuição dos valores percentuais dos grupos e subgrupos de componentes da matéria orgânica em relação ao total de
+matéria orgânica com as subdivisões dos intervalos definidos pelo diagrama ternário com os campos de palinofácies do poço PM
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 122 -
+Intervalo 1 - Amostras: PM-10.27 e PM-10.28
+Neste intervalo as amostras concentram-se no campo IX do diagrama
+ternário com os campos de palinofácies, que corresponde a um paleoambiente de
+bacia distal subóxida-anóxida. Este intervalo é evidenciado pela elevadíssima
+média percentual de MOA (89,15%), a média percentual de palinomorfos é de
+9,70% e os raros fitoclastos aparecem com apenas 1,15% da matéria orgânica
+total do intervalo. (tabela 55).
+Tabela 55: Valores percentuais médios dos 3 grupos de componentes da matéria orgânica no
+intervalo I do poço PM-10.
+Palinomorfos(%) Fitoclastos(%) MOA(%)Média do
+intervalo I 9,70 1,15 89,15
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 123 -
+10.CONCLUSÕES
+A análise de palinofácies realizada envolveu o exame qualitativo e
+quantitativo da assembléia dos componentes da matéria orgânica particulada em
+quarenta e quatro lâminas organopalinológicas confeccionadas de amostras de
+sete seções sedimentares da borda leste da bacia do Parnaíba, e de acordo com
+os objetivos propostos neste estudo conclui-se:
+Para o conjunto de amostras dos poços VL-03, PM-06, ST-12, SM-IST-4 e
+CT-02 observou-se o predomínio do grupo palinomorfo, representado
+principalmente por esporos, além de microplâncton de parede orgânica marinho
+(prasinófitas e acritarcas) e algas de água doce do gênero Botryococcus. O grupo
+dos fitoclastos (cutículas, membranas, fitoclastos não opacos e fitoclastos opacos)
+e a matéria orgânica amorfa alternam-se como segundo grupo em dominância.
+Nas amostras do poço CT-01 não foi possível se fazer o exame qualitativo,
+isto é, não se pode reconhecer os diversos componentes da matéria orgânica ,
+pois as amostras encontram-se com elevado grau de evolução térmica.
+Nas amostras do poço PM-10 verificou-se a grande predominância do grupo
+da MOA com aproximadamente 90% do total da matéria orgânica, o segundo
+grupo em dominância foi o de palinomorfos (aproximadamente 9%).
+O grau de evolução térmica foi obtido pelo Índice de Coloração dos Esporos
+(ICE), que determinou de um modo geral um baixo estágio de evolução térmica
+(maturação) da matéria orgânica presente nas amostras das seções analisadas, o
+que demonstra um baixo grau de diagênese pelo processo natural de aumento de
+temperatura conseqüente do aumento da profundidade de soterramento. No
+entanto, nas amostras que apresentam um elevado estagio de evolução térmica, o
+efeito térmico foi proporcionado pela proximidade de intrusivas ígneas.
+Através da análise do diagrama ternário com os campos de palinofácies de
+Tyson (1993) e da representação diagramática modificada de Turnau e Racki
+(1999) pode-se obter as seguintes conclusões:
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 124 -
+O poço VL-03 foi dividido, baseado no diagrama ternário com os campos de
+palinofácies de Tyson (1993), em cinco intervalos que correspondem aos
+paleoambientes de plataforma óxica (plataforma proximal) e plataforma óxica
+dominada por lama (plataforma distal). De acordo com a representação
+diagramática modificada de Turnau e Racki (1999), o topo da seção corresponde a
+palinofácies II (paleoambiente intermediário) e a base, a palinofácies I
+(paleoambiente proximal).
+O poço PM-06 foi dividido, baseado no diagrama ternário com os campos de
+palinofácies de Tyson (1993), em dois intervalos que correspondem aos
+paleoambientes de plataforma óxica dominada por lama (plataforma distal) e de
+plataforma distal desóxica-óxica. De acordo com a representação diagramática
+modificada de Turnau e Racki (1999), o topo da seção corresponde a palinofácies
+II (paleoambiente intermediário) e a base, a palinofácies I (paleoambiente
+proximal).
+O poço ST-12 foi dividido, baseado no diagrama ternário com os campos de
+palinofácies de Tyson (1993), em dois intervalos que correspondem aos
+paleoambientes de plataforma óxica dominada por lama (plataforma distal) e de
+plataforma distal desóxica-anóxica. De acordo com a representação diagramática
+modificada de Turnau e Racki (1999), a seção corresponde a palinofácies I
+(paleoambiente proximal).
+O poço SM-IST-4 foi dividido, baseado no diagrama ternário com os campos
+de palinofácies de Tyson (1993), em dois intervalos que recebem influencia de
+paleoambientes de plataforma óxica dominada por lama (plataforma distal), de
+plataforma distal desóxica-anóxica e de plataforma distal desóxica-óxica. De
+acordo com a representação diagramática modificada de Turnau e Racki (1999), a
+seção corresponde a palinofácies I (paleoambiente proximal), porém possui uma
+amostra com influência da palinofácies III (paleoambiente distal), devido a grande
+quantidade de prasinófitas.
+O poço CT-02 foi dividido, baseado no diagrama ternário com os campos de
+palinofácies de Tyson (1993), em seis intervalos que correspondem aos
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 125 -
+paleoambientes de plataforma óxica (plataforma proximal), de transição plataforma
+- bacia e de plataforma óxica dominada por lama (plataforma distal).
+No poço PM-10 foi reconhecido um intervalo baseado no diagrama ternário
+com os campos de palinofácies de Tyson (1993), que corresponde ao
+paleoambiente de bacia distal subóxida-anóxida.
+Devido o percentual de esporomorfos contribuir com a maior parte do
+elevado conteúdo de palinomorfos e o diagrama ternário de Tyson (1993) não
+contemplar essa particularidade, embora todos os resultados estejam sendo
+plotados nesse diagrama, foi a representação diagramática de palinomorfos
+modificado de Turnau e Racki (1999) que melhor representou a caracterização
+paleoambiental.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 126 -
+11. REFERÊNCIAS BIBLIOGRÁFICAS
+ALBUQUERQUE, H.J.T.R.; COELHO, J.M.; FARIAS, C.E.G. (1972). Projeto São
+Miguel do Tapuio. CNEN-CPRM, Recife. 2V.
+ALBUQUERQUE, K.R.M., 2000. Subdivisão estratigráfica da seqüência Devoniana
+da bacia do Parnaíba. Tese de Mestrado, FGEL/UERJ, Rio de Janeiro. 130p.
+ANP, 2002. Agencia Nacional do Petróleo. Disponível em < http://www.brasilrounds.gov.br/round4/atividades_exploratorias/cartas_secoes/cartas/ce_paraiba
+.pdf >.
+ASSIS JR.,F., 2000. New Organic Matter Isolation Procedure and Equipment . In:
+LATIN AMERICAN CONGRESS ON ORGANIC GEOCHEMISTRY, 7th, Foz do
+Iguaçu, 2000 Anais…ALAGO, v.1, p. 355.
+BATTEN, D.J., 1973. Use of palynologic assemblage-types in Wealden correlation.
+Palaeontology, v. 16, p. 1-40.
+BATTEN, D.J., 1982. Palynofacies, paleoenvironments and petroleum. Journal of
+Micropalaeontology, v. 1, p. 107-14.
+BOULTER, M.C. & RIDDICK, A. 1986. Classification and analysis of palinodebris
+from the Palaeocene sediments of the Forties Field . Sedimentology, v. 33, p.
+871-86.
+BRITO, I.M., 1979. Estratigrafia da bacia do Parnaíba I – a seqüência sedimentar
+inferior. Anais da Academia Brasileira de Ciências, 51: 695-727.
+BUSTIN, R.M. 1988. Sedimentology and characteristics of dispersed organic
+matter in Tertiary Niger Delta: origin of source rocks in a deltaic environment .
+American Association of Petroleum Geologists Bull., v. 72, p. 277-298.
+CAMPBELL, D.F., ALMEIDA, L.A. de, SILVA, S.O., 1949. Relatório preliminar
+sobre a geologia da bacia do Maranhão . Conselho Nacional do petróleo, Rio de
+janeiro. 160p. (Boletim, 1).
+CAPUTO, M.V., 1984. Stratigraphy, tectonics, palioclinatology and paleogeography
+of Northen basins of Brazil . Tese de Doutorado, California University, Santa
+Barbara. 583p.
+CAROZZI, V. C., Falkenhein, F.U.H., CARNEIRO, R.G., ESTEVES, F.R.,
+CONTREIRAS, C.J.A. , 1975. Analise ambiental e evolução tectônica
+sinsedimentar da seção siluro-eocarbonifera da bacia do Maranhão . Petrobrás,
+Rio de Janeiro. 2V. (Ciência-Técnica-Petróleo, Seção Exploração de Petróleo,
+7).
+CARVALHO, M.A., 2001. Paleoenvironmental reconstruction based on palynology
+and palynofacies analyses of Upper Aptian-Middle Albian sucession from
+Segipe Basin, northeaster Brazil . Tese de Doutoramento, Ruprecht-Karl
+Heidelberg, Alemanha. 160p.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 127 -
+CARVALHO, M.G.P., 1995. Trilobitas Devonianos da bacia do Parnaíba
+(Formações Pimenteira, Cabeça e Longá) . Tese de Doutorado, IGEO/UFRJ,
+Rio de Janeiro. 132p.
+COMBAZ, A. 1964. Les palynofaciès. Revue de Micropaléontologie, v. 7, p. 205-
+218.
+CUNHA, F.M.B., 1986. Evolução paleozóica da bacia do Parnaíba e seu
+arcabouço tectônico. Tese de Mestrado, IGEO/UFRJ, Rio de Janeiro. 107p.
+DARRELL, H.; & HART, G.F., 1970. Environmental determinations using absolute
+miospore frequency Mississipi River delta . Geological Society of America
+Bulletin, 81: 2513-2518.
+DELLA FÁVERA, J.C. (1990). Tempestitos da Bacia da Parnaíba: um ensaio
+holístico. Tese de Doutorado, IG/UFRGS, Porto Alegre. 243p.
+DELLA FÁVERA, J.C. (2001). Fundamentos de estratigrafia moderna . EdUERJ,
+Rio de Janeiro. 263p.
+DENISON, C. & FOWLER, R.M. 1980. Palynological identification of facies in a
+deltaic environment. In: Proceedings of the Meeting on the Sedimentation of
+North Sea Reservoir Rocks , Geilo, 1980, Norwegian Petroleum Society, Oslo,
+paper XII, p. 1-22.
+DURAND, B. & MONIN, J. C. (1980). Elemental analysis of kerogens (C, H, O, N,
+S, Fe) . In: DURAND, B. (ed) Kerogen: Insoluble Organic Matter From
+Sedimentary Rocks, Editions Technic, Paris, p. 113-42.
+FISHER, M.J. 1980. Kerogen distribution and depositional environments in the
+Middle Jurassic of Yorkshire U.K .. In: BHARADWAJ, D.C.; SINGH, H.P.&
+TIWARI, R.S. (eds) Proceedings of the 4th International Palynological
+Conference, Lucknow 1976-1977, v. 2, p. 574-80.
+FISHER, M.J. & HANCOCK, N.J. 1985. The Scalby Formation (Middle Jurassic,
+Ravenscar Group) of Yorkshire: reassesment of age and depositional
+environment. Proceedings of the Yorkshire Geological Society, v. 45, p. 293-8.
+GENSEL, P.G.; CHALONER, W.G. & FORBES, W.H.1991. Spongiophyton from
+the late Lower Devonian of New Brunswick and Quebec, Canada . Paleontology,
+34:149-168.
+GÓES, A.M.O. & FEIJÓ, F.J. (1994). Bacia do Parnaíba. Boletim de Geociências
+da Petrobrás, 8:57-67.
+GÓES, A.M.O., SOUZA, J.M.P. de, TEIXEIRA, L.B. 1990. Estágio exploratório e
+perspectivas petrolíferas da bacia do Paranaíba. Boletim de Geociências da
+Petrobrás, 4:55-64.
+GRAHN, Y. LOBOZIAK, S., MELO, J.H.G., 2001. Integrate miospore-chitinozoan
+biozonation of the Parnaíba Basin and its correlation with PETROBRAS (Müller
+1962) Silurian- Lower Carboniferous palynozones . In: Melo, J.H.G. & Terra, G.
+J. S. (eds) Correlação de seqüências paleozóicas sul-americanas , Petrobrás,
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 128 -
+Rio de Janeiro. P.81-89. (Ciência-Técnica-Petróleo, seção exploratória de
+Petróleo, 20).
+GUERRA-SOMMER, M.; DIAS-FABRÍCIO, M.E.; CAZZULO-KLEPZIG, M.;
+MARQUES-TOIGO, M.& PILATTI, F. 1990. Spongiophyton and associated mico
+and megafossil from the Devonian of Ponta Grossa Formation, Paraná Basin,
+South Brazil.In: Reunião de Paleobotânicos e Palinólogos, 7, 1990.
+Paleobotânica Latino América São Paulo, IG- USP, 9 (1):22.
+GUERRA-SOMMER, M.; MENDONÇA FILHO, J.G & RODRIGUES, R. 1996 a.
+Application of Organic Geochemistry, Organic Petrography and Morphographic
+Characteriazation in Palaeobotanical Studies. Anais da Academia Brasileira de
+Ciências, 68(2):297.
+GUERRA-SOMMER, M.; MENDONÇA FILHO, J.G & RODRIGUES, R. 1996 b.
+Integration of Organic Geochemistry, Petrography and Morphology in
+Palaeobotanical Studies: In: Congresso brasileiro de geologia, 1996.Anais,
+Salvador, Bahia, 2, p.285-287.
+GUTJAHR, C. C. M. (1966). Carbonization Measurements of Pollen Grains and
+Spores and their Application. Leidse. Geol. Meded., 38. 29p.
+HABIB, D. 1982. Sedimentary supply origin of cretaceous black shales , In:
+SCHLANGER, S.O & CITA, M.B. (eds) Nature and origin of Cretaceous Carbonrich Facies, Academic Press, London, p. 113-27.
+HABIB, D. 1993. Sedimentation rate dependent distribution of organic matter in the
+North Atlantic Jurassic-Cretaceous, In: SHERIDAM, R.E.; GRADSTEIN, F.M. et.
+al. (eds) Initial Reports of the Deep Sea Drilling Project, US Government Printing
+Office, Washington, DC, v.76, p.781-94.
+HANCOCK, N.J. & FISHER, M.J. 1981. Middle Jurassic North Sea deltas with
+particular reference to Yorkshire . In: ILLING, L.V. & HOBSON, G.D. (eds)
+Petroleum Geology of the Continental Shelf of North-West Europe, Heyden,
+London, p. 186-95.
+HIGHTON, P.J.C., PEARSON, A. & SCOTT, A.C. 1991. Palynofacies and
+palynodebris and their use in Coal Measure palaeoecology and
+palaeoenvironmental analysis. Neues Jarbuch für Geologie und Paläontologie
+Abhandlungen, v. 183, p. 135-69.
+HUNT, J. W. 1987. Relationship between microlithotype and maceral composition
+of coals and geological setting of coal measures in Permian Basins of Eastern
+Australia. Australian Coal Geology 4, part 2. p. 484-501.
+KEGEL, W., 1953. Contribuição para o estudo do Devoniano da bacia do
+Parnaíba., DNPM, Rio de Janeiro. 48p. (Boletim DGM, 141).
+LIMA FILHO, F.P., 1998. As seqüências Permo-Pensilvanianas da bacia do
+Parnaíba. Tese de Doutorado, IGc/USP, São Paulo.155p.
+LIMA, E.A.M. & LEITE, J.F., 1978. Projeto estudo global dos recursos minerais da
+bacia sedimentar do Parnaíba. DNPM-CPRM, Recife. 16V.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 129 -
+MABESOONE, M.J., 1994. Sedimentary basins of Northeast Brazil . DG/CT/UFPe,
+Recife. 308p. (Special Publication, 2).
+MELO, H.C., 1971. Geologia e geofisica de São Miguel do Tapuio – Piaui. Resumo
+Geral. Relatório de Graduação em Geologia, DG/CT/UFPe, Recife. 58p.
+MELO, J.H.G., 2002. Revisão da biocronoetratigrafia de miósporos do Devoniano
+– Carbonífero Inferior da bacia do Amazonas e correlação com outras bacias
+paleozóicas brasileiras. Tese de doutorado, IGEO/UFRJ, Rio de Janeiro. 103p.
+MELO, J.H.G., 1988. The Malvinocaffric Realm in the Devonian of Brazil. In:
+McMillan, N.J., Embry, A.F., Glass, D.J. (eds), The Devonian of the World.
+Calgary, Canadian Society of Petroleum Geologist, p.669-703. (Memoir, 14).
+MENDONÇA FILHO, J. G., 1999. Aplicação de estudos de palinofácies e fácies
+Orgânica em rochas do Paleozóico da Bacia do Paraná, Sul do Brasil . Tese de
+Doutorado em Geociências, Universidade Federal do Rio Grande do Sul, 2
+volumes, 338 p.
+MENDONÇA FILHO, J.G.; ALVES, L.S.R.; MENEZES, T.R., MARQUES-TOIGO,
+M. 2003. Aplicação de técnicas Geoquímicas e Organopetrográficas em Estudo
+Paleontológico. In . Congresso Brasileiro de Paleontologia, 2003, Anais,
+Brasília, p.31-32.
+MENDONÇA FILHO, J.G; CARVALHO, M.A.; MENEZES, T.R., 2002. Palinofácies.
+In: Unisinos ed. Técnicas e procedimentos de trabalho com fósseis e formas
+modernas comparativas. São Leopoldo. p. 20-24.
+MENEZES, T.R. (2002). Aplicação de Parâmetros Palinofaciológicos e
+Organogeoquímicos na Reconstrução Paleoambiental do Talude Continental
+Brasileiro Recente na Bacia de Campos, RJ. Tese de Mestrado em
+Geociências, Universidade Federal do Rio de Janeiro, 174 p.
+MESNER, J.C., Wooldridge, C.P., 1964. Maranhão Paleozoic basin and
+Cretaceous coastal basins, North Brazil. AAPG Bulletin, 48: 1475-1512.
+MUDIE, P.J. 1982. Pollen distribution in Recent marine sediments, eastern
+Canada. Canadian Journal of Earth Sciences, v. 19, p. 729-47.
+MÜLLER, J. 1959. Palynology of Recent Orinoco Delta and shelf sediments:
+reports of the Orinoco Shelf expedition; volume 5. Micropaleontology v. 5, p. 1-2.
+OLIVEIRA, J.C. DE & BARROS, F.L. (1976). Projeto fosfato de São Miguel do
+Tapuio. DNPM-CPRM, Recife. 4V.
+PARRY, C.C., WHITLEY, P.K.J. & SIMPSON, R.D.H. 1981. Integration of
+palynological and sedimentation methods in facies analysis of the Brent
+Formation. In: ILLING, L.V. & HOBSON, G.D. (eds) Petroleum Geology of the
+Continental Shelf of North West Europe, Heyden, London, p. 205-15.
+PLAYFORD, G. e DETTMANN, M.E.,1996. Palynology: principles and applications;
+American Association of Stratigraphic palynologists Foundation , vol. 1, p. 227-
+260.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 130 -
+RIBEIRO, C.C. & DARDENNE, M.A., 1978. O minério de ferro da Formação
+Pimenteira na borda SW da bacia do Maranhão (Goiás). In: SBG, Congr. Bras.
+Geol., 30., Recife, Anais, 4: 1583-1595.
+RODRIGUES, R. (1995). A Geoquímica Orgânica da Bacia do Parnaíba . Instituto
+de Geociências, Universidade Federal do Rio Grande do Sul, Tese de
+Doutorado, Porto Alegre. 225p.
+ROGERS, M. A. 1980. Application of organic facies concepts to hydrocarbon
+source rocks evaluation, In: Proceedings of the 10th World Petroleum Congress,
+Bucharest 1979, Heyden, London, v. 2, p. 23-30.
+ROSSETI, D.F., GOÉS, A.M., TRUCKENBRODT, W. (eds), 2001. O Cretáceo da
+bacia da São Luís-Grajaú . Museu Goeldi, Belém. 246p. (Coleção Friedrich
+Katzer).
+STAPLIN, F. L. (1969). Sedimentary Organic Matter, Organic Metamorphism and
+Oil and Gas Occurrence. Bull. Can. Petrol. Geol., 17:47-66.
+TISSOT, B. P.; WELTE, D. H. (1984). Petroleum Formation and Occurrence. 2 ed.
+Berlin: Springer-Verlag. 699p.
+TURNAU, E. & RACKI, G. Givetian palynostratigraphy and palynofacies: new data
+from the Bodzentyn Syncline (Holy Cross Mountains, central Poland). Review of
+Palaeobotany and Palynology 106 (1999) 237-271.
+TUWENI, A. O. & TYSON, R. V. 1994. Organic facies variations in the Westbury
+Formation (Rhaetic Bristol Channel, SW England ). Organic Geochemical. V.21
+N: 10 - 11, p. 1001- 1014.
+TYSON, R. V. 1984. Palynofacies investigation of Callovian (Middle Jurassic)
+sediments from DSDP Site 534 , Blake-Bahama Basin, western Central Atlantic.
+Marine and Petroleum Geology, v.1, p-3-13.
+TYSON, R. V. 1987. The genesis and palynofacies characteristics of marine
+petroleum source rocks, In: BROOKS, J. & FLEET, A.J. (eds) Marine Petroleum
+Source Rocks, Geological Society Special Publication, v. 26, p. 47-67.
+TYSON, R. V. 1989. Late Jurassic palinofacies trends, Piper and Kimmmeridge
+Clay Formations, UK onshore and northern North Sea . The British
+Micropalaeontological Society, p. 135-172.
+TYSON, R. V. 1990. Automated transmitted light kerogen typing by image analysis:
+I. General aspects and program description. In: Fermont, W.J.J. and Weegink,
+J.W. (eds) PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ON
+ORGANIC PETROLOGY, Zeist. Mededelingen Rijks Geologische Dients, 45,
+p.139-150.
+TYSON, R. V. 1993. Palynofacies Analysis. In: Jenkins, D.J. (eds) , Applied
+Micropaleontoly , Kluwer Academic Publishers, Dordrecht. p. 153-191.
+TYSON, R. V. 1995. Sedimentary Organic Matter: Organic facies and palynofacies.
+Chapman & Hall. Londres. 615 p.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+- 131 -
+VALENTIN, J.L., 2000. Ecologia Numérica: uma introdução à análise multivariada
+de dados ecológicos. 1ed. Rio de Janeiro, Interciência.117p
+WALL, D.; DALE, B. LOHMANN, G. P. & SMITH, W.K. 1977. The environment and
+climatic distribution of dinoflagellate cysts in modern marine sediments from
+regions in the North and South Atlantic Oceans and adjacent seas . Marine
+Micropalaeontology, v. 2, p. 121- 200.
+WELTE, D. H. (1972). Petroleum Exploration and Organic Geochemistry . J.
+Geochem. Explor., 1:117-136.
+WHITAKER, M.F., GILES, M.R. & CANNON, S.J.C. 1992. Palynostratigraphical
+review of the Brent Group, Uk Sector, North Sea. In: MORTON, A.C.;
+HASZELDINE, R.S.; GILES, M.R. & BROWN, S. (eds.) Geology of the Brent
+Group, Geological Society of London Special Publication. V. 61, p. 169-202.
+WILLIAM, G. 1992. Palynology as a palaeoenvironmental indicator in the Brent
+Group, Norhern North Sea . In: MORTON, A.C.; HASZELDINE, R.S.; GILES,
+M.R. & BROWN, S. (eds.) Geology of the Brent Group, Geological Society of
+London Special Publication. v. 61, p. 203-212.
+WOLLAST, R.,1983. Interactions in estuaries and coastal waters. In: Bolin, B. and
+Cook, R.B. (eds) The Major Biogeochemical Cycles and Their Interactions.
+Wiley, Nova York, p.385-407.
+WYLEY, E.O., 1981. Phylogenetics: Theory and practice of phylogenetic systematics. Nova York, J. Wiley and Sons. 439p.
+YOUNG, C.G.K. (2003). Contribuição à análise estratigráfica da Formação
+Pimenteiras (Devoniano, bacia do Parnaíba): caracterização de um potencial
+intervalo de rochas-reservatório . Monografia de Graduação, IG/UFRJ, Rio de
+Janeiro. 84p.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+ANEXO
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+ESTAMPA
+As fotos micrográficas foram tiradas em um microscópio Zeiss modelo AXIOSKOP 2
+PLUS, com aumentos de 100x, 200x e 400x.
+1.1 – Cutícula e palinomorfos. Lâminas
+organopalinológicas, luz branca transmitida.
+1.2 – Cutícula e palinomorfos. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+2.1 – Cutícula e palinomorfos. Lâminas
+organopalinológicas, luz branca transmitida.
+2.2 – Cutícula e palinomorfos. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+3.1 – Fitoclasto não opaco e palinomorfos.
+Lâminas organopalinológicas, luz branca
+transmitida.
+3.2 – Fitoclasto não opaco e palinomorfos.
+Lâminas organopalinológicas, Luz ultravioleta
+refletida (fluorescência).
+4.1 – Fitoclasto não opaco. Lâminas
+organopalinológicas, luz branca transmitida.
+4.2 – Fitoclasto não opaco. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+5.1 – Matéria orgânica amorfa. Lâminas
+organopalinológicas, luz branca transmitida.
+5.2 – Matéria orgânica amorfa. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+6.1 – Matéria orgânica amorfa. Lâminas
+organopalinológicas, luz branca transmitida.
+6.2 – Matéria orgânica amorfa. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+7.1 – Esporos. Lâminas organopalinológicas,
+luz branca transmitida.
+7.2 – Esporos. Lâminas organopalinológicas,
+Luz ultravioleta refletida (fluorescência).
+8.1 – Esporo. Lâminas organopalinológicas, luz
+branca transmitida.
+8.2 – Esporo. Lâminas organopalinológicas,
+Luz ultravioleta refletida (fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+9.1 – Spongiophyton e MOA. Lâminas
+organopalinológicas, luz branca transmitida.
+9.2 – Spongiophyton e MOA. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+10.1 – Spongiophyton e MOA. Lâminas
+organopalinológicas, luz branca transmitida.
+10.2 – Spongiophyton e MOA. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+11.1 – Prasinófita. Lâminas
+organopalinológicas, luz branca transmitida.
+11.2 – Prasinófita. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+12.1 – Prasinófita. Lâminas
+organopalinológicas, luz branca transmitida.
+12.2 – Prasinófita. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+13.1 – Acritarca. Lâminas organopalinológicas,
+luz branca transmitida.
+13.2 – Acritarca. Lâminas organopalinológicas,
+Luz ultravioleta refletida (fluorescência).
+14.1 – Acritárca e outros palinomorfos. Lâminas
+organopalinológicas, luz branca transmitida.
+14.2 – Acritárca e outros palinomorfos. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+15.1 – Botryococcus. Lâminas
+organopalinológicas, luz branca transmitida.
+15.2 – Botryococcus. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+16.1 – Botryococcus. Lâminas
+organopalinológicas, luz branca transmitida.
+16.2 – Botryococcus. Lâminas
+organopalinológicas, Luz ultravioleta refletida
+(fluorescência).
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com
+17 – Material orgânico com elevado grau de
+maturação térmica. Lâminas
+organopalinológicas, luz branca transmitida.
+19 – Material orgânico com elevado grau de
+maturação térmica. Lâminas
+organopalinológicas, luz branca transmitida.
+18 – Material orgânico com elevado grau de
+maturação térmica. Lâminas
+organopalinológicas, luz branca transmitida.
+20 – Material orgânico com elevado grau de
+maturação térmica. Lâminas
+organopalinológicas, luz branca transmitida.
+PDF Creator - PDF4Free v2.0 http://www.pdf4free.com

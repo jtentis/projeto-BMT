@@ -1,0 +1,1486 @@
+UFRJ 
+Rio de Janeiro 
+2019 
+ 
+ 
+Universidade Federal do Rio de Janeiro 
+Instituto de Geociências 
+Departamento de Geologia  
+ 
+ 
+Jeniffer Chiappini da Matta 
+ 
+ 
+ 
+ 
+ 
+ 
+ANÁLISE QUANTITATIVA E QUALITATIVA DE DADOS 
+HIDROGEOLÓGICOS DO SISTEMA AQUÍFERO URUCUIA (SAU) NA 
+BAHIA:  
+Subsídios para a Elaboração do Modelo Conceitual Hidrogeológico  
+ 
+ 
+ 
+ 
+ 
+Trabalho Final de Curso  
+(Geologia) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UFRJ 
+ 
+ 
+ 
+ 
+Rio de Janeiro 
+Março de 2019 
+ 
+ 
+ 
+Jeniffer Chiappini da Matta 
+ 
+ 
+ 
+ 
+ANÁLISE QUANTITATIVA E QUALITATIVA DE DADOS HIDROGEOLÓGICOS DO 
+SISTEMA AQUÍFERO URUCUIA (SAU) NA BAHIA:  
+Subsídios para a elaboração do modelo conceitual hidrogeológico 
+ 
+ 
+ 
+Trabalho Final de Curso de Graduação em 
+Geologia do Instituto de Geociências, 
+Universidade Federal do Rio de Janeiro – 
+UFRJ, apresentado como requisito 
+necessário para obtenção do grau de 
+Geólogo. 
+ 
+Orientador:  
+Gerson Cardoso da Silva Junior 
+Co-orientador: 
+Glauco Zely da Silva Eger 
+ 
+ 
+ 
+ 
+ 
+MATTA, Jeniffer Chiappini 
+Análise Quantitativa e Qualitativa de Dados 
+Hidrogeológicos do Sistema Aquífero Urucuia (SAU) na 
+Bahia: Subsídios para a Elaboração do Modelo Conceitual 
+Hidrogeologicos / Jeniffer Chiappini da Matta  - - Rio de 
+Janeiro: UFRJ / IGeo, 2019. 
+50 p.: il.: 30cm 
+Trabalho Final de Curso (Geologia)  – Universidade 
+Federal do Rio de Janeiro, Instituto de Geociências, 
+Departamento de Geologia, 2019. 
+Orientadoes: Gerson Cardoso da Silva Junior , Glauco 
+Zely da Silva Eger. 
+1. Geologia. 2. Hidrogeologia – Trabalho de Concl usão 
+de Curso. I. Silva Jr. , Gerson Cardoso. II. Universidade 
+Federal do Rio de Janeiro, Instituto de Geociências, 
+Departamento de Geologia. III. Título. 
+ 
+ 
+UFRJ 
+Rio de Janeiro 
+2019 
+ 
+ 
+ 
+Jeniffer Chiappini da Matta 
+ 
+ 
+ 
+ANÁLISE QUANTITATIVA E QUALITATIVA DE DADOS HIDROGEOLÓGICOS DO 
+SISTEMA AQUÍFERO URUCUIA (SAU) NA BAHIA: SUBSÍDIOS PARA A 
+ELABORAÇÃO DO MODELO CONCEITUAL HIDROGEOLÓGICO 
+ 
+ 
+Trabalho Final de Curso de Graduação em 
+Geologia do Instituto de Geociências, 
+Universidade Federal do Rio de Janeiro – 
+UFRJ, apres entado como requisito 
+necessário para obtenção do grau de 
+Geólogo. 
+ 
+Orientador:  
+Gerson Cardoso da Silva Junior 
+Co-orientador: 
+Glauco Zely da Silva Eger 
+ 
+Aprovada em: 11 de março de 2019  
+Por: 
+ 
+ 
+_____________________________________ 
+Orientador: Gerson Cardoso da Silva Jr. (UFRJ) 
+ 
+ 
+ 
+_____________________________________ 
+Fábio Andre Perosi (UFRJ) 
+ 
+ 
+ 
+_____________________________________ 
+Talita Azevedo da Silva (UFRJ) 
+ 
+UFRJ 
+Rio de Janeiro 
+2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dedico esta, bem como todas as minhas 
+demais conqui stas, aos meus amados pais, 
+Rosalvo da Matta e Maria Helena Chia pini da 
+Matta, que com muito amor não mediram 
+esforços para que eu chegasse até aqui. Vocês 
+são meu porto-seguro e a certeza de que não 
+estou sozinha nessa caminhada. 
+ 
+ 
+Agradecimentos 
+ 
+ 
+ 
+Agradeço à Deus, por me dar forças para enfrentar cada dificuldade que surgiu durante 
+esse ano.  
+A meus pais, Rosalvo da Matta e Maria Helena Chiapini da Matta pela confiança 
+depositada, investimento, pe lo incentivo de sempre, o qual foi imprescindível em todas as 
+conquistas da minha vida, pelos ensinamentos e pelo amor.  
+Agradeço a PRODEAGRO pelo financiamento do estágio e a AIBA pela oportunidade 
+de participar de uma das campanhas de campo do projeto “Estudo Hidrogeológico e 
+Modelagem Numérica de Fluxo do Aquífero Cretáceo Urucuia: Balanço Hídrico e Estimativa 
+de Recursos Explotáveis”. 
+Agradeço ao me u orientador Gerson Cardoso da Silva Junior, pelo ensinamento, por 
+todo conhecimento transmitido e pelos conselhos. 
+ Ao meu co -orientador Glauco Zely da Silva Eger, pelos conselhos, ensinamentos, 
+incentivo e pela paciência durante todo o período em que trabalhamos juntos. 
+ A todos os meus familiares, tios, primos e agregados, que estão sempre na minha torcida 
+vibrando a cada vitória e fizeram parte dos meus momentos de refúgio. 
+Aos meus amigos da UFRJ, por estarem comigo nesse processo, me apoiarem, torcerem 
+e vibrarem a cada passo dado. Em especial à Juliana Vilhena, Juliana Godoy, Mayara Coutinho, 
+Carolina Lyra,  Daniel Machado,  Thaís Alencar, Gabriel Eloy, Fernanda Mattos, Igor 
+Vasconcelos, Luís Barreto, Olívia Souto, Leonardo Guarino e Luis Sergio. 
+A todas amigas que moraram comigo, pelo companheirismo e acolhimento durante 
+esses anos. Em especial as que estiveram presentes durante a construção deste trabalho: Bárbara 
+Rosa, Karina Andreatta, Louise Sousa e Pamella Regina. 
+Agradeço a  minha psicóloga  Renata Alli, por me mostrar que apesar das minhas 
+limitações, sou forte e capaz de realizar meus sonhos.  
+Aos amigos do Laboratório de Hidrogeologia da UFRJ, pelo apoio diário. Em especial, 
+a Mónica Filipa (in memoriam), que apesar do pouco tempo de convivênc ia, me deu bons 
+conselhos e me inspirou a ver sempre o lado bom da vida. 
+   
+  
+ 
+ 
+ 
+viii 
+ 
+ 
+Resumo 
+ 
+ 
+ 
+ 
+MATTA, J.C. Análise Quantitativa e Qualitativa de Dados Hidrogeológicos do Sistema 
+Aquífero Urucuia (SAU) na Bahia: Subsídios para a Elaboração do Modelo Conceitual 
+Hidrogeológico. 2019, 50 f. Trabalho Final de Curso (Geologia) – Departamento de 
+Geologia, Instituto de Geociências, Universidade Federal do Rio de Janeiro, Rio de 
+Janeiro. 
+ 
+ 
+ 
+ 
+O Sistema Aquífero Urucuia (SAU), um dos principais sistemas aquíferos brasileiros, 
+estende-se por uma área de 126 km², distribuído  entre os estados da Bahia, Piauí, 
+Maranhão, Goiás, Minas Gerais e Tocan tins. Sua ocorrência na região O este da 
+Bahia, devido às características geológicas e geomorfológicas locais, tem promovido 
+o rápido avanço da agricultura irrigada. No entanto, a crescente demanda pelo recurso 
+hídrico torna fundamental uma gestão adequada do mesmo, a fim de garantir sua 
+sustentabilidade. A caracterização  do aquífero é uma importante ferramenta para o 
+planejamento de propostas de gestão e é possibilitada pela coleta de informações 
+hidrogeológicas de poços tubulares. Com essa finalidade, o presente estudo avalia 
+informações hidrogeológicas disponíveis em ba ncos de dados geridos por órgãos 
+públicos (Instituto do Meio Ambiente e Recursos Hídricos - INEMA e Agência Nacional 
+de Águas - ANA). O objetivo da pesquisa é reconhecer e comparar dados 
+hidrogeológicos relativos ao aquífero, visando identificar a distribuição geográfica e as 
+características destes. As etapas deste trabalho foram: (1) a pesquisa nas plataformas 
+do Sistema de Informações de Águas Subterrâneas - SIAGAS, Sistema Estadual de 
+Informações Ambientais e de Recursos Hídricos da Bahia - SEIA e do Cadastro 
+Nacional de Usuários de Recursos Hídri cos - CNARH, (2) consolidação dos dados, 
+análise quantitativa e qualitativa dos mesmos, (3) construção de gráficos e mapas de 
+interpolação que permitiram a visualização espacial das informações, e através do 
+resultado gerado (4) subsidiar a elaboração de u m modelo conceitual do aquífero. 
+Resultados indicam a presença de lacunas nas informações hidrogeológicas 
+disponíveis pelos órgãos públicos, além de alguns valores inconsistentes que foram 
+eliminados no estudo.  
+ 
+Palavras-chave: Sistema Aquífero Urucuia; Análise de Dados; Modelo Hidrogeológico 
+Conceitual. 
+ 
+ 
+ 
+ix 
+ 
+ 
+Abstract 
+ 
+ 
+ 
+ 
+MATTA, J.C. Quantitative and Qualitative Analysis of Hydrogeological Data of the 
+Urucuia Aquifer System ( UAS) in Bahia: Subsidies for the Elaboration of the 
+Hydrogeological Conceptual Model . Ano. 2019, 50 f. Trabalho Final de Curso 
+(Geologia) – Departamento de Geologia, Instituto de Geociências, Universidade 
+Federal do Rio de Janeiro, Rio de Janeiro. 
+ 
+ 
+ 
+ 
+The Urucuia Aquifer System (SAU), one of the main Brazilian aquifer systems, extends 
+over an area of 126 km², distributed among the states of Bahia, Piauí, Maranhão, 
+Goiás, Minas Gerais and Tocantins. Its occurrence in the western region of Bahia, due 
+to local geol ogical and geomorphological characteristics, has promoted the rapid 
+advance of irrigated agriculture. However, the growing demand for water resources 
+makes proper management of the resource essential in order to ensure its 
+sustainability. The characterization of the aquifer is an important tool for the planning 
+of management proposals and is made possible by the collection of hydrogeological 
+information from tubular wells. To this end, the present study evaluates 
+hydrogeological information available in dat abases managed by public agencies 
+(INEMA and ANA). The objective of the research is to recognize and compare 
+hydrogeological data related to the aquifer, aiming to identify the geographic 
+distribution and the characteristics of tho se. The stages of this work were: (1) the 
+research on the platforms of the Information System of Groundwater - SIAGAS, State 
+System of Environmental Information and Water Resources of Bahia - SEIA and the 
+National Registry of U sers of Water Resources – CNARH; (2) data consolidat ion, 
+quantitative and qualitative analysis ; (3) construction of graphs and maps of 
+interpolation that allowed the spatial visualization of the information, and through the 
+generated result (4) to subsidize the elaboration of a conceptual model of the aquif er. 
+Results indicate the presence of gaps in hydrogeological information made available 
+by public agencies, as well as some inconsistent values that were eliminated from the 
+study. 
+ 
+ 
+Key-Words: Urucuia Aquifer System; Data Analysis; Conceptual Hydrogeologic Model. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+ 
+ 
+Lista de figuras   
+ 
+Figura 1 Mapa de localização da área de estudo. ...................................................................... 4 
+Figura 2 Foto da escarpa do Urucuia em estrada de Goiás. ...................................................... 5 
+Figura 3 Drenagens na região Oeste da Bahia........................................................................... 6 
+Figura 4 Mapa geológico simplificado do Cráton São Francisco. Fonte: Barbosa et al. 2014. 8 
+Figura 5 Perfis geoelétricos gerados no trabalho de Gaspar et al. 2012.................................. 11 
+Figura 6 Foto de afloramento da Fm. Serra das Araras em estrada de Goiás. ........................ 12 
+Figura 7 Mapa das Províncias Hidrogeológicas do Brasil. Fonte: CPRM .............................. 14 
+Figura 8 Foto de poço tubular em fazenda na área de estudo ................................................. 16 
+Figura 9 Plataforma de pesquisa de dados do SIAGAS. ......................................................... 17 
+Figura 10  Plataforma de pesquisa do Sistema Estadual de Informações Ambientais e de 
+Recursos Hídricos ..................................................................................................................... 18 
+Figura 11 Gráfico de frequência com a distribuição da variável profundidade. ..................... 22 
+Figura 12 Gráfico de setores representando a finalidade de uso da água. ............................... 23 
+Figura 13 Gráfico de frequência dos níveis d’água estáticos. ................................................. 24 
+Figura 14 Gráfico de frequência dos níveis d’água dinâmicos. .............................................. 24 
+Figura 15 Gráfico de frequência das vazões requeridas inferiores a 100 m³/dia. ................... 25 
+Figura 16 Gráfico de frequência das vazões requeridas superiores a 100 m³/dia. .................. 25 
+Figura 17 Gráfico de setores representando o volume d’água requerido por dia. ................... 26 
+Figura 18 Gráfico de frequência de vazão requerida para irrigação, em m³/dia. .................... 27 
+Figura 19 Gráfico de frequência de vazão requerida para abastecimento humano, em m³/dia.
+ .................................................................................................................................................. 27 
+Figura 20 Localização dos poços tubulares na área de estudo. ............................................... 29 
+Figura 21 Mapa potenciométrico obtido através da interpolação dos níveis estáticos. ........... 31 
+Figura 22 Mapa de interpolação do nível dinâmico. ............................................................... 32 
+Figura 23 Mapa de distribuição da cota da profundidade dos poços. ..................................... 33 
+Figura 24 Mapa de distribuição das vazões requeridas pelos poços tubulares no SAU.......... 34 
+Figura 25 Mapa de distribuição da vazão e poços de irrigação (em vermelho). ..................... 34 
+Figura 26 Mapa de interpolação da transmissividade calculada pelos dados do SIAGAS. .... 35 
+Figura 27 Interpolação da vazão específica calculada para os poços tubulares. ..................... 35 
+Figura 28 Modelo conceitual do SAU no estado da Bahia. O tom verde escuro corresponde à 
+Fm. Serra da Araras e o verde claro à Fm. Posse. .................................................................... 37 
+xi 
+ 
+ 
+ 
+Sumário 
+Agradecimentos ........................................................................................................................ v 
+Resumo ................................................................................................................................... viii 
+Abstract ..................................................................................................................................... ix 
+Lista de figuras ......................................................................................................................... x 
+1 INTRODUÇÃO ................................................................................................................. 1 
+2 OBJETIVOS ...................................................................................................................... 3 
+2.1 Objetivo Geral ............................................................................................................ 3 
+2.2 Objetivos Específicos ................................................................................................. 3 
+3 CARACTERIZAÇÃO DA ÁREA ................................................................................... 4 
+3.1 Localização ................................................................................................................. 4 
+3.2 Aspectos fisiográficos ................................................................................................. 5 
+3.3 Geologia Regional ...................................................................................................... 6 
+3.3.1 Embasamento ............................................................................................................... 6 
+3.3.2 Bacia Sanfranciscana ................................................................................................... 7 
+3.4 Hidrogeologia do SAU ............................................................................................. 13 
+4 METODOLOGIA ........................................................................................................... 16 
+4.1 Levantamento bibliográfico .................................................................................... 16 
+4.2 Campanha de campo ............................................................................................... 16 
+4.3 Pesquisa de dados hidrogeológicos em bancos de informações públicos ............ 17 
+4.4 Consolidação e análise de informações hidrogeológicas ...................................... 18 
+4.5 Elaboração do modelo hidrogeológico conceitual ................................................. 19 
+5 RESULTADOS E DISCUSSÕES .................................................................................. 20 
+5.1 Análise e interpretação dos dados hidrogeológicos .............................................. 20 
+5.1.1 Banco de dados .......................................................................................................... 20 
+5.1.2 Consolidação dos dados ............................................................................................. 21 
+xii 
+ 
+ 
+5.1.3 Resultados cartográficos: mapas de isovalores .......................................................... 28 
+5.2 Modelo conceitual do Sistema Aquífero Urucuia ................................................. 36 
+6 CONCLUSÕES ............................................................................................................... 38 
+7 REFERÊNCIAS BIBLIOGRÁFICAS .......................................................................... 39 
+ 
+1 
+ 
+ 
+1 INTRODUÇÃO 
+O rápido desenvolvimento do agronegócio e o crescimento populacional nas últimas 
+décadas geraram uma crescente demanda por recursos hídricos na região Oeste da Bahia. A 
+água subterrânea é um importante insumo para alavancar esse crescimento populacional e 
+econômico na região pelas características geológicas desta, com a presença do Sistema 
+Aquífero Urucuia (SAU), um dos mais importantes sistemas aquíferos do Brasil, com enorme 
+potencial e produtividade. Essa expansão g era ameaças à integridade do aqu ífero, a qualidade 
+de suas águas e gera riscos de sobrexplotação. Com isso, a gestão adequada torna -se 
+fundamental para evitar uma explotação desordenada e garantir a sustentabilidade do SAU.  
+Os órgãos públicos  responsáveis pela gestão de recursos hídricos são incumbidos de 
+conceder processos de outorgas, com o objetivo de garantir o controle quantitativo e qualitativo 
+dos usos da água e fiscalizar o exercício dos direitos de acesso aos recursos hídricos.  As 
+informações hidrogeológicas obtidas através desses cadastros de outorgas são disponibilizadas 
+para consulta pública em algumas plataformas. O livre acesso a esses dados facilita a realização 
+de pesquisas para a avaliação, caracterização e gestão do recurso hídrico. 
+No entanto, a falta de padronização das info rmações disponibilizadas por fontes 
+secundárias e grandes lacunas em dados construtivos de poços dificultam essa gestão.   Com o 
+intuito de analisar qualitativa e quantitativamente os dados disponíveis, o presente trabalho foi 
+desenvolvido com base em informações hidrogeológicas do SAU obtidas através de bancos de 
+dados do Serviço Geológico Brasileiro (CPRM), do Instituto do Meio Ambiente e Recursos 
+Hídricos (INEMA) e da Agencia Nacional das Águas (ANA).  
+Foram obtidos dados hidrogeológicos de 2302 poços no total. No entanto, esses dados 
+possuíam ambiguidades ocasionadas pelo cadastramento do mesmo poço em mais de um banco 
+de dados pesquisado. Após a consolidação, na qual foram removidos os poços duplicados e os 
+que não forneciam informações hidrogeológicas, foram contabilizados 1616 poços tubulares.  
+As informações obtidas na pesquisa foram de profundidade, vazão, níveis estático e 
+dinâmico, além da finalidade do uso do recurso hídrico. Entretanto, o total de dados analisados 
+em cada uma das diferentes variáveis não é o mesmo . Além de terem informações ausentes, 
+nem sempre as situações se apresentam como estatisticamente válidas e, portanto, alguns dados 
+foram desconsiderados devido à sua baixa consistência. 
+O Sistema Aquífero Urucuia (SAU), definido por Gaspar (2006) como um conjunto de 
+aquíferos intergranulares, é considerado um dos principais mananciais de água subterrânea do 
+Brasil. Esta unidade hidrogeológica estende-se por seis estados brasileiros (Bahia, Piauí, Minas 
+2 
+ 
+ 
+Gerais, Goiás, Tocantins e Maranhão), ocupando uma área de 126 mil  km². No entanto, 
+aproximadamente 65% da sua ocorrência está em território baiano, com cerca de 82 mil  km² 
+(ANA, 2017).  
+O SAU ocorre no domínio geológico do Grupo Urucuia, o qual é definido por Campos 
+& Dardenne (1997) como uma unidade neocretácea da cobertura sedimentar da Bacia 
+Sanfranciscana. Esta Bacia é a depressão na qual se acumularam as coberturas fanerozoicas do 
+Cráton do São Francisco. O Grupo Urucuia é subdividido nas forma ções Posse, que comporta 
+duas litofácies (litofácies  1, interpretada como uma sedimentação em ambiente eólico e 
+litofácies 2, como um ambiente fluvial entrelaçado); e a unidade superior, Serra das Araras, 
+gerada por uma sedimentação fluvial em amplas planícies, com contribuição eólica. 
+ 
+  
+3 
+ 
+ 
+2 OBJETIVOS 
+ 
+ 
+2.1 Objetivo Geral 
+ 
+O objetivo deste trabalho é analisar qualitativa e quantitativamente as informações 
+hidrogeológicas, disponibilizadas por órgãos pú blicos, visando otimizar o gerenciamento do 
+recurso hídrico. 
+ 
+2.2 Objetivos Específicos 
+ 
+Os objetivos específicos deste trabalho são: 
+ Coletar informações hidrogeológicas em bancos de dados públicos; 
+ Identificar as lacunas nas informações através de análise detalhada dos dados; 
+ Unificar os dados e eliminar os dados duplicados, outliers, etc.; 
+ Gerar tabelas que possibilitem visualizar a qualidade das informações disponíveis  com 
+o uso de estatísticas básicas; 
+ Produzir gráficos e gerar mapas que permitam analisar os dados produzidos, através da 
+visualização das informações utilizando o software ArcGIS e suas ferramentas de 
+análise; 
+ A partir dos dados validados, informações de campo e de interpretações da bibliografia 
+da região, gerar um modelo conceitual do aquífero. 
+ 
+ 
+4 
+ 
+ 
+3 CARACTERIZAÇÃO DA ÁREA 
+ 
+ 
+3.1 Localização 
+ 
+O Sistema Aquífero Urucuia (SAU) ocorre na porção central do Brasil, desde o sul do 
+Piauí e Maranhão até o noroeste de Minas Gerais, sendo limitado a leste pelos municípios de 
+Barreiras-BA, Formosa do Rio Preto -BA, Cocos-BA, Correntina-BA e Gilbués -PI, e a oeste 
+pelo limite da Serra Geral de Goiás. 
+Apesar do SAU se estender por seis estados brasileiros (Bahia, Piauí, Tocantins, 
+Maranhão, Goiás e Minas Gerais), a área de estudo está limitada a sua porção baiana conforme 
+representado em vermelho na Figura 1. 
+ 
+Figura 1 Mapa de localização da área de estudo. 
+As principais formas de acesso à região Oeste da Bahia são pelas BR-020, BR-242 que 
+levam a Barreiras, BR-135 e BR-349 que l evam à região de Correntina. A BA -462 liga São 
+Desidério a BR -020. Em geral, os outros acessos na área de estudo, ocorrem em v ias não 
+pavimentadas que ligam às fazendas.  
+ 
+
+5 
+ 
+ 
+3.2 Aspectos fisiográficos 
+ 
+O Sistema Aquífero Urucuia está inserido na unidade de relev o Chapada do São 
+Francisco, também denominada Chapadão do Oeste Baiano. Esta unidade é limitada à oeste 
+pela Serra Geral  de Goiás, com aproximadamente 4 km de extensão , que separa o estado da 
+Bahia de Goiás e Tocantins. A feição é marcada por escarpas  com desnível de até 200 metros, 
+representadas na foto da  Figura 2. Os limites leste e norte da Chapada também s e fazem por 
+meio de escarpas.  
+ 
+Figura 2 Foto da escarpa do Urucuia em estrada de Goiás. 
+O clima do Oeste Baiano é do tipo Aw, caracterizado como tropical chuvoso, segundo 
+a classificação de Köppen (1948) . A  região a presenta um verão chuvoso, com a umidade 
+relativa do ar máxima de 80%, e uma temporada de seca bem marcada durante o inverno, com 
+umidade relativa mínima de 50% (Gaspar 2006) . A temperatura média anual varia entre 18ºC 
+e 32ºC. 
+A precipitação média anual aumenta de leste para oeste na região de estudo. Na parte 
+oriental da área, esses valores ficam entre 900 mm e 1000 mm , enquanto no extremo oeste 
+chegam a 1500 mm. Quando se trata da média pluviométrica mensal, pode chegar a 250 mm, 
+em períodos chuvosos; enquanto no inverno esses valores são próximos à zero (Gaspar 2006). 
+A região Oeste da Bahia está inserida na Bacia Hidrográfica do Rio São Francisco, 
+representada por afluentes da margem esquerda do seu curso médio. É m arcada por uma rede 
+de drenagens paralelas ou subparalelas, com escoamento  superficial, em geral,  de oeste para 
+leste. Os principais rios que dren am o Oeste Baiano em direção ao Rio São Francisco  são o 
+Corrente, o Grande e o Carinhanha e seus afluentes (Figura 3). 
+
+6 
+ 
+ 
+ 
+Figura 3 Drenagens na região Oeste da Bahia. 
+ 
+3.3 Geologia Regional 
+ 
+3.3.1 Embasamento 
+ 
+O embasamento da Bacia Sanfranciscana é representado em sua maior extensão pelo 
+Grupo Bambuí, alé m de rochas sedimentares paleozo icas da Bacia do Parnaíba no extremo 
+norte da bacia, metassedimentos dos grupos Araxá e Canastra do Alto Paranaíba  no extremo 
+sul, e restritas faixas granito-gnáissicas no meio-norte da bacia (Campos & Dardenne 1997). 
+A Bacia do Parnaíba, que é o embasamento no norte da Bacia Sanfranciscana, ocorre na 
+porção noroeste do Nordeste brasileiro com uma área de cerca de 600 mil km² e espessura total 
+de cerca de 3.500 m no  depocentro (Vaz et al. 2007). Sua sucessão de rochas sedimentares e 
+magmáticas pode ser disposta em cinco sequências do Siluriano ao Cretáceo. A natureza da 
+sedimentação é predominantemente siliciclástica, ocorrendo subordinadamente calcário, 
+anidrita, e sílex, além de diabásio e basalto, representativos de eventos magmáticos do 
+Neotriássico e Eocretáceo (Góes & Feijó 1994). As unidades que estão em contato com a Bacia 
+Sanfranciscana são os grupos Serra, Grande, Canindé, Balsas e a Formação Mosquito. 
+Na região de Correntina, na Bahia, o embasamento de rochas granito-gnáissicas aflora, 
+
+7 
+ 
+ 
+descrito como sienitos avermelhados  referido, por Rosa et al.  (1996), como “Sienito de 
+Correntina”. 
+Na região de São Domingos, em GO, o embasamento é representado por três sequências 
+litológicas. A arqueana é formada por rochas granito -gnáissicas, com fácies calciossilicática e 
+metabasitos localizados. O embasamento paleoproterozoico inclui a sequência São Domingos, 
+composta por rochas metassedimentares, com intercalações de metavulcânicas ácida e básica 
+(Dávila & Kuyumjian 2005). A sequência neoproterozoica é representada pelo Grupo Bambuí. 
+O Grupo Bambuí é a unidade de maior expressão que compõem o embasamento da 
+Bacia Sanfranciscana. Dardenne (1978) subdividiu os sedimentos desse Grupo em seis 
+formações: Jequitaí, Sete Lagoas, Serra de Santa Helena, Lagoa do Jacaré, Serra da Saudade e 
+Três Marias.  
+A Formação Jequitaí, unidade basal do Grupo Bambuí, é descrita como  um diamictito, 
+gerado numa glaciação de escala continental no Neoproterozoico (Dardenne, 1978; Dardenne, 
+2000).  
+A Formação Sete Lagoas é constituída predominantemente por sedimentos pelito -
+carbonáticos e representa o primeiro dos três megaciclos regressi vos, propostos por Dardenne 
+(2000). 
+A Formação Serra de Santa Helena trata -se essencialmente de folhelhos e siltitos 
+laminados, com ocorrências locais de níveis de arenitos muito finos. Enquanto a Formação 
+Lagoa do Jacaré é descrita como siltitos esverdead os calcíferos e margosos com intercalações 
+finas de calcários e laminações argilosas. Essas duas fazem parte do segundo megaciclo 
+regressivo proposto por Dardenne (2000). 
+O terceiro megaciclo é composto pelas Formações Serra da Saudade e Três Marias. A 
+Serra da Saudade é descrita como folhelhos, argilitos, siltitos argilosos verdes e raras lentes de 
+calcário cinza claro. Já a Formação Três Marias, é composta por arcóseos finos e siltitos  
+arcoseanos verdes escuro, com estratificação plano-paralela e marcas de ondas. 
+A proposta de Dardenne (2000) estabelece uma sequência de três megaciclos 
+regressivos com início em uma transgressão marinha rápida, associada a uma rápida 
+subsidência da bacia.  
+ 
+3.3.2 Bacia Sanfranciscana 
+ 
+O substrato proterozoico da Bacia do São Francisco tem como cobertura fanerozoica a 
+Bacia Sanfranciscana (Sgarbi 1989). A Bacia Sanfranciscana é limitada a sul pela Bacia do 
+8 
+ 
+ 
+Paraná e a norte pela Bacia do Parnaíba. O limite ocidental é marcado pela borda externa da 
+Faixa Brasília e o oriental pela Faixa Araçuaí e Espinhaço Setentrional (Campos &  Dardenne 
+1997), Figura 4. 
+ 
+Figura 4 Mapa geológico simplificado do Cráton São Francisco. Fonte: Barbosa et al. 2014. 
+O trabalho de Campos &  Dardenne (1997 a e b) divide a Bacia Sanfranciscana, com 
+base nas diferenças tectônicas, ambientais e estruturais entre suas porções sul e centro -norte, 
+em duas sub-bacias, denominadas Sub-Bacia Abaeté e Sub-Bacia Urucuia. Estas são separadas 
+por um alto estrutural do embasamento, o Alto Paracatu. 
+Os mesmos autores propõem que as unidades estratigráficas da Sub-Bacia Abaeté, antes 
+tratadas como formações, passem a Grupos; e seus membros, a formações. Dessa forma, o 
+Grupo Areado com as formações Abaeté, Quiricó e Três Barras, Grupo Mata da Corda com as 
+Formações Patos e Capacete e o Grupo Urucuia com as Formações Posse e Serra das Araras.  
+Grupo Santa Fé 
+É a unidade estratigráfica que representa o primeiro ciclo tecto no-sedimentar da Bacia 
+Sanfranciscana e apresenta caraterísticas glaciogênicas observadas por Dardenne et al. (1990).  
+Campos (1992) identifica a glaciação Permo -Carbonífera e subdivide o Grupo em duas 
+formações.  
+A Formação Floresta é composta por três membros, os quais mostram contatos laterais 
+interdigitados com fácies til ito (Membro Brocotó), fácies flúvio -glacial (Membro Lavado), 
+Área de estudo 
+9 
+ 
+ 
+fácies glacio-lacustre e turbidítica (Membro Brejo do Arroz).  
+A Formação Tabuleiro recobre as unidades anteriores com arenitos  interpretados por 
+Campos &  Dardenne (1994) como fácies periglacial eólica. A passagem dos membros da 
+Formação Floresta para a Formação Tabuleiro é gradacional e caracterizada pela intercalação 
+de folhelhos do Membro Brejo do Arroz nos arenitos. 
+Grupo Areado 
+O Grupo Areado r epresenta a sedimentação Eocretá cica da bacia e ocorre de forma 
+contínua na Sub-Bacia Abaeté e descontínua da Sub-Bacia Urucuia. Este Grupo é subdividido 
+em três formações interdigitadas: Formação Abaeté, Formação Quiricó  e Formação Três 
+Barras.  
+A Formação Abaeté representa sedimentação em ambiente fluvial, sendo que na porção 
+sul da Sub -Bacia, a presença de conglomerados sustentados pela matriz com clastos de 
+metassiltitos do embasamento indica que foi depositada por leq ues aluviais, enquanto nas 
+demais áreas da Sub -Bacia, são encontrados conglomerados clasto -suportados com seixos de 
+quartzito, interpretados como um ambiente fluvial entrelaçado de alta energia. 
+A Formação Quiricó é interpretada por Sgarbi (1989) como uma sedimentação de 
+origem lacustre, e caracterizada, por Sgarbi  et al. (2001), como arenitos e siltitos maciços em 
+bancos, argilitos maciços e lentes de calcários laminados com hummocky. O predomínio de 
+espessuras delgadas e de depocentros isolados, mostra qu e se tratava de vários lagos que em 
+períodos mais úmidos se interligavam (Sgarbi  et al.  2001). A presença de fácies eólica 
+interdigitada indica simultaneidade entre a sedimentação lacust re e retrabalhamento eólico 
+subaéreo (Campos & Dardenne 1997a). 
+Segundo Campos & Dardenne (1997a), as rochas da Formação Três Barras são arenitos 
+resultantes de deposição simultânea de  sistemas fluviais, fluvio -deltaicos e desérticos. Estes 
+mesmos autores descrevem a ocorrência de três fácies na unidade.  
+ Fácies 1 é caracterizada por arenitos médios, brancos, esverdeados ou rosados, grãos 
+esféricos com superfície fosca e estratificações cruzadas de grande porte. Desta forma, é 
+descrita como uma sedimentação em ambiente eólico.  
+ Fácies 2 representada por are nitos médios a finos, brancos, amarelados, apresentando 
+estratos decimétricos plano -paralelos e estratificações cruzadas de médio e pequeno porte. O 
+ambiente é caracterizado como fluvial entrelaçado dominado pela deposição de areias.  
+ Fácies 3 é descrita como arenitos e wackes vermelhos, rosados, na forma de lentes, 
+lobos, canais, em bancos maciços, com estratificação plano -paralela ou em estratos cruzados 
+10 
+ 
+ 
+tabulares e acanalados. Caracteriza uma sedimentação flúvio-deltaica.  
+Mais recentemente, Sgarbi et al. (2001), apresentam uma subdivisão da Formação Três 
+Barras em dois membros. O Membro Quintino, gerado por sedimentação flúvio -deltaica, 
+representada por fácies de arenitos finos sigmoidais e finos tabulares; e fluvial meandrante, com 
+predomínio de arenitos médios conglomeráticos. E o Membro Olegário, com presença de 
+arenitos de dunas eólicas e arenitos de interdunas. 
+Grupo Mata da Corda 
+Esta unidade é subdividida em duas formações. Formação Patos, composta por rochas 
+alcalinas máficas a ultramáficas de natureza efusiva e piroclástica, com amplo predomínio dos 
+tipos piroclásticos. E Formação Capacete, formada por rochas epiclásticas, representando o 
+produto do retrabalhamento das rochas vulcânicas da Formação Patos (Campos &  
+Dardenne1997a). A sedimentação desta pode ser interpretada como um sistema de leques 
+aluviais distais, transicionando para fácies fluviais entrelaçadas. 
+Grupo Urucuia 
+O Grupo Urucuia  constitui a unidade de maior espalhamento geográfico da Bacia 
+Sanfranciscana, ocupando a maior parte da Sub -Bacia Urucuia (Sgarbi et al.  2001). Com o 
+intuito de determinar a espessura do Urucuia, Gomes & Bonfim (2004), efetuaram modelagens 
+bidimensionais, interando Geologia X Geofísica. Seus resultados indicam que a espessura do 
+Urucuia, considerada na literatura como não ultrapassando os 400 metros, pode atingir valores 
+superiores aos 1.500 metros. Em contradição, o trabalho de Gaspar et al. (2012) estima, através 
+de estudos geofísicos, que a espessura das rochas do Grupo varia entre 10 0 e 600 m. Esses 
+autores construíram perfis geoelétricos que possibilitam observar a variação da espessura d a 
+unidade, observado na Figura 5. 
+11 
+ 
+ 
+ 
+Figura 5 Perfis geoelétricos gerados no trabalho de Gaspar et al. 2012. 
+Este grupo foi subdividido por Campos & Dardenne (1997a) nas formações Posse, que 
+comporta duas litofácies (1 e 2), e Serra das Araras.  
+A fácies 1 da Formação Posse é composta por quartzo -arenitos e raramente arenito 
+feldspático, de granulometria muito fina a média, com matriz, bem selecionado, com lentes 
+conglomeráticas. A sedimentação desta unidade é relacionada com um ambiente eólico de  
+campos de dunas secas. Já a fácies 2 é formada por arenitos feldspáticos e quartzo -arenitos, 
+brancos, ocres, finos, argilosos ou não, bem selecionados e menos maturo que o da fácies 1. 
+Esta unidade é interpretada como um ambiente fluvial entrelaçado. 
+A Formação Serra das Araras é constituída por arenitos, argilitos, e conglomerados com 
+coloração avermelhada, intercalados em bancos plano-paralelos com espessuras variando de 50 
+cm a 2 metros. O estudo microscópico mostra maturidade composicional e imaturidade textural. 
+A porção superior da unidade foi caracterizada, segundo Campos &  Dardenne (1997a), como 
+uma sedimentação fluvial desenvolvida em amplas planícies, com grande variação de carga de 
+fluxo. A presença de grãos esféricos e polidos, isolados no arcabouço dos arenitos e flutuantes 
+nos níveis pelíticos, indica uma contribuição eólica.  
+
+12 
+ 
+ 
+ 
+Figura 6 Foto de afloramento da Fm. Serra das Araras em estrada de Goiás.  
+Formação Chapadão 
+Esta unidade representa os sedimentos arenosos cenozóicos que cobrem os planaltos e 
+chapadas da Bacia Sanfranciscana (Sgarbi  et al. 2001). No trabalho de Campos &  Dardenne 
+(1997a) esses sedimentos foram classificados como coberturas aluvionares, coluvionares e 
+eluvionares.  
+As coberturas aluvionares são compostas por sedimentos inconsolidados que resultam 
+do retrabalhamento fluvial recente e estão associadas às planícies de inundações das maiores 
+drenagens. Os sedimentos coluvionares são formados por areias vermelhas ou esbranquiçadas, 
+que resultam de pequenos ret rabalhamentos das unidades faner ozoicas e pré -cambrianas, 
+resultantes da regressão de formas de relevo tabular elevado (mesetas, tabuleiros, Serra Geral 
+de Goiás). As coberturas eluvionare s correspondem às areias inconsolidadas, que se 
+desenvolvem a partir dos arenitos pertencentes às diversas unidades fanerozoicas.  
+Evolução da Bacia 
+Campos &  Dardenne (1997b) determinam seis estágios evolutivos para a história 
+tectônica da Bacia Sanfranciscana. Estes estágios são:  
+ Paleozoico, fase em que a calha sedimentar era um “baixo relativo” entre as faixas 
+Brasília e Araçuaí/Espinhaço Setentrional, onde se acumularam sedimentos glaciogênicos  
+neopaleozoicos;  
+
+13 
+ 
+ 
+ Eomesozoico, estágio em que ocorreu soerguimento isostático pós-glacial, favorecendo 
+a ocorrência de fácies glaciais ressedimentadas;  
+ Eocretáceo, fase em que é gerada a Sub-Bacia Abaeté devido a extensão da placa que é 
+relacionada ao evento de abertura do Atlântico Sul;  
+ Mesocretáceo, fase em que  é gerada a Sub -Bacia Urucuia, pela inversão tectônica da 
+bacia, relacionada à fase pós-rifte da margem continental;  
+ Neocretáceo, magmatismo alcalino da Sub -Bacia Abaeté nas zonas de fraqueza 
+continentais; e 
+ Cenozoico, fase que originou o sistema de drenagem paralelo na Sub-Bacia Urucuia. 
+ 
+3.4 Hidrogeologia do SAU 
+ 
+O termo “sistema aquífero” é utilizado por Gaspar (2006) para designar um conjunto de 
+aquíferos de ocorrência na mesma unidade litológica, de abrangência regional, interligados 
+hidráulica e/ou fisicamente. Seguindo essa definição, o Sistema Aquífero Urucuia (SAU), um 
+dos principais sistemas aquíferos do Brasil,  é definido p ela autora como um conjunto de 
+aquíferos intergranulares, dispostos na forma de um tabuleiro , ocupando uma área de 126 mil 
+km² (ANA, 2017), dos quais 82 mil km2 no estado da Bahia, área objeto deste estudo.  
+Com relação ao contexto geológico, o SAU p ertence ao Grupo Urucuia , composto 
+essencialmente por arenitos , e compreende a Sub -bacia Urucuia. Um levantamento geofísico 
+apresentado por Gaspar et al. (2012) permitiu estimativas para a espessura total do sistema 
+aquífero variando de 100 a 600 metros, com a espessura saturada chegando a 460 metros. 
+A análise do fluxo subterrâneo mostra um divisor de água subterrânea próximo à Serra 
+Geral de Goiás, na  região ocidental do SAU,  de direção aproximada N -S, dividindo o 
+escoamento subterrâneo a leste em direção à bacia do rio São Francisco e a oeste em direção à 
+bacia do rio Tocantins. (Barbosa et al. 2014) 
+O SAU está inserido na Província Hidrogeológica São Franc isco (Figura 7). Seu fluxo 
+de base contribui com a vazão dos afluentes da margem esquerda do médio São Francisco. 
+Durante períodos de estiagem, essa contribuição c hega a 80% da vazão do rio, e sua média 
+representa cerca de 30% da vazão média do rio São Francisco em Sobradinho (ANA 2013). 
+14 
+ 
+ 
+ 
+Figura 7 Mapa das Províncias Hidrogeológicas do Brasil. Fonte: CPRM 
+As reservas permanente e reguladora do SAU em toda sua extensão, são estimadas, pela 
+ANA (2013), em 1329 km³ e 22,37 km³/ano, respectivamente,  representando cerca de 40% da 
+disponibilidade hídrica subterrânea da bacia hidrográfica do São Francisco. 
+Com base em mudanças hidrodinâmicas na unidade, Gaspar e Campos (2007) adotaram 
+uma subdivisão para o SAU. Essas diferenças podem ser ocasionadas pela presença de nível 
+silicificado, mudança na granulometria e profundida de do nível potenciométrico. Os subtipos 
+incluem o aquífero livre regional, o aquífero suspenso local, aquífero confinado o u 
+semiconfinado e o aquífero livre profundo. 
+Os parâmetros hidrodinâmicos obtidos em Gaspar e Campos (2007) são: para o aquífero 
+regional livre, transmissividade de 10-4 a 10-5 m²/s e condutividade hidráulica de 10-6 a 10-7 m/s; 
+para o aquífero livre profundo, transmissividade da ordem de 10 -3 m²/s e condutividade 
+hidráulica de 10 -6 m/s; e para o aquífero confinado ou semiconfinado, tran smissividade da 
+ordem de 10-2 a 10-3, condutividade hidráulica de 10-5 e coeficiente de armazenamento da ordem 
+de 10-4. A capacidade específica dos poços varia até 17,2 m³/h/ m. 
+Através de testes de aquífero  e levantamento geofísico geoelétrico, Barbosa et al.  
+(2014), determinaram que o SAU meridional tem comportamento aquífero-aquitarde-aquífero. 
+Na camada inferior, representada pela Formação Posse, ele indica um aquífero confinado, no 
+qual a descompressão causada pelo bombeamento é responsável pela liberação da água 
+subterrânea. Segundo autor, e sta unidade é confinada e limitada por níveis silicificados, 
+
+15 
+ 
+ 
+fraturados e impermeáveis que possibilitam drenança ascendente para o nível superior livre que 
+ocorre na Formação Serra das Araras.  
+O nível inferior é atingido por poços de altas profundidades que podem chegar a ter  
+vazões superiores a 300 m³/h, utilizados para irrigação em pivôs centrais, por seu alto potencial 
+hidrogeológico. Os poços da porção superior livre explotam em geral vazões em torno de 15 
+m³/h, e a água retirada é  utilizada para abastecimento doméstico e desseden tação animal e 
+pulverização agrícola. 
+Em contradição com os autores supracitados, o trabalho de Rodrigues et al . (2009) 
+mostra que o SAU consiste de duas unidades hidrogeológicas. O aquífero Serra das Araras, 
+unidade superior, que ocorre na Formação homôni ma, e a unidade inferior que ocorre na 
+Formação Posse. Os valores obtidos para a  transmissividade da camada inferior ficaram na 
+ordem de 10 -² m²/s e o coeficiente de armazenamento 10 -4, indicativos de  um aquífero 
+semiconfinado e drenante. 
+A transmissividade obtida na Formação Serra das Araras foi da ordem de 10-3 m²/s e a 
+condutividade hidráulica indicou anisotropia, com a horizontal calculada em 5 x 10 -5 m/s e a 
+vertical 8 x 10 -5 m/s. Essa unidade teve sua porosidade granular primária reduzida por níveis 
+silicificados, que poster iormente sofreram fraturamento por esforços tectônicos gerando 
+comportamento fissural. Rodrigues et al. (2009) atribuem a esses níveis silicificados  o semi-
+confinamento do aquífero Posse e indicam que  os parâmetros hidrodinâmicos do Serra das 
+Araras influenciam efetivamente no comportamento do inferior . As camadas superiores da  
+unidade semi-confinante estão ligadas aos rios. 
+A presença de poços que fornecem altas vazões e a contribuição com volumes de água 
+consideráveis para os afluentes da margem esquerda do rio São Francisco, tornaram o Sistema 
+Aquífero Urucuia um dos mais importantes corpos hídricos subterrâneos do Brasil. 
+ 
+16 
+ 
+ 
+4 METODOLOGIA 
+ 
+ 
+4.1 Levantamento bibliográfico 
+ 
+O levantamento bibliográfico é uma importante etapa do trabalho, de forma que 
+possibilita a compreensão do con texto geológico, estratigráfico e tectônico da área de estudo , 
+na qual está inserido o Sistema Aquífero Urucuia . Através de trabalhos anteriores também foi 
+possível estudar os métodos empregados para análise dos dados. 
+Livros, artigos científicos, dissertações de mestrado, teses de doutorado e relatórios 
+compuseram o material que embasou este estudo.  
+ 
+4.2 Campanha de campo 
+ 
+No período de 19 de fevereiro a 9 de março foi realizada uma campanha de campo para 
+a área de estudo do Projeto ”Estudo do Potencial Hídrico da Região Oeste da Bahia”. O objetivo 
+era realizar testes de bombeamento em poços de alta vazão (Figura 8), em algumas fazendas da 
+região, para complementar a base de dados disponibilizada por órgãos públicos.  
+ 
+Figura 8 Foto de poço tubular em fazenda na área de estudo 
+Os principais critérios para a seleção das áreas que seriam  visitadas foram priorizar 
+locais com carência de informações e poços de altas vazões. O planejamento da campanha era 
+fazer testes de bombeamento, mas alguns problemas atrapalharam os planos. Devido à época 
+
+17 
+ 
+ 
+de intensa chuva, os reservatórios das fazendas estavam cheios e a plantação não precisava de 
+irrigação, impossibilitando o bombeamento necessário para fazer alguns do s test es 
+programados. Além disso, a ausência de poços de observação próximos ao poço de 
+bombeamento também foi empecilho.  
+ 
+4.3 Pesquisa de dados hidrogeológicos em bancos de informações públicos 
+ 
+Nesta etapa do trabalho foi feito um levantamento de informações hidr ogeológicas em 
+bancos de dados públicos. Os dados coletados  foram sobre a localização dos poços, suas 
+profundidades, vazão de bombeamento, níveis estáticos e dinâmicos, além da finalidade de uso 
+da água explotada. 
+O Sistema de Informações de Águas Subterrâneas (SIAGAS) é um banco de dados 
+público criado pela CPRM (Serviço Geológico Brasileiro) com o objetivo de coletar, 
+armazenar, sistematizar e disponibilizar informações referentes aos poços tubulares 
+(Nascimento et al. 2008). Os dados são fornecidos pelo órgão gestor estadual, que recebe os 
+pedidos de outorgas dos poços e encaminha para a CPRM. Após analisar esses dados, a CPRM 
+os disponibiliza através do SIAGAS Web (Figura 9). 
+ 
+Figura 9 Plataforma de pesquisa de dados do SIAGAS. 
+A Rede Integrada de Monitoramento das Águas Subterrâneas  (RIMAS), também da 
+CPRM, é composta  por poços existentes (cedidos) e poços construídos de modo que a 
+distribuição e densidade sejam suficientes para obtenção de valores representativos das 
+condições hidrogeológicas  e permitam a identificação de impactos às águas subterrâneas, a 
+estimativa da di sponibilidade do recurso hídrico subterrâneo, dentre outras informações  
+(CPRM, 2012).  
+Os módulos do SIAGAS e do RIMAS possibilitam consulta, pesquisa, extração e 
+geração de relatórios. A pesquisa pode ser feita através das coordenadas, ou inserindo a baci a 
+hidrográfica, região, estado e município da área de interesse. Para este trabalho foram feitos os 
+
+18 
+ 
+ 
+downloads dos dados em formato de planilha, selecionando apenas os parâmetros de interesse. 
+Esses dados se referiam à localização, testes de bombeamento e observações. 
+O Instituto do Meio Ambiente e Recursos Hídricos (INEMA) disponibiliza serviços on-
+line ao cidadão através do Sistema Estadual de Informações Ambientais e de Recursos Hídricos 
+(SEIA) (Figura 10). Nessa plataforma as pesquisas foram feitas através do número do processo, 
+CPF/CNPJ, nome do requerente do processo  ou do empreendimento . Estes dados utilizados 
+para a pesquisa foram disponibilizados pelo Cadastro Nacional de Usuários de Recursos 
+Hídricos (CNARH), uma plataforma de cadastramento e armazenamento de dados que é gerida 
+pela Agência Nacional das Águas (ANA). Os arquivos obtidos incluem formulários de  
+dispensas de outorga, relatórios de perfuração de poços, projetos básicos do empreendimento e 
+portarias de outorga . Os dados foram baixados e analisados individualmente para que se 
+obtivessem as informações necessárias e foram consolidados em uma tabela. 
+ 
+Figura 10 Plataforma de pesquisa do Sistema Estadual de Informações Ambientais e de 
+Recursos Hídricos 
+Após a coleta dos dados , esses passaram por avaliação quantitativa e qualitativa, 
+representada por gráficos que permitem uma melhor visualização da análise. 
+ 
+ 
+4.4 Consolidação e análise de informações hidrogeológicas 
+ 
+
+19 
+ 
+ 
+Os dados coletados em bancos públicos (SIAGAS, INEMA, CNARH) totalizaram 2305 
+poços. Contudo, foi necessário levar em consideração que as informações poderiam ter 
+ambiguidade, ou seja, alguns poços estão cadastrados em mais de um banco. Os dados evoluem 
+constantemente, de modo que o presente levantamento inclui os dados obtidos até setembro de 
+2018.  
+Com o intuito de remover os dados duplicados, a etapa subsequente do trabalho foi uma 
+análise detalhada destes. As informações foram unidas em uma planilha e, em seguida, foram 
+ordenadas com base nas coordenadas de localização de cada ponto para facilitar a busca por 
+poços ambíguos.  
+As coordenadas do mesmo poço poderiam variar alguns metros de uma base para outra. 
+Ciente disso, a busca não foi feita apenas por coordenadas iguais, mas também pelas 
+semelhantes, tornando necessário observar os outros parâmetros.  
+Através dessa análise mais detalhada foram encontradas falhas e lacunas nas 
+informações hidrogeológicas disponibilizadas. Após a unificação dos dados, p ara uma 
+avaliação quantitativa e qualitativa, foram gerados gráficos e tabelas, que possibilitaram melhor 
+visualização e interpretação.  
+Através do Software ArcGIS 10.2.2 foram elaborados mapas de interpolação de dados 
+geoespaciais.  Os valores de níveis estáticos foram subtraídos da cota altimétrica d o Modelo 
+Digital de Elevação, obtido a partir do SRTM, e esses dados interpolados através da Kriging 
+gerando um mapa potenciométrico. O mesmo método foi utilizado para interpolar as cotas nos 
+níveis dinâmicos dos poços.  
+Outros atributos interpolado s foram a vazão dos poços, a cota da profundidade , 
+transmissividade dos dados do SIAGAS e a vazão específica. Nestes foi utilizado o método de 
+interpolação Inverse Distance Weighted (IDW) que calcula o valor de um local sem informação 
+utilizando os valores amostrados à sua volta.  
+ 
+4.5 Elaboração do modelo hidrogeológico conceitual 
+O processamento das informações obtidas nas pesquisas às bases de dados secundárias 
+e na campanha de campo, somado à interpretação da bibliografia já existente  possibilitou a 
+elaboração de um modelo conceitual hidrogeológico do Sistema Aquífero Urucuia. 
+20 
+ 
+ 
+5 RESULTADOS E DISCUSSÕES 
+ 
+ 
+5.1 Análise e interpretação dos dados hidrogeológicos 
+ 
+5.1.1 Banco de dados 
+ 
+O levantamento de informações sobre os recursos hídricos subterrâneos em banco s de 
+dados públicos gerou os resultados contabilizados na Tabela I. Os principais parâmetros obtidos 
+foram: localização do ponto, níveis d’água estáticos e d inâmicos, vazão de bombeamento,  
+profundidade do poço e finalidade de uso.  
+Através da pesquisa, o total de pontos obtidos do banco de dados do INEMA foi de 235 
+poços, sendo que de ste total, apenas 139 apresentav am informações sobre profundidade dos 
+poços, 173 sobre vazão, 175 sobre nível estático e 177 sobre nível dinâmico.  
+A maior base de dados encontrada foi a do SIAGAS, na qual foram obtidos 1037 poços, 
+sendo que destes, as informações sobre as vazões dos poços só foram fornecidas em 481, sobre 
+a profundidade em 780 poços, nível estático de 460 poços e nível dinâmico de 260 poços. 
+Na tabela disponibilizada pelo CNARH, estavam cadastrados 808 poços, dos quais 
+apenas 399 poços informavam a vazão, 381 poços a profundidade, 442 poços o nível estático e 
+438 poços o nível dinâmico.  
+Tabela I Número de informações obtidas em cada banco de dados. 
+PARÂMETROS 
+NÚMERO DE DADOS 
+INEMA SIAGAS CNARH 
+TOTAL DE PONTOS CADASTRADOS 235 1037 808 
+VAZÃO 173 481 399 
+PROFUNDIDADE 139 780 381 
+NÍVEL ESTÁTICO 177 460 442 
+NÍVEL DINÂMICO 175 260 438 
+ 
+21 
+ 
+ 
+5.1.2 Consolidação dos dados 
+ 
+O total de poços encontrados no levantamento foi de 2305. Após a consolidação foram 
+contabilizados 1616 poços cadastrados. Sendo que deste total, apenas 259 poços têm 
+informações completas sobre: profundidade, vazão requerida, vazão de estabilização, níveis 
+estático e dinâmico.  
+Para uma avaliação quantitativa e qualitativa dos dados foram gerados tabelas, gráficos 
+e mapas que possibilitam melhor visualização e interpretação. A Tabela II informa o número 
+de dados disponíveis de cada parâmetro. 
+Tabela II Quantificação de dados disponíveis sobre cada parâmetro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remoção de dados inconsistentes 
+Além das lacunas encontradas nos dados, d urante a análise foram observados padrões 
+de irregularidades nos dados , informações com valores que se mostraram muito discrepantes 
+em relação a maioria , que podem ter sido causados p or erros de digitação ou erros durante a 
+coleta dos dados.  
+Esses dados foram analisados caso a caso e, quando considerados inconsistentes, foram 
+eliminados. Por exemplo, nos seguintes casos: 
+PARÂMETRO NÚMERO DE DADOS 
+TOTAL DE PONTOS UTILIZADOS 1616 
+FINALIDADE 1141 
+PROFUNDIDADE 1116 
+NÍVEL ESTÁTICO 910 
+NÍVEL DINÂMICO 711 
+VAZÃO APÓS ESTABILIZAÇÃO 767 
+VAZÃO REQUERIDA 780 
+22 
+ 
+ 
+ Vazões requeridas de 130.357 m³/dia e 7.101.990 m³/dia, são valores discrepantes com 
+relação aos outros poços, que chegam a no máximo 12.000 m³/dia. 
+ Vazões requeridas para consumo humano com val ores superiores a 1.0 00 m³/dia. 
+Considerando que a quantidade de água necessária por pessoa é de cerca de 200 litros por dia, 
+esse valor seria capaz de abastecer 5.0 00 pessoas. Por esse motivo, e sses dados não foram 
+utilizados na somatória das vazões requeridas para consumo humano.  
+Esses casos precisaram ser removidos para que não afetar a credibilidade da análise 
+estatística.  
+Profundidade 
+Foram localizados 1116 registros sobre a profundidade dos poços. Esses valores 
+atingem, em casos extraordinários, até 400 metros. Entretanto, como pode ser observado no 
+gráfico da Figura 11, predominam poços com profundidade entre 80 e 120 metros. 
+ 
+Figura 11 Gráfico de frequência com a distribuição da variável profundidade. 
+Finalidade de uso 
+A finalidade de uso da água subterrânea foi outro parâmetro analisado e dos 1616 poços 
+cadastrados, apenas 1141 (70%) especificam o tipo de uso d o recurso hídrico. Os outros 475 
+poços (30%) não têm informação. O gráfico da Figura 12 representa a distribuição percentual 
+do número de poços para cada tipo uso. 
+Os dados mostram que 337 poços explotam água para irrigação, ou seja, 21% do total 
+de poços cadastrado, e 474 poços utilizam o recurso para consumo humano, 29% do total. 
+
+23 
+ 
+ 
+A categoria “Uso múltiplo”, que comporta 118 poços, representa os poços que explotam 
+o recurso para mais de uma finalidade, por exemplo, consumo humano, criação animal e 
+pulverização agrícola; ou irrigação, criação animal e pulverização agrícola. 
+A dessedentação animal justifica a explotação de água em 84 poços, representando 5% 
+do total de poços cadastrados. O setor industrial é responsável por 52 poços na região, 3% dos 
+cadastros.  
+O monitoramento, feito por órgãos públicos, é realizado através de 50 poço s em toda a 
+área de estudo, representando 3% do total de poços encontrados. 
+As categorias “Uso urbano” e “Pulverização agrícola” representam apenas 2% dos 
+dados obtidos. 
+ 
+Figura 12 Gráfico de setores representando a finalidade de uso da água. 
+Nível estático (NE) e nível dinâmico (ND) 
+ As informações dos níveis estáticos estão disponíveis em 910 pontos e os valores 
+chegam a 250 metros, no entanto a maioria dos registros ocorre na faixa de 50 metros de 
+profundidade, conforme interpretado através do gráfico da Figura 13. 
+Irrigação 
+21%
+Consumo 
+Humano 
+29%
+Indústria 
+3%
+Pulverização 
+Agrícola
+1%
+Monitoramento
+3%
+Uso múltiplo
+7%
+Uso urbano
+1%
+Criação Animal
+5%
+Sem informação
+30%
+FINALIDADE DE USO DOS POÇOS
+24 
+ 
+ 
+ 
+Figura 13 Gráfico de frequência dos níveis d’água estáticos. 
+Foram observados 711  registros referentes ao nível dinâmico dos poços, com valores 
+chegando a 250 metros de profundidade e , conforme pode ser observado no gráfico da Figura 
+14, a maioria dos dados estão entre 50 e 75 metros. 
+ 
+Figura 14 Gráfico de frequência dos níveis d’água dinâmicos. 
+Vazão requerida  
+Dos 780 dados coletados referentes à vazão requerida, foi observado um comportamento 
+mostrando que há uma alta variabilidade nas vazões dos poços , com muitos dados longe da 
+média. Com a finalidade de facilitar a visualização das  informações, foi estabelecida uma 
+subdivisão.  
+Do total de dados sobre vazão, 530 poços apresentaram valores inferiores a 100 m³/dia, 
+representados no gráfico da Figura 15, enquanto requerimentos superiores a 100 m³/dia foram 
+informados por 250 poços, gráfico da Figura 16. No entanto, apesar dos poços de vazões altas 
+0
+100
+200
+300
+400
+25 50 75 100 125 150 175 200 225 250
+Nº de observações
+Nível estático (m)
+Frequência do nível estático
+0
+50
+100
+150
+200
+250
+25 50 75 100 125 150 175 200 225 250
+Nº de observações
+Nível dinâmico (m)
+Frequência do nível dinâmico
+25 
+ 
+ 
+representarem um terço da quantidade de dados, são responsáveis por 98% do volume total de 
+vazão. 
+Os poços de vazões mais baixas , explotam em média 26 m³/dia , a somatória desses 
+valores resulta em 14.160 m³ bombeados por dia. Enquanto os poços de altas vazões são 
+responsáveis por uma média de 5.500 m³/dia, e apresentam um total de extração do recurso de 
+1.342.074 m³/dia.  
+ 
+Figura 15 Gráfico de frequência das vazões requeridas inferiores a 100 m³/dia. 
+ 
+Figura 16 Gráfico de frequência das vazões requeridas superiores a 100 m³/dia. 
+ 
+Relação entre volume de vazão e finalidade 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+7 14 20 27 33 40 46 53 59 66 72 79 85 92 98
+Número de observações
+Vazão requerida (m³/dia)
+Vazões requeridas menores que 100 
+m³ /dia
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+922
+1744
+2566
+3389
+4211
+5033
+5855
+6677
+7499
+8321
+9143
+9966
+10788
+11610
+12432
+Número de observações
+Vazão requerida (m³/dia)
+Vazões requeridas maiores que 100 m³ /dia
+26 
+ 
+ 
+Observando as somas das vazões requeridas para cada finalidade na Tabela III fica claro 
+que o maior usuário da água subterrânea na região de estudo é o agronegócio. Na Figura 17 foi 
+representada, através de um gráfico de setores, a distribuição do volume de uso.  
+ 
+ 
+ 
+Tabela III Somatória da vazão requerida para cada finalidade. 
+FINALIDADE VAZÃO REQUERIDA 
+(M³/DIA) 
+IRRIGAÇÃO 1.132.489 
+SEM INFORMAÇÃO 167.478 
+INDÚSTRIA 18.855 
+USO MÚLTIPLO 10.665 
+USO URBANO 8.272 
+CONSUMO HUMANO 7.720 
+PULVERIZAÇÃO AGRÍCOLA 6.947 
+CRIAÇÃO ANIMAL 3.807 
+TOTAL 1.356.234 
+ 
+ 
+Figura 17 Gráfico de setores representando o volume d’água requerido por dia. 
+O gráfico da Figura 18 exibe a frequência de vazões requeridas para irrigação, com 
+valores chegando a mais de 11.000 m³/dia e uma média de 6.500 m³/dia. A soma desses valores 
+resulta em 1.132.489 m³ de água explotados por dia, destinados a irrigação, em toda a área de 
+estudo. No entanto, dos 337 poços que declaram este uso, apenas 181 disponibilizam suas 
+Irrigação 
+83%
+Consumo Humano 
+1%
+Indústria 
+1%
+Pulverização Agrícola
+1%
+Sem informação
+12%
+Uso múltiplo
+1%
+Uso urbano
+1%Criação Animal
+0%
+DISTRIBUIÇÃO DO VOLUME REQUERIDO POR DIA
+27 
+ 
+ 
+vazões requeridas, ou seja, o volume explotado provavelmente é muito superior ao total 
+calculado. 
+ 
+Figura 18 Gráfico de frequência de vazão requerida para irrigação, em m³/dia. 
+Quando se trata do abastecimento humano, apenas 275 poços dos 474 que declaram esse 
+uso têm informações sobre as vazões requeridas. Na Figura 19 o gráfico mostra a frequência 
+desses valores e possibilita observar que os poços utilizados para abastecimento humano 
+bombeiam quantidades muito inferiores a explotação para irrigação , em média 30 m³/dia , 
+somando 7.720 m³/dia em toda a área estudada.  
+ 
+Figura 19 Gráfico de frequência de vazão requerida para abastecimento humano, em m³/dia. 
+Esses valores indicam que, apesar da maioria dos poços cadastrados ter como finalidade 
+o abastecimento humano, conforme observado no gráfico da Figura 12, a irrigação é 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+1133 2247 3361 4475 5590 6704 7818 8932 10046 11160
+Nº de observações
+Vazão requerida (m³/dia)
+Vazão requerida para irrigação
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+13 25 36 48 60 72 84 95 107 119
+Nº de observações
+Vazão requerida (m³/dia)
+Vazão requerida para consumo humano
+28 
+ 
+ 
+responsável pelo maior volume de água explotado do SAU , correspondendo a 83% do total, 
+somando um volume de 1.132.489 m³/dia.  
+No entanto, é importante ressaltar que a explotação para irrigação não ocorre durante 
+todos os dias do ano. Como o verão da região é marcado por altos índices de chuvas, os valores 
+explotados são muito inferiores aos meses secos de inverno.  
+ 
+5.1.3 Resultados cartográficos: mapas de isovalores 
+ 
+O mapa da Figura 20 mostra a localização dos 1616 poços tubulares ut ilizados no 
+presente trabalho. São observados alguns  locais onde os dados são precários , gerando 
+interferências nas interpolações produzidas no estudo.  
+A carência de informações na porção norte da área de estudo, em Formosa do Rio Preto, 
+pode ser justificada pela falta de infraestrutura. Nessa regi ão predominam as plantações de 
+sequeiros, os quais não precisam de irrigação frequentemente, já que a eletricidade é precária e 
+as fazendas utilizam geradores para bombear a água dos poços, que não costumam ser de altas 
+vazões como os da porção central.  
+A extremidade SW da área também é marcada  por carência de dados por se tratar de 
+uma área de preservação ambiental pertencente ao Parque Nacional Grande Sertão Veredas, no 
+município de Cocos.  
+29 
+ 
+ 
+ 
+Figura 20 Localização dos poços tubulares na área de estudo. 
+Através da análise dos gráficos da Figura 13 e da Figura 14 foi possível observar que a 
+maioria dos poços apresenta níveis estáticos inferiores a 50 m de profundidade. Enquanto os 
+níveis dinâmicos são mais frequentes entre 25 e 75 m.  
+A inserção das informações do s níveis  estáticos no Software ArcGIS e a subtração  
+desses valores do Modelo Digital de Elevação, obtido a partir do SRTM, gerou as cotas dos 
+níveis d’água nos poços antes do bombeamento. Esses dados foram utilizados para elaboração 
+de um mapa potenciométrico (Figura 21), através da Kriging, um método de interpolação de 
+dados geoespaciais.  
+Através da análise do mapa é possível indicar a direção de fluxo no aquífero. A água 
+subterrânea se movimenta dos níveis potenciométricos mais altos, representados pelos tons 
+vermelhos na borda oeste da área de estudo, para os níveis de menor potencial, tons azuis na 
+borda leste do aquífero. No extremo leste, na região central da área, é possí vel observar que o 
+fluxo não segue o mesmo padrão do restante do aquífero, indo de SE para NW.  
+Foram observados 711  registros referentes ao nível dinâmico dos poços, com valores 
+chegando a 250 metros de profundidade e a maioria na faixa entre 50 e 75 metros. Subtraindo 
+esses dados da cota altimétrica da superfície obtida pela imagem SRTM, foi possível interpolar 
+
+30 
+ 
+ 
+a cota dos níveis dinâmicos. O mapa do ND (Figura 22) mostra um comportamento similar ao 
+potenciométrico.  
+A interpolação das cotas altimétricas  das profundidades dos poços tubulares foi feita 
+através do método IDW (Figura 23). Esses valores permitem a comparação dos níveis de onde 
+o recurso hídric o está sendo extraído. Apesar da alta variabilidade e dispersão dos valores, é 
+possível notar que na borda oeste em geral esses valores são mais altos que na borda leste. 
+Esse método também foi utilizado para a interpolação das vazões dos poços tubulares 
+(Figura 24). A distribuição desses dados no mapa é dispersa. A Figura 25 mostra a distribuição 
+dos poços sobre o mapa de interpolação, destacando os pontos vermelhos para poços com 
+finalidade de irrigação e pontos brancos representando os outros usos. Fazendo essa relação é 
+possível observar que, em geral, as concentrações de poços utilizadas pelo agronegócio 
+coincidem com locais que se concentram as maiores explotações. 
+Outros dados interpolados foram a transmissividade, utilizando apenas os dados do 
+SIAGAS, que está representada pelo mapa da Figura 26, e a vazão específica dos poços , na 
+Figura 27. As informações de transmissividade não estavam disponíveis na porção norte da área 
+de estudo, na região da Bacia hidrográfica do Médio Rio Grande. Como a ausência de 
+informações pode afetar o resultado do mapa, foi interpolado apenas no restante da área.  
+ 
+31 
+ 
+ 
+ 
+Figura 21 Mapa potenciométrico obtido através da interpolação dos níveis estáticos.  
+
+32 
+ 
+ 
+ 
+Figura 22 Mapa de interpolação do nível dinâmico. 
+ 
+
+33 
+ 
+ 
+ 
+Figura 23 Mapa de distribuição da cota da profundidade dos poços. 
+O mapa de interpolação da transmissividade gerou um resultado bastante disperso,  
+variando de 10-5 m²/s a 10-2 m²/s, mas é possível observar que os locais onde estão concentrados 
+os poços para irrigação, que são os mais profundos, coincidem com onde a trans missividade 
+apresenta valores mais altos. Esse resultado pode indica r, assim como nos estudos da região,  
+que o aquífero mais profundo apresenta transmissividade mais alta que o superior. 
+
+34 
+ 
+ 
+ 
+Figura 24 Mapa de distribuição das vazões requeridas pelos poços tubulares no SAU. 
+ 
+Figura 25 Mapa de distribuição da vazão e poços de irrigação (em vermelho). 
+
+35 
+ 
+ 
+ 
+Figura 26 Mapa de interpolação da transmissividade calculada pelos dados do SIAGAS. 
+ 
+Figura 27 Interpolação da vazão específica calculada para os poços tubulares. 
+
+36 
+ 
+ 
+5.2 Modelo conceitual do Sistema Aquífero Urucuia 
+ 
+O tratamento dos dados obtidos durante as pesquisas gerou resultados que puderam ser 
+utilizados como subsídio, junto às investigações bibliográficas, para a elaboração de um modelo 
+simplificado do Sistema Aquífero Urucuia.  
+O SAU é considerado um conjunto de aqu íferos que ocorre em arenitos do Grupo 
+Urucuia, unidade geológi ca correspondente ao Cretáceo superior da Bacia Sanfranciscana  
+(Gaspar, 2006) , com espessura variando entre 25m e 600m (Gaspar et al . 2012) . O Grupo 
+Urucuia é subdividido nas formações Posse  e Serra das Araras . A inferior, Fm. Posse, é 
+caracterizada por arenitos de origem eólica na fácies 1 e de sistema fluvial entrelaçado na fácies 
+2. Enquanto a inferior, denominada Fm. Serra das Araras, é descrita como arenitos de origem 
+fluvial com estratificações plano paralelas e cruzadas de pequeno porte, com níveis silicificados 
+(Campos & Dardenne 1997a). 
+Rodrigues et al.  (2009) considera a ocorrência de dois aquíferos, um na  camada 
+litológica inferior, Aquífero Posse, que apresenta transmissividade na ordem de 10 -2 m²/s e 
+coeficiente de armazenamento de 10 -4, caracterizado como semiconfinado; e o aquífero da 
+camada superior Serra das Araras, com transmissividade da ordem de 10-3 m²/s, condutividade 
+hidráulica horizontal de 5 x 10-5 m/s e vertical de 8 x 10-5 m/s, indicando dupla porosidade.  
+Os valores da transmissividade calculados através dos dados do SIAGAS geraram 
+valores da ordem de 10 -5 a 10-2 m²/s. No entanto, é possível observar através dos mapas de 
+interpolação, que os valores mais altos desse parâmetro coincidem com locais onde estão mais 
+concentrados os poços para irrigação, que são os mais profundos e suas vazões são mais 
+elevadas. O que pode indicar que estes atingem a camada mais profunda, o Aquífero Posse, 
+com transmissividades mais altas.  
+A figura 28 mostra o modelo conceitual do SAU na Bahia com suas principais feições.
+37 
+ 
+ 
+ 
+ 
+Figura 28 Modelo conceitual do SAU no estado da Bahia. O tom verde escuro corresponde à Fm. Serra da Araras e o verde claro à Fm. Posse. 
+ 
+
+38 
+ 
+ 
+6 CONCLUSÕES 
+Através da análise de dados secundários proposta pelo presente trabalho, foi possível 
+detectar um número significativo de lacunas nas informações disponibilizadas. Essas lacunas 
+dificultam a disponibilidade de ferramentas para gestão adequada do aquífero. 
+Além da ausência de informação, alguns dados apresentaram valores discrepantes, que 
+diminuiriam a credibilidade dos resultados do estudo. Portanto, fez-se necessária uma análise 
+individual de cada caso, para que os valore s que apresentassem inconsistência fossem 
+eliminados. 
+Após a consolidação dos dados disponibilizados por bancos públicos, foram elaborados 
+gráficos e mapas de distribuição das informações afim de tornar mais clara a visualização do 
+comportamento de cada parâmetro na área de estudo.  
+A análise permite observar que a maioria dos poços estão concentrados na porção 
+centro-ocidental da região estudada. Um dos possíveis motivos para a carência de informações 
+de poços tubulares na porção norte pode ser por se tratar de fronteira da expansão agrícola e na 
+região prevalecer a agricultura de sequeiro.   
+Outra observação importante obtida através da análise dos dados foi a comparação do 
+volume d’água explotado para cada finalidade. Os resultados indicam que apesar do número de 
+poços para abastecimento humano superar a quantidade para irrigação, a somatória do volume 
+explotado indica que o agronegócio é responsável por sua imensa maioria, já que utilizam poços 
+de altas vazões e altas profundidades. 
+Através dos mapas de i nterpolação foram ob servadas características com relação ao 
+fluxo, que ocorre em quase toda área na direção SW-NE; além da transmissividade do aquífero, 
+sendo observada uma variedade desses valores.  
+O monitoramento de corpos hídricos subterrâneos é fundam ental para a gest ão dos 
+mesmos. A consolidação, análise e interpretação dos dados hidrogeológicos existentes, 
+somados a pesquisa bibliográfica foram subsídio para uma caracterização hidrogeológica, 
+importante para o planejamento e gestão do aquífero. 
+ 
+ 
+ 
+ 
+39 
+ 
+ 
+7 REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+BARBOSA, N. S.; LEAL, L. R. B.; BARBOSA, N. S.; MELLO, J. C.; SANTOS, C. B.; LIMA, 
+O. A. L. 2014 Caracterização geométrica e hidráulica do Sistema Aquífero Urucuia Meridional 
+com base em testes de aquífero e levantamentos geofísicos elétricos ... 
+BONFIM, L.F.C., GOMES, R.A.A.D., 2004. Aqüífero Urucuia – Geometria e Espessura: Idéias 
+para Discussão. In: Congresso Brasileiro de Águas Subterrâneas, XX, Cuiabá (MT), 
+Anais. 1 CD-ROM.  
+CAMPOS J.E.G. e DARDENNE, M.A. 1997a. Estratigrafia e sedimentação da bacia São 
+Franciscana: uma revisão. Revista Brasileira de Geociências, v.27, p.269-282. 1997.  
+CAMPOS, J.E.G.;  DARDENNE, M.A . 1997b. Origem e evolução tectônica da 
+Bacia Sanfranciscana. Revista Brasileira de Geociências, 27(3): 283-294  
+CAMPOS, J. E. & DARDENNE, M. A. 1994. A Glaciação  Neopaleozóica na Porção 
+Meridional da Bacia Sanfranciscana. Revista Brasileira de Geociências, 24 (2): 65-76  
+CAMPOS, J. E. G. 1992. A Glaciação Permo-Carbonífera nas regiões de Canabrava e Santa Fé 
+de Minas – MG. Dissertação de Mestrado, Universidade de Brasília. 104 p.  
+CPRM, Companhia de Pesquisa de Recursos Minerais 2012, Projeto Rede Integrada de 
+Monitoramento das Águas Subterrâneas: Relatório Diagnóstico Sistema Aquífero Ur ucuia. 
+Bacia sedimentar Sanfranciscana. 43 p, il. v.10, Belo Horizonte, 2012 
+DARDENNE M.A. 1978. Síntese sobre a estratigrafia do Grupo no Brasil Central.  In: SBG, 
+Congresso Brasileiro de Geologia, 30. Recife, 1978. Anais.... 2,: p.597-610.   
+DÁVILA C. A. R.; KUYUMJIAN R. M.  Mineralizações de Ouro o tipo Orogênico em Arco 
+Magmático Paleoproterozóico, Borda Oeste do  Cráton São Francisco, Regiões de São 
+Domingos (Go) e Correntina (Ba). Revista Brasileira de Geociências, v. 37, n. 02, p. 187 -198, 
+2005. ISSN 0375-7536 
+GASPAR, M.T.P. Sistema Aquífero Urucuia: Caracterização Regional e Propostas de Gestão. 
+2006. 158 f. Tese (Doutorado), Instituto de Geociências, Universidade de Brasília, Brasília. 
+2006.  
+GASPAR M.T.P. & CAMPOS J.E.G. 2007. O Sistema Aquífero Urucuia. Revista Brasileira de 
+Geociências, 37(4):216-226.  
+GÓES, A. M. O. & FEIJÓ, F. J. 1994. Bacia do Parnaíba. Boletim de Geociências da Petrobrás, 
+8 (1): 57-67.  
+GONÇALVES, R. D.; ENGELBRECHT, B. Z.; CHANG, H. K.  Evolução da Contribuição do 
+Sistema Aquífero Urucuia para o Rio São Francisco, Brasil. Revista Águas Subterrâneas, v. 32, 
+n. 1, p. 1-10, 2018. 
+KÖPPEN W. Climatologia: com um estúdio de los climas de La Tierra. F. de Cultura. México. 
+478p. 1948. 
+40 
+ 
+ 
+NASCIMENTO, Flávia M. F.; CARVALHO, José Emílio; PEIXINHO, Frederico Claudio. 
+Sistema de Informações de Águas Subterrâneas - SIAGAS: Histórico, Desafios e Perspectivas. 
+In: Anais, XV Congresso Brasileiro de Águas Subterrâneas, 2008.  
+RODRIGUES, Z. R C., Maia, P. H. P., Lima, C. E. S.; Araújo, V. M.; Cruz, L. V. M. 2009. 
+Hidrodinâmica do Sistema Aquífero Urucuia e Seu Rebatimento Para A Gestão Da Água Na 
+Região Oeste Do Estado Da Bahia. I Congresso Internacional de Meio Ambiente Subterrâneo. 
+ROSA, M. L. S.; CONCEIÇÃO, H.; PAIM, M.M.; SANTOS, E. B.; ALVES DA DISVA, F. 
+C.; LEAHY, G. A. S. & BASTOS LEAL, L. R. 1996 Magmatismo potássico/ultrapotássico pós 
+a tardi orogênico (associado a subducção) no oeste da Bahia: batótilo monzo -sienítico de 
+Guanambi-Urandi e os Sienitos de Correntina. Geochimica Brasiliensis, 10 (1):27-42. 
+SCHUSTER H.D.M, SILVA F.F., TEIXEIRA S.L., BATISTA L.H.G. & FREITAS  W.A. 
+2002. Estudos  Hidrogeológicos do Aqüífero Urucuia no Oeste baiano para Obtenção de 
+Parâmetros nas outorgas de mananciais Subterrâneos. In: ABAS, Congresso Brasileiro de 
+Águas Subterrâneas, 12, Santa Catarina, CD-ROM. 
+SGARBI G.N.C. 1989. Geologia da Formação Areado, Cretáceo Médio a Inferior da Bacia do 
+São Francisco, oeste do Estado de Minas Gerais . Dissertação de Mestrado, Universidade 
+Federal do Rio de Janeiro. Rio de Janeiro, 324p.  
+SGARBI, G. N. C.; SGARBI, P. B. de A.; CAMPOS, J. E. G.; DARDENNE, M. A. & PENHA, 
+U. C. 2001. Bacia  Sanfranciscana: O Registro  Fanerozóico da Bacia do São Francisco. In 
+PINTO, C. P. & MARTINS -NETO, M. A. Bacia do São Francisco: Geologia e Recursos 
+Naturais. SBG/MG – Belo Horizonte, p. 93-138.  
+SPIGOLON, A.L.D.; ALVARENGA, C.J.S. 2002. Fácies e elementos arquiteturais resultantes 
+de mudanças climáticas em um ambiente de sértico: Grupo  Urucuia (Neocretáceo), 
+Bacia Sanfranciscana, Brasil. Revista Brasileira de Geociências (2002), 32(4): 397 - 405.  
+VAZ, P.K. et al. 2007. Bacia do Parnaíba. Boletim de Geociências da Petrobrás, Rio de Janeiro, 
+15:253-263.

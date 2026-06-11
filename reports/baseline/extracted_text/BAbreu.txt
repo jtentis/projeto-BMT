@@ -1,0 +1,2436 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+ESCOLA DE COMUNICAÇÃO 
+CENTRO DE FILOSOFIA E CIÊNCIAS HUMANAS 
+JORNALISMO 
+ 
+ 
+ 
+ 
+ 
+ 
+COMUNICAÇÃO DE CRISE: O CASO TAM 402 
+ 
+ 
+ 
+ 
+ 
+BRUNA CANTANHÊDE DE ABREU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RIO DE JANEIRO 
+2016 
+
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+ESCOLA DE COMUNICAÇÃOCENTRO DE FILOSOFIA E CIÊNCIAS 
+HUMANAS 
+JORNALISMO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMUNICAÇÃO DE CRISE: O CASO TAM 402 
+ 
+Monografia submetida à Banca de Graduação como 
+requisito para obtenção do diploma de  
+Comunicação Social/ Jornalismo.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BRUNA CANTANHÊDE DE ABREU 
+ 
+Orientadora: Profa. Dra. Gabriela Nóra Pacheco Latini 
+ 
+ 
+ 
+RIO DE JANEIRO 
+2016  
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+ESCOLA DE COMUNICAÇÃO 
+ 
+ 
+TERMO DE APROVAÇÃO 
+ 
+ 
+A Comissão Examinadora, abaixo assinada, avalia a Monografia Comunicação de 
+crise: o caso TAM 402, elaborada por Bruna Cantanhêde de Abreu.  
+ 
+ 
+Monografia examinada: 
+Rio de Janeiro, no dia   ........./........./.......... 
+ 
+Comissão Examinadora: 
+ 
+ 
+Orientadora: Gabriela Nóra Pacheco Latini 
+Doutora em Comunicação e Cultura Universidade Federal do Rio de Janeiro 
+Departamento de Comunicação – UFRJ 
+ 
+ 
+ 
+Profa. Marialva Carlos Barbosa 
+Doutora em História pela Universidade Federal Fluminense 
+Departamento de Comunicação – UFRJ 
+ 
+ 
+ 
+Prof. Fernando Ewerton Fernandez Júnior 
+Doutor em Ciência da Informação pela Universidade Federal do Rio de Janeiro 
+Departamento de Comunicação – UFRJ 
+ 
+ 
+ 
+RIO DE JANEIRO 
+2016 
+FICHA CATALOGRÁFICA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABREU, Bruna Cantanhêde.  
+ Comunicação de crise: o caso TAM 402. Rio de Janeiro, 2016.  
+ 
+ Monografia (Graduação em Comunicação Social/ Jornalismo) – 
+Universidade Federal do Rio de Janeiro – UFRJ, Escola de Comunicação 
+– ECO. 
+ 
+ Orientadora: Gabriela Nóra Pacheco Latini 
+ 
+ABREU, Bruna Cantanhêde. Comunicação de crise: caso TAM 402. Orientadora: 
+Gabriela Nóra Pacheco Latini Rio de Janeiro: UFRJ/ECO. Monografia em Jornalismo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESUMO 
+ 
+Este trabalho pretende apresentar os principais conceitos e reflexões relacionados às crises 
+de imagem, e suas consequências e efeitos na comunicação organizacional de uma 
+empresa. Para isso, foi estudada a importância dos boatos para a disseminação das crises, 
+como age a mídia em uma crise e, mais importante, como a internet mudou e continua 
+mudando a forma como crises de imagem acontecem e são gerenciadas.  O caso do voo 
+TAM 402, que caiu em 1996 em São Paulo, e gerou a maior crise de imagem   da aviação 
+civil brasileira. O caso, considerado um sucesso de gerenciamento de crise será analisado 
+através do vice-presidente da companhia e porta-voz do gerenciamento, Luís  Eduardo de 
+Falco, em depoimento ao pesquisador Mário Rosa, em seu livro “A Era do Escândalo”. 
+Através desse caso, será feita, então, uma comparação com casos de gerenciamento de 
+crises atuais, para se entender quais foram as mudanças que ocorreram na comunicação de 
+crise nos últimos vinte anos. 
+ 
+  
+AGRADECIMENTOS 
+ 
+Gostaria de agradecer, primeiramente, a todos os professores da Escola de 
+Comunicação da Universidade Federal do Rio de Janeiro, que me transmitiram o 
+conhecimento e inspiração necessários para que esse estudo se tornasse realidade. Sei que 
+tenho ainda um longo caminho a frente, mas cada um de meus professores teve 
+participação na pessoa que sou hoje e que serei no futuro. Muito obrigada por permitirem 
+que eu possa expandir meus horizontes e compreender um pouquinho mais desse mundo 
+enorme que me aguarda lá fora.  
+Agradeço, principalmente, à minha professora orientadora, Gabriela Nóra, que 
+desde o início me manteve positiva e acreditou no meu esforço. Monografias são difíceis, 
+mas quando você tem uma pessoa que te apoia e te ajuda a crescer, fica tudo mais fácil. A 
+trajetória foi longa, mas com toda a assistência e atenção, foi divertida e prazerosa. 
+Agradeço muito a todos os meus amigos e à minha família, que desde sempre acreditaram 
+que minha formação seria possível. Isso aqui tem um pouquinho de cada um de vocês, e 
+não seria possível sem cada pedacinho. Muito obrigada por me ouvirem, me darem carinho 
+e atenção quando eu precisava - e chamar minha atenção também!  
+Não tenho uma religião específica, mas agradeço a Deus e a todas as forças divinas 
+que iluminaram meu caminho e me ajudaram a enxergar o que estava à frente. Ainda tenho 
+muito o que percorrer, mas chegar até aqui já é uma vitória muito grande.  
+Por último, agradeço às duas pessoas mais importantes de minha vida: meus pais. 
+Nunca, em nenhum momento de minha trajetória, me senti desamparada e perdida, pois 
+sempre soube que teria um lugar para onde retornar. Vocês me deram todo amor, toda a 
+compreensão e toda a liberdade que eu preciso para seguir minha vida, e o cumprimento 
+dessa etapa só foi possível por causa de vocês. Muito obrigada, mamãe, por todos os 
+conselhos. Muito obrigada, papai, por sempre me impulsionar no caminho certo. Vocês são 
+minha vida.  
+Muito obrigada ao passado, por me trazer até aqui. E que venha o futuro! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Um problema ignorado é uma crise convidada a entrar” 
+ 
+Henry Kissinger, ex-Secretário de Estado dos Estados Unidos. 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+1. INTRODUÇÃO ............................................................................................................... 1 
+2. CONTEXTUALIZAÇÃO: A TAM E OS DESASTRES AÉREOS ............................ 5 
+2.1. A história da TAM ...................................................................................................... 5 
+2.2. Hoje: a LATAM .......................................................................................................... 7 
+2.3. Posicionamento de marca ........................................................................................... 8 
+3. O QUE É CRISE? ......................................................................................................... 10 
+3.1. Afinal, o que é uma crise de imagem? ...................................................................... 11 
+3.2. Identidade, imagem e reputação ............................................................................... 14 
+3.2.1. O que é a identidade de uma organização? ........................................................ 14 
+3.2.2. O que é a imagem de uma organização? ............................................................ 15 
+3.2.3. O que é a reputação de uma organização? ......................................................... 17 
+3.3. De quem as crises gostam? ....................................................................................... 19 
+3.4. Prevenção e gestão dos riscos ................................................................................... 22 
+4. AS CRISES E OS BOATOS ......................................................................................... 24 
+4.1. Por que a mídia gosta tanto de crise? ........................................................................ 24 
+4.2. Os boatos e a mídia ................................................................................................... 26 
+4.2.1. Por que as pessoas acreditam em boatos? .......................................................... 27 
+4.2.2. Os boatos, a mídia e a credibilidade da informação ........................................... 29 
+4.3. “O antídoto contra as especulações é a informação” ................................................ 31 
+4.3.1. Os problemas de comunicação interna ............................................................... 35 
+4.3.2. Como a comunicação pode ajudar a evitar esses problemas? ............................ 36 
+5. AS CRISES E A INTERNET ....................................................................................... 38 
+5.1. Como a internet influencia as crises de imagem? ..................................................... 38 
+5.2. As novas fontes da internet ....................................................................................... 42 
+5.3. De que forma a internet altera a imagem e a reputação de uma organização? ......... 44 
+5.4. A internet pode ser uma aliada? ................................................................................ 45 
+6. O CASO TAM 402 ......................................................................................................... 48 
+6.1. O gerenciamento da crise .......................................................................................... 48 
+6.1.1. Os primeiros passos ............................................................................................ 49 
+6.1.2. Cadê o manual? .................................................................................................. 51 
+6.1.3. O desfecho .......................................................................................................... 52 
+6.2. Como foi feito 20 anos depois? ................................................................................ 54 
+6.2.1. O caso Germanwings ......................................................................................... 54 
+6.2.2. Um gerenciamento conectado ............................................................................ 55 
+7. CONSIDERAÇÕES FINAIS ........................................................................................ 59 
+8. BIBLIOGRAFIA ........................................................................................................... 62 
+1 
+ 
+INTRODUÇÃO 
+ 
+Uma empresa de reputação sólida e em pleno crescimento. Um desastre com 
+consequências trágicas. Informações desencontradas. Uma crise de imagem não precisa de 
+mais ingredientes do que isso para tomar forma. Em uma típica manhã de São Paulo, com 
+céu nublado e cinza, o sol se abria ainda tímido (uma frente fria forte que se instalara na 
+cidade na semana anterior se dissipava aos poucos). O tempo frio parecia estar, enfim, 
+dando uma trégua. Parecia mais um dia normal, mas o 31 de outubro de 1996 entrou para a 
+história da aviação brasileira. 
+No aeroporto de Congonhas, na zona Sul da cidade, tudo funcionava conforme 
+planejado. O voo TAM 402 saiu do solo às 8h28 da manhã, com destino ao Rio de Janeiro. 
+Entretanto, o voo estimado para chegar em 50 minutos durou apenas 25 segundos: antes 
+mesmo de terminar a decolagem, o avião caiu na Vila Catarina, no bairro do Jabaquara, e 
+explodiu ao atingir o solo. Foram 98 mortos – 90 passageiros, seis tripulantes e dois 
+moradores.  O que estava por vir foi uma das maiores crises que a companhia aérea 
+brasileira viveu em sua história. 
+A crise vivida pela TAM em 1996 não foi nem a primeira e nem a última crise de 
+imagem vivida por uma empresa. Contudo, foi a primeira grande crise de imagem da 
+aviação aérea brasileira. Nos últimos anos, esse tipo de crise se tornou cada vez mais 
+frequente – e suas repercussões, maiores. Nesse estudo, será feita uma análise do 
+gerenciamento da crise vivida pela TAM, desde os primeiros passos, minutos após o 
+acidente, até a sua conclusão. A análise será feita através do depoimento do então vice-
+presidente da TAM, Luís Eduardo de Falco, ao pesquisador Mário Rosa, em seu livro “A 
+Era do Escândalo”. 
+Quase vinte anos depois do acidente vivido pela TAM, a queda de outra aeronave 
+capturou a atenção do mundo. No dia 24 de março de 2015, o voo da companhia aérea 
+alemã Germanwings foi derrubado intencionalmente pelo piloto nos Alpes Franceses, 
+matando todas as 150 pessoas a bordo. Novamente, a crise vivida por uma companhia 
+aérea colocou em risco a sua existência. Porém, o caso também foi considerado um sucesso 
+em relação à imagem da empresa. 
+2 
+ 
+Esse estudo tentará compreender, portanto, o que mudou em vinte anos? Com o 
+surgimento e popularização da internet, em plena era da visibilidade, em que todos podem 
+se informar sobre o que está ocorrendo no mundo, o que muda no gerenciamento das crises 
+de imagem? Será feito um paralelo entre o gerenciamento das duas crises, através dos 
+depoimentos de Falco e do representante da empresa Burson-Marsteller, consultoria 
+responsável por gerir a crise vivida pela companhia alemã. 
+Antes das análises, esse estudo se propõe, também, a trazer explicações sobre o que 
+é uma crise de imagem, como elas acontecem e quais os efeitos delas no futuro das 
+empresas, principalmente para seus stakeholders.1Além disso, tentará explicar o efeito que 
+a internet tem sobre as crises de imagem em nossa atualidade, e como sua presença muda 
+toda a dinâmica de uma empresa em crise. Também será abordado o conceito de imagem e 
+reputação de uma empresa, e o porquê de elas serem o motivo pelo qual crises de imagem 
+são tão perigosas. 
+A comunicação tem um papel fundamental no gerenciamento das crises, pois ela é 
+o vínculo entre o público e a organização. Esse estudo pretende, portanto, entender melhor 
+qual a participação da comunicação e como ela pode ajudar a tornar uma crise de imagem 
+uma ameaça à organização ou até uma oportunidade. Além disso, o estudo pretende 
+compreender melhor o que é papel da comunicação e até onde ela pode ir durante uma 
+crise de imagem. 
+Para o desenvolvimento do presente trabalho serão utilizadas pesquisas 
+bibliográficas e o de estudo de caso. A pesquisa bibliográfica baseou-se em publicações 
+científicas da área de comunicação, com destaque às publicações dos autores Mário Rosa e 
+de João José Forni. O estudo de caso foi desenvolvido através dos depoimentos dos 
+gestores das crises e notícias a respeito dos acidentes da TAM e da Germanwings, e 
+também a comparação das estratégias utilizadas em ambos os casos. 
+                                                           
+1Stakeholders: Stakeholder significa público estratégico e descreve uma pessoa ou grupo que fez um 
+investimento ou tem ações ou interesse em uma empresa, negócio ou indústria. Em inglês stake significa 
+interesse, participação, risco. Holder significa aquele que possui. Assim, stakeholder também significa parte 
+interessada ou interveniente. São stakeholders todos os interessados no que a organização faz, incluindo 
+nesse grupo a mídia. (Disponível em: http://ogerente.com/stakeholder/2007/02/23/o-que-e-um-stakeholder. 
+Acesso em: 08 de julho de 2016) 
+ 
+3 
+ 
+No primeiro capítulo, será feita uma breve contextualização da TAM, sua história e 
+seus valores, desde seu surgimento até os dias de hoje. Nascida em 1961, a TAM é hoje a 
+maior companhia aérea brasileira, e o acidente com o voo 402 teve impacto importante em 
+sua história. Hoje, após uma fusão com a chilena LAN, é a maior companhia aérea da 
+América Latina. Nesse capítulo, portanto, será contada a sua trajetória desde que se 
+chamava Transporte Aéreo Marília, nos anos 1960, até o nascimento da LATAM, em 
+2012.  
+No capítulo seguinte, será feita uma análise do que é uma crise de imagem, o que 
+sua repercussão pode causar em uma empresa, como elas agem e como podem destruir 
+uma reputação em poucos minutos. Além disso, serão explicados os conceitos de imagem, 
+reputação e identidade de organizações. Ademais, também será feita uma análise de quem 
+são as maiores vítimas das crises de imagem, como elas as escolhem e quais os principais 
+erros das organizações que as levam a sofrer com crises tão perigosas. Por último, uma 
+breve explicação sobre a gestão dos riscos, e como evitar as crises. Este capítulo é 
+fundamental na composição do trabalho, pois alicerça as bases que permitirão pensar sobre 
+o tema central da pesquisa: a comunicação de crise. 
+No terceiro capítulo serão abordados os boatos, e quais os efeitos – tanto internos, 
+quanto externos – que eles têm em uma organização em crise. Primeiramente, será dada 
+uma breve explicação sobre o porquê de as crises chamarem tanta atenção da mídia, e 
+como os boatos surgem a partir disso. Depois será feita uma análise dos motivos pelos 
+quais as pessoas acreditam em boatos e porque eles têm tanto poder. Para encerrar o 
+capítulo, o trabalha irá tratar dos problemas que os boatos podem trazer para a 
+comunicação da empresa, tanto para seu público interno e seus stakeholders, quanto para o 
+público externo. 
+No quarto capítulo, será discutido o papel da internet nas crises de imagem, e como 
+sua popularização fez com elas se tornassem ainda maiores e mais nocivas. Serão 
+discutidas nesses capítulos as novas fontes da internet, e como ela propiciou que o cidadão 
+comum se tornasse propagador de notícia, a credibilidade dessa nova fonte, e de que forma 
+essas novas fontes podem apresentar um risco para a empresa. Além disso, será discutido 
+como a comunicação de uma empresa pode usar a internet como aliado no processo do 
+gerenciamento de uma crise. 
+4 
+ 
+No quinto e último capítulo, será feita a análise de caso do voo TAM 402, suas 
+repercussões e seu gerenciamento, desde os primeiros momentos do acidente, até o 
+momento em que a TAM recebeu o prêmio de melhor empresa de 1997, pela revista 
+Exame. Será feita, também, a análise do gerenciamento da companhia aérea Germanwings, 
+que foi feito quase vinte anos depois, em meio ao mundo interconectado da internet. Por 
+último, será feita a tentativa entender quais as principais diferenças na estratégia de 
+gerenciamento de crise 20 anos depois da crise gerada pelo TAM 402. 
+  
+5 
+ 
+CONTEXTUALIZAÇÃO: A TAM E OS DESASTRES AÉREOS 
+ 
+Para compreender a importância do acidente do voo 402 para a aviação nacional e 
+entender por que ele é considerado um caso de sucesso em relação às crises de imagem e à 
+comunicação organizacional, é essencial conhecer a trajetória da companhia aérea que 
+viveu a tragédia. A história da TAM começou nos anos 1960 e passou por altos e baixos. 
+Em 2016, a TAM se fundiu com a companhia aérea LAN Chile, formando a LATAM 
+Airlines Group S.A. Hoje, com mais de 50 anos de estrada, a LATAM é a líder do mercado 
+de aviação no Brasil a na América Latina. 
+1.1. A história da TAM2 
+A TAM é uma das maiores e mais antigas companhias aéreas brasileiras. Foi 
+fundada em 1961, como Táxi Aéreo Marília, época em que tinha apenas dez aviões 
+monomotores. Em seus primeiros anos, operava localmente, entre o Paraná, São Paulo e 
+Mato Grosso, fazendo transporte de cargas, malotes e passageiros. Em 1971, o comandante 
+Rolim Amaro, que já havia trabalhado como piloto em anos anteriores, adquiriu 33% das 
+ações e se tornou sócio minoritário da companhia. Um ano depois, Rolim adquiriu metade 
+das ações e assumiu a direção da empresa. Em 1976, a Táxi Aéreo Marília passou a se 
+chamar Transporte Aéreo Meridional – ou, apenas, TAM. O comandante foi por muito 
+tempo o rosto da companhia, e foi responsável por boa parte do seu crescimento. 
+Nos anos 1980, a TAM expandiu suas rotas, e passou a voar para todas as regiões 
+do Brasil. Ainda nessa década, a companhia aérea fechou contrato com a empresa 
+holandesa fabricante de aeronaves Fokker, e passou a utilizar aviões Fokker-27 em sua 
+frota. Esses aviões possibilitaram que a empresa carregasse mais passageiros e se colocasse 
+na lista das grandes companhias aéreas do Brasil. Em 1990, passou a usar os aviões de 
+modelo Fokker-100, que eram aeronaves maiores e com potencial para voos mais longos. 
+Os anos 1990 representaram os anos de maior crescimento da TAM. Na época, seus 
+principais concorrentes eram a Vasp, a Varig e a Transbrasil. O seu número de passageiros 
+crescia rapidamente. Em 1993, a companhia lançou o primeiro programa de fidelidade da 
+América Latina, o TAM Fidelidade. Em 1996, a TAM iniciou suas rotas internacionais, 
+voando para países da América do Sul, em aliança com a LAN Chile e a TACA, hoje 
+                                                           
+2 Informações retiradas do blog: http://www.aviacaocomercial.net/tam.htm. Acesso em: 02/07/2016 
+6 
+ 
+chamada Avianca. Em 1998, fez seu primeiro voo para os EUA e, um ano depois, fez uma 
+aliança com a Air France para oferecer trechos para a Europa. Durante a década de 1990, a 
+TAM se tornou a segunda maior companhia aérea do Brasil, ainda atrás da Varig, e foi 
+eleita a melhor empresa brasileira do ano de 1997 pela revista Exame, um ano após viver 
+sua primeira grande crise de imagem. 
+Durante os anos 2000, a companhia aérea seguiu com sua expansão. Passou a 
+operar aeronaves da empresa francesa Airbus, mais modernos e maiores dos que os Fokker, 
+e começou a voar com seus próprios aviões para a Europa. Em 2006, com a Varig 
+afundada em dívidas, a TAM passou a ser a maior companhia aérea do Brasil e da América 
+Latina. A essa altura, surgia uma nova concorrente que crescia rapidamente, a Gol Linhas 
+Aéreas. Por apresentar passagens de baixo custo, a Gol passou a tirar passageiros da TAM, 
+que foi obrigada a tomar medidas de redução de custos para recuperar os passageiros 
+perdidos. Com isso, reestruturou suas aeronaves e tirou as classes executivas de voos 
+domésticos, para aumentar a capacidade de pessoas por voo. 
+Em 2008, a TAM passou a ser a maior companhia aérea do Hemisfério Sul. Em 
+2010, se tornou membro da Star Alliance, representando a América Latina. A Star Alliance 
+é a maior aliança de empresas aéreas do mundo, com representantes de todos os 
+continentes. Sua principal concorrente, a Gol Linhas Aéreas continuou a crescer e 
+apresentar risco à posição da TAM como maior companhia aérea brasileira. Entretanto, 
+após a fusão com a LAN, a LATAM reforçou sua posição como maior empresa de aviação 
+do Brasil e da América Latina. 
+O principal valor prezado pela TAM sempre foi o tratamento do cliente em 
+primeiro lugar, e foi a característica que mais atraiu clientes ao longo de sua trajetória. O 
+comandante Rolim Amaro foi o principal contribuinte para esse fator. Desde que entrou na 
+companhia, priorizava o atendimento personalizado de cada passageiro – às vezes, 
+pessoalmente, pois Rolim Amaro continuou a pilotar aviões mesmo depois de assumir a 
+presidência da empresa. Durante os anos 1990, a TAM era conhecida pelo tapete vermelho 
+que era esticado para que os passageiros adentrassem em suas aeronaves. Tais diferenciais 
+levavam o passageiro a escolher a companhia independente dos preços mais caros em 
+relação às demais – característica que mudou após a reformulação das aeronaves, para 
+acirrar a competição com a Gol. 
+7 
+ 
+Em sua trajetória, a TAM teve três desastres aéreos com mortos que abalaram sua 
+imagem – dois dos quais estão na lista dos maiores acidentes aéreos da história da aviação 
+brasileira (os acidentes que ocorreram em 1996 e em 2007). Além disso, as aeronaves 
+Fokker-100, que por muito tempo foram as principais da empresa, apresentaram muitas 
+falhas técnicas e incidentes que colocaram em questionamento a segurança de voar pela 
+TAM. Apesar de já não utilizar mais aviões da Fokker, ainda hoje a companhia sofre as 
+consequências reputacionais desses acidentes. 
+O primeiro acidente com mortos na história da TAM completa 20 anos em 2016. O 
+voo TAM 402, cujo gerenciamento será analisado nesse estudo, caiu em São Paulo, no 
+aeroporto de Congonhas, no dia 31 de outubro de 1996, e registrou 98 fatalidades. O 
+segundo desastre foi menos de um ano depois, em julho de 1997. O voo TAM 283 partiu 
+de Vitória com destino a São Paulo, e escala em São José dos Campos. Na última parte do 
+voo, uma bomba foi detonada no compartimento de bagagens do avião, e ocasionou a 
+morte de um passageiro. Apesar de não ter sido por falhas técnicas, foi registrada uma 
+falha de segurança que permitiu a entrada de uma bomba na aeronave. 
+O mais recente acidente aéreo sofrido pela TAM ocorreu em 2007, e é o maior 
+acidente aéreo envolvendo uma companhia brasileira. Também em Congonhas, São Paulo, 
+o voo 3054, que iniciara viagem em Porto Alegre, pousou no aeroporto às 18h54min, 
+ultrapassou o fim da pista de pouso e se chocou com o prédio da TAM Express. O 
+combustível do avião fez com que o prédio iniciasse um incêndio de grandes proporções. 
+Foram 199 mortos, dos quais 12 estavam em solo. 
+1.2. Hoje: a LATAM3 
+Desde o início dos anos 2000, a TAM e a LAN Chile operavam em parceria na 
+América do Sul. No dia 13 de agosto de 2010, as companhias aéreas anunciaram a fusão de 
+suas operações, formando, assim, a maior companhia aérea da América Latina e a décima 
+primeira maior companhia do mundo (em relação a número de passageiros). A decisão, 
+que dependia da autorização da Agência Nacional de Aviação Civil (ANAC), foi 
+oficializada dois anos depois. No dia 22 de junho de 2012, nascia a LATAM, com o slogan 
+“Juntos, mais longe”, e duas sedes oficiais, uma em São Paulo e uma em Santiago, no 
+Chile. Em nota à imprensa, Marco Bologna, CEO da TAM, afirmou que: 
+                                                           
+3 Disponível em: https://pt.wikipedia.org/wiki/LATAM_Airlines_Brasil. Acesso em: 02/07/2016 
+8 
+ 
+A consolidação das nossas forças e malhas complementares trará grandes 
+benefícios para os nossos clientes, funcionários, acionistas e para a 
+América Latina. Juntas, LAN e TAM oferecerão novos destinos para 
+onde nenhuma das companhias poderia voar individualmente. Isto nos 
+posicionará para competir com as companhias aéreas estrangeiras que 
+continuam aumentando suas participações na região, além de nos permitir 
+criar mais empregos em nossos países de origem.4 
+ 
+No dia 6 de agosto de 2015, o grupo divulgou a nova marca comercial LATAM e 
+iniciou a unificação gradual de suas atividades, porém sem alteração nos nomes de razão 
+social de nenhuma das companhias. Em março de 2016, o grupo unificou os seus 
+programas de fidelidade, o TAM Fidelidade e o Lan Pass, formando o LATAM Fidelidade, 
+no Brasil, e o LATAM Pass, no Chile; também foram unificadas as agências de viagem das 
+companhias, agora chamadas LATAM Travel e as empresas de transporte de carga, agora 
+chamadas LATAM Cargo. 
+Em maio de 2016, decolava o primeiro voo com a marca LATAM, que partiu do 
+Rio de Janeiro com destino a Genebra, para buscar a tocha olímpica e trazê-la para o Rio 
+de Janeiro, para os jogos olímpicos Rio 2016. Os três primeiros voos comerciais com 
+aeronaves com a marca LATAM fizeram os trajetos São Paulo-Santiago, Santiago-Lima e 
+São Paulo-Brasília. Estima-se que a unificação total da marca levará cerca de três anos. 
+Segundo o site oficial da LATAM, a companhia opera para 140 destinos, em 24 países, e 
+faz serviços de carga para aproximadamente 144 destinos, em 26 países, com uma frota de 
+328 aviões. No total, o LATAM Airlines Group S.A. tem em torno de 53 mil funcionários.5 
+1.3. Posicionamento de marca 
+No lançamento de sua marca, a LATAM divulgou seu novo posicionamento de 
+marca, com sua missão e valores: 
+Nossa missão é conectar as pessoas com segurança, excelência 
+operacional e alegria, buscando ser a companhia aérea preferida dos 
+nossos clientes, fazer com que 2/3 dos passageiros da região voem 
+conosco, e nos tornar uma das três maiores companhias aéreas do mundo. 
+Os valores da nossa Companhia prezam pela segurança em primeiro 
+lugar, o que se reflete na preocupação com nossos clientes e busca pela 
+                                                           
+4Disponível em: http://g1.globo.com/economia-e-negocios/noticia/2010/08/tam-anuncia-acordo-para-fusao-
+com-chilena-lan.html. Data do acesso: 27 de junho de 2016 
+5 Disponível em: http://www.latamairlinesgroup.net/phoenix.zhtml?c=251290&p=irol-homeProfile2. Acesso 
+em: 06/07/2016 
+9 
+ 
+excelência operacional e melhora contínua dos nossos serviços, 
+trabalhando como uma só equipe.6 
+Para atingir essa missão, a empresa traçou um plano estratégico com cinco pilares7, 
+que consistem em: 
+1) Liderança em malha: maximizar a rede de voos e conexões na América do Sul, 
+buscando oferecer a melhor opção aos passageiros e criando a melhor oferta de 
+conectividade da região.  
+2) Marca líder e experiência do cliente: buscar sempre a preferência de escolha entre os 
+clientes, refletindo o diferencial oferecido em experiência de viagem e uso de 
+tecnologias móveis. 
+3) Competitividade de custos: redefinição da estrutura de custos visando aumentar a 
+competitividade, garantindo melhor flexibilidade. 
+4) Pontos fortes da organização: transformar a LATAM em um grupo de pessoas 
+apaixonadas, que trabalham de maneira simples e alinhada e contam com líderes 
+inspiradores, visando oferecer um diferencial de valor aos clientes e criar uma empresa 
+sadia e sustentável. 
+5) Gestão proativa de riscos e acionistas: manter o foco concentrado e responsável nos 
+riscos da tomada de decisões. 
+É possível ver, portanto, através de seu posicionamento de imagem que os 
+principais compromissos da TAM sempre foram priorizar a segurança e integridade de 
+seus passageiros, para que eles voltem a escolhê-la como companhia aérea em sua próxima 
+viagem. Em alguns momentos de sua história, esse discurso de segurança máxima foi 
+questionado, pois justamente por problemas de segurança que acidentes que marcaram a 
+sua história ocorreram.  
+                                                           
+6 Disponível em: http://www.latamairlinesgroup.net/phoenix.zhtml?c=251290&p=irol-strategy. Data do 
+acesso: 27 de junho de 2016 
+7Disponível em: http://www.latamairlinesgroup.net/phoenix.zhtml?c=251290&p=irol-strategy. Data do 
+acesso: 27 de junho de 2016. 
+10 
+ 
+O QUE É CRISE? 
+ 
+A palavra crise é vista por muitos como um tabu, cuja simples menção deve ser 
+evitada. Seu nome carrega em si uma conotação negativa. Quanto menos se pensa nela, 
+menor a chance de ela acontecer. Entretanto, é fácil perceber que fechar os olhos pode ser 
+uma medida perigosa, que convida a crise para entrar pela porta da frente. As crises podem 
+vir de várias maneiras e têm potencial destrutivo para uma empresa – seja para as contas de 
+uma organização ou até para a sua imagem. Em 1996, a TAM viveu sua primeira crise de 
+imagem, que deixou sua marca na história da aviação brasileira. 
+Antes, porém, de entender o caso e suas repercussões, é preciso definir o que é 
+efetivamente uma crise. De acordo com Barry J. McLoughlin, CEO da McLoughlin Media, 
+uma das maiores empresas de consultoria de comunicação e media training dos EUA, 
+Uma crise é um evento, uma revelação, uma alegação ou um conjunto de 
+circunstâncias que ameaça à integridade, a reputação ou a sobrevivência 
+de um indivíduo ou organização. Elas desafiam o senso comum de 
+segurança, os valores e adequação do público. Os danos reais ou 
+potenciais são consideráveis, e a organização não pode, sozinha, colocar 
+um fim imediato.8 (MCLOUGHLIN, 2004, p. 3-4) 
+ 
+É muito difícil mapear todas as possibilidades de crises. Em um mundo com tantas 
+organizações públicas e privadas, não há como enumerar todas as formas como as 
+empresas entram em crise. Em sua obra Gestão de Crises e Comunicação, o estudioso de 
+comunicação organizacional e crises de imagem, João José Forni, descreve algumas das 
+várias formas para uma instituição entrar em crise. Algumas delas são: crises de meio-
+ambiente, de controle financeiro, tecnológicas, de serviços públicos, de segurança pública, 
+de gestão, catástrofes naturais, e várias outras. Nesse estudo, iremos tratar de um tipo de 
+crise específico, que pode destruir o futuro de uma empresa: as crises de imagem. (FORNI, 
+2015, p. 36-38) 
+                                                           
+8 Tradução da autora: A crisis is an event, revelation, allegation or set of circumstances which threatens the 
+integrity, reputation, or survival of an individual or organization. It challenges the public's sense of safety, 
+values or appropriateness. The actual or potential damage to the organization is considerable and the 
+organization cannot, on its own, put an immediate end to it. 
+11 
+ 
+1.4. Afinal, o que é uma crise de imagem? 
+Não existe uma definição certa para uma crise de imagem. Qualquer crise traz 
+consigo uma ameaça inerente: a insegurança de não saber o que está por vir. Existe, porém, 
+uma diferença entre crises convencionais e as de imagem. Um acontecimento negativo por 
+si só não representa uma crise. Problemas rapidamente solucionados, pequenos acidentes 
+ou situações delicadas que recebem uma intervenção competente não geram 
+necessariamente uma crise de imagem. Elas têm o potencial, mas, para que a imagem seja 
+posta em cheque, o problema precisa atingir um caráter simbólico. O público precisa se 
+sensibilizar com a situação, para que possa criar seus próprios julgamentos. O conceito de 
+crise de imagem é vago, justamente, pois ela precisa levar em consideração o fator 
+humano. O que causa comoção hoje, pode não gerar tanta comoção amanhã; ou o que foi 
+polêmica ontem, pode parecer banal hoje. (ROSA, 2001, p. 20-22) 
+Esse caráter simbólico é o que faz com que crises sejam inevitáveis. Qualquer 
+pessoa pode viver uma crise de imagem em algum momento de sua vida. Quando vem a 
+público uma história de corrupção, por exemplo, as pessoas se identificam com os lesados. 
+É a ideia de que qualquer um pode ser o próximo. E é por conta desse simbolismo que 
+acontecimentos distantes podem trazer preocupações próximas. “O fato pode até ser 
+distante, mas a preocupação que ele enseja é próxima, faz parte de nosso mundo imediato”, 
+afirma Mário Rosa. (ROSA, ano, p. 26) 
+É importante lembrar que nem todo problema é uma crise – ele tem, porém, 
+potencial para se tornar uma. Todos os dias, empresas enfrentam problemas dos mais 
+variados tipos. Quando bem gerenciados, são apenas parte da rotina. Uma crise é o que 
+foge à rotina da empresa, vira o centro das atenções de todos os stakeholders. Segundo 
+Forni, 
+Crise é um pouco diferente. Tudo parece normal. De repente, surge um 
+problema de tal magnitude para interromper a normalidade das 
+atividades. Desvia o foco, consome energia. Provoca comoção, 
+desestabilização, prejuízos. Atrapalha a rotina diária. Chama a atenção de 
+todos, inclusive da mídia. (FORNI, 2015, p. 3) 
+ 
+De acordo com João José Forni, o que diferencia a crise de uma emergência é o seu 
+potencial de gravidade. As emergências não param as operações, ou, quando param, é de 
+forma rápida e recuperável. A crise compromete os negócios, e ameaça a sua 
+12 
+ 
+sobrevivência. A crise de imagem tem uma tendência para aumentar de intensidade, 
+levando a uma pressão da mídia ou dos órgãos de fiscalização, grupos ativistas, políticos. 
+(FORNI, 2015, p. 10) 
+Crises representam mudanças. Elas mudam o funcionamento da empresa, o seu 
+discurso, a sua forma de abordagem ao público externo. Dessas mudanças podem surgir 
+resultados ruins, como queda na produção, demissões ou até o encerramento das atividades 
+da empresa, ou resultados bons, se suas ações foram proativas e bem vistas pelo público e 
+pela mídia. Apesar de terem uma conotação negativa, crises podem vir como 
+oportunidades. (ORDUÑA, 2003, 140) 
+Um exemplo de oportunidade foi que em 1997, ano seguinte à queda do voo 402, o 
+prêmio “Melhores e Maiores empresas do ano”, ranking publicado anualmente pela revista 
+Exame, colocou a TAM em primeiro lugar como melhor empresa do Brasil daquele ano. A 
+habilidade da companhia aérea em gerenciar as consequências do acidente fez com que ela 
+ocupasse o primeiro lugar em um dos mais importantes rankings empresariais brasileiros. 
+Em seu livro “A Era do Escândalo”, Mário Rosa reproduz o texto publicado na revista 
+“Observatório da imprensa”, em que o diretor de redação da Exame, Paulo Nogueira, 
+defendeu a escolha da TAM como melhor empresa de 1997: 
+Nós, na Exame, nos sentimos absolutamente seguros em relação à 
+escolha da TAM como empresa do ano. Nossa escolha não se deveu 
+apenas aos esplêndidos números da empresa. Mas sobretudo à maneira 
+como ela reagiu à queda do avião em outubro passado. Não é a nossa voz; 
+é a voz do mercado. Como está exposto em nossa reportagem, os 
+passageiros voltaram quase que nos níveis anteriores aos do voo 402 e as 
+ações da TAM se recuperaram inteiramente. (Paulo Nogueira apud 
+ROSA, 2003, p. 67) 
+ 
+O ranking “Melhores e Maiores” da revista Exame é o maior prêmio de excelência 
+empresarial do Brasil, e evidenciou que, se bem gerenciada, uma crise de imagem pode ser 
+uma oportunidade de crescimento e reconhecimento para uma empresa. A exposição 
+gratuita feita pela mídia pode se tornar uma aliada para a divulgação das boas ações das 
+empresas. Para Orduña, 
+Quem vê na crise somente problemas, se esquece de que ela também 
+pode ser uma fonte de oportunidades, que, infelizmente, só podem surgir 
+nesses momentos difíceis. A exposição pública gratuita a que se vê 
+submetida uma empresa quando esta está sofrendo uma crise não será a 
+13 
+ 
+mesma nunca mais. O público estará mais ciente do que o normal sobre o 
+que está acontecendo com uma empresa enquanto continuem os 
+acontecimentos. Nesse sentido, se se gere bem uma crise, se tem a 
+oportunidade de atenuar a negatividade da cobertura midiática e, 
+inclusive, é possível lançar mensagens positivas sobre a empresa, seus 
+produtos e seus serviços.9 (ORDUÑA, 2003, p. 140) 
+ 
+Outro fator importante para que uma emergência possa ser elevada ao nível de crise 
+é a importância que a opinião pública dá ao fato. Segundo Forni, o Institute for Crisis 
+Management (ICM), maior instituto dedicado ao estudo de gerenciamento de crise do 
+mundo, sediado em Denver – EUA, conceitua crise como uma ruptura significativa nos 
+negócios que estimula uma extensa cobertura dos meios de comunicação (ICM apud 
+FORNI, 2015, p.8). Crises de imagem geram o interesse das pessoas, e é aí que está a 
+maior preocupação em seu gerenciamento. Conforme explica Mário Rosa, 
+As crises de imagem são bem particulares, pois se caracterizam por um 
+clima de comoção e por uma ampla difusão de informações, através dos 
+veículos de comunicação. Transcorrem num ritmo e numa evolução 
+acelerada, criando pesadas dificuldades para aqueles que porventura 
+estejam situados em seu epicentro. (ROSA, 2001, p. 22) 
+Por fim, todos esses fatores combinados irão atingir o bem mais importante de qualquer 
+empresa que oferece serviços à população: a sua credibilidade. A reputação e a imagem 
+serão arranhadas enquanto as crises de imagem se desenrolam, e são elas que irão 
+determinar o sucesso ou o fim da instituição atingida, conforme será abordado a seguir. 
+A TAM é uma empresa que prioriza segurança e bom atendimento aos seus 
+clientes, e o acidente do voo 402 colocou em cheque essa filosofia. Para que sua 
+credibilidade fosse mantida, a TAM trabalhou para assegurar que todos os passageiros 
+ainda estavam seguros em suas mãos, e que a segurança e o bom atendimento ainda eram 
+suas prioridades. Para que isso fosse possível, a companhia garantiu que todos os voos 
+após o acidente saíssem, para que a empresa não parasse. Isso fez com que, mesmo 
+enquanto a companhia aérea lidava com os problemas em solo, as pessoas poderiam 
+                                                           
+9 Tradução da autora: Quienes ven en las crisis solamente problemas, se olvidan de que también puede ser 
+una fuente de oportunidades, que, por desgracia, sólo pueden surgir en estos difíciles momentos. La 
+exposición pública gratuita a la que se ve sometida una empresa cuando está sufriendo una crisis no la 
+volverá a obtener nunca. El público estará más pendiente de lo normal sobre lo que ocurra con una empresa 
+mientras continúen los acontecimientos. En este sentido, si se gestiona bien una crisis, se tiene la 
+oportunidad de atenuar el signo negativo de la cobertura mediática e, incluso, es posible lanzar mensajes 
+positivos sobre la empresa, sus productos y servicios. 
+14 
+ 
+confiar que chegariam em segurança aos seus destinos. Conforme relata Rosa, em pouco 
+tempo, a quantidade de passageiros voltou aos níveis anteriores ao acidente. 
+3.2. Identidade, imagem e reputação 
+Crises de imagem geram danos ao bem mais importante de qualquer organização: 
+sua credibilidade. O serviço que a TAM oferece, por exemplo, é o transporte aéreo. 
+Contudo, o que ela vende é a confiança de que cada passageiro chegará ao seu destino com 
+conforto e segurança. A queda de um de seus voos coloca toda sua reputação em cheque. 
+Danos à reputação comprometem o nome da empresa, e causam prejuízos muitas vezes 
+irreparáveis. A boa imagem de uma organização tem relação direta com seu valor de 
+mercado. Para Rosa, 
+Em maior ou menor grau, o que todos vendemos é a confiança que 
+conseguimos despertar nos outros. E essa confiança é tanto maior quanto 
+for nossa reputação. Por isso, quando a reputação está em jogo, o que 
+automaticamente entra em discussão é se vamos ou não sobreviver. 
+(ROSA, 2001, p. 35) 
+ 
+Não existe uma definição certa para a diferença entre reputação e imagem. Há, 
+porém, um consenso de que imagem e reputação, ao contrário da identidade, não estão sob 
+o controle da organização; elas são construídas de acordo com a percepção do público. 
+Reputação tem a ver com expectativas da sociedade em relação a pessoas ou organizações. 
+O ponto de vista comum entre todas as metodologias de estudo sobre reputação e imagem 
+é que ambas têm um valor intangível, estratégico e determinante para a vida das 
+instituições. (BRANDÃO, 2011, p. 174-176) 
+3.2.1. O que é a identidade de uma organização? 
+A identidade de uma empresa é o que ela é e como deseja ser vista pelo público. 
+Sua identidade verbal, visual, a linguagem que deseja utilizar, suas cores e seu lema, por 
+exemplo, formam a identidade de uma organização. Esses aspectos estão todos sob 
+controle da empresa, e podem mudar mediante decisão de sua diretoria. A identidade 
+envolve também os discursos que a organização quer transmitir ao público, como sua 
+missão, visão e valores. De acordo com o analista teórico Wilson da Costa Bueno,  
+Ela é a somatória de esforços, produtos, significados, valores, marcas etc, 
+construídos ou produzidos por uma organização. Podemos falar na 
+15 
+ 
+identidade visual, por exemplo, que incorpora as formas pelas quais a 
+organização se torna visível, "legível" no mercado e na sociedade 
+(embalagens, logos, fachadas, papelaria), e que é um dos componentes da 
+identidade de uma organização. A identidade inclui também a missão e a 
+visão da organização, sua capacidade de inovação, seu talento humano 
+(capital intelectual) e assim por diante.10 
+ 
+De acordo com Bueno, um dos maiores esforços das empresas é para que sua 
+imagem seja igual a sua identidade, mas isso nem sempre acontece. Atos dizem mais sobre 
+a empresa do que palavras. Uma empresa pode, por exemplo, pregar ser sustentável e 
+socialmente responsável, mas, por ter poucos investimentos no meio ambiente, não ser 
+vista dessa forma pelo seu público. O que a empresa mostra ao público está sob controle da 
+organização, mas sua resposta não. O autor afirma que 
+A organização empenha-se para construir, formar sua identidade (como 
+ela quer ser vista, percebida e etc), mas necessariamente não há sempre 
+(uma pena para algumas organizações) relação direta entre a sua 
+identidade e a sua imagem (ou imagens) e reputação.11 
+ 
+3.2.2. O que é a imagem de uma organização? 
+A imagem é tudo aquilo percebido pelo público. Ela é a recepção do que a empresa 
+afirma ser. A percepção do público diante de uma crise depende de como a organização 
+escolhe administrá-la. Pode ser a pior, levando ao fim da empresa, ou a melhor, trazendo 
+até ganhos de imagem, quando demonstrada competência na gestão. Nas crises, as 
+percepções dos fatos são ainda mais importantes do que os fatos em si. A percepção 
+pública é formada por emoção, e não pela razão. (ROSA, 2001, p. 81-82) 
+Em sua obra “A Síndrome de Aquiles”, Mário Rosa descreve os cinco pilares da 
+imagem, que deixam claro como o público não deve ser subestimado durante uma crise: 
+1. O primeiro pilar da imagem: o que condiciona a percepção pública não são apenas os 
+fatos, a “verdade”. A imagem de um público passa por valores e percepções próprias, que 
+interferem na forma como uma organização é vista. 
+                                                           
+10 Disponível em: 
+http://portalimprensa.com.br/noticias/wilson+da+costa+bueno/193/imagem+reputacao+e+identidade+revisita
+ndo+conceitos. Data do acesso: 02 de julho de 2016 
+11 Disponível em: 
+http://portalimprensa.com.br/noticias/wilson+da+costa+bueno/193/imagem+reputacao+e+identidade+revisita
+ndo+conceitos. Data do acesso: 02 de julho de 2016 
+16 
+ 
+Esse, portanto, é o que podemos chamar de primeiro pilar da imagem: 
+imagens estão baseadas não apenas em fatos, mas são condicionadas 
+fortemente por valores. Os valores associados a uma imagem às vezes são 
+muito mais influentes do que os fatos objetivamente pertencentes a ela. 
+(ROSA, 2001, p. 83) 
+ 
+2. O segundo pilar da imagem: o que hoje é considerado tabu, polêmico ou verdade 
+universal pode, no futuro, não ter nenhuma importância. Durante a Idade Média, por 
+exemplo, acreditava-se que o mundo era quadrado. Portanto, a imagem de uma navegação 
+era um ato de muita coragem e bravura. Hoje, porém, navegações são cruzeiros de luxo, 
+vistos como lazer e sofisticação. Ou seja, as imagens do mundo mudam conforme as ideias 
+do homem mudam. “Esse é o segundo pilar da imagem: os mesmos fatos, vistos a partir e 
+novos valores, podem assumir novo significado.” (ROSA, 2001, p. 84) 
+3. O terceiro pilar da imagem: boa parte do que chamamos de realidade são valores do 
+que adquirimos como conhecimento. São convenções, mensagens que são 
+automaticamente julgadas como verdade, e parecem inquestionáveis. 
+Esse é o terceiro pilar da imagem: o ser humano não precisa viver uma 
+realidade para se convencer da imagem a ela associada. O conhecimento, 
+o saber, o estudo, a tradição, a cultura permitem que o homem construa 
+uma imagem do mundo, aceitando como verdadeiras premissas que ele 
+não pôde checar pessoalmente. (ROSA, 2001, p. 85) 
+ 
+4. O quarto pilar da imagem: a cultura, aqui entendida como laços que ligam as pessoas, 
+faz com que imagens sejam vistas de formas diferentes entre grupos distintos. O que pode 
+ser considerado algo comum no mundo ocidental pode ser uma ofensa no oriente, por 
+exemplo. 
+Culturas produzem premissas e lógicas próprias que condicionam a forma 
+como as imagens públicas são percebidas individualmente por uma 
+pessoa. [...] Os valores do mundo como um todo não são absolutos. 
+Portanto, uma imagem depende necessariamente do meio, da cultura a 
+que ela está exposta para se poder saber como será vista. (ROSA, 2001, 
+p. 87) 
+ 
+5. O quinto e último pilar da imagem: o último pilar da imagem se baseia na teoria de 
+Kenneth Boulding, economista e professor da Universidade de Michigan, especialista na 
+17 
+ 
+análise de imagem do mundo contemporâneo. Boulding afirmava que imagens não são 
+verdadeiras e nem falsas. Não existe a verdade, existem versões dela. Segundo Rosa, 
+“Boulding está dizendo que, em última instância, uma imagem não é verdadeira e nem 
+falsa. Uma imagem é apenas uma imagem, que pode ser contraposta a outra imagem, de 
+significado diferente.” (ROSA, 2001, p. 88) 
+Conforme explicado por Wilson da Costa Bueno, existe, ainda, mais um fator a se 
+considerar sobre as imagens: o fato de que uma organização não tem apenas uma imagem. 
+Ela tem várias imagens, para diferentes públicos, que variam de acordo com os pilares 
+descritos por Rosa. Uma empresa pode ser vista ao mesmo tempo como altamente 
+lucrativa, poluidora, que investe em tecnologia e que explora seus empregados. É uma 
+empresa só, porém inúmeras são as imagens. Ele afirma que  
+A imagem, portanto, ou as imagens (para sermos mais exatos) de uma 
+organização são percepções que estão na cabeça dos públicos ou das 
+pessoas individualmente, formadas pelo contato direto ou não com essa 
+organização (temos imagens para organizações com as quais nunca 
+tomamos contato direto como, por exemplo, o Pentágono, reino dos 
+falcões da guerra).12 
+ 
+Bueno explica, ainda, que os valores de uma organização não são só os que ela 
+cultiva, mas o que os outros associam a ela. Durante crises, líderes de organizações tendem 
+a manter uma fé cega em si mesmos, e podem menosprezar essa percepção externa da 
+imagem. E é aí que as crises de imagem se encontram com o ativo mais precioso de uma 
+empresa: sua reputação. 
+3.2.3. O que é a reputação de uma organização? 
+A identidade de uma organização é o que ela quer transmitir ao público. A imagem 
+é a percepção desse público ao receber essa mensagem. A reputação é como a organização 
+trabalhou para manter a sua boa imagem. É a consolidação de sua imagem. Reputações se 
+constroem ao longo da vida, pela forma de agir da empresa com o público, e são o alicerce 
+de qualquer organização que presta serviços ao público. Rosa afirma que 
+                                                           
+12 Disponível em: 
+http://portalimprensa.com.br/noticias/wilson+da+costa+bueno/193/imagem+reputacao+e+identidade+revisita
+ndo+conceitos. Data do acesso: 02 de julho de 2016.  
+18 
+ 
+Reputações não se sustentam em circunstâncias abstratas. São defendidas, 
+expostas, destacam-se ou fenecem sob o impacto de contextos sociais e 
+históricos específicos. Muda a sociedade e sua lógica de funcionamento, 
+mudam também os desafios e as formas de preservar reputações de 
+líderes e organizações. (ROSA, 2007, p. 4) 
+ 
+De acordo com Forni, a imagem das organizações tende ser mais efêmera e 
+vulnerável a alterações de toda ordem, como contextos políticos, ambientes, condições do 
+tempo. “Reputação tem características mais de perenidade, de imagem consolidada. Pode-
+se mexer com a imagem num dia, para o bem ou para o mal, mas a reputação se constrói ao 
+longo da existência.” (IASBECK apud FORNI, 2015, p. 44). Em seu artigo “Imagem e 
+Reputação na Gestão da Identidade Organizacional”, o professor e teórico Luís Carlos 
+Assis Iasbeck afirma que 
+Enquanto a imagem se forma na mente do receptor com base em 
+estímulos mais densamente povoados por sensações e qualidades, a 
+reputação é formada por juízos de caráter lógico e alicerçada em 
+argumentos, opiniões e até mesmo convicções, crenças consolidadas. 
+(IASBECK, 2007, p. 8) 
+ 
+Reputações levam anos para que se consolidem, mas podem ser destruídas em dias, 
+horas ou até minutos. Grandes crises de imagens podem acabar com grandes empresas em 
+apenas um golpe. Como cristais, levam muito tempo para que sejam lapidadas, mas em um 
+arranhão podem ser definitivamente arruinadas. E é a reputação que determina quão grande 
+é o grau de confiabilidade e de credibilidade das pessoas em uma empresa. (ROSA, 2001, 
+p. 35) 
+Segundo Rosa, empresas que investiram anos construindo uma boa reputação têm 
+maior credibilidade e confiança entre seus stakeholders, o que lhe garante crédito no caso 
+de uma crise de imagem. Durante a crise, elas serão recompensadas com maior 
+compreensão do público e maior aceitação de suas ações. Se as empresas agirem de forma 
+coerente com o que cultivou ao longo dos anos, atuar dentro dos princípios de 
+responsabilidade social e fizer um bom trabalho de comunicação, sua boa reputação será 
+mantida, e a crise poderá ser vista como uma oportunidade. De acordo com as 
+pesquisadoras Patrícia Pérsigo e Maria Ivete Fossá,  
+A credibilidade empresarial pode ser considerada uma vantagem 
+competitiva quando usada para conseguir a preferência de clientes e de 
+19 
+ 
+consumidores, bem como obter a tolerância da opinião pública em 
+situações de crises empresariais geradas por falhas de processos, 
+humanas, por acidentes naturais ou provocados, ou por outras razões. 
+(PÉRSIGO & FOSSÁ, 2010, p. 1) 
+ 
+Acidentes como o vivido pela TAM inevitavelmente colocam a reputação da 
+empresa em jogo. Desastres aéreos não só mexem com o lado simbólico da crise (“eu 
+poderia estar ali”), como também evidenciam a falta de segurança da aeronave da 
+companhia aérea. Nas duas semanas seguidas ao acidente, foi registrada uma queda de 
+70% do número de passageiros. Voos decolavam quase vazios. (ROSA, 2003, p. 53) 
+As ações da empresa despencaram 22% no dia do acidente. Porém, por gozar de 
+uma reputação sólida, a TAM contou com a benevolência das pessoas e, ao agir de forma 
+proativa, rápida e humana, como será abordado mais adiante nesse estudo, a companhia 
+garantiu que sua credibilidade fosse mantida após o acidente do voo 402. Ao final do ano 
+de 1996, dois meses depois do acidente, suas ações já haviam se valorizado em 100%. 
+(ROSA, 2003, p. 54) De acordo com Roberto Castro Naves, diretor da consultoria Imagem 
+Empresarial, 
+Sem uma boa reputação, é mais difícil sobreviver no mundo atual dos 
+negócios. Uma boa imagem é uma ' capa de gordura ' a ser queimada. 
+Empresas que investiram em planos de gerenciamento e contenção de 
+acidentes preservam sua imagem com mais facilidade.13 
+ 
+1.3. De quem as crises gostam? 
+Conforme afirma Mário Rosa, as crises de imagem não escolhem uma quantidade 
+específica de cifras, fama ou poder. Qualquer pessoa está suscetível a uma crise de imagem 
+a qualquer momento de sua vida. Porém, quanto maior o sucesso, maiores as chances de 
+viver uma crise. Segundo o autor, a pré-condição número um para viver uma crise de 
+imagem de proporções colossais, que colocam em risco toda a credibilidade da 
+empresa/pessoa é estar no auge de uma trajetória de sucesso. Esse é, portanto, “o paradoxo 
+das crises de imagem: a crise é um sintoma do sucesso”. (ROSA, 2001, p. 34) 
+                                                           
+13 Disponível em: http://www.comunicacaoecrise.com/site/index.php/85-artigos-sobre-gestao-de-crise/114-
+desastres-colocam-reputacao-em-risco. Data do acesso: 03 de julho de 2016. 
+20 
+ 
+O sucesso, porém, não se limita a grandes corporações, personalidades famosas, 
+políticos poderosos; o dono de um restaurante multado pela vigilância sanitária, a dona de 
+uma pequena confecção de roupas acusada de não respeitar as condições trabalhistas ou o 
+líder estudantil de uma escola no interior do país, por exemplo, podem sofrer crises de 
+imagem a qualquer momento. Apesar do tamanho e da magnitude da crise serem menores 
+do que a vivida por uma grande corporação, o que está em jogo é a mesma coisa: a 
+reputação. Mário Rosa afirma que 
+Crises atingem aqueles que têm muito a perder e que antes delas 
+ostentavam uma imagem pública inatacável. Aqueles que alcançaram o 
+sucesso ou o destaque em seu mundo particular, em seu segmento, em 
+sua profissão ou atividade. Analise qualquer caso recente e verá que o 
+protocolo é quase sempre o mesmo: uma vestal, uma empresa de grande 
+visibilidade, um empresário de sucesso, um cirurgião bem sucedido, uma 
+magistrado respeitado, um político em ascensão, uma construtora 
+exuberante – são vencedores como esses que acabam triturados pelos 
+processos da crise. Em qualquer nível em que esse sucesso se expresse. 
+Se fôssemos traçar uma linha reta da trajetória de uma crise de imagem, o 
+ponto zero seria o sucesso. E, como ponto final, a execração. (ROSA, 
+2001, p. 36) 
+ 
+Segundo Rosa, existem diversos fatores que contribuem para que uma crise tenha 
+maior impacto para corporações e pessoas de sucesso. Um deles é o fato de que vivemos 
+em um mundo interligado, em que acontecimentos locais podem ter alcance global. Algo 
+que ocorre em um vilarejo no interior da Itália, por exemplo, pode virar notícia no Brasil. E 
+o caráter simbólico das crises de imagem faz com que as pessoas se identifiquem com as 
+vítimas desse problema, mesmo que a milhares de quilômetros. 
+E, dessa forma, grandes empresas têm no mundo inteiro pessoas vigiando cada uma 
+de suas ações. Suas vitórias são vistas e admiradas em todo o globo, e seus fracassos 
+também. Portanto, suas crises de imagem tendem a ter proporções muito maiores, pois 
+afetam e despertam o interesse de muitas pessoas, especialmente da mídia. Para Forni, 
+Na era da exposição midiática, as organizações e autoridades públicas 
+querem ter o máximo de exposição. Mas, como diz o professor 
+Thompson (2002), isso pode ser uma armadilha. Quanto mais visíveis se 
+tornam as pessoas públicas – e as empresas – mais vulneráveis também 
+ficam. Mais interesse da mídia, da opinião pública, da sociedade. Quanto 
+mais você se expõe, mais olhares para julgar seu comportamento. 
+(FORNI, 2015, p. 49) 
+ 
+21 
+ 
+Outra característica comum às empresas ou pessoas que viveram crises de imagem 
+é a de que, depois de tantas vitórias, eles passaram a acreditar que eram super-heróis que se 
+banharam no rio do sucesso. Dessa forma, pensaram ser imunes a qualquer tipo de 
+problema que pudesse aparecer. Eles se agarraram a sua boa reputação, e tiraram do radar a 
+possibilidade de que ela fosse arranhada. (ROSA, 2001, p. 36) 
+Em sua obra “A síndrome de Aquiles”, Mário Rosa explica essa característica 
+através da metáfora de Aquiles, semideus grego conhecido por ser invencível. Seu único 
+ponto fraco, o seu calcanhar, foi o que o tornou conhecido na história, mesmo depois de 
+tantas vitórias. Guerreiro vitorioso, Aquiles era um vencedor, até que sua vulnerabilidade 
+foi descoberta e, em um golpe de lança em seu calcanhar, morreu rapidamente, sem 
+chances de lutar. (ROSA, 2001, p. 37) 
+Conforme explica Rosa, apesar de a história de Aquiles servir justamente como um 
+alerta para corporações e pessoas, a metáfora se repete continuamente em seus cotidianos, 
+e ainda é uma das grandes causas das crises de imagem no mundo. Casos de crises de 
+imagem que acontecem por esse motivo são muito comuns. Em março de 2015, outro 
+grande acidente aéreo captou a atenção de todo o mundo: o copiloto Andreas Lubitz, da 
+Germanwings, empresa aérea alemã, a bordo do voo 9295, derrubou o avião 
+propositalmente nos Alpes Franceses, para tirar a própria vida. Como consequência, as 
+outras 149 pessoas a bordo do avião também foram mortas. Alguns dias depois, a 
+Lufthansa, empresa responsável pela Germanwings, afirmou saber dos problemas 
+psicológicos de Andreas, mas acreditou que seus problemas já estariam solucionados. 14 
+Outra característica importante das vítimas de crises de imagem é que elas sempre 
+têm muito a perder. Ao construírem seu nome, construíram uma reputação a zelar. 
+Qualquer problema, mesmo que pequeno, pode se tornar algo muito grande, que coloca 
+essa reputação em risco. Problemas pequenos em grandes organizações podem causar 
+confusões gigantescas, pois não há ninguém olhando para eles. (ROSA, 2001, p. 32) 
+Empresas que sofrem com esses problemas descobrem que a melhor forma de ficar 
+imune a eles é a prevenção das crises. Agindo antes, prestando atenção às suas 
+vulnerabilidades e cuidando de seus pontos fracos, problemas pequenos serão bem geridos, 
+                                                           
+14 Disponível em: http://oglobo.globo.com/mundo/copiloto-informou-empresa-de-que-havia-sido-tratado-
+para-depressao-admite-lufthansa-15743945. Data do acesso: 03 de julho de 2016. 
+22 
+ 
+e não irão se transformar em grandes crises. “Negar a possibilidade de uma crise parece ser 
+uma das razões pelas quais corporações não se preparam para crises graves”, afirma Forni. 
+Ou seja, as grandes empresas muitas vezes negam a possibilidade de crises. O que abre 
+espaço para que elas aconteçam. (FORNI, 2015, p. 30) 
+1.4. Prevenção e gestão dos riscos 
+Casos de crises de imagem causados por elementos surpresas são raríssimos. Em 
+geral, todas as crises podem ser evitadas. Somente crises causadas pela natureza podem ser 
+consideradas surpresas – e muitas vezes nem elas. Existem, por exemplo, formas de prever 
+fortes chuvas ou terremotos de grande magnitude, o que permite uma evacuação dos locais 
+afetados, minimizando as consequências após o desastre. (FORNI, 2015, p. 6) 
+A maioria das crises de imagem tem o fator humano como grande causador. Um 
+alarme ignorado, um aviso deixado para trás ou um boato desprezado podem ser o estopim 
+para que a reputação de uma empresa, ou de alguém, seja arruinada. Para Forni, se a 
+organização tivesse sistemas de alertas, sinais ou alarmes, provavelmente teria evitado a 
+crise. Fazer prevenção é mapear os principais fatos negativos e ameaças à organização. De 
+acordo com Jonathan Boddy, especialista de Gestão de Crises e professor do Chartered 
+Institute for Public Relations, de Londres, 
+Haverá sempre essas crises que são totalmente inesperadas e têm um 
+grande impacto dramático, mas para a maioria das empresas o retrospecto 
+mostra que, em muitas crises, não faltaram oportunidades de impedir que 
+elas acontecessem. (BODDY apud FORNI, 2015, p. 6) 
+ 
+Segundo Forni, especialistas de gestão de crises são unânimes em afirmar que a 
+prevenção e o treinamento para situações de crises devem integrar os planos de 
+contingência das corporações. Tais planos funcionam não somente para que as crises sejam 
+bem geridas, mas para que elas sejam evitadas. Segundo o autor, existem três etapas para 
+que esse plano seja eficiente: a gestão do risco, que compreende a etapa de prevenção e 
+planejamento; a gestão da comunicação de crise, afinal, a comunicação representa a 
+resposta da organização à opinião pública; e, por último, a gesto da crise propriamente dita, 
+que compreende a resposta da organização, a reação de apoio e reparo e a fase de 
+recuperação. (FORNI, 2015, p. 200) 
+ 
+23 
+ 
+A gestão de riscos é a atividade paralela à gestão de crises, que trabalha na 
+administração de problemas sérios, afim de evitar que se tornem crises. Segundo Forni, um 
+problema pode se tornar uma crise, e uma crise pode criar um enorme problema para a 
+companhia. Portanto, a gestão de riscos e de crises andam juntas. Não significam a mesma 
+coisa, porém têm a função estratégica de diminuir tensões e aumentar a harmonia entre o 
+público e a empresa. (FORNI, 2015, p. 225) 
+O caso do Voo 402 é um dos poucos que podem ter sua causa considerada uma 
+surpresa. Entretanto, poderia ter sido evitado – não pela TAM, mas pela Fokker (empresa 
+responsável pela fabricação da aeronave). Após a queda, os engenheiros da companhia 
+aérea se empenharam para descobrir as causas do acidente. Para tanto, simularam os voos 
+sob as mesmas condições em que o 402 se encontrava – velocidade, peso, altura, trajetória. 
+Após mais de uma semana virando noites, os engenheiros conseguiram reproduzir o 
+acidente no simulador. (ROSA, 2003, p. 55) 
+A descoberta foi a seguinte: quando a temperatura era menor do que 21 graus, o 
+sistema falhava, e o acidente se repetia. Se os termômetros em São Paulo estivessem 
+marcando mais do que 21 graus, não teria havido acidente nenhum. Alguns meses depois, 
+o relatório oficial evidenciou a falha elétrica no Fokker-100, um erro de responsabilidade 
+do fabricante. (ROSA, 2003, p. 56) Portanto, por mais que a crise da TAM possa ter vindo 
+como uma surpresa para a companhia aérea, ela poderia ter sido evitada se a Fokker tivesse 
+realizado testes em temperaturas mais baixas, que teriam evidenciado a falha elétrica antes 
+do avião ir ao ar. 
+ 
+24 
+ 
+AS CRISES E OS BOATOS 
+ 
+As crises de imagem têm na mídia um potencial inimigo ou aliado. Dependendo de 
+como as ações para gerenciar as crises são conduzidas, estar tão exposto – e de forma 
+gratuita – pode não ser algo tão ruim. A verdade é que nenhuma empresa terá tanta 
+exposição midiática quanto aquela que está vivendo uma crise. É o momento em que a 
+marca é vista para todos que ligarem a televisão ou lerem um jornal e a organização pode 
+ser a vilã ou o herói. Se crises de imagem podem servir como ameaças ou como 
+oportunidade, é a mídia quem conduz por esses caminhos. (ROSA, 2001, p. 26) 
+1.5. Por que a mídia gosta tanto de crise? 
+Notícias ruins geram audiência. Não é um problema da mídia, muito menos das 
+empresas que a fazem. O ser humano se interessa pelo que sai do comum, que foge à 
+rotina. Se, por exemplo, não há trânsito em uma cidade, todos os hospitais atendem bem à 
+população e os serviços funcionam como devem, no primeiro momento em que qualquer 
+um deles tiver um problema, mesmo que pequeno, ele será uma notícia. Tudo o que foge 
+ao comum, o inusitado, que quebra com a regularidade, chama a atenção da audiência. E, 
+justamente por gerar o interesse das pessoas, as crises são o território perfeito para que a 
+mídia possa crescer. É o famoso Bad news, good news15, provérbio americano nunca 
+esquecido por jornalistas. (FORNI, 2015, p. 178) 
+A imprensa se interessa pelo inusitado, diferente, que foge ao padrão 
+normal. Gosta de novidade. As organizações têm uma visão equivocada 
+de que a mídia só se interessa pela crise. Com isso, criam uma ideia 
+também errada do papel da imprensa numa sociedade democrática. A 
+mídia sempre vai se interessar pelas notícias negativas. Elas dão 
+manchete. (FORNI, 2015, p. 179) 
+ 
+ Vivemos na era da visibilidade total, em que qualquer deslize pode ser visto por 
+olhos no mundo inteiro. Quanto maior a exposição de uma pessoa ou uma organização, 
+maior a atenção recebida em caso de crise. As crises são globais e dizem respeito a toda a 
+comunidade, toda a sociedade. Quando a mídia vai atrás desses problemas, não é uma 
+questão de perseguição. Crises interessam a toda a sociedade e a mídia tem obrigação de 
+colocá-la na pauta. (FORNI, 2015, p. 180) 
+                                                           
+15 Más notícias, boas notícias. 
+25 
+ 
+O fato de que nós vivemos na era da transparência significa que nenhuma 
+empresa ou organização está imune a uma ameaça de uma possível crise. 
+Empresas tornaram-se casas de vidros em que nada permanece 
+escondido. (ANTHONISSEN apud FORNI, 2015, p. 178) 
+ 
+As crises de imagem ocupam as primeiras páginas dos jornais. Por afetarem o bem 
+mais precioso das empresas, a reputação (que é criada a partir de valores), sua ruptura gera 
+comoção no público. Forni recorda uma frase atribuída a Mark Twain: “Há um monte de 
+coisas para falar a seu favor, mas a outra é mais interessante.” (apud FORNI, 2015, p. 179) 
+Essa é a ideia central no modo de agir da mídia frente a uma crise. O que puder ser 
+explorado será explorado. De acordo com Bueno, “a mídia tem um papel fundamental no 
+processo de expansão ou redução das crises. Quando ela descobre na crise uma 
+oportunidade de aumentar a audiência, quando ela percebe que a situação pode ser do 
+interesse do público, não titubeia.” (BUENO apud TEIXEIRA, 2013, p. 53) 
+Muitas vezes, as empresas têm mais medo das repercussões da crise do que do 
+próprio problema em si. Crises de imagem e reputação estão intimamente ligadas às 
+percepções das pessoas. A mídia tem o poder de interferir nelas. Se as ações de 
+gerenciamento de crise não forem bem conduzidas, elas irão gerar mais e mais notícias 
+negativas, que irão influenciar as percepções do público nas mesmas proporções. De 
+acordo com estudo feito pela Burson-Marsteller, empresa global de relações públicas e 
+comunicação, dos três grupos mais temidos por empresários que sofrem com crises de 
+imagem, dois deles pertencem à mídia – as mídias da web e as mídias impressas/TV. 
+(CARTWRIGHT, 2016) 
+A participação da mídia é fundamental no desenvolvimento de crises de imagem. 
+Em um mundo tão difuso em temas e interesses, é preciso procurar por informações que 
+tirem o veículo da mesmice. Qualquer jornal poderia cobrir o casamento de uma estrela 
+como a Beyoncé, por exemplo. As fotos seriam iguais, as legendas seriam as mesmas. É 
+preciso encontrar uma forma de se sobressair no meio da imensidão de veículos. As crises 
+permitem encontrar essa individualidade. A descoberta de um “furo” pode colocar um 
+jornal em posição de destaque. Crises de imagem oferecem a oportunidade para que 
+veículos de informação travem uma batalha em um campo comum com armas semelhantes 
+de investigação. E vence o melhor. (ROSA, 2001, p. 25) 
+26 
+ 
+Em meio a uma crise, a imprensa se aproveita para mergulhar no passado da 
+empresa ou das pessoas envolvidas, e buscar todos os esqueletos escondidos. Fatos 
+adormecidos e empoeirados que estavam no fundo dos arquivos vêm à tona, e, em geral, 
+com conotação negativa. É preciso lembrar, porém, que essa mesma imprensa capaz de 
+destruir, é capaz de erguer uma reputação. Quando bem gerenciada e com uma 
+comunicação eficiente, objetiva e clara, a imprensa serve como transmissora de boas 
+notícias para uma empresa, que pode ver sua reputação sair intacta de uma crise – ou, até 
+mesmo, mais forte. (FORNI, 2015, p. 182) 
+Para a TAM, a mídia agiu como vilã da história. Acidentes aéreos são notícia em 
+todo mundo, mas um avião que explode em cima de um conjunto habitacional de uma 
+megalópole como São Paulo vira um show televisivo. As imagens foram transmitidas 
+inúmeras vezes pelos jornais nas casas das pessoas. Depoimentos, reconstituições, 
+especialistas faziam com que o avião se destroçasse novamente todas as manhãs, e a 
+história se prolongasse por dias e dias. E um dos ingredientes que fizeram com que a 
+cobertura desse acidente tenha virado uma festa para a imprensa foi um fator que pode ser 
+causador de tantas outras crises de imagem: os boatos. (ROSA, 2003, p. 44) 
+1.6. Os boatos e a mídia 
+Boatos são alegações de fatos – sobre pessoas, grupos, acontecimentos e 
+instituições – que ainda não foram comprovados. Apesar de não terem evidências, boatos 
+ganham credibilidade porque passam de uma pessoa para outra e, ao conseguirem um 
+grande número de pessoas que acredita naquilo, se tornam uma realidade. Boatos têm uma 
+origem certa, e conseguem adesão porque se encaixam nas convicções prévias de quem 
+acredita neles. (SUSTEIN, 2010, p. 7) O pesquisador Nicholas Difonzo afirma que, 
+Em outras palavras, rumores são preposições ou alegações coloridas por 
+vários tons de dúvida, pois não estão acompanhados por evidências 
+corroborativas.[…] Com exceção ao fato de não terem provas, rumores 
+são similares às notícias. Ambos explicam eventos importantes, 
+relacionados a pessoas ou situações que não envolvem pessoas, e podem 
+ser positivos ou negativos. Entretanto, notícias são sempre confirmadas, 
+enquanto rumores, por definição, não são. (DIFONZO, 1994, p. 4)16 
+                                                           
+16 Tradução da autora: In other words, rumors are propositions or allegations colored by various shades of 
+doubt, because they are not accompanied by corroborative evidence. […] Excepting their lack of proof, 
+rumors are similar to news. Both explain important events, pertain to people or to affairs that don’t involve 
+27 
+ 
+ 
+Os boatos podem ser responsáveis por vários tipos de crises. Um rumor sobre um 
+banco pode fazer com que suas ações caiam, e ele entre em uma crise financeira, mesmo 
+que não tenha sido verdade. Rumores podem atingir grandes e pequenas empresas, 
+personalidade e pessoas comuns, instituições públicas ou privadas, e podem ameaçar 
+carreiras, políticos, autoridades públicas, e até mesmo a democracia. Qualquer um de nós 
+pode ser vítima de um boato, que poderá ter um efeito muito doloroso. (SUSTEIN, 2013, 
+p. 3) 
+Boatos falsos e maldosos são especialmente preocupantes. Eles destroem a 
+credibilidade e a reputação das instituições, o que leva a sérios prejuízos de imagem. Seus 
+danos são reais para todos os envolvidos, e, em geral, são tão fortes que nem as retratações 
+conseguem diminuir sua força. (SUSTEIN, 2013, p. 10) 
+4.2.1. Por que as pessoas acreditam em boatos? 
+A maior parte do que conhecemos nos é transmitido de forma indireta. Não 
+vivemos durante a Revolução Francesa, mas soubemos da queda da Bastilha através de 
+todos os professores de história que tivemos na vida. Nos acostumamos a conhecer tudo 
+sobre o mundo pelo que outras pessoas afirmam que é verdade. É raro que tenhamos 
+certeza absoluta de algo, que comprovemos com nossos próprios olhos. Por isso, descobrir 
+sobre um acontecimento ou um fato através de outras pessoas se tornou algo 
+completamente aceitável, e fácil de ser acreditado. Cass Sustein, professor de direito de 
+Harvard e estudioso de teorias da conspiração, afirma que 
+Na ausência de um conhecimento pessoal, tendemos a pensar que onde há 
+fumaça há fogo – ou que um boato não teria se espalhado se não fosse 
+parcialmente verdadeiro. Talvez, a verdade seja ainda pior do que diz o 
+boato. (SUSTEIN, 2010, p. 6) 
+ 
+Segundo Sustein, a força dos boatos mora no fato de que eles se encaixam nas 
+convicções prévias das pessoas. Ou seja, suas ideologias, sua experiência de vida, seus 
+medos e suas esperanças o condicionaram a acreditar em determinados assuntos. Um 
+militante da esquerda, por exemplo, já tem material favorável aos governos de esquerda o 
+                                                                                                                                                                                
+people, and may be positive or negative. But news is always confirmed, while rumors are, by definition, 
+unconfirmed. 
+28 
+ 
+suficiente para que um rumor sobre eles seja prontamente rechaçado. Porém, por ser contra 
+a direita, irá aceitar rumores de governos de direita com mais facilidade. (SUSTEIN, 2010. 
+P. 25) 
+De acordo com Sustein, boatos se espalham por dois processos diferentes: as 
+cascatas sociais e a polarização de grupos. As cascatas são quando decidimos acreditar em 
+alguma coisa porque outras pessoas ao nosso redor acreditam também. Se a maioria das 
+pessoas acredita em um boato, e não dispomos de informações próprias, é mais fácil 
+acreditar nas opiniões dos outros. Ele afirma que  
+Uma cascata ocorre quando um grupo de instigadores primeiros, às vezes 
+chamados líderes, diz algo, ou faz algo, e outras pessoas seguem seu 
+sinal. [...] Os boatos são responsáveis por muitos pânicos, quando o medo 
+se alastra rapidamente de uma pessoa para a outra, criando profecias 
+autorrealizáveis. (SUSTEIN, 2013, p. 10-11) 
+ 
+Conforme explica o autor, a polarização de grupos é quando grupos de pessoas com 
+ideias afins se reúnem para debatê-las, e acabam chegando a uma conclusão mais radical 
+do que pensavam antes de conversarem. Se você acredita em algo, desconfia de algo, 
+certamente terá mais certeza depois que sua ideia for corroborada por um grupo de 
+pessoas. E, a partir daí, essas pessoas propagarão esse conteúdo para outras. 
+Muitas vezes os propagadores dos boatos falsos não têm consciência daquilo que 
+estão fazendo. Agem querendo proteger as pessoas, deixá-las a par do que está 
+acontecendo. Há, porém, os propagadores que agem já sabendo que o que estarão 
+espalhando é uma mentira, com potencial para prejudicar ou até destruir uma reputação. 
+Seus interesses são para uma causa própria, ou para atrair atenção. Há, ainda, os 
+propagadores maldosos, que espalham boatos apenas para causar danos aos outros, sem 
+receber nenhuma compensação por isso. (SUSTEIN, 2013, p. 12) 
+Conforme explica Sustein, o emocional das pessoas faz com que elas acreditem 
+mais facilmente em boatos negativos. Quando estão zangadas ou chateadas, ou quando 
+foram prejudicadas de alguma forma, é mais fácil acreditar em quem está apontando um 
+culpado – ou até em um herói. Frente a ameaças, boatos são inevitáveis. Ao mesmo tempo 
+em que eles explicam, eles aliviam, e dão uma sensação de conforto aos envolvidos.  
+29 
+ 
+Nesse contexto surgem as teorias de conspiração, que buscam trazer explicações, 
+mesmo que fantasiosas, para casos em que a explicação oficial não parece ser satisfatória. 
+Existem casos famosos de teorias da conspiração iniciadas por boatos, e que tomaram 
+proporções tão grandes que ficaram conhecidas no mundo todo. Uma delas, por exemplo, é 
+a de que o atentado de 11 de setembro foi arquitetado pelo governo dos EUA, que virou 
+um best-seller mundial do autor francês Thierry Meysan – o livro “11 de setembro de 
+2001: Uma terrível farsa”. 
+4.2.2. Os boatos, a mídia e a credibilidade da informação 
+Durante a crise da TAM, inúmeros boatos saíram nos jornais e nas revistas 
+apontando falhas e erros, culpados e heróis e diferentes razões para a queda. A catástrofe 
+desperta interesse, e acidentes aéreos têm investigações longas e demoradas. Enquanto 
+acontecem, as pessoas buscam respostas rápidas, justificativas e culpados, pois, 
+diariamente estão em suas televisões as imagens do acidente, as fotos das vítimas, os 
+depoimentos não oficiais. Enquanto não se descobre a causa, boatos surgem para suprir 
+essa necessidade. 
+Uma das primeiras revistas que saiu com o acidente na matéria de capa, no dia 6 de 
+novembro de 1996, uma semana após o acidente, foi a Isto É. A manchete: “Exclusivo: 
+celular pode ter derrubado o avião”. Em 1996, celulares não eram itens comuns a todos os 
+consumidores, e ainda não se sabia muito sobre seus efeitos em aeronaves. Quando não se 
+conhece algo a fundo, é fácil acreditar em um boato – principalmente em um que trazia 
+respostas para a tragédia. Na busca desenfreada por notícias, as pessoas queriam acreditar 
+em um ato de bravura do piloto ao desviar de uma escola a aeronave descontrolada em seus 
+últimos instantes de vida, que teria poupado a vida de várias crianças. Nada foi confirmado 
+pela TAM, mas era comentado entre os espectadores. (ROSA, 2003, p. 45-46) 
+Para Luís Eduardo de Falco, vice-presidente da TAM na época do desastre e porta-
+voz da empresa durante o gerenciamento da crise, em um caso cheio de comoção como o 
+da TAM, é natural que a mídia se comporte dessa forma. As pessoas exigem respostas, e 
+essas exigências são transmitidas pela mídia. Marcelo Leite, ombudsman (ouvidoria)17 da 
+Folha de São Paulo, descreveu o comportamento da mídia nesse caso, na coluna intitulada 
+“Pane Jornalística 402”. Abaixo, um pequeno trecho da matéria: 
+                                                           
+17 Profissional do jornalismo cuja função é avaliar os erros e acertos dos jornalistas 
+30 
+ 
+Não é fácil dizer onde imperou confusão maior, se na rua Luís Carlos 
+Orsini, há dez dias, ou na cobertura jornalística da queda do Fokker-100 
+da TAM. O acidente enlutou a cidade e pôs à mostra toda a fragilidade da 
+imprensa diante de uma notícia dessa magnitude. Ler vários jornais, nos 
+últimos dias, não significou ficar mais bem informado, só mais 
+desorientado. Especulações e informações contraditórias voavam de 
+todos os lados. [...] No meio do tumulto, começou a frenética e cativante 
+busca das “causas”. Qualquer migalha de informação, mesmo mal 
+apurada e sem confirmação, corre o rico de virar manchete, numa 
+situação dessas.[...] Quando há muitas lacunas numa história, a tendência 
+é preenchê-la com imaginação e fantasia. (LEITE apud ROSA, 2003, p. 
+45-46) 
+ 
+Marcelo Leite coloca em questionamento um dos aspectos mais importantes do 
+jornalismo: a credibilidade das informações. De certa forma, boatos falsos podem servir 
+como uma “faca de dois gumes” para a mídia – ao mesmo tempo em que podem ferir, 
+podem ser feridos. Em casos como o da TAM, em que a mídia está mais preocupada na 
+notícia e no show midiático, até que ponto se pode acreditar nas notícias divulgadas? Se 
+furos exclusivos são o que as empresas necessitam para que se destaquem no meio de 
+tantos outros, como ter certeza de que aquela versão contada é a real? 
+O principal produto vendido por uma empresa jornalística não é apenas a notícia – é 
+também a credibilidade dela. Assim como qualquer empresa que fornece serviços ao 
+público, empresas jornalísticas devem se preocupar com suas imagens e reputações. Dessa 
+forma, quando uma notícia é descoberta falsa, seu principal produto é colocado em cheque. 
+Da próxima vez que as pessoas lerem uma notícia do veículo, irão se perguntar “será que 
+agora é verdade?” Para os pesquisadores Rogério Christofoletti e Ana Paula Fraça Laux: 
+A preocupação com informações confiáveis existe há mais de 300 anos. 
+Já na primeira tese doutoral sobre Jornalismo, em 1690, o alemão Tobias 
+Peucer apontava a necessidade de os relatos jornalísticos desfrutarem de 
+uma condição de veracidade e de confiabilidade para que fossem bem 
+aceitos pela comunidade. (CHRISTOFOLETTI & LAUX, 2008, p. 5) 
+ 
+Em seu artigo, Christofoletti e Laux citam os estudos do professor português Paulo 
+Serra, em que ele explica o princípio da credibilidade como elemento decisivo na seleção 
+da informação midiática. Segundo o autor, o público se orienta por fatores como 
+pertinência e credibilidade, para escolher fontes e conteúdos de informação. João José 
+Forni acredita que o espectador não aceita qualquer coisa, e que ele questiona fontes 
+31 
+ 
+duvidosas. “São respostas ou explicações desmentidas no dia seguinte. Com raras 
+exceções, as empresas acabam se desqualificando nesses momentos.” (FORNI, 2007, p. 8) 
+A mídia pode fazer com que boatos falsos desencadeiem longas crises de imagem, 
+pois dão público a essas histórias. O antídoto para que esses falsos boatos sejam 
+combatidos e percam sua força é a versão oficial, que deve ser apresentada de forma 
+objetiva e rápida, e sempre falar a verdade. É aí que entra o trabalho da comunicação, que 
+deve ajudar na gestão das crises fazendo o relacionamento com o público externo.  
+1.7. “O antídoto contra as especulações é a informação” 
+O setor de comunicação de uma empresa é aquele responsável pela transmissão das 
+informações tanto internas, quanto externas de uma empresa. Em uma crise de imagem, ele 
+não é o responsável pela sua gestão. Apenas a alta cúpula da diretoria pode tomar decisões 
+e criar um plano estratégico de contenção da crise – que deve ser assumido por um líder, 
+que pode ou não assumir também a função de porta-voz da empresa. A comunicação tem a 
+importante responsabilidade de divulgar as ações traçadas por esse plano, tanto interna 
+como externamente, através da imprensa ou diretamente com o público. Em entrevista à 
+revista Organicom, João José Forni afirma que 
+É preciso separar a gerência de crise e de risco do chamado 
+gerenciamento da comunicação na crise. O profissional de comunicação 
+não gerencia a crise. Isso deve ser tarefa de um gerente específico ou do 
+comitê ou gabinete de crise. A comunicação é um pilar da gerência de 
+crise, e dos mais importantes. Se não houver trabalho conjunto, o esforço 
+de um e de outros não será suficiente para administrar a crise. A 
+comunicação sozinha não resolve. (FORNI, 2007, p. 3) 
+ 
+De acordo com Forni, justamente por se comunicar com o público, a comunicação é 
+um componente decisivo nas crises. Uma empresa que consegue se comunicar bem e 
+transmitir simpatia para a imprensa, mesmo em situações negativas, consegue mitigar os 
+efeitos negativos gerados por elas. Não saber se comunicar agrava o efeito de uma crise.  
+Falhas na comunicação podem atrapalhar um bom trabalho operacional, por exemplo. A 
+mídia precisa de versões oficiais, as pessoas precisam ouvir sobre o que a empresa está 
+fazendo. A opinião pública está mais disposta a tolerar – e até amenizar – se ela perceber a 
+organização empenhada em encontrar uma solução. Segundo o autor, 
+32 
+ 
+O gerenciamento de crises, portanto, tem dois lados fundamentais e 
+decisivos do ponto de vista da imagem: um, administrar o fato gerador, o 
+episódio desencadeador da crise, com soluções tempestivas, transparentes 
+e consistentes. Mas há outro, sob certos aspectos, tão ou mais importante, 
+a versão da crise. O que estão falando sobre a crise nos meios de 
+comunicação e na “rádio peão”?  Saber integrar as duas mãos – o 
+operacional (esquerda) e a comunicação (direita) – é o objetivo da boa 
+gestão de crise. (FORNI, 2015, p. 182) 
+ 
+Ainda segundo o autor, nem todos os melhores profissionais de comunicação do 
+mundo, aliados à estratégia perfeita para neutralizar notícias ruins, mais o bom 
+relacionamento com a mídia serão suficientes para gerir uma crise se os responsáveis não 
+conduzirem a gestão de forma eficiente, transparente e profissional. Quando a empresa faz 
+bem a sua parte, a comunicação transmite essa boa mensagem, e a mídia se torna uma 
+aliada. 
+Empresas transparentes, que se comunicam com seus stakeholders, que abordam os 
+problemas de forma honesta e responsável, superam crises com mais rapidez e com menos 
+riscos de imagem. O atendimento a imprensa é sempre prioritário, e deve ser feito da forma 
+mais clara e objetiva possível. Os assessores de imprensa devem realizar notas e boletins 
+oficiais sobre os eventos, e divulgá-los diariamente. (FORNI, 2015, p. 189) Mesmo que a 
+informação se repita de um dia para o outro, é importante manter a periodicidade de 
+informações oficiais. Luís Eduardo de Falco afirmou, sobre a gestão da crise da TAM, que 
+A melhor maneira de cortar pela raiz o mal dos boatos é dar 
+periodicamente a versão oficial. Quando se cria a regra de que se vai 
+passar um informe oficial a cada 12 horas, não há nenhum problema se 
+você repetir a versão dada na entrevista anterior. Às vezes, repetíamos 
+100% o conteúdo da entrevista anterior, e os jornalistas publicavam como 
+“nova versão oficial”. O jornalista ficava satisfeito com o aproveitamento 
+de seu trabalho. Quem escuta a mesma versão sempre consegue perceber 
+um novo ângulo para a notícia. Quem não ouve e acha que perdeu fica 
+saciado. O antídoto contra as especulações é a informação. (ROSA, 2003, 
+p. 47) 
+ 
+De acordo com Forni, o principal desafio dos comunicadores em uma crise de 
+imagem é dar satisfação à opinião pública. Não é fácil enfrentar um batalhão de jornalistas 
+quando as notícias que serão divulgadas são negativas. Ser claro e agir rápido é sempre a 
+melhor opção de mostrar respeito com a imprensa e os envolvidos. Todos devem ser 
+informados – mídia, público, empregados, clientes. E todos ao mesmo tempo. É crucial que 
+33 
+ 
+a empresa informe ao público sobre o que está passando e divulgue o que pode ser 
+divulgado o quanto antes. Em um mundo tão conectado, guardar informações pode ser 
+visto como se a empresa estivesse negando o fato ou querendo esconde-lo. Todos os 
+stakeholders têm direito de saber o que está acontecendo através de uma fonte oficial. A 
+verdade é que, caso não recebam o oficial, boatos poderão surgir para preencher as 
+lacunas. (FORNI, 2015, p. 185-186) 
+Contudo, é preciso ponderar que apenas informações verificadas e confirmadas 
+devem ser divulgadas. No caso da TAM, por exemplo, uma das informações mais 
+importantes do caso, a lista de pessoas a bordo da aeronave, precisou ser confirmada antes 
+de divulgada, e os familiares dos mortos precisaram ser avisados antes da divulgação, o 
+que fez com que a informação demorasse a ser entregue à mídia. Qualquer eventual erro 
+que exija uma retratação posterior não é bem recebido – principalmente quando envolvem 
+tragédias. (ROSA, 2003, p. 41-42) 
+Forni explica que é importante lembrar, também, que a imprensa é um dos 
+principais stakeholders em casos de crises de imagem, e ela tem alto poder de visibilidade. 
+Além disso, é ela que guarda os registros da crise, ou seja, no futuro, quem busca 
+referências sobre o fato, irá atrás das notas e matérias deixadas pela imprensa. Portanto, 
+não se pode ignorar as mídias no plano de gestão da crise, pois são elas quem vão trazer o 
+público para você ou levar contra. O autor afirma que: 
+Ignorar a mídia ou minimizar seu papel, quando se administra um 
+problema grave ou uma crise, quase sempre se transforma num 
+lamentável erro, difícil de corrigir. Parece óbvio, no mundo atual da 
+comunicação rápida e instantânea, mas é um equívoco ainda cometido 
+por organizações diante de situações complicadas ou potencialmente 
+desastrosas. (FORNI, 2015, 186) 
+ 
+No papel de fazer o meio campo entre a empresa e a imprensa, a comunicação 
+precisa de um porta-voz, que irá concentrar a imagem da empresa nele. Seu discurso deve 
+ser sempre alinhado ao discurso da empresa, e suas informações devem ser sempre claras e 
+objetivas. Um porta-voz não precisa ser, necessariamente, o CEO ou presidente da 
+empresa. Ele deve ser uma pessoa com experiência no negócio, com habilidade para falar 
+com o público e que transmita segurança. Forni, em seus estudos sobre gerenciamento de 
+crise, define as características que deve ter um bom porta-voz: 
+34 
+ 
+Quem é esse porta-voz? Alguém com credibilidade interna e externa; 
+profundo conhecedor do negócio e da cultura corporativa. Além dessas 
+qualidades, ele deve conhecer bem a causa e os detalhes da crise, ou pelo 
+menos deve estudá-la para se preparar para a missão. E, finalmente, deve 
+ter muita experiência em trabalhos com a mídia impressa e televisiva. A 
+pessoa certa no lugar certo. É uma função que não comporta improviso. 
+(FORNI, 2015, p. 221) 
+ 
+Não necessariamente o porta-voz deve ser apenas uma pessoa. Uma empresa em 
+crise pode ter mais de um, quando for preciso. Há casos em que o porta-voz fica 
+sobrecarregado, e é necessário um segundo para cobri-lo. O fundamental, porém, é que 
+seus discursos sejam o mesmo na hora de transmitir uma informação. Segundo Sherry 
+Holladay e Timothy Coombs, “o porta-voz deve obedecer às três regras da comunicação 
+em crise: não falar em off; não especular; não discutir responsabilidades (jurídicas).” 
+(COOMBS & HOLLADAY apud FORNI, 2015, p. 220). Um exemplo de liderança 
+compartilhada é o próprio caso da TAM, que tinha dois porta-vozes – o comandante Rolim 
+Amaro, então presidente da companhia aérea, e Luís Eduardo de Falco, então vice-
+presidente. Apesar de tons diferentes, os dois mantinham o discurso alinhado junto à 
+imprensa. 
+O porta-voz é um dos elementos-chave em uma gestão de crises. Ele é o rosto da 
+corporação. Por isso, ele não pode dar entrevistas sem um direcionamento prévio: tudo o 
+que ele disser será visto como o discurso de toda a empresa. Ele deve ter conhecimento do 
+assunto e deve saber agir sob pressão, pois sua função será transmitir todas as informações 
+para a imprensa. Empresas que não têm um líder, ou um discurso unificado, tendem a 
+parecer mais frágeis frente a uma crise de imagem. (FORNI, 2015, p. 219-220) 
+A comunicação entra também no papel de treinar esse porta-voz para o contato com 
+a mídia e o público. Esse treinamento é chamado de media-training. Em uma época em 
+que uma reputação pode ser destruída em minutos, todos estão cada vez mais preocupados 
+com a impressão que deixam para a mídia. Um treinamento de media-training prepara um 
+executivo para que sua relação com a imprensa seja a mais natural possível – incluindo 
+mídia impressa, câmeras, entrevistas ao vivo. (FORNI, 2015, p. 215) 
+Os cursos têm a base teórica, que ensina como a imprensa funciona, qual a melhor 
+forma de se portar e se dirigir e até os perfis de perguntas dos jornalistas. A parte prática 
+consiste em simulações de entrevistas – impressas e frente às câmeras – e coletivas de 
+35 
+ 
+imprensa. O media-training é uma forma de deixar o processo de comunicação de crise 
+mais natural para o porta-voz, porém não pode fazer milagres. Executivos que têm, por 
+exemplo, preconceito com a mídia e a veem apenas como o inimigo terão dificuldade de 
+angariar sua simpatia. (FORNI, 2015, p. 216) 
+4.3.1. Os problemas de comunicação interna 
+Segundo o professor e pesquisador de comunicação Gaudêncio Torquato, durante 
+uma crise, a comunicação interna é fundamental. Apesar de a externa ser de extrema 
+importância, pois é capaz de fazer da imprensa uma aliada e conquistar a empatia do 
+público, a interna é o que faz a empresa acontecer. Um gerenciamento de crises que 
+negligencia seu público interno – empregados, investidores, acionistas – instaura um clima 
+de insegurança interna – o que pode ser tão ruim quanto ser mal visto pela mídia. 
+ Para Torquato, crises de imagem trazem instabilidade e insegurança ao cenário 
+interno de ambientes organizacionais. Esses são dois ingredientes que propiciam o 
+surgimento de boatos e rumores, que surgem para suprir a necessidade de informações. Os 
+empregados de uma empresa sentem a necessidade de saber o que está acontecendo para 
+que possam se preparar para o futuro. Quando o trabalho de comunicação interna é mal 
+exercido, é criada uma rede informal de informações, que divulga as tudo o que os 
+empregados desejam saber, para preencher os vazios deixados pela comunicação. Essa 
+rede informal é chamada pelo autor de “Rádio-Peão”: 
+A coisa funciona como uma espécie de telefone sem fio, cada pessoa vai 
+jogando na cadeia comunitária seus sentimentos, suas angústias, suas 
+alegrias, suas frustrações e suas raivas. [...] A verdade inicial sai da letra 
+A e chega à letra Z, passando por todo o alfabeto. Há um ditado que diz: 
+a verdade acaba, mas a história continua. Pois bem, com a rádio-peão, a 
+verdade vai se acabando logo nos primeiros grupos, mas a história 
+continua até o último dos grupos de uma organização. Esta é uma 
+explicação mais ou menos didática para mostrar o fluxo do rumor na 
+empresa. (TORQUATO, 2011, p. 63) 
+ 
+ A rádio-peão aparece nas empresas como um contraponto às versões oficiais – tanto 
+por serem incompletas e insatisfatórias, quanto por serem lentas e demoradas. Ela surge 
+como uma espécie de grito de insatisfação, e é capaz de formar uma comunidade 
+extremamente unida. Por elas passa toda sorte de informação: de futebol à última decisão 
+da diretoria; de eventos sociais à troca de presidente. As redes informais são a forma que 
+36 
+ 
+os empregados encontram de conhecer ainda mais a empresa em que trabalham. Segundo 
+Torquato, combatê-las é inútil. Elas sempre irão existir – em uma conversa durante um 
+café ou em um almoço entre os executivos, sempre irá existir uma rede de informações não 
+oferecidas pela comunicação. Sobre esse tópico, a pesquisadora Margarida Kunsch afirma: 
+O sistema formal de comunicação de toda a organização – o conjunto de 
+canais e meios de comunicação estabelecidos de forma consciente e 
+deliberada – é suplementado, no decorrer de pouco tempo, por uma rede 
+informal de comunicações, igualmente importante, que se baseia nas 
+relações sociais intra-organizativas e é uma forma mais rápida de atender 
+a demandas mais urgentes e instáveis. (KUNSCH, 2003, p. 82) 
+ 
+ Apesar de ser impossível combater a rádio-peão, é possível administrá-la. Toda 
+rede informal tem suas lideranças, pessoas que, por vezes, têm até mais credibilidade do 
+que os próprios veículos oficiais (pode ser por conhecer bem a empresa, por estar lá há 
+muito tempo ou por se dar bem com os colegas, por exemplo). Uma vez reconhecidos os 
+líderes, é preciso convencê-los, com boa argumentação e clareza, e sem faltar com a 
+verdade, de que a empresa tem boa vontade para resolver os problemas com os 
+empregados. Depois, argumentar que as soluções levam tempo e um fluxo de prioridades, 
+mas que serão parte dos esforços da organização. (TORQUATO, 2011, 65-66) 
+Dessa forma, é possível fazer com que as lideranças das rádios-peão se tornem 
+aliados da comunicação, e transmitam informações reais, evitando o surgimento de 
+rumores perigosos para o futuro da empresa. A rádio-peão pode se tornar um dos melhores 
+propagadores de informações internas da empresa. Por tratar-se de um fluxo de informação 
+horizontal, de comunicação no mesmo nível, não causam desconforto no empregado, pois 
+não será encarada como uma ordem superior. A rádio-peão, portanto, pode ser mais um 
+dos aliados da comunicação no gerenciamento de uma crise de imagem, ajudando na 
+divulgação de medidas internas para seus empregados. (TORQUATO, 2011, p. 67) 
+4.3.2. Como a comunicação pode ajudar a evitar esses problemas? 
+Como será abordado mais adiante nesse estudo, durante o gerenciamento da crise 
+de imagem da TAM, todas as ações foram conduzidas no calor do momento, sem ordens 
+específicas, guiadas pelo bom senso. Isso, porém, pode não garantir o sucesso de todas as 
+empresas que passam por uma crise desse porte. O improviso e a falta de preparo podem 
+ser os últimos ingredientes necessários para que uma crise arruíne completamente a 
+37 
+ 
+reputação de uma empresa. Um instrumento importante na solução desses problemas é a 
+elaboração de um plano de crise, que irá direcionar a diretoria e a comunicação na 
+elaboração do plano estratégico de contenção de crise. 
+De acordo com Mário Rosa, as crises de imagem, apesar de ter causas e 
+consequências diferentes, costumam seguir um padrão – a comoção, a busca por culpados, 
+a ansiedade da mídia por informações. Segundo o autor, essa é uma das causas que 
+possibilita que crises de imagem sejam gerenciadas de forma orientada, sem ter que ser 
+guiado cegamente apenas pelo bom senso. 
+Com maior ou menor nível de precisão, é possível prever os 
+desdobramentos de uma crise e fazer um planejamento para situações 
+extremas. Essa foi a lógica que começou a definir os contornos do 
+gerenciamento de crises: as crises têm um padrão. Se existe esse padrão, 
+logo há determinados impasses e dilemas que se repetem de forma 
+regular e, sendo essa a premissa, consequentemente o melhor momento 
+para encontrar as formas mais adequadas de lidar com essas dificuldades 
+é antes que as crises eclodam. (ROSA, 2003, p. 70) 
+ 
+Rosa afirma que a palavra-chave do gerenciamento de crises é: prevenção. 
+Conforme explica o autor, em um mundo ideal, crises nem existiriam, mas em um mundo 
+real, em que todos estão expostos e interconectados, elas sempre serão uma ameaça a 
+qualquer pessoa. Portanto, a melhor forma de garantir um gerenciamento de sucesso é 
+planejar antes. Crises não são o momento de planejar, e sim de executar. O planejamento 
+deve ser prévio, quando não há preocupações com vítimas ou imprensa, por exemplo. 
+(ROSA, 2003, 70-71) 
+Assim como o gerenciamento da crise não é uma responsabilidade total do setor de 
+comunicação, a elaboração do plano de prevenção tampouco o é. Sob a ótica da 
+comunicação, um plano de crises é o conjunto de medidas e posturas capazes de fazer com 
+que o sucesso de uma ação seja percebido como tal pelo público – interno ou externo. Ou 
+seja, sua função é entender a partir desse plano qual a melhor forma de traduzir as ações 
+feitas pela empresa de forma que a imprensa possa entendê-las. (ROSA, 2003, p. 71) 
+O grande desafio do gerenciamento de imagem em situações de crise é 
+fazer com que a percepção de diversas ações seja a mais positiva 
+possível. E para isso o Plano de Gerenciamento de Crises é o alicerce de 
+tudo. (ROSA, 2003, p. 71) 
+38 
+ 
+AS CRISES E A INTERNET 
+ 
+A internet mudou tudo. Ela deu possibilidade de acesso ao mundo para as pessoas, 
+e deu a chance dessas pessoas serem vistas pelo mundo também. Desde a forma como 
+acontecem, até como são geridas, as crises de imagem se tornaram muito maiores e mais 
+ameaçadoras. As redes sociais se tornaram instrumentos de crise – e podem ser vistas tanto 
+como causadoras, como parte da resolução dos problemas. O imediatismo e o alcance que 
+a internet proporciona são dois dos maiores fatores para que as crises de imagem tenham 
+tomado novas proporções nos dias de hoje. A era da visibilidade nunca foi tão visível. 
+Em 1996, a internet ainda não era tão difundida no Brasil, então conter a crise no 
+ambiente online não foi uma das prioridades da TAM. Entretanto, por se tratar de um 
+acidente que gerou muita comoção, e que recebeu cobertura intensa, mesmo com a 
+ausência do imediatismo da internet, suas ações tiveram que ser rápidas e frequentes. É 
+importante destacar, porém, que hoje, vinte anos depois, a internet é um dos principais 
+meios a ser considerado para o sucesso no gerenciamento de uma crise. (FORNI, 2015, p. 
+228) 
+1.8. Como a internet influencia as crises de imagem? 
+Segundo Forni, novos instrumentos de comunicação surgem a cada dia. Cada um 
+deles carrega suas peculiaridades e diferenças, e trazem consequências para a forma como 
+vivemos. Quando o principal meio de comunicação era o jornal impresso, crises de 
+imagem não geravam a mesma comoção que geram hoje. Primeiro, pois, em geral, esses 
+problemas eram de conhecimento local. É muito difícil se importar com uma crise em uma 
+empresa no Sul dos EUA, por exemplo, se você não conhece a empresa e nem a crise, e ela 
+só é noticiada nos EUA. Segundo, pois o tempo de resposta era muito grande, o que fazia 
+com que o assunto perdesse um pouco do interesse. Como se interessar por uma notícia se 
+você leva dois dias para saber de alguma novidade?  
+O surgimento da televisão tornou as coisas um pouco diferentes. O mundo já não 
+era mais tão grande, e uma pessoa no Rio de Janeiro poderia ouvir falar de uma notícia dos 
+EUA – mesmo que com um pouco de atraso. O ao vivo fez com que as respostas dos 
+gestores das crises tivessem de vir mais rápido, pois a mídia não precisaria esperar a edição 
+do dia seguinte do jornal para começar a noticiar o ocorrido. Nesse contexto, surge então a 
+39 
+ 
+golden hour do gerenciamento de crises – a primeira resposta da empresa deveria ser feita 
+nos primeiros sessenta minutos depois do ocorrido. De acordo com Forni, 
+Antes, a mídia tradicional sempre ditou o escopo e severidade das crises. 
+As empresas tinham um dia, até uma semana, para responder ao que o 
+público iria ler em jornais ou revistas. E não faz muito tempo. A história, 
+muitas vezes, ficava restrita à mídia impressa. A TV acelerou esse 
+caminho. De certo modo, agravou as crises pela forma como os 
+acontecimentos entram em nossas casas. O jornalismo espetáculo, das 
+imagens impactantes e emoções, deu uma nova dimensão às crises. 
+(FORNI, 2015, p. 227) 
+ 
+E, então, surge a internet. A internet fez com que o ao vivo esteja ainda mais 
+próximo. Ela possibilita que pessoas comuns noticiem os fatos, e as grandes empresas de 
+mídia deixaram de ser as únicas fontes de informação. Os blogs e as redes sociais fizeram 
+da internet um meio de comunicação instantâneo, que corta caminhos e encurta distâncias. 
+As crises passaram a acontecer em tempo real, e com exposição global. (FORNI, 2015, p. 
+232). Um escândalo político na Ásia pode ser noticiado no Brasil no momento em que está 
+acontecendo – e, a partir do momento em que cai na web, o público exige uma resposta 
+quase que imediata. Para Roger Bridgeman, relações públicas e empresário de 
+comunicação, 
+A internet é uma espécie de meio diferente que realinha o papel e a 
+influência da mídia tradicional, instituições e corporações, enquanto está 
+empoderando novos ativistas e ainda o cidadão médio, sentado na frente 
+de seu computador pessoal. (FORNI, 2015, p. 228) 
+ 
+Em um mundo que demanda o imediato, uma empresa frente a uma crise deve se 
+comunicar o mais rápido possível – mesmo que seja apenas para avisar que estão cientes 
+do ocorrido e estão trabalhando para minimizar os problemas. A falta de notícias oficiais 
+faz com que o clima de insegurança seja cada vez maior, e a crise se agrave ainda mais. O 
+uso das redes sociais é fundamental nesses casos, pois, por oferecem uma interatividade 
+maior com o público, elas são um dos primeiros lugares que as pessoas procuram para se 
+informar sobre as ações que estão sendo tomadas. Os sites oficiais das empresas são 
+também grandes fontes de informação para a mídia e os stakeholders, e precisam sempre 
+estar atualizados. Forni afirma que “como a primeira opção dos interlocutores é buscar 
+informação no site da empresa, se o conteúdo não estiver rapidamente atualizado, passa a 
+péssima impressão de que todos estão perdidos”. (FORNI, 2015, p. 229) 
+40 
+ 
+Segundo o autor, quanto mais informações oficiais a empresa der, menos chances 
+dos boatos e rumores surgirem. Na internet, boatos ganham ainda mais força, pois são 
+facilmente republicáveis e dissemináveis. Esses boatos podem gerar um clima ainda maior 
+de insegurança, que agrava nos danos causados à imagem da empresa. É importante, 
+portanto, que o comitê de crise, ao criar o plano de contenção da crise, leve em 
+consideração que boa parte de suas informações serão transmitidas e replicadas através das 
+mídias sociais, e não apenas pela mídia tradicional. Além disso, os sites e as redes sociais 
+são a melhor forma de transmitir a mensagem sem que ela passe por um filtro (como se 
+adequar ao editorial de um jornal).  
+Do ponto de vista da comunicação de crise, as organizações precisam 
+estar atentas para o fato de que, hoje, qualquer cidadão comum pode fazer 
+o papel de jornalista com uma cobertura mais completa e mais verossímil. 
+A tecnologia na mão das pessoas comuns muda tudo em relação à 
+cobertura das crises. O poder e a habilidade de controlar a mensagem, 
+prerrogativa das empresas bem preparadas, se não acabaram, foram muito 
+reduzidos. (FORNI, 2015, p. 248) 
+ 
+Forni afirma que a internet oferece, então, um terreno neutro, em que a empresa 
+tem liberdade de dizer a sua mensagem, e não a interpretação dela feita pela mídia, e um 
+espaço para que o público possa interagir diretamente com a empresa, fortalecendo um 
+canal de confiança. Nem sempre, porém, os comentários nas redes sociais serão positivos. 
+Na maioria dos casos, as redes trarão momentos de reflexão para a empresa, pois é um 
+lugar em que usuários depositam suas frustrações com a crise. A diretora do Huffington 
+Post, Ariana Huffington, publicou em seu blog um artigo sobre o tema: 
+Um monte de marcas querem ser ‘sociais’, mas elas não querem ouvir, 
+porque muito do que estão ouvindo não é pura e simplesmente do seu 
+gosto e, assim como nas relações no mundo off-line, interagir com os 
+clientes ou os leitores de uma forma transparente e autêntica não é de 
+todo agradável e luminoso, Então, simplesmente emitir um comunicado 
+dizendo que você está empenhado em ouvir não é a mesma coisa que 
+ouvir. E como em qualquer relacionamento humano, há um lado obscuro 
+para a intimidade. (HUFFINGTON apud FORNI, 2015, p. 251) 
+ 
+Segundo o professor e pesquisador Rudimar Baldissera, em seu artigo 
+“Comunicação organizacional na perspectiva da complexidade”, existem três dimensões da 
+Comunicação Organizacional. A primeira dimensão da comunicação é a organização 
+comunicada. Ela corresponde aos processos comunicativos formais da fala autorizada. É 
+41 
+ 
+tudo aquilo que a organização seleciona de sua identidade, de forma estratégica ou não, 
+para dar visibilidade, legitimidade, capital simbólico para sua marca, para que ela gere um 
+aumento de reconhecimento, vendas, lucros e etc. Essa ideia de organização compreende 
+os processos autorizados, às vezes orientados ao auto-elogio. (BALDISSERA, 2009, p. 4) 
+Na internet, esse seria o papel do site oficial da empresa, que segue os padrões estipulados 
+por ela, e transmite informações previamente aprovadas. 
+Ainda de acordo com o autor, a segunda dimensão da comunicação é a organização 
+comunicante. Aqui, se ultrapassa o âmbito da fala autorizada, e todo o processo 
+comunicacional se atualiza quando, de alguma forma e em algum nível, algum sujeito 
+estabelece comunicação com a organização. Nessa dimensão, se assumem processos não 
+planejados, que se realizam na informalidade – alguns deles, inclusive, sem o 
+conhecimento da organização. (BALDISSERA, p. 4) Aqui, entra o papel das redes sociais 
+e a comunicação direta entre a organização e os usuários. 
+A terceira dimensão da comunicação organizacional, segundo Baldissera, é a da 
+organização falada. Trata-se aqui dos processos de comunicação indiretos, que se realizam 
+fora do âmbito organizacional, mas que dizem respeito à organização. (BALDISSERA, 
+2009, p. 5) São as conversas entre colegas de trabalho sobre a empresa, fora do horário 
+comercial, por exemplo. Na internet, são os comentários sobre uma organização fora de 
+suas redes sociais ou site oficial. Aqui, portanto, deverá ser feito o monitoramento online, 
+para acompanhar o que está sendo dito sobre a organização. 
+As redes sociais, porém, não funcionam apenas como uma forma de cobrança mais 
+rápida e efetiva de organizações em crise. Justamente por gerarem grande exposição aos 
+usuários e possibilitarem que qualquer pessoa tenha espaço para expor suas opiniões, a 
+internet se tornou um meio que facilita ainda mais o surgimento das crises. Em um mundo 
+em que tudo o que é dito pode ser rapidamente escutado e repercutido por milhares de 
+pessoas em pouquíssimo tempo, qualquer erro na internet pode ser fatal, e pode gerar crises 
+de imagem de potencial nocivo à organização ou pessoa envolvida. 
+Hoje, com tantas ferramentas de comunicação como e-mail, o YouTube e 
+os sites de notícias sociais – onde um passo errado pode atrair milhares de 
+olhares em alguns minutos – a chance de que uma gafe se transforme em 
+viral e acumule uma enorme audiência é maior do que nunca. [...] Além 
+de apressar o golpe, a web amplifica uma crise porque todos parecem 
+gostar da ação. (BAREFOOT & SZABO apud CORREIA, 2012, P. 6) 
+42 
+ 
+ 
+Hoje, devido ao alto número de usuários, as mídias digitais têm o poder de dar 
+ainda mais visibilidade a um caso do que as mídias tradicionais. Seu efeito pode ser ainda 
+mais devastador, pois o usuário se sente muito mais próximo e ativo na internet do que 
+vendo uma notícia na televisão. Graças à dinamicidade da internet e a facilidade com que a 
+informação é vista pelo mundo, qualquer descuido, mesmo pequeno, pode virar uma crise 
+de imagem de grandes proporções. De acordo com Patrícia B. Teixeira, autora do livro 
+“Caiu na rede, e agora?”, uma crise pode ter repercussão sem nem ao menos ganhar as 
+páginas dos grandes jornais impressos. Muitas delas podem nascer no meio online e nunca 
+sair de lá, mas ter ainda mais visualizações do que uma notícia publicada na primeira 
+página de um grande jornal, por exemplo. (TEIXEIRA, 2013, p. 56) 
+A internet age exatamente igual a mídia tradicional (impressa, rádio, 
+televisão) meramente refletindo a realidade. Entretanto, obviamente, de 
+forma muito mais rápida e viral. A internet acelera as crises de forma 
+extraordinária, e dá a elas uma nova dimensão. Apesar de que muito 
+provavelmente a mesma crise aconteceria, seria em um ritmo mais lento 
+sem a existência da internet.18 (GONZÁLEZ-HERRERO & SMITH, 
+2008, p. 3) 
+ 
+1.9. As novas fontes da internet 
+Uma das principais mudanças que a internet trouxe para as crises de imagem foi o 
+fato de que os receptores das informações (o público) passaram a ser também criadores. A 
+criação de conteúdo, que antes era controlada pela grande mídia, passou a ser feita por 
+quaisquer usuários da internet. O fluxo de informações passou a ser muito maior. Saber 
+mais sobre uma notícia, sobre um caso, ou um escândalo, ficou muito mais fácil – tudo está 
+ao alcance do Google, maior site de busca da internet. 
+As redes sociais e os blogs dividiram os usuários da internet em nichos. Segundo a 
+teoria de Bolha de Filtros de Eli Pariser, a internet criou mecanismos que filtram as 
+informações para cada usuário de acordo com seus hábitos na rede. O que poderia ser 
+positivo em termos de organização da comunicação digital, acaba por fechar o usuário em 
+uma bolha onde ele encontra poucas informações diferentes de sua opinião ou interesses. 
+                                                           
+18Tradução da autora: The Internet acts just like the mainstream media (print, radio, television) merely 
+reﬂecting reality, although obviously in a much faster and viral way. The Internet accelerates crises 
+extraordinarily and gives them a new dimension, although the same crises would most probably occur at a 
+slower pace without the existence of the Internet. 
+43 
+ 
+Ou seja, quem é da esquerda, procura se relacionar com pessoas de esquerda. Quem ouve 
+rock, conversa com quem ouve rock. Fãs de filmes de Almodóvar trocam comentários 
+entre si. Nessas trocas de opinião, surgem líderes, formadores de opinião, que não 
+necessariamente são jornalistas. Os chamados blogueiros não operam da mesma forma que 
+um jornalista da mídia impressa trabalha. Eles não têm nenhum código de ética, nenhuma 
+relação com as organizações. Nada os impede de postar informações confidenciais, 
+denúncias, acusações ou até rumores infundados. Sua credibilidade permanece forte 
+enquanto ele disser o que seu público quer ouvir. 
+Se, no passado, um dos públicos prioritários nas situações de crise eram 
+os jornalistas, pelo seu poder de impactar a opinião pública, com o 
+advento da Web 2.0, as mídias geradas pelo consumidor e a influência 
+que exercem nas organizações e no planejamento global de Comunicação 
+Organizacional não podem ser negligenciadas pelas organizações da era 
+da transparência e da participação do cidadão-usuário. [...] Segundo 
+dados do Le Monde Diplomatique de agosto de 2006, o número de blogs 
+dobra a cada seis meses, com um blog sendo criado a cada segundo no 
+mundo, em média, o que representa 30 milhões de blogs ao ano. 
+Ferramentas de busca como o Google acabaram com todas as fronteiras e 
+tornaram imediato o acesso às informações. (FURLANETO, 2007, p. 
+168). 
+ 
+Além disso, a disseminação de blogs como ferramentas para o jornalismo 
+possibilita a percepção não só de que existem novas formas de apuração jornalística, mas 
+como existem também novas formas de relacionamento entre os produtores e 
+consumidores desses meios. Os blogs jornalísticos não são apenas versões eletrônicas dos 
+jornais impressos, eles viraram alternativas para que os profissionais possam oferecer 
+coberturas independentes e não atreladas ao formato editorial das grandes empresas. Seus 
+conteúdos privilegiados e exclusivos atraem leitores fieis, dispostos a acreditar em tudo o 
+que ler em seu blog favorito. (CHRISTOFOLETTI & LAUX, 2008, p. 30) 
+Mais uma vez, é possível notar a importância que a credibilidade tem para os meios 
+informativos, inclusive os digitais. E, em um contexto em que qualquer um pode postar 
+uma notícia sobre qualquer coisa e ser lido em qualquer lugar do mundo, é importante 
+discutir até onde se pode questionar a credibilidade das fontes do meio digital. Afinal, o 
+que é real e o que cai no mundo dos boatos e rumores? Se pode acreditar em tudo o que é 
+dito na internet? Como visto no capítulo três desse estudo, os rumores e boatos têm poder 
+devastador tanto interna, quanto externamente para uma organização. 
+44 
+ 
+Conforme afirmam Rogério Christofoletti e Ana Paula França Laux em seu artigo 
+“Confiabilidade, credibilidade e reputação: no jornalismo e na blogosfera”, os blogs 
+surgiram como a possibilidade de anônimos, comuns e desconhecidos disporem de um 
+espaço onde pudessem fazer circular seus textos, suas confissões, seus relatos pessoais. Era 
+quase um diário virtual. Com o passar do tempo, os jornalistas passaram a ver nos blogs a 
+possibilidade de fazer o jornalismo de um homem só. Em seguida, as próprias 
+organizações jornalísticas se atentaram para o novo fenômeno na internet, responsável pela 
+larga expansão de conteúdo na rede, pelo crescimento da participação do público e pela 
+alteração de fluxo informativo. A partir dali, o público também tinha condições de gerar 
+informação, de alimentar os canais de informação com seus relatos e dados. Ele saiu da 
+posição passiva de receptor da informação. (CHRISTOFOLETTI & LAUX, 2008, p. 32) 
+De acordo com o pesquisador Paulo Serra, da Universidade da Beira Interior, em 
+Portugal, “não há uma instância entre os fatos e o público que garanta a validade da 
+informação, e cabe ao receptor decidir, por seus próprios meios, o que merece sua 
+confiança” (SERRA apud CHRISTOFOLETTI & LAUX, p.34). Essa escolha se torna 
+ainda mais complexa e confusa nos dias atuais, quando há muitas formas de acesso à 
+informação. Entretanto, o autor afirma que o caminho para a escolha é semelhante ao de 
+veículos impressos: o público se orienta por fatores como pertinência e credibilidade, 
+combinados, para escolher fontes e conteúdo de informação. 
+1.10. De que forma a internet altera a imagem e a reputação de uma 
+organização? 
+Como explicado no segundo capítulo desse estudo, a imagem e a reputação de uma 
+organização são dois de seus atributos mais importantes. A forma como ela é percebida 
+pelo público pode determinar seu futuro em meio a uma forte crise de imagem. Em um 
+mundo interconectado, a internet pode vir tanto como aliada à construção dessa boa 
+relação, quanto como uma vilã. A comunicação de uma empresa não pode ignorar a 
+relação de proximidade que as redes sociais trazem com o público. 
+O espaço digital de uma empresa não pode servir apenas como um meio para 
+divulgação de promoções e propagandas. O público espera que as redes sociais sejam o 
+canal para se aproximar, dialogar e se engajar com uma empresa, estabelecendo, assim, 
+uma relação de confiança entre eles. Uma organização que ignora tudo isso passa a ser 
+45 
+ 
+vista como tendo uma comunicação negligente, que deixa de escutar o seu consumidor. A 
+grande novidade dos meios digitais é justamente o fato de que o público tem a 
+possibilidade de interagir. Se a comunicação for feita de forma unilateral, essa falta de 
+interação é vista como um ponto negativo para a imagem da empresa. (TEIXEIRA, 2013, 
+p. 64) 
+A reputação de uma organização leva anos para ser consolidada. É uma relação de 
+confiança. Se em uma rede social, a empresa nunca atende aos seus consumidores, ignora 
+os problemas e comentários negativos, e responde apenas aos elogios a imagem dessa 
+empresa é de que ela não se importa com o que seus clientes têm a dizer. E a internet 
+guarda tudo. Quando as pessoas procuram pelo nome da empresa para conhecê-la, os 
+comentários negativos dos clientes serão os que chamarão mais atenção. Se o problema for 
+recorrente, e a comunicação da empresa nunca se atentar a isso, sua reputação será de uma 
+prestadora de serviços que não se preocupa com o que seu consumidor fala sobre ela. 
+Com a mudança de comportamento do consumidor online, os sites de reclamações 
+ganharam espaço no Brasil. Os mais conhecidos são o “Reclame Aqui” 
+(http://www.reclameaqui.com.br/) e o “Reclamão” (https://www.reclamao.com/). Esses 
+meios de reclamação se tornaram os maiores determinantes para a imagem de uma 
+empresa na internet. Além de ajudar na validação do direito dos consumidores, estes sites 
+podem também ser utilizados como meios de conhecer as empresas. Por meio deles é 
+possível ter acesso a informações de diversos produtos e saber como as empresas se portam 
+diante de críticas. (CIRIBELI & PAIVA, 2011, p. 13) 
+Uma boa reputação não se constrói do dia para a noite. Ela leva anos para ser 
+consolidada. Entretanto, uma vez conquistada, as empresas não podem acreditar que ela irá 
+se sustentar eternamente. É preciso um esforço contínuo, pois o que foi construído em anos 
+pode ser destruído em segundos. A internet surgiu para mudar as relações do público com 
+as prestadoras dos serviços, e é um meio tão poderoso que pode destruir reputações 
+rapidamente. Cabe às empresas compreenderem como ela funciona e se adequarem a esse 
+novo modelo de interação com seus stakeholders. 
+ 5.4. A internet pode ser uma aliada? 
+Apesar de ser um catalisador para as crises de imagem e de aumentar o potencial 
+destrutivo das crises de imagem, a internet não é necessariamente o pesadelo de quem sabe 
+46 
+ 
+usá-la para o bem. Ela pode, inclusive, ser uma aliada – tanto para o gerenciamento da 
+crise, quanto para a prevenção dela. Uma empresa que conhece o seu público-alvo na 
+internet e estabelece interações com ele tende a aproximar as pessoas e ganhar mais 
+confiança. Quando isso é aliado a bons serviços e uma imagem forte no mundo offline, o 
+mundo online serve como um reforço da boa reputação da organização. 
+A internet permitiu que o setor de comunicação de uma empresa deixasse de ser 
+apenas o mediador entre a imprensa e o público. Ela é também um canal direto de 
+comunicação com o público, e encurtou o tempo de resposta que o stakeholder exige. Uma 
+resposta que antes poderia levar horas para ser dada é dita em alguns minutos em uma rede 
+social. Quanto mais rápido a empresa responde, mais rápido ela começa a ter controle da 
+situação. Além disso, crises nas redes precisam de atualização constante, para evitar 
+rumores e especulações. Dessa forma, a audiência permanece conectada com o discurso da 
+organização. (FORNI, 2015, p. 230) 
+Outro aspecto importante das mídias sociais é o monitoramento das redes. As 
+organizações modernas têm buscado estar presentes na internet para acompanhar as 
+tendências dos públicos de interesse que acessam esses ambientes para expressar suas 
+ideias. Os veículos não podem ignorar a importância desses espaços plurais, pois eles 
+repercutem temas, pautas e notícias, que podem ser usados para conhecer o seu público e 
+ter uma percepção de como estão a sua imagem e reputação. (BUENO, 2011, p. 422) 
+É fundamental que as agências e assessorias monitorem as redes e as 
+mídias sociais porque elas têm contribuído para a disseminação rápida de 
+informações relevantes, exigindo, portanto, uma resposta rápida, 
+especialmente em momentos de crise ou quando se referem a situações 
+que dizem respeito a clientes ou consumidores, ou stakeholders em geral 
+[...]. (BUENO, 2011, p. 422) 
+ 
+As mídias digitais ajudam as organizações a detectar possíveis ameaças através do 
+monitoramento dos ambientes e da gestão de riscos. As redes sociais são, em geral, os 
+melhores meios para isso. Sites oficiais ou sites de reclamação, entretanto, também são 
+bons caminhos. Ao examinar essas tecnologias, vistas sob a ótica da gestão de riscos, a 
+comunicação das empresas pode deixar de ser reativa, e só agir quando algo acontece, e se 
+tornar proativa, e agir evitando que problemas grandes aconteçam, através da solução dos 
+problemas pequenos rapidamente. (PERRY et all., 2015, p. 4) 
+47 
+ 
+A internet permite que qualquer organização, grande ou pequena, famosa ou 
+anônima, tenha acesso a todas as informações sobre o que público espera dela, o que está 
+sendo dito sobre ela, e até qual a imagem que o público tem em determinado momento. As 
+informações obtidas através da internet podem ajudar organizações a se ajustar às 
+expectativas de seu público e tomar medidas para prevenir que uma crise de imagem 
+aconteça. Contudo, como já visto nesse estudo, crises são inevitáveis, e nem o 
+monitoramento mais severo pode impedir que elas aconteçam. E, quando a crise ocorre, as 
+organizações são instadas a reagir. (PERRY et all., 2015, p. 5) 
+A internet pode servir como uma peça estratégica para as organizações. Por mais 
+que algumas empresas queiram evitar as mídias digitais, com medo de que elas possam ser 
+uma armadilha que irá causar mais danos do que ganhos, a demanda imediatista por 
+informação exige que a internet seja utilizada como recurso para transmiti-la. É mais 
+arriscado não entregar uma resposta do que entregar via internet. O risco é inerente em 
+caso de crises, independente do meio utilizado. Todas as ações tradicionais de uma crise de 
+imagem, como os releases, as coletivas de imprensa, as cartas para os stakeholders podem 
+ser otimizados com o uso da internet. (PERRY et all., 2015, p. 5) 
+Boa parte das crises de imagem atuais surgem da internet. Seja por um erro da 
+própria organização, por rumores espalhados pelas redes ou pela falta de interação com a 
+empresa, uma das soluções para esses problemas é incluir os meios digitais no 
+planejamento estratégico da empresa. Monitoramento digital pode, por exemplo, evitar ou 
+minimizar uma crise de imagem causada por uma denúncia falsa na internet, ou pelas 
+palavras de um consumidor mal atendido. 
+Através de monitoramento do ambiente, a internet e a world wide web 
+pode fornecer um maior nível de abertura que permite que a liderança 
+organizacional possa realizar uma troca de informações adicionais. A 
+comunicação mediada por computadores também pode ajudar 
+organizações a se comunicarem de forma mais rápida e efetiva com os 
+stakeholders uma vez que a crise esteja instalada. Finalmente, a 
+comunicação mediada por computadores pode ajudar as organizações a 
+criar formas mais inovadoras e criativas para responder às crises.19 
+(PERRY et all., 2015, p. 6)  
+                                                           
+19Tradução da autora: Through environmental scanning, the Internet and the WWW provide another level of 
+openness that allows the organizational leadership additional exchange information. CMC may also help 
+organizations communicate quickly and effectively with stakeholders once a crisis has been identified. 
+Finally, CMC can help organizations create new, innovative responses to crises. 
+48 
+ 
+O CASO TAM 402 
+ 
+O acidente do voo 402 da TAM em 1996 foi, até então, o maior acidente da história 
+da aviação brasileira. As consequências da queda foram 98 mortos, um bairro inteiro 
+destruído e uma reputação sólida correndo risco sério de ruir. O gerenciamento de uma 
+crise de imagem como a vivida pela TAM, que envolve uma tragédia com muitas vítimas e 
+muitos interessados, precisa lidar com diversos problemas. O maior deles é o fator 
+humano. Como lidar com as famílias, os moradores das casas destruídas, uma imprensa 
+que exige respostas e um público com medo de estar no próximo voo acidentado, e, ao 
+mesmo, manter o nome e a reputação da empresa sem grandes arranhões? 
+No livro “A Era do Escândalo”, Mário Rosa, através de entrevista com Luís 
+Eduardo de Falco, vice-presidente da TAM na época do acidente, detalha todo o 
+gerenciamento da crise vivida pela companhia aérea, desde o dia do acidente até a 
+premiação como a melhor empresa brasileira de 1997 pela revista Exame. Considerado um 
+case de sucesso de gerenciamento, o caso não precisou lidar com os benefícios e malefícios 
+da internet. Mas, e se tivesse ocorrido hoje, os gestores da crise da TAM teriam agido de 
+forma diferente? 
+6.1. O gerenciamento da crise 
+A crise gerada pela queda do voo 402 foi a maior crise de imagem que a TAM tinha 
+vivido até aquele momento. A empresa era a 2ª líder do mercado de aviação no Brasil, 
+atrás apenas da Varig, e havia ganhado, um ano antes, em 1995, o prêmio de melhor 
+companhia aérea regional do mundo, conferido pela revista Air Transport World, 
+considerada a bíblia da aviação civil. O avião 402 era o maior símbolo desse prêmio: todo 
+pintado em azul, era o escolhido para carregar o título de “number 1” da frota. (ROSA, 
+2003, p. 36). Sua queda representava um grande trauma em sua marca e sua reputação. 
+O comandante Rolim Amaro, então presidente da TAM e um dos maiores símbolos 
+da companhia, não estava no Brasil no momento do acidente.  Quem assumiu a posição de 
+porta-voz da empresa foi o vice-presidente Luís Eduardo de Falco, que precisou tomar as 
+primeiras decisões a serem executadas. Às 13h do dia 01º de novembro de 1996, um dia 
+após o acidente, o comandante Rolim chegou ao Brasil para uma coletiva de imprensa. 
+Rolim e Luís dividiram o posto de porta-voz – Rolim personificava a companhia, e trazia 
+49 
+ 
+uma carga emocional em suas entrevistas, enquanto Luís era quem transmitia as 
+informações mais formais. (ROSA, 2003, p. 48) 
+6.1.1. Os primeiros passos 
+De acordo com Luís de Falco, os primeiros passos do gerenciamento do acidente 
+foram tomados por instinto. “A primeira preocupação de um executivo com 
+responsabilidade numa situação como essa é tentar salvar vidas e saber se há 
+sobreviventes”. (FALCO apud ROSA, 2003, p. 37). A presença de sobreviventes foi 
+descartada pela Defesa Civil devido à gravidade da queda. A preocupação voltou-se, então, 
+para encontrar a caixa preta do avião, para entender o acontecido. Todas as decisões 
+deveriam ser tomadas o mais rápido possível – em um acidente grave como esse, qualquer 
+minuto era precioso. Luís de Falco detalha quais foram os passos tomados nas primeiras 
+48h depois do acidente: 
+Primeiro passo: A empresa não pode parar – todos os voos seguidos ao acidente 
+decolaram. Independentemente de ter passageiros ou não, os pilotos foram orientados a sair 
+com todos os voos. Os comissários de bordo deviam cumprir suas escalas. A TAM deveria 
+continuar voando. As equipes não poderiam ser contagiadas pelo pânico que o acidente 
+causava nos passageiros. “Os pilotos foram incríveis, decolaram mesmo tendo diante de si 
+a imagem, de um avião da companhia destroçado e tendo perdido um companheiro” 
+(FALCO apud ROSA, 2003, p. 38). 
+Às aeromoças, a orientação era a mesma. Porém, houve uma redução de 15% a 
+20% do quadro de empregados naquele dia, por conta de profissionais que se recusaram a 
+voar. Falco afirma que os que não estavam em condições de voar, deveriam ser levados 
+para casa. “Minha preocupação era que ocorresse o efeito cascata: ao ver uma colega 
+chorando, as outras também começariam a chorar. Naquele momento de crise absoluta, 
+precisávamos de gente capaz de controlar a emoção e não deixar a máquina parar”. 
+(ROSA, 2003, p. 39). O maior medo de Falco era que a comoção gerasse imobilismo.  
+Do local do acidente, em meio à fumaça, vi os nossos aviões decolando 
+de Congonhas. Isso tudo acontecia enquanto eu observava o trabalho 
+frenético de bombeiros, policiais e funcionários da Defesa Civil em busca 
+dos corpos. Não há um comando único, mas todos parecem saber o que 
+precisa ser feito. Não chega a ser uma coisa super organizada, mas não é 
+descoordenado. É tudo muito instintivo. O que também valeu de exemplo 
+para mim. (FALCO apud ROSA, 2003, p. 39) 
+50 
+ 
+ 
+Segundo passo: As famílias das vítimas deveriam receber toda a atenção -  
+naquele momento, os stakeholders mais importantes da companhia eram as famílias das 
+vítimas. Todos os esforços dos empregados da empresa deveriam minimizar a dor dos que 
+perderam seus entes no acidente. Foi montado o Centro de Atendimento às famílias das 
+vítimas junto ao pós-venda da empresa, e todas as linhas telefônicas de sugestões e 
+reclamações foram disponibilizadas para a transmissão de informações. Todos os 
+funcionários do atendimento pararam o que estavam fazendo para trabalhar na central de 
+crise. 
+Segundo Falco, a primeira tarefa da central de crise foi comunicar a todas as 
+famílias dos 90 passageiros sobre o acidente, e garantir que todos soubessem através da 
+empresa, e não da mídia. Para isso, a central teve que impedir temporariamente que a 
+imprensa tivesse acesso à lista antes que todos fossem avisados. Além disso, todas as 
+famílias foram alocadas em um mesmo hotel, próximo ao aeroporto, e todo o pessoal de 
+atendimento no balcão foi dirigido ao hotel para confortar as pessoas. “Era importante 
+colocar um grande número de funcionários, inclusive uniformizados, para poder dar um 
+pouco de calor humano, ou simplesmente escutar os parentes. [...] Muitas vezes o que as 
+pessoas mais precisam é desabafar e falar do ente querido que acabou de perder” (FALCO 
+apud ROSA, 2003, p. 40). 
+Terceiro passo: entender o que provocou o acidente – todo o Brasil parou para 
+acompanhar o desastre vivido pela TAM. E a companhia precisava dar explicações a toda a 
+sociedade. 40 minutos depois do acidente foram encontradas as duas caixas pretas do avião 
+(tanto a que grava os diálogos na cabine do piloto quanto a que registra os dados do avião, 
+como velocidade, altitude aceleração). Essas são as duas peças essenciais para descobrir o 
+que teria levado o Fokker-100 a cair do céu em 25 segundos. A primeira entrevista coletiva 
+cedida por Falco aconteceu algumas horas depois do acidente, e a pauta principal entre os 
+jornalistas era a pergunta: quem eram os culpados? Como visto no segundo capítulo desse 
+estudo, o acidente foi causado por conta de uma falha de segurança que os modelos da 
+Fokker apresentavam, e que a TAM não tinha conhecimento. 
+Àquela altura, ainda não havia muito o que oferecer de resposta com relação aos 
+culpados. É perigoso fazer especulações antes de se ter um resultado concreto em uma 
+51 
+ 
+situação tão delicada como essa. É necessário ler todos os dados das caixas pretas para tirar 
+conclusões, mas é um processo que leva cerca de 90 dias. Nem a imprensa e nem o público 
+estava disposto a esperar tudo isso. Nesse momento que os rumores começaram a surgir. 
+No esforço de tentar impedir que informações não oficiais ganhassem repercussão, a TAM 
+optou por manter um ritmo constante de entrevistas coletivas, que aconteciam a cada 12 
+horas, para estar sempre entregando informações novas. Quanto mais informações oficiais 
+oferecessem, menor era o risco de rumores ganharem espaço. (ROSA, 2003, p. 43-44) 
+6.1.2. Cadê o manual? 
+Todas as ações do gerenciamento da crise da TAM foram feitas por instinto e por 
+sensibilidade mercadológica de uma empresa de serviços. A companhia aérea não tinha 
+nenhum manual ou plano de gerenciamento de crise para dizer o que deveria ser feito ou 
+qual a melhor forma de fazê-lo. Em 1996, poucas empresas no Brasil tinham manuais de 
+gestão de crise. As empresas americanas, porém, já haviam mostrado preocupação com o 
+assunto, e já estavam desenvolvendo planos específicos de gestão. (ROSA, 2003, p. 49) 
+Uma dessas empresas era a American Airlines. A companhia aérea americana 
+cedeu o seu crisis management plan20 e um técnico especializado para orientar a TAM 
+durante o processo. De acordo com Falco, a maioria das ações do manual correspondiam 
+com as tomadas pela empresa, como reunir todos os parentes da vítima no mesmo local, 
+avisar aos familiares sobre a lista de passageiros, manter a empresa funcionando em meio à 
+crise. Depois do ocorrido, a TAM criou o seu próprio manual e capacitou técnicos de 
+gerenciamento de crise – que, eventualmente, também prestaram ajuda a empresas sul-
+americanas, como a Lapa, companhia aérea argentina. (ROSA, 2003, p. 52) 
+Em entrevista à Revista Organicom, João José Forni afirma que boa parte das 
+empresas brasileiras ainda hoje não está preparada para lidar com crises de imagem. De 
+acordo com o pesquisador, os diretores das organizações ainda esperam que nada aconteça, 
+e, quando acontece, entregam a responsabilidade do gerenciamento inteiramente à equipe 
+de comunicação e relações públicas. Ele também afirma que há bastante tempo empresas 
+norte-americanas se preocupam com pesquisas sobre o assunto, o que os possibilitou ter 
+mecanismos de gerenciamento muito bem estruturados. (FORNI, 2007, p. 4) 
+                                                           
+20Plano de gerenciamento de crise 
+52 
+ 
+Na Europa, principalmente na França, muitos estudos e pesquisas mais focadas em 
+crises empresariais e organizacionais também estão sendo realizados. De acordo com 
+Forni, essas pesquisas ainda são incipientes no Brasil, mas estão ganhando visibilidade nos 
+últimos anos. As empresas internacionais de consultoria de gerenciamento de crise ainda 
+são as principais fontes de orientação para empresas brasileiras que enfrentam crises de 
+imagem. 
+Acredito que no Brasil a prevenção será o próximo passo no 
+gerenciamento de crise, mesmo porque já aprendemos que a crise não 
+releva ninguém, seja governo ou empresa privada. Os episódios do 
+apagão aéreo, acidentes e crises políticas mostraram o quanto as empresas 
+e o governo ainda devem aprender e evoluir para uma administração 
+transparente, responsável e capaz de dar respostas rápidas aos clientes 
+nessas situações extremamente tensas e delicadas. (FORNI, 2007, p. 5) 
+ 
+6.1.3. O desfecho  
+O gerenciamento da crise do TAM 402 foi considerado um case de sucesso pois, 
+em suas ações, a empresa levou em consideração o lado humano do acidente. Ao dar 
+atenção às famílias – através de suporte financeiro, pessoal, e até religioso –, priorizar a 
+informação e dar espaço aos funcionários que não estavam confortáveis com a situação, a 
+TAM manteve seu principal valor: o cliente está em primeiro lugar. Isso foi visto em 
+números: nas duas semanas após o acidente, houve uma queda de 70% de passageiros. 
+Dois meses depois, o número de passageiros era semelhante ao número de antes do 
+acidente, as ações da companhia fecharam o ano com 100% de valorização e o balanço 
+anual teve o dobro do faturamento em relação ao ano anterior. (ROSA, 2003, p. 53) 
+O vice-presidente Luís de Falco apontou três ações determinantes para a TAM 
+recuperar sua imagem. O primeiro momento foi para tirar a marca do ar. Em 1996, a TAM 
+era uma empresa com forte apelo publicitário, com propagandas espalhadas em jornais, 
+revistas, cartazes e televisão. A ação de tirar tudo do ar era para evitar o desgaste e não 
+expor sua marca ou atrelar a marca ao acidente. A companhia passou três anos sem 
+divulgar filmes na televisão, e nenhuma publicidade poderia ter apelo emocional, pois tudo 
+remetia ao acidente. Toda a comunicação passou a ser mais direta e objetiva. “Só no quarto 
+ano após o acidente a TAM começou a receber o ‘perdão’ da opinião pública para fazer um 
+marketing mais humano, o que tinha a ver com a característica de empresa de serviços”, 
+afirma Falco. (FALCO apud ROSA, 2003, p. 66) 
+53 
+ 
+O segundo momento de reconstrução da imagem foi quando a TAM foi escolhida 
+pelo governo brasileiro como a companhia oficial de transporte aéreo do então presidente 
+da república, Fernando Henrique Cardoso. Era a oportunidade de ter a bandeira brasileira 
+nos aviões da empresa e de se lançar internacionalmente. Nascia, então, o slogan “orgulho 
+de ser brasileira”. O terceiro momento foi a premiação da empresa pela revista Exame 
+como a melhor empresa do ano de 1997. Por ser uma publicação de reconhecimento no 
+meio empresarial, o prêmio foi a confirmação de que o gerenciamento de crise da TAM 
+fora bem feito. (ROSA, 2003, p. 66) 
+Entretanto, mesmo os casos considerados de sucesso registram altos prejuízos – e 
+não somente financeiros. Segundo Rosa, estimativas do setor de aviação civil previam que, 
+em 2003, um acidente aéreo custava cerca de US$1 bilhão. Esses danos não são apenas do 
+custo de aeronave e de indenizações das famílias – há seguros que cobrem esses danos. O 
+que se perde é em imagem, e esse tipo de dano é irrecuperável. A crise se torna a referência 
+da empresa, sua imagem fica diretamente associada a ela. “Perde-se em recall – passa ano 
+entra ano, as pessoas voltam a falar no assunto”. (ROSA, 2003, p. 53) 
+De acordo com Rosa, esse prejuízo de imagem, inclusive, não é restrito à 
+companhia que sofreu o acidente. Acidentes aéreos colocam em crise todo o setor aéreo, e 
+todas as companhias que estão voando naquele momento sofrem com danos de imagem 
+também. São problemas menores, reversíveis e menos danosos, mas que interferem no 
+funcionamento das companhias nos meses seguintes ao acidente. As pessoas passam a ter 
+medo de voar, independente de em qual companhia estarão. (ROSA, 2003, p. 54) 
+Segundo Luís de Falco, a segunda crise provocada por uma tragédia como a do voo 
+402 dura ainda mais tempo do que a primeira: a guerra judicial. As indenizações pagas aos 
+familiares dos mortos é uma questão delicada, que envolve a companhia, as vítimas e as 
+empresas seguradoras. A proposta de valor pago às famílias deve ser única – não se pode 
+quantificar qual vida vale mais ou menos. O valor que a TAM se dispôs a pagar foi de 
+US$150 mil. Os familiares que não estivessem de acordo deveriam entrar na justiça contra 
+a companhia aérea. “O interesse da empresa era resolver a questão o mais rápido possível, 
+mas o processo estendeu-se por quase três anos”. (FALCO apud ROSA, 2003, p. 60). 
+É válido ressaltar, entretanto, que a imagem e a reputação da TAM foram 
+fortemente arranhadas em outro momento, depois da crise gerada pelo voo 402. Em julho 
+54 
+ 
+de 2007, dez anos após a premiação da revista Exame, a companhia aérea se envolveu no 
+que é hoje considerado o segundo maior acidente aéreo da história da América Latina, o 
+acidente com o voo TAM 3054 (o primeiro ocorreu com o voo da Air France 447, em 
+junho de 2009, que saiu do Rio de Janeiro com destino a Paris, mas caiu no meio do 
+oceano – todas as 228 pessoas a bordo morreram). Também no aeroporto de Congonhas, o 
+acidente registrou 199 mortes ao colidir com o prédio da TAM Express, o serviço de carga 
+da companhia. Na época, nem Luís Eduardo de Falco e nem Rolim Amaro estiveram à 
+frente do gerenciamento da nova crise de imagem.21 
+6.2. Como foi feito 20 anos depois? 
+O gerenciamento da crise da TAM foi considerado um sucesso para sua época. As 
+ações tomadas pelo comitê de crise eram reportadas ao público única e exclusivamente 
+através da mídia tradicional, televisão e mídia impressa, e a equipe de comunicação da 
+companhia aérea trabalhava como mediadora entre o público e a imprensa. Entretanto, 
+como visto no capítulo 4 deste estudo, a internet mudou tudo. O questionamento é, 
+portanto, como seria o gerenciamento de uma crise tão séria como a vivida pela TAM se 
+ocorresse no mundo interconectado de hoje? 
+6.2.1. O caso Germanwings 
+Recentemente, outro caso de desastre aéreo tomou a atenção da opinião pública 
+mundial. Às 9 horas da manhã do dia 24 de março de 2015, o voo 9295 da companhia 
+aérea alemã Germanwings, parceira low cost22 da Lufthansa, uma das maiores companhias 
+da Europa, decolava de Barcelona, na Espanha, para a cidade de Düsseldorf, na Alemanha. 
+Trinta minutos após a decolagem, o comandante da aeronave, Patrick Sondenheimer, se 
+retirou da cabine de comando. Às 9h41 da manhã, Andreas Lubitz, copiloto do voo, 
+derrubou o avião deliberadamente em cima dos alpes franceses, ocasionando a morte de 
+todas as 150 pessoas a bordo. 
+O caso ganhou alta repercussão internacional rapidamente. Dois fatos levantaram 
+questionamentos pelo público: o primeiro era a idade do avião, que voava desde 1990 e 
+poderia apresentar falhas mecânicas – essa teoria perdeu força após a leitura das caixas 
+                                                           
+21 Luís Eduardo de Falco deixou a companhia aérea em 2001, meses após a morte de Rolim Amaro. 
+Disponível em: http://exame.abril.com.br/negocios/noticias/conheca-a-trajetoria-de-luiz-eduardo-falco-ate-
+chegar-a-presidencia-da-superoi-m0158659. Acesso em: 03/07/2016 
+22 Empresa aérea que fornece passagens de baixo custo 
+55 
+ 
+pretas. E, segundo, se a Germanwings tinha conhecimento do estado mental e psicológico 
+do copiloto. Durante as investigações, foi descoberto que Andreas Lubitz sofria de 
+depressão severa e que já havia ido a dezenas de médicos para se tratar. 
+Os problemas da Lufthansa, responsável pela Germanwings, começaram a 
+aumentar quando foi descoberto que Lubitz havia reportado à companhia aérea em 2009 
+que teria tido um caso depressão grave23, e mesmo assim recebera licença para operar 
+voos. Em 2013, entrou em vigor uma norma europeia que determinava a obrigação de 
+informar às autoridades sobre as doenças graves — como uma depressão — que sofriam os 
+pilotos ou copilotos. Desde então, os médicos da Lufthansa examinaram duas vezes o 
+copiloto, que já havia sido tratado anos atrás de “tendências suicidas”. Andreas foi 
+aprovado em ambos os testes. De acordo com a Lufthansa, a companhia aérea não ocultou 
+nenhum dado relevante sobre a saúde mental do copiloto, e todas as informações sobre a 
+saúde mental e psicológica dele estava conforme as regras de aviação europeia.24 
+Independente da Lufthansa ter conhecimento ou não dos problemas do copiloto da 
+Germanwings, o que veio seguido ao acidente foi a maior crise de imagem que a empresa 
+alemã viveu em todos os seus anos de serviço. A cobrança por respostas vinha das famílias 
+das vítimas, da imprensa mundial e da opinião pública. A crise de imagem vivida pelas 
+empresas poderia ter representado o fim de suas atividades. 
+6.2.2. Um gerenciamento conectado 
+Por se tratar do seu primeiro acidente com mortos em 18 anos de companhia, a 
+Germanwings não estava preparada para lidar com a subsequente crise de imagem que 
+viveria. Para assessorar no gerenciamento, a companhia aérea alemã contratou a empresa 
+consultora de comunicação Burson-Marsteller, que ficou responsável por traçar um plano 
+de crise. Em pleno 2015, quando um grande número de pessoas no mundo já tem pleno 
+acesso à internet e a utiliza como um meio de se relacionar com as empresas, a maior parte 
+do gerenciamento da crise da companhia foi feito através de mídias online. 
+                                                           
+23 Conforme publicado na matéria Autoridade aérea acusa Lufthansa de ocultar enfermidade de copiloto, do 
+jornal El País. Disponível em: 
+http://brasil.elpais.com/brasil/2015/04/06/internacional/1428342737_693399.html. Acesso em: 06/07/2016 
+24 Disponível em: http://brasil.elpais.com/brasil/2015/03/31/internacional/1427821509_464823.html. Acesso 
+em: 06/07/2016 
+56 
+ 
+Apesar disso, as primeiras ações da Germanwings foram as mesmas tomadas pela 
+TAM, 19 anos antes: o primeiro passo foi preparar um centro de atendimento tanto na 
+Espanha, país de origem do voo, quanto na França, local da queda e na Alemanha, local 
+para onde o voo era destinado. Em todos os centros, os atendentes falavam em diversas 
+línguas – inglês, espanhol, alemão e francês – para facilitar a comunicação entre a 
+companhia e os familiares e a imprensa. O segundo passo foi oferecer voos para que todas 
+as famílias fossem para a França para fazer reconhecimento dos corpos. 
+A primeira grande diferença entre os gerenciamentos da TAM e da Germanwings 
+começou menos de 60 minutos após a queda do avião, quando a companhia alemã fez um 
+pronunciamento em mídias sociais diretamente para o público. O comunicado, exposto em 
+todas as redes sociais e site oficial da empresa, tinha a seguinte mensagem: 
+A Germanwings anuncia com a mais profunda tristeza que, de acordo 
+com informações atuais, sua aeronave Airbus A320 operando o voo 4U 
+9525 de Barcelona para Düsseldorf sofreu um acidente acima dos Alpes 
+Franceses 11:00 de hoje, horário local (terça, 24 de março). Segundo 
+informações, havia 144 passageiros e seis membros da tripulação a bordo. 
+Membros das famílias dos passageiros envolvidos podem obter 
+informações ligando no telefone 00800 11 33 55 77, sem custo de 
+ligação. Todos na Germanwings e Lufthansa estão profundamente 
+chocados e abalados por esse acontecimento. Nossos pensamentos e 
+orações estão com as famílias e os amigos de todos os passageiros e 
+membros da tripulação.25(Lufthansa Group Press Release apud CANNY, 
+2016, p. 10) 
+No comunicado, o número dos centros de informações era divulgado para a busca de 
+respostas dos familiares. Em duas horas, as mídias sociais eram os meios mais utilizados 
+pelo público e pelos demais stakeholders para obter informações oficiais sobre a tragédia. 
+Horas depois, a empresa lançou um site dedicado exclusivamente às informações da queda 
+e das investigações, hospedado dentro do site oficial da Germanwings e da Lufthansa. 
+Segundo afirmam os contultores da Burson-Marsteller, o próximo passo do 
+gerenciamento foi fazer o monitoramento das redes sociais ao redor do mundo todo. 
+Através dessa ação, foi possível ver a recepção das pessoas em relação às ações tomadas e 
+                                                           
+25 Tradução da autora: Germanwings announces with the deepest regret that, according to the information 
+currently available, its Airbus A320 aircraft operating Flight 4U 9525 from Barcelona to Düsseldorf suffered 
+an accident above the French Alps at around 11:00 local time today (Tuesday 24 March). According to 
+current information, there were 144 passengers and six crew members on board. Members of the families of 
+the passengers involved can obtain personal information by calling the tollfree hotline on 00800 11 33 55 77. 
+Everyone at Germanwings and Lufthansa is deeply shocked and saddened by these events. Our thoughts and 
+prayers are with the families and friends of the passengers and the crew members. 
+57 
+ 
+às investigações, e agir de forma direta e objetiva. Sem o intermédio da imprensa, a 
+comunicação da empresa pôde se antecipar na interação com o público e dialogar com ele, 
+o que facilitou na hora de transmitir suas mensagens-chave e seus valores durante a crise. 
+Os passos tomados pela TAM de descobrir rapidamente os motivos da queda (o 
+problema técnico na aeronave fokker-100), esclarecer todos os acontecimentos ao público, 
+apoiar os familiares dos mortos, não deixar a empresa parar e oferecer coletivas de 
+imprensa constantes para manter a periodicidade das notícias oficiais também foram os 
+mesmos tomados pela Germanwings. Vinte anos depois, esses passos ainda são essenciais 
+para a sobrevivência da imagem de uma companhia aérea após uma tragédia como as dos 
+voos 402 e 9295. A diferença principal, porém, é que a internet facilitou que essas ações 
+fossem tomadas mais rapidamente, que o público esclarecesse dúvidas diretamente com a 
+empresa e que as reações fossem monitoradas enquanto as ações estavam sendo tomadas. 
+Em 2015, uma outra grande empresa entrou em crise após um acidente de grande 
+repercussão. A mineradora Samarco, cujas responsáveis legais são a australiana BHP e a 
+brasileira Vale, viveu uma das maiores crises de imagens brasileiras quando uma de suas 
+barragens se rompeu, fazendo com que um mar de lama tomasse conta do distrito de Bento 
+Rodrigues, em Mariana, Minas Gerais. O incidente foi o pior desastre ambiental do Brasil, 
+e ocasionou a poluição de um de seus principais rios, o Rio Doce. Foram 17 mortos ao 
+total. Para conter sua crise, uma das primeiras medidas tomadas pela empresa foi criar um 
+site da crise, hospedado pelo site da Vale (vale.com/samarco), onde notas e 
+esclarecimentos eram postados regularmente. 
+Os sites de crise têm, em geral, páginas com vídeos, que proporcionam um espaço 
+para a empresa transmitir sua mensagem sem passar pela edição das empresas. Há também 
+um espaço com todos os releases e comunicados, uma área com as respostas com as 
+perguntas frequentemente perguntadas, imagens das ações e até depoimentos dos 
+envolvidos. O site pode vir como uma ferramenta que aproxima o público da organização 
+de crise, e facilita a transmissão de informações oficiais de forma direta. 
+Um dos primeiros problemas vividos pela TAM em sua gestão de crise foi o fato de 
+que seu presidente, o comandante Rolim Amaro, estava ausente do país no momento do 
+acidente, e só retornou dois dias depois. Um exemplo de como a internet poderia ter agido 
+como uma aliada da companhia seria o uso das redes sociais com transmissão de vídeo 
+58 
+ 
+para mandar uma mensagem oficial, para depois formalizar seu discurso nas coletivas de 
+imprensa. O recurso foi utilizado, por exemplo, pelo presidente da mineradora australiana 
+BHP, que enviou um texto para a conta oficial da empresa na rede social Facebook antes 
+de vir ao Brasil. 
+Hoje, 20 anos depois, a LATAM têm contas oficiais nas redes sociais mais 
+populares, e possui número considerável de seguidores em todas. Na rede social Facebook, 
+por exemplo, em julho de 2016, eram quase 10 milhões de seguidores. A comunicação 
+através dessas redes sociais pode ser feita de forma direta, e com largo alcance. Além 
+disso, com tantos usuários, é possível fazer um trabalho efetivo de monitoramento dessas 
+redes. Boatos como o publicado pela revista “Isto É” poderiam ter sido evitados ou 
+amenizados mais rapidamente. 
+Como afirmou a consultoria responsável pelo gerenciamento da crise da companhia 
+aérea alemã, caso da Germanwings é considerado, assim como o voo 402, um caso de 
+sucesso de gestão de crise de imagem. Em oito semanas de gerenciamento, o número de 
+passageiros retornou ao normal e a opinião pública se colocou disposta a perdoar os erros 
+cometidos pela companhia aérea. (CARTWRIGHT, 2016) Com um discurso que mostrava 
+sensibilidade e profunda tristeza pelo ocorrido e com respostas rápidas e objetivas para 
+esclarecer o público, a imagem da Germanwings e, consequentemente, de sua responsável 
+Lufthansa, é de uma empresa que se preocupa com seus passageiros e age de forma 
+proativa para ajuda-los. Apesar de sofrer uma crise com imensa repercussão e com 
+potencial destrutivo, a companhia aérea alemã soube utilizar bem a internet como um meio 
+de facilitar a comunicação direta com o público e diminuir os efeitos negativos da tragédia. 
+  
+59 
+ 
+CONSIDERAÇÕES FINAIS 
+ 
+Vivemos em um mundo conectado, em que as crises de imagem estão sempre 
+prestes a se desencadear. Entender como elas funcionam e como gerenciá-las é um 
+elemento fundamental não só para o setor de comunicação das organizações, como 
+também dos empresários e responsáveis pela direção delas. Ignorar uma crise ou minimizar 
+seus efeitos e seu potencial podem ser os ingredientes necessários para arruinar uma 
+organização que levou anos para ser erguida. 
+Vivemos em um mundo interconectado, em que as distâncias se encurtaram, e a 
+visibilidade nunca foi tão grande. Com uma facilidade tão grande de exposição, as crises 
+de imagem têm se tornado as grandes ameaças das organizações – e qualquer um pode ser 
+a próxima vítima. As crises de imagem têm poder devastador na reputação e na imagem de 
+uma empresa. E qualquer empresa, independente do produto ou serviço, vende o mesmo 
+valor: a credibilidade. Uma vez perdida, a luta para reconquistá-la é muito longa. 
+A reputação de uma empresa é o que ela tem de mais valioso. É ela que irá fazer 
+com que os clientes de uma empresa a escolham em detrimento das concorrentes, é quem 
+irá fidelizar um cliente e quem irá determinar sua posição no mercado. Uma empresa de 
+reputação sólida pode ver tudo ser arruinado em pouco tempo – basta uma crise de imagem 
+ignorada ou mal resolvida. Os estudos de gerenciamento de crises surgiram com a proposta 
+de entender qual a melhor forma de operar para que o bem mais valioso de qualquer 
+organização seja protegido. 
+É preciso lembrar, também, que a responsabilidade pelo gerenciamento não é da 
+equipe de comunicação de uma organização. Apesar de sua função importante de 
+estabelecer contato com o público, cabe à alta diretoria traçar o plano de ações e decidir 
+quais são as prioridades naquele momento de crise. A comunicação de crise é, portanto, 
+mais um instrumento dentro do plano de gerenciamento de crise – um instrumento 
+importante, pois torna visíveis as outras ações, mas não o único. 
+Nesse contexto, a participação da mídia é fundamental para o desenrolar de uma 
+crise de imagem. É ela quem transforma a empresa em mocinha ou em vilã. Através da 
+mídia, a opinião pública pode se colocar a favor ou contra uma organização em crise – e 
+cabe a essa organização saber usar a mídia a seu favor ou não. É importante destacar que a 
+60 
+ 
+imprensa é um dos stakeholders mais importantes de qualquer organização. Ela é um dos 
+primeiros setores que devem receber atenção da organização frente a uma crise. 
+Uma das preocupações das empresas em crise é manter um ritmo constante de 
+divulgação de informações oficiais, pois são elas que irão reforçar a versão que ela está 
+apresentando. Uma organização que negligencia a divulgação constante de informações 
+abre espaço para um dos maiores agravantes de crises de imagens: os boatos. Boatos têm 
+poder de instalar insegurança e medo tanto no público externo, quanto no público interno. 
+Eles podem desfazer versões e arruinar reputações – mesmo que nem sejam comprovados. 
+Com o surgimento da internet e das novas formas de replicação da informação, a 
+grande mídia não é a única responsável pela divulgação das ações da empresa. O público 
+se tornou muito mais participativo do que era antes, pois ganhou a chance de interagir 
+diretamente e de forma mais rápida e objetiva com a imprensa. A internet cortou os 
+caminhos. Ela fez com que o público fosse diretamente na fonte, sem precisar passar pelo 
+intermédio da imprensa. 
+Assim como a grande mídia, a internet também pode vir como uma aliada ou uma 
+inimiga. Justamente pela sua característica objetiva e de permitir que qualquer um tenha 
+espaço para expor sua opinião, a web pode ser um espaço de repercussão de rumores e 
+notícias ruins, mas pode ser também um instrumento prático para a organização se 
+relacionar com seus stakeholders e monitorar suas reações às ações da empresa. 
+Uma das maiores companhias aéreas do mundo, a maior da Brasil e da América 
+Latina, a ex-TAM, hoje LATAM, não pôde se utilizar dos benefícios e malefícios da 
+internet. Primeira empresa aérea brasileira a sofrer com uma crise de dimensão tão grande 
+como a do caso TAM 402, todo o gerenciamento de sua crise foi feito sem precedentes e 
+sem padrões. Hoje, 20 anos depois, é possível ver o quanto as ações de empresas em crises 
+mudaram, apostando na rapidez e objetividade da internet, no contato direto com seus 
+stakeholders e no monitoramento de reação do público externo e interno. Porém, em um 
+mundo que se transforma constantemente, essas estratégias continuam mudando ainda 
+hoje. 
+O presente trabalho não esgota todas as reflexões de estudos na área, ainda mais se 
+tratando de algo tão abrangente como a crise de imagem, em especial em tempos 
+interconectados. O campo de comunicação de crise em meios digitais, em especial as redes 
+61 
+ 
+sociais, ainda é muito vasto, e ainda está sendo descoberto diariamente. Esse trabalho não 
+teve o objetivo de compreender seu uso, mas sim traçar uma comparação entre dois casos 
+vividos em épocas diferentes. Existem, ainda, diversos ângulos e pontos de vista com que 
+se pode trabalhar o assunto. São possibilidades de estudo para a área de marketing, por 
+exemplo, compreender as melhores estratégias a serem tomadas em meio a uma crise de 
+imagem. Para a comunicação organizacional, pode-se estudar como lidar com a 
+comunicação interna de uma organização. Em relação à mídia, se pode analisar o discurso 
+de uma empresa durante uma crise. Para a área de publicidade pode ser feita a análise 
+visual da marca de uma empresa em crise, por exemplo.  
+São inúmeras, portanto, as possibilidades que esse campo apresenta. Esse estudo se 
+propôs a entender como a profissão do comunicador pode exercer um papel fundamental 
+na prevenção e gerenciamento das crises, e quais as melhores formas de lidar com uma 
+crise tão grande e com potencial tão destrutivo como a da TAM. 
+  
+62 
+ 
+BIBLIOGRAFIA 
+ 
+ 
+BRANDÃO, Elizabeth; CARVALHO, Bruno. “Imagem corporativa: marketing da ilusão”. 
+In: DUARTE, Jorge. Assessoria de imprensa e relacionamento com a mídia. São Paulo: 
+Atlas, 2002, p. 189-204 
+ 
+BUENO, W.C.; “Imagem, reputação e identidade: revisitando conceitos”. Portal Imprensa. 
+2008. Disponível em:  
+<http://portalimprensa.com.br/noticias/wilson+da+costa+bueno/193/imagem+reputacao+e
++identidade+revisitando+conceitos> Data do acesso: 02 de julho de 2016 
+ 
+ 
+CALDAS, G. “Relacionamento assessor de imprensa/jornalista: somos todos jornalistas!” 
+In: DUARTE, J. (Org) Assessoria de imprensa e o relacionamento com a mídia: teoria e 
+técnica. São Paulo: Atlas, 2011. p. 321-328 
+ 
+CANNY, U. I.; “An Application of Situational Crisis Communication Theory on 
+Germanwings Flight 9525 Crisis Communication”. Berlim, 2015. 
+ 
+CARTWRIGHT, Chris. "Crisis: an overview for Vale". In: ENCONTRO GLOBAL DE 
+COMUNICAÇÃO DA VALE. Rio de Janeiro: Edifício Barão de Mauá, 03 fev. 2016. 
+ 
+CHRISTOFOLETTI R.; LAUX A. P. F.; “Confiabilidade, credibilidade e reputação: no 
+jornalismo e na blogosfera”. Intercom. São Paulo, v.31, n.1, p. 29-49, jan./jun. 2008. 
+ 
+CIRIBELI, J.; PAIVA, V.; “Redes e mídias sociais na internet: realidades e perspectivas de 
+um mundo conectado”. Revista Mediação. Belo Horizonte, v.13, n.12, 2011. 
+63 
+ 
+ 
+CORRÊA, R.: “Redes Sociais na Web: instrumentos de fortalecimento e/ou desconstrução 
+da imagem/reputação das organizações”. Revista Panorama. Goiânia, v.2, n.1, p.100-107, 
+2012. 
+ 
+DIFONZO, N.; BORDIA, P.; ROSNOW, R. L.: “Reining in rumors. Organizational”. 
+Dynamics Magazine, v. 23, n.1, p. 47-62, 1994. 
+ 
+FAVA, G. P.; “Filtro bolha: desafio para propagação de informação no meio digital”. 
+Intercom. São Paulo, 2013. 
+ 
+FORNI, J. J.; Entrevista a Luiz Alberto de Farias. Revista Organicom, v. 4, n. 6, 1º 
+semestre de 2007, p.197-211. 
+ 
+FORNI, J. J.; Gestão de crises e comunicação: o que gestores e profissionais de 
+comunicação precisam saber para enfrentar crises corporativas. São Paulo. Editora Atlas, 
+2015. 
+ 
+FORNI, J. J.; “Desastres colocam reputação em risco”. Comunicação e crise.  2015. 
+Disponível em: http://www.comunicacaoecrise.com/site/index.php/85-artigos-sobre-
+gestao-de-crise/114desastres-colocam-reputacao-em-risco. Data do acesso: 03 de julho de 
+2016. 
+ 
+FURLANETTO, M. O.; “O papel essencial das Relações Públicas no gerenciamento de 
+crises”. Organicom, v. 4, n. 6, 2007. 
+ 
+64 
+ 
+GONZÁLEZ-HERRERO, A; SMITH, S.; “Crisis communications management on the 
+web: How Internet-based technologies are changing the way public relations professionals 
+handle business crises”. Journal of Contingencies and Crisis Management, v.16, n.3, p. 
+143-153, 2008. 
+ 
+KUNSCH, M. M. K.; “Planejamento de relações públicas na comunicação integrada”. 4a 
+ed. revisada, atualizada e ampliada. São Paulo: Summus, 2003. 
+ 
+IASBECK L.; “Imagem e reputação na gestão da Identidade Organizacional”. Organicom, 
+v. 4, n. 7, p. 85-97, 2007. 
+ 
+MCLOUGHLIN, B.; “Um Plano de Comunicação na Crise”. Pensylvannia, 2004. 
+ 
+PERRY, D. C.; TAYLOR, M.; DOERFEL, M. L.; “Internet-Based Communication in 
+Crisis Management”. Management Communication Quarterly, v. 17, n. 2, p. 206-232, 
+2003. 
+ 
+PÉRSIGO, P. M.; FOSSÁ M. I. T.; “Comunicação Organizacional e Crises: questionando 
+políticas e revendo perspectivas”. Abrapcorp. Porto Alegre, 2010. 
+ 
+ROJAS O.; OCTAVIO I.; “La Comunicación en Momentos de Crisis”. Comunicar, v. 21, 
+n. 52, p. 137-140, 2003 
+ 
+ROSA, M.; “A reputação sob a lógica do tempo real”. Organicom, v. 4, n. 7, 2011. 
+ 
+65 
+ 
+ROSA, M; A síndrome de Aquiles. São Paulo:  Editora Gente, 2001. 
+ 
+ROSA, M.; A Era do escândalo: lições, relatos e bastidores de quem viveu as grandes 
+crises de imagem. São Paulo Geração Editorial, 2003. 507p. 
+ 
+SERRA, P.; “O princípio da credibilidade na selecção da informação mediática”. Animus. 
+Revista Interamericana da Comunicação Midiática, v. 1, p. 37-49, 2003. 
+ 
+SUSTEIN, C. R.; A verdade sobre os boatos: como se espalham e por que acreditamos 
+neles/ Cass Sustein; tradução de Márcio Hack. Rio de Janeiro: Elsevier, 2010. 
+ 
+TEIXEIRA, P. B.; Caiu na rede, e agora? Gestão e gerenciamento de crises nas redes 
+sociais. São Paulo: Évora, 2013. 168p.; 23cm. 
+ 
+TORQUATO, G.; “Tratado de comunicação organizacional e política”. São Paulo: 
+Pioneira, 2004. p. 62-85.

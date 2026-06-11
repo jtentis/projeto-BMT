@@ -1,0 +1,1756 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+ESCOLA DE COMUNICAÇÃO 
+CENTRO DE FILOSOFIA E CIÊNCIAS HUMANAS 
+JORNALISMO 
+ 
+ 
+ 
+ 
+ 
+ 
+TUDO SOBRE: UMA ANÁLISE DOS ESPECIAIS 
+MULTIMÍDIA DA FOLHA DE SÃO PAULO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAULO VICTOR BATISTELLA DOS SANTOS 
+ 
+ 
+ 
+ 
+RIO DE JANEIRO 
+2016 
+ 
+
+ 
+ 
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+ESCOLA DE COMUNICAÇÃO 
+CENTRO DE FILOSOFIA E CIÊNCIAS HUMANAS 
+JORNALISMO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUDO SOBRE: UMA ANÁLISE DOS ESPECIAIS 
+MULTIMÍDIA DA FOLHA DE SÃO PAULO 
+ 
+ 
+Monografia submetida à Banca de Graduação como 
+requisito para obtenção do diploma de  
+Comunicação Social/ Jornalismo.  
+ 
+ 
+ 
+ 
+PAULO VICTOR BATISTELLA DOS SANTOS 
+ 
+Orientadora: Profa. Dra. Marialva Carlos Barbosa 
+ 
+ 
+ 
+RIO DE JANEIRO 
+2016 
+ 
+ 
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO 
+ESCOLA DE COMUNICAÇÃO 
+ 
+TERMO DE APROVAÇÃO 
+ 
+ 
+A Comissão Examinadora, abaixo assinada, avalia a Monografia Tudo Sobre: 
+Uma análise dos especiais multimídia da Folha de São Paulo , elaborada por Paulo 
+Victor Batistella dos Santos.  
+ 
+Monografia examinada: 
+Rio de Janeiro, no dia   ........./........./.......... 
+ 
+ 
+Comissão Examinadora: 
+ 
+ 
+ 
+Orientadora: Profa. Dra. Marialva Carlos Barbosa 
+Doutora em História pela UFF 
+Departamento de Expressão e Linguagens (DEL) – UFRJ 
+ 
+ 
+ 
+Profa. Dra.Cristiane Henriques Costa 
+Doutora em Comunicação pela Escola de Comunicação - UFRJ 
+Departamento de Comunicação –UFRJ 
+ 
+ 
+ 
+Profa. Dra. Gabriela Nóra 
+Doutora em Comunicação pela Escola de Comunicação - UFRJ 
+Departamento de Comunicação – UFRJ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RIO DE JANEIRO 
+2016 
+  
+ 
+ 
+FICHA CATALOGRÁFICA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+SANTOS, Paulo Victor Batistella dos. 
+ Tudo Sobre: Uma análise dos especiais multimídia da Folha de 
+São Paulo. Rio de Janeiro, 2016. 
+ Monografia (Graduação em Comunicação Social/ Jornalismo) – 
+Universidade Federal do Rio de Janeiro – UFRJ, Escola de Comunicação 
+– ECO. 
+ Orientadora: Marialva Carlos Barbosa 
+ 
+ 
+SANTOS, Paulo Victor Batistella dos.Tudo Sobre: Uma análise dos especiais 
+multimídia da Folha de São Paulo.Orientadora: Marialva Carlos Barbosa. Rio de Janeiro: 
+UFRJ/ECO. Monografia em Jornalismo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESUMO 
+ 
+Este trabalho procura analisar os especiais multimídia que o jornal Folha de S. Paulo  tem 
+publicado em uma seção de seu site nomeada Tudo Sobre . Popularizado pelo fenômeno 
+SnowFall do jornal norte -americano The New York Times , este formato jornalístico tem 
+figurado como inovação de linguagem. Acredita -se que ele tem integrado diversas 
+potencialidades do webjornalismo num gênero antigo: a reportagem. Desse modo, 
+dividimos essa monografia em dois momentos: no primeiro será abordado o panorama do 
+atual cenário do jornalismo em meio ao bios virtual, para no segundo analisar o que 
+poderia ser considerado uma refiguração da grande reportagem no jornalismo. Observa -se 
+que a maioria dos portais noticiosos têm apostado no fast media  e suas produções se  
+mostram como meras transposições do que foi desenvolvido em mídias anteriores a 
+internet. Será discutido,  portanto, a estética das novas mídias e as possibilidades de 
+experimentação na web em torno do fazer jornalístico. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+À Rosana e ao Paulo, meus eternos amores. 
+ 
+ 
+Agradecimentos 
+Agradeço, primeiramente, aos meus pais, pelo amor incondicional demonstrado ao longo 
+de toda minha vida. Obrigado pela generosidade em tempos difíceis - principalmente, 
+quando chega o boleto do aluguel. 
+À minha orientadora, que aceitou prontamente a missão de orientar este desorientado ao 
+longo desta pesquisa. Obrigado pelo cuidado e compromisso acadêmico. 
+À todas(os) professoras(es), técnicas(os), funcionárias(os) e alunas(os) - além dos gatos e 
+gambás, patrimônios do campus - que compõem a Escola de Comunicação da UFRJ. São 
+vocês que legitimam a honrosa reputação desta faculdade.  
+À minha irmã, com quem compartilho sonhos e angústias. Obrigado por cuidar de mim 
+quando estamos longe e por implicar comigo quando estamos perto - e por aceitar que eu 
+sou o orgulho da família. 
+Às minhas avós - e avôs (in memorian) -, que sempre me deram forças com suas orações. 
+Obrigado pelos mimos, ensinamentos e por perguntarem rotineiramente quando eu irei 
+trabalhar na Globo. 
+Aos meus familiares, que sempre me visitaram no Rio ao longo destes meus anos de 
+graduação. Vieram mais pelos passeios nas praias do que por mim? Com certeza. Ainda 
+assim, obrigado. 
+Aos meus amigos de Machado, que sempre me questionaram quando eu terminaria esta 
+monografia. Eles provavelmente não irão ler este trabalho, mas certamente deverão usá-lo 
+de motivo para tomarmos uma cerveja. 
+Aos amigos que fiz no Rio, nativos daqui ou forasteiros como eu, que me proporcionaram 
+a melhor experiência universitária possível. Obrigado por aguentarem meu "erre" 
+retroflexo e, em especial aos cariocas, por en tenderem que o certo é bolacha, e não 
+biscoito. 
+E, por fim, aos que me inspiraram ao longo desta jornada: jornalistas, escritores, músicos, 
+cineastas, fotógrafos, etc. Na maioria das vezes, vocês trabalham muito e são mal 
+remunerados, mas eu ainda quero se r como vocês. Obs.: se der para ganhar bem, eu 
+agradeço muito.  
+ 
+ 
+SUMÁRIO 
+ 
+1. INTRODUÇÃO......................................................................................................................1 
+ 
+2. A INFORMAÇÃO NO BIOS VIRTUAL.............................................................................5 
+2.1. A primazia da velocidade no jornalismo digital  
+2.2. A estética das novas mídias 
+2.3. As potencialidades do webjornalismo 
+ 
+3. A EXPERIMENTAÇÃO E A MULTIMÍDIA..................................................................13 
+3.1. O especial multimídia: a nova grande reportagem 
+3.2. SnowFall: do experimento ao modelo  
+ 
+4. "TUDO SOBRE": A APOSTA DA FOLHA DE SÃO PAULO........................................19 
+4.1. Os especiais multimídia do Folha.com 
+4.1.1 Um pouco além do "Tudo Sobre" 
+4.1.2.A crítica da ombudsman 
+4.2. Estrutura do especial: a imersão e a interatividade 
+4.3. Questões de custos: fragmentação e patrocínio 
+4.4. Repórter MacGyver vs. equipe multifuncional 
+4.5. O interesse humano no relato multimídia 
+4.6. Integração com as mídias móveis 
+4.7. O tempo dos especiais 
+ 
+5. CONCLUSÃO......................................................................................................................37 
+ 
+6. REFERÊNCIAS BIBLIOGRÁFICAS...............................................................................41 
+6.1. Impressos 
+6.2. Conteúdo virtual
+ 
+1 
+ 
+1. INTRODUÇÃO  
+ 
+ O desenvolvimento  das novas tecnologias têm proporcionado constantes 
+transformações nas relações humanas e, principalmente,  no âmbito da  comunicação. O 
+encurtamento do tempo e dos espaços na era digital conferem cada vez mais velocidade ao 
+processo de produção e distribuição de informação. As mudanças acarretadas pelas 
+ferramentas digitai s sugerem uma reconfiguração das práticas habituais do  ofício 
+jornalístico.  
+ Portanto, surgem fundamentalmente questionamentos e previsões  a cerca dos 
+modelos de negócios e de linguagem que deve m ser explorados pelos meios de 
+comunicação. O discurso corrente na contemporaneidade é de que o futuro se confunde 
+como o presente, contudo, a atividade jornalística ainda parece assimilar as potencialidades 
+das novas mídias de maneira modesta.  
+ Neste cenário, as velhas rotinas noticiosas têm se mostrado cada vez mais instáveis, 
+portanto, se presu me a busca por consolidar novos gêneros genuinamente digitais . Em 
+caráter experimental, produções apoiadas pela convergência midiática têm se desenvolvido 
+em alguns portais de notícia. A exemplo disso, o site do jornal Folha de S. Paulo, tal como 
+outros portais de notícia do Brasil e do mundo, vem apostando em especiais multimídia.  
+ O site do jornal paulistano já reúne seis produções n a seção " Tudo Sobr e"1, que 
+serão objetos de análise ao longo deste trabalho. Esta seção do Folha.com surgiu no fim de 
+2013 com a publicação do  premiado trabalho "A Batalha de Belo Monte" 2. Vale ainda 
+destacar que este  formato dos especiais multimídia, tido como inovador , foi popularizado 
+pelo fenômeno "SnowFall: The Avalanche at Tunnel Cree k"3, publicado em dezembro de 
+2012 pelo site do jornal norte-americano The New York Times.  
+ Desse modo, a  iniciativa do Folha.com denota diversas questões que devem guiar 
+esta pesquisa. Quais são as possibilidades que o meio digital proporciona para o 
+                                                           
+1 Disponível em: < http://www1.folha.uol.com.br/tudosobre/> Acesso em: 30 de janeiro de 2016. 
+2 LEITE, M.; AMORA, D.; KACHANI, M.; DE ALMEIDA, L.; MACHADO, R. A Batalha de Belo Monte. 
+Folha de S. Paulo. 15/12/2013. Disponível em: <http://arte.folha.uol.com.br/especiais/2013/12/16/belo-
+monte/>. Acesso em: 27 de maio de 2015. 
+3 BRANCH, J. SnowFall: The Avalanche at Tunnel Creek. The New York Times. 20/12/2012. Disponível 
+em: <http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek>. Acesso em: 24 de maio de 
+2015. 
+ 
+2 
+ 
+webjornalismo? De que maneira as empresas jornalísticas tem corr espondido a estas 
+oportunidades? O que são os especiais multimídia? Como este produto recupera aspectos 
+da grande reportagem?  De que modo eles se diferenciam da produção noticiosa 
+corriqueira? Como são os especiais multimídia publicados pelo Folha.com? A Folha de S. 
+Paulo se organiza  de que maneira  para consolidar este novo formato em sua rotina 
+jornalística? E, por fim, qual a importância da experimentação para sustentar o jornalismo 
+em tempos de mudanças?  
+ Tendo isso em vista, é importante destacar que esta pesquisa  não tem por base 
+hipóteses previamente elaboradas para todas estas questões. Ainda assim, este estudo  
+inicia-se tendo duas estimativas centrais a respeito dos especiais multimídia. A primeira é 
+de que este novo gênero corresponde a algumas potencialidades da web. Este apontamento 
+surge ao observar que este produto inova em questões estéticas.  Junto a isso, observa -se 
+que este formato  aplica diferentes recur sos multimídia - texto, fotografia, infográfico, 
+vídeo, newsgame4, etc  - em sua construção e integra diferentes plataformas  em sua 
+distribuição, tal como smartphones e tablets.  
+ Além disso, a segunda suposição é de que os especiais multimídia da seção "Tudo 
+Sobre" do jornal Folha de S.  Paulo demonstram uma maneira diferente de lidar com a 
+notícia. Isto é, se desenvolve na contramão do  modelo de  cobertura fast media 5, lugar 
+comum no noticiário online . Supõe-se isso ao observar nos especiais uma retomada das 
+características que cons agraram o gênero da grande reportagem: a narrativa extensa, o 
+caráter imersivo e a contextualização do fato.  
+Para melhor organizar estas apreensões prévias sobre o tema, esta pesquisa deverá 
+ser dividida em três principais momentos, guiados a partir de uma revisão bibliográfica. No 
+capítulo inicial, objetiva -se apresentar o estado atual do jornalismo permeado pelo 
+desenvolvimento das técnicas digitais. A priori, serão reunidas considerações de Muniz 
+Sodré (2002) que indicam o pr otagonismo da informação no cenário atual, e como ela tem 
+se desenvolvido enquanto produto. 
+Ainda neste primeiro capítulo, será abordada a primazia da velocidade na produção 
+e distribuição dos produtos informacionais, baseando -se em conceitos de Marialva Carlos 
+                                                           
+4 Termo em inglês que designa jogos eletrônicos de caráter jornalístico, que visam a contextualização de 
+acontecimentos reais. 
+5 Termo em inglês que designa cobertura midiática que prioriza a informação quente e a atualização 
+constante. 
+ 
+3 
+ 
+Barbosa (1998) e Ana Lúcia Prado dos Santos (2002). Também será discutida a estética 
+destes produtos a partir de percepções dos pesquisadores Lev Manovich (2005) e João 
+Canavilhas (2001) a respeito das novas mídias. Por fim, ao integrar estudos de M arcos 
+Palacios (2003), John Vernon Pavlik (2014), Jo Bardoel & Mark Deuze (2000), deverão 
+ser elencadas potencialidades do webjornalismo nesta primeira parte do trabalho. 
+Num segundo momento, serão descritas fases do jornalismo online. Para isso, serão 
+reunidas apreensões das pesquisadoras Luciana Mielniczuk (2003) e Maria Cabrera 
+González (2000). Ainda serão definidos os especiais multimídia, tendo como base 
+conceitos de Raquel Ritter Longhi (2010), que recorre a Ainara Larrondo Ureta (2004) e 
+Ramón Salaverría (2005). E já no fim deste capítulo será abordado o fenômeno SnowFall. 
+Para tal, serão integradas considerações de Om Malik (2013) e Carlos Castilho (2013), 
+além de declarações de John Branch e Jill Abramson, que participaram na construção deste 
+especial e foram entrevistados pelas pesquisadoras Fernanda Prestes Marques & Isadora 
+Soares de Araujo Barros (2014). 
+ No último capítulo, tem-se como objetivo analisar as produções do Tudo Sobre da 
+Folha.com. Ao longo desta parte, a história do periódico paulis tano deverá ser revisitada, 
+além de serem detalhados os especiais multimídia produzidos até então pelo jornal. Para o 
+processo de análise, o trabalho deverá recorrer a autores já citados aqui, tais como Sodré 
+(2009, 1986) e Canavilhas (2014). Além disso, s erão apresentados conceitos de outros 
+autores, como Suzana Barbosa (2013, 2014) e Anabela Gradim (2003).  
+Ainda nesta parte final, serão reunidas p esquisas de  mercado realizadas por 
+institutos de referência na área , tal como o Nielsen Norman Group 6 e Nielsen Brasil7, de 
+modo que se possa pon tuar algumas questões  da análise . E, por fim, vale ressaltar que  
+também será citado recorrentemente neste momento da pesquisa o jornalista Marcelo Leite. 
+O repórter especial e colunista do jornal colaborou na idealização e produção de alguns 
+destes projetos do site da Folha de S. Paulo. 
+Em termos gerais, pode -se se considerar que esta pesquisa pretende atingir três 
+principais objetivos: identificar a evolução do webjornalismo; reconhecer nos especiais 
+multimídia algumas potencialidades do meio digital - em destaque, a hipertextualidade, 
+interatividade e multimidialidade; e compreender as novas rotinas da redação, as dinâmicas 
+                                                           
+6 Disponível em: <https://www.nngroup.com/> Acesso em: 1 de fevereiro de 2016. 
+7 Disponível em: < http://www.nielsen.com/br/pt.html> Acesso em: 1 de fevereiro de 2016. 
+ 
+4 
+ 
+e estratégias de produção dos especiais que estão sendo adotadas pelo jornal Folha de São 
+Paulo. 
+Por fim, é importante destacar que o estudo aqui proposto justifica -se por estar 
+atento ao que pode ser um novo caminho da atividade jornalística.  Isto é, propõe reflexões 
+sobre as empresas jornalísticas, os profissionais do ramo e os produtos informacionais 
+diante do desenvolvimento das mídias digitais. Espera -se que a presente pesquisa possa 
+fomentar novas discussões em torno disso. Principalmente, ao ter em vista a produção 
+acadêmica relativamente recente a respeito destes temas em contraste com a amplitude e 
+importância deles. 
+ 
+ 
+ 
+  
+  
+ 
+5 
+ 
+2. A INFORMAÇÃO NO BIOS VIRTUAL  
+ 
+ Muniz Sodré inicia seu livro Antropológica do Espelho: uma teoria da 
+comunicação linear e em rede  procurando mostrar como a mídia , principalmente com o 
+advento da internet,  tem implicado numa "nova qualificação de vida, um bios virtual" 
+(SODRÉ, 2008, p.  11). Sodré formula ao longo de sua obra a tese de que os meios de 
+comunicação contemporâneos vem desenvolvendo um novo gênero existencial. Abordar 
+essa questão , no nosso ente ndimento, é essencial para compreend er o estado atual do 
+jornalismo desenvolvi do na web,  que privilegia, essencialmente, a grande demanda por 
+informação em alta velocidade. 
+ Sodré faz referência a Aristóteles ao falar sobre este novo bios. O filósofo grego  
+descreve no início de sua obra Ética a Nicômaco três esferas da existência na Polis: o bios 
+theoretikos, o bios politikos e o bios apolaustikos (ARISTÓTELES apud SODRÉ, 2008, p. 
+25). Cada um destes gêneros representariam, respectivamente, o conhecimento, a política e 
+a corporalidade. Assim, o autor aponta um novo âmbito qualificativo da vida: 
+Partindo-se da classificação aristotélica, a midiatização ser pensada como 
+tecnologia d e sociabilidade ou um novo bios, uma espécie de quarto 
+âmbito existencial, onde predomina (muito pouco aristotelicamente) a 
+esfera dos negócios, com uma qualificação cultural própria (a 
+"tecnocultura"). O que já se fazia presente, por meio da mídia tradici onal 
+e do mercado, no ethos abrangente do consumo, consolida -se hoje com 
+novas propriedades por meio da técnica digital. (SODRÉ, 2008, p. 25) 
+ Ao problematizar este novo ethos midiatizado, Sodré desconstrói a expressão 
+"Revolução da Informação", de uso recorrente por entusiastas do computador e da Internet. 
+Ela se revela enganosa num mundo onde a globalização se refere fundamentalmente à  
+financeirização "capitaneada pela vocação imperial dos Estados Unidos" e à "sociedade de 
+informação"sedenta pela velocidade nos processos de distribuição de capitais e mensagens. 
+Revolução não é conceito que se reduza ao da mudança pura e simples, 
+uma vez que seu horizonte teleológico acena ético -politicamente com 
+uma nova justiça. As transformações tecnológicas da informação 
+mostram-se francamente conservadoras das velhas estruturas de poder, 
+embora possam aqui e ali agilizar o que, dentro dos parâmetros liberais, 
+se chamaria de "democratização".(SODRÉ, 2008, p. 12-13) 
+ A partir disso, percebe -se o protagonismo que a informação assume na sociedade 
+contemporânea. E é essencial frisar a relação intrínseca, potencializada pela tecnologia, da 
+mídia com o mercado e o capital neste novo gênero existencial apontado por Muniz Sodré. 
+ 
+6 
+ 
+A informação pode ser vista então como imp ortante face do capitalismo financeiro. O que 
+o autor destaca: "No mercado, o termo informação recobre uma variedade de formas 
+(filmes, notícias, sons imagens, dígitos, etc.), definidas em última análise como "fonte de 
+dados" e economicamente caracterizáveis como produtos" (SODRÉ, 2002, p. 12). 
+ Na sequência trataremos das características de produtos informacionais distribuídos 
+nos meio online. Na primeira subdivisão, será destacado a velocidade na produção e 
+distribuição da informação nas mídias online. Já num segundo momento, a estética do que 
+tem sido produzido para a web será questionada. Por fim, num terceiro subcapítulo deverão 
+ser elencadas potencialidades do webjornalismo. 
+ 
+2.1. A primazia da velocidade no jornalismo digital 
+ 
+ Um fator sintomático  desta velocidade na  distribuição de capitais e informações 
+neste " bios virtual", do qual Muniz Sodré trata, é a primazia do modelo fast media  no 
+jornalismo online . A produção de notícias na web  é corriqueiramente propensa a 
+atualização constante, a informação quente e a saturação de conteúdo, além de ser carente 
+de contextualização e profundidade. 
+ Esta noção a respeito da primazia pela velocidade é corroborada pela  pesquisadora 
+Marialva Barbosa. Em seu artigo O tempo da História e o tempo dos "outros" , no qual a 
+autora trata da arquitetura temporal adotada pelas  civilizações ao longo da história, 
+Barbosa evidencia a  efemeridade do tempo  na contemporaneidade. Segundo a autora, na 
+perspectiva temporal do sujeito pós -moderno que se caracteriza pelas "pretensões 
+universalizantes e atemporais " (BARBOSA, 1998 ), a descartabilidade dos objetos 
+consumidos "multiplica-se também na construção simbólico -discursiva d os meios de 
+comunicação" (Idem). 
+O passado torna-se obsoleto e inútil e como o presente difere de tal forma 
+desse passado, fica cada vez mais difícil compreendê -lo. [...] Há pois, um 
+drástico estreitamento da perspectiva temporal em nosso cotidiano, que 
+faz o presente parecer sumamemente import ante, ao mesmo tempo em 
+que achamos que só através do estudo do passado poderemos 
+compreender o presente. (Idem) 
+ 
+7 
+ 
+ Isso vai de encontro também a uma consideração que Sodré faz em seu livro A 
+narração do fato: notas para uma teoria do acontecimento , no qual ele propõe um tipo de 
+radiografia da notícia. Ao abordar o impacto da internet no jornalismo, o autor destaca 
+como"o aprofundamento da informação no espaço das redes ainda é sensivelmen te 
+deficiente" (SODRÉ, 2009, p. 109). 
+ A grande maioria dos p ortais de notícia no meio online tem apostado em matérias 
+simples e de curto prazo de validade, ou seja, com pouco texto, informações de última hora 
+para serem consumidas rapidamente. A informação enquanto produto que parece imperar 
+no meio online tem sido o que Ana Lúcia Prado Santos chama de "notícia fast-food": 
+Esse formato de notícia visa ao consumo rápido, tal como um fast-food 
+pode satisfazer a fome rapidamente e sem espera.  A notícia nesse 
+formato tem o objetivo  de  atender  a  uma  necessidade  de   informar  
+rapidamente  àqueles  que  não dispõem de muito tempo para ler grandes 
+textos, mas precisam manter-se atualizados. (2002, p. 55) 
+ Este modelo de notícia, segundo Santos, "deriva da percepção de que os leitores on-
+line são apenas “escaneadores ” de notícias, uma ideia recorrente não só em manuais de 
+estilo Web, mas em alguns  estudos sobre modos de leitura" (2002, p . 56). A pesquisadora 
+cita um estudo de Jakob Nielsen, o  artigo Difference Between Paper and Online 
+Presentation8. De acordo com o autor, a leitura de textos longos na internet se dá 25% mais 
+lenta do que no suporte papel. “Setenta e nove por cento dos usuários de web são 
+escaneadores de páginas, ele não lêe m palavra por palavra” (NIELSEN apud SANTOS, 
+2002, p. 56). 
+ Prado ainda cita o artigo Redação Jornalística para Web , de Carola Rich, que se 
+utiliza de uma pesquisa do The Poynter Institute for Media Studies. Este estudo  identificou 
+que apenas 12% dos leitores de jornais leem as matérias completamente. Esse dado ainda é 
+mais alarmante quando se tratam de  leitores on-line. Contudo, Rich também destaca que  
+“se muitos leitores Web são apenas scanners agora, a geração que está crescendo coma 
+Web pode bem vir a ser de leitores sérios.  Limitar nossa visão de formatos de texto para a 
+atual geração de scanners é uma atitude míope” (RICH apud PRADO, 2002, p. 56). 
+ Junto a falta de profundidade, pode -se identificar a recorrente frivolidade de 
+matérias publicadas por muitos portais noticiosos. O apelo a assuntos banais está 
+                                                           
+8 NIELSEN, J. Why Web Users Scan Instead of Reading. Nielsen Norman Group. 01/10/1997. Disponível 
+em: <http://www.nngroup.com/articles/why-web-users-scan-instead-reading/>. Acesso em: 1 de novembro 
+de 2015. 
+ 
+8 
+ 
+diretamente ligado a os cortes para a produção de reportagens imersivas, de alto custo, e 
+também a escol ha editorial da  busca por cliques a qualquer custo, visto que atualmente o 
+número de acessos a uma página é a métrica para definir audiência e, posteriormente, 
+vender anúncios publicitários. Contudo, esta lógica de jornalismo voltado apenas para 
+cliques, que não está necessariamente interessado na qualidade de seu conteúdo, pode se 
+mostrar um modelo de negócio falho.  
+ O Chartbeat, primeiro serviço de web analytics 9 que identifica os acessos de um 
+portal em tempo real, passou a sugerir uma mudança drástica no modo de medir e entender 
+a audiência de um site. Tony Haile , Chief Executive Officer  (CEO)10 da empresa que 
+auxilia cerca de 80% das mais importantes editoras mundiais, passou a defender que o 
+número puro e simples de cliques deva ser ignorado, enquanto o tempo e atenção gastos 
+em um página da web seja o medidor de tráfego online a ser observado.  
+ De acordo com Haile, esta nova dinâmica valoriza sites que apostam em qualidade 
+editorial e que têm publicações sendo vistas por leitores atentos. Além disso, em um a 
+pesquisa feita pe lo Chartbeat em 2013 , constatou -se que as palavras -chaves mais 
+acessadas durante determinando período eram, dentre outros, termos como “Síria”, “Egito” 
+e “Snowden”. Tal constatação indicou a procura dos leitores na web por  assuntos de maior 
+seriedade, ainda que eventualmente eles não dessem atenção a todos os textos relacionados  
+aos temas pesquisados11.  
+ O que pode confirmar esta última tese é o caso do jornal Washington Post . Em  
+meio a deflagrada crise atual do jornalismo, a publicação estadunidense anda na 
+contramão. A empresa contratou, apenas no ano de 2014, cerca de 100 repórteres e 40 
+engenheiros para serem incorporados a sua redação de 680 jornalistas, o que fez aumentar 
+sua audiência na internet em 60%. Considerado a empresa "mais inovadora da mídia 
+americana" pela revista FastCompany no início de 2015, o jornal se mostrou diferente não 
+apenas em questões de mercado, mas também de conteúdo.Em entrevista ao jornal Folha 
+de S. Paulo, o editor -chefe da publicação Marty Baron declarou que há atualmente uma 
+demanda por jornalismo sério e aprofundado, no que o jornal tem apostado. Ele destacou 
+                                                           
+9Termo em inglês que se refere ao processo de medição e análise de dados de navegação com o intuito de 
+otimizar o uso de sites. 
+10 Termo em inglês que designa o Chefe Executivo de Ofício ou diretor geral de uma empresa. 
+11 Observatório de Imprensa. O jornalismo que não quer saber só de ‘cliques’. 16/03/2015.  Disponível em: 
+<http://observatoriodaimprensa.com.br/monitor-da-
+imprensa/_ed842_o_jornalismo_que_nao_quer_saber_so_de_cliques/>. Acesso em: 15 de janeiro de 2016. 
+ 
+9 
+ 
+que produzir histórias frívolas, que alienam o leitor, seria destrutivo a marca e a iden tidade 
+da empresa12. 
+ 
+2.2. A estética das novas mídias 
+ 
+ Além de tratar da velocidade e falta de profundidade na produção noticiosa 
+comumente distribuída na  web, vale abordar questões relacionadas a estética destes  
+produtos. A priori , vale compreender que estes produtos informacionais do meio digital 
+estão inseridos no contexto das novas mídias. Lev Manovich define as novas mídias como 
+"objetos culturais que usam a tecnologia computacional para distribuição e  exposição" 
+(MANOVICH, 200 5, p . 27), citando como exemplo a internet, os sites e a própria 
+produção multimídia, que será vista ao longo deste trabalho. 
+A internet, os sites, a multimídia de computadores, os jogos de 
+computadores, os CD -ROMs e o DVD, a realidade virtual e os efeitos  
+especiais gerados por computador enquadram -se todos nas novas mídias. 
+(MANOVICH, 2005, p. 27) 
+ Contudo, vale fazer duas ressalvas a partir das reflexões do autor: a primeira é de 
+que não se encontram nas novas mídias "objetos culturais que usam a computaç ão para a 
+produção e armazenamento, mas não para a distribuição final" (MANOVICH, 2005, p. 
+27); e a estética deste produto não é contemplada nesta definição. Manovich destaca: "esta 
+definição não nos diz nada sobre os possíveis efeitos da distribuição com base no 
+computador sobre a estética do que está sendo distribuído" (MANOVICH, 2005, p. 28). 
+ Esta última observação de Manovich vai de encontro a algumas considerações 
+feitas por João Canavilhas no que diz respeito à estética do jornalismo digital praticado. O 
+pesquisador português atenta que, até então, o que é observado na produção noticiosa para 
+a internet se mostra, em grande parte, como mera transposição do que foi desenvolvido em 
+mídias anteriores (jornal, a televisão e o rádio): 
+Marshall McLuhan afirmava que o conteúdo de qualquer medium é sempre 
+o antigo medium que foi substituído. A internet não foi excepção. Devido a 
+                                                           
+12 LORES, R. J. Jornalismo aprofundado tem mercado, diz editor do 'Washington Post'. Folha de S. Paulo. 
+02/05/2015. Disponível em: <http://www1.folha.uol.com.br/mercado/2015/05/1624037-jornalismo-
+aprofundado-e-serio-tem-um-mercado-enorme-diz-editor-do-washington-post.shtml>. Acesso em: 2 de 
+dezembro de 2015. 
+ 
+10 
+ 
+questões técnicas,(baixa velocidade na rede e interfaces textuais), a internet 
+começou por distribuir os conteúdos do meio su bstituído - o jornal. Só 
+mais tarde a rádio e a televisão aderiram ao novo meio, mas também nestes 
+casos se limitaram a transpor para a internet os conteúdos já 
+disponibilizados no seu suporte natural. (CANAVILHAS, 2001, p. 1) 
+ Neste sentid o, Canavilhas (I dem) destaca que "é um completo desperdício tentar 
+reduzir o novo meio a um simples canal de distribuição dos conteúdos já existentes". Isso 
+atenta para a falta de experimentação do jornalismo em sua passagem ao meio digital. O 
+modelo de  informação comumen te produzida para a plataforma online é insuficiente de 
+inovação no que diz respeito ao seu formato , mesmo estando aparentemente envolvido no 
+contexto das novas mídias. 
+  
+2.3. As potencialidades do webjornalismo 
+ 
+ Tendo em vista este s apontamentos de Lev Manovich e João Canavilhas a respeito 
+da estética dos produtos distribuídos pela web, cabe então elencar algumas potencialidades 
+do webjornalismo que fazem dele  um produto das novas mídias . O p esquisador Marcos 
+Palacios (2003 ) destaca em seu artigo Jornalismo online, informação e memória: 
+apontamentos para o debate  seis pontos cruciais que têm sido evidenciados  como 
+possibilidades em torno da informação no meio online. O autor destaca a interatividade, a 
+hipertextualidade, a personalização, a memória, a instantaneidade/atualização contínua e a 
+multimidialidade/convergência, como definidos a seguir: 
+ Interatividade 
+ A interatividade, segundo Bardoel &  Deuze (2000), presente na notícia online 
+permite a criação de um vínculo entre o leitor e quem noticia, integrando -se ao processo 
+informacional. Isso se dá de diferentes maneiras: chats, fóruns de discussão, emails, blogs, 
+influência do leitor na escolha da pau ta e produção da notícia, além de ocorrer no âmbito 
+da própria notícia, enquanto se navega por um conteúdo multimidiático e por hiperlinks. 
+ Hipertextualidade 
+ A hipertextualidade se dá por hiperconexões, ou hiperlinks, a partir da interconexão 
+de conteúdo através de links. Canavilhas  (2001) e Bardoel & Deuze (2000) atentam para a 
+ 
+11 
+ 
+possibilidade de, a partir de uma notícia, criar conexões com outros conteúdos, sejam 
+fotos, vídeos, sons, animações, ou links de assuntos re lacionados e complementares, outros 
+textos noticiosos e publicidade. 
+ Personalização 
+ A personalização , segundo Palacios , "consiste  na  opção  oferecida  ao  Utente  
+para  configurar  os  produtos  jornalísticos  de  acordo  com  os  seus  interesses  
+individuais" (2003, p. 78) . Neste sentido, o leitor tem a opção de hierarquizar as 
+informações em sites noticiosos, pré -selecionar assuntos que sejam do seu interesse e até 
+escolher o padrão visual da notícia que está consumindo. 
+ Memória 
+ Quanto a memória, vale novamente recorrer a Palacios (2003) que argumenta que o 
+acúmulo de informações na web é mais viável, seja tecnicamente ou economicamente, do 
+que em outras mídias. Portanto, a quantidade de informação presente no meio online é 
+potencialmente maior para o consumo de todo leitor. 
+ Instantaneidade/Atualização Contínua 
+ A instantaneidade na web está diretamente relacionada à agilidade na produção de 
+novas tecnologias, à distribuição massiva e a velocidade no acesso a informação. Permite a 
+maior rapidez na atualização de informação em sites noticiosos, em coberturas em tempo 
+real e publicação de notícias de última hora.  
+ Multimidialidade/Convergência 
+ A multimidialidade,  por fim, segundo Palacios , "refere -se àconvergência dos 
+formatos das mídias tradicionais  (imagem, texto e som) na narração do fato jornalístico"  
+(2003, p. 77) . Isso é possível em função do processo de digitalização da informação e sua 
+distribuição em diferentes plataformas.  
+ Vale ainda assinalar um sétimo princípio do jornalismo na era digit al listado pelo 
+norte-americano John Vernon Pavlik (2014): a ubiquidade. De acordo com o teórico, 
+ubiquidade retoma a ideia de simultaneidade na internet, a potencialidade de existirem 
+variados participantes no processo de produção da informação. 
+No contexto da mídia, ubiquidade implica que qualquer um, em qualquer 
+lugar, tem acesso potencial a uma rede de comunicação interativa em 
+ 
+12 
+ 
+tempo real. Quer dizer que todos podem não apenas acessar notícias e 
+entretenimento, mas participar e fornecer sua pró pria contribuição com 
+conteúdos para compartilhamento e distribuição global. Além disso, o 
+conteúdo noticioso emana de uma variedade de fontes cada vez mais 
+ubíquas, incluindo câmeras de segurança ou vigilância bem como 
+sensores de muitos tipos e formatos,  frequentemente ligados à internet. 
+(PAVLIK, 2014, p.160) 
+ 
+ Tendo em vista todas estas características, Palacios faz uma ressalva quanto ao uso 
+desses atributos e sua importância. Ele fala que não há "um formato canónico, nem 
+tampouco 'mais avançado' ou 'm ais apropriado'" (2003, p. 76) dentre os que são praticados 
+na web. Além disso, o pesquisador explica que os pontos destacados são vistos como 
+tendências para a web, não sendo necessariamente o que há de mais corriqueiro. 
+Deixe-se claro, preliminarmente, q ue tais possibilidades abertas pelas 
+Novas Tecnologias de Comunicação (NTC) não se traduzem, 
+necessariamente, em aspectos efectivamente explorados pelos sites 
+jornalísticos, quer por razões técnicas, de conveniência, adequação à 
+natureza do produto ofereci do ou ainda por questões de aceitação do 
+mercado consumidor. Estamos a falar, fundamentalmente, de potenciais 
+que são utilizados, em maior ou menor escala, e de forma diferente, nos 
+sites jornalísticos da Web.  (PALACIOS, 2003, p. 76) 
+ 
+  
+ 
+13 
+ 
+3. A EXPERIMENTAÇÃO E A MULTIMÍDIA 
+ 
+ Ao observar estas potencialidades do webjornalismo apontadas por Palacios, 
+Luciana Mielniczuk (2003) propõe a divisão de três espaços dos sites noticiosos nos quais 
+essas características são exploradas: Últimas Notícias, Cobertura Cotidiana e Especiais. A 
+primeira destas divisões vai de encontro a definição de 'notícia fast food' (PRADO, 2002) 
+vista anteriormente neste trabalho: são notícias de poucas linhas, dadas em 'pílulas', que 
+exploram imediatismo e atualização contínua.  
+ Já a Cobertura cotidiana , conforme assinala a autora , se refere às "matérias da 
+cobertura rotineira do veículo e que ocupam normalmente o espaço de uma tela " 
+(MIELNICZUK, 2003 ). Diferentemente das Últimas Notícias , as matérias desta seção 
+apresentam fotografias e, as vezes, hiperlinks para vídeos ou arquivos de  som. É possível 
+observar que esta parte dos portais de notícia carece de inovação de linguagem, parecendo 
+ser um material transposto de mídias anteriores. 
+ Por fim, os Especiais segundo a autora " referem-se a material informativo mais 
+extenso, elaborado com mais tempo e que ocupam seções específicas do webjornal"  
+(MIELNICZUK, 2003) . Ela acrescenta que se destacam nesta divisão potencialidades 
+como a memória, a hipertextualidade e a multimidialidade: 
+O material informativo produzido para as seções especiais fica 
+disponibilizado no site de maneira permanente e cumulativa, por vezes, 
+lembrando até um certo caráter enciclopédico.  Nestas produções, além 
+da ca racterística da memória, são utilizadas com m aior frequência as 
+características da hipertextualidade e multimidialidade na narrativa 
+jornalística. (MIELNICZUK, 2003)  
+ Tendo observado esta categorização de Mielniczuk, vale abor dar também  um 
+estudo elaborado pela pesquisadora Maria Cabrera González (2000). A teórica espanhola  
+listou o que seriam as fases do jornalismo online , que coexistem e que surgiram 
+progressivamente, conforme identificou o que há de mais corriqueiro na produção 
+noticiosa. Para ela, podem ser identificados quatro modelos de formato noticioso na web: 
+fac-simile, modelo adaptado,  modelo digital e modelo multimídia. 
+ Segundo a autora, a primeira fase do webjornalismo consiste na reprodução bruta 
+da versão impressa de um jornal, seja por sua digitalização ou divulgação em PDF. Já num  
+segundo momento, surge o modelo adaptado em que o material visto na web tem uma 
+ 
+14 
+ 
+apresentação e modelo visual próprio, diferente da versão impressa, além de apresentar 
+links, ainda assim, é pouco elaborado, tem muito texto e um design simples.  
+Em sua terceira fase, surge o modelo digital que, segundo González (2010 , p. 75), é 
+tido “como o de maior implantação na atualidade” 13. Neste cenário, a versão online, em 
+termos visuais, é completamente diferente do modelo impresso. Projetado para ser web e 
+complementar a produção impressa, o periódico aproveita ao máximo as qualidades da 
+mídia online, sendo mais interativo e com conteúd o diferente. Por fim, a pesquisadora 
+identifica a fase mais recente no jornalismo online, o modelo multimídia: 
+Sua principal característica é o máximo aproveitamento das 
+possibilidades de interatividade e multimedialidade do novo meio, de 
+modo que, se pode  oferecer a informação em distintos formatos (som, 
+imagem fixa ou em movimento, e texto). Se espera que este modelo sirva 
+para aumentar as possibilidades de escolha dos conteúdos por parte do 
+usuário ou receptor da informação, assim como a oferta de um gra nde 
+número de serviços em sentido vertical (mais bem especializados) para 
+distinguir-se dos portais horizontais com os quais nada têm a ver. 
+(GONZÁLEZ, 2010, p. 75-76)14 
+ O modelo multimídia destacado por González vai de encontro aos Especiais citados 
+por Mielniczuk (2003) e retoma uma das potencialidades do webjornalismo já elencada  
+anteriormente por Palacios: a multimidialidade/convergência.  Esta característica é , 
+portanto, essencial para o objeto que deverá ser analisado  neste trabalho: o especial 
+multimídia. Defende-se aqui a tese de que este formato noticioso manifesta uma iniciativa 
+inovadora diante do corriqueiro fast media e  da ainda modesta experimentação no que diz 
+respeito à estética da notícia nos meios digitais.  
+ Esta breve apreensão do que são os  especiais multimídia  é corroborada por uma 
+observação de Muniz Sodré. O pesquisador sugere em seu livro A narração do fato: notas 
+para uma teoria do acontecimento , já citado neste trabalho, que a multimídia, junto a 
+crescente interatividade e formação de novos tipos de público, demonstra uma nova 
+maneira de pensar o fazer jornalístico (SODRÉ, 2009, p. 108).  
+                                                           
+13Tradução do autor: “como el de mayor implantación en la actualidad”. 
+14Tradução do autor: “Su principal característica es el máximo aprovechamiento de las posibilidades de 
+interactividad y multimedialidad del nuevo medio, mediante lascuales, se puedeofrecerlainformaciónen 
+distintos formatos (sonido, imagenfija o en movimiento, y texto). Se espera que este modelo sirva para 
+aumentar las posibilidades de elección de loscontenidos por parte del usuario o receptor de la información, 
+así como la ofert a de un gran número de serviciosen sentido vertical (más bien especializados) para 
+distinguirse de los portales horizontales con los que nada tiene que ver. 
+ 
+15 
+ 
+Não se pode, assim, deixar de considerar que "uma outra forma de 
+pensar" e "novos tipos de público" (prescriçõe s, aliás, frequentes nos 
+"observatórios de imprensa", que vêm se impondo na América Latina 
+desde os anos de 1990) sejam diretivas em potencial para a constituição 
+de um jornalismo "de qualidade", frequente na televisão ou na internet. 
+Pode-se cogitar que u ma das medidas dessa qualidade jornalística, em 
+meio à proliferação indiscriminada de signos e imagens pela mídia 
+audiovisual e eletrônica, seja a capacidade fazer ver aos leitores o 
+descompasso entre realidade discursiva e realidade sócio -histórica. 
+(SODRÉ, 2009, p. 108) 
+ Contudo, para compreender melhor esse cenário, é preciso explicitar o que são 
+exatamente os especiais multimídia. Isto será feito,  a seguir . Mostraremos também o  
+exemplo de especial multimídia que inspirou os que foram editados na sequênc ia: no caso, 
+a grande reportagem "SnowFall: The Avalanche at  Tunnel Creek", produzida pela jornal 
+norte-americano The New York Times. 
+ 
+3.1. O especial multimídia: a nova grande reportagem 
+ 
+ Qual seria então a definição  de grande reportagem multimídia ou “especial 
+multimídia”? Como descreve Raquel Ritter  Longhi, este modelo de jornalismo carece de 
+uma definição mais apurada, visto que se trata “de uma imensa gama de formatos 
+diferentes, que  utilizam os recursos da hipermídia, como a interatividade, a 
+multilinearidade e a adição  de elementos multimídia ” (2010, p.  150). Em  seu artigo Os 
+nomes das coisas: em busca do especial multimídia , a autora reúne diversos conceitos 
+teóricos para compreender o estatuto narrativo desses especiais. 
+De início, Longhi  aborda o trabalho de Ainara Larrondo Ureta sobre a reportagem 
+nos meios digitais, que trata de uma reinvenção deste formato no webjornalismo em função 
+da hipermidia. Segundo esta autora, “a chegada de uma nova modalidade textual como o 
+hipertexto informat ivo reconfigura os gêneros jornalísticos tal e como o conhecemos 
+nomeio impresso” (URETA apud LONGHI, 2010, p. 151). De tal modo, Ureta reconhece a 
+reportagem hipertextual como sendo “uma modalidade que está em busca de sua 
+especificidade em um relato não-sequencial e multimídia” (Idem).  
+Longhi aponta a necessidade em aprofundar a discussão em torno de “questões 
+relativas à convergência de linguagens propiciadas pelos meios digitais” (LONGHI, 2010, 
+p. 151). Nesse contexto, ela procura definir o conceito de  multimidialidade por integração 
+ 
+16 
+ 
+apresentado por Ramón Salaverría. O autor destaca o uso ainda modesto da 
+multimidialidade nos cibermeios atuais. Segundo o pesquisador, a maioria dos meios da 
+web que se apresenta como multimídia oferece apenas textos, imag ens e sons, podendo ser 
+consumido de maneira separada ou consecutiva. Somente alguns cibermeios, ditos de 
+vanguarda, experimentam a combinação desses elementos multimídia num único discurso 
+(SALAVERRÍA apud LONGHI, 2010, p. 151). 
+Ainda de acordo com Salave rría, a relação entre as linguagens em multimídia na 
+internet se dá por justaposição e por integração (Ibidem, p. 151 -152). Ao citar o autor, 
+Longhi explica que na justaposição os elementos – textos, imagens e sons – são 
+apresentados lado a lado, desagrega damente; por sua vez, a integração reúne os elementos 
+num mesmo suporte e se articulam num discurso único e coerente. Longhi também 
+complementa as definições de Salaverría apresentando o conceito de ‘intermídia’: 
+[...] é útil o conceito de intermídia, que se presta para definir uma 
+linguagem que aposta na “fusão conceitual, formando uma terceira 
+linguagem” (Longhi, 2008). Neste sentido, o conceito de intermídia vem 
+de encontro à posição de Salaverría, que sublinha a reunião de elementos 
+com o resultado final de unidade comunicativa. (LONGHI, 2010, p. 152) 
+ Longhi destaca também que apesar dos diver sos nomes, o que se entende de 
+"especial multímidia" pode ser definido tendo -se em conta dois fatores: “ as características 
+de sua linguagem e as características ligadas ao gênero de form ato informativo” (Idem). E 
+Longhi complementa que do ponto de vista deste segundo fator, pode -se dizer que o 
+especial multimídia é um herdeiro da grande reportagem do jornal impresso. Portanto, na 
+tentativa de colaborar com a conceituação de especial multimídia ela o descreve  como 
+sendo: 
+Grande reportagem constituída por formatos de linguagem multimídia 
+convergentes, integrando gêneros como a entrevista, o documentário, a 
+infografia, a opinião, a crítica, a pesquisa, dentre outros, num único 
+pacote de informação, interativo e multilinear.(Ibidem, p. 153) 
+ 
+3.2. SnowFall: do experimento ao modelo 
+ 
+ O especial multimídia "SnowFall: The Avalanche at  Tunnel Creek" é muito 
+conhecido pelos que estão mais familiarizados com o tema. Publicada em dezembro de 
+ 
+17 
+ 
+2012, no site do The New York Times , a grande reportagem causou alvoroço na internet. 
+Assinado por John Branch, jornalista esportivo do diário americano, o pro jeto foi 
+produzido ao longo de seis meses para ser veiculado exclusivamente na internet.   
+ Unindo um texto de fôlego, fotos, vídeos, imagens, infográficos e outros elementos 
+multimidiáticos, e apresentado de maneira articulada e coe rente com um design 
+minimalista - que preza por  uma interface simples, utilizando apenas elementos visuais 
+essenciais - a reportagem conta a história de uma avalanche de neve no vale Tunnel  Creek. 
+O acidente ocorrido nas montanhas Cascade, no estado de Washington, extremo norte dos 
+Estados Unidos, envo lveu 16 atletas profissionais de snowboard, e deixou três mortos em 
+fevereiro de 2012.  
+ Apesar do projeto ser assinado apenas por Branch, o processo de produção exigiu a 
+"participação de 16 profissionais na redação, dez deles responsáveis pelos recursos 
+multimídia (gráficos, vídeos, programação)" (BARROS & MARQUES, 2014, p. 24).Vale 
+destacar aqui como todo esse pessoal foi integrado à produção do projeto, o que se mostrou 
+uma inovação na própria rotina da redação. 
+Normalmente, nós não incluíamos vídeos e g ráficos até que o projeto 
+estivesse sendo finalizado, talvez em 80% do processo. Mas dessa vez 
+eles se envolveram mais. Essa foi uma das lições que aprendemos: é 
+preciso envolver os outros departamentos da redação mais cedo no 
+processo de produção de repor tagens (BRANCH apud BARROS & 
+MARQUES, 2014, p. 24) 
+ Além do tamanho da equipe que produziu o material, outra curiosidade é o fato da 
+reportagem não ter sido inicialmente pensada para ser multimídia. John Branch  destacou 
+que o especial se moldou conforme  ele apresentou os dados e entrevistas  à equipe gráfica 
+do jornal (BRANCH apud BARROS & MARQUES, 2014, p. 23). 
+ Também vale ressaltar aqui o processo de escolha da pauta. Não foi levado em 
+conta, necessariamente, a importância da história a ser contada, co nforme destacou Jill 
+Abramson, membro da editoria executiva do jornal: “midiaticamente, a pauta poderia ser 
+um ótimo veículo para elevaros talentos que o jornal havia aprimorado nesse tipo de 
+narrativa.”(ABRAMSON apud BARROS & MARQUES, 2014, p. 24) . Ao lon go da 
+apuração, a história ofereceu recursos como vídeos feitos por câmeras dos esquiadores e 
+áudios de ligações da polícia que a definiram como assunto para a construção de uma 
+grande reportagem multimidiática. 
+ 
+18 
+ 
+ De fato, a estrutura narrativa elaborada para contar o acidente chamou mais atenção 
+do que a própria história descrita. O projeto obteve  2,9 milhões de visitas e 3,5 milhões de 
+pageviews15 nos primeiros seis dias de sua publicação 16 (MALIK, 2013). O trabalho de 
+Branch também foi reconhecido  com a premiação do Pulitzer, e além disso “ SnowFall" 
+tornou-se um verbete entre os pesquisadores e jornalistas e figurou como sinônimo de 
+inovação de narrativa jornalística” (BARBOSA, 2014, pág. 8). Tal como complementa 
+Carlos Castilho (2013), "SnowFall" foi além de um projeto experimental de um jornal: 
+“Snowfall”17 (nevasca, em português) era apenas o nome de um 
+fenômeno natural, depois virou  tema marca de uma tragédia, em 
+seguida de uma premiada reportagem multimídia, acabou virando 
+gênero jornalístico e agora pode ser o ponto de partida para  a mais 
+ousada de todas as apostas  de um jornal convencional na busca da 
+sobrevivência como empresa. 
+ "SnowFall" representou em termos de linguagem o encontro do jornalismo online 
+com as potencialidades que o meio digital lhe permite. O projeto de Branch tornou -se 
+referência de especial multimídia. O modelo observado na grande reportagem multimídia 
+produzido pelo The New York Times abriu caminho para novas produções no gênero, vistas 
+em diversos portais do mundo. A exemplo disso, o jornal britânico The Guardian produziu 
+o especial  "NSA Files: Decoded "18, uma grande reportagem multimídia  sobre a 
+espionagem da agência de segurança dos Estados Unidos . Há também  o diário online 
+estadunidense Pitchfork que elaborou "Machines for Life "19, um perfil detalhado da banda 
+Daft Punk.  
+ Vale ainda destacar que t ambém no Brasil surgiram iniciativas nes te sentido. 
+Atualmente já são diversos os portais que já têm desenvolvido grandes reportagens que 
+reúnem texto, foto, vídeo, imagem, infográficos e outros atributos multimidiáticos . Em 
+destaque, temos o  jornal Folha de S.  Paulo que apostou no projeto "Tudo Sobre" em seu 
+portal online. 
+  
+                                                           
+15Termo em inglês para número de acessos a uma página da internet. 
+16 MALIK, O. O projeto ‘Snow Fall’ e a o futuro do jornalismo. Observatório de Imprensa. 14/05/2013. 
+Disponível em:<http://observatoriodaimprensa.com.br/monitor-da-imprensa/ed746-o-projeto-snow-fall-e-a-
+o-futuro-do-jornalismo/>. Acesso em: 19 de janeiro de 2016. 
+17 Destaque em itálico feito pelo autor. 
+18 MACASKILL, E.; DANCE, G. NSA Files: Decoded. The Guardian. 01/11/2013. Disponível 
+em:<http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-
+decoded#section/1> . Acesso em: 15 de fevereiro de 2016. 
+19 DOMBAL, R. Machines for Life. Pitchfork. 14/05/2013. Disponível em: 
+<http://pitchfork.com/features/cover-story/reader/daft-punk/>. Acesso em: 25 de maio de 2015. 
+ 
+19 
+ 
+4. "TUDO SOBRE": A APOSTA DA FOLHA DE S. PAULO 
+ 
+ Um dos trabalhos mais notáveis que encontramos em torno dos especiais 
+multimídia hoje no cenário brasileiro é o "Tudo Sobre" da Folha.com, uma seção do site do 
+jornal Folha de S. Paulo direcionada para especiais multimídia.Antes de se abordar esta 
+seção ainda recente do diário paulistano, faz -se necessário revisitar rapidamente a história 
+do jornal20. 
+ O jornal com o nome pelo qual é conhecido atualmente surgiu no início de 1960  
+após a fusão de três publicações: o Folha da Noite, de 1921, a Folha da Manhã,  fundada 
+em 1925, e a Folha da Tarde, criada em 1949. Inicialmente, a empresa era comandada por 
+Olival Costa e Pedro Cunha, contudo, em 1962, foi vendida a Carlos Caldeira Filh o e 
+Octavio Frias de Oliveira, este último, em 1992, passou a deter a totalidade do controle 
+acionário da companhia. A partir de 2007, o que se tornou o Grupo Folha  passou a ser 
+presidido por Luiz Frias, filho do até então dono do conglomerado que faleceu neste 
+mesmo ano21. 
+ Ao longo de sua existência, o Grupo Folha e seu periódico mais conhecido, a Folha 
+de S. Paulo, exibiram alguns traços de pioneirismo. Em 1967, a Folha adotou a impressão 
+offset em cores, usada em larga tiragem pela primeira vez no Brasil. Já em 1983, se tornou 
+a primeira redação informatizada da América do Sul. E ainda na década de 1980, o veículo 
+lançou seu primeiro manual de redação, que se tornou referência entre estudantes e  
+jornalistas, foi o primeiro veículo a ter um ombudsman e foi pioneiro também no uso de 
+infográficos22.  
+ Já nos anos 1990, a empresa e o jornal iniciaram-se na internet. Em 1995, foi criado 
+o Folha Online, primeiro jornal em tempo real em língua portuguesa . Atualmente, com o 
+nome de Folha.com, conta com 19 editorias, e tem uma audiência de 17 milhões de 
+                                                           
+20 Disponível em: <http://www1.folha.uol.com.br/folha/circulo/historia_folha.htm>.  Acesso em: 19 de 
+janeiro de 2016. 
+21 Sobre a história do jornal cf. Carlos Eduardo Lins DA SILVA. Mil dias: Seis Mil Dias Depois. São Paulo: 
+Publifolha, 2005 E Gisela TASCHNER. Folhas ao vento. Análise de um conglomerado jornalístico no Brasil. 
+São Paulo, Paz e Terra, 1992. 
+22 Os primeiros manuais de redação da imprensa foram criados pelos jornais que participaram do projeto 
+modernizador do jornalismo nos anos 1950/60. O primeiro manual de redação e estilo da imprensa foi criado 
+por Carlos Lacerda,, então diretor proprietário do jornal Tribuna da Imprensa. Também o Jornal do Brasil 
+criaria no bojo das reformulações editoriais em direção a um projeto de modernização seu manual de 
+redação. Sobre o tema cf. Ana Paula Goulart Ribeiro. Imprensa e Historia no Rio de Janeiro dos anos 1950. 
+Rio de Janeiro, E-Papers, 2002. 
+ 
+20 
+ 
+visitantes únicos e 173 milhões de páginas vistas por mês. Além disso, em 1996, o Grupo 
+Folha fundou, em parceria com Grupo Abril , o Universo Online S.A ., c onhecido como 
+UOL. Em 2005, o jornal Folha de S. Paulo e o portal UOL se uniram num único grupo de 
+mídia, o Folha-UOL S.A., o qual a família Frias detém 78,81%23. 
+ Na seção "Tudo Sobre " do Folha.com, pioneira em apostar na grande reportagem 
+multimídia no Brasil, destaca-se "A Batalha de Belo Monte ", um especial de dezembro de 
+2013 sobre a construção da usina hidrelétrica homônima. Segundo a própria Folha, a 
+produção tem cinco capítulos, 55 fotografias, 24 vídeos e 18 gráficos. Além disso, foram  
+necessários 19 profissionais para desenvolvê-la em nove meses de trabalho, isto é, o oposto 
+aos padrões atuais de produção nas redações, seja pelo custo ou tempo de apuração. 
+ Vale destacar que este especial, que ganhou tradução para o inglês24, foi finalista da 
+edição de 2014 do Prêmio Esso de Jornalismo  - atual Prêmio ExxonMobil -nas categorias 
+"informação científica, tecnológica ou ambiental" e "regional sudeste" 25. Além disso, neste 
+mesmo ano, a grande reportagem multimídia da Folha ganhou a medalha de prata no 
+Malofiej, importante premiação internacional de infografia e design26.  
+ Cada um dos cinco capítulos deste especial reúne texto, vídeos e infográficos 
+abordando cada aspe cto do tema, intitulados "Obra", "Ambiente", "Sociedade", "Povos 
+Indígenas" e "História". Além dos capítulos, há no índic e outras quatro abas, que são: 
+"Making of" , no qual é explicado o processo de produção, ap uração e montagem do 
+material; "Opinião", no qual podem ser lidos dois artigos que tratam da obra, um favorável, 
+escrito por Mauricio Tolmasquim, engenheiro e economista, presidente da Empresa de 
+Pesquisa Energética (EPE) , e outro desfavorável à usina hidrelétrica de Belo Monte, 
+escrito por André Villas -Bôas, indigenista, e secretário -executivo do Instituto 
+Socioambiental (ISA) ; "Folhacóptero em Belo Monte" , que é um hiperlink para um 
+newsgame no qual pode se fazer um voo pela região do Alto Xingu onde está s endo feita a 
+                                                           
+23Estado de São Paulo. Folha e UOL se unem em um só grupo de mídia. 04/01/2005. Disponível 
+em:<http://economia.estadao.com.br/noticias/geral,folha-e-uol-se-unem-em-um-so-grupo-de-
+midia,20050104p5813>.  Acesso em: 19 de janeiro de 2016. 
+24 Disponível em: <http://arte.folha.uol.com.br/especiais/2013/12/16/belo-monte/en/> Último acesso em: 19 
+de janeiro de 2016. 
+25Folha de S. Paulo. Reportagem sobre Belo Monte concorre ao Esso. 2014. Disponível em: 
+<http://www1.folha.uol.com.br/fsp/poder/190888-reportagem-sobre-belo-monte-concorre-ao-esso.shtml>. 
+Acesso em: 19 de janeiro de 2016. 
+26 Folha de S. Paulo. Folha é premiada em concurso internacional de infografia. 2014. Disponível em: 
+<http://www1.folha.uol.com.br/fsp/poder/158737-folha-e-premiada-em-concurso-internacional-de-
+infografia.shtml>. Acesso em: 19 de janeiro de 2016. 
+ 
+21 
+ 
+obra; e, por fim, "Mapa - Bacia do Xingu" , que é um novo hiperlink para um mapa 
+interativo. 
+ Vale ainda destacar que, di ferentemente de "SnowFall", o trabalho sobre Belo 
+Monte foi projetado desde o princípio para ser um especial multimídia. Em entrevista a TV 
+Folha27, o repórter especial da Folha de S. Paulo, Marcelo Leite, que coordenou o projeto, 
+revelou que esta era a intenção do jornal desde a idealização do material: 
+O nosso projeto A Batalha de Belo Monte  nasceu de uma encomenda do 
+secrétario de redação, Vinícius Mota. Ele me chamou para conversar, que 
+eles estavam querendo fazer um gr ande projeto multimídia, uma grande 
+reportagem multimídia sobre Belo Monte. (LEITE, 2013) 
+ O trabalho sobre Belo Monte surgiu num momento em que também outros jornais 
+brasileiros apostavam em produções do gênero. Influenciado pela inovação em 
+"SnowFall", o site do jornal Estado de São Paulo , diário p aulistano, publicou a premiada 
+"Crack: a invasão da droga nos rincões do sossego" 28, especial sobre o aumento do 
+consumo da droga no interior de São Paulo. Atualmente, já são diversos os portais que 
+possuem ao me nos um trabalho neste sentido. Contudo, um que tem se consolidado neste 
+tipo de produção é o Folha.com.  
+ Portanto, nos próximos subcapítulos deverão ser analisados os outros especiais 
+multimídia publicados no site do jornal  Folha de S. Paulo - além do trabalho sobre Belo 
+Monte. Deverão ser destacadas características comuns entre os especiais produzidos para a 
+seção "Tudo Sobre" . Ainda serão  apontadas as críti cas sobre este tipo de material. 
+Pretende-se também avaliar  atributos específicos de cada trabalho. E, por fim, destaca -se 
+que serão identificadas as  estratégias do jornal no processo de produção e distri buição de 
+todo conteúdo apurado para os especiais multimídia. 
+ 
+ 
+ 
+ 
+                                                           
+27 Folha de S. Paulo. Jornalistas contam experiência nas obras da usina de Belo Monte; veja. 22/12/2013. 
+Disponível em: <http://www1.folha.uol.com.br/mercado/2013/12/1389187-jornalistas-contam-experiencia-
+nas-obras-da-usina-de-belo-monte-veja.shtml>. Acesso em: 24 de janeiro de 2016. 
+28 BRANDT, R.; FERNANDJES, R. Crack: a invasão da droga nos rincões do sossego. Estado de São Paulo. 
+2014. Disponível em: <http://infograficos.estadao.com.br/especiais/crack/>. Acesso em: 27 de maio de 2015. 
+ 
+22 
+ 
+4.1. Os especiais multimídia do Folha.com 
+ 
+ Além do trabalho sobre Belo Monte, a Folha publicou outros cinco especiais. O 
+segundo é intitulado "O Golpe e a Ditadura Militar" 29. Publicado em março de 2014, o 
+especial é dividido em oito capítulos - "Introdução", "A crise", "A ditadura", "A 
+economia", "A abertura", "O acerto de contas", "E se..." e "Artigos" . Este último capítulo 
+contém três artigos opinativos sobre o tema, já os demais integram uma grande reportagem 
+em textos longos, fotos, entrevistas em vídeo, áudios, infográficos e documentário. Vale  
+destacar que há também outras duas abas no índice do especial: "Fontes e Referências", no 
+qual há a bibliografia utilizada na reportagem e agradecimentos a entrevistados,além de 
+serem disponibilizados os links para conferir áudios na íntegra e as fontes q ue forneceram 
+fotos para as galerias; e "Expediente", onde são citados os 30 profissionais que realizaram 
+a grande reportagem multimídia. 
+ Já o terceiro especial multimídia produzido pela Folha, publicado em setembro de 
+2014 e que também conta com versão em inglês30, é nomeado "Líquido e Incerto - O futuro 
+dos recurso hídricos no Brasil" 31. Assinado por seis repórteres - Marcelo Leite, Lalo de 
+Almeida, Eduardo Geraque, Fernando Canzian, Rafael Garcia e Dimmi  Amora - e 
+produzido por mais outros 12 profissionais da Folha, ele discute os problemas relacionados 
+a falta de água no Brasil. O material é divido em  quatro reportagens de fôlego:  "Líquido e 
+Incerto", que aborda o futuro dos recursos hídricos no Brasil; "Gente Demais", que retrata 
+a crise hídrica da cidade de São Paulo; "Água Demais", que fala sobre a enchente de la ma 
+no Rio Madeira; e, por fim, "Água de Menos", que documenta a obras de transposição na 
+região nordeste.  Este especial multimídia  foi o vence dor da edição de 2015 do  Prêmio 
+ExxonMobil na categoria "informação científica, tecnológica ou ambiental". 
+                                                           
+29 BALTHAZAR, R.; FERRAZ, L.; FRAGA, É.; FRANCO, B. M.; MAISONNAVE, F.; MENDONÇA, R. 
+O Golpe e a Ditadura Militar. Folha de S. Paulo. 23/03/2014.  Disponível em: 
+<http://arte.folha.uol.com.br/especiais/2014/03/23/o-golpe-e-a-ditadura-militar/>. Acesso em: 15 de fevereiro 
+de 2015. 
+30Disponível em: <http://arte.folha.uol.com.br/ambiente/2014/09/15/crise-da-agua/en/> Último acesso em: 19 
+de janeiro de 2016. 
+31 LEITE, M.; DE ALMEIDA, L.; GERAQUE, E.; CANZIAN, F.; GARCIA, R.; AMORA, D. Líquido e 
+Incerto - O futuro dos recurso hídricos no Brasil. Folha de S. Paulo. 15/09/2014. Disponível em: 
+<http://arte.folha.uol.com.br/ambiente/2014/09/15/crise-da-agua/>. Acesso em: 15 de fevereiro de 2016. 
+ 
+23 
+ 
+ O quarto trabalho da seção "Tudo Sobre" da Folha é "Crime sem Castigo" 32, que 
+tem versão em espanhol 33. Publicado em março de 2015 e produzido por 32 profissionais, 
+o projeto multimídia mape ia e explica o contrabando no Brasil. O projeto é  dividido em 
+cinco capítulos - "Introdução", "A entrada", "A distribuição", "O impacto" e "O combate" . 
+Além disso, no índice,  existem duas abas intituladas "Entrevista - Horacio Cartes" e 
+"Entrevista - José Eduardo Cardozo" , nas quais podem ser conferidas, respectivamente, 
+duas entrevistas em texto com o Presidente do Paraguai e o atual Ministro da Justiça do 
+Brasil. Há também outras duas abas: "Expediente", que apresenta os profissionais 
+envolvidos na produção; e um hiperlink chamado "Fórum o Contrabando no Brasil" , que 
+faz referência a um seminário organizado pela Folha para debater o tema abordado no 
+especial. 
+ O quinto especi al multimídia reunido na seçã o "Tudo Sobre"  é nomeado "Rio 
+Maravilha Mutante"34, e trata do processo de transformação da cidade do Rio de Janeiro 
+para receber os Jogos Olímpicos de 2016. Produzido por 36 profissionais, este trabalho 
+possui uma estrutura diferente dos demais. O material  multimídia está distribuído também 
+em capítulos, seis no total, como os outros especiais produzidos pela Folha - "Introdução", 
+"Barra", "Cidade de Deus", "Alemão e Maré", "Centro", "Zona Sul" e "Corcovado" . 
+Contudo, neste especial, diferentemente dos dema is, existem subcapítulos que são 
+separados de acordo com a mídia do material que ele carrega (vídeo, texto, foto, 
+newsgame, infográfico). O leitor pode optar por conferir todo o material conforme ele foi 
+sequencialmente programado ou selecionar no índice d o especial por meio de quais tipos 
+de mídia ele quer consumir a informação. Ainda vale lembrar que este especial também foi 
+publicado em inglês35. 
+ O sexto e mais recente especial da Folha, produzido por 22 profissionais, é o 
+"Floresta sem Fim"36, que aborda o desmatamento no Brasil e as questões relacionadas as 
+                                                           
+32 Folha de S. Paulo. Crime sem Castigo. 12/03/2015. Disponível em: 
+<http://arte.folha.uol.com.br/mercado/2015/03/12/crime-sem-castigo/>. Acesso em: 15 de fevereiro de 2016. 
+33Disponível em: <http://arte.folha.uol.com.br/mercado/2015/03/31/crimen-sin-castigo/> Último acesso em: 
+19 de janeiro de 2016. 
+34 Folha de S. Paulo. Rio Maravilha Mutante. 19/08/2015. Disponível em: <http://arte.folha.uol.com.br/tudo-
+sobre/rio-em-transformacao/>. Acesso em: 1 de novembro de 2015. 
+35 Disponível em: <http://arte.folha.uol.com.br/tudo-sobre/rio-em-transformacao/en/>. Acesso em: 19 de 
+janeiro de 2016. 
+36 LEITE, M.; MAISONNAVE, F.; GARCIA, R.; ADEODATO, S.; DE ALMEIDA, L. Floresta sem Fim. 
+Folha de S. Paulo. 16/09/2015. Disponível em: <http://arte.folha.uol.com.br/tudo-sobre/desmatamento-
+zero/>. Acesso em: 1 de novembro de 2015. 
+ 
+24 
+ 
+mudanças climáticas. O material é dividido em cinco capítulos: "Introdução", "Carne 
+Verde", "Mato de Valor", Raízes Frágeis" e "Largados na Selva" . No índice, onde também 
+é possível acessa r a aba "Expediente", estão destacados as partes do especial em que há 
+conteúdo em vídeo, para caso o leitor queira acessar direto o material em vídeo ao invés de 
+seguir o curso naturalmente programado para a reportagem. Vale ressaltar que este especial 
+multimídia pode ser conferido também nas versões em espanhol37 e em inglês38. 
+ Cabe ainda dizer que existem outros materiais multimídia produzidos pelo 
+Folha.com, contudo, n em todos eles integram a seção "Tudo Sobre" do site. Além disso, 
+apesar da evidente qualidade das publicações e o bom reconhecimento até mesmo em 
+premiações, a seção produzida pela Folha de S. Paulo teve críticas da própria ombudsman 
+do jornal. Estes dois aspectos abordaremos a seguir.  
+ 
+4.1.1. Um pouco além do "Tudo Sobre" 
+  
+ É interessante ressaltar que o site da Folha de S  Paulo tem produzido vários 
+materiais multimídia, contudo, nem todos recebem a chancela de "Tudo Sobre". Há uma 
+seção no site nomeada "Especiais", na qual todos materiais  multimídia e infográficos, sem 
+exceções, estão listados conforme a editoria nos quais se encaixam. O que diferencia os 
+especiais que estão integr ados ao "Tudo Sobre"  dos que não estão tem sido a pauta 
+escolhida, a produção que eles receberam e o modo como são apresentados. 
+ A importância das pautas é um aspecto comum a todos os seis espec iais multimídia 
+que integram o "Tudo Sobre". Todas estas grandes reportagens multimídia abordam temas 
+de forte apelo: Belo Monte é a maior obra em curso no Brasil; já  o golpe e a ditadura 
+militar é assunto marcante da história do país; a discussão sobre recursos hídricos tornou -
+se tema dominante com a crise de água que assola regiões do país, em especial a cidade de 
+São Paulo; a questão do contrabando é de interesse não  só brasileiro, mas internacional; os 
+Jogos Olímpicos no Rio de Janeiro também interessam não só ao Brasil, mas ao mundo; e, 
+                                                           
+37Disponível em: <http://arte.folha.uol.com.br/tudo-sobre/deforestacion-cero/> Último acesso em: 19 de 
+janeiro de 2016. 
+38Disponível em: <http://arte.folha.uol.com.br/tudo-sobre/zero-deforestation/> Último acesso em: 19 de 
+janeiro de 2016. 
+ 
+25 
+ 
+por fim, as questões que estão relacionadas ao desmatamento da floresta amazônica são 
+outra discussão de caráter expressivo e universal. 
+ Já tratando da produção dos especiais m ultimídia que integram a seção "Tudo 
+Sobre", fica evidente a diferença diante dos especiais e infográficos restantes espalhados 
+pelo site da Folha. Projetos como os que tratam de Belo Monte ou o contrabando no Brasil 
+exigiram mais jornalistas, mais tempo e, consequentemente, mais dinheiro em sua 
+produção. Há a imersão no assunto a ser tratado, característica fundamental da grande 
+reportagem e agora do especial multimídia, tornando a reportagem mais profunda, a 
+apuração mais abrangente e, portanto, o material final maior e mais completo. 
+ Além disso, vale destacar a diferença na forma como são apresentados os especi ais 
+que não carregam o selo do "Tudo Sobre": eles estão hospedados em páginas com o layout 
+comum do Folha.com. Ou seja, visualmente eles não têm o mesmo design minimalista das 
+outras produções, pois possuem banners e spams publicitários espalhados ao seu redor, 
+além de chamadas para outras reportagens e matérias, e hiperlinks para outras seções do 
+site d o jornal. Estas características visuais dizem muito sobre o processo de imersão do 
+leitor, o que será exposto ao longo no próximo item. 
+  
+4.1.2. A crítica da ombudsman 
+ 
+ Vale destacar aqui as críticas que o formato dos especiais multimídia produzidos 
+pela Folha de S. Paulo recebeu. Curiosamente, uma das primeiras desaprovações deste tipo 
+de material veio de dentro do próprio jornal, através da ombudsman Vera Guimarães 
+Martins (2014). Em sua  coluna intitulada "Quando o conteúdo é demais" 39, ao tratar 
+especificamente do especial sobre a crise hídrica, ressaltou o "excesso de conteúdo" 
+(MARTINS, 2014) que o produto da Folha.com reúne, o que seria um problema: 
+Não há dúvida sobre o valor jornalístico, mas elas estão mais próximas de 
+um livro didático do que de um relato que segura o leitor. Sua vocação é 
+virar fonte de consulta, não de desfrute. Nada de errado se for essa a 
+intenção. Duvido. O excesso de conteúd o é efeito colateral irônico de 
+                                                           
+39 MARTINS, V. G. Quando o conteúdo é demais. Folha de São Paulo. 21/09/2014. Disponível 
+em:<http://www1.folha.uol.com.br/colunas/veraguimaraesmartins/2014/09/1519478-quando-o-conteudo-e-
+demais.shtml>. Acesso em: 19 de janeiro de 2016. 
+ 
+26 
+ 
+uma vantagem que o digital tem sobre o impresso: na internet, o espaço 
+não tem fim. Daí para exagerar na dose é um pulo. 
+ Defendendo que o material sobre a crise da água  tinha como destino “ser 
+integralmente conhecido por po ucos” (MARTINS, 2014),  a ombudsman foi rebatida pelo 
+também colunista da Folha, Marcelo Leite, que coordenou o especial multimídia em 
+questão, e Roberto Dias, secretário -assistente de redação do jornal. Apresentando dados 
+obtidos pelo Adobe Analytics/ Omniture40, Leite e Dias mostraram em seu artigo nomeado 
+"Réplica: audiência de 'crise da água' mostra interesse do leitor" 41 a boa audiência do 
+especial, diferentemente do que defendeu Martins.  
+ Só o trabalho sobre crise da água teve 132 mil visitantes nos primeiros 12 dias de 
+sua publicação – o que representa mais que o dobro da audiência das 20 colunas que a 
+ombudsman publicou em seis meses, desde que assumiu o cargo. Além disso, o número de 
+páginas vistas, que inclui textos e fotos, do especial multimídia em discussão, foi de 2,98 
+milhões em seus primeiros 14 dias na web, o que equivale a toda a audiência acumulada 
+por 570 reportagens publicadas em setembro de 2014 no noticiário internacional da  Folha 
+(LEITE e DIAS, 2014).  
+ Os jornalistas ainda recorreram a uma métrica de audiência que avalia o tempo 
+dedicado pelos leitores as reportagens. "Quem clicou no especial dedicou sua atenção a 
+ele: em minutos, o tempo médio de leitura da reportagem multimídia é mais que o triplo do 
+usual numa reportagem da Folha" (LEITE e DIAS, 2014).  
+ Por fim, Leite e D ias, endossados pelos números do  especial em discussão, 
+defenderam há existência de um demanda por trabalhos aprofundados. Deste modo, os dois 
+articulistas finalizaram o texto com a promessa de mais especiais multimídia , o que tem 
+sido cumprido até então: 
+Feito para ser lido/visto/ouvido não apenas em desktops mas também em 
+celulares e tablets, "Crise da Água" se soma a outras experiências que 
+a Folha fez e continuará fazendo para publicar informações digitalmente. 
+Inexiste expectativa de que um ou outro formato prevaleça. Mais 
+provavelmente vários deles conviverão dentro das versões digitais da 
+Folha – prova disso são os blogs, formato que resiste há mais  de 15 anos 
+a seguidos "decretos de morte". (LEITE e DIAS, 2014) 
+                                                           
+40 Serviço de web analytics. 
+41 LEITE, M. e DIAS, R. Réplica: Audiência de 'crise da água' mostra interesse do leitor. Folha de São Paulo. 
+28/09/2014. Disponível em:<http://www1.folha.uol.com.br/poder/2014/09/1523763-replica-audiencia-de-
+crise-da-agua-mostra-interesse-do-leitor.shtml>. Acesso em: 19 de janeiro de 2016. 
+ 
+27 
+ 
+4.2.  Estrutura do especial: a imersão e a interatividade 
+ 
+ Apesar de não serem iguais, todos os especiais multimídia produzidos pela Folha 
+mantém uma estrutura parecida, principalmente no que diz respeito à imersão do leitor e a 
+sua interatividade com a informação. A priori, vale destacar o design minimalista utilizado 
+na apresentação do material multimidiático. Devido a quantidade de conteúdo num 
+especial multimídia, ter poucos elementos que possam dispersar o leitor é uma estratégia 
+para mantê-lo atento e imerso nas informações que ele está lendo, vendo e ouvindo. 
+ Portanto, não há em ne nhum dos especiais reunidos no "Tudo Sobre" publicidades 
+em banners ou spams como podem ser vistos na maioria dos sites de notícia, inclusive no 
+Folha.com, como citado anteriormente. Também não há chamadas de notícias com 
+assuntos relacionados, que possam tirar o leitor do especial. Os botões relativos ao índice 
+ou a ações como vo ltar a home do site ocupam um espaço mínimo, estão ocultos ou 
+indicados apenas por um símbolo.  
+ Quanto aos hiperlinks, em geral, não há. Contudo, dois deles podem ser vistos no 
+especial sobre Belo Monte e um outro na reportagem que retrata o contrabando n o Brasil. 
+Ainda assim são links que dão acesso a um conteúdo integrado ao especial. Além disso, 
+estes hiperlinks estão na última parte do índice, o que, provavelmente, só levará o leitor a 
+outra página quando ele estiver ao final de sua leitura. 
+  Ao tratar do cuidado quanto ao design minimalista como estratégia de imersão, é 
+importante destacar a estrutura do mat erial em capítulos. Tal medida é vista em todos os 
+especiais produzidos pela Folha de S. Paulo que estão reunidos na seção  "Tudo Sobre". 
+Isto facilita a interatividade de quem consome a s informações dispostas nestes produtos , 
+uma vez que o próprio leitor escolhe qual ordem narrativa  a seguir, apesar de haver uma 
+sequência previamente proposta. 
+A possibilidade de conduzir a própria leitura revel a uma tendência do 
+utilizador para assumir um papel proactivo na notícia, ainda que apenas 
+por forçado estabelecimento da sua própria pirâmide invertida. Este dado 
+é importante, pois como é sabido, a técnica da pirâmide invertida é a base 
+do jornalismo escrito. (CANAVILHAS, 2001, p. 3) 
+ Neste sentido, o pesquisador João Canavilhas afirma que o material disponível num 
+especial multimídia deve estar "hiperligado" entre si: "No webjornalismo, não faz qualquer 
+ 
+28 
+ 
+sentido utilizar uma pirâmide [...]. Um primeiro te xto introduz o essencial  da notícia 
+estando os restantes blocos de informação disponíveis por hiperligação"  (CANAVILHAS, 
+2001, p. 3) . É o que ocorre em todos os especiai s multimídia reunidos na seção "Tudo 
+Sobre" do site da Folha de S. Paulo. Há sempre um capítulo inicial nomeado "Introdução", 
+que aborda as questões primárias do tema em discussão. A  partir daí, o leitor têm acesso a 
+outros blocos de texto, vídeo s, fotos, infográficos, e outros recursos multimídia que 
+complementam e aprofundam a grande reportagem. 
+ Vale destacar que além da interação, esta divisão em capítulos torna a leitura mais 
+didática, o que facilita a absorção de conteúdo  - característica importante num trabalho tão 
+extenso quanto um especial multimídia. Além disso, a pre sença de subdivisões permite ao 
+leitor ter um a noção geral do conteúdo presente na grande reportagem  multimídia. Este 
+último fator está relacionado  a uma tendência do leitor online em primeiramente  escanear 
+uma página ao invés de ler todo o conteúdo , conforme já foi exposto anteriormente neste 
+trabalho.  
+ 
+4.3. Questões de custos: fragmentação e patrocínio 
+ 
+ O tempo de trabalho, o número de profissionais envolvidos e os desafios da 
+apuração - deslocamentos e manutenção de jornalistas em viagem, por ex emplo - exigidos 
+por um especial multimídia são responsáveis pelo  saltos custos de produção. Além disso, 
+como design que impera dentre este tipo de grande reportagem refuta a exposição de 
+publicidade, surgem questionamentos de como custear a produção deste tipo de material e 
+como gerar renda com ele.  
+ A priori, uma estra tégia utilizada pela Folha foi a fragmentação do conteúdo 
+reunido nos especiais. Os quatro primeiros especiai s multimídias reunidos na seção "Tudo 
+Sobre" tiveram páginas no site da Folha dedicadas aos seus respectivos assuntos. Estas 
+páginas reúnem as reportagens, os infográficos, newsgames, galerias de fotos e vídeos que 
+integram os especiais fragmentados em diferentes páginas, além de novas matérias sobre 
+assunto, num layout comum ao do site, com banners publicitários. Isto permite a Folha 
+monetarizar de alguma forma  o conteúdo produzido para os especiais e ancorá -lo em 
+diversas editorias do site. 
+ 
+29 
+ 
+ Já nos últimos três especiais multimídia reunidos na seção  "Tudo Sobre", a Folha 
+contou com patrocinadores relacionados a cada tema para realizar suas produções. Em 
+geral, suas marcas são expostas em um espaço pequeno, de modo que não se prejudique a 
+identidade visual da publicação, nem se altere o seu design. Portanto, apesar do patr ocínio, 
+não há banners ou spams publicitários ao longo da grande reportagem multimídia. 
+ A primeira grande reportagem multimídia da Folha que recebeu patrocínio foi a 
+que descreve o contrabando no Brasil. Quatro instituições custearam a apuração: o Instituto 
+Brasileiro de Ética Concorrencial (ETCO) , Fundação Nacional Contra a Pirataria e 
+Ilegalidade (FNCP), Instituto de Desenvolvimento Econômico e Social de Fronteiras 
+(IDESF) e a Associação Brasileira de Combate à Falsificação (ABCF) . Elas são citadas 
+logo no capítulo introdutório do especial. 
+ O especial que aborda as transformações do Rio de Janeiro para receber as 
+Olimpíadas foi o segundo a ser patrocinado. Quem o custeia é a empresa de turismo CVC. 
+A logomarca da empresa é exposta em todas as páginas do especial na parte superior, com 
+exceção do capítulo introdutório. Por fim, a grande reportagem multimídia que retrata o 
+desmatamento no Brasil é patrocinada pelo instituto Climate and Land Use Alliance  
+(Clua). Contudo, neste caso, alogo  do patrocinador ou qualquer referência a ele não foi 
+exposta ao longo da reportagem, apenas seu nome é citado ao final, no expediente deste 
+especial multimídia da Folha de S. Paulo. 
+  
+ 
+4.4. Repórter MacGyver vs. equipe multifuncional 
+ 
+ Em seu artigo O jornalista multimédia do século XXI , Anabela Gradim lista uma 
+série de aspectos a cerca do processo de convergência no jornalismo. A pesquisadora 
+portuguesa aborda ao longo de seu texto problemáticas que afetam, principalmente, a 
+atividade jornalística e o produto final do jornalismo neste novo cenário digital. 
+ Gradim compara o jornalista do futuro com o MacGyver. Este personagem 
+protagonizou uma série norte-americana dos anos 80 e ficou conhecido pela sua exagerada 
+capacidade inventiva ao utilizar difer entes materiais para resolver conflitos da trama. A 
+ 
+30 
+ 
+pesquisadora descreve este novo jornalista como "homem dos mil e um recursos, trabalha 
+sozinho, equipado com uma câmera de vídeo digital, telefone satélite, laptop com software 
+de edição de vídeo e html, e conexão sem fi os à internet" (GRADIM, 2003, p . 121). A 
+partir daí, enfatiza o fato de este profissional agregar diversas funções: 
+As tecnologias digitais, e especialmente os novos media, estão 
+simplesmente a acelerar um processo onde as administrações pressentem 
+um aumento das margens de lucro, produzindo um jornalista tipo 
+MacGyver, o super repórter multimídia, e o novo produto que este se 
+prepara para oferecer ao seu público. (GRADIM, 2003, p. 125) 
+ Neste sentido, Gradim cita Robert Nelson 42 para destacar que o recrutamento desta 
+categoria de repórter multimídia pode vir a criar uma classe asséptica. Ou seja, haveriam 
+profissionais que dominam várias ferramentas e possuem diversos talentos, contudo, em 
+nenhum deles há absoluta profundidade. 
+ No caso dos  especiais multimídia da seção "Tudo Sobre"  do site da Folha, este 
+novo jornalista apontado por Gradim e Nelson não é o que impera no processo de 
+produção. Ao invés de um jornalista que domine diferentes técnicas, o jornal paulistano 
+tem apostado em grandes equipes multifuncionais para produzir cada um de seus especiais 
+multimídia. A média de profissionais citados nos expedientes das sei s produções é de 
+aproximadamente 26 pessoas.  
+ Isso ficou claro logo após a produção do especial sobre a usina de Belo Monte, o 
+primeiro da Folha. Em um texto publicado na "Ilustríssima"43, nomeado "Reportagem 
+consumiu dez meses", Marcelo Leite, coordenador  do projeto e repórter especial do jornal, 
+destacou a impossibilidade de um repórter fazer toda a apuração em torno da obra, o que 
+fez a equipe planejar o envio de quatro a cinco jornalistas ao Alto Xingu. 
+ Em todos os casos, as grandes reportagens multimídia costumam integrar diversas 
+editorias. Portanto, em geral, participam na apuração e produção de um especial desta 
+magnitude diversos jornalistas, que se dividem nas funções de repórter, fotógra fo, 
+videografista, infografista e  editor de texto . Al ém disso, em todos os casos estes 
+profissionais são auxiliados por programadores e designers. Vale acrescentar também que, 
+em casos pontuais, são integrados ainda outros profissionais como no projeto "Rio 
+                                                           
+42 NELSON, R. Is there a place for brilliant but nerdy reporters in the converged newspaper of the  
+future?. 2002. Disponível em: <http://www.ojr.org>. 
+43 LEITE, M. Reportagem consumiu dez meses. Folha de São Paulo. 15/12/2013. Disponível em: 
+<http://www1.folha.uol.com.br/ilustrissima/2013/12/1385200-reportagem-consumiu-dez-meses.shtml>. 
+Acesso em: 22 de janeiro de 2016. 
+ 
+31 
+ 
+Maravilha Mutante" , que conta com cartunistas e col unistas do jornal, além de 
+desenvolvedores de newsgames. 
+ Aliás, o surgimento destes novos atores nas redações  auxiliando o trabalho de 
+jornalistas, a  exemplo os programadores e designers citados acima, não é um processo 
+exclusivo da Folha, tal como sugere Canavilhas. Segundo o autor, cada vez mais "os 
+jornalistas são obrigados a procurar maior aproximação com os profissionais que dominam  
+a parte tecnológica" (CANAVILHAS et al., 2014, p. 93).  
+ Em seu artigo Jornalistas e tecnoatores: dois m undos, duas culturas, um objetivo , 
+no qual Canavilhas empreende um estudo de caso na redação do web jornal português 
+Observador, ele refuta a ideia de que o jornalista deva exercer diversas outras funções . O 
+pesquisador acredita que o desenvolvimento tecnológico acelerado exige  nas redações , 
+além de repórteres, a presença de profissionais especializados apenas em questões técnicas 
+da produção noticiosa. 
+Embora alguns autores defendam a figura do jornalista -programador, 
+como se vi u antes, a evolução tecnológica é tão rápida que exige 
+profissionais dedicados apenas ao setor técnico. Como referiram o 
+designer e o programador, a sua missão é resolver problemas e 
+implementar formatos complexos mais apelativos. Dentro dos problemas 
+a resolver estão o desenvolvimento de sistemas que acelerem o trabalho 
+dos jornalistas e que simultaneamente lhes permitam elaborar conteúdos 
+de maior apelo. (CANAVILHAS et al., 2014, p. 93) 
+ 
+4.5. O interesse humano no relato multimídia 
+  
+ Em seu livro Técnica de reportagem: notas sobre a narrativa jornalística , Sodré e 
+Ferrari (1986) listam quatro  características que fundamentam o gênero da reportagem: a 
+objetividade dos fatos narrados; a predominância da forma narrativa; a humanização do 
+relato; e o texto de natureza impressionista. Vale frisar que, segundo os autores, "conforme 
+o assunto ou objeto em torno do qual gira a reportagem, algumas dessas características 
+poderão aparecer com maior destaque" (SODRÉ e FERRARI, 1986, p. 15). Caberá neste 
+subtópico, portanto, apontar especialmente estes últimos fatores elencados. Eles se 
+destacam principalmente por recuperarem um caráter humano n os especiais multimídia da 
+seção "Tudo Sobre" do site da Folha de S. Paulo. 
+ 
+32 
+ 
+ O tratamento narrativo dos especiais multimídia é evidenciado pelo texto e pelo 
+enfoque humanístico que este carrega. Ao tratar disso, Sodré e Ferrari destacam elementos 
+fundamentais para a humanização do relato: "Sem um "quem"e um "o quê" não se pode 
+narrar. Na reportagem, estes dois elementos têm de existir, mas têm sobretudo, de 
+despertar interesse humano - ou não serão suficientes para sustentar a problemática 
+narrativa" (SODRÉ e FERRARI, 1986, p. 14).  Nesse sentido, o s autores ainda 
+complementam: 
+A hum anização do relato, pois, é tanto maior quanto mais passa pelo 
+caráter impressionista do narrador. Diretamente ligada à emotividade, a 
+humanização se acentuará na medida em que o relato for feito por alguém 
+que não só testemunha a ação, mas participa dos f atos. O repórter é 
+aquele "que está presente", servindo de ponte (e, portanto, diminuindo a 
+distância) entre o leitor e o acontecimento. Mesmo não sendo em 1ª 
+pessoa, a narrativa deverá carregar em seu discurso um tom 
+impressionista que favoreça essa aprox imação. (SODRÉ e FERRARI, 
+1986, p. 15) 
+ Estes elementos são perceptíveis na produção dos especiais da Folha.com. Ao 
+abordara realização da grande reportagem multimídia "Floresta sem Fim" , Marcelo Leite, 
+que coordenou o projeto, assumiu a intenção em humanizar o trabalho. Em entrevista ao 
+portal Mídia e Amazônia 44, Leite pontuou a necessidade de ter repórteres em campo, 
+presentes no cenário do acontecimento, e de destacar personagens reais ao longo da 
+reportagem. 
+A ideia desde sempre foi criar uma reportagem com muitos elementos 
+que permitisse m levar o leitor ou, no caso, o internauta para dentro de 
+certas realidades da Amazônia. Então a gente escolheu, depois de uma 
+reunião interna da pauta  da reportagem, falar de agropecuária, de 
+madeira, assentamentos, terras indígenas e Redd+45. Para isso, a gente  
+levou quatro repórteres  acompanhados de um fotógrafo e dois 
+cinegrafistas para cada uma dessas regiões. Escolhemos áreas específicas 
+para que es ses repórteres fossem lá e contassem as histórias daquelas 
+pessoas, daqueles locais. E a partir dessas histórias bem concretas, 
+pessoas de carne e osso, puxar o assunto mais geral, mais abstrato da 
+questão da mudança climática, do desmatamento zero. Enfim,  o conceito 
+por trás desse produto era esse.(LEITE, 2015) 
+ O repórter especial da Folha de S. Paulo narrou sua própria experiência ao longo da 
+apuração. Leite assegurou como o caráter impressionista  na construção da reportagem  é 
+um processo fundamental para o jornalista . Além disso, Leite acrescentou que  esta 
+                                                           
+44 Os trechos em destaque da entrevista concedida por Marcelo Leite ao portal Mídia e Amazônia, publicada 
+em 26 de outubro de 2015, foram transcritos pelo presente autor. Disponível em: 
+<https://youtu.be/2s8VZSoUlhk>. Acesso em: 23 de janeiro de 2016. 
+45 Sigla que designa redução de emissões por desmatamento e degradação; pronuncia-se red plus. 
+ 
+33 
+ 
+aproximação se reflete no pro duto final, o que é demonstra  um diferencial também para o 
+leitor.  
+Como jornalista essa é a melhor parte, é você fazer reportagem de campo. 
+Eu, especificamente, trabalhei como repórter só na questão da pecuária. O 
+restante da série eu editei, coordenei, pautei. Mas como repórter eu 
+trabalhei em Alta Floresta e Paragominas. É o lugar onde você mais 
+aprende, em campo. Porque, por exemplo, a gente visitou várias fazendas 
+de pecuária, eu não sou uma pessoa que convive com pecuaristas, eu 
+moro em São Paulo, nasci em São Paulo, então não tenho essa relação 
+direta com esse mundo. Eu tenho uma noção abstrata, eu leio relatórios, 
+pesquisas. Essa é um experiência que é fundamental para o jornalismo. A 
+gente faz muito jornalismo baseado em conversas de telefone, em eventos 
+e em relatórios. Eu acho que faz toda diferença do mundo, não só para o 
+jornalista, mas para o leitor, você conseguir contar histórias, histórias de 
+vida. (LEITE, 2015) 
+ Ao apontar esta busca por "histórias de vida", Marcelo Leite ainda complementa 
+que elas estão diretamente relacionadas as questões amplas abordadas no especial. Isto é, a 
+grande reportagem multimídia seleciona personagens que despertem interesse hum ano a 
+fim de que eles possam sustentar toda problemática narrativa que o relato envolve, tal 
+como Sodré e Ferrari (1986) apontaram ao tratarem do gênero da reportagem. 
+Há histórias de vidas e de famílias que estão diretamente conectadas com 
+coisas que acon teceram no Brasil - movimentos migratórios, políticas 
+boas ou más, reforma agrária. Você torna muito mais interessante, vivo e 
+boa de ler ou de ver em um vídeo, se você tem pessoas contando essas 
+histórias, e a gente contando as histórias delas. (LEITE, 2015) 
+ Vale ainda ressaltar como outros atributos  vistos tanto  nesta grande reportagem 
+multimídia, quanto em outros especiais publicadas no site da Folha de S. Paulo, auxiliam 
+na humanização do relato. As fotografias ampliadas eos vídeos de acionamento automático 
+recorrentes nos especiais multimídia do "Tudo Sobre", além d os infográficos interativos, 
+reforçam a objetividade dos fatos narrados ao longo do texto . Tal como descrevem Sodré e 
+Ferrari, "Não é bastante ser verdadeira; reportagem tem que parecer46 verdadeira - ser 
+verossímel" (1986, p. 107). 
+ Esses elementos visuais, muitas vezes de forte apelo emocional, atribuem maior 
+verossimilhança a o material textual. Deste modo, estes atributos contri buem ainda mais 
+para que o leitor conheça  os personagens descritos e se integre  ao contexto dos assuntos  
+relatados na grande reportagem multimídia . Tal como assume Leite (2015): " A gente usou 
+muitos recursos visuais, infográficos, vídeos, justamente para t entar trazer o máximo de 
+                                                           
+46 Destaque em itálico atribuído pelos mesmos autores. 
+ 
+34 
+ 
+informação, mas com o máximo de vivacidade. Essa é um p ouco a fórmula que a gente 
+usou".  
+ 
+4.6. Integração com as mídias móveis 
+ 
+ Em seu artigo Jornalismo convergente e continuum  multimídia na quinta geração 
+do jornalismo nas redes digitais , Suzana Barbosa (2013) elabora algumas considerações 
+sobre o jornalismo em sua intersecção com as mídias móveis, em destaque os tablets e 
+smartphones. De acordo com a autora, o cenário atual do  jornalismo digital desenvolveu 
+uma quinta fase denomin ada continuum multimídia, na qual os produtos jornalísticos para 
+a web integram diferentes mídias, incluindo as móveis. 
+Nesse contexto, a lógica não é de dependência, competição ou de 
+oposição entre os  meios e seus conteúdos em diferentes suportes, 
+característica de etapas anteriores do jornalismo, principalmente quando o 
+examinamos a partir do surgimento das versões de produtos jornalísticos 
+para a web. O cenário atual é de atuação conjunta, integrada,  entre os 
+meios, conformando processos e produtos,  marcado  pela  
+horizontalidade  nos  fluxos  de  produção,  edição,  e distribuição dos 
+conteúdos, o que resulta num continuum multimídia de cariz dinâmico. 
+(BARBOSA, 2013, p. 33) 
+ Vale destacar que essa fase é sucessora de uma quarta geração sugerida também por 
+Barbosa (2013), baseada no jornalismo de dados : o Paradigma Jornalismo Digital em Base 
+de Dados (JDBD). De acordo com a autora ,as bases de dados (BDs) estruturam o trabalho 
+jornalístico em sua pré-produção, produção, cir culação, consumo e pós -produção. Além 
+disso, as BDs permitem aos portais jornalísticos gerarem  um padrão dinâmico. Deste 
+modo, em contraposição ao modelo anterior, elas permitem  mobilidade aos produtos 
+noticiosos.  
+Assim, o Paradigma  Jornalismo em Base de Dados é balizador para 
+inferirmos a existência de uma quinta geração de desenvolvimento para o 
+jornalismo nas redes digitais. Os traços constitutivos incluem a própria 
+medialidade, a horizontalidade como marca para o processamento do s 
+fluxos de informações por entre as distintas plataformas (impresso, 
+pdf/page flip, web, operações mobile: smartphones, tablets, redes 
+sociais), com integração de processos e produtos no continuum 
+multimídia dinâmico. (BARBOSA, 2013, p. 41)  
+ 
+35 
+ 
+ Isto pode se r observado nos especiais multimídia produzidos para a seção "Tudo 
+Sobre" da Folha de S.  Paulo. Todo material multimídia produzido pelo site do jornal é 
+adaptado neste sentido, de modo que possa ser acessado em diferentes mídias, não haja 
+competição elas e o aproveitamento de sua audiência  seja maximizado. Exemplo disso é 
+adaptabilidade vista n o especial "A Batalha de Belo Monte" . Além da própria grande 
+reportagem multimídia, foram gerados uma série especial no jornal impresso, um 
+documentário na TV Folha 47, e  um aplicativo  baseado em um newsgame, que po de ser 
+jogado tanto a partir de laptops, quanto em tablets e smartphones48. 
+ Vale ressaltar que a atenção com as mídias móveis acata a uma ten dência dos 
+leitores em consumirem conteúdo noticioso por esses meios. Segundo um levantamento do 
+instituto Nielsen IBOPE, 40% dos internautas móveis recorrem ao smartphone para lerem 
+notícias. Sendo que desses usuários, 68% acessam o navegador de internet, 42% se 
+informam devido comparti lhamento de notícias via redes sociais e 30 % obtém esse 
+conteúdo a partir de algum aplicativo de troca de mensagens49.  
+ 
+4.7. O tempo dos especiais 
+  
+ É fundamental analisar, por fim, as questões relacionadas ao tempo em um especial 
+multimídia. Na contramão do fast media, estes trabalhos realizados pela Folha de S. Paulo 
+se destacam  pelo longo tempo utilizado em sua  apuração e  produção. Além disso , é 
+interessante avaliar a perenidade do conteúdo produzido. Isto é, o temp o útil deste produto 
+em meio a veloz descartabilidade de informação no meio digital. 
+ Desde que inaugurou a seção "Tudo Sobre" , em dezembro de 2013 com a 
+publicação da grande reportag em multimídia "A Batalha de Belo Monte" , a Folha.com 
+produziu outros cinco especiais do gênero, tal como já foi visto ao longo deste trabalho. 
+                                                           
+47 Folha de S. Paulo. "TV Folha" traz especial sobre Belo Monte; veja íntegra. 12/01/2014. Disponível em: 
+<http://www1.folha.uol.com.br/multimidia/tvfolha/2014/01/1396339-tv-folha-traz-especial-sobre-belo-
+monte-veja-integra.shtml>. Acesso em: 24 de janeiro de 2016. 
+48 ORRICO, A. Game "Folhacóptero" explica o projeto da usina de Belo Monte. Folha de S. Paulo. 
+17/12/2013. Disponível em: <http://www1.folha.uol.com.br/mercado/2013/12/1386613-game-folhacoptero-
+explica-o-projeto-da-usina-no-para.shtml#_=_>.  Acesso em: 24 de janeiro de 2016. 
+49 Nielsen. 68 milhões usam a internet pelo smartphone no Brasil. 16/06/2015. Disponível em: 
+<http://www.nielsen.com/br/pt/press-room/2015/68-milhoes-usam-a-internet-pelo-smartphone-no-
+Brasil.html>. Acesso em: 25 de janeiro de 2015. 
+ 
+36 
+ 
+Considerando que foram gastos nove meses na construção desta primeira reportagem e que 
+a última produzida até então, "Rio Maravilha Mutante" , foi ao ar em agosto de 2015, a 
+seção de especiais multimídia do diário paulistano manteve uma periodicidade de, em  
+média, uma reportagem a cada quase cinco meses. Ainda que base ado em um cálculo 
+simples, esse dado já nos permite fazer uma breve comparação da relação de tempo 
+produção dos especiais com o noticiário comum. 
+ Marcelo Leite e Roberto Dias, respectivamente,  colunista e secretário-assistente de 
+redação da Folha, ao rebaterem a ombudsman do próprio jornal, tal como foi relatado 
+anteriormente neste trabalho, revelaram que apenas em setembro de 2014 foram publicadas 
+570 reportagens no  noticiário internacional do Folha.com. Executando novamente uma 
+média simples, entende-se que esta editoria do site produziu 19 publicações por dia. Isso já 
+nos dá uma breve noção de como a apuração e  a produção de um especial multimídia 
+exigem um tempo diferente do que impera no noticiário comum. 
+ Vale destacar ainda que o tempo gasto na produção de  um especial reverbera na 
+perenidade de seu conteúdo, ao menos é o que demonstra a própria Folha. Na homepage 
+ou em capas de outras editorias do site, tanto em sua versão em português, quanto nas em 
+espanhol e inglês, é corriqueiro existirem chamadas para os especiais que já foram 
+produzidos há um certo tempo, num espaço costumeiramente ocupada por notícias quentes. 
+Além disso, ainda que o site da Folha tenha limite de acessos em 20 textos para usuários 
+comuns e reserve seções exclusivas aos assinantes, o acesso aos especiais multimídia é 
+livre a qualquer leitor, o que demonstra o interesse do jornal em otimiza r ao máximo 
+audiência desse tipo de material. 
+ Outro fator sintomático, embora simples,deste interesse na durabilidade do material 
+nos especiais multimídia, é a ausência de indicação de data  de publicação nos trabalhos do 
+"Tudo Sobre". Enquanto o noticiário comum preza por detalhar até mesmo o horário em 
+que o conteúdo foi ao ar, os especiais se esquivam da necessidade de instantaneidade  e 
+ainda assim parecem não envelhecerem na web , por tratarem de maneira ampla e 
+contextualizada de assuntos comuns ao cotidiano. 
+ 
+ 
+  
+ 
+37 
+ 
+5. CONCLUSÃO 
+ 
+ Iniciativas como o "Tudo Sobre" do site da Folha de S.  Paulo demonstram uma 
+nova maneira de lidar com a informação no meio online. Na contramão do corriqueiro 
+modelo fast media e da primazia pela velocidade  - indicativos da arquitetura temporal da 
+civilização contemporânea -, os especiais multimídia correspondem a um formato 
+jornalístico atento a contextualização e aprofundamento da notícia.  No caso destes 
+produtos, são diferenciais o tempo disponibilizado para sua produção e a perenidade de seu 
+conteúdo. Além disso, pode -se destacar nestes especiais o expressivo aprimoramento 
+estilístico. 
+ Ao abordar questões referentes à linguagem, a maior mudança nestas grandes 
+reportagens multimídia é o aproveitamento das  potencialidades que o meio proporciona ao 
+webjornalismo. Além de serem distribuídos por plataformas digitais, eles sugerem um 
+conceito estético pensado essencialmente para tal meio. Portanto, observa -se que são 
+diferentes da produção noticiosa corriqueira  ainda formatada de acordo com mídias 
+anteriores a internet. Desse modo, características como a interatividade, a 
+hipertextualidade, a memória e a multimidialidade/convergência, elencadas por Marcos 
+Palacios (2003), se destacam nos especiais, tal como foi evidenciado nas análises. 
+ Até então, o formato dos especiais multimídia tem se mostrado um tendência 
+próspera. Tal como foi visto ao longo do  trabalho, o site da Folha de S.  Paulo, além de 
+outros portais, tem publicado regularmente produções do gênero e apontado boa recepção 
+por parte dos leitores. O modelo da grande reportagem multimídia, que foi projetado por 
+"SnowFall", já tem algumas características consolidadas: texto de fôleg o, design 
+minimalista, leitura verticalizada, apuro estilístico, combinação de imagens estáticas e em 
+movimento.  
+ Além disso, uma marca consolidada pelo jornal paulistano em suas grandes 
+reportagens multimídia diz respeito a sua produção: a integração de diversos profissionais. 
+O expediente de cada um dos especiais multimídia do "Tudo Sobre"  demonstram um 
+processo multidisciplinar e colaborativo para sua produção. Ao invés de um jornalista que 
+domine diferentes técnicas, são reunidos costumeiramente atores  de diversas frentes: 
+design, jornalismo, fotojornalismo, vídeo, infografia e programação. Ainda há em casos 
+ 
+38 
+ 
+pontuais, a utilização de profissionais de outras áreas técnicas, tal como desenvolvedores 
+de newsgames. 
+ Outro fator comum entre os especiais mult imídia produzidos pela Folha de São 
+Paulo é o forte apelo das pautas escolhidas. Em todos os casos vistos, são retratados temas 
+do cotidiano (usina de Belo Monte, ditadura militar, crise hídrica, contrabando 
+internacional, jogos olímpicos e questões climát icas), de modo que sua complexidade e 
+importância histórica sejam contextualizadas e retratadas com profundidade. 
+ Contudo, há resoluções em aberto, principalmente, no que diz respeito ao 
+financiamento e monetização deste material. Tal como foi visto ao longo deste trabalho, o 
+Folha.com tem recorrido ao patrocínio de empresas e instituições que atuam num setor 
+relacionado ao tema retratado em cada um dos especiais para financiá -los. Além disso, o 
+material apurado para a formatação de cada grande reportagem multimídia é fragmentado 
+em partes no próprio site a fim de ser monetizado com incursões publicitárias. Vale 
+lembrar também que o conteúdo dos especiais multimídia é repercutido em diferentes 
+plataformas da Folha de S.  Paulo, de modo que diferentes mídias sejam integradas e a 
+audiência possa ser otimizada. 
+ Nesse sentido, projetos como o "Tudo Sobre" denotam inovação t anto no que diz 
+respeito à linguagem, quanto ao cuidado com as audiências. A aposta em especiais 
+multimídia é fator sintomático das possibilidades das empresas jornalísticas por buscar 
+novos públicos no meio online. Na contramão da apreensão corriqueira de  que não há 
+interesse por textos longos na internet, a proposta da Folha.com em especiais multimídia, 
+assim como de outros portais, é de fidelizar uma  nova audiência com produções 
+jornalísticas de qualidade. De modo que torne este público compromissado tanto com as 
+grandes reportagens multimídia, quanto com o próprio periódico que as produz.  Além 
+disso, a aposta em conteúdos elaborados como estes, em tempos que a informação comum 
+é facilmente replicável, é um diferencial para o site do jornal Folha de S. Paulo, que adota 
+uma política de assinantes e acesso restrito. 
+ Ainda é importante dizer que este formato é influenciado por características 
+fundamentais do já consagrado gênero da reportagem. Deste modo, é possível considerar  
+que este modelo, ainda que inovador, se baseia em práticas antigas no que concerne ao 
+fazer jornalístico.Isto é, retoma o caráter narrativo da notícia, recupera a meticulosa 
+ 
+39 
+ 
+apuração dos assuntos, atenta para a análise de dados a fim de atender a objetividade dos 
+fatos, ap osta na humanização dos relatos e se preocupa com a imersão do jornalista ao 
+construir a  reportagem, de modo que favoreça a aproximação do leitor com o conteúdo 
+proposto. 
+ É importante concluir que esta aposta em jornalismo aprofundado, atento a assuntos 
+sérios, se contrapõe a lógica do jornalismo de cliques, que apela por uma cobertura  
+cotidiana, saturada e , por vezes,  genérica, que agrega uma grande audiência, contudo, 
+instável e pouco comprometida.  Experimentações jornalísticas nesse sentido vão de 
+encontro ao um modo de encarar o ofício do jornalista que Muniz Sodré  (2009) assegura 
+como essencial em meio a este bios virtual. 
+ O autor afirma que, em meio a diversificaçã o dos emissores de informações, de 
+maneira livre e caótica - fato proporcionado pelas novas tecnologias de comunicação - são 
+postos em discussão o papel do jornalista, das corporações midiáticas e da própria 
+definição de notícia. Portanto, Sodré afirma que neste cenário, o "jornalista seria, acima de 
+tudo, o intérprete qualificado de uma realidade que deve ser contextualizada, reproduzida e 
+compreendida nas suas relações de causalidade e condicionamentos históricos" (SODRÉ, 
+2009, p. 62), de modo que garanta a qualidade da notícia, complementando as informações 
+livremente reproduzidas de maneira sistemática. 
+ Isto não sugere que o formato dos especiais multimídia, e outras propostas de 
+jornalismo aprofundado, deverão ser considerados um modelo canônico  na internet. Tal 
+como já foi visto ao longo d este trabalho, diferentes formatos coexistem nos portais 
+noticiosos. O próprio site do jornal Folha de S. Paulo, analisado neste estudo, produz tanto 
+materiais como os do "Tudo Sobre" , quanto notas simples de atual ização contínua e 
+notícias factuais curtas. 
+ Vale frisar que a iniciativa em realizar grandes reportagens multimídia corresponde 
+à necessidade de experimentação do jornalismo, principalmente em tempos tão instáveis no 
+que diz respeito à linguagem e aos modelos de negócios. Aliás, em respeito a isso, é 
+importante examinar o discurso corriqueiro de crise no jornalismo. Soa evidente que as 
+perspectivas de negócios adotadas até então são críticas, mas não necessariamente o ofício 
+jornalístico, este que enquanto amparado por qualidade e valores éticos é fundamental ao 
+estado democrático de direito e aos direitos fundamentais de toda sociedade. Num cenário 
+ 
+40 
+ 
+em que há crise, é necessário atentar -se para outros aspectos, essencialmente no que diz 
+respeito a modelos de negócios. 
+ Por fim, é válido ressaltar que este trabalho, ao articular diferentes perspectivas 
+referentes ao webjornalismo e ao próprio meio digital, não visa apontar o futuro da prática 
+jornalística. Buscou-se reconhecer o caráter inventivo dos especiais multimídia produzidos 
+pelo "Tudo Sobre"  da Folha de S.  Paulo, que recuperam o jornalismo aprofundado e 
+inovam em linguagem, além de analisar o processo de produção e distribuição deste 
+produto. Deste modo, ao in vés de encerrar a discussão e determinar um caminho exato 
+neste período de constantes mudanças, o estudo aqui proposto pretende orientar novos 
+trabalho neste sentido: a experimentação e a consolidação de gêneros a partir das 
+potencialidades que esta nova mídia proporciona. 
+  
+ 
+41 
+ 
+6. REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+6.1. Impressos 
+ 
+BARBOSA, S. Jornalismo convergente e continuum multimídia na quinta geração do 
+jornalismo nas redes digitais. In: CANAVILHAS, João (Org.). Jornalismo e mobilidade: 
+O Jornalismo na Era dos Dispositivos Móveis. Covilhã, Livros Labcom, 2013. 
+BARROS, I. S. de A.; MARQUES, F. P.. “Do Rio para o Rio” – aplicação de um novo 
+conceito em jornalismo online. Orientadora: Cristina Rego Monteiro Luz. Rio de janeiro: 
+UFRJ/ECO. Projeto prático em Jornalismo. 
+CANAVILHAS, J.; TORRES, V.; SATUF, I.; LUNA, D. Jornalistas e tecnoatores: dois 
+mundos, duas culturas, um objetivo. ESFERAS - Revista Interprogramas de Pós-
+graduação em Comunicação do Centro Oeste, v. 1, p. 85-95, 2014. Disponível em: 
+<http://portalrevistas.ucb.br/index.php/esf/article/view/5690/3630>. Acesso em: 22 de 
+janeiro de 2016. 
+GONZÁLEZ, M.C. Convivencia de la prensa escrita y la prensa "online" en su 
+transición hacia el modelo de comunicación multimedia. Estudios sobre el Mensaje 
+Periodístico, n. 7, p. 71-78,2001. Disponível 
+em:<http://revistas.ucm.es/index.php/ESMP/article/view/ESMP0101110071A>. Acesso 
+em: 19 de janeiro de 2016. 
+GRADIM, A. O jornalista multimédia do século XXI. In: FIDALGO, A.; SERRA, J, P. 
+(org.). Jornalismo Online: Informação e Comunicação Online. Volume I. Universidade da 
+BeiraInterior. Covilhã , Portugal , 2003. 
+LONGHI, R.R. Os  nomes  das  coisas:  em  busca  do  especial  multimídia. Estudos  
+em  Comunicação, Portugal, v. 2, n. 7, p.149-161, 2010. Disponível em: 
+<http://www.ec.ubi.pt/ec/07/vol2/longhi.pdf>. Acesso em: 19 de janeiro de 2016. 
+MANOVICH, L. Novas mídias como tecnologia e ideia: Dez definições. In: O chip e o 
+caleidoscópio: Reflexões sobre as novas mídias. Lúcia Leão (org.). São Paulo: Senac, 
+2005. 
+PALACIOS, M. Jornalismo online, informação e memória: apontamentos para 
+debate. In: FIDALGO, A.; SERRA, J, P. (org.). Jornalismo Online: Informação e 
+Comunicação Online. Volume I. Universidade da Beira Interior. Covilhã , Portugal , 2003. 
+PAVLIK, J.P. Ubiquidade: o 7 princípio do jornalismo na  era  digital. In: 
+CANAVILHAS, J. (org). Webjornalismo:  7  características  que  marcam  a  diferença.  
+Covilhã:  UBI, LabCom, Livros LabCom, 2014. 
+SODRÉ, M. A narração do fato: notas para uma teoria do acontecimento. Petrópolis, RJ: 
+Vozes, 2009. 
+SODRÉ, M. Antropológica do Espelho: Uma Teoria da Comunicação Linear e em Rede. 
+Petrópolis, RJ: Vozes, 2002. 
+SODRÉ, M.; FERRARI, M. H. Técnica de reportagem: notas sobre a narrativa 
+jornalística. São Paulo: Summus, 1986. 
+ 
+42 
+ 
+ 
+6.2. Conteúdo Virtual 
+ 
+BARBOSA, M. C. O tempo da história e o tempo dos "outros". 1998, (mimeo.). 
+BARBOSA, S. Produção horizontal e  narrativas verticais: novos padrões para as 
+narrativas jornalísticas. Trabalho apresentado ao Grupo de trabalho estudos de 
+jornalismo  do  XXIII  Encontro  Anual  da  Compós,  na  Universidade  Federal  do  Pará, 
+Belém, de 27 a 30 de maio de 2014. Disponível em: 
+<http://compos.org.br/encontro2014/anais/Docs/GT10_ESTUDOS_DE_JORNALISMO/ar
+tigo_gtjornalismo_sbarbosa_naara_yuri_2238.pdf>. Acesso em: 19 de janeiro de 2016. 
+BARDOEL, J & DEUZE, M. Network Journalism: converging competences of old and 
+new media professionals. Disponível em: 
+<https://scholarworks.iu.edu/dspace/bitstream/handle/2022/3201/BardoelDeuze+NetworkJ
+ournalism+2001.pdf?sequence=1>. Acesso em: 19 de janeiro de 2016. 
+CANAVILHAS, J. M. Webjornalismo: Considerações gerais sobre jornalismo na web. 
+In:I Congresso Ibérico de Comunicação, Málaga, 2001. Disponível em: 
+<http://www.bocc.ubi.pt/pag/canavilhas-joao-webjornal.pdf>. Acesso em: 19 de janeiro de 
+2016. 
+MIELNICZUK,  L. Sistematizando alguns conhecimentos sobre jornalismo na Web. 
+In: 12º Compós- Encontro dos cursos de Pós-Graduação em Comunicação, 2003,  Recife. 
+CD-ROM, 2003. Disponível em: <https://suelytemporal.wordpress.com/artigos/outros-
+autores/sistematizando-alguns-conhecimentos-sobre-jornalismo-na-web/>. Acesso em: 19 
+de janeiro de 2016. 
+SANTOS, A.L.P. Informação fast-food: um estudo de caso do jornal Último Segundo, 
+do portal IG. Disponível em: <http://www.bocc.ubi.pt/pag/santos-prado-ana-fast-
+food.pdf>. Acesso em: 19 de janeiro de 2016.

@@ -1,17 +1,18 @@
 {
-  "document_count": 10,
-  "processed_count": 10,
+  "document_count": 50,
+  "processed_count": 50,
   "error_count": 0,
   "extraction_success_rate": 1.0,
-  "has_introduction_count": 10,
-  "has_results_count": 10,
-  "has_conclusion_count": 10,
-  "evaluable_count": 10,
-  "evaluable_rate": 1.0,
+  "has_introduction_count": 41,
+  "has_results_count": 40,
+  "has_conclusion_count": 36,
+  "evaluable_count": 40,
+  "evaluable_rate": 0.8,
   "alignment_label_distribution": {
-    "high": 7,
-    "medium": 2,
-    "low": 1
+    "low": 14,
+    "insufficient_sections": 10,
+    "high": 24,
+    "medium": 2
   },
   "alignment_metrics": [
     "tfidf_cosine_similarity",

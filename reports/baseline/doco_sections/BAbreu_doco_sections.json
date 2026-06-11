@@ -1,0 +1,23 @@
+{
+  "document_id": "BAbreu",
+  "available_doco_labels": [
+    "doco:Results"
+  ],
+  "missing_doco_labels": [
+    "doco:Introduction",
+    "doco:Discussion",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Results": [
+      {
+        "header": "6.1.2. Cadê o manual?",
+        "legacy_role": "results",
+        "start_char": 1745,
+        "end_char": 1781,
+        "content": "Todas as ações do gerenciamento da crise da TAM foram feitas por instinto e por sensibilidade mercadológica de uma empresa de serviços. A companhia aérea não tinha nenhum manual ou plano de gerenciamento de crise para dizer o que deveria ser feito ou qual a melhor forma de fazê-lo. Em 1996, poucas empresas no Brasil tinham manuais de gestão de crise. As empresas americanas, porém, já haviam mostrado preocupação com o assunto, e já estavam desenvolvendo planos específicos de gestão. (ROSA, 2003, p. 49) Uma dessas empresas era a American Airlines. A companhia aérea americana cedeu o seu crisis management plan20 e um técnico especializado para orientar a TAM durante o processo. De acordo com Falco, a maioria das ações do manual correspondiam com as tomadas pela empresa, como reunir todos os parentes da vítima no mesmo local, avisar aos familiares sobre a lista de passageiros, manter a empresa funcionando em meio à crise. Depois do ocorrido, a TAM criou o seu próprio manual e capacitou técnicos de gerenciamento de crise – que, eventualmente, também prestaram ajuda a empresas sulamericanas, como a Lapa, companhia aérea argentina. (ROSA, 2003, p. 52) Em entrevista à Revista Organicom, João José Forni afirma que boa parte das empresas brasileiras ainda hoje não está preparada para lidar com crises de imagem. De acordo com o pesquisador, os diretores das organizações ainda esperam que nada aconteça, e, quando acontece, entregam a responsabilidade do gerenciamento inteiramente à equipe de comunicação e relações públicas. Ele também afirma que há bastante tempo empresas norte-americanas se preocupam com pesquisas sobre o assunto, o que os possibilitou ter mecanismos de gerenciamento muito bem estruturados. (FORNI, 2007, p. 4) 20Plano de gerenciamento de crise 52 Na Europa, principalmente na França, muitos estudos e pesquisas mais focadas em crises empresariais e organizacionais também estão sendo realizados. De acordo com Forni, essas pesquisas ainda são incipientes no Brasil, mas estão ganhando visibilidade nos últimos anos. As empresas internacionais de consultoria de gerenciamento de crise ainda são as principais fontes de orientação para empresas brasileiras que enfrentam crises de imagem. Acredito que no Brasil a prevenção será o próximo passo no gerenciamento de crise, mesmo porque já aprendemos que a crise não releva ninguém, seja governo ou empresa privada. Os episódios do apagão aéreo, acidentes e crises políticas mostraram o quanto as empresas e o governo ainda devem aprender e evoluir para uma administração transparente, responsável e capaz de dar respostas rápidas aos clientes nessas situações extremamente tensas e delicadas. (FORNI, 2007, p. 5)",
+        "content_length": 2695
+      }
+    ]
+  }
+}

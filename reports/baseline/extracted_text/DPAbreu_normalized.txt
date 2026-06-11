@@ -1,0 +1,2669 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+ESCOLA DE QUÍMICA
+Dayanandra Pereira de Abreu
+LIOFILIZAÇÃO DE FRUTAS: UM PANORAMA NACIONAL E
+INTERNACIONAL COM BASE EM DOCUMENTOS PA TENTÁRIOS
+RIO DE JANEIRO
+2023
+Dayanandra Pereira de Abreu
+LIOFILIZAÇÃO DE FRUTAS: UM PANORAMA NACIONAL E INTERNACIONAL
+COM BASE EM DOCUMENTOS PATENTÁRIOS
+Trabalho de Conclusão de Curso apresentado à Escola de Química da Universidade Federal
+do Rio de Janeiro, como parte dos requisitos necessários à obtenção do g rau de Engenharia de
+Alimentos
+Orientador: D.Sc. Ricardo Schmitz Ongaratto
+Rio de Janeiro
+2023
+Dayanandra Pereira de Abreu
+LIOFILIZAÇÃO DE FRUTAS: UM PANORAMA NACIONAL E INTERNACIONAL
+COM BASE EM DOCUMENTOS PATENTÁRIOS
+Trabalho de Conclusão de Curso apresentado à
+Escola de Química da Universidade Federal do
+Rio de Janeiro, como parte dos requisitos
+necessários à obtenção do grau de Engenheira de
+Alimentos
+Aprovado em 20 de julho de 2023.
+________________________________________________
+Ricardo Schmitz Ongaratto, D.Sc., UFRJ
+________________________________________________
+Karen Signori Pereira, D.Sc., UFRJ
+________________________________________________
+Aline Mara Barbosa Pires, D.Sc, INPI
+Rio de Janeiro
+2023
+AGRADECIMENTOS
+Agradeço imensamente a minha ancestralidade e a todos que fizeram da luta pela educação e
+igualdades as suas causas. Houve um tempo, não tão remot o da história, em que nem
+mulheres tampouco pessoas negras podiam cursar o ensino superior. É através da educação
+que tornamos o mundo melhor, mais justo e progressista.
+Obrigada a minha mãe Denise e ao meu pai Renato por todo o imenso suporte e incentivo,
+pelas palavras de confiança , os ensinamentos e por me ensinar em desde pequena o valor da
+educação.
+Obrigada ao professor Dr. Ricardo pela orientação, apoio e toda a transferência de saberes
+durante a graduação e no desenvolvimento do TCC.
+Obrigada à professora Dra. Lourdes por ter me encantado com a ciência de alimentos ainda no
+ensino médio. Agradeço também a todos os professores que tive na vida, pois contribuíram
+para a minha formação, em especial a professora Dra. Cheila Mothé ( in memoriam ) pela
+grande referência e orientação e aos professores Dra. Carla Reis e Dr. Daniel Perrone pela
+orientação nas iniciações científicas durante a graduação.
+Obrigada à professora Dra. Karen Signori e à Dra. Aline Pires pela disponibilidade e
+contribuição.
+Obrigada a m inha tia e madrinha Dayse que desde criança me ensinava a olhar por outros
+ângulos e a minha avó Denair por todo o carinho e pela grande referência.
+Obrigada ao meu parceiro Hugo pelas palavras de encorajamento, todo apoio e
+companheirismo.
+Obrigada aos meus amigos Mateus, Itam, Lívia, Vic, Pedro e irmão Renato por toda a ajuda,
+estarem comigo nos momentos difíceis e terem feito dessa caminhada mais leve.
+Agradeço à UFRJ, a minha segunda casa por alguns anos, por todo o apoio, pelo ensino
+público de excelência e por oferecer oportunidades de crescimento pessoal e profissional com
+diferentes atividades acadêmicas. Obrigada aos professores, técnicos e terceirizados que
+fazem d esse espaço uma Universidade tão prestigiada . É com muito orgulho que levarei o
+nome dela na minha formação.
+RESUMO
+ABREU, Dayanandra Pereira de . Liofilização de Frutas: um panorama nacional e
+internacional com base em documentos patentários . Rio de Janeiro, 2023. Trabalho de
+Conclusão de Curso (Graduação em Engenharia de Alimentos ) - Escola de Química,
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2023.
+A liofilização é um método de conservação no qual o alimento é desidratado em
+baixas temperaturas, pois a água livre contida na matriz no estado sólido é transferida
+diretamente para a fase gasosa. Tendo em vista que as frutas in natura possuem uma vida
+comercial reduzida devido à alta atividade de água, a liofilização é uma estratégia eficiente
+para conservá-las. O presente trabalho t eve como principal objetivo realizar o mapeamento
+tecnológico da liofilização das frutas com o viés d a tecnologia de conservação através das
+patentes depositadas na base internacional Derwent. Com a busca pelo código A23B-007/024
+e a palavra -chave “ fruit” foram recuperados 329 documentos no intervalo de tempo entre
+01/01/1970 (data mais antiga da base) e 31/01/2023 . Estes foram analisados em duas partes :
+quantitativamente, através das áreas de conhecimento , códigos IPC, depositantes, país de
+depósito, ano de publicação e grupos te cnológicos (equipamentos industriais,
+desenvolvimento de novos processos e produtos ) e, qualitativamente, com a interpretação
+baseada nos grupos tecnológicos . Além disso, uma análise mais detalhada dos documentos
+patentários depositados no Brasil foi reali zada. Os resultados demonstraram a relevância do
+objeto de estudo através das reivindicações das tecnologias e modelos de utilidade nas áreas
+de engenharia, tecnologia de alimentos e química. Nos pedidos de patente foram identificados
+equipamentos industri ais que tornam a liofilização mais eficiente , processos que tornam a
+operação mais vantajosa e novos produtos, tais como snacks, farinhas, produtos com benefício
+terapêutico e formulações contendo frutas liofilizadas. As diversas aplicações e novidades
+tecnológicas identificadas em diferentes ramos demonstram as múltiplas possibilidades da
+liofilização de frutas.
+Palavras-chave: Derwent; mapeamento tecnológico; tecnologia de alimentos ; método de
+conservação; patentes.
+ABSTRACT
+ABREU, Dayanandra Pereira de. Liofilização de Frutas: um panorama nacional e
+internacional com base em documentos patentários. Rio de Janeiro, 2023. Trabalho de
+Conclusão de Curso (Graduação em Engenharia de Alimentos) - Escola de Química,
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2023.
+Freeze-drying is a method of preservation in which the food is dehydrated at low
+temperatures because the unattached water contained in the food in the solid state is
+transferred directly to the gas phase. Considering that fresh frui ts have a reduced commercial
+life due to their high water activity, freeze -drying is an efficient strategy to preserve them.
+The present study aims to perform the technological mapping of freeze -dried fruits as
+conservation technology through the patents deposited in the international Derwent database.
+With the search for the code A23B -007/024 and the keyword fruit, 329 patental documents
+were recovered in the peri od between 01/01/1970 (oldest date in the base) and 31/01/2023 .
+These were analyzed in two parts: quantitatively through the areas of knowledge, IPC,
+depositors, country of deposit, year of publication and technological field (industrial
+equipment, development of new processes and products), and qualitatively, based on t he
+technology. In addition, it was realized a more detailed analysis of the brazilian patental
+documents. The results demonstrated the relevance of the object of study through the claims
+of the technologies and utility models in the areas of engineering, f ood technology and
+chemistry. With the analysis it was possible to identify the various applications and novelties,
+new products with great market potential and new utility models focused on process
+efficiency. In the patent applications were identified industrial equipment that makes freeze -
+drying more efficient, processes that make the operation more advantageous, and new
+products, e.g. snacks, flours, product with therapeutic benefit, and formulations containing
+freeze-dried fruit s. The various technolog ical novelties identified demonstrate the multiple
+possibilities of freeze-drying of fruits.
+Keywords: Derwent; patent mapping; food technology; preservation method; patents.
+LISTA DE ILUSTRAÇÕES
+Figura 1 – Diagrama de fases da água mostrando a sublimação do gelo ................................. 23
+Figura 2 – Liofilizador de bancada ........................................................................................... 24
+Figura 3 – Liofilizador industrial ............................................................................................. 24
+Figura 4 – Principais componentes do liofilizador ................................................................... 24
+Figura 5 – Transferência de calor e massa durante a liofilização ............................................. 26
+Figura 6 – Fluxograma da produção das frutas liofilizadas ...................................................... 28
+Figura 7 – Exemplo de classificação internacional de patentes ............................................... 33
+Figura 8 – Evolução dos pedidos de patentes sobre liofilização de frutas ao longo do tempo 46
+Figura 9 – Gráfico dos grupos tecnológicos ............................................................................. 47
+Figura 10 – Gráfico das áreas de conhecimento dos documentos patentários brasileiros ........ 48
+Figura 11 – Gráfico com a classificação dos equipamentos industriais ................................... 50
+Figura 12 – Gráfico com a classificação dos novos processos ................................................ 53
+Figura 13 – Gráfico com a classificação dos novos produtos .................................................. 56
+LISTA DE TABELAS
+Tabela 1 - Diferenças entre a secagem convencional e a liofilização ..................................... 29
+Tabela 2 – Áreas de conhecimento ........................................................................................... 40
+Tabela 3 – Principais códigos IPC ............................................................................................ 41
+Tabela 4 – Principais países de depósito ................................................................................. 43
+Tabela 5 – Principais depositantes............................................................................................ 45
+Tabela 6 – Depositantes brasileiros .......................................................................................... 49
+LISTA DE ABREVIATURAS E SIGLAS
+ABRAFRUTAS Associação Brasileira dos Produtores Exportadores de Frutas e Derivados
+B2B Business to business
+B2C Business to consumer
+CAGR Taxa de crescimento anual composto
+CNNPA Comissão Nacional de Normas e Padrões para Alimentos
+CPC Cooperative Patent Classification
+DCNT Doenças crônicas não transmissíveis
+DWPI Derwent World Patents Index
+EMBRAPA Empresa Brasileira de Pesquisa Agropecuária
+FAO Food and Agriculture Organization of the United Nations
+FLV Frutas, legumes e verduras
+FMI Future Market Insights
+INPI Instituto Nacional da Propriedade Industrial
+IPC International Patent Classification
+IPEA Instituto de Pesquisa Econômica Aplicada
+LPI Lei da Propriedade Industrial
+OMS Organização Mundial da Saúde
+ONU Organização das Nações Unidas
+OMPI Organização Mundial da Propriedade Intelectual
+PCT Tratado de Cooperação em matéria de Patentes
+P&D Pesquisa e Desenvolvimento
+PVR Pressão de vapor relativa
+LISTA DE SÍMBOLOS
+aa Atividade de água (-)
+P Pressão da água no alimento (Pa)
+P0 Pressão de vapor da água pura (Pa)
+Taxa de evaporação (
+)
+A Área da troca térmica (m2)
+Massa do sólido seco (g)
+Umidade em base seca (-)
+t Intervalo de tempo (h)
+SUMÁRIO
+1 INTRODUÇÃO ................................................................................................................... 13
+2 OBJETIVO .......................................................................................................................... 15
+2.1 OBJETIVOS ESPECÍFICOS ............................................................................................. 15
+3 REVISÃO BIBLIOGRÁFICA ........................................................................................... 16
+3.1 FRUTAS ............................................................................................................................. 16
+3.1.1 Classificação climática das frutas .................................................................................... 16
+3.1.2 Classificação botânica das frutas ..................................................................................... 17
+3.1.3 Composição química das frutas ....................................................................................... 17
+3.1.4 Relação do consumo de frutas e promoção da saúde ...................................................... 20
+3.1.5 Perdas e desperdícios das frutas ...................................................................................... 21
+3.2 LIOFILIZAÇÃO ................................................................................................................ 23
+3.2.1 Princípios da liofilização ................................................................................................. 23
+3.2.1.1 Congelamento e secagem ............................................................................................. 25
+3.2.2 Frutas liofilizadas ............................................................................................................ 27
+3.2.3 Vantagens do método ...................................................................................................... 28
+3.3 MERCADO ........................................................................................................................ 30
+3.3.1 Mercado das frutas........................................................................................................... 30
+3.3.2 Mercado das frutas liofilizadas ........................................................................................ 31
+3.4 SISTEMA PATENTÁRIO ................................................................................................. 32
+3.4.1 Patentes ............................................................................................................................ 32
+3.4.1.1 Classificação das patentes ............................................................................................ 33
+3.4.2 Mapeamento e prospecção tecnológica ........................................................................... 34
+3.4.3 Patentes e alimentos ........................................................................................................ 36
+4 METODOLOGIA ................................................................................................................ 38
+4.1 ANÁLISE QUANTITATIVA ............................................................................................ 38
+4.2 ANÁLISE QUALITATIVA ............................................................................................... 39
+5 RESULTADOS E DISCUSSÃO ........................................................................................ 40
+5.1 ANÁLISE QUANTITATIVA ............................................................................................ 40
+5.1.1 Áreas de conhecimento e códigos IPC ............................................................................ 40
+5.1.2 País de depósito ............................................................................................................... 43
+5.1.3 Depositantes .................................................................................................................... 44
+5.1.4 Ano de publicação ........................................................................................................... 45
+5.1.5 Grupos tecnológicos ........................................................................................................ 46
+5.1.6 Patentes brasileiras .......................................................................................................... 47
+5.2 ANÁLISE QUALITATIVA ............................................................................................... 50
+5.2.1 Equipamentos industriais ................................................................................................. 50
+5.2.1.1 Enfoque no aumento da eficiência................................................................................ 50
+5.2.1.2 Melhorias no liofilizador .............................................................................................. 51
+5.2.1.3 Equipamentos para criação de novos produtos ............................................................ 52
+5.2.1.4 Equipamentos com outras funcionalidades .................................................................. 52
+5.2.2 Desenvolvimento de novos processos ............................................................................. 52
+5.2.2.1 Aumento das vantagens da liofilização ........................................................................ 53
+5.2.2.2 Processos para criação de novos produtos .................................................................... 54
+5.2.2.3 Processos de maior eficiência ....................................................................................... 55
+5.2.2.4 Outros processos ........................................................................................................... 55
+5.2.3 Desenvolvimento de novos produtos ............................................................................... 55
+5.2.3.1 Produtos com textura alterada decorrente do processamento ....................................... 56
+5.2.3.2 Frutas liofilizadas ......................................................................................................... 57
+5.2.3.3 Composições ................................................................................................................. 58
+5.2.4 Patentes brasileiras .......................................................................................................... 58
+6 CONCLUSÕES .................................................................................................................... 61
+7 REFERÊNCIAS .................................................................................................................. 62
+APÊNDICE A – DOCUMENTOS PATENTÁRIOS SELECIONADOS PARA
+ANÁLISE QUALITATIVA ................................................................................................... 70
+APÊNDICE B – DOCUMENTOS PATENTÁRIOS BRASILEIROS .............................. 76
+13
+1 INTRODUÇÃO
+O Brasil é o terceiro produtor mundial de frutas, justificado pela vasta extensão
+territorial com diversidade de climas e biomas (VIDAL, 2022). O país possui vantagem
+competitiva devido à presença de muitas espécies, desde as tropicais, subtropicais até as
+temperadas, com destaque em vendas para as tropicais e de clima temperado (DOMINGUES,
+2019).
+As frutas possuem um perfil nutritivo excelente, contendo diversos minerais,
+vitaminas, fibras e compostos antioxidantes . Devido ao teor considerável de açúcares, odor
+exuberante e sabor agradável são atrativas sensorialmente. Porém, devido à alta atividade de
+água, as frutas in natura possuem uma vida comercial pequena, podendo causar perdas
+econômicas na cadeia de alimentos . Diante disso, a perecibilidade da matriz torna -se um
+empecilho a ser superado nas etapas de conservação, transporte e comercialização (SILVA et
+al., 2021).
+Uma solução para aumentar a vida comercial da matriz é reduzir a atividade de água.
+Com esta finalidade, os métodos de secagem são utilizados desde tempos remotos, através da
+exposição dos alimentos ao sol (SILVA et al., 2021). A secagem ocorre a través da remoção
+da água, com o aumento da temperatura, através dos fenômenos de sublimação ou evaporação
+(CELESTINO, 2010).
+Dentre as possíveis técnicas, destaca -se a liofilização, uma operação unitária que
+combina os fenômenos da secagem com o congelame nto. A desidratação nesta operação
+ocorre em temperaturas baixas e pressão controlada e o principal fundamento é a remoção da
+água livre do estado sólido diretamente para o estado gasoso (FELLOWS, 2019).
+Pode-se citar como vantagens da operação o aquecime nto suave que garante a
+preservação de compostos nutricionais e das características sensoriais, a melhor capacidade de
+reidratação e o armazenamento em temperatura ambiente das frutas (TERRONI et al., 2013).
+Além disso, o método pode prevenir as perdas nas fases do pós -colheita, transporte,
+armazenamento e comercialização, sem a adição de aditivos químicos (CELESTINO, 2010).
+A isenção destes compostos pode ser um fator atrativo para alguns consumidores mais
+exigentes por alimentação natural (FMI, 2022).
+Diante desse cenário, estudos mercadológicos apontam que há um crescente perfil de
+consumidor mais preocupado com a qualidade de vida e relação da saúde e alimentação (FMI,
+2022). Ao considerar a rotina de vida acelerada, as frutas liofilizadas ganham destaqu e, pois
+são fontes de vitaminas, compostos antioxidantes e minerais, com uma vida comercial
+14
+estendida, e estão associadas à conveniência e praticidade (TERRONI et al., 2013). Por isso,
+as pesquisas mercadológicas projetam bons indicadores de crescimento pa ra a área de frutas
+liofilizadas, devido à maior procura por produtos comumente associados à saudabilidade
+(FMI, 2022).
+Por fim, adiciona -se ao cenário da globalização comercial, a necessidade das
+indústrias de alimentos de fornecerem alimentos seguros e garantirem as novidades, a fim de
+acompanhar a competitividade propiciada pela tecnologia atual (ABREU, 2017; TEIXEIRA,
+2013). A inovação tecnológica é essencial para a criação de estratégias d e crescimento ,
+diferenciação e vantagem competitiva de uma empresa (KIMURA et al., 2019).
+A p rospecção tecnológica mapeia os desenvolvimentos tecnológicos e científicos ,
+influenciando significativamente a indústria, a sociedade e a economia. Através da prospecção
+é possível entender as potencialidades, a evolução e as características da tecnologia em
+diferentes setores econômicos , contribuindo diretamente para o crescimento econômico e
+vantagem competitiva (RODRIGUES et al., 2022; OLIVEIRA E RODRIGUES, 2020).
+Uma possível metodologia de prospecção tecnológica é a análise de patentes. As
+análises estatísticas realizadas a partir dos documentos patentários são indicadores relevantes
+para mensurar a inovação em ciência e tecnologia , pois refletem o estado atual da técnica
+(RODRIGUES et al., 2022; TEIXEIRA, 2013). Além disso, o sistema de patentes incen tiva
+de forma eficiente a inovação, garantindo a proteção da propriedade intelectual das indústrias,
+dos institutos, universidades e centros de pesquisa (CRECCA et al., 2023).
+15
+2 OBJETIVO
+O presente trabalho te ve por objetivo mapear , interpretar e ana lisar o conhecimento
+tecnológico sobre a liofilização de frutas presentes em documentos patentários.
+2.1 OBJETIVOS ESPECÍFICOS
+Para atingir o objetivo proposto, os seguintes objetivos específicos foram traçados:
+i) Criação da melhor expressão de busca para retorn o adequado de documentos
+patentários: levantamento de palavras-chave e campo de pesquisa.
+ii) Análise quantitativa global: levantamento do número total de documentos,
+classificando-os em países de origem, ano de publicação, depositantes, áreas de
+conhecimento, códigos do sistema de classificação internacional (IPC, do
+inglês International Patent Classification ) e grupos tecnológicos
+(equipamentos industriais, desenvolvimento de novos processos e novos
+produtos).
+iii) Análise qualitativa global: análise e interpretação dos documentos publicados
+entre 2021 e 2023 a fim de avaliar o panorama mais atual.
+iv) Análises quantitativa e qualitativa dos documentos depositados no Brasil:
+quantitativamente as patentes foram classificadas por códigos IPC, áreas de
+conhecimento, ano de publicação , depositante, região e grupos tecnológicos e,
+qualitativamente, foram interpretados do ponto de vista tecnológico frente às
+novidades relatadas.
+16
+3 REVISÃO BIBLIOGRÁFICA
+3.1 FRUTAS
+A Resolução nº 12 de 1978 , do Ministério da Saúde , define fruta como o produto
+procedente da frutificação de uma planta. As frutas surgiram a partir do processo evolutivo
+das plantas, cujas funções são proteger as sementes e/ou ajudar na dispersão delas ( CNNPA,
+1978).
+Essa classe de alimentos pode ser dividida de acordo com a produção de gás carbônico
+no pós -colheita: climatéricas, por exemplo, maçã, abacate, mamão e banana e não
+climatéricas, por exemplo, uva, laranja, abacaxi e morango. As frutas climatéricas apresentam
+aumento da atividade respiratória até um valor máximo . A continuidade da respiração das
+frutas promove alterações físicas, químicas e fisiológicas , garantindo o amadurecimento .
+Enquanto as frutas não climatéricas, após a colheita, exibem uma queda constante na
+atividade respiratória (ESKIN, HOEHN, 2013).
+As frutas climatéricas se modificam após a colheita , de modo que são observadas
+mudanças ao longo do tempo, tais como: aumento de tamanho, mudança de cor, alterações na
+textura e dos compostos químicos (redução do teor de ácidos ao longo da maturação) e
+emissão de compostos voláteis. Essas modificações não são observadas para as não
+climatéricas, por isso, estas devem ser colhidas já maduras e armazenadas sob as condições
+adequadas (CANHOTO, 2021).
+Eskin e Hoehn (2013) relata m que conforme o peso das frutas a umenta, em
+decorrência da maturação, as concentrações de dióxido de carbono e de etileno crescem até
+atingirem um pico na produção, fase da plena maturação. Após o pico, as frutas climatéricas
+entram em estado de declínio , a fase de senescência . Diante disso, para as frutas climatéricas ,
+alterações na concentração d o gás etileno auxiliam no retardamento ou aceleração do estágio
+de maturação.
+3.1.1 Classificação climática das frutas
+De acordo com Barbieri e Vizzotto (2012), as frutas podem ser classificadas de acordo
+com o clima em que são cultivadas.
+i) Frutas de clima temperado:
+ Pomáceas: pera, maçã e outras.
+ Frutas de caroço: pêssego, damasco, cereja, nectarina, ameixa e outras.
+17
+ Pequenas frutas ou bagas: framboesa, amora -preta, morango, mirtilo, uva e
+outras.
+ii) Frutas de clima subtropical:
+ Frutas cítricas: toranja, lima, limão, laranja, mandarinas e outras.
+ Frutas não cítricas: figo, abacate, kiwi, romã e outras.
+iii) Frutas de clima tropical:
+ Mamão papaia, abacaxi, manga, banana, caju, goiaba, sapoti, maracujá e
+outras.
+3.1.2 Classificação botânica das frutas
+Botanicamente, nem toda fruta pode ser considerad a um fruto. Pela classificação
+botânica, as frutas se dividem em:
+ Fruto: desenvolvimento completo do ovário das flores de angiospermas, depois
+da fecundação do óv ulo, com ou sem sementes . A maioria dos frutos confere
+uma camada de proteção das sementes e, devido às características sensoriais
+agradáveis e atrativas para os animais, desempenha a função de dispersão das
+sementes (BARBIERI, VIZZOTTO, 2012).
+ Infrutescência: derivada de diversas flores de uma inflorescência, e, além dos
+ovários, outras partes da flor contribuem para a estrutura. Representantes dessa
+classificação são o abacaxi e a jaca (BARBIERI, VIZZOTTO, 2012).
+ Pseudofruto: órgão semelhante a uma baga, formado pelo crescimento das
+partes acessórias da flor, por exemplo, o pedúnculo do caju (BARBIERI,
+VIZZOTTO, 2012).
+ Fruto agregado : resultado da associação de vários frutos, sendo cada um
+oriundo de um carpelo individual de uma flor, como a framboesa, mor ango e
+amora (CANHOTO, 2021).
+3.1.3 Composição química das frutas
+As frutas possuem em sua composição química: água, proteínas, lipídios, minerais,
+enzimas, ácidos orgânicos, substâncias aromáticas, pigmentos, vitaminas e carboidratos. O
+teor destas substâncias depende de diferentes fatores, tais como: espécie, cultivar, condições
+de plantio, fase de maturação e condições de armazenamento (VICENZI, 2007).
+18
+O principal componente químico das frutas é a água, representando cerca de 80 a 95%
+da composição. O composto majoritário é responsável por características sensoriais
+importantes, com destaque para a suculência e textura. A água p resente na matriz pode ser
+dividida em água livre e água ligada (BAUER et al., 2014).
+Fellows (2019) define a atividade de água (aa) ou press ão de vapor relativa (PVR)
+como a razão da press ão de vapor da água no alimento (P) e a pres são de vapor saturada da
+água (P0) na mesma temperatura, conforme a equação 1.1.
+(1.1)
+A atividade de água relata a disponibilidade da água para a atividade enzim ática, a
+ocorrência de reações químicas e a multiplicação de micro -organismos (FELLOWS, 2019).
+Como a atividade de água das frutas se encontra acima de 0,9, o alimento in natura é muito
+suscetível à deterioração microbiana e possui baixa vi da comercial. Dessa forma, a
+manipulação deste parâmetro é uma ferramenta importante para a extensão da conservação do
+alimento (BAUER et al., 2014).
+Os carboidratos possuem teor variando entre 2 e 20%, a depender da espécie e do
+estado de maturação do fru to. O composto é fundamental para a saúde humana, pois fornece
+energia. O grau de polimerização é o principal critério de classificação d estes componentes
+(TOBARUELA, 2016 ), sendo que as frutas contêm diferentes sacarídeos, destacando -se,
+segundo Vicenzi (2007):
+ Monômeros simples: glicose e frutose.
+ Dímero: sacarose.
+ Polímeros: as substâncias pécticas, formadas pelo monômero de ácido
+galacturônico, celulose e hemicelulose , presentes na parede celular . Os três
+polissacarídeos relatados não são digeridos pelo organismo dos humanos ,
+caracterizando as fibras alimentares (VICENZI, 2007).
+O teor de proteína nas frutas é baixo, entre 1 e 2% da composição nutricional. Além
+disso, os aminoácidos contidos são os não essenciais, aqueles cujo corpo humano consegue
+sintetizar. Por isso, as frutas não são boas fontes proteicas (BAUER et al., 2014).
+As enzimas são proteínas globulares solúveis com atividade biológica específica que
+catalisam reações metabólicas sem efeitos secundári os. Estas são ativa das em condições de
+pH e temperatura adequadas e causam diferentes mudanças nas características organolépticas
+das frutas, as quais podem ser desejáveis ou indesejáveis. Por exemplo, um impacto positivo é
+19
+que, após a colheita , as frutas climatéricas se tornam mais amolecidas . Em contrapartida ,
+exemplo de efeito indesejável é a mudança na coloração com as reações de escurecimento
+enzimático (ORDÓÑEZ et al., 2005).
+De acordo com Vicenzi (2007), a s frutas possuem em sua composição , de forma
+majoritária, os seguintes grupos de enzimas:
+ Pectinases: responsáveis pela clarificação de sucos e pelo amolecimento dos
+tecidos no decorrer da maturação, devido à degradação das substâncias
+pécticas.
+ Amilases: atuam na hidrólise do amido.
+ Proteases: hidrolisam as proteínas.
+ Fenolases: polifenolases e polifenoloxidases, causadoras do escurecimento
+enzimático.
+As frutas apresentam baixo valor de lipídios, variando entre 0,1 e 0,7%, com exceção
+do abacate (8,4%) e do açaí (3,9%) (TACO, 2011) . Ainda, o morango, a uva e o tomate
+possuem uma parcela maior de gordura nas sementes (VICENZI, 2007).
+Os minerais estão contidos em torno de 0,3 a 0,8% , sendo o potássio o composto
+majoritário. Outros micronutrientes desta categoria são cálcio, magnésio, fósforo, sódio,
+cloro, enxofre, zinco, cobre, manganês, c obalto, molibdênio e iodo (VICENZI, 2 007). No
+entanto, devido à alta solubilidade desses componentes, os mesmos são facilmente perdidos
+por lixiviação durante o processamento envolvendo operações de imersão em água
+(ORDÓÑEZ et al., 2005).
+As substâncias aromáticas são formadas por diferentes compostos químicos orgânicos,
+podendo ser ésteres, álcoois, cetonas, aldeídos, terpenos , fenóis e/ou lactonas. Essas são
+responsáveis pelas car acterísticas de sabor e aroma das frutas e variam com o grau de
+maturação (VICENZI, 2007).
+As vitaminas variam de 10 a 2000 mg/100g, com destaque para as vitaminas C,
+hidrossolúvel, A e E, lipossolúveis (VICENZI, 2007 ; BAUER et al ., 2014) . O teor d estes
+micronutrientes é influenciado p elo pH do meio , presença de oxigênio , metais e da luz .
+Contudo, devido ao processamento térmico ser a principal causa da redução da atividade d as
+vitaminas, outras operações unitárias podem ser utilizadas para preservá-las (ORDÓÑEZ et
+al., 2005).
+Os pigmentos são responsáveis pelas diferentes cores da matriz alimentar e
+encontram-se nos vacúolos, cloroplastos e líquido citoplasmático das células. A classe pode
+20
+ser divid ida em pigmentos lipossolúveis, cuj a solubilidade ocorre em moléculas apolares,
+como os lipídios, e hidrossolúveis, que são solubilizados em moléculas polares, comumente a
+água. Os principais pigmentos presentes nas frutas são as clorofilas, responsáveis pela cor
+verde, os carotenoides, atribuem as cores laranja, amarela e vermelha e os flavonoides, que se
+dividem em antocianinas e colorem com as cores vermelha, roxa e azul, e antoxantinas, que
+conferem as cores incolor, amarelo e laranja (VICENZI, 2007).
+Vicenzi (2007) relata como exemplos dos pigmentos majoritários nas frutas:
+ Carotenoides: goiaba, laranja, manga e maracujá.
+ Clorofilas: kiwi e maçã verde.
+ Flavonoides: limão, banana, morango, ameixa e amora.
+Ademais, estão presentes em menor quantidade, com cerca de 0,4% a 1%, os ácidos
+orgânicos, sendo estes, o ácido cítrico (laranja, limão, tomate), málico (maçã, pera), tartárico
+(uva, abacate) e oxálico (carambola). A classe se encontra na forma livre, disponível para as
+reações químicas, e é responsável pela garantia do baixo pH das frutas, que fica em torno de
+3,5 (BAUER et al., 2014). Estas substâncias químicas conferem também os gost os amargo e
+ácido, de acordo com o percentual contido. Conforme a fruta avança na maturação o teor dos
+ácidos diminui, por isso, sensorialmente, percebe -se que as frutas mais maduras tendem a ser
+mais doces (VICENZI, 2007).
+3.1.4 Relação do consumo de frutas e promoção da saúde
+As frutas possuem diversos macronutrientes e micronutrientes, tais como : fibras,
+vitaminas, minerais e compostos bioativos, substâncias químicas não essenciais que conferem
+benefícios para a saúde humana . Estudos científicos e a Organizaçã o Mundial da Saúde
+(OMS) relatam que o consumo de frutas, legumes e verduras (FLV) pode apresentar um
+potencial de prevenção e fator de proteção das doenças crônicas não transmissíveis (alguns
+tipos de câncer, diabetes, doenças cardiovasculares e cerebrovasculares) (OMS, 2020).
+Ainda, de acordo com Souza et al. (2019), o consumo regular, em porções satisfatórias
+de FLV, associado a hábitos de vida saudáveis , pode estar relacionado com menor risco de
+mortalidade em doenças cardiovascula res e neoplasias. Por isso, a OMS preconiza um
+consumo de 400g/dia, sendo equivalente a cinco porções, de 80g cada, de frutas, legumes e/ou
+verduras.
+Os corantes naturais presentes nas frutas, além de conferirem a cor, podem apresentar
+benefícios para a saúde devido às características funcionais, ações antioxidantes e potencial na
+21
+melhora da resposta imune e anti-inflamatória (BERGMANN et al., 2021). A clorofila, por
+exemplo, foi descrita por Ferreira e Sant’Anna (2017) como um agente antitumoral.
+Os carotenoides, como β-caroteno e licopeno, são fontes de pró-vitamina A, isto é, são
+convertidos em vitamina A pelo organismo . Por isso, c onferem e feito protetor para a pele
+contra a radiação ultravioleta , possuem ação antioxidante, protegem as células do estre sse
+oxidativo e previnem as doenças crônicas não transmissíveis (BERGMANN et al., 2021).
+De acordo com Birt e Jeffery (2013), os flavonoides podem prevenir as doenças
+crônicas cardiovasculares, com relatos de melhorias na dilatação do fluxo sanguíneo e na
+pressão arterial. Ainda, estudos confirmaram que as frutas silvestres podem conferir proteção
+contra a diabetes tipo II e doenças cardiovasculares (BIRT, JEFFERY, 2013).
+Os compostos fenólicos estão contidos em diversas frutas, como limão, laranja, uva,
+cereja, ameixa e mamão. Quimicamente, a classe pode ser definida como um conjunto de
+substâncias que possuem um anel aromático com um ou mais grupo s hidroxílicos. Os
+compostos fenólicos possuem ação antioxidante comprovada por estudos científicos e um dos
+benefícios é a atividade anticarcinogênica para diversos tipos de câncer, por exemplo, de
+cólon, esôfago, pulmão, mama e pele (ANGELO, JORGE, 2007).
+Uma alimentação diversa, colorida e equilibrada garante a ingestão dos nutrientes
+necessários para o funciona mento do organismo humano e dos compostos bioativos
+(BERGMANN et al., 2021; ESKIN, HOEHN, 2013). Portanto, diante desse cenário, justificase a relação do consumo de frutas com um estilo de vida mais saudável , possível prevenção
+das doenças crônicas não transmissíveis, promoção da saúde e melhora do bem -estar
+(RAMÍREZ et al., 2015).
+3.1.5 Perdas e desperdícios das frutas
+Segundo Silva et al. (2021) as perdas no setor d e frutas ocorrem em torno de 40%,
+após a colheita até a chegada a o local de venda direto ao consumidor. O alto perce ntual
+ocasiona perdas econômicas e de produtividade, podendo causar um aumento no preço para a
+venda.
+De acordo com a (FAO, 2019), cerca de 14% dos alimentos produzidos n o mundo,
+destinados para o consumo humano, avaliados em US$ 400 bilhões, são perdidos anualmente
+entre a colheita e o mercado varejista . Estima-se ainda que 17% dos alimentos sejam
+desperdiçados entre o varejo e o consumidor , totalizando um total de 31% de perda s e
+desperdícios.
+22
+Alguns estudos sugerem que a perda das frutas e dos vegetais , ao longo da cadeia
+produtiva, é a de maior proporção. Em contrapartida, a população humana global cresce de
+forma acelerada. Por isso, a redução da s perdas e desperdícios de alimentos é um dos fatores
+estratégicos e possui uma meta específica (meta 12. 3) nos objetivos de desenvolvimento
+sustentável preconizados pela ONU (AUGUSTIN et al., 2020).
+Com a meta 12. 3, a ONU recomenda que a té 2030, seja reduzido pela metade o
+desperdício de alimentos per capita mundial, nos níveis de varejo e do consumidor. Preconiza
+também a redução das perdas de alimentos ao longo das cadeias de produção e abastecimento,
+incluindo as perdas pós-colheita (IPEA, 2019).
+No Brasil, a meta 12.3 foi desmembrada em dois subitens . O subitem 12.3.1 planeja
+que até 2030, o desperdício de alimentos per capita nacional seja reduzido, em nível de varejo
+e do consumidor, com a redução das perdas de alimentos ao longo das cadeias de produção e
+abastecimento, incluindo as perdas pós-colheita. O subitem 12.3.2, por sua vez, regula sobre a
+necessidade de estabelecer um marco regulatório para a redução do desperdício de alimentos
+no Brasil. Esse marco a ser criado , além da redução da s perdas e do desperdício, deve estar
+orientado par a amplia r o acesso da população brasileira para uma alimentação adequ ada e
+saudável (IPEA, 2019).
+Portanto, a partir da meta 12.3 , o Brasil pr etende realizar um levantamento
+multifatorial com o s pontos críticos das causas da perda e do desperdício de alimentos , as
+possíveis soluções e os graus de intervenção . A partir disso será possível criar um plano de
+ação para solucionar o problema, incluindo os diferentes atores da sociedade (IPEA, 2019).
+Além do desperdício das matrizes alimentares, que poderia alimentar pessoas em
+situação de insegurança alimentar , perde-se também re cursos importantes , tais como : terra,
+água, energia e horas de trabalho . Diante desse cenário, a liofilização pode ser um método
+promissor no combate à perda e desperdício da cadeia produtiva das frutas , entre o varejo e o
+consumidor, u ma vez que a operaçã o unitária aumenta a vida comercial das frutas
+(DOMINGUES, 2019; TERRONI et al., 2013).
+23
+3.2 LIOFILIZAÇÃO
+3.2.1 Princípios da liofilização
+Fellows (20 19) descreve a liofilização, também chamada de criodesidratação, como
+uma operação unitária de diferentes finalidades, dentre as quais a conservação de alimentos. O
+processo ocorre em duas etapas: congelamento e secagem (sublimação e dessorção). Um dos
+princípios físico-químicos do método é a sublimação (Figura 1), que ocorre quando a pressão
+do vapor de água se encont ra abaixo de 610,5 Pa e a água está congelada. Ao promover o
+aquecimento, o gelo sólido sublima imediatamente para o estado de vapor.
+Figura 1 – Diagrama de fases da água mostrando a sublimação do gelo
+Fonte: Fellows , 2019
+O liofilizador (Figuras 2 e 3) contém uma câmara a vácuo, aquecedor, câmara de
+condensação e bomba de vácuo (MARQUES, COSTA , 2015) . A Figura 4 apresenta os
+principais componentes de um liofilizador, os quais possuem as seguintes funções (TERRONI
+et al., 2013):
+ Câmara de vácuo: o prin cipal objetivo é a redução da pressão para que não haja a
+fusão do gelo e o alimento fica contido nesse compartimento.
+ Aquecedor: fornece o calor latente necessário para a sublimação.
+ Câmara de condensação: é formado por serpentinas de refrigeração e transforma os
+vapores produzidos em água.
+ Bomba de vácuo: remove os vapores não condensáveis.
+24
+Figura 2 – Liofilizador de bancada
+Fonte: Celestino, 2010
+Figura 3 – Liofilizador industrial
+Fonte: Marques, Costa, 2015
+Figura 4 – Principais componentes do liofilizador
+Fonte: Ordóñez et al. (2005) apud Garcia (2009)
+25
+Existem diferentes tipos d e equipamento, diferenciando-se no modo do fornecimento
+de calor para a superfície do alimento. Além disso, esses equipamentos podem operar de
+forma contínua ou em batelada (TERRONI et al., 2013).
+3.2.1.1 Congelamento e secagem
+Durante a liofilização a etapa prévia é o congelamento e ela ocorre em três etapas
+(MARQUES e COSTA, 2015):
+i. Redução da temperatura do alimento até 0°C, com remoção de calor sensível.
+ii. Formação e cresciment o dos cristais de gelo representando a mudança de fase da
+água, por meio da remoção de calor latente . A temperatura varia entre -1ºC a -5ºC
+durante o congelamento.
+iii. Redução da temperatura do alimento com retirada de calor sensível , até atingir a
+temperatura de equilíbrio com o meio refrigerante.
+Dessa forma, pequenas frações do alimento são congeladas de forma rápida , de modo
+a reduzir o tamanho dos cristais do gelo e, consequentemente, inibir as mudanças negativas
+relativas à estrutura celular e promover uma melhor reidratação , se houver (FELLOWS,
+2019).
+A secagem, influenciada pelos fenômenos de transferência de calor e massa, ocorre em
+duas etapas: sublimação, até um teor de 15% de umidade e, subsequentemente, dessorção,
+com a evaporação da água não cong elada até alcançar cerca de 2% de umidade . A taxa de
+secagem (R), quantidade de água a ser evaporada em um intervalo de tempo (t) para uma área
+de troca térmica (A), conforme a equação (1. 2), depende de alguns fatores, sendo estes :
+resistência à transferência de calor e, de menor relevância, resistência à transferência de massa
+através do fluxo de calor (MARTINS et al., 2020; YANNIOTIS, 2008).
+(1.2)
+Durante a primeira etapa da secagem, a água congelada é retirada por sublimação. O
+calor entra em contato com a frente de sublimação através de três vias: a) camada congelada,
+b) camada seca (fase não congelada) e c) por geração interna (por micro -ondas) (FELLOWS,
+2019). Para os três caminhos (a, b e c) (Figura 5), a transferência do vapor de água pela frente
+de sublimação ocorre através da camada seca. O vapor se desloca para uma região de baixa
+pressão através do alimento parcialmente desidratado . O calor necessário , ofertado para o
+26
+sistema por micro -ondas ou por condução, depende da e spessura do alimento e da área de
+exposição (ORDÓÑEZ et al., 2005).
+Figura 5 – Transferência de calor e massa durante a liofilização
+Fonte: Fellows, 2019
+Durante a secagem ocorre a remoção da água através do movimento dos cristais de
+gelo para a fase do vapor de água, caminho a. Uma grama de gelo produz 2m 3 de vapor a
+67Pa, por isso, vários metros cúbicos de vapor são removidos com a pressão da câmara do
+liofilizador abaixo da pressão de vapor na superfície do gelo. Na etapa de remoção utiliza-se a
+bomba de vácuo e, posteriormente, ocorre a condensação através da serpentina de refrigeração
+(FELLOWS, 2019).
+Como o gradiente de temperatura é pequeno, a velocidade de desidratação é eficiente
+apenas se o produto possuir uma espessura pequena. Por isso, a o decorrer da liofilização, a
+espessura diminui e a transferência é facilitada. Porém, a transferência do vapor d e água pela
+camada seca torna -se mais difícil, devido ao aumento dessa camada ao longo do processo.
+Esse é o fator limitante da velocidade de secagem (ORDÓÑEZ et al., 2005).
+Além disso, o aumento da diferença de temperatura provoca o aumento da taxa de
+calor. Contudo, o aquecimento é limitado visto que na liofilização a temperatura da superfície
+está entre 40ºC e 65ºC, de forma a evitar a desnaturação proteica (FELLOWS, 2019).
+Para a transferência através da camada seca, caminho b, a transferência depende da
+área superficial do alimento, do gradiente de temperatura entre a superfície do alimento e da
+camada de gelo e da condutividade térmica da camada seca, formada pela sublimação do gelo.
+A câmara é mantida a pressão constante, logo, a temperatura da frente de gelo permanece
+constante (ORDÓÑEZ et al., 2005).
+Para a geração interna, caminho c, o calor é produzido no interior da matriz alimentar
+congelada, dessa forma a espessura da camada seca não é tão crítica e a velocidade da
+27
+secagem é mais rápida. Porém, a perda de gelo é maior do que a eliminação da água, o gasto
+energético é maior e pode m ocorrer alterações indesejáveis nos alimentos. Comumente, as
+micro-ondas são combinadas com a superfície aquecida, o que reduz o tempo total de
+secagem entre 33% e 50% (ORDÓÑEZ et al., 2005).
+Na segunda etapa da secagem ocorre a dessorção, onde a água ligada (em torno de 5 a
+10% do total da água do alimento) é rem ovida na faixa de 30ºC a 50ºC , garantindo a
+estabilidade da matriz alimentar. Após, o gelo é removido e o alimento parcialmente seco
+continua no liofilizador até que a temperatura se iguale à da placa (20ºC a 60ºC) . E sse
+processo demora entre 2 a 6 horas . Posteriormente, um gás inerte é utilizado, quebrando o
+vácuo, garantindo que não haja uma nova absorção de umidade pelo alimento. O alimento
+liofilizado possui uma estrutura porosa frágil, por isso, é necessária a proteção eficiente contra
+choques mecânicos (MARQUES et al., 2014; TERRONI et al., 2013).
+3.2.2 Frutas liofilizadas
+A resolução nº 12 de 1978 do Ministério da Saúde estabelece que a fruta liofilizada
+seja o produto obtido pela desidratação quase completa da fruta madura, inteira ou em
+pedaços, a partir do processo tecnológico da liofilização (Figura 6) . O produto deve ser
+preparado com frutas maduras, sãs e limpas, isentas de matéria terrosa, de parasitas e detritos
+de animais ou vegetais. Além disso, o produto n ão pode conter substâncias estranhas à
+composição normal, exceto as previstas na legislação. Para o produto embalado em recipiente
+hermeticamente fechado, o espaço livre não pode ultrapassar 10% da altura da embalagem , e
+o ar do espaço livre deve ser substituído por gases inertes (CNNPA, 1978).
+A legislação estipula que a s características organolépticas são as próprias das fruta s.
+Para os parâmetros físicos e químicos, a umidade deve ser de no máximo 5% p/p (CNNPA,
+1978). Legisla-se ainda pelas características microbiológicas . Neste caso, as b actérias
+Escherichia coli devem ter no máximo 2x10 2 UFC/g, bolores e leveduras devem ter no
+máximo 1x104 UFC/g e as bactérias Salmonellas devem ter ausência em 25g (ANVISA,
+2022).
+As frutas liofilizadas são produtos de alta qualidade, sendo utilizadas c omo
+ingredientes de sucos naturais, bebidas, preparações de panificação, fitoterápicos em cápsulas
+e mix práticos ( TERRONI et al., 2013). Algumas frutas liofilizadas reportadas pela literatura
+brasileira são amora, abacaxi, maracujá, manga, morango, maçã, goiaba, tomate, framboesa ,
+entre outras (BHATTA et al., 2020; MORAES et al., 2012).
+28
+Figura 6 – Fluxograma da produção das frutas liofilizadas
+Fonte: elaboração própria, 2023
+No estudo de Quispe et al. (2023) sobre o efeito da liofilização da fruta opuntia ficusindica, observou -se a preservação dos atributos sensoriais, dos compostos bioativos,
+polifenóis, dos minerais e das vitaminas. Para as características organolépticas, o painel de
+análise sensorial classificou a cor e o sabor com o termo "gosto muit íssimo" e a textura como
+“indiferente”. Vieira et al . (2012) verificaram que o índice de reidratação e retenção da
+vitamina C do abacaxi liofilizado foi mais eficiente para fatias de menor espessura.
+As amostras de chips de maçã liofilizada de Zhu et al . ( 2022) apresentaram bons
+resultados na análise sensorial (cor, sabor, odor e aparência global), com exceção da
+crocância. Os atributos sensoriais da coloração e odor, a taxa de reidratação e porosidade
+foram os resultados mais altos do trabalho, que comparou diferentes métodos de secagem.
+3.2.3 Vantagens do método
+Martins et al . (2020) relatam que a redução da atividade de água decorrente do
+processo d e conservação a frio impede o crescimento de micro -organismos patogênicos e
+inativa enzimas causadoras do escurecimento enzimático.
+A água no estado sólido confere uma proteção da estrutura da matriz alimentar
+causando um encolhimento mínimo. As alterações causadas pela técnica são mínimas,
+29
+incluindo uma preservação maior dos macronutrientes e micronutrientes das frut as. Ressaltase, também, que a retenção dos minerais e vitaminas contribui para uma preservação das
+características sensoriais após a criodesidratação (MARQUES et al., 2009).
+As vantagens da liofilização são a preservação das características sensoriais do
+alimento, inativação enzimática, maior retenção da qualidade nutricional e a qualidade do
+produto final seco . E ste possui uma estrutura rígida com encolhimento reduzido, alta
+capacidade de reidratação e qualidade superior , se comparado à secagem convencion al.
+Outras vantagens do método , frente ao método da secagem convencional , são descritas na
+Tabela 1. Estas características agregam valor de mercado ao processo de conservação e ao
+produto final (ANANDHARAMAKRISHNAN, 2017).
+Tabela 1 – Diferenças entre a secagem convencional e a liofilização.
+Secagem convencional Liofilização
+Bem-sucedida para alimentos que
+secam facilmente (grãos e hortaliças)
+Bem-sucedida para a maioria dos
+alimentos, mas limitada àqueles
+difíceis de secar por outros métodos
+Geralmente insatisfatória para carnes Bem-sucedida com carnes cruas e
+cozidas
+Temperaturas entre 37ºC e 93ºC Temperaturas abaixo do ponto de
+congelamento
+Pressões atmosféricas Pressões reduzidas (27 a 133 Pa)
+Evaporação da água na superfície do
+alimento
+Sublimação da água no ponto de
+formação de gelo
+Movimento dos solutos e, em alguns
+casos, formação de crostas
+Movimento mínimo de solutos
+Estresse em alimentos sólidos causa
+danos estruturais e encolhimento
+Mudanças estruturais ou encolhimento
+mínimo
+Reidratação lenta, incompleta Reidratação rápida e completa
+Partículas secas, sólidas ou porosas
+frequentemente com uma densidade
+mais alta do que o alimento original
+Partículas secas, porosas com uma
+densidade mais baixa do que o
+alimento original
+Odor e sabor com alterações sensoriais Odor e sabor comumente sem
+alterações sensoriais
+Frequentemente a cor é mais escura Cor comumente normal
+Valor nutricional reduzido Nutrientes retidos em grande
+proporção
+Custos geralmente baixos Custos geralmente altos, até quatro
+vezes os da secagem convencional
+Fonte: Fellows, 2019
+Ademais, o método permite a ocorrência dos FLV nos momentos da entressafra e em
+outros períodos com imprevistos climáticos que atrapalhem o cultivo e plantio. Cita -se ainda
+30
+como benefício a redução das perdas e diminuição dos custos de transporte e armazenamento,
+pois ocorre a redução de volume e peso, devido à secagem. Além disso, o produto final pode
+ser acondicionado em temperatura ambiente (ANANDHARAMAKRISHNAN, 2017).
+De acordo com A nandharamakrishnan (2017), a criodesidratação, se comparada com
+outras técnicas de secagem, é um processo mais caro devido aos custos de investimento dos
+equipamentos, operação (baixas temperaturas e vácuo) e para garantir os parâmetros
+necessários do processo visto que a velocidade da desidratação é lenta . Ordóñez et al. (2005)
+relatam que a operação é lenta, pois um liofilizador de 15m 3 sublima apenas 50 a 60kg de
+água por hora. Por isso, os produtos liofilizados apresentam valores elevados (SAVO et al.,
+2012).
+3.3 MERCADO
+3.3.1 Mercado das frutas
+Globalmente, o Brasil é o terceiro maior produtor de frutas, com valores de produção
+menores apenas do que a China e a Índia, respectivamente. O consumo interno e a
+agroindústria consomem majoritariamente a safra, por isso o país exporta menos do que 1,9%
+do total colhido (VIDAL, 2022).
+Em 2020, a produção de frutas no Brasil foi de cerca de 41,9 milhões de toneladas,
+ocupando aproximadamente 2,6 milhões de hectares. A produção anual teve valor estimado
+em R$ 49,8 bilhões. As cinco frutas mais produzidas no território nacional, em ordem
+decrescente por peso, foram laran ja (16,7 milhões de t), banana (6,6 milhões de t), melancia
+(2,1 milhões de t), coco (1,6 milhões de t) e abacaxi (1,6 milhões de t) (CNA, 2020).
+Em 2021, o Brasil exportou cerca de 1 ,2 milhão de toneladas, 18% a mais do que o
+ano de 2020, representando U$$ 1,1 bilh ão, um recorde de vendas. As cinco frutas mais
+exportadas, em ordem decrescente por peso , foram: manga (272,6 milhões de kg ), melão
+(257,9 milhões de kg), limão (144,9 milhões de kg), melancia (117,8 milhões de kg) e banana
+(108,7 milhões de kg) (ABRAFRUTAS, 2021).
+No Brasil, são mais de 940 mil estabelecimentos agropecuários , sendo que 81% se
+classificam como agricultura familiar. Em 2021, o mercado das frutas empregou mais de
+193,9 mil trabalhadores formais, aumento de 9% em relação ao ano anter ior, representando
+11,5% dos postos de trabalho da agropecuária. Ao considerar o território nacional, a região
+Sudeste se destaca na produção (51%), seguida pela região Nordeste (24%), Sul (12%) e
+31
+regiões Norte e Centro -Oeste (13%). A gama de frutas export adas compreende 40 espécies
+diferentes, sendo que os principais importadores da fruticultura brasileira são a União
+Europeia (52,6%), Reino Unido (15,7%) e Estados Unidos (12,8%) (FONSECA, 2022).
+3.3.2 Mercado das frutas liofilizadas
+De acordo com o Future Mar ket Insights - FMI (2022), em 2021, o mercado global de
+frutas liofilizadas exibiu um crescimento anual de 5%, totalizando U$$ 7,5 bilhões em
+vendas. A projeção é que até 2032 a área atinja uma receita de U$ $ 15 bilhões, com um
+crescimento estimado, em torno de 7% ao ano.
+A projeção baseia -se que, após a pandemia da COVID -19, houve uma busca por um
+estilo de vida mais saudável pelos consumidores, que estão mais preocupados com a relação
+entre a alimentação e saúde. As frutas liofilizadas possuem os benefíci os nutricionais das
+frutas in natura com uma vida comercial estendida e sem aditivação química, um dos
+principais fatores de diferenciação do produto industrializado (FMI, 2022).
+Atualmente, o maior mercado das frutas liofilizadas é a América do Norte , seg uida
+pela Europa e o Leste Asiático. O estudo aponta ainda que para os mercados da China e da
+Índia, os dois maiores produtores de frutas do mundo, observa-se um aumento na demanda do
+produto alimentício (FMI, 2022).
+Tendo em vista que o Brasil se destaca como produtor mundial de frutas, o país possui
+grande vantagem competitiva para adentrar e ocupar com êxito o mercado das frutas
+liofilizadas, aumentando a produtividade da fruticultura , visto que as perdas das frutas in
+natura correspondem a cerca de 40% (SILVA et al., 2021).
+Para a indústria de alimentos cabe ainda superar desafios colocados, como barreiras
+comerciais, fatores de produção e suprimentos das matérias -primas. Ademais, o mercado em
+crescimento das frutas liofilizadas pode ser aproveitado por duas vias: mercado para
+consumidores (B2C, do inglês business to consumer ), como diversificação no mercado das
+frutas, e mercado direto para outras empresas (B2B, do inglês business to business ), através
+do fornecimento de ingredientes naturais para diferentes setores de alimentação, por exemplo,
+panificação, confeitaria, cereais matinais e ingredientes para lanches (FMI, 2022).
+32
+3.4 SISTEMA PATENTÁRIO
+3.4.1 Patentes
+A invenção e o modelo de utilidade são patenteáveis quando satisfazem,
+simultaneamente, os requisitos de novidade, aplicação industrial e atividade inventiva no caso
+da invenção e ato inventivo no caso do modelo de utilidade . Essas devem ser analisadas por
+corpo técnico da área (INPI, 2021). Mello (1998) define invenção como a solução para um
+problema técnico-científico, tecnológico ou industrial existente. A nova resposta a ser
+atribuída para o desafio pode ser através de processos, equipamentos e produtos. Enquanto
+isso, Franco (2009) afirma que a tecnologia é o conhecimento que é utilizado para real izar
+alguma tarefa.
+A patente é um documento que garante a proteção da invenção e modelo de utilidade
+por um tempo de 20 anos e 15 anos, respectivamente , a partir da data de depósito, contra
+comercialização, importação e outros fins de negócios. A patente vale para todo o território do
+país em que foi solicitada. Caso deseje, o inventor pode solicitar a patente para mais de um
+país (BRASIL, 1996).
+O tratado de cooperação em matéria de patentes (PCT) é administrado p ela
+Organização Mundial da Propriedade Int electual (OMPI) e, atualmente, possui 157 países
+participantes ( WIPO, 2022). N essa modalidade o depositante pode pedir a concessão da
+patente em mais de um país do tratado, simultaneamente, através de um único depósito
+chamado de depósito internacional da patente. O PCT tem por objetivo facilitar o trâmite
+internacional na proteção da invenção (INPI, 2022).
+As patentes podem ser agrupadas em família, que referencia a mesma invenção do
+mesmo depositante em mais de um país. Uma das vantagens do agrupamento é a concessão
+das mesmas prioridades no processo de pedido de patente (INPI, 2021).
+A patente garante uma proteção importante para a invenção , possibilitando que a
+criação industrial se torne r entável para o inventor . Assim, o sistema de patentes tem por
+finalidade a proteção contra imitações e auxilia na propagação das informações tecnológicas,
+facilitando a inovação e estimulando a criatividade (VERSPAGEN, 1999) . Crecca et al .
+(2013) defendem que as patentes são importantes para fomentar o desenvolvimento c ientífico
+e tecnológico , pois disseminam conhecimento através da categorização de informações
+relevantes.
+De acordo com a OMPI, a patente garante a propriedade intelectual, desde que
+comprovado o teor inventivo por análise técnica , para as criações da ment e, sendo es sas as
+33
+invenções, símbolos, trabalhos literários, artísticos e imagens. Rosenthal et al . (2008)
+classifica a propriedade intelectual em:
+i) Propriedade industrial: engloba as invenções, modelos de utilidade , marcas,
+desenhos industriais e indicações geográficas.
+ii) Direito de autor e conexos: abrange os trabalhos literários e artísticos.
+Através do monopólio tempor ário, a proteção da propriedade intelectual estimula a
+inovação tecnológica e cientifica. C om o possível retorno econômico das pesquisas, esforços
+e estudos tecnológicos e científicos , concedido pelo sistema de patentes, os inventores são
+estimulados para o progresso. Além disso, o sistema de patentes permite a criação de um
+banco de dados global com todas as invenções acerca de diferentes tem as industriais e
+técnico-científicos (ROSENTHAL et al., 2008).
+3.4.1.1 Classificação das patentes
+Um dos métodos de classificação das patentes nas bases é o sistema de classificação
+internacional (IPC, do inglês International Patent Classification ), estabelecido em 1971 pelo
+acordo de Estrasburgo e regido p ela OMPI. Todo o pedido de patente d eve ser classificado
+através deste antes de ser publicado (INPI, 2021).
+A classificação IPC , sequência de letras e números, divide as categorias tecnológicas
+em códigos com as seções variando de A até H, abrangendo ainda classes, subclasses, grupos
+e subgrupos em um sistema hierárquico, conforme Figura 7 (INPI, 2021).
+Figura 7 – Exemplo de classificação internacional de patentes
+Fonte: INPI, 2021
+As seções representam grandes áreas tecnológicas, sendo estas:
+ Seção A: necessidades humanas
+34
+ Seção B: operações de processamento e transporte
+ Seção C: química e metalurgia
+ Seção D: têxteis e papel
+ Seção E: construções fixas
+ Seção F: engenharia mecânica, iluminação, aquecimento, armas e explosão
+ Seção G: física
+ Seção H: eletricidade
+A categorização indica as áreas de conhecimento que a invenção e o modelo de
+utilidade pertencem. Tendo em vista que as patentes podem ser multidisciplinares, então um
+único documento pode ter mais de um código IPC (INPI, 2021).
+De acordo com o INPI (2021), a classificação IPC é vantajosa, pois:
+ Auxilia na busca e recuperação dos documentos.
+ Avalia o monitoram ento tecnológico de setores , tendências de mercado,
+concorrência e área de atuação das empresas.
+ Organiza os documentos, facilitando o acesso às informações tecnológicas.
+ Fornece uma base de diferentes áreas tecnológicas.
+Outra classificação possível é a Classificação de Cooperação de Patentes (CPC, do
+inglês Cooperative Patent Classification), criada em 2013 e regida pelo Escritório de Patentes
+Europeu (EPO) e o Escritório American o de Patentes e Marcas (USPTO). A categorização é
+baseada na classificação IPC, seguindo os mesmos critérios de classificação, porém mais
+detalhada em algumas áreas técnicas (VALDMAN et al., 2021).
+3.4.2 Mapeamento e prospecção tecnológica
+Após o pós-guerra, por volta de 1949, o governo norte-americano iniciou a prospecção
+tecnológica, onde foi identificada uma relação linear entre a pesquisa científica e o
+desenvolvimento d e tecnologia. Atualmente, a atividade prospectiva tem por objetivo
+identificar as tecnologias emergentes e relacioná -las com as vantagens econômicas e sociais
+(FRANCO, 2009).
+Kupfer e Tigre (2004) apud Teixeira (2013) definem "a prospecção tecnológica com o
+um meio sistemático de mapear desenvolvimentos científicos e tecnológicos futuros capazes
+de influenciar de forma significativa uma indústria, ec onomia ou a sociedade como um todo".
+Dessa forma, a prospecção tecnoló gica é uma forma de olhar para o futuro da ciência,
+35
+tecnologia, economia e sociedade , visando antecipar e entender as potencialidades, evolução,
+características e efeitos das mudanças (TEIXEIRA, 2013).
+De acordo com Oliveira e Rodrigues (2020), o mapeamento tecnológico é um
+indicador relevante das potencialidades d e um produto ou tecnologia . Sabendo esses
+potenciais é possível promover o crescimento econômico e empresarial, bem como estimular
+invenções por empresas que disputam entre si espaço no mercado (FRANCO, 2009).
+Crecca (2023) e Teixeira (2013) relatam como vantagens da prospecção tecnológica:
+ Orientação das tendências tecnológicas;
+ Análise do avanço tecnológico e científico;
+ Suporte nas decisões de investimento;
+ Redução de incertezas nas tomadas de decisão.
+De acordo com Teixeira (2013) e xistem diversos métodos para a prospecção
+tecnológica. Franco (2009) aponta para três possíveis abordagens:
+i. Extrapolativa: baseada no que vai acontecer, elaborada a partir da projeção de dados
+históricos, por exemplo, séries de tempo, ajustes de curva, re gressões e correlações e
+curvas de crescimento.
+ii. Exploratória: baseada no que pode acontecer, desenvolvida pelo uso de conhecimento
+de especialistas, por exemplo, Delphi, cenários e análises morfológicas.
+iii. Normativa: baseada no que deve acontecer, criada com decisões baseada em valores ,
+por exemplo, cenários normativos, análise de políticas setoriais e árvores de
+relevância.
+Essas três abordagens abarca m uma variedade de técnicas de prospecção, que foram
+classificadas em três grupos por Teixeira (2013):
+i. Monitoramento ( assessment): acompanhamento d a evolução de fatos de forma
+sistemática e contínua, identificando possíveis fatores de mudança do cenário atual.
+ii. Métodos de previsão (forecasting): as projeções são criadas por previsão probabilística
+das informações históricas e modelagem, quantificação e extrapolação de tendências.
+iii. Métodos de visão ( foresight): o método é baseado na antecipação de futuras
+possibilidades através das construções subjetivas e conhecimentos de especialistas.
+Diante desse cenário, uma possível metodologia de prospecção é a análise de patentes que
+incorpora fatores sociais, políticos, tecnológicos e econômicos relevantes. A avaliação ocorre
+através do tratamento de um grande número de dados por análises qualitativas e quantitativas.
+36
+Desse modo, a s estatísticas dos documentos são indicadores relevantes para mensurar a
+inovação em ciência e tecnologia (TEIXEIRA, 2013).
+3.4.3 Patentes e alimentos
+No Brasil, o sistema de patentes para a área de alimentos tem registros desde 1830,
+com a lei s/n, de 28 de agosto de 1830 e, subsequentemente, a lei nº 3129, de outubro de
+1882. Essas conferiam privilégios aos inventores com inovações relacionadas à agricultura,
+apesar de não conferirem significado técnico (ROSENTHAL et al., 2008).
+Após algumas décadas, pelo decreto-lei nº 7903, de 27 de agosto de 1945, o código de
+Propriedade Intelectual criou um artigo para a concessão de patentes para compostos,
+produtos alimentícios e relacionados. Em 1971, com a lei nº 5772, de 21 de dezembro de
+1971, consolidaram -se os documentos da área de alimentos através do artigo 9 pela
+classificação da linha c, porém, considerando a matéria não privilegiável (ROSENTHAL et
+al., 2008).
+“São invenções não privilegiáveis as substâncias, matérias,
+misturas ou produtos alimentícios, quí mico-farmacêuticos e
+medicamentos, de qualquer espécie, bem como os respectivos
+processos de obtenção ou modificação .” (Artigo 9 linha c da lei
+5772 de 21 de dezembro de 1971).
+Atualmente, a lei que vigora nacionalmente é a Lei da Propriedade Industrial, lei nº
+9279, de 14 de maio de 1996 que confere proteção exclusiva para o inventor por patentes por
+invenção, novas tecnologias, ou modelo de utilidade , novas disposições de objetos de uso
+prático. Nesta, o artigo 230 legisla sobre a área de alimentos, o qu al regula que pode ser
+depositado pedido de patente relativo às substâncias, matérias ou produtos obtidos por
+processos químicos e substâncias, misturas ou produtos alimentícios , bem como vias de
+obtenção ou modificação. Assim, fica garantida a proteção no Brasil, a partir d a data do
+primeiro depósito, desde que atenda aos critérios de patenteabilidade, para a exploração do
+objeto (BRASIL, 1996).
+Na área de alimentos, a s patentes , além da proteção concedida, servem como bons
+indicadores de pesquisa e desenv olvimento (P&D). Neste campo, o perfil dos documentos é
+bem diverso devido à especificidade de cada invenção. Estudos recentes apontam que a
+biotecnologia é uma das principais tendências tecnológicas para as invenções da área de
+alimentos (NEVES et al., 2023).
+37
+De forma geral, as invenções estão relacionadas com micro -organismos geneticamente
+modificados, embalagens, formulações, processamento de vegetais e sínteses químicas com
+diferentes aplicações na indústria de alimentos. Por exemplo, processamento de f rutas e
+legumes, fabricação de leite, queijo e produtos lácteos, aditivos alimentares e coadjuvantes de
+tecnologia, suplementos e ingredientes alimentares com alegações funcionais (NEVES et al.,
+2023).
+Ao considerar o Brasil, as inovações são relacionadas a formulações de ingredientes e
+aditivos, alimentos funcionais, transgênicos e embalagens. Ao analisar as patentes de
+alimentos industrializados, Marques et al . (2014) percebe ram que o desenvolvimento
+tecnológico acompanhou, além do aumento da demanda, as exigências e hábitos dos
+demandantes. Tendo em vista que há uma forte tendência em buscar uma melhora na
+qualidade de vida através da alimentação, então a s exigências do mercado impulsionam o
+desenvolvimento de tecnologias relacionadas aos alimentos funci onais (MARQUES et al .,
+2014).
+Diversos trabalhos focaram no mapeamento e prospecção tecnológica em diferentes
+áreas do setor alimentício. Oliveira e Rodrigues (2020) realizaram uma prospecção através de
+pedidos de patentes para o caju em três banco s de dad os. Lagos et al . (2015) estudaram
+patentes publicadas entre 2010 e 2015 na área de compostos bioativos dos alimentos. Marques
+et al. (2014) analisaram as patentes de alimentos industrializados globalmente com base na
+classificação "A" da OMPI através d a ba se Espacenet. Amorim et al . (2015) estudaram
+através das patentes as tecnologias desenvolvidas com compostos bioativos de uva , utilizando
+o banco de dados da base Espacenet.
+Rodrigues et al . (2022) realizaram o mapeamento tecnológico dos documentos
+patentários envolvendo a utilização dos subprodutos do cacau com propriedades funcionais
+entre 2003 e 2019, por me io da base Derwent World Patents Index . Através deste trabalho
+examinaram-se os principais detentores da tecnologia e as possibilidades de inovação d o setor
+cacaueiro. Santos et al. (2016) estudaram o mapeamento tecnológico de pigmentos naturais
+através de documentos patentários presentes no Espacenet.
+Machado et al . (2014) avaliaram o panorama mundial através das patentes de
+processos e produtos rela cionados ao kefir na base Espacenet. Gélinas (2010) realizou o
+mapeamento tecnológico, desde as primeiras patentes publicadas até as publicações recentes,
+dos fermentos de panificação através das bases Espacenet, DEPATISnet e USPTO. Brito et
+al. (2017) analisaram as patentes dos alimentos contendo proteínas do soro do leite entre 1995
+e 2015 nas bases do INPI e Espacenet.
+38
+4 METODOLOGIA
+O presente trabalho foi desenvolvido a partir da busca por pedidos de patentes na base
+internacional Derwent World Patents In dex (DWPI), disponível no Portal de Periódicos da
+CAPES. Nesta base é possível escolher os documentos com um intervalo d e datas de
+publicação e buscar por palavras-chave no tópico (título e resumo) ou apenas no título.
+O DWPI é um dos bancos de dados mais robustos disponíveis atualmente, pois contém
+os pedidos e as concessões de patentes, possuindo como fonte 44 autoridades mundiais
+emissoras de patentes, de 90 países e organizações (RODRIGUES et al., 2022).
+A ferramenta permite , também, a pesquisa por nom e do depositante, código de
+depositante, número da patente, classificação internacional da patente, número de indexação
+do anel químico , código de depositante citado, inventor citado, número de registro ou de
+composto da base , código de classe ou código ma nual no Derwent e número de Derwent
+chemistry resource.
+Tendo em vista que o presente trabalho tem interesse na liofilização como método de
+conservação, escolhe u-se para a pesquisa a classificação A23B-007/024 como principal
+critério de busca. Este subgrupo se refere ao método de conservação de frutas ou legumes por
+meio da secagem por congelamento, que consiste na técnica de liofilização. Além disso, para
+restringir os documentos recuperados ao campo de aplicação em frutas, a palavra-chave fruit*
+foi associada nos campos de busca de título e resumo.
+A avaliação dos documentos recuperados foi dividida em dois momentos .
+Primeiramente foi realizada uma análise quantitativa, a qual levou em consideração todos os
+documentos recuperados com intervalo de tempo entre 01/01/1970 (data mais antiga da base)
+e 31/01/2023. Posteriormente foi realizada a análise qualitativa , considerando os documentos
+publicados entre 2021 e 2023 , a fim de avaliar o panorama mais atual sobre o assunto
+estudado. A partir da leitura do tít ulo e resumo dos documentos, aqueles que não faziam
+referência à liofilização de frutas foram excluídos.
+4.1 ANÁLISE QUANTITATIVA
+Na análise quantitativa os documentos foram classificados e interpretad os de acordo
+com as áreas de conhecimento (filtro fornecido pela base de dados) , códigos IPC,
+depositantes, país de depósito, ano de publicação e grupos tecnológicos. Os países de depósito
+foram obtidos a partir dos códigos de origem presentes nos documentos. Estes códigos foram
+39
+relacionados com os países através da tabela fornecida pela WIPO (2023). Para a análise dos
+grupos tecnológicos , fez -se a leitura do título de todos os documentos recuperados e os
+mesmos foram classificados em três categorias: equipamentos industriais, desenvolvimento de
+novos processos e novos produtos.
+Após a análise quantitativa global, diante do número expressivo de documentos
+brasileiros, realizou-se o estudo quantitativo específico para este grupo. Est e ocorreu através
+da classificação em grupos tecnológicos e regiões do Brasil , por m eio da leitura dos
+documentos e dos campos disponibilizados pela base: áreas de conhecimento, códigos IPC,
+depositantes e ano de publicação.
+4.2 ANÁLISE QUALITATIVA
+A base de dados do Derwent fornece o resumo contendo as seguintes informações
+sobre cada docum ento patentário : definição, aplicação e vantagem da novidade, descrição
+detalhada e reivindicaç ão. Por isso, a análise qualitativa foi realizada através da leitura do
+resumo de cada documento. A partir disso, fez-se a interpretação e o mapeamento tecnológico
+baseado nos grupos tecnológicos com o intuito de avaliar os conhecimentos técnicos
+associados aos documentos recuperados.
+Após a análise qualitativa global, realizou -se também o estudo dos documentos
+brasileiros em todo o período de tempo. A análise foi conduzida a partir d a leitura do
+documento completo.
+40
+5 RESULTADOS E DISCUSSÃO
+5.1 ANÁLISE QUANTITATIVA
+A partir da busca realizada foram recuperados 346 documentos. Após a leitu ra foi
+observado que 17 não tratavam do tema de estudo e foram excluídos da anális e, resultando
+329 documentos.
+5.1.1 Áreas de conhecimento e códigos IPC
+Os 329 documentos encontrados foram divididos em 13 áreas de conhecimento,
+fornecidas pela própria base de dados (T abela 2). Cada documento pode ser classifica do em
+mais de uma área de conhecimento, o que justifica os números reportados na Tabela 2.
+Tabela 2 – Áreas de conhecimento
+Áreas de conhecimento Patentes
+Química 325
+Tecnologia da ciência de alimentos 325
+Engenharia 61
+Instrumentação 58
+Ciência de polímeros 35
+Microbiologia/Biotecnologia aplicada 28
+Farmácia/Farmacologia 16
+Ciência da computação 6
+Agricultura 2
+Eletroquímica 1
+Medicina geral 1
+Ciência de materiais 1
+Engenharia metalúrgica 1
+Fonte: Derwent, 2023
+Dentre as 13 áreas de conhecimento, as áreas da química e da tecnologia de alimentos
+possuem destaque com 3 25 documentos cada, sendo equivalente a 98,7% dos pedidos de
+patente encontrados. As duas áreas se relacionam com a liofilização das frutas, uma vez que é
+uma tecnologia da área de alimentos e o processamento ocorr e através de reações ou
+transformações físico-químicas (ORDÓÑEZ et al., 2005).
+As áreas de instrumentação , ciência da computação e engenharia estão relacionadas
+com inovações em equipamentos e utilidades industriais para produzir com mais eficiência ,
+tal como os modelos de utilidade relatados nos documentos CN218104739-U e
+CN215013438-U com aumento da eficiência da liofilização e com reaproveitamento de calor,
+41
+respectivamente. Além disso, as áreas de farmacologia, medicina geral e
+microbiologia/biotecnologia aplicada retomam as diversas aplicações das frutas liofilizadas ,
+por exemplo, o documento BR102020004834-A2 reivindica um produto da fruta de pitaya
+com viés de benefício terapêutico e o documento BR102018068374-A2 descreve pó de
+quiabo integral por liofilização que, devido ao bom teor de pectina, pode ser utilizado como
+ingrediente em formulações alimentícias.
+Para entender, além das áreas de conhecimento, os documentos podem ser agrupados
+em áreas tecnológicas a partir da classificação in ternacional de patentes (IPC). A Tabela 3
+apresenta os códigos de classificação mais recorrente s dentre os documentos recuperados.
+Uma vez que a classificação A23B -007/024 foi utilizada como critério de busca, é esperado
+que todos os documentos recuperados apresentem tal classificação, mesmo que esta não seja a
+principal classificação que define a matéria do documento patentário.
+Tabela 3 – Principais códigos IPC
+Códigos IPC Nome Código Patentes
+A23B-007/024 Conservação ou amadurecimento químico de frutas ou legumes:
+secagem por congelamento
+329
+A23L-019/00 Produtos à base de frutas ou legumes; preparo ou tratamento 117
+A23B-007/02 Conservação ou amadurecimento químico de frutas ou legumes:
+desidratação; reidratação subsequente (batatas cozidas secas)
+70
+A23L-001/212 Alimentos ou gêneros alimentícios; preparação ou técnica de
+produção: preparação de frutas ou legumes
+44
+A23B-007/04 Conservação ou amadurecimento químico de frutas ou legumes:
+congelamento; degelo subsequente; resfriamento
+31
+A23B-007/154 Conservação ou amadurecimento químico de frutas ou legumes:
+compostos orgânicos; micro-organismos; enzimas
+29
+A23L-003/44 Conservação de alimentos ou produtos alimentícios: secagem por
+congelamento
+25
+A23B-007/157 Conservação ou amadurecimento químico de frutas ou legumes:
+compostos inorgânicos
+22
+A23B-007/00 Conservação ou amadurecimento químico de frutas ou legumes 21
+A23B-007/015 Conservação ou amadurecimento químico de frutas ou legumes:
+conservação por irradiação ou tratamento elétrico sem efeito de
+aquecimento
+18
+A23L-033/00 Modificações nas qualidades nutritivas de alimentos; produtos
+dietéticos; preparo ou tratamento
+17
+A23L-002/39 Bebidas não alcoólicas; composições secas ou concentrados;
+preparações: composições secas
+17
+A23L-005/00 Preparo ou tratamento de alimentos ou produtos alimentícios 16
+A23L-005/20 Preparo ou tratamento de alimentos ou produtos alimentícios:
+remoção de matéria indesejada
+16
+A23B-007/005 Conservação ou amadurecimento químico de frutas ou legumes:
+conservação por aquecimento
+15
+42
+A23B-007/16 Conservação ou amadurecimento químico de frutas ou legumes:
+revestimento com uma camada protetora; composições ou aparelhos
+para esse fim
+15
+A23L-005/41 Preparo ou tratamento de alimentos ou produtos alimentícios:
+conservação ou modificação da cor natural por meio de aditivos
+15
+A23B-007/08 Conservação ou amadurecimento químico de frutas ou legumes:
+conservação com açúcar (doces em massa, geleias ou gelatinas de
+frutas)
+14
+A23L-029/30 Alimentos ou produtos alimentícios contendo aditivos; preparo ou
+tratamento: contendo xaropes de carboidratos; açúcares; álcoois de
+açúcares; hidrolisados de amido
+13
+A23L-001/29 Alimentos ou gêneros alimentícios; preparação ou técnica de
+produção: modificação das qualidades nutritivas dos alimentos;
+produtos dietéticos
+12
+A23G-003/48 Doces; confeitos; marzipan; produtos revestidos ou recheados:
+contendo plantas ou partes destas
+11
+A23B-007/148 Conservação ou amadurecimento químico de frutas ou legumes:
+numa atmosfera controlada, p. ex. vácuo parcial, compreendendo
+apenas CO2, N2, O2 ou H2
+10
+A23L-005/30 Preparo ou tratamento de alimentos ou produtos alimentícios:
+tratamento físico
+10
+A23L-033/10 Modificações nas qualidades nutritivas de alimentos; produtos
+dietéticos; preparo ou tratamento: com aditivos
+10
+A23B-004/037 Métodos gerais para conservação de carnes e linguiças, peixes ou
+produtos à base de peixe: secagem por congelamento
+7
+Fonte: Derwent, 2023
+Dentre as principais classificações reportadas foi observada a relevância de três
+subclasses:
+ A23B: conservação, por exemplo, por meio de enlatamento, de carnes, peixes,
+ovos, frutas, legumes, sementes comestíveis; amadurecimento químico de
+frutas ou legumes; produtos conservados, amadurecidos ou enlatados.
+ A23G: cacau; produtos de cacau, p or exemplo, chocolate; substitutos de cacau
+ou produtos de cacau; confeitos; goma de mascar; sorvetes; preparações.
+ A23L: alimentos, produtos alimentícios ou bebidas não alcoólicas; seu preparo
+ou tratamento, por exemplo, cozimento, modificação das qualidades nutritivas ,
+tratamento físico; conservação de alimentos ou produtos alimentícios.
+De acordo com a Tabela 3, os subgrupos retornados em destaque são da área de
+ciência e tecnologia de alimentos em diferentes ramos: métodos de produção e conservação,
+uso de aditivos químicos e modificações físico-químicas em diferentes matrizes alimentares.
+Estes campos convergem com as áreas de conhecimento registradas na Tabela 2.
+43
+Dessa forma, percebe -se que o código IPC A23 B-007/024 possui interface com
+diferentes áreas de conhecime nto e códigos IPC dentre as múltiplas áreas de alimentos,
+incluindo a associação com outros métodos de conservação , por exemplo, aquecimento,
+irradiação ou tratamento elétrico , revestimento com camada protetora, uso de aditivos
+químicos, armazenamento em a tmosfera controlada e conservação por uso de açúcares .
+Alguns códigos e áreas de conhecimento retornados demonstram também as frutas liofilizadas
+como matérias-primas de novos produtos. Estas podem, ainda, estar associadas, ou não, com
+outros produtos alimentícios de origem animal e vegetal , tais como: legumes, carnes, bebidas
+não alcoólicas, doces, produtos dietéticos e nutracêuticos. Estas conexões demonstram que a
+liofilização possui diferentes aplicações e interfaces dentro d a indústria de alimentos , co m
+destaque para as inovações tecnológicas de processos , produtos e equipamentos em
+desenvolvimento e em potencial na área de frutas.
+5.1.2 País de depósito
+Os dez principais países receptores, ou seja, países nos quais os pedidos de patente
+foram depositados, estão listados na Tabela 4.
+Tabela 4 – Principais países de depósito
+País Patentes
+China 224
+Organização Mundial da Propriedade Intelectual 30
+República da Coreia 20
+Japão 15
+Brasil 9
+Estados Unidos da América 5
+Alemanha 5
+Polônia 5
+Filipinas 4
+México 3
+Fonte: Derwent, 2023
+China, República da Coreia, Japão e Brasil são os principais países receptores de
+pedidos de patentes, com destaque para a China que detém 68% dos documentos depositados.
+A posição de liderança d a China é justificada por , além da economia forte, o maior
+investimento em pesquisa e desenvolvimento do mundo (CHEN, ZHANG, 2019).
+A China ocupa o primeiro lugar n a publicação de todas as patentes do mundo , sendo
+que, de 2000 para 2010 teve um crescimento anual de 31,17% no depósito d as invenções
+44
+(CHEN, ZHANG, 2019). Além disso, o país é o maior produtor de frutas do mundo ( VIDAL,
+2022), por isso, a posição de destaque na área estudada demonstra harmonia com a posição de
+liderança global.
+Além disso, percebe -se que a Ásia t em soberania, uma vez que, China, República da
+Coreia, Japão e Filipinas juntos correspondem a 80% dos documentos patentários publicados.
+Wang e Zheng (2023) apontam que, como o desenvolvimento tecnológico é cumulativo, a
+transferência da inovação é facilitada em localidades próximas.
+Observa-se também que a OMPI aparece na segunda colocação . Esses documentos
+correspondem a uma modalidade de depósito internacional , onde o depositante pode escolher
+em quais países a proteção patentária será solicitada . Essa posição demonstra a facilidade no
+depósito via PCT, uma vez que o direito à propriedade industrial é territorial (INPI, 2021).
+O Brasil, terceiro produtor mundial de frutas (DOMINGUES, 2019), aparece na quinta
+posição, com 3% dos pedidos de patentes . As patentes nacionais foram estudadas,
+quantitativamente, de forma específica no item 5.1.6.
+Estados Unidos, Alemanha, Polônia, Filipinas e México também ocupam papel de
+destaque. Em contrapartida, a Índia, segunda produtora mundial de frutas (VIDAL, 2022), não
+aparece nos 10 principais países receptores, tendo recebido apenas um pedido de depósito de
+patente.
+5.1.3 Depositantes
+Os dez principais depositantes dentre os 356 relatados estão referenciados na Tabela 5.
+O número é maior do que o de documentos analisados, pois uma mesma patente pode ter mais
+de um depositante ou requerente . O documento CN114304251-A, por exemplo, é fruto da
+parceria entre a Universidade Jiangnan e a empresa Ningbo Haitong Food Technology C o
+Ltda.
+45
+Tabela 5 – Principais depositantes
+Nome dos depositantes Patentes
+Universidade Jiangnan 11
+Universidade Federal de Campina Grande 6
+Universidade Dalian Polytechnic 5
+Chen S 4
+Fujian Academic Agricultural Science Fruit Trees Institute 4
+Liu S 4
+Universidade Nanjing Xiaozhuang 4
+Hunan Erkang Pharm Co Ltda 3
+Haitong Food Group Co Ltda 3
+Hu J 3
+Fonte: Derwent, 2023
+Quatro universidades ocupam as primeiras posições, três chinesas (Universidade
+Jiangnan, Universidade Dalian Polytechnic e Universidade Nanjing Xiaozhuang) e uma
+brasileira (Universida de Federal de Campina Grande). Ademais, três depositantes são
+inventores isolados (Chen S, Liu S e Hu J), dois são empresas ( Hunan Erkang Pharm Co Ltda
+e Haitong Food Group Co Ltda ) e um é instituto de pesquisa (Fujian Academic Agricultural
+Science Fruit Trees Institute).
+Todos os principais depositantes são chineses, exceto a Universidade Federal de
+Campina Grande. Os resultados comprovam o interesse da comunidade científica e da
+iniciativa privada chinesas por pesquisa tecnológica (PU et al., 2022) e são condizentes com o
+investimento em pesquisa e desenvolvimento do território (CHEN, ZHANG, 2019) . De
+acordo com Pu et al . (202 2), após a aprovação da lei nacional chinesa de 2015 sobre
+transformação científica tecnológica, observa -se um aumento contínuo na produção de
+pesquisa tecnológica nas universidades, contribuindo com o desenvolvimento econômico e
+social do país.
+Para a Universidade Federal de Campina Grande identificaram-se publicações a partir
+de 2018 até 2022 por dois grupos de pesquisa distintos. Os documentos BR102020016457-A2
+e BR102017023765-A2 são frutos d a parceria com a Universidade Federal Rural de
+Pernambuco e Universidade Fundação Federal do Vale do São Francisco, respectivamente.
+5.1.4 Ano de publicação
+Os ano s de publicação dos pedidos das patentes encontrados foram divididos por
+períodos de 2 anos a partir do ano de 2000, sendo que o período de 1970 até 1999 foi
+agrupado devido ao volume baixo de documentos publicados (Figura 8).
+46
+Observou-se que apenas 8% dos pedidos foram publicados até 2007, sendo que a partir
+de 2008 iniciou -se uma fase crescente na publicação de pedidos de patentes na área de
+liofilização de frutas. De acordo com Oliveira et al. (2012) a liofilização na área de alimentos
+como um todo era limitada, e poderia ser mais aplicada pela indústria para desenvolvimento
+de novos produtos de valor agregado. O resultado crescente nos últimos 10 anos demonstra
+um cenário diferente, evidenciando a atualidade do tema.
+A partir de 2018 o número de documentos patentários publicados na área de estudo
+atingiu um patamar. Esse comportamento pode indicar o amadurecimento da tecnologia. Ao
+mesmo tempo, observa -se que a partir do ano de 2022 ocorre um decréscimo, o qual está
+relacionado com o tempo de sigilo. O depositante, depois da data de depósit o, recebe um
+período de 18 meses no qual o documento fica em sigilo, sem nenhuma divulgação, exceto o
+depositante faça solicitação da publicação antecipada
+Figura 8 – Evolução dos pedidos de patentes sobre liofilização de frutas ao longo
+do tempo
+Fonte: Elaboração própria, 2023
+5.1.5 Grupos tecnológicos
+Os 329 resultados foram divididos em três vertentes, a partir da análise do título , sendo
+classificados em desenvolvimento de novos processos, desenvolvimento de novos produtos e
+equipamentos industriais (F igura 9). Essa divisão foi realizada para melhor interpretação das
+tecnologias reivindicadas nos documentos patentários.
+13
+5 5
+1 4
+28
+8
+14
+28
+50
+69 70
+34
+1970-19992000-20012002-20032004-20052006-20072008-20092010-20112012-20132014-20152016-20172018-20192020-20212022-2023
+Histórico das patentes
+47
+Figura 9 - gráfico dos grupos tecnológicos
+Fonte: Elaboração própria, 2023
+Foi possível observar que 48% dos documentos recupe rados referem -se ao
+desenvolvimento de novos processos, nos quais a liofilização aparece como uma das etapas de
+processamento. Em seguida, o desenvolvimento de novos produtos representa 36% dos
+documentos patentários. Nesta categoria observa -se a aplicação das frutas liofilizadas como
+ingredientes de produtos alimentícios. Por fim, 16% dos documentos tratam de novos
+equipamentos ou melhorias em equipamentos já conhecidos no estado da técnica para
+aplicação no processo de liofilização.
+5.1.6 Patentes brasileiras
+A partir da busca realizada, nove documentos brasileiros foram encontrados.
+Conforme a Figura 10, observa -se que esses documentos estão distribuídos nas áreas de
+conhecimentos química e tecnologia da ciência de alimentos, seguindo a tendê ncia geral
+apontada na Tabela 2. Ao mesmo tempo, avaliando as classificações desses documentos,
+destacam-se as categorias A23C, A23L e A61P, relacionad as com produtos lácteos,
+tratamento, preparo ou conservação de produto à base de frutas e preparações méd icas e
+farmacêuticas, respectivamente.
+158
+119
+52
+Grupos tecnológicos
+Desenvolvimento de
+novos processos
+Desenvolvimento de
+novos produtos
+Equipamentos
+industriais
+48
+Figura 10 – Gráfico das áreas de conhecimento dos documentos patentários
+brasileiros
+Fonte: Elaboração própria, 2023
+Todos os documentos patentários brasileiros analisados tiveram ano de publicação a
+partir de 2018, destacando-se os anos de 2018 e 2021 com 2 e 3 publicações, respectivamente.
+Os demais anos tiveram uma publicação anual. Dessa forma, percebe -se a atualidade do tema
+e o recente interesse de pesquisadores brasileiros por frutas liofilizadas. Do pon to de vista
+tecnológico, todos os nove resultados foram classificados em desenvolvimento de novos
+produtos.
+Percebe-se que o número de depositantes é maior do que o número de patentes
+analisadas (Tabela 6), pois três resultados obtidos são parcerias, sendo estas:
+ Universidade Federal de Campina Grande e Universidade Federal Rural de
+Pernambuco.
+ Universidade Federal de Campina Grande e Universidade Fundação Federal do
+Vale do São Francisco.
+ Universidade Estadual do Ceará com a empresa Greenbean Biotecnologi a
+Ltda.
+Os documentos patentários brasileiros são das regiões Nordeste (8) e Centro -oeste (1),
+apontando um interesse concentrado nessas regiões. Desse modo, considerando a
+predominância do estudo na região Nordeste e que apenas uma universidade, Universid ade
+9
+9
+3
+3
+2
+1 1
+Áreas de conhecimento
+Química
+Tecnologia da ciência de
+alimentos
+Farmácia/Farmacologia
+Microbiologia/Biotecnologia
+aplicada
+Ciência de polímeros
+Engenharia
+Instrumentação
+49
+Federal de Campina Grande, é responsável por 6 dos 9 documentos, observa -se que a
+pesquisa nacional na área é bastante concentrada.
+Todos os documentos depositados no Brasil foram registrados por universidades
+públicas, sendo cinco federais e uma estad ual. De acordo com Durham (1998), as
+universidades públicas formam o principal polo de pesquisa no país, incluindo o ensino dos
+pesquisadores. O resultado do presente trabalho comprova a importância das universidades na
+pesquisa e, consequentemente, na formação da estratégia tecnológica do país.
+Além disso, d evido ao grande consumo de energia do processo e elevados custos de
+operação e manutenção, a criodesidratação possui custos bem maiores, se comparada a outras
+técnicas de secagem. Este alto custo pode ser um fator limitante na área de frutas liofilizadas,
+afetando o interesse de empresas brasileiras (SAVO et al., 2012; FELLOWS, 2019).
+Tabela 6 – Depositantes brasileiros
+Nome dos depositantes Região Patentes
+Universidade Federal Campina Grande Nordeste 6
+Universidade Estadual do Ceará Fundação Nordeste 1
+Universidade Federal da Paraíba Nordeste 1
+Universidade Federal da Grande Dourados Centro-Oeste 1
+Universidade Fundação Federal do Vale do São Francisco Nordeste 1
+Universidade Federal Rural Pernambuco Nordeste 1
+Greenbean Biotecnologia Ltda Nordeste 1
+Fonte: Derwent, 2023
+Portanto, perc ebe-se que o Brasil possui destaque e relevância na área da
+criodesidratação como método de conservação para a matriz alimentar estudada . Ao
+considerar a concentração das patentes no Nordeste relaciona-se com a importância da região
+para a produção nacional das frutas. Souza et al. (2020) descrevem os fatores principais para a
+produtividade alta da fruticultura do Nordeste, sendo estes o clima, solo favorável, mão -deobra disponível e localização favorável para exportação.
+Moraes et al . (2012) relata m que o polo Petrolina -Juazeiro, localizado na região de
+São Francisco, possui condições naturais para o cultivo de frutas de qualidade , tornando o
+polo muito competitivo mundialmente. Relacionando com os resultados obtidos, há um
+campo de estudo com grande potencial para a pesquisa tecnológica.
+50
+5.2 ANÁLISE QUALITATIVA
+Para a análise qualitativa, após as restrições definidas (ano de publicação entre 2021 e
+2023), 70 documentos patentários foram recuperados para a leitura. Dentre esses documentos ,
+os países de depós ito são: China (51), Brasil (5), W IPO (3), Japão (3), Polônia (3), Filipinas
+(2), EUA (1), Alemanha (1) e Índia (1). Do ponto de vista de grupo tecnológico, 22
+documentos são sobre equipamentos industriais, 25 acerca d o desenvolvimento de novos
+processos e 23 relatam novos produtos.
+5.2.1 Equipamentos industriais
+Os 22 documentos selecionados nesta categoria foram classificados de acordo com o
+principal objetivo do equipamento : aumento de eficiência, melhorias no liofilizador, criação
+de novos produtos e outras finalidades (Figura 11).
+Figura 11 - gráfico com a classificação dos equipamentos industriais
+Fonte: Elaboração própria, 2023
+5.2.1.1 Enfoque no aumento da eficiência
+De forma geral, observa-se que os principais equipamentos desenvolvidos possuem
+como grande objetivo o aumento d a eficiência (Figura 11) , através de equipamentos com
+manuseio e limpeza facilitados, maior rapidez no congelamento, melhorias na secagem,
+circulação de ar, adição de vácuo, inserção de polias e placas e reaproveitamento do calor e
+vapor de água.
+10
+3
+4
+5
+Equipamentos industriais
+Aumento da eficiência
+Melhorias no
+liofilizador
+Criação de novos
+produtos
+Outras funcionalidades
+51
+O documento CN114451448-A descreve um equipamento de secagem com a
+superfície da placa em forma de ondas , o documento CN212471611-U relata um cortador de
+frutas e legumes para liofilizador e o documento CN115363087-A refere-se a um liofilizador
+contínuo para frutas e legumes. Com o objetivo de economiza r recursos, no documento
+CN217067869-U é descrito um sistema composto por filtragem com várias fases, extrusora,
+desidratador e liofilizador para a produção de formulação em pó. O modelo descrito reduz o
+tempo de processamento e, consequentemente, o custo. Com a finalidade de ganho energético,
+os documentos CN215013438-U e CN112556322-A reivindicam equipamentos para
+reaproveitamento d o vapor de água produzido durante a sublimação . O documento
+CN214126800-U relata maior eficiência no consumo de água e o documento CN218164241-
+U reivindica melhora na circulação de ar, promovendo o acréscimo da eficácia da liofilização.
+O documento CN218104739-U descreve um modelo de utilidade em que o material aumenta
+o contato da fruta a ser liofilizada com o vapor térmico, tornando a secagem uniforme. Por
+fim, o documento CN213848538-U revela um dispositivo de desidratação a vácuo em baixas
+temperaturas, sendo a principal reivindicação a melhora no vácuo produzido, reduzindo o teor
+de óleo do produto.
+Portanto, os equipamentos desenvolvidos são inovações das áreas de engenharia
+através de princípios de operações unitárias e transferências de calor e massa. O aumento da
+eficiência é decorrente do reaproveitamento de calor, menor consumo de água e de melhorias
+da circulação de ar, refrigeração e do vácuo. Ainda, alguns inventores relatavam que os
+aparelhos são fáceis de operar e não poluentes.
+5.2.1.2 Melhorias no liofilizador
+O documento CN115119876-A relata um equipamento com corpo cilíndrico, rotor e
+conjunto de placas múltiplas , no qual a baixa temperatura do equipamento acelera a
+sublimação da água . O documento CN112120075-A reivindica um liofilizador com
+congelador a vácuo e o documento CN112244079-A descreve um equipamento para goji
+berry, no qual a adição de polias promove o aumento da mobilidade no recolhimento das
+frutas.
+De acordo com os depositantes, as vantagens relatadas reduzem a perda de nutrientes ,
+aumentam a velocidade da etapa de conservação , facilitam a limpeza e possuem maior
+conexão entre as etapas devido ao melhor posicionamento das frutas a serem liofilizadas nas
+bandejas.
+52
+5.2.1.3 Equipamentos para criação de novos produtos
+Alguns documentos encontrados desenvolveram equipamentos que possibilitam a
+produção de novos produtos. No documento CN114468035-A é relatado um aparelho no qual
+se produz um alimento em camadas de carnes, frutas e vegetais liofilizados. No documento
+PL435236-A1 é descrito um mecanismo para produção de frutas crocantes e chips. O
+documento CN212697490-U descreve uma inovação para processamento de amora
+liofilizada. Por fim, o documento CN218126722-U refere-se a um modelo de utilidade para
+aplicação em formulação em pó.
+5.2.1.4 Equipamentos com outras funcionalidades
+Dois resultados recuperados possuem associação com outras operações unitárias . O
+documento CN114223712-A reivindica um liofilizador com um equipamento de limpeza, o
+qual desumidifica o ar no aparelho e limpa os resíduos das frutas e legumes resultantes da
+liofilização. O documento CN213604235-U relata um liofilizador combinado com
+concentrador por membrana, possuindo como vantagem a redução do custo de processo.
+O documento CN214178910-U descreve um modelo de utilidade para dissolução de
+grãos, o documento CN213404708-U refere-se a um m odelo de utilidade conveniente para
+pegar e posicionar a fruta e o documento CN114052067-A revela um dispositivo de
+pulverização de frutas liofilizadas e xarope de vegetais.
+5.2.2 Desenvolvimento de novos processos
+Os 25 documentos encontrados foram agrupados de acordo com a finalidade do novo
+processo, sendo elas: aumento das vantagens da liofilização, criação de novos produtos,
+aumento da eficiência e outros processos (Figura 12).
+Muitos documentos patentários relatavam procedimentos para aumentar a preservação
+dos nutrientes, dos compostos bioativos e das características sensoriais, tais como cor, sabor e
+textura. Identificaram-se também procedimentos para alterar a textura do produto, formação
+de grânulos, pó e aumento da crocância. Ainda, aponta -se para procedimento s cujo objetivo
+principal é o aumento da eficiência e economia de energia, diminuindo os custos da produção
+do alimento liofilizado.
+53
+Figura 12 – gráfico com a classificação dos novos processos
+Fonte: Elaboração própria, 2023
+5.2.2.1 Aumento das vantagens da liofilização
+Para os documentos patentários estudados nesse subitem, os resultados obtidos foram
+sobre a preservação d a cor e nutrientes, assim como a garantia d o sabor e textura
+sensorialmente agradáveis.
+O documento IN202141020276-A descreve uma f órmula para reter os nutrientes e
+sabor das frutas até obtenção da formulação em pó. Esta é formada por um anticongelante
+artificial, propilenoglicol e solução aquosa, agente cristalizante, mistura de mel in natura
+filtrado e tratado por ultrassom, agente en capsulante, maltodextrina, dextrina, amido
+hidrolisado, metabissulfito de sódio, sal de amônio e mistura de frutas e vegetais.
+Visando o aumento da biodisponibilidade dos nutrientes, no documento
+CN114271455-A é relatado um método de trituração, antes da liofilização, para a s frutas em
+que ocorre a quebra da parede celular, sendo o material difundido no meio . Isto libera os
+nutrientes e substâncias ativas e, consequentemente, facilita a ingestão humana.
+O documento CN215124114-U reivindica um m odelo de uti lidade com pectina e o
+documento CN113598333-A descreve a nano incorporação das substâncias . Ambas as
+invenções possuem como objetivo melhorar o sabor da s frutas após a criodesidratação. O
+documento CN114847453-A relata maior preservação da concentração dos compostos
+9
+9
+3
+4
+Desenvolvimento de novos processos
+Aumento da vantagem
+da liofilização
+Criação de novos
+produtos
+Aumento da eficiência
+Outros processos
+54
+fenólicos e proantocianidinas d o pêssego através das etapas de congelamento ultrassônico e
+secagem com congelamento a vácuo.
+Para evitar a perda de cor , no documento CN114788537-A é revelado como novidade
+a mistura da fruta a ser liofilizada com sorbitol, éster de luteína, isomaltulose e água , em uma
+quantidade específica relatada. Com esse mesmo propósito, o documento CN114304251-A
+descreve que antes da liofilização, os blocos de frutas são processados em dióxido de carbono
+em alta pressão por radiofrequência.
+No documento CN113632826-A é descrita uma combinação de congelamento e
+descongelamento em um ciclo de 2 a 6 vezes, antes da operação unitária de conservação ,
+seguida por drenagem e criodesidratação. Com isso, de acordo com o documento, é possível
+produzir a textura desejad a, permitindo o ajuste d as concentrações e proporções d os
+polissacarídeos, amido, proteínas e pectina.
+Ademais, o documento CN113142519-A revela um método para produção de pitaya
+por liofilização a vácuo, controlando a emb alagem e selagem. A espessura do corte, o tempo
+de pré -congelamento, pressão do ar de secagem, tempo de secagem e grau de vácuo são
+devidamente ajustados nos respectivos aparelhos formulando um produto de melhor
+crocância.
+5.2.2.2 Processos para criação de novos produtos
+Oito pedidos de patente retornados durante a pesquisa reivindicavam novos processos
+para a formulação de produtos. O documento CN115553332-A descreve a fabricação de um
+produto seco de fina granularidade por liofilização e ultra -micro-esmagamento. De acordo
+com o depositante o alimento produzido facilita a absorção pelo corpo humano com a
+preservação do sabor da fruta in natura.
+O documento PL436147-A1 revela a produção de grânulos de frutas liofilizadas . As
+etapas englobavam pré -seleção da fruta, desgaseificação, remoção de , pelo menos , 20% do
+teor da água, liofilização a -35ºC com pulverização de nitrogênio líquido, onde ocorre o
+esmagamento da camada da fruta até atingir granulometria de 0,1 a 0,3mm.
+Outros procedimentos são descritos nos documen tos patentários, sendo estes: método
+de preparação de grânulos (JP2021126115-A e PL435659-A1), fluxograma da secagem a frio
+(US2022330563-A1), aplicação da criodesidratação em diferentes frutas: amora
+(CN114982923-A), fruta-milagrosa (CN115211541-A), moran go (CN115553442-A) e
+ameixa (CN114698684-A).
+55
+5.2.2.3 Processos de maior eficiência
+Os documentos CN112385805-A e CN112617144-A relatavam uma t écnica que
+envolve as etapas de trituração das frutas em baixas temperaturas, filtração e liofilização até
+obtenção do produto final. O processo é desenvolvido para dois produtos distintos: frutas em
+geral e fontes de celulose. Nesses processos ocorrem a redução da energia devido à redução
+de até 50% do tempo de secagem.
+Por fim, o documento CN213604236-U reivindica um método de liofilização com a
+separação por membranas, produzindo uma formulação em pó. Além disso, ocorre a redução
+dos custos de processamento das frutas e do tamanho da área de produção.
+5.2.2.4 Outros processos
+O documento CN112425644-A relata melhorias no método de secagem, no
+documento JP2021132562-A é revelado um método com viés de melhorar o grau de
+solubilidade das frutas para aplicação em alimentos líq uidos e no documento CN114304251-
+A é descrita a pulverização da fruta com óleo essencial de flor de laranjeira antes da etapa de
+liofilização. A pulverização formava uma camada protetora que auxiliava na preservação de
+compostos polifenólicos.
+O documento CN112450394-A relata a aplicação de c ampo eletromagnético de alta
+frequência, antes da liofilização. Os objetivos com o processo são a inativação enzimática, a
+fixação d os pigmentos da fruta e o melhor pré -processamento d a fruta. O documento
+descreve, também, que o processo resultava na formação de partículas finas, lisas e uniformes,
+garantindo a dispersividade, solubilidade e boa fixação dos pigmentos.
+5.2.3 Desenvolvimento de novos produtos
+Os 23 documentos patentários categorizados como desenvolvimento de novos produtos
+foram agrupados em três tópicos em função do resultado técnico: alterações na textura, frutas
+liofilizadas e novas composições (Figura 13).
+Neste grupo, percebeu -se que a formulação em pó possui grande destaque, com
+diversas aplicações como ingrediente industrial. Este estado físico, em função da baixa
+atividade de água resultante, preserva os compost os bioativos e facilita o armazenamento e
+transporte.
+56
+Figura 13 - gráfico com a classificação dos novos produtos
+Fonte: Elaboração própria, 2023
+5.2.3.1 Produtos com textura alterada decorrente do processamento
+Um dos destaques é a mudança da textura através do processamento da liofilização
+para elaboração de snacks, farinhas, pastas, polpas e pó. A formulação em pó é a mais
+recorrente, na qual foi utilizada como insumo da indústria de alimentos e como produto final
+para o consumidor.
+No documento BR102018068374-A2 é descrita a produção de quiabo em pó. O
+inventor reivindica como aplicação a substituição da pectina comercial e utilização no
+tratamento de problemas de pele, queimaduras, alergias, hidratação cosmética e crescimento
+capilar. No documento CN113180215-A é revelada uma formulação com uma mistura natural
+de frutas em pó, incluindo amora, mirtilo e waxberry. O depositante reivindica que o produto
+tem alto teor nutritivo, propriedades funcionais, boa reidratação e cor atraente. O documento
+CN114468248-A refere-se à obtenção de Mespilus germanica em pó , sendo a principal
+aplicação como alimento funcional devido às propriedades antioxidante, antienvelhecimento e
+antitumoral. No documento BR102021011552-A2 descreve-se a produção de araçá-boi
+(eugenia stipitata) em pó, com adição de maltodextrina, para aplicação em bebidas, tais como
+iogurte e bebidas lácteas.
+A formulação em pó possui como principal aplicação à utilização das frutas como
+ingrediente industrial, cabendo ainda, para muitas formulações, a aleg ação de alimento
+12
+8
+3
+Desenvolvimento de novos produtos
+Alterações na textura
+Frutas liofilizadas
+Novas composições
+57
+funcional. Além disso , a liofilização conserva o alimento, facilita o armazenamento e
+transporte, possui boa capacidade de reidratação e preserva de forma satisfatória o teor de
+nutrientes e compostos bioativos (TERRONI et al., 2013; FELLOWS, 2019).
+Dois documentos relatavam novidades combinadas com outros alimentos. No
+documento BR102020016457-A2 é descrito um iogurte com pó de jabuticaba liofilizad a,
+onde a produção engloba a obtenção da jabuticaba em pó , a partir da casca e polpa,
+fermentação e produção do iogurte, quebra de coágulos, mistura do extrato com o iogurte e
+embalagem. No documento BR102020004834-A2 é reivindicado um sachê com pó de pitaya
+com viés terapêutico para doenças do sistema nervoso.
+Dentre os novos produtos reivindi cados estão os s nacks. O documento
+WO2022161811-A1 revela um alimento liofilizado para bebês feito com frutas, legumes ,
+clara de ovo, suco de limão (acidificante) e amido de batata, milho ou tapioca (espessante).
+No documento CN113558201-A são descritos snacks de abacaxi e goji berry obtidos por
+liofilização, garantindo a retenção dos nutrientes e compostos bioativos da fruta, mantendo a
+cor, aparência e sabor . O documento CN112544921-A, por sua vez, reivindica chips
+orgânicos de kiwi arguta.
+Revela-se em dois documentos uma pasta. O documento JP2021122267-A relata uma
+pasta de caroço de frutas e o documento CN113475692-A descreve uma pasta de abóbora. A
+produção abrange o pré -tratamento com ultrassom, liofilização e secagem por infravermelho .
+O método dimin ui o tempo e melhora a taxa de secagem , produzindo uma pasta de boa
+aparência e com um conteúdo maior de compostos fenólicos e carotenoides, se comparado à
+operação de secagem com ar quente.
+Por fim, durante a análise identific a-se a formulação de polpa de frutas do cerrado no
+documento BR102019023140-A2 e a produção de farinha de subprodutos de fruta tropical
+descrita no documento BR102019023035-A2.
+5.2.3.2 Frutas Liofilizadas
+Oito documentos patentários reivindicavam como principal inovação frutas específicas
+liofilizadas. O fluxograma, de forma geral, engloba etapas de pré -processamento, sendo
+seleção, lavagem, higienização, desinfecção, corte, remoção do caroço, branqueamento e
+adição em solução salina . Após, ocorre o pré-congelamento, congelamento e, por fim, a
+liofilização. Dentre as frutas liofilizadas relatadas estão ameixa ( CN112544691-A e
+CN112971068-A), pitaya ( PH2202050780-U), amora ( CN115176840-A), jabuticaba
+58
+(WO2022150890-A1), figo ( CN113080246-A), tangerina ( CN112869072-A) e uma mistura
+de lichia e durian (CN113207950-A).
+Os inventores relatavam como vantagens do processo o maior tempo de
+armazenamento, a facilidade no transporte , a retenção dos nutrientes , incluindo vitaminas e
+compostos bioativos. Por exemplo, no documento CN115176840-A é relatado que a
+liofilização da amora preservou mais de 92% do teor das antocianinas . Outros documentos
+informavam também que os produtos finais possuem boas características sensoriais, sendo as
+principais aparência, odor, sabor e crocância.
+5.2.3.3 Composições
+O documento DE102020124073-A1 descreve uma mistura probiótica de frutas ,
+seguindo as etapas de mistura com polpa das frutas, congelamento, esmagamento e
+liofilização das partículas. O documento também relata a facilidade de armazenamento, a
+extensão da vida comercial e que não há alterações do sabor e odor devido à adição das
+bactérias. O documento PH2202050784-U revela uma mistura com pitaya liofilizada
+contendo 2100g da fruta para 210g da maltodextrina . O documento WO2022168086-A1 traz
+uma composição nutracêutica liofilizada, formada pela mistura de purê de frutas e legumes
+(10% p/p), óleo comestível (5% p/p) e composto exógeno (0,05% p/p), possuindo como
+principal objetivo derreter na boca.
+A tecnologia empregada na matriz alimentar, além da eficiência na conservação,
+possui grandes pote nciais de inovação, diversificação de mercado e aument o d a oferta das
+frutas liofilizadas. Considerando ainda que muitos equipamentos industriais e processos
+possuíram como vantagens o aumento da eficiência e redução de custos, então há indícios de
+que, em um futuro próximo, a criodesidratação se torne uma operação mais barata e
+produtiva, popularizando mais a técnica.
+5.2.4 Patentes brasileiras
+Os documentos patentários brasileiros retornados tiveram como foco o
+desenvolvimento de novos produtos através da liofilização. Alguns documentos recuperados
+relataram a adição da maltodextrina em diferentes concentrações, a qual tem característica
+encapsulante e possui como objetivo estender a vida comercial do produto, bem como
+protegê-lo de oxidação (MORAGA et al., 2012).
+59
+O documento BR102018068374-A2 reivindica a produção de pó de quiabo integral, o
+qual é obtido após 72h de liofilização, seguida por trituração. O produto final pode ser
+utilizado como ingredi ente de alto teor nutritivo para outros alimentos, aumentando a
+disponibilidade do fruto do quiabeiro.
+O documento BR102017023765-A2 descreve um produto em pó formulado por polpa
+de mangaba adicionada de maltodextrina (0 a 30%) . A mistura é liofilizada em -50°C ± 3°C,
+sob vácuo, por até 96 horas. Com a adição de água, o produto pode ser consumido como suco
+integral ou ingrediente. A mangaba, nativa do Brasil, é uma fruta tropical de altíssima
+qualidade do ponto de vista nutricional. Possui grande potencial econômico (MOURA et al.,
+2011), porém, devido à sazonalidade, é cultivada durante 3 a 4 meses ao longo do ano. Diante
+disso, a liofilização pode ser uma alternativa viável para o aumento da comercialização.
+O documento BR102016027711-A2 relat a um produto em pó criado com polpa de
+umbu com a adição de maltodextrina (0 a 30%) . A mistura é liofilizada em -50°C ± 3°C, sob
+vácuo, por 72 horas. O umbu , fruta tropical nativa do Brasil , possui grande potencial
+econômico para o nordeste (GALVÃO et al., 2011). Sua polpa possui bom teor nutricional,
+baixo valor calórico (cerca de 34 calorias/100 g de polpa) (TACO, 2011) e compostos
+antioxidantes.
+O documento BR102017023765-A2 descreve um produto em pó da manga da cultivar
+ataulfo obtido por liofilização. A criodesidrata ção ocorre entre -45ºC a -55ºC entre 8 a 24
+horas. O alimento em pó pode ser consumido em suco s, com a dissolução em água e como
+ingrediente para outros produtos alimentícios.
+O documento BR102021011552-A2 refere-se ao pó de a raçá-boi (eugenia stipitata )
+obtido por liofilização em -40ºC durante 48h, seguida por trituração , com adição da
+maltodextrina (14, 21 e 28%), que foi misturada à fruta antes da operação. A acidez do araçáboi o caracteriza como bom insumo na preparação de doces, geleias e sucos. No entanto, é
+fundamental a aplicação de tecnologias de conservação, pois o fruto é altamente perecível,
+devido às altas taxas respiratórias e perda de água durante o armazenamento (VIANA et al.,
+2012).
+O documento BR102019023140-A2 descreve a produção de polpa liofilizada de frutos
+nativos do cerrado : pequi, marolo, mangaba, araçá, guavira e baru . A liofilização consegue
+preservar as propriedades funcionais e nutracêuticas dos frutos, sendo que a conservação
+destas foi comprovada através d e análises físico-químicas. O produto é obtido com as etapas
+de primeira lavagem, seleção, sanitização, segunda lavagem, despolpamento, congelamento,
+liofilização em -40ºC por 48h, maceração, peneiramento e armazenamento.
+60
+O documento BR102020016457-A2 reivindica a produção de iogurte suplementado
+com pó de jabuticaba liofilizada com a adição de maltodextrina (25%). As etapas de produção
+consistem no c ongelamento da jabuticaba integral, casca e polpa, em -18ºC por 48horas ,
+liofilização em 72horas e obtenção do pó , fermentação e el aboração do iogurte com leite e
+formulação do produto.
+O documento BR102019023035-A2 revela o processamento de farinha probiótica de
+acerola, caju, goiaba e jabuticaba. As etapas da preparação consistem no c ongelamento a -
+18ºC, liofilização a -55ºC em 60mm Hg por 12 a 14 horas, trituração , peneiramento e
+armazenamento sob temperatura ambiente. O produto final apresenta ação comprovada no
+estímulo seletivo dos gêneros de Lactobacillus e Bifidobacterium.
+Por último, o documento BR102020004834-A2 descreve a ela boração de uma
+composição em sachê obtida a partir da polpa, sementes e casca de pitaya , com potencial
+ansiolítico. A produção engloba a separação d a casca e polpa, congelamento e liofilização,
+obtendo um farelo seco. A composição do produto apresenta pelo menos um agente ativo no
+tratamento ou prevenção da ansiedade , dentre os quais: quercetina-3-O-galactosideo, apiosilmalonil-betanina e 6' -O-malonil-2-descarboxi-betanina. A quantidade terapêutica
+recomendada varia entre 0,1 a 1,0 mg/mL do sachê da fruta.
+61
+6 CONCLUSÕES
+A partir do presente estudo, concluiu-se que o ramo de frutas liofilizadas tem suma
+importância econômica e tecnológica , a nível global. Pelo mapeamento tecnológico
+identificaram-se diversas competências tecnológicas nas áreas de tecnologia d e alimentos,
+engenharia e química. Percebeu-se, também, que a liofilização se apresenta como um método
+de conservação efic iente com diversas vantagens n o campo da secagem, dentre elas, a
+preservação das características sensoriais, dos nutrientes e compostos bioativos.
+Os resultados obtidos trouxeram como novidades novos produtos com potencial de
+mercado, inovações em equipamentos industriais, vias de tornar o processo mais eficiente,
+aplicações da matriz alimentar em áreas da saúde, boas associações do méto do com outras
+operações unitárias e melhorias do processo atual. Observou-se também que a liofilização
+pode agregar um valor mais natural, pois grande parte dos documentos patentários
+recuperados possui interface com produtos nutracêuticos, alimentos funci onais, formulações
+naturais e alimentos destinados à dieta especial.
+Além disso, os resultados apontam para a versatilidade do alimento liofilizado . Este
+pode estar associado com diferentes ingredientes , composições e texturas resultantes do
+processamento. Os processos relatados nos documentos permitem a diversificação de
+produtos através das formulações, destacando as frutas desidratadas, em pó e granuladas.
+Concluiu-se também, diante dos 329 documentos patentários retornados, a relevância do
+assunto para a área das frutas e, consequentemente, para a engenharia de alimentos . O perfil
+crescente das patentes, nos níveis nacional e internacional, ao longo do tempo demonstra a
+atualidade do tema , a possibilidad e de novidades e a existência de um vasto campo de
+pesquisa.
+Em perspectiva de trabalho futuro, sugere-se a interpr etação e fundamentação geral dos
+documentos na base Derwent, relacionando a operação unitária com as aplicações das frutas
+liofilizadas nas áreas de saúde, a fim de investigar o desenvolvimento de novos alimentos
+funcionais.
+62
+7 REFERÊNCIAS
+Abreu, J. C. Prospecção tecnológica aplicada na otimização da concessão de patentes no
+brasil: estudo de caso em patentes de medicamentos imunossupressores. Orientador:
+Pinto, J. P. M. Dissertação (Doutorado) – Universidade Federal do Rio de Janeiro, Instituto de
+Economia, 2017. Disponível em:
+https://www.ie.ufrj.br/images/IE/PPED/Teses/2017/Jussana%20Cristina%20de%20Abreu%2
+0.pdf. Acesso em: 21 jul. 2023.
+Angelo, P. M., Jorge, N. Compostos fenólicos em alimentos – Uma breve revisão. Rev.
+Inst. Adolfo Lutz, 66(1): p.1-9, 2007. Disponível em:
+https://periodicos.saude.sp.gov.br/RIAL/article/view/32841/31672. Acesso em: 24 jan. 2023.
+Associação Brasileira dos Produtos e Exportadores de Frutas e Derivados - ABRAFRUTAS.
+Dados de Exportação em 2021. Disponível em: https://abrafrutas.org/2022/02/dados-deexportacao-em-2021/. Acesso em: 26 jan. 2023.
+Amorim, F. L., Rocha, I. S., Ferreira, E. S., Machado, B. A. S., Guez, M. A. U. Prospecção
+tecnológica relativa a depósitos de patentes relacionadas aos compostos bioativos
+presente em uvas. Cad. Prospec., Salvador, v. 8, n. 4, p. 801-807, out./dez. 2015. Disponível
+em: https://periodicos.ufba.br/index.php/nit/article/view/13913. Acesso em: 06 jul. 2023.
+Anandharamakrishnan, C. Freeze Drying. Handbook of Drying for Dairy Products.
+Chichester, UK: John Wiley & Sons, 2017. 95-121. Web.
+ANVISA - Agência Nacional de Vigilância Sanitária. Instrução Normativa – IN nº 161, de
+2022. Disponível em:
+http://antigo.anvisa.gov.br/documents/10181/2718376/IN_161_2022_.pdf/b08d70cb-add6-
+47e3-a5d3-fa317c2d54b2. Acesso em: 21 jul. 2023.
+Augustin, M. A., Sanguansri, L., Fox, E. M., Cobiac, L., Cole, M. B. Recovery of wasted
+fruit and vegetables for improving sustainable diets. Trends in Food Science &
+Technology, v. 95, jan. 2020, p. 75-85. Disponível em:
+https://www.sciencedirect.com/science/article/pii/S0924224419303243. Acesso em: 17 jan.
+2023.
+Barbieri, R. L., Vizzotto, M. Pequenas frutas ou frutas vermelhas: tecnologias de
+produção. Informe Agropecuário, Belo Horizonte, v.33, n.268, p.7·10, jun. 2012. Disponível
+em:
+https://www.alice.cnptia.embrapa.br/bitstream/doc/938851/1/RosaliaInfoagropec.p710.pdf.
+Acesso em: 24 jan. 2023.
+Bauer, V. R. P., Wally, A. P., Peter, M. Z. Tecnologia de Frutas e Hortaliças. Instituto
+Federal de Ciência e Tecnologia, Pelotas, 2014. Disponível em:
+http://proedu.rnp.br/bitstream/handle/123456789/1480/Tec_Frut_Horta_Book_Ag.pdf?sequen
+ce=1&isAllowed=y. Acesso em: 23 jan. 2023.
+63
+Bergmann, A., Eymael, D. A., Gomes, N. R., Frasson, S. F., Silva, C. S. Benefícios do
+consumo de carotenoides a partir de frutas nativas do brasil: uma revisão de literatura.
+Revista Brasileira de Obesidade, Nutrição e Emagrecimento, São Paulo. v. 15. n. 97. p.1158-
+1168. Nov./Dez. 2021. Disponível em:
+http://www.rbone.com.br/index.php/rbone/article/view/1456/1194. Acesso em: 24 jan. 2023.
+Bhatta, S., Janezic, T. S., Ratti, C. Freeze-Drying of Plant-Based Foods. Foods 2020, 9(1),
+87. Disponível em: https://doi.org/10.3390/foods9010087. Acesso em: 26 jan. 2023.
+Birt, D. F., Jeffery, E. Flavonoids. Advances in Nutrition, v. 4, Issue 5, Set. 2013, p. 576–
+577. Disponível em: https://doi-org.ez29.periodicos.capes.gov.br/10.3945/an.113.004465.
+Acesso em: 25 jan. 2023.
+Brito, F. C. R., Pontes, C. R., Castro, L. M. S., Cunha, P., Souza, I. P., Veras, M. O. V.,
+Freire, G. E., Santos, A. A. Q. A., Moreira, M. R., Morais, V. D., Silva, F. R. O., Figueiredo,
+I. G. A., Guedes, M. I. F. Mapping of foods with whey protein by patental documents.
+International Journal of Development Research, v. 07, n, 09, p.15594-15597, set., 2017.
+Disponível em: https://repositorio.ufc.br/handle/riufc/28270. Acesso em: 06 jul. 2023.
+Brasil. Lei nº 5772, 21 de dezembro de 1971. Presidência da República, Brasília, 1971.
+Disponível em: https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-5772-21-dezembro-
+1971-357860-publicacaooriginal-1-pl.html . Acesso em: 13 jun. 2023.
+Brasil. Lei nº 9279, 14 de maio de 1996. Presidência da República, Brasília, 1996.
+Disponível em: https://www2.camara.leg.br/legin/fed/lei/1996/lei-9279-14-maio-1996-
+374644-publicacaooriginal-1-pl.html. Acesso em: 13 jun. 2023.
+Canhoto, J. M. Fruto. Rev. Ciência Elem., v.9:010, 2021. Disponível em:
+https://rce.casadasciencias.org/rceapp/art/2021/010/. Acesso em: 24 jan. 2023.
+Celestino, S. M. C. Princípios de Secagem de Alimentos. Planaltina, DF: EMBRAPA,
+Cerrados, 2010. Disponível em:
+https://ainfo.cnptia.embrapa.br/digital/bitstream/item/77765/1/doc-276.pdf. Acesso em: 12
+jan. 2023.
+Chen, Z., Zhang, J. Types of patents and driving forces behind the patent growth in
+China. Economic Modelling, v.80, p.294–302, 2019. Disponível em:
+https://doi.org/10.1016/j.econmod.2018.11.015. Acesso em: 09 jun. 2023.
+CNNPA - Comissão Nacional de Normas e Padrões para Alimentos. Resolução nº 12, de
+1978. Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/cnnpa/1978/res0012_30_03_1978.html. Acesso
+em: 24 jan. 2023.
+CNA - Confederação de Agricultura e Pecuária do Brasil. Mapa da produção de hortifrúti
+2020. Disponível em: https://www.cnabrasil.org.br/mapa-da-producao-de-hortifruti. Acesso
+em: 26 jan. 2023.
+64
+Crecca, V. M. T., Silva, J. M., Souza, P. A. R. Technological prospecting: Patent mapping
+of bioremediation of soil contaminated with agrochemicals using fungi. World Patent
+Information, v. 73, 2023, 102196. Disponível em:
+https://doi.org/10.1016/j.wpi.2023.102196. Acesso em: 12 jun. 2023.
+DWPI - Derwent World Patents Index. Disponível em: https://clarivate.com/products/ipintelligence/ip-data-and-apis/derwent-world-patents-index/. Acesso em: 24 jan. 2023.
+Domingues, G. P. A viabilidade econômica e mercadológica das frutas liofilizadas.
+SEMESP, 2019. Disponível em: https://www.conic-semesp.org.br/anais/files/2015/trabalho-
+1000020670.pdf. Acesso em: 23 set. 2022.
+Durham, E. R. As Universidades Públicas e a Pesquisa no Brasil. Núcleo de Pesquisas
+sobre Ensino Superior (NUPES) - USP, 1998. Disponível em: https://sites.usp.br/nupps/wpcontent/uploads/sites/762/2020/12/dt9809.pdf. Acesso em: 17 mar. 2023.
+Eskin, M. N. A., Hoehn, E. Fruits and Vegetables. Biochemistry of Foods, 2013, chapter 2.
+Disponível em: http://dx.doi.org/10.1016/B978-0-12-242352-9.00002-3. Acesso em: 24 jan.
+2023.
+Fellows, P. J. Tecnologia do processamento de alimentos: princípios e prática. 4. ed. Porto
+Alegre: Artmed, 2019.
+Ferreira, V. S., Sant’Anna, C. Impact of culture conditions on the chlorophyll content of
+microalgae for biotechnological applications. World Journal of Microbiology and
+Biotechnology v. 33, Article number: 20 (2017). Disponível em: https://link-springercom.ez29.periodicos.capes.gov.br/article/10.1007/s11274-016-2181-6. Acesso em: 25 jan.
+2023.
+Fonseca, L. A. B. V. Fruticultura Brasileira: Diversidade e sustentabilidade para
+alimentar o Brasil e o Mundo. CNA, 2022. Disponível em:
+https://cnabrasil.org.br/noticias/fruticultura-brasileira-diversidade-e-sustentabilidade-paraalimentar-o-brasil-e-omundo#:~:text=A%20produção%20brasileira%20de%20frutas,%2C8%25%20ocupados%20p
+or%20lavouras. Acesso em: 26 jan. 2023.
+FAO - Food and Agriculture Organization of the United Nations. Nutrition. Disponível em:
+https://www.fao.org/nutrition/capacity-development/food-loss-and-waste/en/. Acesso em: 23
+jan. 2023.
+FMI - Future Market Insights. Freeze Dried Fruits Market 2022. Disponível em:
+https://www.futuremarketinsights.com/reports/freeze-dried-fruits-market. Acesso em: 23 set.
+2022.
+Franco, R. R. O Mapeamento Tecnológico e a Gestão de Tecnologia no CNPDIA -
+Embrapa. Orientador: Pinho, M. S. Dissertação (Doutorado) – Engenharia de Produção
+Universidade Federal de São Carlos, São Paulo, 2009. Disponível em:
+https://repositorio.ufscar.br/bitstream/handle/ufscar/3599/2495.pdf?sequence=1&isAllowed=
+y. Acesso em: 14 jun. 2023.
+65
+Garcia, Laura Pereira. Liofilização aplicada a alimentos. 2009. 46 f. Monografia (Química
+em Alimentos). Universidade Federal de Pelotas. Pelotas.
+Galvão, M. S., Narain, N., Santos, M. S. P., Nunes, M. L. Volatile compounds and
+descriptive odor attributes in umbu (Spondias tuberosa) fruits during maturation. Food
+Research International, v. 44, Issue 7, p. 1919-1926, 2011. Disponível em:
+https://doi.org/10.1016/j.foodres.2011.01.020. Acesso em: 09 jun. 2023.
+Gélinas, P. Mapping Early Patents on Baker’s Yeast Manufacture. Comprehensive
+Reviews in Food Science and Food Safety, 2010, v.9, n. 5, p. 483–497. Disponível em:
+https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-4337.2010.00122.x. Acesso em: 06
+jul. 2023.
+IPEA - Instituto de Pesquisa Econômica Aplicada. Consumo e Produção Sustentáveis.
+Disponível em: https://ipea.gov.br/ods/ods12.html. Acesso em: 17 jan. 2023.
+INPI - Instituto Nacional da Propriedade Industrial. Publicação IPC. INPI, 2022. Disponível
+em:
+http://ipc.inpi.gov.br/classifications/ipc/ipcpub/?notion=scheme&version=20230101&symbol
+=none&menulang=pt&lang=pt&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&h
+eadings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smar
+t. Acesso em: 02 fev. 2023.
+INPI - Instituto Nacional da Propriedade industrial. Tratado de Cooperação em matéria de
+Patentes (PCT). 2022. Disponível em: https://www.gov.br/inpi/ptbr/servicos/patentes/Como-proteger-patente-no-exterior/pct/tratado-de-cooperacao-emmateria-de-patentes-pct. Acesso em: 13 jun. 2023.
+INPI - Instituto Nacional da Propriedade Industrial. Manual Básico para Proteção por
+Patentes de Invenções, Modelos de Utilidade e Certificados de Adição. Ministério da
+Economia, Brasília, 2021. Disponível em: https://www.gov.br/inpi/ptbr/servicos/patentes/guia-basico/ManualdePatentes20210706.pdf. Acesso em: 14 jun. 2023.
+Kimura, P. C., Silva, S. B., Costa, S. C. Prospecção tecnológica para verificação do
+potencial de patenteabilidade de alimento formulado com produtos de estévia. Cadernos
+de Prospecção – Salvador, v. 12, n. 4, p. 890-906, 2019. Disponível em:
+http://dx.doi.org/10.9771/cp.v12i4.30512. Acesso em: 21 jul. 2023.
+Kupfer, D., Tigre, P. B. Prospecção tecnológica. In: Caruso, L. A., Tigre, P. B. (Org.).
+Modelo SENAI de prospecção: documento metodológico. Montevideo: OIT/CINTERFOR,
+2004. Papeles de la Oficina Técnica, n.14.
+Lagos, J. B.,Vargas, F. C., Oliveira, T. G., Makishi, G. L. A., Sobral, P. J. A.. Recent patents
+on the application of bioactive compounds in food: a short review. Current Opinion in
+Food Science v. 5, out. 2015, p. 1-7. Disponível em:
+https://www.sciencedirect.com/science/article/abs/pii/S2214799315000818. Acesso em: 14
+jun. 2023.
+66
+Machado, B. A. S., Reis, J. H. O., Pires, E. A., Santos, F. L. Mapeamento tecnológico de
+patentes de kefir. Cadernos De Prospecção, v. 5, n. 2, p.86, 2014. Disponível em:
+https://periodicos.ufba.br/index.php/nit/article/view/11460. Acesso em: 06 jul. 2023.
+Marques, E. C., Costa, S. R. R. Estudo da liofilização pela engenharia de produto no
+processamento industrial de alimentos. Acta Tecnológica, v. 10, n. 1, p. 44–52, 2015. DOI:
+10.35818/acta.v10i1.173. Disponível em:
+https://periodicos.ifma.edu.br/actatecnologica/article/view/173. Acesso em: 27 jan. 2023.
+Marques, L. G., Prado, M. M., Freire, J. T. Rehydration Characteristics of Freeze-dried
+Tropical Fruits. Food Science & Technology, 42.7, 2009, p. 1232-237. Disponível em:
+https://doi.org/10.1016/j.lwt.2009.02.012. Acesso em: 23 set. 2023.
+Marques, N. S., Cajavilca, E. S. R., Melo, E. M., Santana, V. G., Sales, G. F., Lobo, R. S.
+Análise de patentes do mercado de alimentos industrializados no mundo com base na
+classificação “A” da WIPO. Cad. Prospec., Salvador, v. 7, n. 4, p. 612-621, 2014.
+Disponível em: https://periodicos.ufba.br/index.php/nit/article/view/11944/pdf_71. Acesso
+em: 14 jun. 2023.
+Martins, F. P., Bosch, J. C., Silva, A. J. O., Siqueira, A. M. Secagem: uma revisão. The
+Journal of Engineering and Exact Sciences, 2020, 6(4), 0600–0607i. Disponível em:
+https://doi.org/10.18540/jcecvl6iss4pp0600-0607i. Acesso em: 12 jan. 2023.
+Mello, M. T. L. PATENTES EM BIOTECNOLOGIA. Cadernos de Ciência e Tecnologia,
+Brasília, DF, v.15, 1998. Disponível em:
+https://seer.sct.embrapa.br/index.php/cct/article/view/8917. Acesso em: 27 jan. 2023.
+Moura, N. F., Chaves, L. J., Vencovsky, R., Naves, R. V., Aguiar, A. V., Moura, M. F.
+Genetic structure of mangaba (Hancornia speciosa Gomes) populations in the cerrado
+region of Central Brazil. Bioscience Journal, Uberlândia, v. 27, n. 3, p. 473-481, 2011.
+Disponível em: https://repositorio.bc.ufg.br/bitstream/ri/19185/3/Artigo%20-
+%20Nara%20Fernandes%20Moura%20-%202011.pdf . Acesso em: 09 jun. 2023.
+Moraes, L. R.V., Azevedo, L. C., Santos, V. M. L., Leitão, T. J. V. Estudo comparativo da
+desidratação de frutas para fins de infusão, por método tradicional e liofilização.
+Revista Semiárido De Visu, v.2, n.2, p.254-264, 2012. Disponível em:
+https://periodicos.ifsertao-pe.edu.br/ojs2/index.php/semiaridodevisu/article/view/101/83.
+Acesso em: 06 jun. 2023.
+Moraga, G., Igual, M., Martínez, E. G., Mosquera, L. H., Navarrete, N. M. Effect of relative
+humidity and storage time on the bioactive compounds and functional properties of
+grapefruit powder. Journal of Food Engineering, Oxford, v. 112, n. 3, p. 191-199, 2012.
+Neves, R. F., Chiarello, M. D., Lima, L. A., Ghesti, G. F. Forecasting study of food-related
+patents protected by the University of Brasilia, Brazil: Case study. Heliyon, 2023.
+Disponível em: https://doi.org/10.1016/j.heliyon.2023.e17111. Acesso em: 12 jun. 2023.
+Ordóñez, J. A. P. Rodríguez, M. I. C., Álvarez, L. F., Sanz, M. L. G., Minguillón, G. D. G. F.,
+Perales, L. H., Cortecero, M. D. S.Tecnologia de Alimentos: volume 1 – componente dos
+alimentos e processos. Porto Alegre: Artmed, 2005.
+67
+Oliveira, D. F. M. O., Rodrigues, T. M. Análise Prospectiva do Caju: mapeamento
+tecnológico por meio de pedidos de patentes. Cadernos de Prospecção – Salvador, v. 13, n.
+3, p. 852-861, 2020. Disponível em:
+https://periodicos.ufba.br/index.php/nit/article/view/30651/21145. Acesso em: 13 jun. 2023.
+Oliveira, G. R., Santos, J. T. S., Campos, A. F. P., Nunes, T. P., Russo, S. L., Junior, A. M. O.
+Prospecção tecnológica: processo de liofilização na indústria de alimentos. Revista
+GEINTEC– ISSN: 2237-0722. São Cristóvão/SE – 2012. v. 3, n. 1, p.92-102.
+D.O.I.:10.7198/S2237-0722201300010008.
+OMS - Organização Mundial da Saúde. Healthy diet. 2020. Disponível em:
+https://www.who.int/news-room/fact-sheets/detail/healthy-diet. Acesso em: 20 jul. 2023.
+Pu, G., Zhu X., Dai J., Chen X. Understand technological innovation investment
+performance: Evolution of industry-university-research cooperation for technological
+innovation of lithium-ion storage battery in China. Journal of Energy Storage, v. 46,
+103607, 2022. Disponível em: https://doi.org/10.1016/j.est.2021.103607. Acesso em: 09 jun.
+2023.
+Quispe, D. C., Samanez, C. A. L., Rosales, E. R. H., Landa, J. P. A., Cerna, H. W. A., Puma,
+M. M. Z., López, G. J. A., Palomino, G. I. B., Flores, H. A., Villanueva, W. G. Bioactive
+Compounds and Sensory Analysis of Freeze-Dried Prickly Pear Fruits from an InterAndean Valley in Peru. Molecules, 2023, v.28, 3862. Disponível em:
+https://doi.org/10.3390/molecules28093862. Acesso em: 06 jun. 2023.
+Ramírez, M. J., Giraldo. G. I., Orrego, C. E. Modeling and Stability of Polyphenol in
+Spray-dried and Freeze-dried Fruit Encapsulates. Powder Technology 277 (2015): 89-96.
+Web.
+Rodrigues, L. A. P., Leal, I. L., Hodel, K. V. S., Góes, G. B. T. Mapeamento tecnológico de
+bebidas fermentadas funcionais com cacau. Cadernos De Prospecção, 2022, v.15, n. 3, p.
+865–880. Disponível em: https://periodicos.ufba.br/index.php/nit/article/view/47803. Acesso
+em: 06 de jul. 2023.
+Rosenthal, A., Vitali, A. A., Almeida, A. F. L., Furtado, A. A. L., Soares, A. G., Amaya, D.
+B. R., Dunham, F. B., Cornejo, F. E. P., Teixeira, F. G. M., Vital, H. C., Farfán, J. A., Hamú,
+L., Cabral, L. M. C., Fonseca, M. J. O., Fortes, M. H. P., Amâncio, M. C., Junior, M. F.,
+Cruvinel, P. E., Júnior, P. P. M. U., Nogueira, R. I., Nóbrega, R., Deliza, R., Tahara, S. T.,
+Wilberg, V. C., Matta, V. M.. Tecnologia de alimentos e inovação: tendências e
+perspectivas. EMPRABA, Informação Tecnológica, Brasília, DF. 2008.
+Santos, P. O., Pinheiro, L. K. X., Roque, M. R. A. Mapeamento tecnológico dos pigmentos
+naturais. Cad. Prospec., Salvador, v. 9, n. 1, p. 121-128, jan./mar. 2016. Disponível em:
+https://www.researchgate.net/profile/Milton-Roque-
+2/publication/299496810_MAPEAMENTO_TECNOLOGICO_DOS_PIGMENTOS_NATU
+RAIS/links/5acfc6870f7e9b18965cd221/MAPEAMENTO-TECNOLOGICO-DOSPIGMENTOS-NATURAIS.pdf . Acesso em: 06 jul. 2023.
+Savo, I., Dragan, M., Miladin, B. Specificities of fruit freeze drying and product prices.
+Economics of Agriculture, v. 59, n. 297-2016-3474, p. 461-471, 2012.
+68
+Silva, A. B. S., Silva, E. G., Rigo, L., Oliveira, M. P., Loss, R. A., Guedes, S. F., Paula, J. M.,
+Geraldi, C. A. Q. Técnicas de secagem de frutas: uma revisão. Scientific Electronic
+Archives: v14, nº10, 2021. Disponível em: https://doi.org/10.36560/141020211424. Acesso
+em: 13 jan. 2023.
+Souza, B. B., Cembranel, F., Hallal, A. L. C., Orsi, E. Consumo de frutas, legumes e
+verduras e associação com hábitos de vida e estado nutricional: um estudo prospectivo
+em uma coorte de idosos. Ciência & Saúde Coletiva. 2019, v. 24, n. 4, p. 1463-1472.
+Disponível em: https://doi.org/10.1590/1413-81232018244.03782017. Acesso em: 13 jan.
+2023.
+Souza, I. C. C., Carvalho, A. C. B., Neto, J. M. D. S., Fernandes, J. P. C., Junior, J. D. R.,
+Araújo, F. M. M. C., Melo, R. L. F. Caracterização físico-química dos frutos tropicais do
+Nordeste brasileiro. Research, Society and Development, v. 9, n.6, e125963562, 2020.
+Disponível em: https://rsdjournal.org/index.php/rsd/article/view/3562/3850. Acesso em: 09
+jun. 2023.
+Tabela brasileira de composição de alimentos - TACO. NEPA - UNICAMP, 4 ed. rev. e
+ampl. Campinas, SP: 2011. Disponível em: https://www.cfn.org.br/wpcontent/uploads/2017/03/taco_4_edicao_ampliada_e_revisada.pdf. Acesso em: 23 jan. 2023.
+Teixeira, L. P. Prospecção tecnológica: importância, métodos e experiências da Embrapa
+Cerrados. Planaltina, DF: Embrapa Cerrados, 2013. Disponível em:
+https://ainfo.cnptia.embrapa.br/digital/bitstream/item/100348/1/doc-317.pdf. Acesso em: 14
+jun. 2023.
+Terroni, H. C., Jesus, J. M., Artuzo, L. T., Ventura, L. V., Santos, R. F., Damy-Benedetti, P.
+C. Liofilização. Revista Científica: Unilago, 2013. Disponível em:
+http://www.unilago.edu.br/revista/edicaoanterior/Sumario/2013/downloads/2013/LIOFILIZA
+ÇÃO.pdf. Acesso em: 05 jun. 2023.
+Tobaruela, E. C. Avaliação do conteúdo de carboidratos de frutas cultivadas em
+diferentes regiões do Brasil. Orientadora: Menezes, E. W. Dissertação (Mestrado) – Ciência
+dos Alimentos, Universidade de São Paulo, São Paulo, 2016. Disponível em:
+https://pdfs.semanticscholar.org/2052/b1b614d07a25009dc234dc9bc5f0a4788007.pdf .
+Acesso em: 10 jun. 2023.
+Valdman, C. Sousa, M. R. C. Bernardo, S. Classificação de patentes (IPC/CPC). Ministério
+da Economia, Brasília, 2021. Disponível em: https://www.gov.br/inpi/ptbr/servicos/patentes/classificacao/RelatorioExecutivoClassificacaoPatentes2020_DIRPA_260
+22021.pdf . Acesso em: 15 jun. 2023.
+Verspagen, B. Intellectual property rights in the world economy. Maastricht: Maastricht
+University, 1999.
+Viana, E. S., Jesus, J. L., Reis, R. C., Fonseca, M. D., Sacramento, C. K. Caracterização
+fisico-química e sensorial de geleia de mamão com araçá-boi. Revista Brasileira de
+Fruticultura, Jaboticabal, v. 34, n. 4, p. 1154-1164, 2012.
+69
+Vicenzi, R. Tecnologia de frutas e hortaliças. Apostila didática do curso de Química
+Industrial de Alimentos. Santa Rosa, RS: UNIJUI, 2007. Disponível em:
+www.sinprors.org.br/raul.vicenzi. Acesso em: 24 jan. 2023.
+Vidal, M. F. Agropecuária - Fruticultura. Caderno Setorial ETENE, ano 7, n. 228, 2022.
+Disponível em: https://www.bnb.gov.br/s482-
+dspace/bitstream/123456789/1326/3/2022_CDS_228.pdf . Acesso em: 20 jul. 2023.
+Vieira, A. P., Nicoleti, J. F., Telis, V. R. N. Liofilização de fatias de abacaxi: avaliação da
+cinética de secagem e da qualidade do produto. Braz. J. Food Technol., Campinas, v. 15, n.
+1, p. 50-58, jan./mar. 2012, 51. Disponível em:
+https://www.scielo.br/j/bjft/a/XJKWdHdV4Q3Hf3FPNMKJj8w/?format=pdf&lang=pt.
+Acesso em: 16 jun. 2023.
+Wang, Q. R., Zheng, Y. Patent regime and the geography of cumulative innovation.
+Research Policy Ed. 52, 2023. Disponível em: https://doi.org/10.1016/j.respol.2023.104809.
+Acesso em: 13 jun. 2023.
+WIPO - World Intellectual Property Organization. International Patent Classification
+(IPC). Disponível em: https://www.wipo.int/classifications/ipc/en/. Acesso em: 02 fev. 2023.
+WIPO - World Intellectual Property Organization. O PCT conta agora com 157 Estados
+Contratantes. 2022. Disponível em: https://www.wipo.int/pct/pt/pct_contracting_states.html.
+Acesso em: 03 fev. 2023.
+Yanniotis, S. Solving Problems in Food Engineering. Springer, New York, NY, 2008.
+Zhu, J., Liu, Y., Zhu, C., Wei, M.. Effects of different drying methods on the physical
+properties and sensory characteristics of apple chip snacks. WT - Food science and
+techonoly v. 154, 2022. Disponível em: https://doi.org/10.1016/j.lwt.2021.112829. Acesso
+em: 13 jun. 2023.
+70
+APÊNDICE A – Documentos patentários selecionados para análise qualitativa
+Título Resumo Nº do documento Ano
+Equipamentos Industriais
+Cilindro para
+liofilização
+O equipamento é composto por um corpo cilíndrico, rotor e conjunto de
+placas múltiplas. O documento reivindica que a baixa temperatura no cilindro
+acelera a sublimação da água, reduzindo a perda de nutrientes das frutas.
+CN115119876-A 2022
+Secador de liofilização O pedido de patente reivindica que o equipamento com a superfície da placa
+em forma de ondas melhora a eficiência do processo. Ainda, o dispositivo é
+rápido e fácil de operar.
+CN114451448-A 2022
+Liofilizador Composto por corpo do equipamento, bandejas e mecanismos de refrigeração,
+aquecimento e vácuo. Os principais benefícios são a facilidade da limpeza e
+rapidez no processo. Ainda, possui maior eficiência no consumo de água e
+permite o contato da fruta liofilizada no recipiente de coleta com pequenas
+aberturas.
+CN214126800-U 2021
+Liofilizador para goji
+berry com polias
+Composto por caixa do equipamento de liofilização, dispositivos de retenção,
+elevação, selagem, estrutura de suporte e polias. Ainda, o equipamento móvel
+possui alta eficiência, pois aumenta a mobilidade da recolha da fruta
+proveniente da etapa anterior.
+CN112244079-A 2021
+Modelo de utilidade
+para formulação em pó
+O documento reivindica um equipamento para aplicação em polpas de fruta
+com a formulação em pó.
+CN218126722-U 2023
+Modelo de utilidade
+para liofilização
+O equipamento é conveniente para pegar e posicionar a fruta, o uso do
+aparelho é conveniente e melhora a eficiência do processo.
+CN213404708-U 2021
+Modelo de utilidade
+para secagem uniforme
+O documento reivindica que o material aumenta o contato da fruta a ser
+liofilizada com o vapor térmico do liofilizador. Dessa forma, permite que o
+alimento seja totalmente aquecido com o vapor e, consequentemente, aumenta
+a eficiência da liofilização.
+CN218104739-U 2023
+Modelo de utilidade
+para reaproveitamento
+de calor
+O equipamento é formado por uma câmara de liofilização a vácuo, placas de
+aquecimento, vaporizador, dispositivo de arrefecimento, bomba, tubos e um
+tanque de recolhimento. A principal vantagem é o recolhimento do vapor da
+água da fruta durante a liofilização, melhorando a eficiência da operação.
+CN215013438-U 2022
+Liofilizador com
+reaproveitamento do
+vapor de água
+O aparelho consiste em placas, dispositivos de condensação e de transporte. O
+método reaproveita o vapor de água gerado no aquecimento e sublimação da
+água da fruta, pois o condensa em gotículas de água. Ainda, não causa
+poluição secundária e remove o gelo de forma eficiente, melhorando a
+refrigeração da tubulação do condensador.
+CN112556322-A;
+CN112556322-B
+2021
+Liofilizador com
+equipamento de
+limpeza
+O pedido de patente reivindica que o equipamento desumidifica o ar no
+aparelho e limpa, com alta eficiência, os resíduos das frutas e legumes
+resultantes da liofilização.
+CN114223712-A 2022
+Liofilizador com
+concentrador por
+membrana
+A tecnologia da concentração por membrana é combinada com a liofilização,
+reduzindo o custo de processamento para obtenção de frutas e legumes em pó.
+CN213604235-U 2021
+Dispositivo de
+desidratação a vácuo a
+baixa temperatura
+O instrumento abarca válvulas de controle, tanques de equipamento,
+tubulações e uma claquete conectado ao condensador. A reivindicação é a
+melhora no teor de vácuo em todo o aparelho, reduzindo o teor de óleo do
+produto. Assim como, tem uma estrutura simplificada e é fácil de operar.
+CN213848538-U 2021
+Dispositivo de
+liofilização para
+produto com camadas
+de carnes, frutas e
+vegetais
+A principal vantagem do aparelho é a haste deslizante, que, ao ser engatada no
+limite máximo, faz com que os alimentos sobrepostos não sejam apertados ou
+esmagados, pois, permite que a placa de drenagem funcione de forma mais
+suave. Ainda, o suporte de material é de fácil bloqueio, se comparado ao
+equipamento tradicional do liofilizador.
+CN114468035-A 2022
+Liofilizador contínuo
+para frutas
+O equipamento permite o congelamento e secagem de forma contínua através
+das placas, garantindo uma secagem uniforme e completa dos alimentos.
+CN115363087-A 2022
+Linha tecnológica de
+liofilização para
+produção de tiras
+crocantes e chips
+Engloba misturador, dispositivo de enchimento, congelador, cortador, que
+permite o corte em tiras ou chips, liofilizador e dispositivo de dosagem para
+embalagem. A vantagem relatada é que o equipamento mantém as
+características físicas e sensoriais (sabor, cor e aparência) das frutas e vegetais
+e garante a crocância do produto final.
+PL435236-A1 2022
+Modelo de utilidade O documento reivindica um sistema de filtragem em várias fases com CN217067869-U 2022
+71
+para desidratação
+mecânica
+extrusora, desidratador e liofilizador para a produção da formulação em pó. O
+depositante descreve que a desidratação mecânica reduz o tempo de
+processamento, diminuindo o custo.
+Modelo de utilidade
+para processamento de
+amora liofilizada
+O pedido de patente descreve as partes de um modelo de utilidade para
+processamento de amora liofilizada.
+CN212697490-U 2021
+Modelo de utilidade
+para dissolução de
+grãos
+O documento patentário reivindica uma linha automática formada por um
+liofilizador com ultracongelamento e despolpadora para dissolução de grãos
+das frutas.
+CN214178910-U 2021
+Cortador de frutas e
+legumes para
+liofilizador
+O documento descreve que o dispositivo automático permite o corte e melhora
+o processamento da fruta para a liofilização, o equipamento opera de forma
+automática.
+CN212471611-U 2021
+Dispositivo de
+pulverização de frutas
+liofilizadas e xarope de
+vegetais
+O dispositivo descrito no documento patentário é a pulverização de frutas
+liofilizadas e xarope de vegetais. Este, de acordo com o documento, é
+econômico, melhora a qualidade da pulverização e a eficiência do
+processamento de revestimento de açúcar, prolonga o prazo de validade e
+realiza o processamento uniforme com eficiência e qualidade.
+CN114052067-A 2022
+Liofilizador com
+congelador a vácuo
+Liofilizador com congelador a vácuo para frutas e vegetais, com o
+equipamento ocorre à preservação dos nutrientes, produzindo um produto com
+qualidade e um bom prazo de validade.
+CN112120075-A 2021
+Desenvolvimento de novos processos
+Preparação de fruta
+liofilizada em pó
+Os processos são congelamento rápido, seguido por liofilização e ultra-microesmagamento da fruta desidratada para obtenção do pó. O método
+proporciona um produto seco de fina granularidade, facilitando a absorção
+pelo corpo humano, com o sabor da fruta in natura preservado.
+CN115553332-A 2023
+Maior preservação dos
+compostos fenólicos e
+proantocianidinas
+O documento traz como procedimentos peneiramento, limpeza em água, corte
+em fatias, congelamento ultrassônico, pré-congelamento, congelamento e
+liofilização para obtenção de fatias de pêssego com a melhora no teor.
+CN114847453-A 2022
+Fórmula de retenção
+de sabor
+A formulação compreende um anticongelante artificial, propilenoglicol e
+solução aquosa, agente cristalizante, mistura de mel in natura, silvestre,
+filtrado e tratado por ultrassom, agente encapsulante, maltodextrina, dextrina,
+amido hidrolisado, metabissulfito de sódio e sal de amônio e mistura de frutas
+e vegetais. O documento reivindica que o produto ajuda na preservação do
+sabor e do perfil nutritivo durante a liofilização das frutas, até a obtenção do
+pó.
+IN202141020276-A 2022
+Modelo de utilidade
+com pectina da fruta
+liofilizada
+O documento relata a formação em camadas com a fruta liofilizada, incluindo
+uma ranhura no núcleo, xarope e filme de arroz comestível. O documento
+patentário reivindica a melhora no sabor da fruta liofilizada.
+CN215124114-U 2022
+Modelo de utilidade de
+circulação de ar
+O documento descreve que o equipamento torna a liofilização mais eficiente,
+pois, com a melhora na circulação, o ar flutua melhor no fundo da fruta.
+CN218164241-U 2023
+Tecnologia para
+prevenir o
+descoloramento
+As etapas incluem a seleção das frutas sem manchas, limpeza com água,
+retirada de partes indesejadas, corte, alocação dos blocos de frutas em dióxido
+de carbono de alta pressão e tratamento por radiofrequência. Após, ocorre a
+liofilização. O procedimento é recomendado para evitar a perda de cor das
+frutas e vegetais liofilizados armazenados a temperatura ambiente. O pedido
+de patente reivindica que as etapas estudadas evitam a perda dos pigmentos,
+garantindo o teor de água inferior a 5% do produto.
+CN114304251-A 2022
+Produção de grânulos
+de frutas
+Antes da liofilização, ocorre o pré-tratamento com as etapas da
+homogeneização, desgaseificação e concentração, até remoção de, pelo
+menos, 20% do teor de água. Após essas etapas, o material é refrigerado em
+membrana seguido por trituração até a formação de grânulos de 0,1-30 mm.
+Então, ocorre a liofilização sob pressão de 0,1 a 1,5hPa pelo tempo
+necessário, até a redução do teor de água de menos de 5%.
+PL436147-A1 2022
+Maior preservação e
+uniformidade das cores
+O documento reivindica como novidade a produção das frutas liofilizadas
+com a mistura de frutas, sorbitol, éster de luteína, isomaltulose e água de
+acordo com a relação de massa de 50:2:0,5:1:5 com homogeneização durante
+2 a 3 horas, secagem até redução de 50 a 60% do teor de água, adição em
+solução de ácido cítrico e liofilização a -30ºC por 5 horas. A maior vantagem
+é a produção do alimento liofilizado com cores uniformes.
+CN114788537-A 2022
+Produção de grânulos As etapas englobam pré-seleção da fruta, desgaseificação, remoção de, pelo PL435659-A1 2022
+72
+de frutas liofilizadas menos, 20% do teor da água, liofilização a -35ºC com pulverização de
+nitrogênio líquido, onde ocorre o esmagamento da camada da fruta até atingir
+granulometria de 0,1 a 0,30mm. Após, o alimento congelado seca em
+temperaturas inferiores a 60ºc, sob pressão de 0,1 a 1,5hPa, durante o tempo
+necessário para alcançar um teor de água inferior a 5% em peso.
+Método para regular e
+controlar a textura das
+frutas liofilizadas
+As etapas incluem limpeza, corte, branqueamento, descongelamento por
+ultrassom, combinação de congelamento de 4 a 6 horas, por -20 a -30ºC, e
+descongelamento assistido, por 1 a 2h em 20ºC a 25ºC, estas duas etapas são
+repetidas por 2 a 6 vezes. Após, ocorre liofilização a vácuo durante 8 a 10
+horas, inserção de vácuo, drenagem e liofilização novamente por 10 a 14
+horas, de modo a produzir a textura desejada da fruta. A preparação consegue
+ajustar as concentrações e proporções dos polissacarídeos, amido, proteínas e
+pectina, permitindo alterar a textura.
+CN113632826-A 2021
+Esterilização da noz de
+areca liofilizada
+O documento patentário reivindica que, antes da liofilização, a fruta seja
+pulverizada com óleo de flor da laranja de sevilha e camada protetora formada
+por etanol, beldroega, extrato de cidreira e água. Ambas as substâncias são
+aplicadas na superfície, após ocorre a esterilização em micro-ondas. Dessa
+forma, o produto é esterilizado comercialmente, com boa vida comercial,
+forma preservada e teor estável de polifenóis e arecolina.
+CN114304251-A 2021
+Método de liofilização
+com nano
+incorporação
+O documento reivindica que a integração com nano-incorporação reduz
+significativamente a perda de sabor proveniente da liofilização, melhorando a
+característica sensorial.
+CN113598333-A 2021
+Método de liofilização
+de pitaya com maior
+crocância
+As etapas englobam corte, pré-tratamento e liofilização a vácuo, controlando a
+embalagem, selagem e vácuo. Ainda, a espessura da pitaya, o tempo de pré -
+congelamento, pressão do ar de secagem, tempo de secagem e grau de vácuo
+são devidamente ajustados. Por isso, tem-se a melhora da porosidade do
+produto e, consequentemente, da crocância.
+CN113142519-A 2021
+Campo
+eletromagnético de alta
+frequência antes da
+liofilização
+O método é utilizado para inativar as enzimas, fixar os pigmentos da fruta e
+melhorar o pré-processamento da pera a ser liofilizada. Ainda, o documento
+relata que a tecnologia forma partículas finas, lisas e uniformes, garantindo a
+dispersividade, solubilidade e boa fixação dos pigmentos.
+CN112450394-A 2021
+Método para aumentar
+a biodisponibilidade
+dos nutrientes
+As frutas devidamente higienizadas são alocadas em triturador, com
+velocidade de enchimento uniforme, e cortadas em partículas com tamanho de
+2-5 mm. Isto, garante a quebra da parede celular, permitindo que o material
+seja difundido no meio, liberando os nutrientes e substâncias ativas e,
+consequentemente, facilitando a ingestão humana. Ainda, o sistema é formado
+por equipamento de limpeza, triturador, moinho coloidal, congelador e
+liofilizador.
+CN114271455-A 2021
+Técnica para obtenção
+da formulação em pó
+O método envolve a trituração das frutas e vegetais em baixas temperaturas,
+filtração e liofilização até obtenção da polpa e pó. O processamento consegue
+ainda reduzir o consumo da energia em torno de 30 a 60%.
+CN112385805-A 2021
+Técnica para obtenção
+de pó fonte de celulose
+A técnica compreende a trituração das frutas, filtragem, congelamento,
+granulação e liofilização, obtendo um pó liofilizado. O método consegue
+reduzir em 50% o tempo de secagem e poupa energia em mais de 30%.
+CN112617144-A 2021
+Processamento que
+aumenta a solubilidade
+de frutas liofilizadas
+O método tem como objetivo melhorar o grau de solubilidade das frutas para
+aplicação em alimentos líquidos. As etapas descritas são aquecimento com
+pressão superior à atmosférica, congelamento sob vácuo, liofilização e
+imersão do alimento no alimento líquido destinado.
+JP2021132562-A;
+JP7049619-B2
+2021
+Fluxograma da
+liofilização
+O documento reivindica um fluxograma de um processo de transformação de
+uma fruta em um produto liofilizado.
+US2022330563-A1 2022
+Método de secagem O método de liofilização dos frutos ocorre pelo despolpamento, précongelamento a -50 a -40 °C, liofilização sob temperatura de -50 a 0 °C em
+fases do primeiro ao último estágio com tempo de 11 a 15 horas, sendo o grau
+de vácuo inferior ou igual a 3 Pa. O pesquisador descreve que o método
+preserva ao máximo a cor e os nutrientes da fruta in natura e aumenta a vida
+comercial.
+CN112425644-A 2021
+Liofilização de amora A preparação de amora liofilizada abarca o pré-processamento com seleção,
+lavagem, tratamento com ultrassom, liofilização, embalagem a vácuo e a
+selagem.
+CN114982923-A 2022
+Liofilização de fruta- A produção é feita com as etapas de seleção, utilização de laser para remover CN115211541-A 2022
+73
+milagrosa a camada de cera da fruta, limpeza, adição em recipiente de dióxido de
+carbono a alta pressão e liofilização a vácuo. Como vantagens tem-se que o
+método remove completamente a camada de cera e reduz o tempo de
+liofilização com um bom resultado de secagem. O produto final é crocante
+com preservação dos nutrientes da fruta-milagrosa.
+Liofilização de
+morango
+O processamento ocorre com o pré-congelamento, liofilização a vácuo,
+peneiramento em peneira vibratória para remoção do pó flutuante e
+embalagem do produto seco final. A produção pode reduzir o tempo de
+secagem, suprimir o inchaço e a formação de espuma do produto e aumentar a
+doçura do produto de morango, melhorando o sabor do produto. Ainda, opera
+com baixo consumo de energia.
+CN115553442-A 2023
+Liofilização de ameixa As etapas englobam o corte, congelamento e liofilização. O documento
+patentário reivindica que o método melhora a eficiência de secagem da
+ameixa congelada, podendo reduzir o consumo de energia e economizar
+custos. Ainda, a técnica é de fácil operação e fácil popularização da
+tecnologia.
+CN114698684-A 2022
+Desenvolvimento de novos produtos
+Snack liofilizado para
+bebês
+O produto é feito com frutas, legumes e clara de ovo, os aditivos são naturais,
+sendo o acidificante: suco de limão e espessante: amido de batata, milho ou
+tapioca. Ainda, não possui açúcares e aditivos artificiais. O produto,
+recomendado para lanches, está pronto para consumo e é destinado para as
+crianças. As etapas de produção ocorrem em batelada, compreendendo
+seleção, corte, mistura, aeração, resfriamento, congelamento e liofilização.
+WO2022161811-
+A1
+2022
+Snacks de abacaxi e
+goji berry
+As etapas da fabricação englobam lavagem, drenagem com água e secagem
+natural do goji berry. Ainda, ocorre a remoção dos resíduos e batimento do
+abacaxi, obtendo um suco de abacaxi para misturar com a goji berry, em
+temperaturas baixas. A mistura é congelada e liofilizado por 16 a 20 horas a -
+40ºC para formação dos snacks. O método garante a retenção dos nutrientes e
+compostos bioativos, mantendo a cor, aparência e sabor.
+CN113558201-A 2021
+Chips orgânico de
+actinidia arguta
+A produção engloba seleção da fruta orgânica, lavagem, imersão em solução
+de ácido cítrico para preservar a polpa, drenagem, esmagamento, adição de
+maltodextrina, pré-congelamento e liofilização. Ainda, de acordo com o
+pedido da patente, o produto possui excelente sabor, perfil nutritivo e cor.
+CN112544921-A 2021
+Polpa de frutas do
+cerrado
+As etapas englobam a seleção, lavagem, higienização, despolpamento,
+congelamento, liofilização, maceração, peneiramento e embalagem. A
+aplicação principal é o preparo de extratos aquosos com propriedades
+antioxidantes e substâncias bioativas. Dessa forma, as frutas do cerrado
+podem estar na composição de suplementos, alimentos funcionais, compostos
+nutracêuticos e fitoterapêuticos. O documento traz como principal vantagem a
+estabilidade físico-química e microbiológica.
+BR102019023140-
+A2
+2021
+Pasta liofilizada de
+caroço de frutas
+A produção envolve a formação da pasta após aquecimento da fruta,
+moldagem, congelamento e liofilização. O produto tem como público-alvo os
+lactentes, crianças e idosos. O documento relata ainda que a pasta tem
+excelente sabor, odor e perfil nutritivo.
+JP2021122267-A 2021
+Pasta de abóbora A produção abrange o pré-tratamento com ultrassom, liofilização e secagem
+por infravermelho. O método diminui o tempo de secagem e melhora a taxa
+de secagem, produzindo uma pasta de boa aparência e com um conteúdo
+maior de compostos fenólicos e carotenoides, se comparado à operação de
+secagem úmida.
+CN113475692-A 2021
+Ameixa liofilizada A produção compreende as etapas de corte, remoção do caroço,
+branqueamento, adição em solução salina, pré-congelamento e liofilização. A
+operação consegue reter os nutrientes, garantir um bom tempo de
+armazenamento e boas características sensoriais.
+CN112971068-A;
+ZA202106459-A
+2021
+Pitaya liofilizada A produção engloba a lavagem, descascamento, corte, branqueamento,
+mistura com maltodextrina, adição em molde, liofilização e embalagem.
+PH2202050780-U 2021
+Amora liofilizada As etapas são seleção, limpeza, desinfecção, lavagem com água,
+congelamento e liofilização. A liofilização possui rendimento de 86 a 97% e
+reduz o teor da água para 3 a 5%, preservando mais de 92% do teor das
+antocianinas, compostos bioativos da fruta. As amoras liofilizadas podem ser
+comercializadas sozinhas ou em bebidas.
+CN115176840-A 2022
+74
+Jabuticaba liofilizada A fabricação ocorre com a seleção, limpeza, desinfecção, remoção da casca,
+lavagem com água, congelamento e liofilização, até alcançar um teor de
+umidade inferior a 5%. O documento reivindica a formulação da fruta
+liofilizada, pois in natura é extremamente sensível. Relata ainda que o
+processo de conservação facilita o transporte e aumenta a vida comercial, que
+passa a ser de no mínimo dois anos.
+WO2022150890-
+A1
+2022
+Ameixa liofilizada O método apresenta boa eficiência, preserva o sabor da fruta e retém de forma
+significativa a vitamina C. Ainda, o documento descreve que o produto agrega
+praticidade no consumo da fruta.
+CN112544691-A;
+CN214802060-U
+2021
+Figo liofilizado O documento patentário traz como grande vantagem do produto o aumento da
+vida comercial da fruta, pois evita a deterioração microbiana. Bem como,
+torna mais conveniente o transporte e armazenamento do produto.
+CN113080246-A 2021
+Tangerina liofilizada O documento descreve a produção de tangerinas em formato de folha,
+preservando os compostos responsáveis pelo odor e garantindo a vida
+comercial estendida, a embalagem a vácuo aumenta ainda mais o prazo de
+validade.
+CN112869072-A 2021
+Lichia e durian
+liofilizados
+O documento relata que a liofilização preserva o perfil nutritivo das frutas e os
+compostos responsáveis pelo sabor e odor das frutas.
+CN113207950-A 2021
+Mespilus germanica
+em pó
+A principal reivindicação do documento é que o pó pode ser utilizado como
+alimento funcional devido às propriedades antioxidante, antienvelhecimento e
+antitumoral. Ainda, a liofilização preserva de forma satisfatória o teor de
+nutrientes da fruta.
+CN114468248-A 2022
+Eugenia stipitata em
+pó
+As etapas reladas pelo documento são a adição de maltodextrina, liofilização e
+obtenção do pó. Esse produto pode ser consumido sozinho ou em bebidas, tais
+como: iogurte e bebidas lácteas.
+BR102021011552-
+A2
+2023
+Formulação natural de
+frutas em pó
+A mistura inclui amora, mirtilo e waxberry. O documento reivindica que o
+produto tem alto teor nutritivo, propriedades funcionais, boa reidratação e cor
+atraente. Ainda, o documento patentários descreve que o produto é fácil de
+armazenar e possui diversas aplicações na indústria de alimentos.
+CN113180215-A 2021
+Iogurte com pó de
+jabuticaba liofilizado
+O documento reivindica a produção para a obtenção da jabuticaba em pó, a
+partir da casca e polpa, fermentação e produção do iogurte, quebra de
+coágulos, mistura do extrato com o iogurte e embalagem. A principal
+vantagem relatada pelo documento é o perfil nutritivo e sensorial agregado ao
+iogurte com a inserção da fruta, considera-se ainda o grande potencial
+comercial.
+BR102020016457-
+A2
+2022
+Farinha de
+subprodutos de fruta
+tropical
+O documento relata que as etapas de fabricação são processamento,
+congelamento, liofilização a -55ºC, por aproximadamente, 12 a 14 horas,
+esmagamento, peneiramento a 0,25mm e armazenamento em potes herméticos
+à temperatura ambiente. O documento reivindica a aplicação da farinha para
+alimentos funcionais, suplementos alimentares e rações animais. Ainda, a
+farinha de subprodutos estimula o crescimento seletivo de bactérias benéficas
+para a microbiota intestinal, proporcionando benefícios para a saúde.
+BR102019023035-
+A2
+2021
+Sachê com pó das
+frutas weber e pitaya
+O documento reivindica a produção com viés de benefício terapêutico para
+doenças do sistema nervoso, principalmente a ansiedade, com alegação
+funcional para prevenção de doenças como câncer, cardiovasculares, diabetes
+e distúrbios ansiolíticos. O sachê pode ser consumido isolado ou com outros
+alimentos em doses de 0,1; 0,5 ou 1,0mg/ml.
+BR102020004834-
+A2
+2021
+Composição probiótica
+de frutas
+As etapas de fabricação são mistura do probiótico com frutas, congelamento,
+esmagamento da mistura congelada e liofilização das partículas. Ainda, o
+documento relata a facilidade de armazenamento, a boa extensão da vida
+comercial e que não há alterações sensoriais (sabor e odor) devido à adição
+das bactérias probióticas.
+DE102020124073-
+A1; EP3970512-A1
+2022
+Composição
+nutracêutica liofilizada
+Formada pela mistura de purê de frutas e legumes (10% p/p), óleo comestível
+(5% p/p) e composto exógeno (0,05% p/p), possuindo como principal objetivo
+derreter na boca. O documento reivindica a utilização do produto alimentício
+por indivíduos submetidos a cirurgia bariátrica. Ainda, o produto, pronto para
+consumo, possui somente ingredientes naturais, isenção de conservantes e
+boas características sensoriais, estimulando o consumo, quando prescrito.
+WO2022168086-
+A1
+2022
+Quiabo em pó A fabricação ocorre por 72 horas em liofilizador com circulação de ar forçado
+em temperaturas de 50 a 80ºC, até obtenção do pó. O documento patentário
+BR102018068374-
+A2
+2020
+75
+reivindica como aplicação a substituição da pectina comercial e utilização no
+tratamento de problemas de pele, queimaduras, alergias, hidratação cosmética
+e crescimento capilar.
+Composição com
+pitaya liofilizada
+A formulação reivindicada pelo documento patentário é de 2100g da fruta
+para 210g da maltodextrina.
+PH2202050784-U 2021
+Método de preparação
+de grânulos
+As etapas englobam seleção, lavagem, remoção de partes indesejadas, corte,
+cozimento, secagem, imersão em solução aquosa de hipoclorito de sódio a 150
+ppm ou menos, esterilização comercial, esmagamento, congelamento rápido e
+liofilização. De acordo com o documento, o método é útil para a preparação
+de vegetais de raiz, vegetais e grânulos de fruta com excelente sabor, gosto,
+aroma e qualidade.
+JP2021126115-A 2021
+Liofilização
+combinada com
+separação por
+membranas para
+formulação em pó
+O documento patentário descreve a combinação da liofilização com a
+tecnologia de separação por membranas, compreendendo sistemas de pré -
+processamento, pré-filtração, ultrafiltração, concentração e desidratação de
+película para produtos com formulação em pó. Dessa forma, reduziu de forma
+significativa o custo de processamento e o tamanho da área de produção.
+CN213604236-U 2021
+Fonte: Derwent, 2023
+76
+APÊNDICE B – Documentos patentários brasileiros
+Título Resumo Nº do documento Ano
+Eugenia stipitata em
+pó
+As etapas englobam a adição de maltodextrina, liofilização e obtenção do
+pó. Esse produto pode ser consumido sozinho ou em bebidas, tais como:
+iogurte e bebidas lácteas.
+BR102021011552-
+A2
+2023
+Polpa de frutas do
+cerrado
+As etapas englobam a seleção, lavagem, higienização, despolpamento,
+congelamento, liofilização, maceração, peneiramento e embalagem. A
+aplicação principal é o preparo de extratos aquosos com propriedades
+antioxidantes e substâncias bioativas. Dessa forma, as frutas do cerrado
+podem estar na composição de suplementos, alimentos funcionais,
+compostos nutracêuticos e fitoterapêuticos. O documento traz como
+principal vantagem à estabilidade físico-química e microbiológica.
+BR102019023140-
+A2
+2021
+Iogurte com pó de
+jabuticaba liofilizado
+O documento reivindica a produção para a obtenção da jabuticaba em pó,
+a partir da casca e polpa, fermentação e produção do iogurte, quebra de
+coágulos, mistura do extrato com o iogurte e embalagem. A principal
+vantagem relatada pelo documento é o perfil nutritivo e sensorial
+agregado ao iogurte com a inserção da fruta, considera-se ainda o grande
+potencial comercial.
+BR102020016457-
+A2
+2022
+Farinha de
+subprodutos de fruta
+tropical
+O documento relata que as etapas de fabricação são processamento,
+congelamento, liofilização a -55ºC, por aproximadamente, 12 a 14 horas,
+esmagamento, peneiramento a 0,25mm e armazenamento em potes
+herméticos à temperatura ambiente. O documento reivindica a aplicação
+da farinha para alimentos funcionais, suplementos alimentares e rações
+animais. Ainda, a farinha de subprodutos estimula o crescimento seletivo
+de bactérias benéficas para a microbiota intestinal, proporcionando
+benefícios para a saúde.
+BR102019023035-
+A2
+2021
+Sachê com pó das
+frutas weber e pitaya
+O documento reivindica a produção com viés de benefício terapêutico
+para doenças do sistema nervoso, principalmente a ansiedade, com
+alegação funcional para prevenção de doenças como câncer,
+cardiovasculares, diabetes e distúrbios ansiolíticos. O sachê pode ser
+consumido isolado ou com outros alimentos em doses de 0,1; 0,5 ou
+1,0mg/ml.
+BR102020004834-
+A2
+2021
+Quiabo em pó A fabricação ocorre por 72 horas em liofilizador com circulação de ar
+forçado em temperaturas de 50 a 80ºC, até obtenção do pó. O documento
+patentário reivindica como aplicação a substituição da pectina comercial
+e utilização no tratamento de problemas de pele, queimaduras, alergias,
+hidratação cosmética e crescimento capilar.
+BR102018068374-
+A2
+2020
+Manga em pó O documento relata que o produto é formado apenas por componentes
+naturais, servindo como ingrediente industrial para alimentos com
+alegação funcional. Ainda, traz como principal vantagem a vida
+comercial prolongada com a preservação das características nutricionais.
+BR102017023765-
+A2
+2019
+Mangaba em pó O documento reivindica o preparo, adicionado de até 20% da
+maltodextrina, com as etapas de seleção, lavagem, higienização, enxague
+com água, despolpamento e liofilização, que ocorre em -50ºC, sob vácuo,
+por aproximadamente 96 horas. O produto serve como ingrediente para
+produtos alimentícios e bebidas.
+BR102017023765-
+A2
+2018
+Umbu em pó A produção engloba a criodesidratação de umbu em liofilizador por 97
+horas, sob vácuo, em -50 a -3ºC.
+BR102016027711-
+A2
+2018
+Fonte: Derwent, 2023

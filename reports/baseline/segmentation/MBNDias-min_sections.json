@@ -1,0 +1,111 @@
+{
+  "available_sections": [],
+  "missing_sections": [
+    "introduction",
+    "results",
+    "conclusion"
+  ],
+  "sections": {},
+  "available_doco_labels": [
+    "doco:Discussion",
+    "doco:Results"
+  ],
+  "missing_doco_labels": [
+    "doco:Introduction",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Discussion": [
+      {
+        "header": "2.7.2. Análise comparativa entre a Lei Anticorrupção, o Foreign Corrupt Practice Act",
+        "legacy_role": "results",
+        "start_char": 171,
+        "end_char": 174,
+        "content": "e o UK Bribery Act ....................................................................................................... 54 2.8. A Cooperação Jurídica Internacional Anticorrupção na legislação brasileira ............. 55",
+        "content_length": 222
+      },
+      {
+        "header": "1.1. Análise conceitual da Corrupção",
+        "legacy_role": "results",
+        "start_char": 261,
+        "end_char": 282,
+        "content": "A corrupção é um conceito dinâmico e, historicamente, sua percepção como um paradigma internacional a ser combatido é recente. Por isso, nesta seção, será destacada a multiplicidade de concepções acerca do conceito, bem como um breve histórico relacionado às iniciativas de combate à corrupção na agenda internacional. Segundo o World Bank, corrupção “is the offering, giving, receiving or soliciting, directly or indirectly, of anything of value to influence improperly the actions of another party\" 4 . Conforme o entendimento do órgão de Transparência Internacional, está relacionado ao “the abuse of entrusted power for private gain”, destacando o aspecto privado em relação aos ganhos decorrentes dos atos corruptos. Por sua vez, Antonio Argadoña destaca que a corrupção tem como dano o uso de recursos de modo ineficiente, com maiores custos e preços, menor produção, deterioração na qualidade, entre outros. De acordo com sua análise, a corrupção é evidenciada diante da presença dos seguintes elementos e condutas: (i) um agente (funcionário público, político, gestor ou empregador) que possui poder ou influência no exercício de uma função pública ou privada, tarefa ou responsabilidade a serviço de uma companhia, de órgão público ou instituição; (ii) como consequência, o agente é autorizado a tomar determinadas decisões; (iii) o agente possui certos deveres associados a sua posição ou função na companhia ou instituição; (iv) incorretamente, o agente exercita ou tenta exercer seu poder e influência; (v) consequentemente, um benefício privado resultante da performance do agente pelo ato corrupto, ou para outra pessoa, entidade ou organização, partido político, entre outros. O ato",
+        "content_length": 1697
+      },
+      {
+        "header": "2.7.2. Análise comparativa entre a Lei Anticorrupção, o Foreign Corrupt Practice Act e",
+        "legacy_role": "results",
+        "start_char": 1625,
+        "end_char": 1632,
+        "content": "o UK Bribery Act Pode-se destacar três diferenças marcantes entre a Lei Anticorrupção brasileira e o FPCA: (i) o Foreign Corrupt Act estabelece o regime de responsabilização subjetiva, cujo requisito é a culpabilidade, enquanto a Lei brasileira determina a responsabilização objetiva das entidades, (ii) a Lei Anticorrupção é aplicável aos atos praticados de suborno aos funcionários públicos nacionais e os estrangeiros, diferentemente da FCPA. De acordo com",
+        "content_length": 459
+      }
+    ],
+    "doco:Results": [
+      {
+        "header": "3. OPERAÇÃO LAVA-JATO: ESTUDO DE CASO DA APLICAÇÃO DO REGIME",
+        "legacy_role": "results",
+        "start_char": 174,
+        "end_char": 210,
+        "content": "INTERNACIONAL ANTICORRUPÇÃO NO BRASIL .................................................... 59 3.1. Contexto da Operação Lava Jato e o caso Odebrecht .................................................. 59 3.2. Os acordos de leniência firmados coordenados entre Odebrecht, Brasil Estados Unidos e Suíça .................................................................................................................... 60 3.3. A (des)articulação institucional das autoridades brasileiras ........................................ 62 3.4. A cooperação jurídica internacional durante as investigações ..................................... 64 3.5. A cooperação jurídica internacional na realização dos acordos de leniência .............. 70 3.6. A necessária coordenação entre as autoridades domésticas e internacionais .............. 72 CONSIDERAÇÕES FINAIS ................................................................................................. 74 13 INTRODUÇÃO O objetivo deste trabalho é, a partir da análise da governança global e do desenvolvimento do regime jurídico internacional anticorrupção, realizar o estudo do caso Odebrecht, emblemático durante a Operação Lava Jato, sob a perspectiva dos arranjos institucionais nacionais para a realização das investigações, bem como quanto à cooperação internacional entre jurisdições diversas para a realização de investigações e para a celebração de acordos de leniência. Justifica-se tal abordagem em decorrência da (i) multi-institucionalidade na negociação e na realização das investigações, em decorrência do modelo de accountability horizontal adotado pelo ordenamento jurídico brasileiro, que envolve órgãos diversos e instituições, sugerindo desarranjo 1 e da (ii) ampliação do regime internacional anticorrupção, pois, uma vez ratificada a Convenção da OCDE, diversos países passaram a incorporar disposições nesse sentido em seus ordenamentos jurídicos nacionais. Dessa forma, o sistema se torna cada vez mais complexo, uma vez que as mesmas condutas praticadas por uma TNC, poderão envolver inúmeros países, em maior ou em menor grau, e por tipificar o ilícito em sua legislação interna, poderão iniciar investigações e acordos concorrentemente, iniciando um processo de persecução infindável, prejudicando a segurança jurídica, fundamental para a manutenção da atratividade na realização de auto-denúncias e de acordos. 2 Para o desenvolvimento desta discussão, na primeira parte do trabalho, é realizado um panorama relacionado à governança global anticorrupção, apresentando a análise conceitual da corrupção para fins deste trabalho, bem como seus efeitos nefastos à economia doméstica e internacional, justificando a importância desta temática na agenda mundial. Nesse sentido, é evidenciado o histórico da formação do regime internacional anticorrupção, destacando as etapas fundamentais para a compreensão do combate à corrupção enquanto paradigma para a regulação do mercado e das trocas comerciais.",
+        "content_length": 2974
+      },
+      {
+        "header": "2.3. Organização para a Cooperação e Desenvolvimento Econômico (OCDE)",
+        "legacy_role": "results",
+        "start_char": 967,
+        "end_char": 969,
+        "content": "A Organização para a Cooperação e Desenvolvimento Econômico foi estabelecida em",
+        "content_length": 79
+      },
+      {
+        "header": "1960 com a finalidade de auxiliar, após a segunda guerra mundial, na implementação do",
+        "legacy_role": "results",
+        "start_char": 969,
+        "end_char": 971,
+        "content": "Programa Europeu de Recuperação, conhecido como Plano Marshall. 71 A OCDE é composta",
+        "content_length": 84
+      },
+      {
+        "header": "2.7.1. (Des)arranjos institucionais na aplicação da Lei Anticorrupção",
+        "legacy_role": "results",
+        "start_char": 1522,
+        "end_char": 1531,
+        "content": "De acordo com a Lei Anticorrupção, a autoridade máxima de cada órgão ou entidade pública poderá celebrar acordo de leniência com as pessoas jurídicas responsáveis pela prática dos atos ilícitos 119 . Enquanto isso, o CGU é o órgão competente para celebrar os acordos de leniência no âmbito do Poder Executivo federal, bem como no caso de atos lesivos praticados contra a administração pública estrangeira (art. 16, § 10 da Lei n° 12.846/2013). Partindo desses pressupostos, diferentemente do que ocorre com os Estados Unidos, em que as autoridades competentes para a firmação dos acordos de leniência são concentradas no SEJ e no DoJ, de forma não concorrente, a possibilidade de aplicar sanções é compartilhada entre",
+        "content_length": 717
+      },
+      {
+        "header": "135 MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA. Manual de Cooperação Jurídica Internacional em",
+        "legacy_role": "results",
+        "start_char": 1751,
+        "end_char": 1756,
+        "content": "matéria penal e recuperação de ativos.ed. 2019. Disponível em: < https://www.gov.br/mj/pt-br/assuntos/sua-protecao/lavagem-de-dinheiro/drci/publicacoes/manuais/cooperacao-j uridica-internacional-em-materia-penal/manual-penal-online-final-2.pdf > Acesso em: 29 de outubro de 2023. p. 30.",
+        "content_length": 286
+      },
+      {
+        "header": "136 MINISTÉRIO DA JUSTIÇA. Manual de Cooperação Jurídica Internacional em matéria Civil. ed. 2014.",
+        "legacy_role": "results",
+        "start_char": 1790,
+        "end_char": 1795,
+        "content": "Disponível em: < https://www.mpf.mp.br/atuacao-tematica/sci/pedido-de-cooperacao-1/manuais-de-atuacao-1/manual-de-atuacao -drci-materia-civil >. Acesso em: 29 de outubro de 2023. 59",
+        "content_length": 181
+      },
+      {
+        "header": "3. OPERAÇÃO LAVA-JATO: ESTUDO DE CASO DA APLICAÇÃO DO REGIME",
+        "legacy_role": "results",
+        "start_char": 1795,
+        "end_char": 1817,
+        "content": "INTERNACIONAL ANTICORRUPÇÃO NO BRASIL Com a finalidade de analisar a implementação do regime internacional anticorrupção, em especial, as dinâmicas relacionadas aos arranjos institucionais das autoridades brasileiras, bem como a coordenação e a cooperação entre as autoridades nacionais e internacionais para a realização de investigações e de acordos de leniência, será analisado o caso emblemático da Odebrecht, iniciado no contexto da Operação Lava Jato. Com esse objetivo, inicialmente, será introduzido o contexto da Operação e sua relação com as investigações da Odebrecht, já considerada como a maior construtora da América Latina 138 . Posteriormente será examinado o aspecto institucional na conjuntura nacional, para que, em seguida, a ênfase seja atribuída à perspectiva internacional, abordando a coordenação e a cooperação entre autoridades internacionais diversas envolvidas, tanto no âmbito das investigações quanto na realização de acordos, por ilustrar a necessidade de aprimoramento em ambas as instâncias 139 140 . 3.1. Contexto da Operação Lava Jato e o caso Odebrecht A Lava Jato representou uma operação judicial em larga escala, cujos principais atores foram a Petrobras - Petróleo Brasileiro S/A e a Odebrecht S/A, entre outras outras grandes empreiteiras. Destaca-se que a operação foi liderada pelo juiz à época Sergio Moro, com enorme repercussão e espetacularização midiática. Nesse sentido, compreende-se a importância de analisar este fenômeno sob o ponto de vista político e econômico, tendo em vista a desarticulação de companhias relevantes e o seu consequente impacto econômico social. No entanto, o objetivo deste trabalho será analisar, sob o ponto de vista jurídico, com",
+        "content_length": 1707
+      },
+      {
+        "header": "143 MINISTÉRIO PÚBLICO FEDERAL. Resultados do Caso Lava Jato, Disponível em:",
+        "legacy_role": "results",
+        "start_char": 1858,
+        "end_char": 1860,
+        "content": "< https://www.mpf.mp.br/grandes-casos/lava-jato/resultados >. Acesso em: 29 de outubro de 2023.",
+        "content_length": 95
+      }
+    ]
+  }
+}

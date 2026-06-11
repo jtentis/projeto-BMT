@@ -1,0 +1,122 @@
+{
+  "available_sections": [
+    "conclusion",
+    "introduction",
+    "results"
+  ],
+  "missing_sections": [],
+  "sections": {
+    "introduction": {
+      "header": "1. INTRODUÇÃO……………………………………………………………………….8",
+      "start_char": 58,
+      "end_char": 59,
+      "content": "",
+      "content_length": 0
+    },
+    "results": {
+      "header": "4. ANÁLISE DAS EMOÇÕES DE AQUILES E PÁTROCLO……………….………22",
+      "start_char": 66,
+      "end_char": 71,
+      "content": "4.1 A primeira cólera de Aquiles.………………………………………………………..23 4.2 A piedade de Pátroclo…………………………………………………………….….26 4.3 A segunda cólera de Aquiles……………………………………………………..…..29 4.4 A piedade de Aquiles………………………………………………………………...30",
+      "content_length": 225
+    },
+    "conclusion": {
+      "header": "5. CONCLUSÃO",
+      "start_char": 911,
+      "end_char": 929,
+      "content": "Comoa propostadotrabalhoéanalisareinvestigarapenasduasemoçõesprincipais na Ilíada, comofoio casoda cólerae da compaixão(μῆνις,ἔλεοςe seusrespectivos sinônimose cognatos),nosatentamosexclusivamenteeexaustivamenteapenasnessasduas emoções,aindaquedentrodo campodasemoçõesde Aquilese Pátroclopoderíamos discorrer sobre outras emoções baseadas naRetóricade Aristóteles. Outropontoimportanteé ressaltaraescolhadetraduçãoutilizadaparaaelaboração do trabalho.A traduçãode CarlosAlbertoNunesparaessaanálisese mostroupouco produtiva,porcontadoseumétododetraduçãoescolhido.Algumaspalavrasimportantesem línguagreganãoforamtraduzidasparao portuguêsemalgunsversos,o quedificultaa análisedessesvocábulosemgregoe,consequentemente,aidentificaçãodessasemoçõesno poema.13 Contudo,conseguimosmostrarbrevementecomoum poemaque é marcado predominantementepelacólera,tambémpodeter momentossignificativosde piedade. Quandofalamosempiedade,nãopodemosesquecerdePátroclo.Pátroclo“queseinserena categoriadaquiloqueénecessárioemAristóteles,acondiçãosinequanon–poissemelenão sedácontinuidadeàsperipéciase aoenredodaépicahomérica”(VIEGAS,2012,p.3)e, 13Como se pode notar na tabela 1, 2 e 3.",
+      "content_length": 1158
+    }
+  },
+  "available_doco_labels": [
+    "doco:Conclusion",
+    "doco:Discussion",
+    "doco:Introduction",
+    "doco:Methods"
+  ],
+  "missing_doco_labels": [
+    "doco:Results"
+  ],
+  "doco_sections": {
+    "doco:Introduction": [
+      {
+        "header": "1. INTRODUÇÃO……………………………………………………………………….8",
+        "legacy_role": "introduction",
+        "start_char": 58,
+        "end_char": 59,
+        "content": "",
+        "content_length": 0
+      },
+      {
+        "header": "1. INTRODUÇÃO",
+        "legacy_role": "introduction",
+        "start_char": 95,
+        "end_char": 122,
+        "content": "O presentetrabalhotemcomoobjetivoinvestigarduasdasemoçõespresentesna IlíadadeHomero:a cólera(μῆνις),a piedade(ἔλεος)incluindocognatose sinônimosdos vocábuloscitados,identificadosaolongodaleituratantoemlínguagregaquantoemlíngua portuguesa. Emumprimeiromomento,buscamoslistaras opçõesde CarlosAlbertoNunes (2015),noquedizrespeitoà suatraduçãodeμῆνιςe ἔλεοςe seuscognatose sinônimos, atravésdetabelasquecontamcomtodasasocorrênciasdosvocábulosselecionadosemgrego e as palavras usadas em língua portuguesa para cada ocorrência. Foraescolhidaa traduçãode CarlosAlbertoNunesporcontadasingularidadee grandeatençãovoltadaparasuaobra.SegundoNeto“Ohexâmetrodatílicoportuguêsde CarlosAlbertoNunes,consisteem simular(ou “interpretar”comoele diz)o dátilo substituindo-seasílabalongaporumasílabatônicaeasduassílabasbrevesporduasátonas.” (2014,p.192).Porcontadisso,atraduçãodeCarlosAlbertoNunes(2015)semostrou,em umprimeiromomento,a nossamelhoropçãoparao estudo.Contudo,o trabalhoaqui apresentadonãosepreocupanecessariamenteemtratarextensivamentesobreoseumétodo de traduçãoe simapresentarquaisforamsuasopçõesparaa traduçãodosvocábulos pertinentes à nossa pesquisa. Porfim,paradiscorrersobreasemoçõescitadas,escolhemoscomobaseteóricaa Retórica, deAristóteles.Umdosprincipaismotivospararecorrera Aristótelesé que“se1 observamosascitaçõesconstantesdasobrasdeAristóteles,emparticulardaRetóricaeda Poética, ficaclaro,noqueconcerneàquantidade,queasepopeiashoméricas,emespeciala Ilíada, sãoasobrasmaiscitadasdeumúnicoautor”(GUGGENBERGER,2013,p.360). Alémdisso,a Ilíadae sobretudoAquilessãocitadoscomoumdosprincipaisexemplosno quedizrespeitoàcólera,quandoAristótelesdiscorresobreaemoçãoemquestão.Apiedade tambémé alvodeestudodeAristótelesnaRetórica, dessaforma,a partirdeAristóteles, conseguimos discorrer sobre a cólera e a piedade presentes naIlíada.",
+        "content_length": 1828
+      }
+    ],
+    "doco:Methods": [
+      {
+        "header": "2. METODOLOGIA……………………………………………………………………..9",
+        "legacy_role": null,
+        "start_char": 59,
+        "end_char": 66,
+        "content": "2.1 A biblioteca digitalPerseus………………………………………………...………..10 3. CORPUS……………………………………………………………………………...12 3.1 Ocorrências de μῆνις, χόλος e χολόω………………………………………………...12 3.2 Ocorrências de ἔλεος, νηλής, ἐλεαίρω, ἐλεέω, ἐλεάω, οἰκτείρω e ἐλεεινός………....16 3.3 Considerações iniciais………………………………………………………………..20 3.4 Sobre a tradução de μῆνις e ἔλεος na análise………………………………………...21",
+        "content_length": 375
+      },
+      {
+        "header": "2. METODOLOGIA",
+        "legacy_role": null,
+        "start_char": 130,
+        "end_char": 159,
+        "content": "OtrabalhoteveiníciocomaidentificaçãodasprincipaisemoçõespresentesnaIlíada e quaisas principaispersonagensqueas experimentam.Quandochegamosprimeiroem Aquilese Pátroclo,a partirdacólerae dapiedade,buscamosbibliografiabásicaparaque pudéssemosbasearnossasafirmativassobreessasemoçõespresentesnanarrativa.Chegamos entãoa Aristóteles,quediscorrenasuaRetóricasobrediversasemoções,entreelasasque escolhemos como objeto de nossa pesquisa. Porém,duranteo processode análise,percebemosa necessidadedesefazerum levantamentoapartirdeμῆνιςeἔλεος,afimdecompreendermelhorocontextodosreferidos vocábulosemgregoe,consequentemente,compreendermelhorasnuancesdesignificadoque permeiamosdoistermosemlínguagrega.AoconsultarpassagensespecíficasdaIlíadaem línguagrega,emummovimentoemconjuntocoma traduçãodeCarlosAlbertoNunes (2015)duranteaanálisedopoema,encontramossinônimosecognatosdosvocábuloscitados, equesemostraramdeextremarelevânciaparaaanálisedasemoções.Adescobertadenovos vocábulosdentrodo mesmocamposemânticoqueμῆνιςe ἔλεοςcontribuíramparauma análise mais aprimorada a partir dos seus usos. É importanteressaltarque,quandoapontamosdeterminadosvocábuloscomo sinônimosnessetrabalho,nãofalamossobreconcordânciassemânticasabsolutas,masde umapertinênciarelativaaummesmocamposemântico.Dentrodossinônimosencontrados, porexemplo,temosnãosomentesubstantivosmastambémverbos.Apartirdisso,chegamos aosseguintesvocábulos:χόλοςe χολόω,sinônimosdeμῆνις;jáparaἔλεοςtemosἐλεαίρω, ἐλεέω,ἐλεάω,ἐλεεινόςe νηλής,quesãocognatos,sendoνηλήςum“cognatonegativo”e2 οἰκτείρω, sinônimo de ἔλεος. Apósessetrabalhoinicial,elaboramosnovetabelascomlevantamentosexaustivose sistemáticosdasrespectivaspalavrasgregase,emsegundoplano,dasportuguesas,objetosda nossapesquisa,paraentenderasnuancesquepercorrem,dentrodomesmocamposemântico, cadavocábuloestudado,a fimde,entreoutros,melhorcompreenderquaisforamasopções na tradução escolhida. Tendoissodito,pautamosainvestigaçãoemdoisprincipaismétodos.Oprimeirode",
+        "content_length": 1953
+      }
+    ],
+    "doco:Discussion": [
+      {
+        "header": "4. ANÁLISE DAS EMOÇÕES DE AQUILES E PÁTROCLO……………….………22",
+        "legacy_role": "results",
+        "start_char": 66,
+        "end_char": 71,
+        "content": "4.1 A primeira cólera de Aquiles.………………………………………………………..23 4.2 A piedade de Pátroclo…………………………………………………………….….26 4.3 A segunda cólera de Aquiles……………………………………………………..…..29 4.4 A piedade de Aquiles………………………………………………………………...30",
+        "content_length": 225
+      },
+      {
+        "header": "3.4 Sobre a tradução de μῆνις e ἔλεος na análise",
+        "legacy_role": "results",
+        "start_char": 485,
+        "end_char": 530,
+        "content": "Comoépossívelvisualizarnastabelasapresentadas,háumasignificativavariaçãode traduçãode umvocábuloparao outro.O queé extremamenteplausível,levandoem consideraçãoprincipalmenteo métodode traduçãoescolhidoporCarlosAlbertoNunes (2015)easopçõesdisponíveisemlínguaportuguesaparatraduzirumamesmapalavragrega. SeusamoscomoexemploapenasocantoXXIV, temosἐλεήσειtraduzidoporCarlosAlberto Nunes (2015) como compaixão, e ἐλεήσῃ traduzido como piedade. Noexemploapresentado,ambasaspalavrassãocognatasdeἔλεος.ἔλεος,porsua vez, assim como suas palavras cognatas, podem ser traduzidas como piedade e compaixão. Piedade também pode ser empregada no sentido religioso (eusebeía) de comprometimentopara comas obrigações devidas aosdeusesassimcomo,etalvez em consequência deste uso religioso, pode induzir umolhar de assimetria, onde aquele que sente éleospodeservistonumasituaçãosuperioràquelequesuscitaesta emoção, o que me parece não dar conta dos casos nos quais quemsente e quem suscita éleos são semelhantes (homoíoi), o que me parece ser o caso, já que esta assimetria só é real quando quem sente éleos é uma divindade, pois entre os homens, tal assimetria é sempre ilusória. (MANTOVANELI, 2018, p. 82) Poroutrolado,a “compaixãoé umatraduçãoigualmenteproblemática,agorapor aproximardemaisaquelequesentedaquelequeéobjetodeéleos.”(MANTOVANELI,2018, p.82)Tendoissoposto,ficaevidentearelutânciadoautoredanossaprópriarelutânciaem escolherumapalavraequivalentesejaparaἔλεος,sejaparaμῆνις,quandopassamosparaa etapadeanálisedasemoçõesutilizandoa RetóricadeAristóteles,umavezquenaedição escolhida daRetóricaem língua portuguesa, encontramosἔλεος traduzida como compaixão. 21 Pararesolveroimpassedetraduçãoapresentadoentrenossasbasesteóricas,optamos porsinalizar, semprequepossível,qualapalavraescolhidaoriginalmenteemgrego,tantona IlíadaquantonaRetórica. Durantea argumentação,optamosporescolhera piedadenão comoumapalavraúnicaousingularparaa traduçãodeἔλεος,massimcomoformade uniformizarasocorrênciasdepiedadeecompaixãonasduasobrasdistintas,emnossaprópria argumentação.É claro,poderíamosoptarporutilizarapenasἔλεος,semprocurarnenhuma palavracorrespondenteemlínguaportuguesa,porém,nãoseriadetodocoerentelevandoem consideraçãoalgumasescolhasde traduçãode CarlosAlbertoNunes,umavezque trabalhamostambémcomossinônimose cognatosdeἔλεος,quenãonecessariamentesão traduzidoscomocompaixãoe/oupiedade. Porém,duranteaanálisedatabeladepalavrase4 duranteo processodeargumentação,percebemosqueessessinônimosecognatospresentes empassagensespecíficasutilizadasparaaargumentaçãosãotraduzidasemsuamaioriapor piedade,oquejustificariaaopçãopelapalavraemquestão.Comisso,quandonãosetratade citaçõesdaRetórica, ondeo tradutordaediçãoutilizadaoptapelousodecompaixãocomo traduçãoparaἔλεος,utilizaremospiedadecomopossíveltradução,a fimdeuniformizara escolha de tradução de Edson Bini e Carlos Alberto Nunes. Paraμῆνις,poucoprecisamosadaptar. Emboraμῆνιςe seuscognatose sinônimos tambémapresentemvariaçõesnatraduçãodeCarlosAlbertoNunes,a ediçãoutilizadada Retóricaescolheportraduzirὀργήcomocólera, assimcomoaspassagensespecíficasda5 Ilíadautilizadasna argumentaçãotambémsãotraduzidasporcólera,o queporsi sójá justifica a uniformização.",
+        "content_length": 3185
+      },
+      {
+        "header": "4. ANÁLISE DAS EMOÇÕES DE AQUILES E PÁTROCLO",
+        "legacy_role": "results",
+        "start_char": 530,
+        "end_char": 536,
+        "content": "Comoforaapontadonaintroduçãodestetrabalho,nosvoltamosespecificamentepara asduasprincipaisemoçõesdeAquilesePátroclo,usandocomobaseateoriaaristotélicadas emoções, presente no segundo livro daRetóricadeAristóteles. Aanáliseé feitadeformacronológica,portanto,apresentoasemoçõesdeAquilese Pátrocloconformeaparecemno poema.Temos,então,emordem:a primeiracólerade",
+        "content_length": 355
+      }
+    ],
+    "doco:Conclusion": [
+      {
+        "header": "5. CONCLUSÃO……………………………………………………………………….34",
+        "legacy_role": "conclusion",
+        "start_char": 71,
+        "end_char": 72,
+        "content": "",
+        "content_length": 0
+      },
+      {
+        "header": "5. CONCLUSÃO",
+        "legacy_role": "conclusion",
+        "start_char": 911,
+        "end_char": 929,
+        "content": "Comoa propostadotrabalhoéanalisareinvestigarapenasduasemoçõesprincipais na Ilíada, comofoio casoda cólerae da compaixão(μῆνις,ἔλεοςe seusrespectivos sinônimose cognatos),nosatentamosexclusivamenteeexaustivamenteapenasnessasduas emoções,aindaquedentrodo campodasemoçõesde Aquilese Pátroclopoderíamos discorrer sobre outras emoções baseadas naRetóricade Aristóteles. Outropontoimportanteé ressaltaraescolhadetraduçãoutilizadaparaaelaboração do trabalho.A traduçãode CarlosAlbertoNunesparaessaanálisese mostroupouco produtiva,porcontadoseumétododetraduçãoescolhido.Algumaspalavrasimportantesem línguagreganãoforamtraduzidasparao portuguêsemalgunsversos,o quedificultaa análisedessesvocábulosemgregoe,consequentemente,aidentificaçãodessasemoçõesno poema.13 Contudo,conseguimosmostrarbrevementecomoum poemaque é marcado predominantementepelacólera,tambémpodeter momentossignificativosde piedade. Quandofalamosempiedade,nãopodemosesquecerdePátroclo.Pátroclo“queseinserena categoriadaquiloqueénecessárioemAristóteles,acondiçãosinequanon–poissemelenão sedácontinuidadeàsperipéciase aoenredodaépicahomérica”(VIEGAS,2012,p.3)e, 13Como se pode notar na tabela 1, 2 e 3.",
+        "content_length": 1158
+      }
+    ]
+  }
+}

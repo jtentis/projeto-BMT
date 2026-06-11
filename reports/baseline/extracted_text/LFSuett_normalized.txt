@@ -1,0 +1,1912 @@
+UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+CENTRO DE CIÊNCIAS JURÍDICAS E ECONÔMICAS
+FACULDADE NACIONAL DE DIREITO
+ATIVISMO OU ALTIVEZ JUDICIAL: ANÁLISE POSTURAL DO SUPREMO
+TRIBUNAL FEDERAL
+LEONARDO FERREIRA SUETT
+RIO DE JANEIRO
+2018 / 1º Semestre
+LEONARDO FERREIRA SUETT
+ATIVISMO OU ALTIVEZ JUDICIAL: ANÁLISE POSTURAL DO SUPREMO
+TRIBUNAL FEDERAL
+Monografia de final de curso, elaborada no
+âmbito da graduação em Direito da
+Universidade Federal do Rio de Janeiro, como
+pré-requisito para obtenção do grau de
+bacharel em Direito, sob a orientação do
+Professor Dr. Fabiano Soares Gomes
+Rio de Janeiro
+1º Semestre/2018
+LEONARDO FERREIRA SUETT
+ATIVISMO OU ALTIVEZ JUDICIAL: ANÁLISE POSTURAL DO SUPREMO
+TRIBUNAL FEDERAL
+Monografia de final de curso, elaborada no
+âmbito da graduação em Direito da
+Universidade Federal do Rio de Janeiro, como
+pré-requisito para obtenção do grau de
+bacharel em Direito, sob a orientação do
+Professor Dr. Fabiano Soares Gomes
+Data da Aprovação: __/__/____.
+Banca Examinadora:
+_________________________________________
+Orientador Professor Dr. Fabiano Soares Gomes
+______________________________________
+Membro da Banca
+______________________________________
+Membro da Banca
+Rio de Janeiro
+1º Semestre/2018
+Aos meus pais, por
+tudo que fizeram por
+mim.
+À minha esposa,
+Carol, por me amar,
+apoiar e compreender.
+À minha filha, Clarice,
+por ressignificar a
+minha existência.
+RESUMO
+SUETT, Leonardo Ferrerira. Ativismo ou altivez judicial: Análise postural do Supremo
+Tribunal Federal . 2018. 70 páginas. Monografia (Graduação/Bacharelado em Direito) –
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2018.
+Este trabalho objetiva analisar a postura do Supremo Tribunal Federal após a
+redemocratização brasileira de 1988. A monografia empreende uma reflexão sobre a conduta
+da Corte Constitucional face aos problemas enfrentados nos últimos anos. A Constituição
+Federal de 1988 incorporou almplo rol de direitos e garantias fundamentais a serem
+guardados, promovidos e concretizados, inclusive via prestação jurisdicional. Dessarte,
+incumbiu ao STF o mister de dar significado e alcance as normas constitucionais. Contudo, é
+no cumprimento deste poder-dever, que a Suprema Corte pode vir a se posicionar de modo:
+ativista, autocontido ou altivo. Concluímos que o STF tem uma postura altiva e dentro das
+suas competências constitucionais, assim como, não há retrocesso democrático no Brasil, pelo
+contrário, há um avanço institucional, mesmo diante de crises de representatividade pontuais.
+Palavras-Chave: Jurisdição Constitucional, Ativismo Judicial, Supremo Tribunal Federal
+ABSTRACT
+SUETT, Leonardo Ferrerira. Ativismo ou altivez judicial: Análise postural do Supremo
+Tribunal Federal . 2018. 70 páginas. Monografia (Graduação/Bacharelado em Direito) –
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2018.
+This paper aims to analyze the posture of the Federal Supreme Court after the Brazilian
+redemocratization of 1988. The monograph undertakes a reflection on the conduct of the
+Constitutional Court in face of the problems faced in recent years. The Federal Constitution of
+1988 incorporated an ample list of fundamental rights and guarantees to be kept, promoted
+and fulfilled, including via jurisdictional provision. Thus, it was incumbent upon the Supreme
+Court to give meaning and reach constitutional norms. However, it is in the fulfillment of this
+power-duty that the Supreme Court can position itself in an activist, self-contained, haughty.
+We conclude that the STF has a proud attitude and within its constitutional competencies, as
+well as, there is no democratic regression in Brazil, on the contrary, there is an institutional
+advance, even in the face of punctual crises of representativeness.
+Key words: Constitutional Jurisdiction. Federal Supreme Court. Judicial Activism.
+Sumário
+INTRODUÇÃO
+CAPÍTULO 1 - CONSTITUCIONALISMO
+1.1 Linhas Gerais
+1.2 Movimento Constitucional na história
+1.3 Constitucionalismo Antigo
+1.4 Constitucionalismo Medieval
+1.5 Constitucionalismo Moderno
+1.6 Constitucionalismo Contemporâneo
+CAPÍTULO 2 – A CONSTITUCIONALIZAÇÃO DO DIREITO
+2.1 Linhas Gerais
+2.2 A constitucionalização no Direito Brasileiro
+CAPÍTULO 3 – JURISDIÇÃO CONSTITUCIONAL
+3.1 Conceito
+3.2 Ativismo judicial fomentado pelo fenômeno da judicialização do direito
+CAPÍTULO 4 – CONTROLE DE CONSTITUCIONALIDADE
+4.1 Considerações preliminares
+4.2 Manifestações do controle de constitucionalidade
+4.3 Tipos de controle judicial de constitucionalidade
+4.4 Inconstitucionalidade formal e inconstitucionalidade material
+4.5 Inconstitucionalidade por ação e inconstitucionalidade por omissão
+4.6 Surgimento e evolução do controle de constitucionalidade no mundo
+4.7 Do princípio da supremacia do parlamento
+4.8 O caso Marbury v. Madison e a doutrina Marshall
+4.9 Teoria da anulabilidade (sistema austríaco) e teoria da nulidade (sistema norte-americano)
+4.10 Flexibilização da teoria da nulidade no direito brasileiro
+4.11 Brevíssima análise da evolução do controle de constitucionalidade no direito brasileiro
+4.11.1 Constituição de 1824
+4.11.2 Constituição de 1891
+4.11.3 Constituição de 1934
+4.11.4 Constituição de 1937
+4.11.5 Constituição de 1946
+4.11.6 Constituição de 1967 e EC n. 1/69
+4.11.7 Constituição de 1988
+CAPÍTULO 5 – ATIVISMO JUDICIAL
+5.1 Explicando o fenômeno do ativismo judicial
+5.2 Autocontenção judicial
+5.3 A abertura institucional do Supremo Tribunal Federal como superação da polêmica da
+falta de legitimidade popular
+5.4 A sociedade aberta dos intérpretes da Constituição
+5.5 Debatendo o ativismo judicial no Brasil
+5.6 A virada de postura do STF: ontem procedimentalista, hoje substancialista
+CONCLUSÃO
+REFERÊNCIAS BIBLIOGRÁFICAS
+INTRODUÇÃO
+O Supremo Tribunal Federal está no cerne do debate político nacional. O STF nunca foi
+tão nitidamente exposto como nos dias que seguem. Nunca influenciou tão ativamente no
+rumo institucional do estado brasileiro. Jamais gerou tanto sentimento, seja de amor ou ódio,
+confiança ou desconfiança, no cidadão nacional.
+O presente trabalho tem a humilde pretensão de debater a atuação do Poder Judiciário,
+sobretudo a Suprema Corte.
+Foram utilizados, na pesquisa, o método hipotético-dedutivo, lançando mão da revisão
+da bibliografia disponível sobre os aspectos a serem tratados, tal como, pelo recolhimento de
+dados em sítios de tribunais, artigos científicos, dissertações de mestrado, dentre outros,
+visando descortinamos sobre a postura do Supremo Tribunal Federal.
+Muito se comenta que o STF tem tomado uma postura ativista, extrapolando o seu
+campo de atuação legítimo. Será isso verdade: o STF é um tribunal ativista? A depender da
+resposta: há um limite para uma atuação judicial conforme os ditames constitucionais?
+Para responder estas questões, o presente trabalho enquadrará o Supremo Tribunal
+Federal dentro do denominado constitucionalismo.
+Em seguida tratará da constitucionalização do direito brasileiro, pós Carta Magma
+de1988, e a conseqüente judicialização de todas as coisas da vida.
+Avançando no estudo, discutirá a jurisdição constitucional até chegarmos ao estudo do
+controle judicial de constitucionalidade.
+Finalmente, trataremos do conceito de ativismo judicial, autocontenção judicial e altivez
+judicial.
+Superado tais obstáculos, analisaremos a postura do Supremo Tribunal Federal com
+13
+intuito de asseverar, por fim, se o tribunal é: ativista, autocontido ou altivo. Tal como, se há
+limites verificáveis para seu mister de atribuir sentido e concretizar as normas constitucionais.
+CAPÍTULO 1 – CONSTITUCIONALISMO
+1.1 Linhas Gerais
+O ativismo judicial está intimamente ligado ao Estado Constitucional de Direito.
+Portanto, se faz necessário compreendermos o fenômeno constitucionalista em todas as suas
+nuances. Para tanto, faremos um breve apanhado da evolução do constitucionalismo desde a
+época antiga até os dias atuais.
+Antes de tudo, é preciso dar significado ao termo constitucionalismo, contudo, sem
+muita preocupação terminológica, a maioria da doutrina segue na mesma esteira do professor
+Canotilho, que, com brilhantismo peculiar, conceitua:
+“... teoria (ou ideologia) que ergue o princípio do governo limitado indispensável à
+garantia dos direitos em dimensão estruturante da organização político-social de
+uma comunidade. Neste sentido, o constitucionalismo moderno representará uma
+técnica específica de limitação do poder com fins garantísticos . O conceito de
+constitucionalismo transporta, assim, um claro juízo de valor. É, no fundo, uma
+teoria normativa da política, tal como a teoria da democracia ou a teoria do
+liberalismo”. 1
+Mesmo diante da dificuldade de delimitação do termo, tamanha amplitude do objeto,
+pode-se afirmar, pois diversos doutrinadores caminham na mesma linha, que importa em
+poder limitado, onde todos estariam submetidos a normas escritas e postas num plano superior
+aos governantes.
+O professor André Ramos Tavares, aponta sentidos para o constitucionalismo:
+“Pode-se identificar pelo menos quatro sentidos para o constitucionalismo. Numa
+primeira acepção, emprega-se a referência ao movimento político-social com
+origens históricas bastante remotas que pretende, em especial, limitar o poder
+arbitrário. Numa segunda acepção, é identificado com a imposição de que haja
+1 CANOTILHO, J. J. Gomes. Direito constitucional e teoria da Constituição. 7. ed. São Paulo: Saraiva, 2003.
+p. 51
+14
+cartas constitucionais escritas. Tem-se utilizado, numa terceira concepção possível,
+para indicar os propósitos mais latentes e atuais da função e posição das
+constituições nas diversas sociedades. Numa vertente mais restrita, o
+constitucionalismo é reduzido à evolução histórico-constitucional de um
+determinado Estado”.2
+Para que um movimento político-social seja legitimado dentro dos limites do
+constitucionalismo, LOUIS HENKIN citado por TA V ARES, catalogou algumas condições,
+são elas:
+“soberania popular para o constitucionalismo atual; supremacia e
+imperatividade da Constituição, limitando e estabelecendo o Governo;
+sistema democrático e governo representativo, mesmo em tempos de
+emergência nacional; governo limitado, separação de poderes e cheks
+and balances, controle civil dos militares, governo das leis e judicial
+control, assim como um Judiciário independente; direitos civis
+respeitados e assegurados pelo governo, geralmente aqueles indicados
+na Declaração Universal. Os direitos podem ser limitados, mas essas
+limitações devem ter limites; instituições que monitorem e assegurem
+o respeito à Constituição; respeito pelo self-determination, o direito de
+escolha política livre”.3
+O constitucionalismo está sempre em movimento, ora progressista, ora conservador ou
+até mesmo reacionário, neste sentido, pode-se afirmar que a “ a história do constitucionalismo
+moderno ainda esta sendo escrita, e, portanto, esta por ser escrita”.4
+1.2 Movimento Constitucional na história
+A doutrina, para fins didáticos, divide o constitucionalismo em antigo, medieval,
+moderno e contemporâneo. Nota-se que foi feito um paralelo com a periodização clássica da
+história mundial, contudo, CANOTILHO faz uma separação dualista, asseverando ser um
+movimento político, social e cultural, iniciado em meados do século XVIII, que faz oposição -
+2 TA V ARES, André Ramos. Curso de Direito Constitucional. 10ª ed. São Paulo: Saraiva, 2004.p.23
+3 ________________________________________________ 10ª ed. São Paulo: Saraiva,
+2004.p.25
+4 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de Direito
+Constitucional. São Paulo: Revista dos Tribunais, 2002. p.36
+15
+nos planos político, filosófico e jurídico - ao poder dominante naquela ocasião, propondo uma
+nova forma de ordenação e fundamentação do poder. 5
+Não obstante, seguiremos na esteira da doutrina que se apegou a divisão mais rebuscada
+do constitucionalismo.
+1.3 Constitucionalismo Antigo
+Os primeiros movimentos de organização do Estado remontam à época do povo Hebreu
+que na lição de KARL LOEWENSTEIN, citado por LENZA, “... identificou o nascimento
+desse movimento entre os hebreus, que, já em seu Estado teocrático, criaram limites ao poder
+político, por meio da imposição da chamada “lei do Senhor”.6
+Ainda na antiguidade clássica, destacam-se as Cidades-Estado gregas que configuraram
+o primeiro caso real de democracia constitucional, pois é um marco da racionalização do
+poder “e até hoje constitui o único exemplo concreto de regime constitucional de identidade
+plena entre governantes e governados, uma vez que se tratava de uma democracia direta”. 7
+Outro ponto de destaque da política grega foi a distribuição de poder, que nas lições de
+LENZA “... o único exemplo conhecido de sistema político com plena identidade entre
+governantes e governados, no qual o poder político está igualmente distribuído entre todos os
+cidadãos ativos”.8
+Contudo, apesar de doutrinadores identificarem raízes do constitucionalismo neste
+remoto período histórico, não há como colocá-lo no mesmo plano do constitucionalismo
+moderno, pois este pressupõe, adverte Dieter Grimm citado por SARLET:
+“nao ha que confundir os fenômenos da juridificação e da
+5 CANOTILHO, J. J. Gomes. Direito constitucional e teoria da Constituição. 7. ed. São Paulo: Saraiva, 2003.
+p. 52
+6 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016. p. 82
+7 TA V ARES, André Ramos. Curso de Direito Constitucional. 10ª ed. São Paulo: Saraiva,
+2004.p.26
+8 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016. p. 82
+16
+constitucionalização: a constituição no sentido moderno do termo constitui
+uma forma peculiar de juridificação do poder e da dominação
+política,'vinculada a determinadas condições históricas, que nem sempre
+estiveram presentes e que podem voltar a faltar”.9
+1.4 Constitucionalismo Medieval
+Durante a Idade Média viveu-se a era do absolutismo. Não havia participação política,
+tampouco controle do arbítrio e os homens estavam sob a vontade absoluta do soberano, este
+acima de qualquer coisa terrena, pois sua legitimidade era divina. Confirmam as palavras de
+TA V ARES sobre os absolutistas: “enviados de Deus para cumprir a função de comandar o
+povo e, portanto, todo o aparelho estatal, o que poderiam fazer de acordo com sua vontade,
+livres de quaisquer limitações”.10
+Contudo, foi neste cenário de arbítrio absoluto, que surgiu a Magna Carta de 1215, um
+documento que limitava o poder do soberano, sendo considerado um importante movimento
+constitucionalista, encerrando em busca pela liberdade e garantias individuais contra a
+opressão estatal.11
+Posteriormente, já no ano de 1628, a Petition of Rights é assinada e, por sua vez, o Bill
+of Rights, em 1689. Estes documentos inauguram na Inglaterra a monarquia constitucional,
+um sistema misto, que na lição de RAMOS:
+“...o poder decorre, diretamente, da Carta escrita, mas mediatamente é o povo que se
+apresenta como seu titular. O monarca, até então livre de limitações e impedimentos,
+passa a ter sua conduta balizada pelos ditames constitucionais. Os súditos, por sua
+vez, são erigidos, paulatinamente, à condição de cidadãos.”12
+A Teoria da Separação dos Poderes também foi germinada na Idade Média, tal teoria é
+de tamanha relevância para o presente trabalho e não poderia deixar de mencioná-la neste
+9 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.p.36
+10 TA V ARES, André Ramos. Curso de Direito Constitucional. 10ª ed. São Paulo: Saraiva, 2004.p.27
+11__________________________________________________ 10ª ed. São Paulo: Saraiva, 2004.p.27
+12 __________________________________________________ 10ª ed. São Paulo: Saraiva, 2004.p.29
+17
+tópico, já que estamos estudando as inovações constitucionais no período medieval. A
+separação entre poder legislativo e executivo é o sistema, conforme a obra de MARSÍLIO DE
+PÁDUA, Defensor Pacis, de 1324, citado por TA V ARES:
+“segundo a qual o poder legislativo, como poder supremo, competiria ao povo, que o
+poderia delegar a uma assembleia de representantes, e o poder executivo competiria
+ao príncipe, que não teria qualquer participação no primeiro”.13
+Um pouco mais tarde, século XVII, na Inglaterra, pode se dizer que temos a ideia de
+separação dos poderes, porém relacionada ao rule of Law, que traz a pretensão antiabsolutista
+da época.
+1.5 Constitucionalismo Moderno
+O Constitucionalismo Moderno é fruto de uma intensa agitação política e cultural que
+marcou este período da civilização. Imprime o rompimento com o antigo regime, sendo
+coincidente com as Revoluções nos Estados Unidos da América do Norte quando, diante da
+independência das Treze Colônias, o Congresso de Filadélfia, em 15 de maio de 1776, propôs
+aos Estados federados a formulação de suas próprias constituições, que culminou na edição da
+Constituição norte-americana de 1787 e pela Revolução Francesa, em 1789, cujos ideais se
+espalharam pela Europa.
+A principal conquista foi limitação do poder político pelo princípio da primazia da lei,
+que doravante deveria ser escrita, na esteira do professor CANOTILHO citado por TA V ARES:
+“(...) a consagração de textos escritos, adota-se um modelo que, obviamente,
+caracteriza-se: a) pela publicidade, permitindo o amplo conhecimento da estrutura
+do poder e garantia de direitos; b) pela clareza, por ser um documento unificado, que
+afasta as incertezas e dúvidas sobre os direitos e os limites do poder; c) pela
+segurança, justamente por proporcionar a clareza necessária à compreensão do
+poder”.14
+Destacam-se como primeiros documentos escritos que garantiam direitos individuas: o
+Petition of Rights, de 1628; o Habeas Corpus Act, de 1679; o Bill of Rights, de 1689; e o Act
+of Settlement, de 1701, todos oriundos do constitucionalismo inglês.
+13 __________________________________________________ 10ª ed. São Paulo: Saraiva,
+2004.p.31
+14 __________________________________________________ 10ª ed. São Paulo: Saraiva, 2004.p.33
+18
+Nos Estados Unidos da América são os contratos de colonização que marcaram este
+processo nas colônias. FERREIRA FILHO citado por LENZA destacam os seguintes:
+“chegados à América, os peregrinos, mormente puritanos, imbuídos de
+igualitarismo, não encontrando na nova terra poder estabelecido, fixaram, por mútuo
+consenso, as regras por que haveriam de governar-se. Firma-se, assim, pelos chefes
+de família a bordo do Mayflower, o célebre ‘Compact’ (1620); desse modo se
+estabelecem as Fundamental Orders of Connecticut (1639), mais tarde confirmadas
+pelo rei Carlos II, que as incorporou à Carta outorgada em 1662. Transparece aí a
+ideia de estabelecimento e organização do governo pelos próprios governados, que é
+outro dos pilares da ideia de Constituição”.15
+Ainda no constitucionalismo norte americano, mas agora na lição de KILDARE trazida
+por LENZA, é apontado outros textos, além dos contratos de colonização:
+“além dos referidos “contratos de colonização” ( Compact e as Fundamental Orders
+of Connecticut ), a Declaration of Rights do Estado de Virgínia, de 1776, seguida
+pelas Constituições das ex-colônias britânicas da América do Norte, Constituição da
+Confederação dos Estados Americanos, de 1781”.16
+No continente europeu, mas precisamente na França, deu-se o passo mais significativo
+ao que chamamos de constitucionalismo, principalmente pelas transformações que a
+Revolução Francesa imprimiu em toda Europa. Importantes diplomas surgiram neste cenário,
+por exemplo: a Declaração Universal dos Direitos do Homem e do Cidadão de 1789 e logo
+em seguida a Constituição Francesa de 1791, esta foi a primeira constituição formal
+européia.17
+SANTI ROMANO citado por TA V ARES aponta alguns institutos cuja criação remonta
+deste período:
+“(a) universalização dos direitos individuais — concebidos como limitações ao
+poder do soberano, atribuídos apenas aos cidadãos, passam a ser direitos de todos os
+homens; (b) divisão dos poderes; (c) princípio da soberania nacional — a soberania
+15 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016. p. 83
+16 ______________________________________________ 20. ed. São Paulo: Saraiva, 2016. p. 83
+17 CUNHA JÚNIOR, Dirley da. Curso de Direito Constitucional . 6ª ed. Salvador: Editora Juspodivm, 2012.
+p. 36
+19
+deixa de ser um poder pessoal do príncipe para tornar-se um atributo da “Nação” e,
+após, do Estado; (d) o princípio da igualdade — que se traduz na mudança mais
+importante de todas, permitindo o estabelecimento de novas instituições políticas”.18
+Estes ideais eclodem por toda Europa e movimentos de movimentos revolucionários
+surgem na Irlanda (1783-1784), na Bélgica (1787-1790), na Holanda (1783-1787) e,
+inclusive, na Inglaterra (1779), que já havia passado por um período de intensa agitação
+político-institucional, inclusive por uma guerra civil, ao longo do século XVII e Américas
+causando um grande turbilhão político-social.
+É de grande valia a afirmação nevrálgica de Crisdano Paixão e Renato Biguazzi citado
+por SARLET “... a constituição pode ser compreendida como uma espécie de “aquisição
+evolutiva”.19
+1.6 Constitucionalismo Contemporâneo
+Analisando a trajetória do movimento constitucionalista na história, conclui-se que não
+é percorrido por linha reta. Deixando pra trás o constitucionalismo antigo e medieval e tendo
+como ponto de partida o constitucionalismo liberal, a observação revela que este, fundado na
+limitação do poder, igualdade formal e alguns direitos de liberdade individual, foi superado
+pelo constitucionalismo social, que reivindicava liberdade material e direitos sociais e
+econômicos que, doravante, deveriam ser promovidos pelo Estado. Portanto, é evidente que as
+tarefas estatais tiveram um incremento considerável, “... em alguns países, essa tendência foi
+mais forte, dando lugar à noção de dirigismo constitucional ou de Constituição dirigente, com
+a pretensão de impor ao legislador e ao administrador certos deveres de atuação positiva, com
+a conseqüente redução do campo reservado à deliberação política majoritária”.20
+Contudo, compreende-se que, nas ultimas décadas, o movimento constitucional no
+mundo e no Brasil, vem sofrendo grandes transformações. Para entendermos tais mudanças,
+analisaremos esses acontecimentos na historia, teoria e na filosofia do direito.
+18 TA V ARES, André Ramos. Curso de Direito Constitucional. 10ª ed. São Paulo: Saraiva,
+2004.p.35
+19 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de Direito
+Constitucional. São Paulo: Revista dos Tribunais, 2002.p.36
+20 BARROSO, Luís Roberto. Curso de Direito Constitucional Contemporâneo. Rio de
+Janeiro: Editora Saraiva, 2009. P. 84
+20
+Após a 2º Guerra Mundial a Europa sofreu grandes transformações constitucionais,
+principalmente na Alemanha e Itália. Essa reconstitucionalização aproximou o
+constitucionalismo da democracia, modificando a forma de organização política.
+Na precisa lição do Constitucionalista Barroso:
+“A principal referência no desenvolvimento do novo direito constitucional é a Lei
+Fundamental de Bonn (Constituição alemã), de 1949, e, especialmente, a criação do
+Tribunal constitucional Federal, instalado em 1951. A partir daí teve início uma
+fecunda produção teórica e jurisprudencial, responsável pela ascensão científica do
+direito constitucional no âmbito dos países de tradição romano-germânica. A
+segunda referência de destaque é a da Constituição da Itália, de 1947, e a
+subseqüente instalação da Corte Constitucional, em 1956. Ao longo da década de 70,
+a redemocratização e a reconstitucionalização de Portugal (1976) e da Espanha
+(1978) agregaram valor e volume ao debate sobre o novo direito constitucional”.21
+No entanto, no Brasil, tal movimento somente se permitiu desenvolver após a
+redemocratização e com o advento da Constituição de 1988. Esta carta permitiu ao País
+avançar bastante rumo à solidez das instituições democráticas, deu suporte para a dissolução
+de graves conflitos políticos, bem como tem sido um importante alicerce para a promoção dos
+direitos fundamentais e da dignidade da pessoa humana. Acima de tudo, a Constituição
+Cidadã “... não é só técnica. Tem de haver, por trás dela, a capacidade de simbolizar
+conquistas e de mobilizar o imaginário das pessoas para novos avanços. O surgimento de um
+sentimento constitucional no País é algo que merece ser celebrado.” 22
+No campo filosófico, o destaque é a superação do positivismo e do jusnaturalismo que,
+em posição de antagonismo, não se misturavam. O que temos atualmente é uma mistura das
+duas ideologias: “A quadra atual é assinalada pela superação – ou, talvez, sublimação – dos
+modelos puros por um conjunto difuso e abrangente de idéias, agrupadas sob o rótulo
+21 BARROSO, Luís Roberto. Neoconstitucionalismo e constitucionalização do Direito. O triunfo tardio
+do Direito Constitucional no Brasil. Jus Navigandi, Teresina, ano 9, n. 851, 1 nov. 2005. Disponível
+em:<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e_constitucionali
+zacao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+22 BARROSO, Luís Roberto. Neoconstitucionalismo e constitucionalização do Direito. O triunfo tardiodo
+Direito Constitucional no Brasil. Disponível em:
+<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e_constitucionalizac
+ao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+21
+genérico de pós-positivismo”. 23
+A ascensão e queda do positivismo se deram da seguinte maneira:
+“Em busca de objetividade científica, o positivismo equiparou o
+Direito à lei, afastou-o da filosofia e de discussões como legitimidade
+e justiça e dominou o pensamento jurídico da primeira metade do
+século XX. Sua decadência é, emblematicamente, associada à derrota
+do fascismo na Itália e do nazismo na Alemanha, regimes que
+promoveram a barbárie sob a proteção da legalidade. Ao fim da 2ª
+Guerra, a ética e os valores começam a retornar ao Direito”. 24
+Em apertada síntese, pode-se afirmar que o pós-positivismo está entrelaçado com a
+função social do direito que é atingida através da interpretação constitucional voltada para
+essa finalidade. “O pós-positivismo busca ir além da legalidade estrita, mas não despreza o
+direito posto; procura empreender uma leitura moral do Direito, mas sem recorrer a categorias
+metafísicas”.25
+Outra importante característica do pós-positivismo é a normatividade conferida aos
+princípios, sendo a dignidade da pessoa humana o eixo central. Claro que pra dar efetividade
+normativa aos princípios, caracteristicamente com densidade normativa mitigada, é necessário
+o desenvolvimento de uma nova hermenêutica constitucional e o fortalecimento da
+argumentação jurídica, que estão em franca ascensão no direito atual, terminando numa
+aproximação clara entre direito e conceitos morais.
+Por derradeiro, na teoria do direito, o professor BARROSO aponta três vertentes 26 que
+se marcam o pós-positivismo, são eles: a) o reconhecimento de força normativa à
+Constituição; b) a expansão da jurisdição constitucional; c) o desenvolvimento de uma nova
+dogmática da interpretação constitucional. Todos os conceitos serão desenvolvidos em tópicos
+especiais.
+23 ibidem ou ibid
+24 ibidem ou ibid
+25 ibidem ou ibid
+26 ibidem ou ibid
+22
+Para contextualizar o constitucionalismo com o tema proposto, ou seja, o ativismo
+judicial, é de fundamental importância destacar que, ao atribuir força normativa aos princípios
+constitucionais é necessário uma leitura moral dos conceitos, sem deixar de lado a carga
+jurídica. Para tanto, destacou-se as cortes constitucionais e, até mesmo, os juízes de plano
+inferior, pois o judiciário é, de fato, quem cria o direito ao aplicá-lo ao caso concreto.
+Portanto, este é um campo fértil para o fenômeno do ativismo judicial. Nas palavras de
+CAPPELLETTI: “Embora a interpretação judiciária seja e tenha sido sempre e
+inevitavelmente em alguma medida criativa do direito, é um dado de fato que a maior
+intensificação da criatividade da função jurisdicional constitui típico fenômeno do nosso
+século”27.
+CAPÍTULO 2 – A CONSTITUCIONALIZAÇÃO DO DIREITO
+2.1 Linhas Gerais
+O termo constitucionalização do direito, apesar de recente na doutrina, tem sido
+empregado para denominar o fenômeno da expansão das normas constitucionais por todo
+ordenamento jurídico. Paulo Bonavides, proferiu, por ocasião da solenidade de recebimento
+da Medalha Teixeira de Freitas, no ano de 1998: “Ontem, os Códigos; hoje, a Constituição”.
+Em síntese apertada, significa dizer que todos os ramos do direito foram repaginados,
+através da filtragem de seus institutos, pelas normas, princípios e valores constitucionais.
+Categoricamente, DANIEL SARMENTO ensina ser o “tratamento pela Constituição de temas
+que antes eram disciplinados pela legislação ordinária ou mesmo ignorados ... a impregnação
+de todo o ordenamento pelos valores constitucionais”.28
+Destarte, a constitucionalização do direito infraconstitucional repercute de maneira
+significativa na forma de ser dos poderes legislativo, executivo e judiciário, até mesmo nas
+27 CAPPELLETTI, Mauro. Juízes legisladores? Tradução de Carlos Alberto Álvaro de Oliveira. Porto
+Alegre: Sergio Antonio Fabris, 1993. p. 31.
+28 SARMENTO, Daniel; SOUZA NETO, Cláudio Pereira de. Direito Constitucional.
+Teoria, História e Métodos de Trabalho. 2ª Ed. Belo Horizonte: Ed. Fórum, 2014. p. 44
+23
+relações entre os particulares. No que refere ao Poder Judiciário, “serve de parâmetro para o
+controle de constitucionalidade por ele desempenhado (incidental e por ação direta), bem
+como, condiciona a interpretação de todas as normas do sistema”. BARROSO
+O professor BARROSO, citando o jurista Ricardo Guastini, apontou condições trazidas
+pelo constitucionalismo atual que culminaram na constitucionalização do direito
+infraconstitucional, são elas:
+“uma Constituição rígida; a garantia jurisdicional da Constituição; a força vinculante
+da Constituição; a “sobreinterpretação” da Constituição (sua interpretação extensiva,
+com o reconhecimento de normas implícitas); a aplicação direta das normas
+constitucionais; a interpretação das leis conforme a Constituição; a influência da
+Constituição sobre as relações políticas”.29
+A constitucionalização do direito surgiu na Alemanha, sob o regime da Lei Fundamental
+de 1949. O caso Lüth, julgado em 15 de janeiro de 1958, é o precedente inaugural e marcante
+do processo de constitucionalização do direito privado. BARROSO traz à tona trecho
+nevrálgico da sentença tão importante para a início do processo de constitucionalização das
+relações privadas:
+“Os direitos fundamentais são antes de tudo direitos de defesa do cidadão contra o
+Estado; sem embargo, nas disposições de direitos fundamentais da Lei Fundamental
+se incorpora também uma ordem objetiva de valores, que como decisão
+constitucional fundamental é válida para todas as esferas do direito. (...) Esse
+sistema de valores – que encontra seu ponto central no seio da comunidade social,
+no livre desenvolvimento da personalidade e na dignidade da pessoa humana... –
+oferece direção e impulso para o legislativo, a administração e o judiciário,
+projetando-se, também, sobre o direito civil. Nenhuma disposição de direito civil
+pode estar em contradição com ele, devendo todas ser interpretadas de acordo com
+seu espírito. (...) A expressão de uma opinião, que contém um chamado para um
+boicote, não viola necessariamente os bons costumes, no sentido do § 826 do
+Código Civil. Pode estar justificada constitucionalmente pela liberdade de opinião,
+ponderadas todas as circunstâncias do caso”.30
+Este foi cenário, foi o campo fértil para que o Tribunal Constitucional da Alemanha
+29 BARROSO, Luís Roberto. Neoconstitucionalismo e constitucionalização do Direito. O triunfo tardio
+do Direito Constitucional no Brasil. Disponível em:
+<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e_constitucionalizac
+ao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+30 ibidem ou ibid
+24
+promovesse todas as relevantes mudanças no direito infraconstitucional, sobretudo o direito
+civil, filtrando os institutos do direito privado pelos valores, princípios e, principalmente, pelo
+rol de direitos fundamentais esculpidos na constituição alemã, conforme assevera BARROSO:
+“A partir daí, baseando-se no catálogo de direitos fundamentais da Constituição
+alemã, o Tribunal Constitucional promoveu uma verdadeira “revolução de idéias”,
+especialmente no direito civil. De fato, ao longo dos anos subseqüentes, a Corte
+invalidou dispositivos do BGB, impôs a interpretação de suas normas de acordo
+com a Constituição e determinou a elaboração de novas leis. Assim, por exemplo,
+para atender ao princípio da igualdade entre homens e mulheres, foram introduzidas
+mudanças legislativas em matéria de regime matrimonial, direitos dos ex-cônjuges
+após o divórcio, poder familiar, nome de família e direito internacional privado. De
+igual sorte, o princípio da igualdade entre os filhos legítimos e naturais provocou
+reformas no direito de filiação. De parte isso, foram proferidos julgamentos
+interessantes em temas como uniões homossexuais (homoafetivas) e direito dos
+contratos.”31
+Na Itália, o processo de constitucionalização do direito teve origem a partir da
+instituição da Suprema Corte, consumando-se na década de 70, nas lições de BARROSO:
+“Somente com a instalação da Corte Constitucional – e, aliás, desde a sua primeira
+decisão – as normas constitucionais de direitos fundamentais passaram a ser
+diretamente aplicáveis, sem intermediação do legislador ... De 1956 a 2003, a Corte
+Constitucional proferiu 349 decisões em questões constitucionais envolvendo o
+Código Civil, das quais 54 declararam a inconstitucionalidade de dispositivos seus,
+em decisões da seguinte natureza: 8 de invalidação, 12 interpretativas e 34 aditivas
+(sobre as características de cada uma delas, v. nota ao parágrafo anterior). Foram
+proferidos julgados em temas que incluíram adultério, uso do nome do marido e
+direitos sucessórios de filhos ilegítimos, em meio a outros. No plano legislativo, sob
+influência da Corte Constitucional, foram aprovadas, ao longo dos anos,
+modificações profundas no direito de família, inclusive em relação ao divórcio, no
+direito à adoção e no direito do trabalho. Estas alterações, levadas a efeito por leis
+especiais, provocaram a denominada “descodificação” do direito civil”.32
+2.2 A constitucionalização no Direito Brasileiro
+Após um longo período de Regime Militar, finalmente, o Brasil redemocratizou. A Carta
+Magma de 1988, documento fundamental desta abertura política, simboliza o encontro tardio
+da sociedade civil a cidadania plena. É sabido que a Constituição Cidadã está longe de ser
+31 ibidem ou ibid
+32 ibidem ou ibid
+25
+perfeita, mas tem se mostrado capaz de conduzir o país ao mais longo período de estabilidade
+constitucional na era republicana brasileira.
+O constituinte não foi acanhado, pelo contrário, redigiu uma carta analítica, prolixas,
+detalhistas, talvez tenha até extrapolado na extensão e descido a miudezas desnecessárias.
+TA V ARES ensina que tais diplomas tem como características:
+“a indiferença, que se tem transformado em desconfiança, quanto ao legislador
+ordinário; a estatura de certos direitos subjetivos, que estão a merecer proteção
+juridicamente diferenciada; a imposição de certos deveres, especialmente aos
+governantes, evitando-se o desvio de poder e a arbitrariedade; a necessidade de que
+certos institutos sejam perenes, garantindo, assim, um sentimento de segurança
+jurídica decorrente da rigidez constitucional”.33
+Portanto, todos os ramos do direito foram disciplinados na constituição, ora com
+princípios gerais, ora com regras específicas, típicas de legislação infraconstitucional.
+Consequentemente, esta característica é fundamental para o processo de constitucionalização
+do direito, portanto, “tal circunstância, nem sempre desejável, interfere com os limites de
+atuação do legislador ordinário e com a leitura constitucional a ser empreendida pelo
+Judiciário em relação ao tema que foi constitucionalizado”.34
+A constitucionalização do direito, destarte, é corolário de uma constituição analítica,
+com força normativa, dotada de supremacia formal e material, “potencializada pela abertura
+do sistema jurídico e pela normatividade de seus princípios”.
+A Constituição de 1988 tornou-se o centro do sistema jurídico, por conseqüência, todos
+os ramos do direito devem ter seus institutos filtrados pelos valores constitucionais. Por
+filtragem constitucional, assevera PAULO RICARDO SCHIER:
+“denota a idéia de um processo em que toda a ordem jurídica, sob a perspectiva
+material e formal e assim os seus procedimentos e valores, devem passar sempre e
+33 TA V ARES, André Ramos. Curso de Direito Constitucional. 10ª ed. São Paulo: Saraiva, 2004.p.97
+34 BARROSO, Luís Roberto. Neoconstitucionalismo e constitucionalização do Direito. O triunfo tardiodo
+Direito Constitucional no Brasil. Disponível em:
+<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e_constitucionalizac
+ao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+26
+necessariamente pelo filtro axiológico da Constituição Federal, impondo a cada
+momento da aplicação do direito, uma releitura e atualização de suas normas”.35
+Assim sendo, toda aplicação do direito, necessariamente, resulta em aplicação direta ou
+indireta dos valores, princípios e normas constitucionais. Com brilhantismo peculiar,
+BARROSO leciona sobre a aplicação da constituição:
+a) Diretamente, quando uma pretensão se fundar em uma norma do próprio texto
+constitucional. Por exemplo: o pedido de reconhecimento de uma imunidade
+tributária (CF, art. 150, VI) ou o pedido de nulidade de uma prova obtida por meio
+ilícito (CF, art. 5º, LVI);
+b) Indiretamente, quando uma pretensão se fundar em uma norma
+infraconstitucional, por duas razões:
+(i) antes de aplicar a norma, o intérprete deverá verificar se ela é compatível com a
+Constituição, porque se não for, não deverá fazê-la incidir. Esta operação está
+sempre presente no raciocínio do operador do Direito, ainda que não seja por ele
+explicitada;
+(ii) ao aplicar a norma, o intérprete deverá orientar seu sentido e alcance à realização
+dos fins constitucionais.
+A jurisdição constitucional, preponderantemente, é responsável pela
+constitucionalização do direito de forma objetiva. Não poderia ser diferente, pois cabe ao
+judiciário, sobretudo o STF, interpretar e aplicar a constituição no caso concreto. BARROSO
+elenca técnicas e possibilidades interpretativas na materialização dos valores constitucionais
+no ordenamento jurídico:
+a) o reconhecimento da revogação das normas infraconstitucionais anteriores à
+Constituição (ou à emenda constitucional), quando com ela incompatíveis;
+b) a declaração de inconstitucionalidade de normas infraconstitucionais posteriores à
+Constituição, quando com ela incompatíveis;
+c) a declaração da inconstitucionalidade por omissão, com a conseqüente
+convocação à atuação do legislador;
+d) a interpretação conforme a Constituição, que pode significar:
+(i) a leitura da norma infraconstitucional da forma que melhor realize o sentido e o
+alcance dos valores e fins constitucionais a ela subjacentes;
+(ii) a declaração de inconstitucionalidade parcial sem redução do texto, que consiste
+na exclusão de uma determinada interpretação possível da norma – geralmente a
+mais óbvia – e a afirmação de uma interpretação alternativa, compatível com a
+Constituição.
+No que tange a interpretação conforme a constituição, técnica copiosamente empregada
+35 SCHIER, Paulo Ricardo. Filtragem Constitucional: construindo uma nova dogmática jurídica. Porto
+Alegre : Sérgio Antônio Fabris Editor, 1999. P. 102
+27
+no Brasil, principalmente quando se trata do controle judicial de constitucionalidade, INGO
+SARLET a conceitua como
+“...a interpretação das leis conforme a constituição consiste, portanto, na técnica de
+acordo com a qual, em face da existência de mais de uma alternativa possível de
+interpretação de determinado dispositivo legal, das quais uma (ou mesmo varias)
+implicaria a inconstitucionalidade da disposição normativa em causa, ha que optar
+pela alternativa de interpretação que, ao mesmo tempo em que preserva a
+integridade do dispositivo legal, lhe atribui um sentido compatível com a
+constituição”.36
+Na mesma esteira, CANOTILHO assevera que o procedimento da interpretação
+conforme a constituição resulta da conjugação de pelo menos três aspectos:
+(a) o principio da prevalência (supremacia), da Constituição, de acordo com o qual
+deve ser escolhida uma interpretação que não seja contraria ao texto e ao programa
+da norma constitucional;
+(b) o principio da conservação de normas, que traduz a ideia de que a norma não
+deve ser declarada inconstitucional quando, verificadas suas finalidades, ela puder
+ser interpretada em conformidade com a constituição;
+(c) o principio da exclusão da interpretação conforme a Constituição, mas que seja
+contraria ao sentido literal da lei, de acordo com o qual mesmo uma interpretação
+em conformidade com a constituição deve ser afastada quando tal interpretação
+implicar violação do sentido literal da norma infraconstitucional (inexistência de
+interpretação conforme a constituição mas seja contra legem).37
+Portanto, convém conhecer da jurisprudência correlata extraída de tribunais
+constitucionais, no exercício da jurisdição, lembradas pelo professor BARROSO, para
+concluirmos o presente tópico: “Ao juiz não é permitido mediante ‘interpretação conforme a
+Constituição’ dar um significado diferente a uma lei cujo teor e sentido resulta evidente”,
+assim como, na do Supremo Tribunal Federal brasileiro: “se a única interpretação possível
+para compatibilizar a norma com a Constituição contrariar o sentido inequívoco que o Poder
+Legislativo lhe pretendeu dar, não se pode aplicar o princípio da interpretação conforme a
+Constituição, que implicaria, em verdade, criação de norma jurídica, o que é privativo do
+legislador positivo”. (STF, DJU 15 abr. 1988, Rp 1.417-7/DF, Rel. Min. Moreira Alves).
+Especificamente no direito civil, a constitucionalização deste ramo, ou seja, o triunfo
+36 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002. p.217
+37 CANOTILHO, J. J. Gomes. Direito constitucional e teoria da Constituição. 7. ed. São
+Paulo: Saraiva, 2003. p. 1226
+28
+das normas constitucionais regulando as relações particulares, pois serve de filtro valorativo
+na leitura do código civil, se verifica na irradiação dos princípios constitucionais, por
+exemplo: igualdade formal e material, solidariedade, função social da propriedade,
+razoabilidade e, sobretudo, a dignidade da pessoa humana.
+Sobre a dignidade da pessoa humana, a professora ANA PAULA DE BARCELLOS,
+ensina:
+“O conteúdo básico, o núcleo essencial do princípio da dignidade da pessoa humana,
+é composto pelo mínimo existencial, que consiste em um conjunto de prestações
+materiais mínimas sem as quais se poderá afirmar que o indivíduo se encontra em
+situação de indignidade.” 38
+A dignidade da pessoa humana, norteando as relações particulares, importa em
+despatriamonialização e repersonalização do direito civil, para tanto, BARROSO destaca os
+“valores existenciais e de espírito, bem como no reconhecimento e desenvolvimento dos
+direitos da personalidade, tanto em sua dimensão física quanto psíquica”.
+Na mesma linha, LUIZ EDSON FACHIN e CARLOS EDUARDO PIANOVSKI
+RUZIK: “A aferição da constitucionalidade de um diploma legal, diante da repersonalização
+imposta a partir de 1988, deve levar em consideração a prevalência da proteção da dignidade
+humana em relação às relações jurídicas patrimoniais”.39
+Evidentemente, o a força normativa da constituição no direito civil é matéria superada,
+assim assevera GUSTA VO TEPEDINO: “Ao contrário do cenário dos anos 80, não há hoje
+civilista que negue abertamente a eficácia normativa da Constituição e sua serventia para, ao
+menos de modo indireto, auxiliar na interpretação construtiva da norma infraconstitucional”.40
+Contudo, ainda há objeções por a este fenômeno, que o mesmo autor, TEPEDINO, em
+38 Ana Paula de Barcellos, A eficácia jurídica dos princípios constitucionais: O princípio da dignidade da
+pessoa humana, 2002, p. 305
+39 FACHIN, Luiz Edson; RUZYK ,Carlos Eduardo Pianovski. Um projeto de Código Civil na contramão da
+Constituição, Revista trimestral de direito civil vol 4. 2000. p. 243
+40 TEPEDINO Gustavo. O direito civil e a legalidade constitucional, Revista Del Rey Jurídica v.13. 2004.
+p.23
+29
+apertada síntese, nos ensina:
+a) não cabe ao constituinte, mas ao legislador, que constitui uma instância mais
+próxima da realidade dos negócios, a regulação da autonomia privada;
+b) a baixa densidade normativa dos princípios constitucionais propiciaria excessiva
+discricionariedade aos magistrados;
+c) a estabilidade milenar do direito civil restaria abalada pela instabilidade do jogo
+político-constitucional;
+d) o controleaxiológico das relações de direito civil, para além dos limites claros do
+lícito e do ilícito, significaria desmesurada ingerência na vida privada.41
+Finalizando, na esteira de BARROSO, a constitucionalização do direito civil é um fato,
+“... já não há quem negue abertamente o impacto da Constituição sobre o direito privado. A
+sinergia com o direito constitucional potencializa e eleva os dois ramos do Direito, em nada
+diminuindo a tradição secular da doutrina civilista”.42
+Outros ramos do direito também passam pelo mesmo processo de filtragem
+constitucional, BARROSO relaciona o fenômeno as seguintes circunstâncias:
+Na quadra presente, três conjuntos de circunstâncias devem ser considerados no
+âmbito da constitucionalização do direito administrativo:
+a) a existência de uma vasta quantidade de normas constitucionais voltadas para a
+disciplina da Administração Pública;
+b) a seqüência de transformações sofridas pelo Estado brasileiro nos últimos anos;
+c) a influência dos princípios constitucionais sobre as categorias do direito
+administrativo
+A constitucionalização redefiniu da idéia de supremacia do interesse público sobre o
+interesse privado; vinculou o administrador à Constituição e não apenas à lei ordinária e a
+possibilitou o controle judicial do mérito do ato administrativo.
+Em relação ao direito penal, “o texto constitucional impõe ao legislador o dever de
+criminalizar determinadas condutas, assim como impede a criminalização de outras ...
+adicione-se a circunstância de que algumas tipificações previamente existentes são
+41 ibidem ou ibid
+42 BARROSO, Luís Roberto. Neoconstitucionalismo e constitucionalização do Direito. O triunfo tardiodo
+Direito Constitucional no Brasil. Disponível em:
+<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e_constitucionalizac
+ao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+30
+questionáveis à luz dos novos valores constitucionais ou da transformação dos costumes,
+assim como podem ser excepcionadas em algumas de suas incidências concretas, se
+provocarem resultado constitucionalmente indesejável” 43. O direito penal deve ser
+proporcional na proteção dos bens jurídicos.
+CAPÍTULO 3 – JURISDIÇÃO CONSTITUCIONAL
+3.1 Conceito
+Cabe conceituar, de antemão, o que é a jurisdição constitucional. O direito processual,
+sabemos, é o instrumento de concretização do direito abstrato no caso concreto, conforme
+preceitua MOACYR AMARAL SANTOS, “direito processual constitui o sistema de
+princípios e regras regulamentadoras da atividade jurisdicional” 44. Para TA V ARES trata-se de
+“... é o conjunto de regras procedimentais fundamentadoras da prática do controle
+jurisdicional, autônomo ou não, da constitucionalidade do comportamento estatal”.45
+Dito isto, convém salientar que a jurisdição constitucional se destina à solução de
+conflitos ou questões constitucionais. CANOTILHO elege, principalmente, os seguintes:
+“a) litígios de competência inter-orgânicos; b) controle abstrato e
+concreto da constitucionalidade dos atos normativos; c) proteção dos
+direitos fundamentais dos cidadãos; d) controle da legitimação dos
+órgãos do Estado e dos seus titulares através do contencioso eleitoral
+(e referendário)”.
+Contudo, a jurisdição constitucional está diretamente relacionada com o Estado
+Constitucional que emergiu após a II Guerra Mundial, na Europa. A constituição ganhou
+status de norma jurídica, deixando pra trás a época onde era mera carta política, sem
+43 ibidem ou ibid
+44 SANTOS, Moacyr Amaral. Primeiras linhas de direito processual civil. V ol. 1º. 23ª. ed. São Paulo :
+Saraiva, 2004.
+45 TA V ARES, André Ramos. Curso de Direito Constitucional. 10ª ed. São Paulo: Saraiva,
+2004.p.263
+31
+aplicabilidade direta e na dependência de leis para ser concretizada. Claro que, antes da
+constituição ter força normativa, era favorável que a lei fosse a principal fonte de normas
+jurídicas, assim como, o legislativo ou o executivo (legislando atipicamente) fossem os
+principais detentores do poder. Outro fator relevante é que o controle de constitucionalidade
+era bem tímido nesta época, daí a conclusão que o poder judiciário não estava no mesmo
+patamar de importância dos demais poderes.
+Porém, superada a tragédia que foi a II Guerra Mundial, a constituição passa a ser
+considerada uma norma jurídica. A partir daí, ela não apenas disciplina o modo de produção
+das leis e atos normativos, como estabelece determinados limites para o seu conteúdo, além
+de impor deveres de atuação ao Estado. Por conseqüência, o exercício da jurisdição
+constitucional exercido pelas cortes supremas trouxe o poder judiciário para a centralidade do
+poder, visto que, de agora em diante, este poder é quem vai interpretar, por último, as normas
+constitucionais.46
+No Brasil, com a advento da Constituição Federal de 1988, o poder judiciário, por
+intermédio da jurisdição constitucional, vem promovendo a constitucionalização do direito. O
+Supremo Tribunal Federal é a corte constitucional, posiciona-se no degrau mais alto da
+hierarquia do judiciário, portanto é legitima para dar a última palavra. Contudo, não exerce a
+jurisdição constitucional, exclusivamente, pois todos os órgãos do judiciário, até mesmo os de
+primeira instância, exercem a jurisdição para tanto. BARROSO, sobre a ascensão do poder
+judiciário preleciona o seguinte:
+Uma das instigantes novidades do Brasil dos últimos anos foi a virtuosa ascensão
+institucional do Poder Judiciário. Recuperadas as liberdades democráticas e as
+garantias da magistratura, juízes e tribunais deixaram de ser um departamento
+técnico especializado e passaram a desempenhar um papel político, dividindo espaço
+com o Legislativo e o Executivo. Tal circunstância acarretou uma modificação
+substantiva na relação da sociedade com as instituições judiciais, impondo reformas
+estruturais e suscitando questões complexas acerca da extensão de seus poderes.47
+A jurisdição constitucional é exercida da seguinte forma, conforme nos ensina
+BARROSO: “compreende o poder exercido por juízes e tribunais na aplicação direta da
+46 BARROSO, Luís Roberto. Jurisdição constitucional: a tênue fronteira entre o direito e a política.
+Disponível em: < http://www.migalhas.com.br/arquivos/2014/2/art20140204-06.pdf>. Acesso em: 25 mai. 2018
+47 ibidem ou ibid
+32
+Constituição, no desempenho do controle de constitucionalidade das leis e dos atos do Poder
+Público em geral e na interpretação do ordenamento infraconstitucional conforme a
+Constituição”.48
+3.2 Ativismo judicial fomentado pelo fenômeno da judicialização do direito
+Como dito nas linhas anteriores, o Poder Judiciário, mormente a Suprema Corte, tornouse o local onde as decisões mais relevantes da República são resolvidas em caráter definitivo,
+graças à função de interpretar e aplicar as normas constitucionais, bem como a função de
+exercer o controle judicial de constitucionalidade.
+Tal transferência de poder, do legislativo e executivo para o Judiciário, na esteira do
+pensamento do professor BARROSO, amplia consideravelmente o discurso jurídico
+constituindo-se numa “mudança drástica no modo de se pensar e de se praticar o Direito no
+mundo romano-germânico”49.
+Natural que o fenômeno da judicialização aproxime a política do direito, dificultando
+uma distinção clara de quando estamos diante de uma decisão judicial dentro dos limites
+interpretativos do direito ou quando se extrapola e passa-se a criar direitos.
+A ocorrência da constitucionalização do direito, isto é, a propagação dos valores
+constitucionais por todo ordenamento jurídico, agrava o quadro de judicializaçao de tudo.
+Com maestria peculiar, ensina BARROSO que constitucionalizar é, em última análise, retirar
+um tema do debate político e trazê-lo para o universo das pretensões judicializáveis – e do
+sistema de controle de constitucionalidade vigente entre nós, em que é amplo o acesso ao
+Supremo Tribunal Federal por via de ações diretas.
+O mesmo ainda assevera:
+“Há causas de naturezas diversas para o fenômeno. A primeira delas é o
+reconhecimento da importância de um Judiciário forte e independente, como
+elemento essencial para as democracias modernas. Como consequência, operou-se
+48 ibidem ou ibid
+49 ibidem ou ibid
+33
+uma vertiginosa ascensão institucional de juízes e tribunais, assim na Europa como
+em países da América Latina, particularmente no Brasil. A segunda causa envolve
+certa desilusão com a política majoritária, em razão da crise de representatividade e
+de funcionalidade dos parlamentos em geral. Há uma terceira: atores políticos,
+muitas vezes, preferem que o Judiciário seja a instância decisória de certas questões
+polêmicas, em relação às quais exista desacordo moral razoável na sociedade. Com
+isso, evitam o próprio desgaste na deliberação de temas decisivos, como uniões
+homoafotetivas, interrupção de gestação ou demarcação de terras indígenas”.50
+Ademais o controle de constitucionalidade brasileiro é misto, sendo admitido por via
+difusa (exercida por qualquer órgão jurisdicional) ou concentrada (suprema corte), no caso
+concreto, ou abstrato (em tese). Logo, este modelo contribui pra que a judicialização seja,
+paulatinamente, mais abrangente, nesta linha conclui BARROSO:
+“Nesse contexto, a judicialização constitui um fato inelutável, uma circunstância
+decorrente do desenho institucional vigente, e não uma opção política do Judiciário.
+Juízes e tribunais, uma vez provocados pela via processual adequada, não têm a
+alternativa de se pronunciarem ou não sobre a questão. Todavia, o modo como
+venham a exercer essa competência é que vai determinar a existência ou não de
+ativismo judicial”.51
+A judicialização das relações sociais implica numa mudança de argumentação, haja
+vista trazer a linguagem jurídica para solucionar temas que, outrora, eram decidodos no
+parlamento. BARROSO levanta outras nuances deste fenômeno:
+“Os métodos de atuação e de argumentação dos órgãos judiciais são, como se sabe,
+jurídicos, mas a natureza de sua função é inegavelmente política. Sem embargo de
+desempenhar um poder político, o Judiciário tem características diversas das dos
+outros Poderes. É que seus membros não são investidos por critérios eletivos nem
+por processos majoritários. E é bom que seja assim. A maior parte dos países do
+mundo reserva uma parcela de poder para que seja desempenhado por agentes
+públicos selecionados com base no mérito e no conhecimento específico. Idealmente
+preservado das paixões políticas, ao juiz cabe decidir com imparcialidade, baseado
+na Constituição e nas leis. Mas o poder de juízes e tribunais, como todo poder em
+um Estado democrático, é representativo. Vale dizer: é exercido em nome do povo e
+deve contas à sociedade”.52
+Portanto, mesmo que haja críticas a judicialização e expansão do poder judiciário em
+detrimento de outros poderes, o judiciário tem resguardado a constituição e garantido a
+50 ibidem ou ibid
+51 ibidem ou ibid
+52 ibidem ou ibid
+34
+democracia.
+O papel do Judiciário e, especialmente, das cortes constitucionais e supremos
+tribunais deve ser o de resguardar o processo democrático e promover os valores
+constitucionais, superando o deficit de legitimidade dos demais Poderes, quando seja
+o caso. Sem, contudo, desqualificar sua própria atuação, o que ocorrerá se atuar
+abusivamente, exercendo preferências políticas em lugar de realizar os princípios
+constitucionais. Além disso, em países de tradição democrática menos enraizada,
+cabe ao tribunal constitucional funcionar como garantidor da estabilidade
+institucional, arbitrando conflitos entre Poderes ou entre estes e a sociedade civil.
+Estes os seus grandes papéis: resguardar os valores fundamentais e os
+procedimentos democráticos, assim como assegurar a estabilidade institucional.53
+CAPÍTULO 4 – CONTROLE DE CONSTITUCIONALIDADE
+4.1 Considerações preliminares
+O presente trabalho já discorreu sobre o significado de constituição e
+constitucionalismo, porém convém lembrar que constituição nos remete “a ideia de um
+princípio supremo que determina integralmente o ordenamento estatal e a essência da
+comunidade constituída por esse ordenamento”.54 Em outras palavras, na constituição estão as
+regras fundamentais, que criam o Estado, organizam os entes estatais e instituem o
+procedimento legislativo.
+Vale destacar que a constituição oferece as linhas mestras, “não existe, pois, uma
+pretensão de completude do sistema constitucional. E é, exatamente, essa característica que
+empresta à Constituição a flexibilidade necessária ao contínuo desenvolvimento e permite que
+o seu conteúdo subsista aberto dentro do tempo”.55
+53 BARROSO, Luís Roberto. Neoconstitucionalismo e constitucionalização do Direito. O triunfo tardiodo
+Direito Constitucional no Brasil. Disponível em:
+<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e_constitucionalizac
+ao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+54 MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Cursode
+Direito Constitucional. São Paulo: Saraiva, 2007, p. 1420
+55 _____________________________________________________ São Paulo: Saraiva, 2007, p. 1420
+35
+A constituição não se limita as normas de organização do estado, é, também, a carta
+que consagra os direitos e garantias fundamentais e através de imposições e
+limitações aos poderes instituídos preserva a estabilidade política, em outras
+palavras: mas desempenha relevante papel como instrumento de estabilidade, de
+racionalização do poder e de garantia da liberdade. Não se trata, à evidência, de um
+sistema isento de lacunas. E, de certo modo, é essa ausência de regulamentação
+minudente que assegura a abertura constitucional necessária ao amplo
+desenvolvimento do processo político.56
+Uma coisa é inconstitucional quando não está de acordo com a constituição. Embora
+não seja fácil compreender tal afirmação, mas, de forma mais didática, MENDES cita a
+doutrina de JORGE MIRANDA “a relação que se estabelece entre uma coisa — a
+Constituição — e outra coisa — um comportamento — que lhe está ou não conforme, que
+com ela é ou não compatível, que cabe ou não no seu sentido” 57. Sendo, portanto, uma relação
+de antinormatividade e valorativa.
+O controle de constitucionalidade é o instrumento, previsto na própria constituição,
+destinado a expurgar coisas inconstitucionais. Tal instrumento tem fundamento na supremacia
+constitucional formal e material sobre todo o direito positivo:
+Noutras palavras, pela sua própria localização na base da pirâmide normativa, é a
+Constituição a instância de transformação da normatividade, puramente hipotética,
+da norma fundamental, em normatividade concreta, dos preceitos de direito positivo
+– comandos postos em vigor – cuja forma e conteúdo, por isso mesmo, subordinamse aos ditames constitucionais. Daí se falar em supremacia constitucional formal e
+material, no sentido de que qualquer ato jurídico – seja ele normativo ou de efeito
+concreto -, para ingressar ou permanecer, validamente, no ordenamento, há se
+mostrar conforme aos preceitos da Constituição. 58
+Isto quer dizer que há um ordenamento jurídico que busca na constituição sua validade,
+o que implica numa hierarquização das normas jurídicas e coerência sistemática deste
+ordenamento. Em outras palavras, quando uma norma inferior não pode ser compatibilizada
+com a constituição, aquela deve ser expurgada.
+56 _____________________________________________________ São Paulo: Saraiva, 2007, p. 1421
+57 _____________________________________________________ São Paulo: Saraiva,
+2007, p. 1422
+58 _____________________________________________________ São Paulo: Saraiva, 2007, p. 1423
+36
+“Se num ordenamento passam a existir normas incompatíveis, uma das duas ou
+ambas devem ser eliminadas. Se isso é verdade, significa que as normas de um
+ordenamento têm uma certa relação entre si, e essa relação é a relação de
+compatibilidade”.
+Outro aspecto importante é a proteção dos direitos fundamentais via controle de
+constitucionalidade, "... a idéia de controle de constitucionalidade está ligada à supremacia da
+constituição sobre todo o ordenamento jurídico e também, a rigidez constitucional e proteção
+dos direitos fundamentais”.59
+Tratando-se de rigidez, está decorre da “distinção entre a obra do Constituinte e a obra
+do Legislador. A segunda, encontrando seu parâmetro de validade na primeira, não pode, quer
+sob o prisma material, quer sob o prisma formal, ignorá-la.” Clève (1995, p. 26)
+4.2 Manifestações do controle de constitucionalidade
+O controle de constitucionalidade pode tomar diferentes formas. Quanto ao órgão, ou
+seja, quem controla, pode ser: a) controle político; b) controle jurisdicional e c) controle
+misto.
+O controle político, também chamado de francês, é o exercido por órgão político,
+ficando de fora o controle exercido pelo poder judiciário na função jurisdicional. Assim
+sendo, é o controle de constitucionalidade realizado nas Casas Legislativas, pelas Comissões
+de Constituição e Justiça ou, também, o veto oposto pelo Executivo a projeto de lei, com
+fundamento em inconstitucionalidade.
+O controle pode ser conceituado quanto ao modo ou forma, sendo:
+a) incidental; ou b) principal.
+No controle incidental é aquele trazido no contexto de uma demanda judicial. A
+inconstitucionalidade é argüida num incidente, sendo uma questão prejudicial a ser decidida
+pelo juiz no caso concreto. O controle incidental está muito ligado ao modelo difuso, de
+origem americana.
+59 MORAES, Alexandre de, Curso de Direito Constitucional. 9 Ed. São Paulo. Afias 201 . pág. 538
+37
+O controle principal tem como objeto principal a questão constitucional a ser analisada
+em ação própria do controle de constitucionalidade. Este é exercido, no Brasil, pelo Supremo
+Tribunal Federal, de forma concentrada, numa análise em abstrato (em tese) da questão
+constitucional.
+Quanto ao momento do controle, ele se divide em: a) preventivo; e b) repressivo ou
+sucessivo.
+O controle preventivo, dessarte, ocorre antes mesmo do ato normativo se aperfeiçoar.
+São exemplos de controle preventivo de constitucionalidade, no nosso sistema constitucional,
+são as atividades de controle dos projetos e proposições exercidas pelas Comissões de
+Constituição e Justiça das Casas do Congresso e o veto pelo Presidente da República com
+fundamento na inconstitucionalidade do projeto (CF, art. 66, § 1º).
+No Brasil admite-se o controle preventivo por via judicial. Este acontece quando parlamentar
+impetra mandado de segurança com fins de impedir a tramitação de projeto de lei.
+4.3 Tipos de controle judicial de constitucionalidade
+O controle judicial de constitucionalidade, exercido por juízes ou cortes constitucionais,
+é fruto de experiências diversas. A doutrina o divide em: a) concentrado (modelo austríaco);
+b) difuso (modelo americano); e c) misto (modelo brasileiro e português).
+O modelo austríaco ou concentrado é encarregado pelas cortes constitucionais, no caso
+brasileiro, o STF. Sobre as cortes supremas, não há um modelo único de composição, no
+Brasil é composta de 11 ministros com cargos vitalícios, indicados pelo Presidente da
+República e sabatinado pelo Senado Federal.
+O controle concentrado ou abstrato apresenta-se por ação própria, sendo denominado de
+controle por via de ação. Esta tem matéria in abstracto, ou seja, é decidida em tese a matéria
+questão analisada. A decisão que dela surge tem eficácia erga omnes e efeitos, em regra, ex
+tunc.
+38
+A constituição de 1988 foi generosa e, de certo modo desconfiada do legislador, e
+instituiu uma extensa gama de ações de controle de direto de constitucionalidade.
+O controle de constitucionalidade difuso ou americano é realizado por qualquer órgão
+judicial no caso concreto. Bem verdade, o julgador tem o poder-dever de afastar a norma se
+considerá-la inconstitucional.
+Tal modelo é de matriz americana, especificamente, no caso Marbury v. Madison, de
+1803, julgado pela suprema corte daquele país. Tal caso foi um marco pois rompeu com a
+tradição inglesa que privilegia a supremacia do parlamento:
+A ruptura que a judicial review americana consagra com a tradição inglesa a respeito
+da soberania do Parlamento vai provocar uma mudança de paradigmas. A
+simplicidade da forma — reconhecimento da competência para aferir a
+constitucionalidade ao juiz da causa — vai ser determinante para a sua adoção em
+diversos países do mundo.
+Por fim, o controle misto de constitucionalidade é fruto da junção entre os dois
+sistemas, o difuso e o concentrado. Tal modelo é adotado pelo Brasil e Portugal. No caso
+brasileiro, em especial, o STF é o responsável pelo controle direto e pelo controle difuso o
+STF e os demais órgãos na via incidental.
+4.4 Inconstitucionalidade formal e inconstitucionalidade material
+A Constituição impõe condições de procedimento e competência para que uma lei seja
+elaborada. A não observância de tais exigências resulta em vícios formais, que são aqueles
+que atingem a formação perfeita, conforme a regra, do ato normativo. Não afetam o conteúdo
+da norma, mas a forma de elaboração da norma. Na esteira de CANOTILHO:
+Os vícios formais traduzem defeito de formação do ato normativo, pela
+inobservância de princípio de ordem técnica ou procedimental ou pela violação de
+regras de competência. Nesses casos, viciado é o ato nos seus pressupostos, no seu
+procedimento de formação, na sua forma final. 60
+60 CANOTILHO, J. J. Gomes. Direito constitucional e teoria da Constituição. 7. ed. São
+Paulo: Saraiva, 2003. p. 738
+39
+A inconstitucionalidade material, por sua vez, é uma não observância de conteúdo com
+os valores, princípios e regras constitucionais. O legislador, em seu mister, tem sua liberdade
+delimitada pela constituição, não podendo o conteúdo proposto exceder tais limites, sob pena
+de inconstitucionalidade material.
+Cabe conhecer o magistério de SARLET:
+A lei, portanto, deve se pautar pela regra da proporcionalidade, não podendo exceder
+o limite do necessário a tutela dos fins almejados pela norma constitucional. Isto
+porque, ao excedê-los, estará ferindo direitos constitucionais limítrofes com o direito
+constitucional por ela tutelado. Quando ha dois modos para dar proteção ao direito
+constitucional, considera-se ilegítima a lei que, dando-lhe tutela, não e a que a traz a
+menor interferência ou restrição sobre outro direito. Assim, se a lei vai alem do
+necessário, há negação da cláusula de vedação de excesso.61
+Prosseguindo no tema o mesmo professor:
+De outro lado, o legislador não pode deixar de responder as exigências da norma
+constitucional, ou responder-lhes de modo insuficiente, deixando sem efetiva
+proteção o direito constitucional. Se isto ocorrer, a lei violara o direito fundamental
+na sua função de mandamento de tutela. Daí por que, quando esta tutela inexiste ou
+e insuficiente, ha violação da clausula de vedação de tutela insuficiente. 62
+Tratar da compatibilidade material da norma oriunda do Poder Legislativo, via controle
+judicial de constitucionalidade, é tema controverso. Não obstante, existe uma linha tênue entre
+o limite que separa um controle judicial legítimo, ativista ou demasiadamente contido.
+Sobre o tema, discorre GILMAR MENDES:
+É possível que o vício de inconstitucionalidade substancial decorrente do excesso de
+poder legislativo constitua um dos mais tormentosos temas do controle de
+constitucionalidade hodierno. Cuida-se de aferir a compatibilidade da lei com os fins
+constitucionalmente previstos ou de constatar a observância do princípio da
+proporcionalidade, isto é, de se proceder à censura sobre a adequação e a
+necessidade do ato legislativo. 63
+61 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.p.783
+62 __________________________________________São Paulo: Revista dos Tribunais, 2002.p.783
+63 MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Curso
+de Direito Constitucional. São Paulo: Saraiva, 2007, p. 1439.
+40
+A manifestação de inconstitucionalidade é usurpadora da legitimidade do legislativo
+quando estabelecida pelo excesso de poder, invadindo a seara da discricionariedade do
+legislador. Neste sentido, “a doutrina identifica como típica manifestação do excesso de poder
+legislativo a violação ao princípio da proporcionalidade ou da proibição de excesso, que se
+revela mediante contraditoriedade, incongruência, e irrazoabilidade ou inadequação entre
+meios e fins”. 64
+4.5 Inconstitucionalidade por ação e inconstitucionalidade por omissão
+A inconstitucionalidade pode se manifestar por ação ou por omissão. Por ação ocorre
+quando há uma norma, advinda de um ato do legislador, incompatível com a constituição. Por
+outro lado, a inconstitucionalidade por omissão ocorre quando há um mandamento
+constitucional de criar a norma voltado para o legislador, contudo este permanece na inação
+do dever de legislar. Na ADIn 1458, em que foi relator o Min. Celso de Mello, assentou-se
+que:
+“o desrespeito a Constituição tanto pode ocorrer mediante ação estatal quanto
+mediante inércia governamental. A situação de inconstitucionalidade pode derivar de
+um comportamento ativo do Poder Público, que age ou edita normas em desacordo
+com o que dispõe a Constituição, ofendendo-lhe, assim, os preceitos e os princípios
+que nela se acham consignados. Essa conduta estatal, que importa em um facere
+(atuação positiva), gera a inconstitucionalidade por ação. Se o Estado deixar de
+adotar as medidas necessárias a realização concreta dos preceitos da Constituição,
+em ordem a torná-los efetivos, operantes e exeqüíveis, abstendo-se, em
+conseqüência, de cumprir o dever de prestação que a Constituição lhe impôs,
+incidira em violação negativa do texto constitucional. Desse non facere ou non
+praestare, resultara a inconstitucionalidade por omissão, que pode ser total, quando
+é nenhuma a providência adotada, ou parcial, quando é insuficiente a medida
+efetivada pelo Poder Publico”.65
+No Brasil, qualquer órgão judiciário poderá declarar a inconstitucionalidade por ação,
+contudo, quando se trata de omissão legislativa, a Constituição Federal de 1988 criou
+mecanismos de controle na forma direta e abstrata a ser realizado no STF via ação direta de
+64 ____________________________________________________________São Paulo: Saraiva, 2007, p. 1440.
+65 STF, ADIn 1458, Pleno, rei. Min. Celso de Mello, ￡1/20.09.1996.
+41
+inconstitucionalidade por omissão e mandado de injunção.
+4.6 Surgimento e evolução do controle de constitucionalidade no mundo
+O controle de constitucionalidade surgiu nos Estados Unidos da América antes de surgir
+na Europa. Embora não tenha previsão constitucional, foi proposto por Hamilton nos
+Federalist Papers e posto em prática por ocasião do caso Madison v. Marbury, com destacada
+participação do Juiz Marshall.
+Porém, há de se registrar o caso Bonham, passado na Inglaterra, anterior ao Madison v.
+Marbury, onde Edward Coke declarou que as leis estão submetidas a um direito superior, o
+common law, devendo ser consideradas nulas o caso o afrontem:
+“em muitos casos, o common law controlara os atos do parlamento, e algumas vezes
+os julgara absolutamente nulos: visto que, quando um ato do parlamento for
+contrario a algum direito ou razão comum, ou repugnante,'ou impossível de ser
+aplicado, o common law ira controlá-los e julgá-los como sendo nulos”. 66
+A Revolução Gloriosa, de 1688, deu destaque ao parlamento, porém, devido a tradição
+do common law estar bem enraizada, não houve uma diminuição de importância do poder
+judiciário, como ocorreu na Revolução Francesa:
+Na verdade, os legisladores e os juízes, na Inglaterra, uniram-se contra o poder do
+monarca em prol dos direitos do povo. Assim, a noção de supremacia do parlamento
+inglês nada tem a ver com a idéia de supremacia do parlamento na Franca, que traz
+consigo outra intenção, a de calar os juízes, que, mesmo apos a Revolução Francesa,
+eram vistos com grande desconfiança em virtude de suas ligações espúrias com o
+antigo regime.67
+Dessarte, o principio da supremacy of the English parliament não teve a ambição de
+submeter o judiciário ao parlamento, pois os juízes afirmavam o common law até mesmo
+contra a lei, se fosse necessário. Na Inglaterra o princípio da supremacia do parlamento “ teve
+a intenção de passar a noção de supremacia do direito sobre o monarca e não o propósito de
+significar onipotência da lei ou absolutismo do parlamento”. 68
+66 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.p.709
+67 __________________________________________ São Paulo: Revista dos Tribunais, 2002.p.710
+68 ____________________________________________________São Paulo: Revista dos
+Tribunais, 2002.p.712
+42
+Nas colônias inglesas foram proibidas de criar normas contrárias ao direito inglês. A
+supremacia do parlamento inglês impunha-se, mediante as Cartas, de forma a não permitir a
+aplicação judicial de leis coloniais contrastantes.
+Contudo, as colônias americanas proclamaram independência, em 1776, sendo as cartas
+substituídas pelas novas constituições. Ocorre que os juízes já tinham a praxe de decretar a
+nulidade de atos normativos que contrariassem o direito Inglês. Esta prática, já enraizada,
+permaneceu e “tornou-se praticamente “natural” controlar as leis que contrariassem as
+Constituições dos Estados que acabavam de adquirir independência”.
+Neste cenário vai germinar o controle judicial de constitucionalidade no caso Madison
+v. Marbury.
+4.7 Do princípio da supremacia do parlamento
+O princípio da supremacia do parlamento ganhou significados distintos nas Revoluções
+inglesa e francesa. Na França houve uma cisão entre o direito do antigo regime e o direito
+novo proposto pelos revolucionários, por outro lado, na Revolução Inglesa não se teve a
+ambição de criar um novo direito, pelo contrário, a intenção era de afirmar a common law por
+vezes descumprida pelo monarca.
+“Como dito, a afirmação do parlamento, sublinhada pela Revolução inglesa de 1688,
+não teve o propósito de marcar o inicio de um novo direito. O seu caráter foi
+conservador. A Revolução inglesa não foi dotada de verdadeiro “espírito
+revolucionário”; não desejou desconsiderar o passado e destruir o direito já
+existente, mas, ao contrario, confirmá-lo e fazê-lo valer contra um monarca que não
+o respeitava”.
+Na Inglaterra a ordem revolucionária era submeter o rei ao parlamento, criar limites de
+atuação e instituir critérios que regulassem a relação entre o parlamento e o monarca:
+Neste ordenamento tem destaque o celebre Bill of Rights, editado no primeiro ano da
+Revolução, em 1689, ao qual Guilherme de Orange foi obrigado a se submeter para
+ascender ao trono, mediante uma espécie de acordo entre o rei e o parlamento, visto
+como representante do povo. 69
+69 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.p.705
+43
+Na França a luta contra o absolutismo monárquico resultou num rompimento radical
+com o antigo regime. Os revolucionários ousavam criar um novo estado alicerçado na
+supremacia do parlamento e do princípio absoluto da legalidade. Sobre o tema, MARINONI
+cita o magistério de Zagrebelsky:
+“na tradição da Europa continental a luta contra o absolutismo
+significou a pretensão de substituir o rei por outro poder absoluto, a
+Assembléia Soberana, ao passo que, na Inglaterra, a batalha contra o
+absolutismo consistiu em opor, as pretensões do rei, os privilégios e
+liberdades tradicionais dos ingleses, representados e defendidos pelo
+parlamento”.
+Naquele cenário de rompimento total com o absolutismo, os revolucionários tinham
+considerável desconfiança dos juízes franceses, haja vista estes serem tidos como aliados do
+Rei, portanto, neste contexto político, foi dado colossal prestígio ao princípio da legalidade e
+os juízes, conforme Montesquieu, são la bouche qui prononce les paroles de la loi.
+Na lição de MARINONI:
+Como a lei era imprescindível para a realização dos escopos da Revolução francesa,
+e os juízes não mereciam confiança, a supremacia do parlamento ai foi vista como
+sujeição do juiz a lei, proibido que foi, inclusive, de interpretá-la para não distorcê-la
+e, deste modo, frustrar os objetivos do novo regime.
+O princípio da separação dos poderes, proposto por Montesquieu, tem relação fulcral
+com a supremacia do parlamento e o principio da legalidade. Ambos os princípios são
+importantes na construção do direito moderno, porém com significados distintos nas
+revoluções francesa, inglesa e americana.
+Como dito, na França houve incisiva desconfiança sobre os juízes do antigo regime,
+MARINONI traz à tona afirmações de Robespierre e Le Chaplier, líderes da revolução
+francesa, cuja fala compreende: “apenas a lei escrita seria valida e que o judge-made law era a
+mais detestável das instituições, devendo ser destruído”. 70
+70 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+44
+Percebe-se que almejavam uma separação rígida entre os poderes, tendo o legislativo,
+representantes do povo, supremacia sobre os demais.
+O juiz deveria julgar de forma objetiva, em outras palavras, deveria exercer uma
+atividade puramente racional, de modo que ao aplicar a lei não criasse, deveras, um novo
+direito.
+Segundo o magistério de MARINONI:
+“Essa atividade não seria limitada apenas pela legislação, mas também pela
+atividade executiva, que teria o poder de executar as decisões que constituem o
+“poder de julgar”. Nesse sentido, o poder dos juízes ficaria limitado a afirmar o que
+já havia sido dito pelo legislativo, devendo o julgamento ser apenas “um texto exato
+da lei”. Por isso, Montesquieu acabou concluindo que o “poder de julgar” era, de
+qualquer modo, um “poder nulo” (enquelquefacon, nulle)?Assim, conferiu-se o
+poder de criar o direito apenas ao legislativo. A prestação judicial deveria se
+restringir a mera declaração da lei, deixando-se ao executivo a tarefa de executar as
+decisões judiciais.”71
+Neste contexto, cresce de importância o princípio da legalidade na medida que,
+doravante, as leis devem ser claras e completas, capazes de regular todas as situações
+litigiosas, a fim de reduzir o juiz a um mero reprodutor da lei.
+“A Lei Revolucionaria de agosto de 1790 não só afirmou que “os tribunais
+judiciários não tomarão parte, direta ou indiretamente, no exercício do poder
+legislativo, nem impedirão ou suspenderão a execução das decisões do poder
+legislativo” (Titulo II, art. 10), mas também que os tribunais “reportar-se-ão ao
+corpo legislativo sempre que assim considerarem necessário, a fim de interpretar ou
+editar uma nova lei” (Titulo II, art. 12). Afirmou-se que o juiz, ao não poder
+identificar a norma aplicável a solução do caso, deveria recorrer ao legislativo.
+Supunha-se, e claro, que estas situações seriam raras, e que - depois de um tempo de
+consultas ao legislativo - tenderiam a desaparecer”.72
+Ademais, em 1790, instituiu-se a Corte de Cassação francesa, órgão não pertencente ao
+poder judiciário, porém tinha como escopo anular decisões judiciais consideradas distorcidas
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.p.754
+71 ___________________________________________ São Paulo: Revista dos Tribunais, 2002.p.757
+72 ____________________________________________________São Paulo: Revista dos
+Tribunais, 2002.p.723
+45
+com a letra da lei, constituindo instituição destinada a proteger a supremacia dão parlamento e
+da legalidade estrita.
+“Esta primeira natureza - não jurisdiciona - da Cassação era compatível com a sua
+função de apenas cassar ou anular as decisões judiciais que dessem sentido
+indesejado a lei. Sem obrigar o juiz a requerer a devida interpretação, impedia-se
+que as decisões que não se limitassem a aplicar a lei tivessem efeitos. Em vez de se
+utilizar o instrumento da “consulta interpretativa autorizada”, preferia-se algo mais
+factível, isto e, cassar a interpretação equivocada”.73
+Nos Estados Unidos, portanto, a coisa muda de figura. Apesar de admitirem a separação
+dos poderes, não houve um rompimento com o direito: o common law. Os juízes não foram
+recebidos, pelo novo regime, com desconfiança, pelo contrario, eram até mesmo considerados
+aliados na limitação do arbítrio, como explica John Henry Merrymann citado por
+MARINONI:
+“Nos Estados Unidos e na Inglaterra existia um diferente tipo de tradição judicial, na
+qual os juízes muitas vezes constituíram uma forca progressiva, ao lado do
+individuo, contra o abuso do poder pelo governante e tiveram importante papel na
+centralização do poder governamental e na destruição do feudalismo. O medo do
+law making judicial e da interferência judicial na administração não existia. O poder
+dos juízes de dar forma ao desenvolvimento do common law era uma instituição
+familiar e bem-vinda. O judiciário americano, ao contrario do francês, não foi um
+alvo revolucionário”.74
+Ademais, adotou-se nos EUA a matriz jusnaturalista da constituição, sendo assim, a
+constituição escrita tinha o status de lei fundamental e, por carregar os direitos fundamentais
+do homem, não poderia ser contrariada nem mesmo pelo parlamento.
+4.8 O caso Marbury v. Madison e a doutrina Marshall
+O destacado caso Marbury v. Madison, sucedido em 1803, julgado pela Suprema Corte
+americana sob a presidência do juiz Jhon Marshall, é considerado o primeiro precedente
+judicial que permite, com clareza de raciocínio, que todo juiz pode e deve negar a validade de
+lei que considerar incompatível com a constituição.
+Não temos a pretensão de conhecer o litígio que motivou o corrente julgado, contudo, é
+73 ____________________________________________________São Paulo: Revista dos Tribunais,
+2002.p.723
+74 ____________________________________________________São Paulo: Revista dos Tribunais,
+2002.p.725
+46
+de suma importância conhecer a tese firmada a partir deste famigerado caso.
+A tese firmada é denominada como doutrina Marshal e consiste no seguinte:
+“...todo juiz tem poder e dever de negar validade a lei que, mostrando-se
+indispensável para a solução do litígio, afrontar a Constituição. O raciocínio
+empregado por Marshall apresenta duas proposições alternativas. Ou a Constituição
+e a lei suprema, incapaz de ser modificada mediante os meios ordinários, e desta
+forma a lei que lhe e contraria não e uma lei, ou a Constituição esta no mesmo nível
+das leis ordinárias, e, como estas, pode ser modificada quando desejar o legislador”.
+Da seguinte afirmação surge relevante indagação: se a lei ordinária que afrontar a
+constituição é nula, como o juiz deve proceder em face de tal lei? A resposta dada foi: o juiz
+não deve aplicá-la no caso concreto. Desta forma permitiu-se que o judiciário, último
+definitivo interprete da lei, ignorasse leis inconstitucionais.
+Tal tese foi pioneira em dar a constituição o status de norma superior com força
+normativa capaz de expurgar leis inferiores. É considerado o primeiro precedente judicial que
+permite o controle judicial de constitucionalidade de atos normativos, consagrando o controle
+difuso. “Com a noção de Constituição rígida desperta o sistema contemporâneo de controle
+judicial da constitucionalidade das leis, umas das expressões mais importantes do moderno
+constitucionalismo”. 75
+4.9 Teoria da anulabilidade (sistema austríaco) e teoria da nulidade (sistema norteamericano)
+O sistema norte-americano alinhou-se a idéia de que o juiz não anula um ato normativo
+contrario a constituição, conforme CAPPELLETTI citado por LENZA:
+“... a lei inconstitucional, porque contrária a uma norma superior , é considerada
+absolutamente nula (‘null and void’) e, por isto, ineficaz, pelo que o juiz, que exerce
+o poder de controle, não anula, mas, meramente, declara (preexistente) nulidade da
+lei inconstitucional”. 76
+Contudo, no sistema austríaco, diferentemente do sistema americano, vigora a tese que
+75 ____________________________________________________São Paulo: Revista dos
+Tribunais, 2002.p.728
+76 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+p. 372
+47
+o juiz anula uma lei inconstitucional, portanto esta é válida até que seja anulada:
+“... a Corte Constitucional não declara uma nulidade, mas anula, cassa (‘aufhebt’)
+uma lei que, até o momento em que o pronunciamento da Corte não seja publicado,
+é válida e eficaz, posto que inconstitucional (sic). Não é só: mas — coisa ainda mais
+notável — a Corte Constitucional austríaca tem, de resto, o poder discricionário de
+dispor que a anulação da lei opere somente a partir de uma determinada data
+posterior (‘Kundmachung’) de seu pronunciamento, contanto que este diferimento
+de eficácia constitutiva do pronunciamento não seja superior a um ano...”.77
+Diferenças conceituais entre o sistema austríaco e norte-americano na esteira do
+professor LENZA:
+“... no Sistema Austriaco, de KELSEN: a decisão tem eficácia constitutiva (caráter
+constitutivo-negativo); por regra, o vício de inconstitucionalidade é aferido no plano
+da eficácia; por regra, decisão que reconhece a inconstitucionalidade produz efeitos
+ex nunc (prospectivos); a lei inconstitucional é ato anulável (a anulabilidade pode
+aparecer em vários graus); lei provisoriamente válida, produzindo efeitos até a sua
+anulação; e o reconhecimento da ineficácia da lei produz efeitos a partir da decisão
+ou para o futuro (ex nunc ou pro futuro), sendo erga omnes, preservando-se, assim,
+os efeitos produzidos até então pela lei”.78
+Segundo o mesmo professor:
+“... no Sistema norte-americano, de MARSHALL: a decisão tem eficácia
+declaratória de situação preexistente; por regra, o vício de inconstitucionalidade é
+aferido no plano da validade; por regra, decisão que declara a inconstitucionalidade
+produz efeitos ex tunc (retroativos); a lei inconstitucional é ato nulo (null and void),
+ineficaz (nulidade ab origine), írrito e, portanto, desprovido de força vinculativa;
+invalidação ab initio dos atos praticados com base na lei inconstitucional, atingindoa no berço; e a lei, por ter nascido morta (natimorta), nunca chegou a produzir
+efeitos (não chegou a viver), ou seja, apesar de existir, não entrou no plano da
+eficácia”. 79
+4.10 Flexibilização da teoria da nulidade no direito brasileiro
+Convém salientar que, no Brasil e no mundo, houve flexibilização da teoria da
+anulabilidade e nulidade. No caso brasileiro, a flexibilização da teoria da nulidade justificouse com fundamento nos princípios da segurança jurídica, interesse social e boa-fé.
+77 ______________________________________________20. ed. São Paulo: Saraiva, 2016. p. 373
+78 ______________________________________________20. ed. São Paulo: Saraiva, 2016. p. 374
+79 ______________________________________________20. ed. São Paulo: Saraiva, 2016.
+p. 374
+48
+É este o teor do art. 27 da Lei n. 9.868/99:
+Art. 27. Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em
+vista razões de segurança jurídica ou de excepcional interesse social, poderá o
+Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os
+efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito
+em julgado ou de outro momento que venha a ser fixado o princípio da segurança
+jurídica e o da boa-fé.
+A doutrina também se posicionou sobre o tema no sentido de que não a ineficácia da
+norma declarada nula não pode sem entendida de forma absoluta, é assim o magistério de
+LÚCIO BITTENCOURT trazido por LENZA:
+“... doutrina da ineficácia ab initio da lei inconstitucional não pode ser entendida em
+termos absolutos, pois que os efeitos de fato que a norma produziu não podem ser
+suprimidos, sumariamente, por simples obra de um decreto judiciário”.80
+O instituto é a denominado, pela doutrina, técnica de modulação dos efeitos da decisão,
+cujo escopo é assegurar princípios constitucionais caros, dentre eles, os da segurança jurídica,
+do interesse social e da boa-fé.
+4.11 Brevíssima análise da evolução do controle de constitucionalidade no direito
+brasileiro
+4.11.1 Constituição de 1824
+A Constituição Imperial de 1824 não estabeleceu nenhum sistema de controle de
+constitucionalidade. Segundo o professor PEDRO LENZA, tal constituição consagrou o
+“dogma da soberania do Parlamento , já que, sob a influência do direito francês ( a lei como
+“expressão da vontade geral” ) e do inglês ( supremacia do Parlamento ), somente o Órgão
+Legislativo poderia saber o verdadeiro sentido da norma”.
+Contudo, segundo o magistério de Clèmerson Merlin Clève:
+“não foi apenas o dogma da soberania do Parlamento que impediu a emergência da
+fiscalização jurisdicional da constitucionalidade no Império. O Imperador, enquanto
+detentor do Poder Moderador, exercia uma função de coordenação; por isso, cabia a
+ele (art. 98) manter a ‘independência, o equilíbrio e a harmonia entre os demais
+poderes’. Ora, o papel constitucional atribuído ao Poder Moderador, ‘chave de toda
+80 ______________________________________________20. ed. São Paulo: Saraiva, 2016. p. 377
+49
+a organização política’ nos termos da Constituição, praticamente inviabilizou o
+exercício da função de fiscalização constitucional pelo Judiciário. Sim, porque, nos
+termos da Constituição de 1824, ao Imperador cabia solucionar os conflitos
+envolvendo os Poderes, e não ao Judiciário”. Portanto, completa o ilustre jurista, “o
+dogma da ‘soberania do Parlamento’, a previsão de um Poder Moderador e mais a
+influência do direito público europeu, notadamente inglês e francês, sobre os
+homens públicos brasileiros, inclusive os operadores jurídicos, explicam a
+inexistência de um modelo de fiscalização jurisdicional da constitucionalidade das
+leis no Brasil ao tempo do Império”. 81
+4.11.2 Constituição de 1891
+Com o fim do império e ascensão da república, constitui-se, sob a influência do direito
+norte-americano, a primeira constituição republicana do Brasil, em 1891. Como dito, tal carta
+foi influenciada pelo constitucionalismo norte-americano, sendo assim, “consagrou o controle
+de constitucionalidade difuso, repressivo, posterior, ou aberto, pela via de exceção ou defesa,
+pelo qual a declaração de inconstitucionalidade se implementa de modo incidental ( incidenter
+tantum), prejudicialmente ao mérito”. Lenza 38082
+GILMAR MENDES deu destaque ao que leciona RUI BARBOSA, em 1893, sobre o
+controle difuso de constitucionalidade, inovação trazida pela constituição de 1891:
+“O único lance da Constituição americana, onde se estriba ilativamente o juízo, que
+lhe atribui essa intenção, é o do art. III, seç. 2ª, cujo teor reza assim: ‘O poder
+judiciário estender-se-á a todas as causas, de direito e equidade, que nasceram desta
+Constituição, ou das leis dos Estados Unidos’. Não se diz aí que os tribunais
+sentenciarão sobre a validade, ou invalidade, das leis. Apenas se estatui que
+conhecerão das causas regidas pela Constituição, como conformes ou contrárias a
+ela. Muito mais concludente é a Constituição brasileira. Nela não só se prescreve
+que ‘Compete aos juízes ou tribunais federais processar e julgar as causas, em que
+alguma das partes fundar a ação, ou a defesa, em disposição da Constituição Federal’
+(art. 60, a); como, ainda, que ‘Das sentenças das justiças dos Estados em última
+instância haverá recurso para o Supremo Tribunal Federal, quando se questionar
+sobre a validade de tratados e leis federais, e a decisão do tribunal do Estado for
+contrária (art. 59, § 1º, a)’. A redação é claríssima. Nela se reconhece, não só a
+competência das justiças da União, como a das justiças dos Estados, para conhecer
+da legitimidade das leis perante a Constituição. Somente se estabelece, a favor das
+leis federais, a garantia de que, sendo contrária à subsistência delas a decisão do
+tribunal do Estado, o feito pode passar, por via de recurso, para o Supremo Tribunal
+Federal. Este ou revogará a sentença, por não procederem as razões de nulidade, ou
+a confirmará pelo motivo oposto. Mas, numa ou noutra hipótese, o princípio
+fundamental é a autoridade reconhecida expressamente no texto constitucional, a
+todos os tribunais, federais, ou locais, de discutir a constitucionalidade das leis da
+81 CLÉVE, C. M. A fiscalização abstrata de constitucionalidade no direito brasileiro.
+Revista dos Tribunais, 2002.p.36 p. 63-64.
+82 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+p. 380
+50
+União, e aplicá-las, ou desaplicá-las, segundo esse critério. É o que se dá, por efeito
+do espírito do sistema, nos Estados Unidos, onde a letra constitucional, diversamente
+do que ocorre entre nós, é muda a este propósito”. 83
+Ainda no magistério de RUI BARBOSA: “Os tribunais não intervêm na elaboração da
+lei, nem na sua aplicação geral. Não são órgãos consultivos nem para o legislador, nem para a
+administração (...)”. E sintetizava, ressaltando que a judicial review “é um poder de
+hermenêutica, e não um poder de legislação”. 84
+4.11.3 Constituição de 1934
+A Constituição de 1934 manteve o controle difuso de constitucionalidade, contudo,
+inovou estabelecendo a ação direta de inconstitucionalidade interventiva, a denominada
+cláusula de reserva de plenário (a declaração de inconstitucionalidade só poderia ser pela
+maioria absoluta dos membros do tribunal) e a atribuição ao Senado Federal de competência
+para suspender a execução, no todo ou em parte, de lei ou ato declarado inconstitucional por
+decisão definitiva.
+Conforme leciona GILMAR MENDES:
+“Talvez a mais fecunda e inovadora alteração introduzida pelo Texto Magno de 1934
+se refira à “declaração de inconstitucionalidade para evitar a intervenção federal”, tal
+como a denominou Bandeira de Mello, isto é, a representação interventiva, confiada
+ao Procurador-Geral da República, nas hipóteses de ofensa aos princípios
+consagrados no art. 7º, I, a a h, da Constituição. Cuidava-se de fórmula peculiar de
+composição judicial dos conflitos federativos, que condicionava a eficácia da lei
+interventiva, de iniciativa do Senado (art. 41, § 3º), à declaração de sua
+constitucionalidade pelo Supremo Tribunal (art. 12, § 2º). Assinale-se, por oportuno,
+que, na Assembleia Constituinte, o Deputado Pereira Lyra apresentou emenda
+destinada a substituir, no art. 12, § 2º, a expressão tomar conhecimento da lei que a
+decretar e lhe declarar a constitucionalidade por tomar conhecimento
+da lei local argüida de infringente desta Constituição e lhe declarar a
+inconstitucionalidade”. 85
+Outra novidade é proposta de instituição de uma corte constitucional de modelo
+austríaco:
+83 MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Curso
+de Direito Constitucional. São Paulo: Saraiva, 2007, p. 1473
+84 _____________________Curso de Direito Constitucional. São Paulo: Saraiva, 2007, p. 1473
+85 ___________________________Curso de Direito Constitucional. São Paulo: Saraiva, 2007, p.
+1476
+51
+Finalmente, afigura-se relevante observar que, na Constituinte de 1934, foi
+apresentado projeto de instituição de uma Corte Constitucional inspirada no modelo
+austríaco. Na fundamentação da proposta referia-se diretamente à conferência de
+Kelsen sobre a essência e o desenvolvimento da jurisdição constitucional (Wesen
+und Entwicklung der Staatsgerichtsbarkeit).86
+4.11.4 Constituição de 1937
+A constituição de 1937, conhecida como Polaca, por ter sido inspirada na Carta
+ditatorial polonesa de 1935, é tida como retrograda no que tange aos princípios
+constitucionais de garantias individuais e limitação do arbítrio.
+Contudo, manteve o sistema difuso de constitucionalidade, porém trouxe uma
+possibilidade do Poder Executivo submeter ao Parlamento o reexame de leis declaradas
+inconstitucionais pelo Poder Judiciário, nos termos do parágrafo único do art. 96 da
+Constituição de 1937:
+“no caso de ser declarada a inconstitucionalidade de uma lei que, a juízo do
+Presidente da República , seja necessária ao bem estar do povo, à promoção ou
+defesa de interesse nacional de alta monta, poderá o Presidente da República
+submetê-la novamente ao exame do Parlamento: se este a confirmar por dois terços
+de votos em cada uma das Câmaras, ficará sem efeito a decisão do Tribunal”.
+Outra inovação que mitigava o controle judicial de constitucionalidade foi trazida pelo
+art. 94 da Constituição de 1937: “É vedado ao Poder Judiciário conhecer de questões
+exclusivamente políticas”.
+Por fim, cumpre destacar outras limitações que dificultavam a atuação judicial:
+“e o mandado de segurança perdeu a qualidade de garantia constitucional, passando
+a ser disciplinado pela legislação ordinária. E o Código de Processo Civil, de 1939,
+excluiu da apreciação judicial, na via mandamental, os atos do Presidente da
+República, dos ministros de Estado, dos governadores e interventores dos Estados
+(art. 319)”.87
+4.11.5 Constituição de 1946
+A Constituição de 1946 redemocratizou o país e se aproximou dos pilares do
+86 _________________________________Curso de Direito Constitucional. São Paulo: Saraiva, 2007, p.
+1476
+87 ___________________________Curso de Direito Constitucional. São Paulo: Saraiva,
+2007, p. 1478
+52
+constitucionalismo. No que tange o controle judicial de constitucionalidade, assevera
+LENZA:
+Através da EC n. 16, de 26.11.1965 , criou-se no Brasil uma nova modalidade de
+ação direta de inconstitucionalidade, de competência originária do STF, para
+processar e julgar originariamente a representação de inconstitucionalidade de lei ou
+ato normativo, federal ou estadual, a ser proposta, exclusivamente, pelo Procurador
+Geral da República. Estabeleceu-se, ainda, a possibilidade de controle concentrado
+em âmbito estadual.88
+GILMAR MENDES leciona que a constituição de 1946 restaura a tradição do controle
+judicial de constitucionalidade no direito brasileiro:
+“A par da competência de julgar os recursos ordinários (art. 101, II, a, b e c),
+disciplinou-se a apreciação dos recursos extraordinários: “ a) quando a decisão for
+contrária a dispositivo desta Constituição ou à letra de tratado ou lei federal; b)
+quando se questionar sobre a validade de lei federal em face desta Constituição, e a
+decisão recorrida negar aplicação à lei impugnada; e c) quando se contestar a
+validade de lei ou ato de governo local em face desta Constituição ou de lei federal,
+e a decisão recorrida julgar válida a lei ou o ato”. Preservou-se a exigência da
+maioria absoluta dos membros do Tribunal para a eficácia da decisão declaratória de
+inconstitucionalidade (art. 200). Manteve-se, também, a atribuição do Senado
+Federal para suspender a execução da lei declarada inconstitucional pelo Supremo
+Tribunal (art. 64), prevista, inicialmente, na Constituição de 1934”.
+A representação interventiva, introduzida na constituição de 1934, ganhou novos
+contornos na constituição de 1946, é o que preleciona MENDES:
+“A Constituição de 1946 emprestou nova conformação à ação direta de
+inconstitucionalidade, introduzida, inicialmente, no Texto Magno de 1934. Atribuiuse ao Procurador-Geral da República a titularidade da representação de
+inconstitucionalidade, para os efeitos de intervenção federal, nos casos de violação
+dos seguintes princípios: a) forma republicana representativa; b) independência e
+harmonia entre os Poderes; c) temporariedade das funções eletivas, limitada a
+duração destas à das funções federais correspondentes; d) proibição da reeleição de
+governadores e prefeitos para o período imediato; e) autonomia municipal; f)
+prestação de contas da Administração; g) garantias do Poder Judiciário (art. 8º,
+parágrafo único, c/c o art. 7º, VII).” 89
+Posteriormente, em 1965, foi incluída na constituição de 1946 a emenda nº16 que
+88 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016. p. 381
+89 MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Cursode
+Direito Constitucional. São Paulo: Saraiva, 2007, p. 1478.
+53
+alterava o controle judicial de constitucionalidade:
+“A Emenda n. 16, de 26-11-1965, instituiu, ao lado da representação interventiva, e
+nos mesmos moldes, o controle abstrato de normas estaduais e federais. Parte das
+mudanças recomendadas já havia sido introduzida pelo Ato Institucional n. 2, de 27-
+10-1965. A Exposição de Motivos encaminhada pelo Ministro da Justiça, Dr. Juracy
+Magalhães, ao Presidente da República ressaltava que “a atenção dos reformadores
+tem-se detido enfaticamente na sobrecarga imposta ao Supremo Tribunal e ao
+Tribunal de Recursos”.90
+4.11.6 Constituição de 1967 e EC n. 1/69
+A Constituição de 1967 não trouxe nenhuma grande alteração em relação ao controle
+judicial de constitucionalidade, contudo, vale destacar a EC n. 1/69 que tornou possível o
+controle de constitucionalidade de lei municipal, em face da Constituição Estadual, para fins
+de intervenção no Município.
+4.11.7 Constituição de 1988
+A Constituição de 1988 , promulgada pela Assembleia Nacional Constituinte, muniu o
+cidadão com amplo rol de instrumentos processuais garantidores de direitos fundamentais.
+MARINONI elenca tais dispositivos:
+O mandado de segurança foi estendido aos direitos coletivos, passando a poder ser
+impetrado por partido político com representação no Congresso Nacional,
+organização sindical, entidade de classe ou associação legalmente constituída e em
+funcionamento ha pelo menos um ano, em defesa dos interesses de seus membros ou
+associados (art. 5.°, LXX). Instituiu-se o mandado de injunção para proteger direito
+assegurado pela Constituição quando a omissão de órgão com poder normativo
+estiver obstaculizando a sua tutela (art. 5.°, LXXI). Criou-se o habeas data para
+assegurar o conhecimento de informações relativas a pessoa do impetrante,
+constantes de registros ou bancos de dados de entidades governamentais ou de
+caráter público e para a retificação de dados, quando não se prefira fazê-lo por
+processo sigiloso, judicial ou administrativo (art. 5.°, LXXII). Consagrou-se a ação
+popular, como meio destinado a proteção da coisa publica, deferindo-se legitimidade
+a qualquer cidadão para a sua propositura (art. 5.°, LXXIII). 91
+No que concerne ao controle judicial de constitucionalidade, a constituição de 1988
+também inovou ampliando consideravelmente as possibilidades de proteção as normas
+90 MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Cursode
+Direito Constitucional. São Paulo: Saraiva, 2007, p. 1481
+91 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de Direito
+Constitucional. São Paulo: Revista dos Tribunais, 2002.p.757
+54
+constitucionais. LENZA sintetiza tais mudanças:
+“Em relação ao controle concentrado em âmbito federal, ampliou a legitimação para
+a propositura da representação de inconstitucionalidade , acabando com o monopólio
+do Procurador-Geral da República. Em consonância com o art. 103 da CF/88, o art.
+2.º da Lei n. 9.868, de 10.11.1999, legalizando o entendimento jurisprudencial da
+Suprema Corte, dispõe que a ação direta de inconstitucionalidade poderá ser
+proposta pelos seguintes legitimados: Presidente da República; Mesa do Senado
+Federal; Mesa da Câmara dos Deputados; Mesa de Assembleia Legislativa ou
+Mesa da Câmara Legislativa do Distrito Federal; Governador de Estado ou
+Governador do Distrito Federal; Procurador-Geral da República; Conselho
+Federal da Ordem dos Advogados do Brasil; partido político com representação no
+Congresso Nacional; confederação sindical ou entidade de classe de âmbito
+nacional.” 92
+Sobre as omissões legislativas, pontua:
+“Estabeleceu-se, também, a possibilidade de controle de
+constitucionalidade das omissões legislativas , seja de forma
+concentrada ( ações diretas de inconstitucionalidade por omissão —
+ADO, nos termos do art. 103, § 2.º), seja de modo incidental, pelo
+controle difuso ( mandado de injunção — MI , na dicção do art. 5.º,
+LXXI — sobre a evolução da utilização do mandado de injunção, cf.
+item 14.11.5).
+Em relação a legitimidade dos Estados no controle de constitucionalidade:
+“Nos termos do art. 125, § 2.º, os Estados poderão instituir a representação de
+inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da
+Constituição Estadual, vedando, contudo, a atribuição da legitimação para agir a um
+único órgão.”
+Inovou, também, criando a arguição de descumprimento de preceito fundamental
+(ADPF), no parágrafo único do art. 102:
+Esta ação coloca-se ao lado das demais ações do controle concentrado, tendo o
+objetivo de suprir as necessidades de controle abstrato de constitucionalidade.
+Assim, por exemplo, possui relevante função diante do direito pré-constitucional e
+do direito municipal, uma vez que, no primeiro caso, a ação direta de
+92 LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+p. 387
+55
+inconstitucionalidade não e admitida pelo STF em vista da idéia de ser contraditório
+declarar inconstitucional norma que foi não recepcionada por incompatibilidade com
+o novo texto constitucional, e, no segundo, a constitucionalidade tem como
+parâmetro de controle somente a Constituição Estadual (art. 125, § 2.°, da CF)”.93
+Com a emenda constitucional nº 3 de 1993 estabeleceu a ação declaratória de
+constitucionalidade (ADC) e renumerou o parágrafo único do art. 102 da CF/88,
+transformando-o em § 1.º, mantendo a redação original da previsão da ADPF, nos seguintes
+termos: “a arguição de descumprimento de preceito fundamental, decorrente desta
+Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei”.
+Por fim, com a emenda constitucional nº 45 de 2004, reforma do Judiciário, ampliou a
+legitimação ativa para o ajuizamento da ADC (ação declaratória de constitucionalidade),
+igualando aos legitimados da ADI (ação direta de inconstitucionalidade).
+Portanto, o Brasil combinou o sistema norte-americano com o sistema austríaco que fez surgir
+um peculiar sistema misto de constitucionalidade.
+CAPÍTULO 5 – ATIVISMO JUDICIAL
+5.1 Explicando o fenômeno do ativismo judicial
+Não é fácil conceituar objetivamente o termo ativismo judicial. A par disto, num esforço
+de síntese, a expressão está associada à concepção de ir além do que é legítimo, em outras
+palavras, o Poder Judiciário mantém uma postura ativista quando extrapola sua margem
+constitucional de atuação e passa a intervir em campo reservado à outros poderes.
+Por conta disto, a expressão é associada adjetivos depreciativos. Rotular o Poder
+Judiciário de ativista é uma forma de negativá-lo, fazendo crer a jurisdição é exercida de
+forma invasiva e arbitrária.
+O termo ativismo judicial foi proposto jornalista norte-americano, Arthur Schlesinger
+Jr., num artigo escrito na revista Fortune em janeiro de 1947, intitulado The Supreme Court:
+93 SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.p.1127
+56
+1947. 94
+Contrapondo a idéia de ativismo vem a expressão auto-contenção judicial. Sobre o
+termo, o professor BARROSO, com brilhantismo peculiar, preleciona:
+“A idéia de ativismo judicial está associada a uma participação mais ampla e intensa
+do Judiciário na concretização dos valores e fins constitucionais, com maior
+interferência no espaço de atuação dos outros dois Poderes. A postura ativista se
+manifesta por meio de diferentes condutas, que incluem: (i) a aplicação direta da
+Constituição a situações não expressamente contempladas em seu texto e
+independentemente de manifestação do legislador ordinário; (ii) a declaração de
+inconstitucionalidade de atos normativos emanados do legislador, com base em
+critérios menos rígidos que os de patente e ostensiva violação da Constituição; (iii) a
+imposição de condutas ou de abstenções ao Poder Público, notadamente em matéria
+de políticas públicas.” 95
+Importante ressaltar que historicamente a discussão sobre o ativismo judicial sempre
+ocorre num contexto de tensão política que se perfaz no Poder Judiciário. Assim ocorreu nos
+EUA e vem ocorrendo na atualidade brasileira.
+Em 1983, Brandley C. Canon, escrevendo sobre ativismo judicial, dimensionou o que
+seria tal postura:
+O chamado ativismo tem seis dimensões, sendo elas: 1) Majoritarismo: as regras
+adotadas por meio de um processo democrático são negadas pelo Poder Judiciário;
+2) Estabilidade Interpretativa: recentes decisões judiciais, doutrinas e interpretações
+são alteradas; 3) Fidelidade Interpretativa: disposições constitucionais são
+interpretadas em contrariedade à intenção dos seus autores ou ao sentido da
+linguagem usada; 4) Distinção do Processo Democrático Substantivo: as decisões
+judiciais se convertem mais numa regra substantiva do que na mera preservação do
+processo político democrático. 5) Regra Específica: a decisão judicial estabelece
+regras próprias típicas da discricionariedade dos agentes governamentais; 6)
+Disponibilidade de um Poder alternativo de criação de políticas públicas: a decisão
+judicial suplanta considerações sérias voltadas a problemas de competência das
+outras instâncias de governo. 96
+94 LEAL, Saul Tourinho. Ativismo ou altivez? O outro lado do Supremo Tribunal Federal. 2008. 160 f.
+Dissertação (Mestrado em Direito Constitucional) – Instituto Brasiliense de Direito Público, Mestrado
+Acadêmico em Direito.
+95 BARROSO, Luís Roberto. Judicialização, ativismo judicial e legitimidade democrática. Disponível em: <
+http://www.migalhas.com.br/arquivos/2014/2/art20140204-06.pdf>. Acesso em: 25 mai. 2018
+96 LEAL, Saul Tourinho. Ativismo ou altivez? O outro lado do Supremo Tribunal Federal. 2008. 160 f.
+Dissertação (Mestrado em Direito Constitucional) – Instituto Brasiliense de Direito Público, Mestrado
+Acadêmico em Direito.
+57
+Esmiuçando as seis dimensões e trazendo ao contexto brasileiro, concluiríamos pelo não
+aproveitamento da tese, haja vista os contornos do constitucionalismo por aqui praticado.
+Quando se tratou de majoritarismo correlacionando-o com a idéia de negação do
+processo democrático pelo Poder Judiciário, o autor não se atentou para o controle judicial de
+constitucionalidade que, com clareza, é um instrumento de limitação do legislador exercido
+através da atividade jurisdicional. Tal poder é conferido pela própria constituição, não sendo,
+portanto, mister deslegitimo. Cabe ressaltar que a própria atividade legislativa encontra, na
+constituição, diversos mecanismos de limitação material e formal na elaboração de atos
+normativos que, quando não observados, cabe aos juízes, em especial a Suprema Corte, retirar
+tais atos no controle de constitucionalidade.
+Sobre o princípio majoritário sustenta BARROSO:
+“A democracia não se assenta somente no princípio majoritário, mas também na
+realização de valores substantivos, na concretização dos direitos fundamentais e na
+observância dos procedimentos que assegurem a participação livre e igualitária de
+todas as pessoas no processo decisório. A tutela desses valores, direitos e
+procedimentos é o fundamento de legitimidade da jurisdição constitucional.”
+Na segunda dimensão ele trata da estabilidade interpretativa, taxando de ativista o
+judiciário que muda constantemente a própria jurisprudência. Contudo, apesar das
+consequências negativas de uma jurisprudência volátil e insegura, não se pode correr o risco
+de amarrar de forma rígida o entendimento da suprema corte.
+Na reclamação constitucional nº 2617, Agr/MG, o ministro relator CEZAR PELUSO
+asseverou sobre o fenômeno da fossilização da interpretação constitucional:
+“a conseqüência é particularmente grave: as constituições, enquanto planos
+normativos voltados para o futuro, não podem de maneira nenhuma perder a sua
+flexibilidade e abertura. Naturalmente e na medida do possível, convém
+salvaguardar a continuidade dos standards jurisprudenciais: alterações de rota,
+decisões overruling demasiado repentinas e brutais contrastam com a própria noção
+de jurisdição. A percepção da continuidade como um valor não deve, porém,
+significar uma visão petrificada da jurisprudência ou uma indisponibilidade dos
+58
+tribunais para atender às solicitações provenientes do ambiente”. 97
+Portanto, não cabe rotular como ativista uma corte que supera a própria jurisprudência.
+A terceira dimensão apontada fala em “Fidelidade Interpretativa”, levando a crer que o
+interprete da constituição tem o dever de buscar a vontade do constituinte. Tal posição é
+originalista, ou seja, a correta hermenêutica é aquela alinhada com as origens da norma
+interpretada.
+Contudo, tal afirmação é incabível, haja vista a sociedade estar em constante
+transformação, exigindo, portanto, flexibilidade constitucional sob pena de termos que
+elaborar novas constituições a cada geração que se suceder.
+Outro critério apontado tratou de decisões judiciais com enunciados substanciais.
+Destarte, temos uma constituição analítica que tratou de uma imensidão de coisas da vida.
+Inconcebível seria não se firmar no direito brasileiro, em face desta constituição, decisões
+judiciais substancialistas, haja vista ser decorrência natural do desenho institucional trazido
+pela constituição.
+Ainda na analise das seis dimensões, a quinta propõe que a postura ativista se nota
+quando uma decisão judicial estabelece regras próprias típicas da discricionariedade dos
+agentes governamentais. Porém, como se sabe, não há como aferir limites claros num
+ambiente favorável a judicialização de tudo. Há, no entender de SAUL TOURINHO, " a mera
+concretização da Constituição Federal, nada mais”. 98
+Finalmente, a sexta e última dimensão medidora de ativismo, ocorre quando a decisão
+judicial suplanta considerações sérias voltadas a problemas de competência das outras
+instâncias de governo.
+Conforme dito anteriormente, a constituição de tudo tratou e o juiz não pode se negar a prestar
+a tutela jurisdicional, portanto, sobre tudo decidirá como consequência lógica.
+97 Reclamação Constitucional nº 2617, Agr/MG, o ministro relator CEZAR PELUSO
+98 LEAL, Saul Tourinho. Ativismo ou altivez? O outro lado do Supremo Tribunal
+Federal. 2008. 160 f. Dissertação (Mestrado em Direito Constitucional) – Instituto
+Brasiliense de Direito Público, Mestrado Acadêmico em Direito.
+59
+5.2 Autocontenção judicial
+A antítese da postura ativista do Poder Judiciário é a autocontenção judicial. Tal conduta
+é defendida por aqueles que sustentam uma posição minimalista, reservada, portanto,
+conservadora do status quo.
+BARROSO aponta diferenças conceituais entre as duas posturas:
+A principal diferença metodológica entre as duas posições está em que, em
+princípio, o ativismo judicial legitimamente exercido procura extrair o máximo das
+potencialidades do texto constitucional, inclusive e especialmente construindo regras
+específicas de conduta a partir de enunciados vagos (princípios conceitos jurídicos
+indeterminados). Por sua vez, a autocontenção se caracteriza justamente por abrir
+mais espaço à atuação dos Poderes políticos, tendo por nota fundamental a forte
+deferência em relação às ações e omissões desses últimos (...) o Poder Judiciário,
+optando pela autocontenção, pauta-se pelas seguintes condutas: (I) evita aplicar
+diretamente a Constituição a situações que não estejam no seu âmbito de incidência
+expressa, aguardando o pronunciamento do legislador ordinário; (II) utiliza critérios
+rígidos e conservadores para a declaração de inconstitucionalidade de leis e atos
+normativos; e (III) abstém-se de interferir na definição das políticas públicas.99
+Dessarte existir na doutrina quem se alinhe a posição mais omissa do Judiciário,
+acredito que o Poder Judiciário, a despeito de não ter votos, tem fundamental mister de
+expandir os direitos fundamentais, concretizar normas constitucionais dirigentes e garantir a
+defesa da constituição.
+Assim sendo, não há previsão constitucional que sustente um judiciário omisso, pelo
+contrário, o desenho constitucional o fez forte e presente.
+Tal posicionamento encontra amparo na esteira de SAUL TOURINHO:
+Nada obstante haja sobre a prática algum amparo doutrinário, self restraint não serve
+a ninguém. Trata-se de postura acanhada da Suprema Corte que opta por não decidir
+ou, quando o faz, prefere caminhar por filigranas jurídicas esquivando-se do real
+debate que lhe fora lançado.100
+5.3 A abertura institucional do Supremo Tribunal Federal como superação da polêmica
+da falta de legitimidade popular
+A Constituição de 1988 é reconhecidamente plural. Foi elaborada após anos de
+99 ibidem ou ibid
+100 ibidem ou ibid
+60
+supressão dos direitos fundamentais, da cidadania e da participação popular na política.
+Com receio do passado, o constituinte, desconfiado do legislador, procurou proteger a
+liberdade individual, os direitos sociais, os princípios democráticos e a participação plural na
+política.
+A força normativa da constituição confere status de norma jurídica aos valores e
+princípios constitucionais, por conseqüência, o Poder Judiciário, sobretudo o STF, tornou-se o
+coliseu do debate político em detrimento do Parlamento.
+Contudo, para superar a suposta falta de legitimidade popular do Judiciário, haja vista
+juiz não ter voto, o Supremo Tribunal Federal promoveu uma abertura institucional que pode
+ser evidenciada ao constatarmos os seguintes fenômenos: (a) criação do amicus curiae; (b)
+audiências públicas no STF; (c) o sistema de comunicação do Supremo Tribunal Federal; (d)
+amplo rol de ações do controle direito de constitucionalidade e outras ações que aproximam o
+Judiciário do cidadão; e (e) a inserção da Corte no cotidiano nacional.
+5.4 A sociedade aberta dos intérpretes da Constituição
+O jurista alemão PETER HÄBERLE, cuja obra Hermenêutica Constitucional : a
+sociedade aberta dos intérpretes da Constituição: contribuição para a interpretação pluralista e
+‘procedimental’ da Constituição foi traduzida por GILMAR MENDES, propõe uma
+interpretação constitucional pluralista e aberta com o propósito de garantir a participação
+popular e dar legitimidade democrática as decisões judiciais. Preleciona Häberle: “interpretar
+um ato normativo nada mais é do que colocá-lo no tempo ou integrá-lo na realidade”.101
+Contudo, ainda na esteira do pensamento de Häberle, este defende que não deve existir
+interpretes oficiais da constituição:
+“intérprete sempre se orienta pela teoria e pela práxis. Esta última, no entanto, não é
+101HÄBERLE, Peter. Hermenêutica Constitucional: a sociedade aberta dos intérpretes da Constituição:
+contribuição para a interpretação pluralista e ‘procedimental’ da Constituição”. Sergio Antonio Fabris
+Editor: Porto Alegre, 2002, p. 10.
+61
+conformada pura e simplesmente pelos intérpretes oficiais da Constituição (...) Uma
+Constituição que estrutura não apenas o Estado em sentido estrito, mas também a
+própria esfera pública, dispondo sobre organização da própria sociedade e,
+diretamente, sobre setores da vida privada, não pode tratar as forças sociais e
+privadas como meros objetos. Ela deve integrá-las ativamente enquanto sujeitos (…)
+limitar a hermenêutica constitucional aos intérpretes 'corporativos' ou autorizados
+jurídica ou funcionalmente pelo Estado significaria um empobrecimento ou um
+auto-engodo”. 102
+5.5 Debatendo o ativismo judicial no Brasil
+Muito se discutido sobre a postura ativista do Judiciário brasileiro. A discussão é salutar
+no Estado Democrático de Direito, pois nascem deste debate as melhores teses jurídicas,
+aprimorando a evolução do constitucionalismo brasileiro.
+Mas, a propósito, existe ativismo judicial no Brasil? Caso exista, é uma postura boa ou
+ruim?
+O presente trabalho se alinha a corrente que sustenta que, quando o tribunal é ativo, age
+dentro dos limites constitucionais propostos pela Carta de 1988 e perfilado com a doutrina
+mais atual do constitucionalismo contemporâneo.
+No entendimento de SAUL TOURINHO:
+“O STF ideal é aquele que consegue dar um choque na inércia, que rejeita a omissão
+e que chama para si a responsabilidade de implementar os preceitos constitucionais
+numa plenitude, tornando-os concretos, deixando de lado a idéia de que a nossa
+Carta Maior nada mais é do que um conjunto de símbolos ou, para ser mais didático,
+um livro repleto de promessas lançadas ao vento”.103
+5.6 A virada de postura do STF: ontem procedimentalista, hoje substancialista
+Até a promulgação da constituição de 1988, o STF evita a polêmica, tinha uma
+jurisprudência tímida e defensiva, se esquivava de julgamentos políticos, deixando para outros
+102 __________________________________________________________ Editor: Porto
+Alegre, 2002, p. 31-34.
+103 LEAL, Saul Tourinho. Ativismo ou altivez? O outro lado do Supremo Tribunal Federal. 2008. 160 f.
+Dissertação (Mestrado em Direito Constitucional) – Instituto Brasiliense de Direito Público, Mestrado
+Acadêmico em Direito.
+62
+poderes tal iniciativa.
+Contudo, com a redemocratização e o advento da Carta de 1988, a postura do Supremo
+mudou. Não era pra menos, haja vista a constituição dispor de amplo leque de direitos a serem
+concretizados via tutela jurisdicional.
+Somado a isto, o Brasil passa por uma acentuada crise política e de legitimidade
+democrática. Num ambiente de retraimento do Poder Legislativo e descrédito do Poder
+Executivo, naturalmente, o Judiciário se fortaleceu, haja vista ter o poder-dever de prestar a
+tutela jurisdicional quando for provocado.
+Sobre este cenário, preleciona RODOLFO VIANA PEREIRA:
+Por último, a queda no desempenho prestacional das instituições representativas
+também é outro vetor gerador de insatisfação com o sistema democrático como um
+todo. Em linhas gerais, o problema se qualifica como um distúrbio comunicacional,
+a partir do momento em que as instâncias representativas encontram sérias
+dificuldades em absorver as demandas sociais, metabolizá-las e fornecer respostas
+adequadas. A interrupção do fluxo de comunicação caracteriza, então, um processo
+de desajuste entre tarefas, expectativas e resultados. Em alguns contextos nacionais
+marcados por fortes clivagens socioeconômicas, o descompasso tem sido
+exponenciado em função da incapacidade dos órgãos e instituições tradicionais em
+atuar efetivamente na resolução de tais problemas, bem como em convencer a
+opinião pública acerca dos seus esforços. O resultado final converte-se em
+acréscimo dos níveis de insatisfação em relação às funções representativas,
+contribuindo para aumentar ainda mais o fosso entre as instituições políticas e o
+quotidiano dos cidadãos. 104
+Portanto, não há retrocesso institucional quando o Supremo Tribunal Federal exerce de
+forma altiva seu mister constitucional, todavia, promove o progresso, concretizando os
+direitos fundamentais e sedimentando os princípios e valores constitucionais na política
+nacional.
+O atual supremo atual é altivo e substancialista. Sobre o tema SAUL TOURINHO
+assevera:
+104 PEREIRA, Rodolfo Viana. Direito Constitucional Democrático: Controle e
+Participação como elementos fundantes e garantidores da constitucionalidade. Rio de
+Janeiro: Lúmen Júris, 2008. p.137
+63
+“O que temos é uma Corte comprometida em fazer valer os dispositivos
+constitucionais e promover um choque na inércia refletida pela atuação do Poder
+Legislativo e, por não dizer, também um choque no atrevimento do Poder Executivo
+que, caminhando oxigenado por milhões de votos, vez ou outra acredita que tudo
+pode, mesmo que passando por cima das disposições constitucionais”.
+É bem verdade que a pauta dos direitos fundamentais é das mais importantes para se
+aferir a altivez do Judiciário brasileiro.
+O Estado refundado pela Carta de 1988 tem como eixo central a dignidade da pessoa
+humana. Sobre a dignidade da pessoa humana preleciona Friedrich Muller citado por SAUL
+TOURINHO:
+“[...] só se pode falar enfaticamente de povo ativo quando vigem, se praticam e são
+respeitados os direitos fundamentais individuais e, por igual (nicht zuletzt), também
+os direitos fundamentais políticos. Direitos fundamentais não são valores,
+privilégios, exceções do poder de Estado ou lacunas nesses mesmo poder, como o
+pensamento que se submete alegremente à autoridade governamental
+(obrigkeitsfreudiges Denken) ainda teima em afirmar. Eles são normas, direitos
+iguais, habilitação dos homens, i.é, dos cidadãos, a uma participação ativa (aktive
+Ermächtigung). No que lhes diz respeito, fundamentam juridicamente uma
+sociedade libertária, um estado democrático. Sem a prática dos direitos do homem e
+do cidadão, o povo permanece em metáfora ideologicamente abstrata de má
+qualidade. Por meio da prática dos human rigths ele se torna, em função normativa,
+povo de um país (Staatsvolk) de uma democracia capaz de justificação – e tornasse
+ao mesmo tempo povo enquanto instância de atribuição global”. 105
+Dito isto, a promoção da dignidade humana é um princípio que pauta a atuação do Poder
+Judiciário, exigindo postura proativa do tribunal para promoção e concretização pratica.
+CONCLUSÃO
+O presente trabalho se propôs a discutir a postura do Judiciário brasileiro, mormente, o
+Supremo Tribunal Federal, em face da teoria do ativismo judicial.
+Para tanto, situamos o Poder Judiciário dentro do constitucionalismo contemporâneo,
+105 LEAL, Saul Tourinho. Ativismo ou altivez? O outro lado do Supremo Tribunal
+Federal. 2008. 160 f. Dissertação (Mestrado em Direito Constitucional) – Instituto
+Brasiliense de Direito Público, Mestrado Acadêmico em Direito.
+64
+discutimos o fenômeno, posterior a redemocratização, da constitucionalização e conseqüente
+judicialização do direito, tratamos da jurisdição constitucional e do instituto do controle
+judicial de constitucionalidade.
+Indagamos o seguinte: (i) o Judiciário brasileiro adota uma postura ativista? (ii) se a
+resposta for positiva, isto é algo ruim para a democracia e os fins constitucionais? (iii) há um
+limite para a atuação do Poder Judiciário?
+Respondendo a primeira indagação: o Judiciário brasileiro adota uma postura ativista?
+Concluímos que o Supremo Tribunal Federal tornou-se altivo e substancialista com a
+redemocratização trazida pela Constituição de 1988. Portanto, isto não significa que tem
+exorbitado de suas funções constitucionais. Com efeito, o STF é o guardião da constituição e
+tem cumprido o mister dentro do proposto pelo desenho institucional trazido na Magma Carta
+de 1988. Ora, se a constituição de 1988 de tudo tratou, o STF tudo decidirá. Não há caminho
+possível que conduza a outra conseqüência. O Judiciário quando provocado tem o poderdever de prestar a tutela jurisdicional. Inconstitucional seria se omitir.
+Partindo para o segundo questionamento: se a resposta for positiva, isto é algo ruim para
+a democracia e os fins constitucionais?
+Arrematamos que não. Foi demonstrado que o Supremo Tribunal Federal tem
+respondido satisfatoriamente a missão constitucional que lhe foi imposta pela constituição. O
+Supremo tornou-se o lugar onde os grandes temas são resolvidos com definitividade e, apesar
+das críticas, o Brasil avançou bastante na promoção da dignidade humana, na concretização
+dos direitos e garantias fundamentais e na segurança institucional, haja vista a constituição
+caminhar para o trigésimo ano de promulgação.
+Outrossim, promoveu-se, desde 1988, a abertura institucional do Supremo Tribunal
+Federal, mitigando, portanto, o problema da falta de participação popular.
+Ademais, passamos por graves crises políticas neste período, contudo não se cogitou
+saída distante da constituição: subversão constitucional é fato passado na história brasileira.
+65
+Finalmente, respondemos a questão mais embaraçada que este trabalho se
+comprometeu: há um limite para a atuação do Poder Judiciário?
+Um Tribunal pode muito, para o bem ou para o mal.
+Destarte as dificuldades para desembaraçar a questão, o presente trabalho expôs que o
+juiz pode tomar três posturas face ao poder-dever de prestar a tutela jurisdicional
+constitucional: postura ativista (ultrapassa o limite de atuação), postura autocontida (omissa)
+ou postura altiva (não se furta como garantidor e concretizador da constituição).
+Concluímos, data vênia aos que partilham posicionamento contrário, que o Judiciário,
+mormente o Supremo Tribunal Federal, tem se posicionado de forma altiva e dentro dos
+limites propostos pela constituição. Reconhecemos que, vez ou outra, uma decisão extrapola,
+de forma mais notável, os limites de atuação, não obstante, é incapaz de intitular o Poder
+Judiciário de ativista.
+Por fim, penso que o Supremo Tribunal Federal se consolidou como guardião da
+constituição e cumpre satisfatoriamente o papel de promotor da dignidade humana e
+garantidor dos direitos fundamentais, possibilitando o avanço social e consolidando a política
+brasileira.
+Dessarte dar a última palavra sobre a razão e alcance da constituição, não o faz sozinho,
+mas agremiado com outros Poderes, Ministério Público, OAB, demais instituições e com a
+sociedade.
+Na vida institucional, como na vida em geral, ninguém é bom demais e, sobretudo,
+ninguém é bom sozinho. 106
+106 BARROSO, Luís Roberto. Palestra no dia 17 de agosto de 2015, no Instituto Fernando Henrique Cardoso,
+em São Paulo . Disponível em: < http://www.migalhas.com.br/Quentes/17,MI225392,41046-
+Constituicao+Direito+e+politica+por+Luis+Roberto+Barroso >. Acesso em: 07 jun. 2018
+66
+REFERÊNCIAS BIBLIOGRÁFICAS
+CANOTILHO, J. J. Gomes. Direito constitucional e teoria da Constituição . 7. ed. São
+Paulo: Saraiva, 2003.
+TA V ARES, André Ramos. Curso de Direito Constitucional . 10ª ed. São Paulo: Saraiva,
+2004.
+SARLET, Ingo Wolfgang; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de
+Direito Constitucional. São Paulo: Revista dos Tribunais, 2002.
+LENZA, Pedro. Direito constitucional esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+CUNHA JÚNIOR, Dirley da. Curso de Direito Constitucional. 6ª ed. Salvador: Editora
+Juspodivm, 2012.
+BARROSO, Luís Roberto. Curso de Direito Constitucional Contemporâneo. Rio de
+Janeiro: Editora Saraiva, 2009.
+______________________ Neoconstitucionalismo e constitucionalização do Direito. O
+triunfo tardio do Direito Constitucional no Brasil. Disponível em:
+<http://www.luisrobertobarroso.com.br/wpcontent/uploads/2017/09/neoconstitucionalismo_e
+_constitucionalizacao_do_direito_pt.pdf>. Acesso em: 20 mai. 2018
+______________________ Jurisdição constitucional: a tênue fronteira entre o direito e a
+política. Disponível em: < http://www.migalhas.com.br/arquivos/2014/2/art20140204-
+06.pdf>. Acesso em: 25 mai. 2018
+______________________ Judicialização, ativismo judicial e legitimidade democrática.
+Disponível em: < http://www.migalhas.com.br/arquivos/2014/2/art20140204-06.pdf>. Acesso
+em: 25 mai. 2018
+______________________ Palestra no dia 17 de agosto de 2015, no Instituto Fernando
+Henrique Cardoso, em São Paulo . Disponível em:
+< http://www.migalhas.com.br/Quentes/17,MI225392,41046
+Constituicao+Direito+e+politica+por+Luis+Roberto+Barroso >. Acesso em: 07 jun. 2018
+CAPPELLETTI, Mauro. Juízes legisladores? Tradução de Carlos Alberto Álvaro de
+67
+Oliveira. Porto Alegre: Sergio Antonio Fabris, 1993.
+SARMENTO, Daniel; SOUZA NETO, Cláudio Pereira de. Direito Constitucional. Teoria,
+História e Métodos de Trabalho. 2ª Ed. Belo Horizonte: Ed. Fórum, 2014.
+SCHIER, Paulo Ricardo. Filtragem Constitucional: construindo uma nova dogmática
+jurídica. Porto Alegre : Sérgio Antônio Fabris Editor, 1999.
+BARCELLOS, Ana Paula de, A eficácia jurídica dos princípios constitucionais: O
+princípio da dignidade da pessoa humana, 2002.
+FACHIN, Luiz Edson; RUZYK ,Carlos Eduardo Pianovski. Um projeto de Código Civil na
+contramão da Constituição, Revista trimestral de direito civil vol 4. 2000.
+TEPEDINO, Gustavo. O direito civil e a legalidade constitucional, Revista Del Rey
+Jurídica v.13. 2004.
+SANTOS, Moacyr Amaral. Primeiras linhas de direito processual civil. V ol. 1º. 23ª. ed. São
+Paulo : Saraiva, 2004.
+MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet.
+Curso de Direito Constitucional. São Paulo: Saraiva, 2007.
+MORAES, Alexandre de. Curso de Direito Constitucional. 9 Ed. São Paulo. Afias 2010.
+CLÉVE, C. M. A fiscalização abstrata de constitucionalidade no direito brasileiro.
+Revista dos Tribunais, 2002.
+LEAL, Saul Tourinho. Ativismo ou altivez? O outro lado do Supremo Tribunal Federal.
+2008. 160 f. Dissertação (Mestrado em Direito Constitucional) – Instituto Brasiliense de
+Direito Público, Mestrado Acadêmico em Direito.
+HÄBERLE, Peter. Hermenêutica Constitucional : a sociedade aberta dos intérpretes da
+Constituição: contribuição para a interpretação pluralista e ‘procedimental’ da
+Constituição”. Sergio Antonio Fabris Editor: Porto Alegre, 2002.
+PEREIRA, Rodolfo Viana. Direito Constitucional Democrático: Controle e Participação
+como elementos fundantes e garantidores da constitucionalidade. Rio de Janeiro: Lúmen
+Júris, 2008.
+68

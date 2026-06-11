@@ -1,0 +1,98 @@
+{
+  "available_sections": [
+    "introduction",
+    "results"
+  ],
+  "missing_sections": [
+    "conclusion"
+  ],
+  "sections": {
+    "introduction": {
+      "header": "1 INTRODUÇÃO 11",
+      "start_char": 89,
+      "end_char": 108,
+      "content": "1.1 O RELATÓRIO 11 1.1.1 SOBRE A LINGUAGEM 11 1.1.2 ORGANIZAÇÃO DO RELATÓRIO 12 1.2 ANTECEDENTES 13 1.2.1 ANTECEDENTES NATALIA 13 1.2.2 ANTECEDENTES PRISCILA 15 1.3 APRESENTAÇÃO DA QUESTÃO 17 1.4 OBJETIVO DO PROJETO 20 1.5 JUSTIFICATIVA DA RELEVÂNCIA DO PROJETO 21 1.5.1 AS CONQUISTAS TRABALHISTAS: VARGAS, DUTRA, JK, JÂNIO E JANGO 21 1.5.2 OS GOVERNOS MILITARES E O PRODUTIVISMO 26 1.5.3 A FLEXIBILIZAÇÃO DAS LEIS TRABALHISTA A PARTIR DE COLLOR 27 1.5.4 O TRABALHADOR HOJE E O PORQUÊ DE DIAS ÚTEIS 30 1.6 ESTUDO DE CASO 31",
+      "content_length": 523
+    },
+    "results": {
+      "header": "1.6 ESTUDO DE CASO 31",
+      "start_char": 107,
+      "end_char": 108,
+      "content": "",
+      "content_length": 0
+    }
+  },
+  "available_doco_labels": [
+    "doco:Introduction",
+    "doco:Methods",
+    "doco:Results"
+  ],
+  "missing_doco_labels": [
+    "doco:Discussion",
+    "doco:Conclusion"
+  ],
+  "doco_sections": {
+    "doco:Introduction": [
+      {
+        "header": "1 INTRODUÇÃO 11",
+        "legacy_role": "introduction",
+        "start_char": 89,
+        "end_char": 108,
+        "content": "1.1 O RELATÓRIO 11 1.1.1 SOBRE A LINGUAGEM 11 1.1.2 ORGANIZAÇÃO DO RELATÓRIO 12 1.2 ANTECEDENTES 13 1.2.1 ANTECEDENTES NATALIA 13 1.2.2 ANTECEDENTES PRISCILA 15 1.3 APRESENTAÇÃO DA QUESTÃO 17 1.4 OBJETIVO DO PROJETO 20 1.5 JUSTIFICATIVA DA RELEVÂNCIA DO PROJETO 21 1.5.1 AS CONQUISTAS TRABALHISTAS: VARGAS, DUTRA, JK, JÂNIO E JANGO 21 1.5.2 OS GOVERNOS MILITARES E O PRODUTIVISMO 26 1.5.3 A FLEXIBILIZAÇÃO DAS LEIS TRABALHISTA A PARTIR DE COLLOR 27 1.5.4 O TRABALHADOR HOJE E O PORQUÊ DE DIAS ÚTEIS 30 1.6 ESTUDO DE CASO 31",
+        "content_length": 523
+      },
+      {
+        "header": "1. INTRODUÇÃO",
+        "legacy_role": "introduction",
+        "start_char": 143,
+        "end_char": 162,
+        "content": "1.1.O RELATÓRIO 1.1.1. SOBRE A LINGUAGEM Desde o primeiro dia da faculdade, nos é ensinad o que textos acadêmicos – principalmente teses, estas mais sérias – devem ser escritos com um certo distanciamento, evitando-se o uso da primeira pessoa na conjugação dos verbos e embasando -se as idéias nas palavras de “autores importantes”, que “já estuda ram um pouquinho mais do que nós” 1. Assim, o sujeito, o indivíduo por trás destes textos, aparece apenas de forma sutil: na escolha do tema a tratar, no recorte deste tema, na forma pela qual a pesquisa acadêmica é conduzida e até na eleição de um autor ou outro para o respaldo e o aprimoramento das idéias soltas. Nosso relatório, contudo, ainda que seja um texto acadêmico, não segue este modelo à risca. Não serão encontradas aqui muitas frases com sujeito indefinido – “pensou-se”, “realizouse”, etc. Esta opção tem seus porquês. Em primeiro lugar, esta não é uma monografia clássica, mas o relatório de um filme, por isso, é natural que utilizemos uma linguagem mais informal. Além disso, a conclusão a que chegamos quando decidimos realmente realizar o docume ntário “Dias Úteis” foi a de que este projeto – somando-se a gravação e o relatório – nos daria muito mais trabalho do que a feitura de um único texto escrito. Mesmo assim, decidimos embarcar na idéia de mostrar a rotina de três desempregados na cidade do Rio de Janeiro, uma vez que, acima de tudo, este sempre foi um projeto pessoal para nós duas. E o que é pessoal tem cara, nome.",
+        "content_length": 1499
+      }
+    ],
+    "doco:Results": [
+      {
+        "header": "1.6 ESTUDO DE CASO 31",
+        "legacy_role": "results",
+        "start_char": 107,
+        "end_char": 108,
+        "content": "",
+        "content_length": 0
+      },
+      {
+        "header": "1.6. ESTUDO DE CASO",
+        "legacy_role": "results",
+        "start_char": 633,
+        "end_char": 647,
+        "content": "A questão do desemprego já foi abordada por cineastas brasileiros e estrangeiros, em documentários e ficções de épocas diversas. Entre tantas produções, há algumas que nos interessam especialmente, por suas escolhas técnicas ou pela forma com que tratam o assunto. Aqui analisaremos alguns filmes que consideramos relevantes para a produção de nosso trabalho, seja porque convergem com o nosso ponto de vista e objetivo na realização deste estudo, seja porque trouxeram alguma novidade no enfoque do tema na época em que foram produzidas. O cineasta Alfred Hitchcock teria dito certa vez que “o que importa não é a hist ória, e sim a forma como ela é contada”19. Se há um pouco de ousadia e irreverência nesta frase atribuída ao caprichoso diretor londrino, há nela também um pouco de verdade. Um filme é uma forma de se contar uma história. Se entregássemos um recorte de jorn al com a descrição de um fato qualquer, como o assalto a um banco em uma manhã de verão, a dez realizadores diferentes e sugeríssemos que cada um deles tirasse desta notícia um roteiro, certamente teríamos aí dez filmes completamente diversos. Fazer um fil me é contar uma história e, para isso, existem opções",
+        "content_length": 1188
+      },
+      {
+        "header": "23 O termo extracampo é citado pelo autor Gilles Deleuze como sendo o sistema fechado que remete no espaço a um",
+        "legacy_role": "results",
+        "start_char": 1079,
+        "end_char": 1128,
+        "content": "conjunto que não se vê, mas que pode por sua vez vir a ser visto, sob pena de suscitar um novo conjunto não visto. Ver DELEUZE, Gilles. Cinema I: A Imagem-Movimento. São Paulo: Editora Braziliense, 1985. 50 não porque se tenha tido a intenção de ser mais “verdadeiro” e sim porque, no processo de edição, algumas perguntas foram importantes para a construção da narrativa. Embora tenhamos feito a opção de não encobrir severamente nossa presença em quadro, também não era necessário ocupar o quadro a todo instante, mas sim deixar que os próprios personagens o ocupassem, já que carregam suficiente carga dramática. Finalmente, a única consideração objetiva que fizemos anteriormente ao fotógrafo era que não fizesse closes-up caso as personagens se emocionassem e chorassem e que tentasse evitar o zoom. Para a direção, esses recursos sublinhariam de forma nada sutil a emoção natural das personagens e acabariam incitando um sentimento forçado no espectador. 2.1.1.3. A PESQUISA SOBRE AS PERSONAGENS Esse foi nosso maior desafio. Primeiro, porque definir quantas seriam as personagens já foi complicado. Chegamos ao número três porque inicialmente percorremos o caminho de escolher quais perfis de desempregados gostaríamos de abordar. Queríamos três pessoas bastante diferentes entre si, com idades diferentes, escolaridades diferentes e ritmos diferentes. Apenas uma que tivesse formação superior, já que majo ritariamente a população brasileira sequer terminou o ensino médio. Chegamos à conclusão que uma das realidades a ser retratada seria a de pessoas de meia -idade com pouca ou nenhuma escolaridade, cuja juventude pertenceu a uma época na qual havia mais poss ibilidades de trabalho e empregos estáveis, tendo, assim, muitas dificuldades em se readaptar as rotinas produtivas de hoje e reingressar no mercado de trabalho. Como já foi dito no item “Justificativa da Relevância do Projeto”, em “Introdução”, estas pessoas constituem, até os dias de hoje, um resíduo social da industrialização produtivista dos anos 70. Percebemos que, assim como nós, havia ao nosso redor muitos amigos recém -formados que estavam sem nenhum vínculo empregatício. Atualmente, o desemprego entre os jovens no 51 mundo é 3,5 vezes maior que entre os adultos 24, e os recém -formados são grande alvo desse fenômeno. Logo, definimos o segundo perfil: jovem de classe -média com nível superior completo e, caso encontrado, com pós -graduação e que, apesar do e studo e da qualificação, não consegue encontrar um emprego. Esta personagem já nasceu no cenário atual, em uma era de trabalho informal e afrouxamento das relações trabalhistas. Finalmente, a terceira personagem a ser idealizada foi um tipo eterno desempre gado, leiase, o típico malandro carioca. Pensamos então num homem entre 30 e 40 anos, com pouca instrução e que vivesse de bicos, que representaria alguém que sempre esteve à margem do mercado formal e que tivesse que “se virar” pra sobreviver, mesmo que por meio de trabalhos ilícitos e não-convencionais. Ainda em nossa segunda reunião com o orientador, ele já nos aconselhou que não deveríamos nos apegar muito ao grau de escolaridade das pessoas, e sim à sua bagagem de vida, suas histórias interessantes. D epois que definimos os perfis, partimos para escolher o método de seleção. Logo que começamos a produzir o filme, começamos a lidar com a possibilidade de abandonar a idéia do “anti-anúncio” no jornal, o que não era de nosso desejo. Percebemos que se fôssemos filmar o processo de seleção das personagens teríamos material suficiente para dois filmes diferentes: um sobre a escolha e o outro propriamente sobre o cotidiano. Mas ainda cogitávamos usar esse mecanismo, mas como uma segunda opção. Se aparecesse alg uém respondendo ao anúncio, esta primeira entrevista seria gravada. Antes de mandarmos o texto para a seção de Classificados de alguns jornais, usamos outros recursos para encontrarmos nossas personagens: conversa com amigos, anúncio nas listas virtuais de discussão da faculdade e anúncio nos murais de aviso do campus da Praia Vermelha.",
+        "content_length": 4069
+      }
+    ],
+    "doco:Methods": [
+      {
+        "header": "4 IBGE. Série Relatórios Metodológicos volume 23 – Pesquisa Mensal de Emprego : Rio de Janeiro, 2002.",
+        "legacy_role": null,
+        "start_char": 301,
+        "end_char": 351,
+        "content": "Disponível em www.ibge.com.br . Acesso em 04 jul. 2005. 18 trabalhador – ainda que esteja doando , assim, tempo e mão -de-obra à sociedade. Da mesma forma, alguém que produz alimentos, roupas ou outros utensílios para si mesmo e para a sua família, segundo o IBGE, não está trabalhando. Não trabalham as donas -de-casa, que despendem horas de seus dias limpando o chão, cozinhando, lavando e passando roupas, cuidando dos filhos; tampouco trabalham os agricultores que lavram sob sol e chuva para a subsistência dos seus. Pela lógica das definições do IBGE, além disso, os voluntários, donas -de-casa e agricultores de subsistência – só para citar alguns exemplos de representantes desta população desconsiderada pelo órgão em sua definição de “trabalhador” – não podem ser classificados nem como “ocupados” nem como “desocupados”. Isto porque, pelo IBGE, ocupados são todos aqueles que exerceram trabalho remunerado ou sem remuneração durante pelo menos uma hora completa na semana precedente à pesquisa realizada pelo órgão ou que estavam afastados de seus trabalhos durante esta semana, mas apenas temporariamente. Os tr abalhadores domésticos, os conta - própria, os empregadores e os trabalhadores não remunerados dentro de sua unidade domiciliar, portanto, estariam dentro da categoria “ocupados”. Os desocupados, por sua vez, seriam aqueles que, apesar de estarem sem trabal ho na semana precedente à pesquisa, estavam por outro lado disponíveis para trabalhar ou tinham tomado alguma providência para conseguir um trabalho durante o mês antecedente à pesquisa. Os ocupados e desocupados, somados como em uma equação perfeita, cons tituiriam a “população economicamente ativa”. Quem não se enquadra nesta categoria – voluntários, donas -de-casa e agricultores de subsistência, entre outros – faz parte da “população não-economicamente ativa”. As definições do IBGE seguem os moldes da noss a sociedade capitalista: oficialmente, trabalhador é o homem ou a mulher capaz de gerar a mais -valia, o lucro, o excedente que faz girar a roda deste modelo econômico. Como teorizou Karl Marx, “(...) o processo que cria a relação-capital não pode ser outra coisa que o processo que transforma, por um lado, os meios 19 sociais de subsistência e de produção em capital, por outro, os produtores diretos em trabalhadores assalariados”5. A proposta do nosso documentário, contudo, é justamente o desprendimento das definições frias dos órgãos oficiais e da chamada “grande mídia” (Ver item “Referências”). E para fazer um filme humano, que privilegiasse a rotina de trabalhadores desempregados em detrimento dos números, estatísticas e categorias imutáveis precisávamos, em primeiro lugar, questionar esta definição oficial de trabalhador. Para nós, trabalhador é quem realiza uma atividade, seja ela útil para uma empresa, uma comunidade ou somente uma família. Assim, alguém que doa seu tempo e energia a uma atividade voluntária, por exemplo, é um trabalhador, mesmo que não tenha sido contratado por nenhuma empresa, fábrica ou patrão para vender a sua mão -de-obra em troca de ganho econômico. Desta forma, consideramos desde o início a hipótese de existir, entre as nossas personagens, alguém que esteja desempregado, mas dê à sociedade algum ganho, ainda que não - econômico, ainda que indireto. Somando-se a isto, o próprio título do filme, “Dias úteis”, já questiona o fato de freqüentemente considerarmos o desempregado desnecessári o, infértil: a semana de segunda à sexta é útil para quem? Só para quem está fechado em um escritório, apenas para quem empilha os tijolos de um edifício? O que é ser útil, afinal? Em um determinado ponto do filme, mostramos uma montagem com as respostas d e várias pessoas que passavam pelo Largo da Carioca em uma manhã à pergunta: “o que é dia útil para você?”. As respostas foram variadas e interessantes, o que prova que este conceito é bastante discutível.",
+        "content_length": 3900
+      },
+      {
+        "header": "20 IBGE. Série Relatórios Metodológicos volume 23 – Pesquisa Mensal de Emprego . Rio de Janeiro, 2002.",
+        "legacy_role": null,
+        "start_char": 795,
+        "end_char": 819,
+        "content": "Disponível em www.ibge.com.br . Acesso em 04 jul. 2005. 38 emprego, furtam-lhe a bicicleta – seu instrumento de trabalho. Antonio, então, passa a percorrer a cidade a pé, junto com seu filho Bruno, à procura do ladrão. Vê o homem por uma ou duas vezes, mas não consegue r ecuperar sua bicicleta. Já desesperado, tenta roubar a bicicleta de outro homem – é quando vemos que ele e o ladrão são iguais, dois homens sem saída nas condições em que se encontra aquele lugar –, mas é agarrado por várias pessoas que passam pela rua e v êem o furto. Com pena de Bruno, que observa, chorando, toda a cena, a multidão acaba soltando Antonio. De mãos dadas com o pai, Bruno torna -se adulto, vê pela primeira vez que Antonio não é um super-homem. O operário, humilhado, mais uma vez está desempregado. O filme mostra como nenhum outro o drama de um país corporificado em um só homem, com seu cotidiano único, sua família, sua personalidade, suas questões. “Ladrões de bicicletas” consegue ser ao mesmo tempo universal – pode-se analisá-lo e senti -lo unicamente a partir do drama individual de um homem desempregado, da relação entre um pai e um filho – e localizado – pode-se abordá-lo tendo em vista uma época determinada, uma situação política e econômica de um determinado país. O filme de Vittorio de Sica , sem dúvida, humaniza o desemprego, não faz discurso sobre ele. Marco do cinema neo -realista italiano, a película opta pela filmagem fora dos estúdios, usando como locações as ruas de Roma, em grandes planos abertos, sob sol e sob chuva, e ainda conta com a participação de atores não -profissionais e pouco equipamento. A falta de condições para se criar um cinema classificado na época como “de qualidade” – a Itália estava devastada, ninguém tinha dinheiro para investir em cinema, importar película, contrata r atores, etc – resulta em uma nova estética. Um cinema do cotidiano, do povo, nas ruas21.",
+        "content_length": 1905
+      }
+    ]
+  }
+}

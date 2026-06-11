@@ -1,11 +1,51 @@
 document_id,status,promise_section,delivery_sections,alignment_score,alignment_label,notes
+"ABREU, D.M",ok,introduction,results;conclusion,0.0000,low,
+"ABREU, E. S. de",ok,introduction,results;conclusion,0.0000,low,
+AFFSouza,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
 AMDavid,ok,introduction,results;conclusion,0.4040,high,
+ASCCMBarros-min,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+BAbreu,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+BCAbreu,ok,introduction,results;conclusion,0.4981,high,
+BMVRibeiro-min,ok,introduction,results,0.0459,low,
+BSAbreu,ok,introduction,results;conclusion,0.0000,low,
+CAbreu,ok,introduction,results;conclusion,0.5252,high,
+CAFAbreu,ok,introduction,results;conclusion,0.5597,high,
+CRAAbreu,ok,introduction,results;conclusion,0.0000,low,
+DAbreu,ok,introduction,results;conclusion,0.1226,low,
+DPAbreu,ok,introduction,results;conclusion,0.5162,high,
+DSMAbreu,ok,introduction,results;conclusion,0.5955,high,
+EFAbreu,ok,introduction,results;conclusion,0.1191,low,
+EFSAbreu,ok,introduction,results;conclusion,0.6978,high,
 ENPinho,ok,introduction,results;conclusion,0.3280,medium,
+ESAbreu,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+EVAbreu,ok,introduction,results,0.0887,low,
+FAguiar,ok,introduction,results;conclusion,0.6945,high,
 FMRolim,ok,introduction,results;conclusion,0.5123,high,
+FSAbreu,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+GAMoreira,ok,introduction,results;conclusion,0.5077,high,
+GDAmaral,ok,introduction,results;conclusion,0.6689,high,
 GGSouza,ok,introduction,results;conclusion,0.4525,high,
+GMGonçalves,ok,introduction,results;conclusion,0.7399,high,
+GMPereira,ok,introduction,results;conclusion,0.5554,high,
 HBCReis,ok,introduction,results;conclusion,0.4680,high,
 HBMHenriques,ok,introduction,results;conclusion,0.3190,medium,
+HGVRocha,ok,introduction,results;conclusion,0.4910,high,
+JPTentis,ok,introduction,results;conclusion,0.0000,low,
 LCMarques,ok,introduction,results;conclusion,0.0000,low,
+LFSuett,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
 LMFGaleno,ok,introduction,results;conclusion,0.6510,high,
+LYHarita,ok,introduction,results;conclusion,0.5485,high,
+"MATTA, J. C",ok,introduction,results;conclusion,0.3962,high,
+MBNDias-min,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+MBSTavares,ok,introduction,results,0.0064,low,
+MCosta,ok,introduction,results;conclusion,0.6324,high,
 MDFonseca,ok,introduction,results;conclusion,0.4065,high,
+monopoli10008376,ok,introduction,results;conclusion,0.3773,high,
+monopoli10015726,ok,introduction,results;conclusion,0.0000,low,
+monopoli10017560,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+NRVerly,ok,introduction,,,insufficient_sections,Introducao nao encontrada para comparacao. | Nao houve secoes suficientes para calcular alinhamento.
+NSahlit,ok,introduction,results,0.0000,low,
+PSantos,ok,introduction,results;conclusion,0.4402,high,
 PVMNascimento,ok,introduction,results;conclusion,0.4224,high,
+RPNogueira,ok,introduction,,,insufficient_sections,Nao houve secoes suficientes para calcular alinhamento.
+TAGurgel,ok,introduction,results,0.0612,low,

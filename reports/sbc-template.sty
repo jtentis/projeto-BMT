@@ -1,0 +1,28 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{sbc-template}[2026/06/08 Minimal SBC-compatible template]
+
+\RequirePackage{times}
+\RequirePackage{url}
+
+\newcommand{\inst}[1]{\textsuperscript{#1}}
+\newcommand{\sbcaddress}{}
+\newcommand{\address}[1]{\gdef\sbcaddress{#1}}
+\newenvironment{resumo}{
+  \begin{center}
+    \bfseries Resumo
+  \end{center}
+  \begin{quote}
+}{
+  \end{quote}
+}
+
+\renewcommand{\maketitle}{
+  \begin{center}
+    {\Large \bfseries \@title \par}
+    \vspace{0.8em}
+    {\normalsize \@author \par}
+    \vspace{0.5em}
+    {\small \sbcaddress \par}
+  \end{center}
+  \vspace{1em}
+}

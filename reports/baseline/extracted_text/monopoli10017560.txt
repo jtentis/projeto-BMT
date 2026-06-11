@@ -1,0 +1,2280 @@
+CÁLCULO DE DOSE EFETIVA DECORRENTE DE UM ACIDENTE DE PERDA 
+DE REFRIGERANTE EM ANGRA 2 
+ 
+ 
+ 
+Caio Coqueijo de Abreu 
+ 
+ 
+ 
+ 
+Projeto de Graduação apresentado ao Curso de 
+Engenharia Nuclear da Escola Politécnica, 
+Universidade Federal do Rio de Janeiro, como parte 
+dos requisitos necessários à obtenção do título de 
+Engenheiro. 
+ 
+ 
+Orientadores: Paulo Fernando F. Frutuoso e Melo 
+  Marco Antonio Bayout Alvarenga 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rio de Janeiro 
+Abril de 2016 
+
+CÁLCULO DE DOSE EFETIVA DECORRENTE DE UM ACIDENTE DE PERDA 
+DE REFRIGERANTE EM ANGRA 2 
+ 
+ 
+Caio Coqueijo de Abreu 
+ 
+ 
+PROJETO DE  GRADUAÇÃO  SUBMETIDO  AO  CORPO  DOCENTE  DO CURSO 
+DE ENGENHARIA NUCLEAR DA ESCOLA POLITÉCNICA DA UNIVERSIDADE 
+FEDERAL DO RIO DE JANEIRO COMO PARTE DOS REQUISITOS NECESSÁRIOS 
+PARA A OBTENÇÃO DO GRAU DE ENGENHEIRO NUCLEAR. 
+ 
+Examinada por: 
+ 
+ 
+ 
+ 
+Prof. Paulo Fernando Ferreira Frutuoso e Melo 
+ 
+ 
+ 
+ 
+Dr. Marco Antonio Bayout Alvarenga 
+ 
+ 
+ 
+ 
+Prof. Antonio Carlos Marques Alvim 
+ 
+ 
+ 
+ 
+Prof. Carlos André Vaz Júnior 
+ 
+ 
+ 
+RIO DE JANEIRO, RJ - BRASIL 
+ABRIL de 2016 
+iii  
+ 
+ 
+ 
+ 
+ 
+Abreu, Caio Coqueijo 
+Cálculo de Dose Efetiva decorrente de um Acidente de Perda 
+de Refrigerante em Angra 2. – Rio de Janeiro: 
+UFRJ/ESCOLA POLITÉCNICA, 2016. 
+XII, 54 p.: il.; 29,7 cm. 
+Orientador: Paulo Fernando Ferreira Frutuoso e Melo              
+Marco Antonio Bayout Alvarenga 
+Projeto   de Graduação   – UFRJ/POLI/   Engenharia 
+Nuclear, 2016. 
+Referencias bibliográficas: p. 40-42. 
+1. Cálculo de Dose. 2. Dispersão Atmosférica. 3. 
+Modelo de Pasquill - Gifford. 3.  Paulo Fernando Ferreira 
+Frutuoso e Melo. 4.   Acidentes Postulados. II. Universidade 
+Federal do Rio de Janeiro, Escola Politécnica, Curso de 
+Engenharia Nuclear. III. Cálculo de Dose Efetiva decorrente 
+de um Acidente de Perda de Refrigerante em Angra 2. 
+iv  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aos meus pais, irmão e 
+namorada.
+v  
+Agradecimentos 
+ 
+Gostaria de agradecer aos meus familiares, principalmente meus pais e irmão pelo 
+apoio durante toda minha vida escolar e acadêmica. 
+Aos meus amigos pelo suporte em momentos difíceis. A minha amiga e 
+companheira mais próxima pela paciência e ajuda durante esta fase. 
+Aos professores,  que durante esses 5 anos de graduação, passaram seus 
+conhecimentos de forma clara e objetiva. Especialmente aos Dr. Marco Bayout e 
+Fernando Carvalho pelo suporte durante o projeto final. 
+Ao meu orientador, Paulo Fernando, pelo suporte, dedicação e paciênc ia durante 
+os anos de graduação e projeto final. 
+ 
+vi  
+Resumo do Projeto de Graduação apresentado à Escola Politécnica/ UFRJ como parte 
+dos requisitos necessários para a obtenção do grau de Engenheiro Nuclear. 
+Cálculo de Dose Efetiva decorrente de um Acidente de Perda de 
+Refrigerante em Angra 2 
+ 
+Caio Coqueijo de Abreu 
+Abril/2016 
+Orientador: Paulo Fernando Ferreira Frutuoso e Melo  
+          Marco Antonio Bayout Alvarenga 
+Curso: Engenharia Nuclear 
+ 
+Uma das grandes preocupações do setor nuclear, principalmente para geração de energia, 
+são a segurança e o cálculo de dose decorrente de processos que geram produtos 
+radioativos danosos para seres humanos. Em especial, o Iodo, que acumula na tireóide e 
+possui diversos meio de absorção, seja respiração, alimentação etc. O iodo radioativo, 
+produto de fissão em um reator nuclear de potência, causa câncer e em determinadas 
+concentrações, pode levar ao óbito. Um dos acidentes postulados de base de projeto em 
+reatores nucleares é ruptura da tubulação ou falha de válvulas que levem a liberação de 
+refrigerantes contaminados com produtos radioativos devido à falha de pastilha e 
+revestimento. As liberações destes produtos radioativos em ambiente fora da contenção 
+podem formar nuvens radioativas na vizinhança da usina e outras. Para avaliação do 
+cenário de um acidente de perda de refrigerante na usina de Angra 2 com duração de 2 
+horas de liberação, foram retirados dados meteorológicos da Torre-A, torre mais próxima 
+à rodovia BR101, para o mês de Janeiro no ano de 2009, mês mais chuvoso e quente do 
+ano. O termo fonte foi retirado do Relatório de Análise de Segurança Final de Angra 2 para 
+o acidente postulado grande LOCA (Loss of Coolant Accident) com ruptura em guilhotina 
+de 380 cm² na tubulação da perna quente. A dispersão atmosférica, para o cál culo da 
+concentração normalizada dos produtos de fissão na zona de exclusão,  foi utilizada o 
+programa PAVAN, criado pela NRC, e como comparação, um programa feito no  MATLAB 
+apenas para validar o modelo quanto à ordem de grandeza. Os dois programas utilizam o 
+coeficiente de dispersão de Pasquill-Gifford (1976). O programa PAVAN considerou 
+topografia simplificada da usina de Angra 2. Após o resultado gerado pelo PAVAN, pela 
+concentração normalizada, gerou- se a concentração para cada radionuclídeo do termo 
+fonte retirado do Relatório de Análise Final de Segurança de Angra 2 e calculou-se a dose 
+equivalente para indivíduos do público apenas na zona de exclusão de raio 800 metros. A 
+maior dose efetiva encontrada para o grupo crítico de 8 a 12 anos exposta no período de 
+2 horas foi de 5,48E -03 mSv/ano, valor abaixo do es tipulado pela Comissão Nacional de 
+Energia Nuclear (CNEN, 2005) de 0,3 mSv/ano. 
+ 
+Palavras-chave: Grande LOCA, PAVAN, Modelo Pasquill-Gifford, Termo Fonte, 
+Dose Efetiva, Barreiras de Profundidade, Segurança.
+vii  
+Abstract of Undergraduate Project presented to POLI/UFRJ as a partial fulfillment of 
+the requirements for the degree of Nuclear Engineer. 
+Calculation of the Effective Dose from an Accident of Loss of 
+Coolant in Angra 2 
+ 
+Caio Coqueijo de Abreu 
+April/2016 
+Advisor: Paulo Fernando Ferreira Frutuoso e Melo  
+     Marco Antonio Bayout Alvarenga 
+ 
+Course: Nuclear Engineering 
+ 
+One of the big concerns of the nuclear sector, mainly in energy generation, are the safety 
+and the calculate dose related to the processes that generate radioactive products which 
+are harmful to the human being. Specially the slime that can get accumulated in the 
+thyroid and has several means of absorption, being breath, alimentation, etc... The 
+radioactive iodine, a product from the fission in a power reactor, causes cancer and in 
+determined concentrations it can lead to death. One of the postulate accidents for the 
+project's basis of nuclear power reactors is the rupture of tubing and flaw in the valves 
+that may cause the liberation of contaminated refrigerants by radioactive contents due 
+to the flaws of the pellets and coating. The liberation of these radioactive products in 
+environments that are out of the contention zone may create radioactive clouds around 
+the power plant's neighborhood and other areas according to the wind formation. To the 
+evaluation of the scenario of a large LOCA accident in the power plant of Angra 2, with 
+a two hour liberation, were taken weather data from Tower A, the nearest tower to BR101 
+highway, for the month of January in 2009, the rainiest and hottest month of the year. 
+The source term was taken from the Report of Analisys of Final Security of Angra 2 for 
+the accident postulate large LOCA  (Loss Of Coolant Accident) with a rupture in a 380º 
+cm² guillotine at the tubing of the hot leg. The atmospheric dispersion, for the standard 
+concentration calculation of the fission products in the exclusion zone, it was used the 
+PAVAN program, used by NRC and, as a comparison, a MATLAB program was created 
+just to validate the model, about the order of magnitude. Both programs use Pasquill -
+Gifford dispersion coefficient (1976). PAVAN program considered the simplified 
+topography of the power plant of Angra 2. After the result given by PAVAN, by the 
+standard concentration, the concentration for each radionuclide, taken from the report of 
+Analisys of Final Security, was generated and it was possible to calculate the equivalent 
+dose for the individuals from the public only for the exclusion zone within a 800 meter 
+radius. The largest effective dose found for the critic group between 8 and 12 year old 
+children, exposed for a period of 2 hours was 5,48E-03 mSv/ano, lower amount than the 
+stipulated by the National Nuclear Energy Commission (CNEN, 2005) which was 0,3 
+mSv/ano. 
+Keywords: Large LOCA, PAVAN, Pasquill-Gifford model, Source Term, Effective 
+Dose, Defense of depth, Safety. 
+viii  
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO  
+1.INTRODUÇÃO ........................................................................................................... 1 
+2.REVISÃO BIBLIOGRÁFICA ....................................................................................... 5 
+3.BREVE HISTÓRICO DO ACIDENTE TMI E APRENDIZADOS.................................. 9 
+4.METODOLOGIA ...................................................................................................... 11 
+4.1-Modelo Gaussiano ............................................................................................  11 
+4.2-PAVAN .............................................................................................................. 14 
+4.3-MatLab .............................................................................................................. 15 
+4.4-Cálculo de Dose ................................................................................................ 16 
+5.SÍTIO E ACIDENTE .................................................................................................  19 
+5.1-Descrição do Sítio ............................................................................................. 19 
+5.2-Dados do vento .................................................................................................  22 
+5.3-LOCA e Termo Fonte ........................................................................................ 25 
+5.3.1-Sequência de Eventos ................................................................................ 26 
+5.3.2-Termo Fonte ............................................................................................... 28 
+6.RESULTADOS ........................................................................................................ 31 
+7.CONSIDERAÇÕES FINAIS ..................................................................................... 38 
+REFERÊNCIAS BIBLIOGRÁFICAS ............................................................................ 40 
+Apêndice 1 .................................................................................................................. 43 
+Cálculo de dose Efetiva de Inalação através do Excel ............................................ 43 
+Cálculo Dose Efetiva de Imersão ............................................................................ 48 
+Apêndice 2 .................................................................................................................. 53 
+Programa Matlab ..................................................................................................... 53 
+ 
+  
+ix  
+ 
+ 
+ 
+LISTA DE FIGURAS 
+ 
+Figura 1- Imagem ilustrativa do primeiro Reator Chicago Pile 1. ................................... 1 
+Figura 2- Zona de Exclusão das unidades 1, 2 e 3 de Angra. ....................................... 5 
+Figura 3 - Tipos de Formação de plumas relacionados à temperatura e altura de 
+liberação. .................................................................................................................... 11 
+Figura 4 – Gráfico da Dispersão horizontal por distância da fonte do modelo 
+experimental de Pasquill para 6 categorias de turbulência. ........................................ 13 
+Figura 5 - Gráfico da Dispersão vertical por distância da fonte do modelo experimental 
+de Pasquill para 6 categorias de turbulência. .............................................................. 13 
+Figura 6- Direção de ventos predominantes no sítio de Angra diurno e noturno. ........ 20 
+Figura 7 - Gráfico da temperatura do ar por altitude mostra ideia de circulação do ar 
+devido à diferença de densidades (a) e (b) mostra a linha de estabilidade durante o 
+fenômeno de inversão. ............................................................................................... 21 
+Figura 8 - Topografia em curva de nível real no programa Global Mapper 17.1. ......... 21 
+Figura 9 - Topografia real do sítio de Angra. ............................................................... 22 
+Figura 10 - Sítio de Angra dada a zona de exclusão e localização da Torre-A............ 22 
+Figura 11 - Categoria de ventos para os 4 períodos analisados e a média dos 
+períodos. ..................................................................................................................... 23 
+Figura 12 - Predominância de ventos para cada setor e porcentagem de ventos. ...... 24 
+Figura 13 - Árvore de eventos simplificada para um evento inicial de ruptura de 
+tubulação .................................................................................................................... 26 
+Figura 14 – Relevância dos radionuclídeos em um cenário de evento LBLOCA em Bq.
+ ................................................................................................................................... 30 
+Figura 15 – Concentração de radionuclídeo normalizado para diferentes distâncias de 
+x em dispersão do eixo y para direção norte e perfil de vento de 1.5m/s. A nuvem 
+radioativa se origina no ponto de liberação do termo fonte na contenção de Angra 2 a 
+55 metros acima do solo, o cálculo foi adaptado de dispersões a nível do solo. ......... 32 
+Figura 16 - A figura mostra concentrações de radionuclídeos normalizados para ventos 
+direcionados ao Norte no eixo X a 1000 metros. ......................................................... 33 
+Figura 17 – Total de radionuclídeos liberados em um acidente LOCA por cada faixa 
+etária. ......................................................................................................................... 35 
+Figura 18 - Importância dos radionuclídeos na dose efetiva para o grupo crítico de 8 a 
+12 anos. ...................................................................................................................... 35 
+ 
+ 
+x  
+ 
+ 
+ 
+ 
+ 
+LISTA DE TABELAS 
+ 
+Tabela 1- Fator de correção por faixa etária. .............................................................. 18 
+Tabela 2 – Taxa de inalação para 5 faixas etárias ...................................................... 18 
+Tabela 3 -- Classificação de turbulências relacionadas ao tempo (GIFFORD,1976)
+ ...................................................................................... Error! Bookmark not defined. 
+Tabela 4 -- Classificação quanto à estabilidade (GIFFORD,1976) ................................ 8 
+Tabela 5 - Proporção de ventos para 4 períodos do dia. ............................................. 23 
+Tabela 6 - Classificação dos ventos para dados da Torre-A10 ................................... 25 
+Tabela 7 - Sequência de entrada dos sistemas de segurança a partir do evento de 
+ruptura de tubulação do tipo guilhotina localizada na perna quente do reator de Angra 
+2. ................................................................................................................................ 27 
+Tabela 8 – Radionuclídeos liberados para a atmosfera em um acidente LOCA. ......... 29 
+Tabela 9 - Resultados extraídos do programa PAVAN para a concentração 
+normalizada em seg/m³ para 16 setores à distância de 800 metros definida pela Zona 
+de Exclusão. ............................................................................................................... 31 
+Tabela 10 – Dose efetiva calculada para cada radionuclídeo por faixa etária. ............ 34 
+Tabela 11 – Dose equivalente em Sv/ano decorrente da exposição de radiação no 
+período de 2 horas no cenário de acidente LOCA. ..................................................... 36 
+Tabela 12 - Comparação da dose efetiva e discrepância do FSAR com o calculado. . 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xi  
+ 
+ 
+ 
+ 
+ 
+LISTA DE SIGLAS 
+ 
+AIEA        -   Agência Internacional de Energia Atômica 
+CFR        -  Código Federal de Regulamentações (Code of Federal Regulations, 
+em inglês) 
+CNAAA    -   Central Nuclear Almirante Álvaro Alberto  
+CNEN      -   Comissão Nacional de Energia  Nuclear 
+DBA         -   Design Basis Accident 
+ECCS      -   Emergency Core Cooling System 
+ETN         -   Eletrobrás Eletronuclear S.A. 
+FSAR       -   Final Safety Analysis Report 
+LBLOCA  -   Large Break Loss-of-Coolant-Accident 
+LOCA      -   Loss-of-Coolant-Accident 
+NRC        -   Comissão Reguladora Nuclear dos Estados Unidos  
+PF           -   Produtos de Fissão 
+PG          -   Pasquill-Gifford 
+PWR       -   Pressurized Water Reactor 
+RHR       -   Residual Heat Removal 
+RIMA       -  Relatório de Impacto do Meio Ambiental  
+SREN      -  Sistema de Resfriamento de Emergência do Núcleo 
+SCRAM   -  Safety Critical Rod Ax Man 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1  
+1.INTRODUÇÃO 
+ 
+ Conhecido como Fermi pile CP1 ou Chicago Pile 1 criado no ano de 1942, o 
+primeiro reator trabalhava com  sistemas rudimentares de segurança , 57 seções 
+compostas de urânio físsil como produtor de nêutrons e grafite  como moderador. 
+Eram utilizadas duas medidas de desligamento do reator, ambas para a absorção de 
+nêutrons. A primeira, através de barras de controle ou Scram (Safety Critical Rod Ax 
+Man), era acionada pelo corte de uma corda  de modo manual por um homem (Ax  
+man), como mostra a Figura 1. A  segunda medida de desligamento constituída por 
+blocos com solução de sulfeto de cádmio (Petrangeli, 2006). 
+ 
+Figura 1- Imagem ilustrativa do primeiro Reator Chicago Pile 1. 
+Fonte:  Petrangeli, 2006 
+ 
+Nas décadas de  80 e 90 uma revisão simplificada direcionada para reator es 
+militares, principalmente para a produção de plutônio devido às aplicações militares 
+no Projeto Manhattan, foi modificada quanto ao sistema de segurança. Mudanças 
+como o ciclo de resfriamento do núcleo que se tornou fechado, barreiras de 
+contenção, a disposição dos resíduos nucleares e o armazenamento de elementos 
+combustíveis irradiados em piscinas de água. 
+
+ 
+2  
+ A segurança nuclear consiste em impor condições em plantas e sítios no que diz 
+respeito a princípios de radioproteção de  indivíduos, seus descendentes e danos 
+ambientais provocados por radiação ionizante, cultura que não era vista nos primeiros 
+reatores. De acordo com a norma CNEN 3.01 (CNEN, 2005) os princípios definidos 
+são da Justificação (qualquer técnica relacionada à radiação deve ser justificada e 
+produzir um benefício para a sociedade), Otimização (princípio na qual a exposição 
+deve ser mantida tão baixa quanto exequível , considerando o fator econômico e 
+social) e por fim, o Limite de Dose (evitar a ocorrência de efeitos determinísticos e 
+minimizar efeitos estocásticos). 
+Desde o advento e a necessidade do uso de reatores nucleares para múltiplos 
+propósitos, tornou- se necessária a criação de critérios de segurança além dos 
+princípios já citados. O primeiro documento relacionado ao critério de segurança, 
+internacionalmente aceito em 1971 pelo US-CFR, foi o documento ‘’Critérios gerais 
+de projeto para usinas nucleares’’ (Petrangeli, 2006). Os pontos principais abordados 
+no documento são: 
+ 
+• Perda de refrigerante por ruptura do tipo guilhotina (Acidente de Base de 
+Projeto); 
+• Pressuposto de expulsão rápida da barra de controle mais reativa no 
+núcleo (Acidente de Base de Projeto); 
+• Critério de projeto de proteção inerente do reator na inserção de 
+reatividade negativa em diversas situações; 
+• Sistema de confinamento em cenário de acidente; 
+• Definição do critério de falha. 
+ 
+Além da criação do documento e da aceitação dos critérios de segurança, outros 
+documentos e critérios de base de projeto foram necessários na implantação de uma 
+planta nuclear. Como , por exemplo,  DBA (Design Basis Accident) , definidos por 
+acidentes postulados, escolhidos de maneira  determinísticas ou considerações 
+probabilísticas, utilizados para base de construção e projeto de uma usina nuclear que 
+não exceda a exposição de regulação da NRC. Tais acidentes são divididos em: 
+ 
+• Sobrerresfriamento; 
+• Subrresfriamento; 
+• Sobre-enchimento; 
+• Acidente de perda de vazão; 
+ 
+3  
+• Acidente de perda de refrigerante; 
+• Transiente de Reatividade; 
+• Transiente antecipado com falha do desarme; 
+• Eventos Externos; 
+ 
+Outro conceito importante relativo a  acidentes, especialmente evidenciado em 
+Chernobyl, são as defesas em profundidade e os critérios para aceitação de projeto. 
+Essas são definidas em conjunto com conceitos da filosofia de segurança nuclear e 
+tem como objetivo prevenir, controlar  e mitigar possíveis acidentes ou transientes. 
+Estas defesas e critérios são classificadas em diferentes níveis: 
+ 
+• Operação anormal ou mau funcionamento de componentes; 
+• Controle anormal de operação; 
+• Acidente de base de projeto; 
+• Mitigação e sistemas de emergência; 
+ 
+E barreiras ditas como principais em um projeto de reator: 
+ 
+• Pastilha de combustível; 
+• Revestimento metálico; 
+• Vaso e tubulação; 
+• Contenção; 
+ 
+Visto o contexto histórico simplificado da cultura de segurança ao longo do tempo, 
+o objetivo deste trabalho é calcular, a partir de um evento postulado Large Break Loss 
+Of Coolant Accident (LBLOCA), as doses efetivas e equivalentes para os indivíduos 
+do público em uma área considerada como zona de exclusão definidas pela norma 
+CNEN 09/69 (CNEN, 1969). A proposta, a partir de dados retirados da Torre A -10 
+localizada ao norte da unidade 2, tem como base validar cálculos de dose efetiva para 
+o público a partir de valores de concentração retirados pelo programa An Atmospheric 
+Dispersion Program for Evaluating Design Basis Accidental Releases of Radioactive 
+Materials from Nuclear Power Plants (PAVAN) e por fim comparar com os dados do 
+FSAR-Angra 2 (FSAR, 2010) e Angra 1 (FSAR , 2011). O acidente postulado no 
+relatório final de análise de segurança considera falha de apenas 10% de varetas de 
+combustível e 1% de liberação de radionuclídeos decorrentes da mesma. Já no 
+relatório de Angra 1, os acidentes são considerados realistas e conservadores.  
+ 
+4  
+A análise conservadora considera falha no sistema primário, com falha de 100% 
+no gap e liberação de 50% de Iodo  para fora da contenção. A comparação dos 
+cenários de acidentes para as duas unidades, mesmo com diferenças de ele mentos 
+combustíveis e potência, é gerar uma ordem de grandeza da concentração quanto ao 
+acidente realistas de Angra 2. 
+No capítulo seguinte será apresentada uma revisão bibliográfica sobre normas 
+da CNEN relacionadas ao limite de dose de exposição do público, a caracterização 
+de zonas de exclusão e o limite populacional do sítio e objetivo do trabalho.  
+ Uma revisão histórica sobre o acidente  Small Break Loss Of Coolant Accident  
+(SBLOCA), ocorrido em TMI , será feita no terceiro capítulo a fim  de introduzir e 
+exemplificar o cenário de um acidente tipo LOCA. O acidente de estudo para este 
+trabalho é o cenário LBLOCA. Tais acidentes , assim como os de Chernobyl e 
+Fukushima, servem de aprendizado e lições para gerações futuras de reatores quanto 
+à tecnologia e operação. 
+O capítulo quatro descreverá a metodologia do modelo gaussiano de dispersão, 
+programas feitos em Fortran e MatL ab utilizados para o cálculo de concentração e 
+fórmulas utilizadas para a definição de dose efetiva para indivíduos, seguindo normas 
+e tabelas da CNEN (CNEN, 2005). As concentrações de radionuclídeos liberados 
+durante um acidente LBLOCA serão calculadas pelo programa PAVAN  em Fortran 
+70, usado pela U.S Nuclear Regulatory Co mmission ou NRC. O detalhamento do 
+programa feito em MatLab que gera gráficos de áreas em 2D e 3D da concentração, 
+seguindo o modelo de pluma gaussiana, será mostrado no mesmo capítulo. 
+No quinto capítulo será descrito o cenário do acidente LBLOCA no sítio de Angra 
+na unidade 2 e a determinação do termo fonte.   
+Por fim, o Capítulo 6 irá compilar os resultados das concentrações  que serão 
+usadas no cálculo de dose efetiva para diferentes faixas etárias, seguido da s 
+conclusões no Capítulo 7. Vale ressaltar que os dados dos ventos usados para o 
+cálculo no programa PAVAN e no MATBLAB foram retirados de Aguiar (2015) apenas 
+para a torre A do sítio de Angra. O programa Pavan utilizado segue a orientação do 
+relatório RG1.145 de “ Atmospheric Dispersion Models for Potential Accident 
+Consequence Assessments at Nuclear Power Plants’’ (NRC, 1982). 
+ 
+ 
+5  
+2.REVISÃO BIBLIOGRÁFICA 
+ 
+O reator de Angra 2 é composto por 193 elementos combustíveis e 236 varetas 
+de combustível por elemento, com enriquecimento inicial em 3 regiões de 1,9%, 2,5% 
+e 3,2% de Urânio-235 (ETN, 2016). O enriquecimento no carregamento atual de 3,6% 
+e 4,0% de Urânio-235 é capaz de gerar potência líquida de 1.280MWe (ETN, 2016). 
+O tamanho da área de exclusão,  como mostrado na Figura 2, é determinado  
+(ETN, 1998) pela potência do reator em questão, no caso a unidade 2 de Angra, com 
+potência de 1.350 MW capaz de atender ao consumo de 2 milhões de habitantes. 
+ 
+ 
+Figura 2- Zona de Exclusão das unidades 1, 2 e 3 de Angra.  
+Fonte: RIMA - Angra 
+ 
+A zona de exclusão pela norma CNEN 09/69 (CNEN, 1969)  é definida pela área 
+pertencente ao patrimônio da concessionária, que circunda o reator. Nesta área ela 
+tem autoridade para determinar todas as atividades, inclusive remoção de pessoal. 
+Portanto, a concessionária responsável, a Eletronuclear,  possui exigência quanto à 
+zona de exclusão relacionada à dose equivalente a indivíduos localizados em 
+qualquer ponto de seu contorno.  
+Em um período de 2h após a liberação de produtos de fissão, o indivíduo não 
+deverá receber uma dose corporal limite de 25 REM (dose externa)  ou 0,25 Sv  ou 
+uma dose na tireóide equivalente a 300 REM (dose interna) ou 3 Sv devido à inalação 
+de I-131 situado em um ponto sobre a linha limítrofe externa (CNEN 09/69, 1969). 
+
+ 
+6  
+Alguns pontos devem ser destacados como por exemplo o caso do sítio de Angra . 
+Neste caso, a área de exclusão pode ser atravessada pela rodovia BR101 visto que 
+ela não está  perto da instalação a ponto de comprometer as operações, e, em 
+hipótese alguma,  devem existir residências  nesta zona. Os indivíduos 
+ocupacionalmente expostos e do público devem estar sujeitos ao plano de remoção 
+explicitado na norma CNEN 09/69 (CNEN, 1969).  
+ 
+Atividades da concessionária não relacionadas com a operação do 
+reator, poderão ser permitidas no interior da área de exclusão, a 
+critério da CNEN, dentro de limitações apropriadas, desde que não 
+resultem em riscos à saúde e segurança públicas. (CNEN,1969, p.4) 
+ 
+Para a determinação da zona de baixa população, a norma CNEN 09/69 
+classifica: 
+ 
+Zona de Baixa População é a área pouco habitada adjacente à área 
+de exclusão. O número total de habitantes deve permitir a existência 
+de medidas protetoras a serem tomadas em caso de acidente grave. 
+§ 1°  - Esta definição não especifica uma população total, ou 
+distribuição de população permissível, dentr o desta zona, uma vez 
+que a situação pode variar de um caso para outro.  
+§ 2° - Baixa população corresponde a um número total e a uma 
+distribuição dos habitantes, conjugados, dentro da área considerada, 
+tal que, dadas as vias de comunicação existentes na m esma, seja 
+possível planejar e executar sua evacuação , ou instruí -los a tomar 
+abrigo, dentro de um certo intervalo de tempo a partir do início de um 
+acidente grave. (CNEN, 1969, p.4) 
+ 
+Neste trabalho, considera-se que o sítio de Angra de instalações múltiplas segue 
+o artigo 17. § 2° que diz:  
+ 
+Se os reatores são suficientemente independentes de modo que um 
+acidente num deles não inicie um acidente em outro, as dimensões 
+da área de exclusão, da zona de baixa população e da distância ao 
+centro da população serão calculadas para cada reator 
+individualmente e as envolventes da superposição plana das áreas 
+assim calculadas serão então tomadas como seus respectivos limites. 
+(CNEN, 1969, p.6) 
+ 
+ 
+7  
+ 
+Para o cálculo de dose efetiva decorrente de um acidente de ruptura n a perna 
+quente do reator de Angra 2 em 380 cm², o cenário com liberação do inventário de 
+radionuclídeos devido a ruptura na contenção levaria a doses radiológicas a 
+indivíduos do público situados na zona de exclusão. 
+O modelo utilizado para o cálculo de do se recomendado pela AIEA (2001) 
+envolve os produtos de fissão considerados na liberação par atmosfera, taxa de 
+liberação relacionada ao tempo de acidente em 2 horas, dados meteorológicos, 
+conversão de dose para faixas etárias analisadas e concentração normalizada ( 𝜒𝜒 /Q). 
+Para plantas nucleares, a regulamentação exige a avaliação das características 
+do site relacionadas a dispersão atmosférica e o estabelecimento de parâmetros e 
+modelos de dispersão de modo que as doses radiológicas decorrentes de um acidente 
+não exceda o limite imposto pelo ó rgão regulador. O modelo de dispersão utilizado 
+para o licenciamento de instalações nucleares é o de pluma gaussiana. A partir das 
+classificações dos tipos de estabilidade e regimes de ventos, os coeficient es de 
+dispersão vertical e horizontal são determinados. Este modelo foi gerado a partir de 
+valores experimentais feitos por Pasquill-Gifford para 6 categorias de estabilidade. 
+Para explicar o quadro meteorológico da região, seguindo o modelo de Pasquill-
+Gifford (1976 ), é fundamental caracterizar a topografia, intensidade do vento e 
+classificação quanto à estabilidade atmosférica.  
+Na Tabela 1 a classificação é dividida em período noturno e diurno, velocidade 
+dos ventos, e a estabilidade de Pasquill -Gifford (1976). A Tabela 2 mostra a 
+estabilidade para as 6 categorias.  
+ 
+Tabela 1 - Classificação de turbulências relacionadas ao tempo (GIFFORD,1976). 
+Classificação de Turbulência 
+Velocidade 
+do vento na 
+superfície em 
+[m/seg] 
+Período Diurno Período Noturno 
+Forte Moderado Fraco 
+Nublado ou 
+3/8 de 
+nebulosidade 
+Maior ou 
+igual a 3/8 
+nebulosidade 
+< 2 A A B - - 
+2 A – B B C E F 
+4 B B – C C D E 
+6 C C – D D D D 
+> 6 C D D D D 
+ 
+ 
+8  
+ 
+Tabela 2 -- Classificação quanto à estabilidade (GIFFORD,1976) 
+Estabilidade 
+Estabilidade Classificação 
+A extremamente instável 
+B moderadamente instável 
+C levemente instável 
+D condições neutras 
+E* condições levemente estáveis 
+F* condições moderadamente estáveis. 
+E* e F*- Condições de Inversão 
+ 
+ 
+9  
+3.BREVE HISTÓRICO DO ACIDENTE TMI E 
+APRENDIZADOS 
+ 
+A planta de TMI está localizada na Pensilvânia, EUA, cerca de 10 km a sudeste 
+de Harrisburg (c apital do estado) e consiste em duas unidades de reatores do tipo 
+PWR ( pressurized water reactor ) com potências de 792MWe e 880MWe, 
+respectivamente. O acidente severo de TMI, na unidade 2, consistiu na fusão parcial 
+do núcleo e na grande liberação de produtos radiativos para a contenção. O acidente 
+serviu de lição e aprendizado de plantas nucleares quanto ao licenciamento e projeto 
+(Knief, 1992).  
+O reator da unidade 2 consistia em um PWR com 2 geradores de vapor, vaso do 
+reator, 2 bombas principais e pressurizador no sistema primário. O sistema de 
+emergência consistia em barras de controle, injeção de água a alta pressão (HPI) do 
+sistema de emergência de resfriamento do núcleo (ECCS), tanque de água borada e 
+sistema de recirculação do ECCS (SUMP). 
+Os fatores de projeto contr ibuintes para a condição de acidente constituem  
+problemas que foram  abordados em documentos pós -TMI (N uclear Regulatory 
+Commission, 2016) , como teste periódico in eficaz em válvulas e deficiências de 
+projeto na sala de controle acessível aos operadores (fatores humanos).  
+O primeiro evento deste acidente foi a perda de refrigerante do sistema primário 
+pelas válvulas do pressurizador, responsáveis pelo alívio de pressão do sistema 
+primário. A válvula solenóide falhou aberta, uma vez que sua condição inicial era de 
+fechar após o alívio de pressão. Devido a essa perda de refrigerante, o limite de fuga 
+do primário foi  ultrapassado. No entanto, os operadores não detectaram a falha no 
+fechamento da válvula de alívio. 
+O segundo problema foi no sistema secundário, em que a válvula da água de 
+alimentação falhou fechada, gerando falta de refriger ação pelo secundário e 
+consequentemente um Sub-resfriamento do sistema primário. Vale ressaltar que o 
+teste de abertura da válvula tinha sido realizado dois dias antes do ocorrido. 
+O terceiro e último evento foi o desarme da bomba do condensador, ocasionado 
+pela resina do desmineralizador. 
+A sequência de eventos é dada a seguir: 
+ 
+• Aumento da pressão do primário pela perda de água de alimentação do 
+gerador de vapor pelo lado secundário; 
+• Desarme da bomba de água de alimentação e turbina; 
+ 
+10  
+• Desarme do reator; 
+• Decréscimo da pressão do primário pela válvula do pressurizador; 
+• Válvula de água de alimentação bloqueada; 
+• Injeção a alta pressão pelo ECCS; 
+• Ruptura dos discos do tanque de alívio; 
+• Redução do nível de refrigerante no Reator; 
+ 
+Alguns erros de natureza organizacional podem ser exemplificados, como troca 
+ineficaz de informações sobre a condição do reator pela equipe de operação, interface 
+da sala de controle deficiente, treinamento inadequado dos operadores, manutenção 
+ineficaz de válvula e alarm es de menor importância  que mascar aram os de maior 
+importância (Knief,1992). 
+Algumas exigências pós TMI foram emitidas pela NRC: 
+ 
+1. RG 1.97 Instrumentação para Reatores nucleares  refrigerado a água leve 
+para avaliação de condições do contorno durante o acidente (NRC,1980); 
+2. Critério de preparação e avaliação de respostas a emergências 
+radiológicas e preparação de apoio a centrais nucleares (NRC -NUREG 
+0654);  
+3. Requisitos para a capacidade de resposta de emergência (NRC-NUREG 
+0737); 
+4. Critérios funcionais para Resposta de Emergência Instalações (NRC - 
+NUREG 0696,1981) 
+5. Condições da licença ou compromissos com critério de segurança 
+específicas quanto à operação da usina (NRC); 
+ 
+ 
+ 
+11  
+4.METODOLOGIA 
+ 
+Neste capítulo serão explicados o modelo gaussiano utilizado no programa 
+PAVAN em Fortran 70, o programa feito em MATLAB e o cálculo de dose efetiva para 
+indivíduos na zona de exclusão. 
+ 
+4.1-Modelo Gaussiano 
+ 
+Para introduzir o modelo de Pasquill-Gillford, será necessário classificar os 5 tipos 
+de pluma que dependem da estabilidade da atmosfera. Pela definição, a formação de 
+pluma é uma coluna ou nuvem contínua de fumaça emanada da boca de uma 
+chaminé (Lamarsh e Baratta, 2000). Portanto, os efluentes radioativos emitidos de 
+uma instalação nuclear podem ser comparados pelo comportamento da mesma forma 
+que fumaça. As classificações típicas para uma pluma são: estável, neutra abaixo e 
+estável acima (Fumigação), instável, neutra, estável abaixo e neutra acima. A Figura 
+3 exemplifica as classificações de uma pluma juntamente com os efeitos  causados 
+pela Temperatura  x Altura. 
+ 
+ 
+Figura 3 - Tipos de Formação de plumas relacionados à temperatura e altura de liberação.  
+Fonte: Lamarsh e Baratta. 
+
+ 
+12  
+Um efluente lançado em algum momento para a atmosfera , não só 
+se move de uma forma bruta , devido às várias condições de 
+temperatura , mas como também partículas individuais no efluente se 
+tornam cada vez mais separadas umas das outras, como o resultado 
+de turbulência atmosférica local (Lamarsh e Baratta, 2000). 
+ 
+Para o nosso caso, considerando a fonte pontual na origem de coordenadas, a 
+fonte irá emitir o poluente a uma taxa constante de Q Bequerel por unidade de Tempo. 
+A concentração X, independente do tempo e com velocidade média do vento v a uma 
+direção x, pode ser modelada pela equação (1). 
+ 
+𝐾𝐾𝑦𝑦
+𝑑𝑑2𝜒𝜒
+𝑑𝑑2𝑦𝑦 + 𝐾𝐾𝑧𝑧
+𝑑𝑑2𝜒𝜒
+𝑑𝑑2𝑧𝑧 = 𝑣𝑣̅
+𝑑𝑑𝜒𝜒
+𝑑𝑑𝑑𝑑            (1)     
+ 
+Ki= coeficiente de difusão na direção i, para i=y,z. 
+v= velocidade média do vento na direção x 
+ 
+O efluente que segue uma direção x sofre dispersão vertical e horizontal seguindo 
+uma distribuição de Gauss . A equação (2) relaciona valores de difusividade térmica 
+do ambiente quanto à dispersão na direção i. 
+ 
+σi = (
+𝐾𝐾𝑖𝑖2𝑑𝑑
+v )1/2    (2) 
+ 
+A solução para a equação (1) esta evidenciada pela equação (3). 
+ 
+ 
+  𝜒𝜒 =
+𝑄𝑄′
+2𝜋𝜋σ𝑦𝑦σ𝑧𝑧𝑣𝑣� 𝑒𝑒
+[−( 𝑦𝑦2
+2σ𝑦𝑦2+ 𝑧𝑧2
+2σ𝑧𝑧2)]
+    (3) 
+  
+No entanto, o modelo experimental de Pasquill mostrou que a dispersão vertical 
+e horizontal aumenta muito mais que a raiz da distância para a fonte. A Figura  4 e 5 
+mostra, respectivamente, o gráfico pra a dispersão horizontal  e vertical por distância 
+da fonte em metros para 6 categorias de turbulência. 
+ 
+13  
+ 
+ 
+Figura 4 – Gráfico da Dispersão horizontal por distância da fonte do modelo experimental de 
+Pasquill para 6 categorias de turbulência. 
+ 
+Figura 5 - Gráfico da Dispersão vertical por distância da fonte do modelo experimental de 
+Pasquill para 6 categorias de turbulência. 
+
+ 
+14  
+ 
+Porém, para um nível diferente do solo, deve-se levar em consideração um fator 
+h de altura da chaminé para o cálculo da concentração, dado pela equação (4). 
+ 
+𝜒𝜒 =
+𝑄𝑄′
+2𝜋𝜋σ𝑦𝑦σ𝑧𝑧𝑣𝑣� �𝑒𝑒
+[−(
+𝑦𝑦2
+2σ𝑦𝑦2+
+(𝑧𝑧+ℎ)2
+2σ𝑧𝑧2 )]
++ 𝑒𝑒
+[−(
+𝑦𝑦2
+2σ𝑦𝑦2+
+(𝑧𝑧−ℎ)2
+2σ𝑧𝑧2 )]
+�  (4) 
+ 
+Portanto, para este modelo desenvolvido por Pasquill, os cálculos da 
+concentração em Bq/m³ de uma fonte estacionária Q serviram de dados de entrada 
+para o programa PAVAN. 
+ 
+4.2-PAVAN 
+ 
+O programa PAVAN foi criado para estimar a concentração no nível do solo de 
+radionuclídeos em um acidente em potencial. Utilizado pela NRC, o PAVAN usa 
+dados de frequência atmosférica, ventos com 8 classificações seguindo o modelo de 
+Pasquil-Gifford (1976) e direções  em 16 setores na rosa dos ventos. Como resultado, 
+as concentrações em X/Q e direções em vários períodos de tempo são calculadas 
+para cada setor no limite da área de exclusão e/ou de baixa população. 
+Os cálculos da concentração são baseados na teoria de distribuição normal em 
+torno do eixo da pluma explicado anteriormente.  
+O máximo valor de concentração, o maior valor do setor e para todo o sítio s ão 
+representados para o período de 0- 2 horas. Para períodos acima de 2 horas, a 
+concentração é calculada pela média anual, como os procedimentos descritos no 
+Guia de Regulamentação 1.111/(NRC, 1977) e usada com as concentrações de 0-2 
+horas para interpolação logarítmica, definindo períodos de 8, 16, 72 e 624 horas.  
+O programa tem opções de cálculo de liberação de radiação que incluem  todos 
+os pontos a uma altura de 2,5 vezes a altura das estruturas sólidas adjacentes (NRC, 
+1982), situações de fumigação considerando, um pouco depois do nascer do sol ou 
+em uma manhã clara, a inversão por efeito adiabático ou no nível do solo.  
+A equação (5) mostra o cálculo de concentração a uma altura h que será utilizado 
+neste trabalho para o cálculo de dose efetiva. 
+ 
+ 
+15  
+𝜒𝜒
+𝑄𝑄 (𝑥𝑥, 𝑖𝑖, 𝑗𝑗, 𝑘𝑘) =
+𝑒𝑒
+�−1
+2�ℎ𝑒𝑒𝑘𝑘(𝑥𝑥)
+σ𝑧𝑧𝑗𝑗(𝑥𝑥)�
+2
+�
+𝜋𝜋σ𝑦𝑦𝑗𝑗(𝑥𝑥)σ𝑧𝑧𝑗𝑗(𝑥𝑥)𝑈𝑈𝑖𝑖𝑗𝑗(ℎ𝑠𝑠)    (5) 
+ 
+X/Q(x,i,j,k)=concentração relativa a uma distância x com categoria de velocidade 
+do vento de Pasquil i, estabilidade j e setor k  em seg/m³. 
+Ui,j(hs)=máxima velocidade do vento para categoria i e estabilidade j ajustada a 
+altura de liberação em m/seg. 
+Hek(x)=altura da pluma em um setor k a favor do vento e distância x em metros. 
+Ơyj(x)=coeficiente de dispersão lateral da pluma na estabilidade j a uma distância 
+x em metros 
+Gerando os dados através do programa PAVAN em seg/m³, o cálculo da 
+concentração em Bequerel por segundo,  será multiplicado para cada radionuclídeo 
+como será mostrado na seção 5.3.2. 
+ 
+4.3-MatLab 
+ 
+O programa feito no MatLab 2015 segue o modelo gaussiano dado pela equação 
+(6), porém considera valores H de elevação em relação ao solo para o cálculo da 
+concentração de radionuclídeos em diferentes distâncias.  
+O cálculo servirá apenas para áreas relativamente planas, portanto, para um 
+terreno acidentado como o de Angra, a concentração será c alculada para áreas de 
+raio de 700 metros, com elevação zero.  O modelo utiliza valores aproximados da 
+difusividade do terreno com o a dispersão atmosférica vertical e horizontal dada pela 
+equação 7. Portanto, para terrenos acidentados, as incertezas geradas pela 
+turbulência e elevação tornam o modelo inapropriado. 
+ 
+𝐶𝐶(𝑥𝑥, 𝑦𝑦) =
+𝑄𝑄
+𝜋𝜋σ𝑦𝑦σ𝑧𝑧𝑣𝑣� 𝑒𝑒
+[−1
+2(𝑦𝑦2
+σ𝑦𝑦2+𝐻𝐻2
+σ𝑧𝑧2)]
+    (6) 
+ 
+O programa tem a capacidade de mostrar a concentração no nível do solo. Porém 
+algumas condições devem ser satisfeitas, como liberação constante e contínua, 
+terreno relativamente plano, velocidade e coeficientes de Pasquill-Gillford constantes 
+para pequenas distâncias. 
+ 
+16  
+A saída do programa fica limitada a partir de grandes valores para x, portanto, o 
+gráfico em 2D para a  dispersão em z(x,y) não possui  riquezas de detalhes. O 
+programa servirá apenas para traçar gráfico de dispersão decorrente de um acidente 
+com liberação contínua normalizada em seg/m³. O cálculo do programa se dá através 
+da conversão da difusividade em c oeficientes de Pasquill- Gifford (1976) dado pela 
+equação (7) (Lamarsh e Baratta, 2000). 
+ 
+                           K𝑖𝑖 =
+ơ𝑖𝑖
+2v
+2𝑑𝑑                                                 (7) 
+    
+Onde: 
+x = Distância relativa da fonte ao ponto de cálculo da concentração; 
+ơ = Coeficiente de dispersão vertical e horizontal; 
+v = Velocidade do vento. 
+ 
+Para fins de comparação, a equação (6) utilizada no programa tem como entrada: 
+ 
+• Velocidade do vento igual a 1,5 m/s; 
+• Y limitado em Ymin=0 e Ymax=100; 
+• X limitado em Xmin=10 e Xmax=1000; 
+• Altura de elevação em relação ao solo 50m; 
+• Liberação em nível do solo; 
+• Coeficientes de Pasquill-Gifford para Xmin =0 até Xmax =800; 
+ 
+4.4-Cálculo de Dose 
+ 
+Seguindo o objetivo proposto do trabalho, após calcular a concentração de cada 
+radionuclídeo a uma distância da zona de exclusão, o cál culo de dose efetiva para 
+indivíduos do público decorrente da passagem na rodovia BR101 será feito através 
+da equação (8) segundo AIEA (2001). 
+ 
+Com a  finalidade  de demonstrar conformidade com 
+limites  de  dose  efetiva, deve  ser  empregada a soma da 
+dose efetiva devida à exposição externa no período especificado com 
+a dose efetiva comprometida devida a incorporações de substâncias  
+radioativas no mesmo período.(CNEN, 2011, p.1)  
+ 
+17  
+ 
+ Para o cálculo de dose efetiva (Eefetiva), na equação (8) serão levados em conta 
+fatores de dose por inalação (Einalação)  e exposição externa (Eimersão) devido à imersão 
+em uma pluma . Outros fatores, como exposição externa à radiação por deposição no 
+solo e interna devido à ingestão de alimentos contaminados não serão analisados 
+pelo fato de ter contribuições ao longo prazo. 
+ 
+Eefetiva=Einalação+Eimersão                                      (8) 
+ 
+O cálculo de dose efetiva não deve ultrapassar valores estipulados pela CNEN 
+para o grupo crítico. 
+ 
+ O grupo crítico é definido por grupo de indivíduos do público, 
+razoavelmente homogêneo em relação a uma determinada fonte ou 
+via de exposição, que seja típico dos indivíduos recebendo as maiores 
+doses efetivas ou doses equivalentes devidas àquela fonte ou via de 
+exposição.(CNEN, 2011, p.5)  
+ 
+O grupo crítico será tomado como base a partir do cálculo de dose total para cada 
+radionuclídeo. De acordo com CNEN 3.01 (CNEN, 2005) ,  a restrição de dose é 
+definida como valor inferior ao limite de dose como uma restrição prospectiva nas 
+doses individuais relacionadas a uma determinada fonte de radiação ionizante, 
+utilizado como limite superior no processo de otimizaç ão relativo a essa fonte. Tal 
+restrição corresponde a um valor limite de 0,3 mSv de dose efetiva anual referente ao 
+grupo crítico. 
+A dose efetiva por exposição externa devido a uma pluma é calculada através da 
+equação (9) (AIEA, 2001), em que C a é a concentração do radionuclídeo i a uma 
+distância x calculada no programa PAVAN e multiplicada pelo valor de taxa de 
+emissão. O coeficiente Of é a fração adimensional de ano na qual o grupo crítico é 
+exposto à imersão de uma nuvem que depende da particularidade da exposição. No 
+trabalho foi considerado igual a 1. O valor de DFim é o coeficiente de dose efetiva por 
+imersão de um indivíduo em uma pluma radioativa para o nuclídeo i de emissor gama 
+dado em Sv/ano por Bq/m³. Os coeficientes de dose para exposição ao público de 
+CNEN (2011) para diferentes faixas etárias com o fator de correção estão disponíveis 
+na Tabela 3. 
+ 
+ 
+18  
+Eim=CaDFimOf                                    (9) 
+Tabela 3- Fator de correção por faixa etária. 
+Fator de correção para a idade para membros do 
+público 
+<2 1,4 
+2 a 7 anos 1,4 
+8 a 12 anos 1,2 
+13 a 17 anos 1,2 
+>18 anos 1 
+    
+A dose efetiva  segundo AIEA (2001)  devida à inalação de radionuclídeos é 
+calculada pela equação (10): 
+ 
+Einal=CaRinalaçãoDFinalação                      (10) 
+Onde Rinal é a taxa de inalação anual  para adultos e crianças em m³/ ano. Para 
+o cálculo, foram consideradas 5 taxas de inalação para 5 faixas etárias como mostra 
+a Tabela 4 (Dias, 2002) 
+ 
+Tabela 4 – Taxa de inalação para 5 faixas etárias 
+Taxa de Inalação  
+Faixa etária <2 2 a 7 anos 8 a 12 
+anos 
+13 a 17 
+anos 
+>18 
+anos 
+Taxa de 
+Inalação(m³/ano) 1400 3700 8000 8000 8400 
+ 
+O valor de DFinalação é o coeficiente de dose efetiva por inalação em Sv/Bq e foram 
+obtidos pela CNEN 3.01 (CNEN, 2011) de Coeficiente de Dose para exposição ao 
+público. 
+Para resultados, no C apítulo 6, serão mostrados dose efetiva total dada pela 
+equação para cada radionuclídeo e a faixa etária de maior dose recebida.  
+Por fim, será analisada a concentração de I-131 e I-133 relativa à importância na 
+contribuição de dose efetiva total para cada faixa etária afim de definir o grupo crítico.  
+  
+ 
+19  
+5.SÍTIO E ACIDENTE 
+A unidade 2 de Angra está localizada na Latitude 23º00’24.73 Sul e Longitude 
+44º27’30.73 Oeste (FSAR, 2010) no Centro Nuclear Almirante Álvaro Alberto formado 
+pelo conjunto de 3 unidades de propriedade da Eletronuclear. Neste capítulo, serão 
+apontadas as etapas e árvore de eventos em um cenário LBLOCA na tubulação da 
+perna quente, que por estar ligada ao sistema de resfriamento do reator, torna-se um 
+agravante para o critério de sucesso de remoção de calor  do núcleo. Será mostrado 
+o termo fonte de liberação,  falha dos sis temas de segurança da usina e as 
+características do sítio em relação ao regime de ventos e topografia. 
+ 
+5.1-Descrição do Sítio 
+ 
+A planta nuclear CNAAA II localizada no distrito de Cunhambebe no município de 
+Angra dos Reis no Estado do Rio de Janeiro, se encontra a uma distância de 133km  
+da cidade do Rio de Janeiro, 216 km de São Paulo e 343 km de Belo Horizonte (FSAR, 
+2010). 
+O sítio é influenciado por 3 topografias básicas: Serra do Mar, Vale do Paraíba e 
+Planície Costeira que proporciona um agravante no regime de ventos e estabilidade 
+devido a sua topografia. Situado na praia de Itaorna, o sítio é cercado por encostas 
+de declividade entre 30º e 40º, coberta por depósitos de tálus e colúvios. No km 131, 
+apresenta-se o perigo devido a sinais de escorregamento com rachaduras da encosta 
+da rodovia BR101, com histórico de deslizamento e bloqueio que influenciam 
+diretamente na evacuação de moradores em cenário de acidente (ETN, 1998).  
+Em relação aos ventos predominantes no sítio de Angra, o regime de ventos 
+diurnos de brisas marítimas se direciona ao Vale do Paraíba enquanto o regime 
+noturno possui um fluxo oposto à direção da Baía de Ilha Grande, como mostrado na 
+Figura 6. 
+O clima regional é predominantemente tropical úmido e quente, porém existem 
+fatores como latitude e relevo que podem causar uma diversidade climática na região. 
+Um fenômeno importante de inversão de ventos alísios deve ser ressaltado, 
+causados pela diferença de densidade das camadas de ar (ETN, 1998). 
+ 
+20  
+ 
+Figura 6- Direção de ventos predominantes no sítio de Angra diurno e noturno. 
+Fonte: Google Maps – Abreu, Caio 
+ 
+Em  um dia normal, o aquecimento do solo pelo sol faz com  que o ar 
+imediatamente acima do solo fique em uma temperatura mais elevada em 
+comparação ao ar mais elevado, logo, a densidade do ar quente por ser menor, faz 
+com que o ar se desloque para cima formando um ciclo de ar contínuo (Figura 7a). 
+Em ocasiões de céu aberto , porém sem sol, como em noites claras ou manhãs 
+frias, a temperatura do solo decresce devido à  baixa irradiação solar, portanto, o ar 
+frio de maior densidade tende a permanecer a nível do solo de modo que não haja 
+deslocamento das camadas de ar (Figura 7b). Este nível é considerado como estável 
+ou de inversão.  
+Este fator torna- se importante no cálculo de dispersão atmosférica, dada por 
+Pasquill-Gifford (1976), por ser um agravante quanto à dispersão horizontal e vertical 
+de produtos radiativos. 
+ 
+
+ 
+21  
+ 
+Figura 7 - Gráfico da temperatura do ar por altitude mostra ideia de circulação do ar devido à 
+diferença de densidades (a) e (b) mostra a linha de estabilidade durante o fenômeno de 
+inversão.  
+Fonte: Lamarsh e Baratta 
+A topografia de Angra foi retirada do programa Global Mapper (Global Mapper, 
+2016) versão 17.1, como mostrado na Figura 8, e refeito através de curvas de nível 
+pelo programa Civil 3D (Autodes k, 2016), como mostra a Figura 9 apenas para 
+visualização e compreensão da turbulência e predominância de ventos da região. 
+ 
+ 
+Figura 8 - Topografia em curva de nível real no programa Global Mapper 17.1.  
+
+ 
+22  
+ 
+Figura 9 - Topografia real do sítio de Angra.  
+Fonte: AutoCad Civil 3D - Abreu, Caio 
+5.2-Dados do vento 
+ 
+No conjunto de fatores, o regime de estabilidade A, por ser extremamente instável 
+em um cenário de acidente faz com que os produtos de fissão liberados na atmosfera 
+tendam a se dispersar mais rapidamente. Em contrapartida,  as classificações E e F 
+causadas por efeito de inversão do ar faz em com que a concentração de 
+radionuclídeos fique limitada pelo nível de estabilidade apresentado na Figura 7b. 
+Para o estudo de caso, os dados de ventos avaliados foram retirados apenas 
+para a Torre A-10 localizada ao Norte da unidade 2,a uma altura de 50 metros, como 
+mostra a Figura 10, devido à importância da concentração em um cenário de acidente 
+para a rodovia BR101 e pela predominância de ventos no setor N, explicado mais à 
+frente. 
+ 
+Figura 10 - Sítio de Angra dada a zona de exclusão e localização da Torre-A.  
+Fonte: Google – Abreu, Caio 
+
+ 
+23  
+Os dados de vento da Torre A utilizados para este trabalho foram retirados de 
+Aguiar (2015) , em que foram tratados para servir como entrada para o programa 
+CALMET e abrange m o período mais chuvoso e quente da região, Janeiro/09. O 
+período chuvoso está relacionado ao agravante no cálculo de dose efetiva devido a 
+deposição de radionuc lídeos no solo.  No entanto, por ser considerado meio de 
+exposição ao indivíduo a longo prazo, não será considerado no cálculo de dose. 
+Os resultados mostrados  na Tabela 5 são para diferentes períodos do dia e 
+intensidades de ventos na Torre A. 
+ 
+Tabela 5 - Proporção de ventos para 4 períodos do dia. 
+Torre A-10 (23° 00' '9'' S, 44° 00' 30'' W) 
+Intensidade do 
+Vento[m/s] 
+00:00-05:00 06:00-11:00 12:00-17:00 18:00-23:00 Média 
+0.5- 2.1 87,6% 79,6% 91,9% 83,9% 85,7% 
+2.1 - 3.6 5,4% 2,2% 3,8% 9,1% 5,1% 
+< 0.5 7,0% 18,3% 4,3% 5,9% 8,9% 
+3.6 - 5.7 - - - 1,1% 0,3% 
+ 
+A Figura 11  mostra a intensidade e porcentagem de ventos para todos os 
+subperíodos da Tabela 5 e a média por intensidade de ventos. 
+ 
+ 
+Figura 11 - Categoria de ventos para os 4 períodos analisados e a média dos períodos. 
+ 
+
+ 
+24  
+Quanto à direção do vento para as 4 divisões temporais, a Figura 12  mostra a 
+imagem de satélite do sítio de Angra com o posicionamento da Torre A-10 analisada. 
+ 
+ 
+Figura 12 - Predominância de ventos para cada setor e porcentagem de ventos. 
+Fonte: Aguiar, 2014. 
+Não será assumido o instante do acidente LBLOCA, pois, para que a visão seja 
+geral, os dados de ventos utilizados deverão ser a média de velocidade e direção 
+abrangendo todo o período do dia. Portanto, o uso dos dados será compilado para a 
+média dos ventos e das direções da Figura 12 para a Torre A (Aguiar, 2015). 
+A Torre A foi escolhida devido à importância quanto a proximidade da BR101, a 
+exposição de indivíduos do público deco rrente do acidente LBLOCA e ao regime de 
+calmaria. 
+Pela Figura 12, nota-se uma predominância de direção e altas frequências para 
+os setores Norte e Sudoeste de ventos na Categoria de Pasquill -Gifford D e E 
+semelhante ao estudo de Oliveira Júnior (2010) e velocidade de vento aproximado de 
+1,5m/s. A calmaria refere-se a todo o perfil de vento abaixo de um valor de partida do 
+sensor. Como a velocidade mínima do sensor das torres de Angra é de 0,36 m/s, 
+devido à limitação e para o cálculo de entrada no programa PAVAN, foram adotados 
+respectivamente para as categorias D e E em torno de 0,75% ou 5 horas e 0,60% ou  
+4 horas para dados retirados no período de janeiro de 2009 .  
+
+ 
+25  
+Para dados da torre A, pela Figura 12 nota-se uma ocorrência aproximada de 
+32% para o setor N, 5% para NNE, 9% para S, 16% para SSW. A classe de vento e 
+a faixa em m/s foram divididas em 6 classes como mostra a Tabela 6. 
+ 
+Tabela 6 - Classificação dos ventos para dados da Torre-A10 
+Classificação dos ventos 
+Classe de Velocidades Faixa em m/s 
+1 0 ≤ Velocidade Vento < 0,36 
+2 0,36 < Velocidade Vento ≤ 1 
+3 1 <Velocidade Vento ≤ 2 
+4 2 < Velocidade Vento ≤ 4 
+5 4 < Velocidade Vento ≤ 8 
+6 8 < Velocidade Vento ≤ 16 
+ 
+Durante o período diurno, em decorrência das brisas marítimas no sítio e 
+topografia, as maiores frequências de classe D foram observadas para os setores 
+SSE, S e SSW, em contrapartida, no período noturno, as direções principais foram 
+dos setores E e ESE.  Para o setor N, a classe predominante para o período diurno e 
+noturno foi a F. Estes dados convergem para os resultados obtidos por Oliveira Júnior 
+(2010) e mostram uma forte influência na topografia já citada. 
+ 
+5.3-LOCA e Termo Fonte 
+ 
+Um acidente de perda de refrigerante é um acidente de base de projeto definido 
+no relatório de análise de segurança (FSAR, 2010). Um acidente tipo LOCA pode ser 
+classificado desde pequenas rupturas na tubulação até grandes rupturas, no pior 
+caso, guilhotina. Neste trabalho, será considerada a sequência de eventos do sistema 
+de segurança para a unidade 2 de Angra. A sequência de eventos e o termo fonte do 
+acidente foram retirados do FSAR-Angra 2 (FSAR, 2010). A probabilidade média de 
+ocorrência deste evento é avaliada em 10 -4 por ano por reator (Santina, 1978). O 
+cálculo tem como objetivo comparar os resultados obtidos com os do FSAR de Angra 
+2, definido por valores em que o termo fonte será postulado para um acidente de 10% 
+de falha das barras combustíveis de Angra 2 e 1% de liberação para fora da 
+contenção. 
+ 
+ 
+26  
+5.3.1-Sequência de Eventos 
+ 
+Para o sistema de Angra 2, o evento iniciador será ruptura guilhotina na perna 
+quente do reator de 380 cm² na linha do sistema de segurança de injeção do ECCS. 
+Os eventos serão considerados conservadores.  
+A Figura 13 explicita a árvore de eventos simplifi cada para um evento iniciador 
+de ruptura de tubulação. Para que não haja liberação de produtos de fissão (PF), deve 
+existir uma sequência de sucesso dos sistemas de segur ança. O sistema de 
+segurança de resfriamento de emergência do núcleo (SREN)  engloba o s 
+acumuladores (segurança passiva). Porém, para que haja sucesso, a potência elétrica 
+exerce um papel fundamental, seja por energia externa ou gerador diesel. Caso não 
+haja potência elétrica, as sequências da árvore da numeração 9 a 16, devido à 
+dependência, podem gerar dano ao núcleo. A linha de sucesso do evento do sistema 
+SREN segue com a descarga de 4/8 acumuladores na perna quente e fria da linha do 
+primário, injeção 1/4 trens de água borada, 2/4 trens para a descarga dos tanques de 
+água borada para o regime da recirculação e,  por fim , o realinhamento após 20 
+minutos, para a recirculação de água do poço. Para o trabalho proposto, será 
+considerado alimentação elétrica externa e sucesso do  sistema de resfriamento de 
+emergência do núcleo (SREN), porém com dano ao núcleo. No entanto, haverá falha 
+na integridade da contenção e consequentemente a liberação do termo fonte para o 
+ambiente externo. 
+ 
+ 
+Figura 13 - Árvore de eventos simplificada para um evento inicial de ruptura de tubulação 
+
+ 
+27  
+A Tabela 7 mostra a sequência de eventos para uma ruptura do tipo guilhotina no 
+caso de sucesso para o sistema de injeção de água e acumuladores. 
+ 
+Tabela 7 - Sequência de entrada dos sistemas de segurança a partir do evento de ruptura 
+de tubulação do tipo guilhotina localizada na perna quente do reator de Angra 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: FSAR – ANGRA 2 
+ 
+Na sequência de eventos, percebe-se o rápido desligamento do reator em 1.46 
+segundos com o desligamento da turbina e da bomba do primário , no entanto, em 
+apenas 8.34 segundos, a pressão do sistema primário cai para 110 bar enquanto a 
+pressão da contenção aumenta. Devido à  perda de refrigerante, o sistema ECCS 
+entra com objetivo de inundar novamente o reator e recuperar o núcleo. No processo 
+de desligamento de um reator, o calor residual é o fator principal que pode afetar a 
+integridade do núcleo, uma vez que o aumento descontrolado do calor pode causar 
+Sequência LOCA Grande 
+Evento 
+Tempo 
+(Segundos) 
+Quebra da tubulação- Guilhotina 0 
+Trip do Reator a baixa pressão <132 bar. 
+1.Trip da Turbina 
+2.Trip da bomba 
+1.46 
+Perda de eficiência de Remoção de calor 
+pelo Secundário. 
+1.P rcs<132 bar 
+2.Pcontenção>1.03bar 
+1.46 
+ECCS 
+1. P rcs<110 bar 
+2. Pcontenção>1.03bar 
+8.34 
+Nível do Pressurizador <2.28 m 13.0 
+Bomba de injeção de segurança 38.5 
+Acumuladores 340 
+Pico de pressão na contenção (1.72 bar) 350 
+Núcleo recuperado 370 
+Bomba do RHR 375 
+Linha recuperada 400 
+Perna quente recuperada 465 
+Acumuladores na Perna fria isolado 508.3 
+ 
+28  
+dano ao núcleo e fusão parcial ou total, gerando um acidente severo. Portanto, o 
+sistema de remoção de calor residual (RHR) entra na sequência do acidente junto 
+com os acumuladores de segurança passiva, para inundar rapidamen te o reator 
+evitando que  ocorra a fusão do núcleo.  Para um acidente de grande LB LOCA, não 
+há necessidade da inserção de barras de controle como meio de desligamento do 
+reator, pois, a vaporização do moderador interrompe instantaneamente a geração de 
+nêutrons devido à baixa densidade e a inserção negativa de reatividade, como 
+prevista no projeto de segurança inerente do reator. (Knief, 1992) 
+Para o caso proposto, o insucesso das linhas de spray da contenção e ventilação, 
+após uma ruptura do tipo guilhotina e de um abrupto aumento de pressão na 
+atmosfera da contenção, pode resultar na ruptura da conten ção, quarta barreira da 
+defesa em profundidade. 
+ 
+5.3.2-Termo Fonte 
+ 
+A maior ia dos produtos de fissão gerados  em uma planta nuclear provém do 
+núcleo (FSAR, 2010). M esmo com a existência de defesas em profundidade,  como 
+por exemplo o revestimento, os produtos de fissão podem contaminar o refrigerante 
+no primário. Caso haja um vazamento, como em um acidente LOCA, substâncias 
+radioativas podem ser liberadas para a atmosfera da contenção ou outros 
+compartimentos. A equação ( 11) mostra o modelo para o qual o termo fonte é 
+calculado; pode ser aplicada para gases nobres e algumas aproximações devem ser 
+feitas para o caso de halogênios (FSAR, 2010). 
+  
+𝐹𝐹𝑖𝑖
+𝐵𝐵𝑖𝑖 = 𝑚𝑚
+tanh�𝑎𝑎�𝜆𝜆
+𝐷𝐷𝑖𝑖�
+a�𝜆𝜆
+𝐷𝐷𝑖𝑖
+                                (11) 
+onde: 
+Fi= Número de átomos do nuclídeo i liberado para o refrigerante por unidade de 
+tempo em átomos/s; 
+Bi= Número de átomos do nuclídeo i produzido no combustível por unidade de 
+tempo em átomos /s; 
+m=Fração de falha de vareta de combustível; 
+a= Média de tamanho de grão de dióxido de urânio em cm; 
+λ= Constante de decaimento do nuclídeo i em segundos-1; 
+Di= Coeficiente de difusão do elemento em cm2/s. 
+ 
+29  
+Os valores da Tabela 8 foram retirados do FSAR de Angra 2 (FSAR, 2010) para 
+um cálculo conservador de 10% de falha das barras de combustível  e com 1% de 
+liberação dos Halogênios ( Coluna 7A da Tabela periódica - F, Cl, Br, I e At). 
+ 
+Tabela 8 – Radionuclídeos liberados para a atmosfera em um acidente LOCA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: FSAR, 2010 
+A Tabela 8 mostra as atividades em bq / segundo, os dados do FSAR de Angra 
+2 (FSAR, 2010) para cada nuclídeo liberado no refrigerante do primário e, 
+consequentemente, após um acidente LB LOCA com ruptura na contenção, seja 
+liberado para a atmosfera em um período de 2 horas. A coluna de taxa de emissão é 
+calculada para servir de entrada para os programas feitos no Matlab e Pavan.  
+Termo Fonte de um acidente LOCA 
+Nuclídeos Liberação( Bq) % Taxa de emissão Q 
+(Bq/seg) 
+I131 6,30E+07 13 8,75E+03 
+I132 7,75E+07 16 1,08E+04 
+I133 1,30E+08 26 1,81E+04 
+I134 9,67E+07 20 1,34E+04 
+I135 1,15E+08 23 1,60E+04 
+Sr89 4,26E+04 0 5,92E+00 
+Sr90 2,55E+03 0 3,54E-01 
+Zr95 7,01E+04 0 9,74E+00 
+Nb95 7,01E+04 0 9,74E+00 
+Cs134 3,93E+06 1 5,46E+02 
+Cs137 3,40E+06 1 4,72E+02 
+Ce141 7,08E+04 0 9,83E+00 
+Ce144 5,65E+04 0 7,85E+00 
+Np239 7,59E+05 0 1,05E+02 
+Cm242 8,77E+02 0 1,22E-01 
+Cm244 4,47E+01 0 6,21E-03 
+Pu238 5,27E+01 0 7,32E-03 
+Cr51 2,60E+03 0 3,61E-01 
+Mn54 5,20E+02 0 7,22E-02 
+Fe59 1,30E+02 0 1,81E-02 
+Co58 1,56E+03 0 2,17E-01 
+Co60 5,21E+02 0 7,24E-02 
+Sb122 5,46E+02 0 7,58E-02 
+Sb124 2,76E+02 0 3,83E-02 
+Total 4,91E+08 - 6,82E+04 
+ 
+30  
+A saída do programa Pavan, X/Q normalizado, deverá ser multiplicada pelo valor 
+de Q para cada radionuclídeo a fim de calcular a dose efetiva para o público em Bq/s. 
+ A Figura 14 mostra a concentração e a relevância de cada radionuclídeo na 
+liberação de radiação em cenário de acidente. 
+ 
+ 
+Figura 14 – Relevância dos radionuclídeos em um cenário de evento LBLOCA em Bq.  
+  
+
+ 
+31  
+6.RESULTADOS 
+ 
+Os resultados da Tabela 9 foram calculados pelo programa PAVAN e 
+correspondem à concentração normalizada na liberação em períodos de 0 a 2 horas, 
+0 a 8 horas, 8 a 24 horas, 1 a 4 dias, 4 a 30 dias e a média anual na área de exclusão 
+que corresponde à circunferência de raio de 800 metros. Os resultados se mostraram 
+condizentes com os valores e intensidades dos ventos da Figura 12, pois o setor Norte 
+obteve a maior concentração para as 3 principais direções. 
+ 
+Tabela 9 - Resultados extraídos do programa PAVAN para a concentração normalizada 
+em seg/m³ para 16 setores à distância de 800 metros definida pela Zona de Exclusão. 
+Concentração Normalizada X/Q (seg/m³) 
+Setor/Período Zona de 
+Exclusão(m) 
+0-2 
+Horas 
+0-8 
+Horas 
+8-24 
+Horas 
+1-4  
+Dias 
+4-30  
+Dias 
+Média 
+Anual 
+S 800 1.40E-04 7.27E-05 5.24E-05 2.58E-05 9.31E-06 2.68E-06 
+SSW 800 1.40E-04 7.27E-05 5.24E-05 2.58E-05 9.31E-06 2.68E-06 
+SW 0 0 0 0 0 0 0 
+WSW 0 0 0 0 0 0 0 
+W 0 0 0 0 0 0 0 
+WNW 0 0 0 0 0 0 0 
+NW 0 0 0 0 0 0 0 
+NNW 0 0 0 0 0 0 0 
+N 800 2.17E-03 1.37E-03 1.09E-03 6.62E-04 3.24E-04 1.35E-04 
+NNE 0 0 0 0 0 0 0 
+NE 0 0 0 0 0 0 0 
+ENE 0 0 0 0 0 0 0 
+E 0 0 0 0 0 0 0 
+ESSE 0 0 0 0 0 0 0 
+SE 0 0 0 0 0 0 0 
+SSE 0 0 0 0 0 0 0 
+ 
+32  
+Para o cálculo da dose efetiva, o valor usado para concentração em s eg/m³ 
+corresponde ao setor norte a 800 metros no valor de 2.17E -03, visto que é o único 
+setor que pode gerar risco para a saúde do público devido à passagem da rodovia 
+BR101. 
+ Os valores do termo fonte em Bq/s foram multiplicados pelo valor de 
+concentração do setor norte e usados para o cálculo de dose por imersão e inalação. 
+As Figuras 15 e 16 mostram os cálculos para a distância de 1000 metros pelo 
+programa feito no MatLab. Na Figura 15, o gráfico dado por Z x Concentração mostra 
+as curvas de dispersão para o eixo Z para diferentes distâncias de X. A Figura 16  
+mostra a concentração para diferentes distâncias de X com a fonte de emissão 
+localizada a x=1000 metros em seg/m³ pelo modelo gaussiano adaptado para a altura 
+de elevação e de valores de difusão para coeficientes de dispersão de Pasquill-Gifford 
+(1976).  
+ 
+ 
+Figura 15 – Concentração de radionuclídeo normalizado para diferentes distâncias de x 
+em dispersão do eixo y para direção norte e perfil de vento de 1.5m/s. A nuvem radioativa se 
+origina no ponto de liberação do termo fonte na cont enção de Angra 2 a 55 metros acima do 
+solo, o cálculo foi adaptado de dispersões a nível do solo. 
+
+ 
+33  
+ 
+Figura 16 - A figura mostra concentrações de radionuclí deos normalizados para ventos 
+direcionados ao Norte no eixo X a 1000 metros. 
+ 
+Em comparação com os modelos propostos pelo programa PAVAN e Matlab, a 
+ordem de concentração é de 10-3 para o modelo gaussiano adaptado para o Matlab. 
+Esta diferença está relacionada ao modelo utilizado no Matlab, uma vez que o cálculo 
+da concentração é feito através de valores constantes para X, relacionados à 
+difusividade térmica Ki do sítio. A adaptação foi feita pela equação ( 7) que relaciona 
+constante de difusividade térmica do terreno com os coeficientes de Pasquill -Gifford 
+para cada distância. Já para o modelo gaussiano do PAVAN, o cálculo torna-se mais 
+preciso por exigir mais riqueza de detalhes quanto aos dados de entrada e pelo 
+cálculo direto dos coeficientes de Pasquill-Gifford. 
+Os valores encontrados para a dose efetiva para cada radionuclídeo se 
+encontram na Tabela 10. Os valores foram calculados pelo programa feito no EXCEL 
+no Apêndice 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+34  
+Tabela 10 – Dose efetiva calculada para cada radionuclídeo por faixa etária. 
+Dose efetiva total por radionuclídeo em mSv/ano 
+Nuclídeos <2 2 a 7 
+anos 
+8 a 12 
+anos 
+13 a 17 
+anos >18 anos 
+RESPECTIVA FAIXA 
+ETARIA/ Maior Valor 
+ 
+I131 1,93E-03 2,61E-03 2,90E-03 1,68E-03 1,19E-03 8 a 12 anos 
+I132 1,49E-04 1,57E-04 1,42E-04 1,27E-04 1,06E-04 2 a 7 anos 
+I133 1,04E-03 1,26E-03 1,24E-03 7,34E-04 5,31E-04 2 a 7 anos 
+I134 1,86E-04 1,91E-04 1,73E-04 1,63E-04 1,36E-04 2 a 7 anos 
+I135 3,06E-04 3,44E-04 3,27E-04 2,41E-04 1,83E-04 2 a 7 anos 
+Sr89 5,39E-07 8,08E-07 1,23E-06 9,55E-07 8,52E-07 8 a 12 anos 
+Sr90 4,30E-07 7,68E-07 1,11E-06 9,84E-07 1,03E-06 8 a 12 anos 
+Zr95 5,95E-07 9,71E-07 1,43E-06 1,26E-06 1,07E-06 8 a 12 anos 
+Nb95 2,10E-07 3,17E-07 4,53E-07 4,02E-07 3,45E-07 8 a 12 anos 
+Cs134 1,08E-04 1,84E-04 2,69E-04 2,21E-04 2,02E-04 8 a 12 anos 
+Cs137 1,43E-04 2,65E-04 3,93E-04 3,44E-04 3,36E-04 8 a 12 anos 
+Ce141 3,62E-07 5,64E-07 9,08E-07 8,22E-07 6,83E-07 8 a 12 anos 
+Ce144 6,44E-06 8,82E-06 1,06E-05 6,54E-06 7,58E-06 8 a 12 anos 
+Np239 8,01E-08 8,01E-08 6,86E-08 6,86E-08 5,72E-08 8 a 12 anos 
+Cm242 7,03E-14 7,03E-14 6,03E-14 6,03E-14 5,02E-14 8 a 12 anos 
+Cm244 1,08E-06 4,14E-06 6,57E-06 5,71E-06 6,45E-06 8 a 12 anos 
+Pu238 4,22E-06 8,23E-06 1,40E-05 1,27E-05 1,47E-05 >18 anos 
+Cr51 2,83E-10 3,43E-10 4,18E-09 3,27E-10 2,81E-10 8 a 12 anos 
+Mn54 1,65E-09 2,49E-09 3,25E-09 2,63E-09 2,18E-09 8 a 12 anos 
+Fe59 8,17E-10 1,28E-09 1,78E-09 1,69E-09 1,39E-09 8 a 12 anos 
+Co58 5,92E-09 8,82E-09 1,25E-08 1,06E-08 9,00E-09 8 a 12 anos 
+Co60 1,98E-08 3,52E-08 5,10E-08 4,35E-08 4,15E-08 2 a 7 anos 
+Sb122 1,50E-10 1,50E-10 1,28E-10 1,28E-10 1,07E-10 2 a 7 anos 
+Sb124 3,95E-09 5,88E-09 8,94E-09 6,94E-09 2,72E-08 >18 anos 
+TOTAL 3,88E-03 5,04E-03 5,48E-03 3,54E-03 2,72E-03  - 
+       
+ 
+ 
+35  
+A Figura 17  mostra o total de concentração para cada faixa etária de todos os 
+nuclídeos. Percebe-se que o grupo mais afetado na ordem de 5,48 x 10-3 mSv/ano é 
+de 8 a 12 anos. 
+ 
+ 
+Figura 17 – Total de radionuclídeos liberados em um acidente LOCA por cada faixa etária. 
+ 
+Para cálculo de tireóide devido à inalação e imersão de Iodo-131 e I-133, para o 
+grupo mais afetado de 8 a 12 anos, o Iodo-131 corresponde a 53% de concentração 
+em todas as faixas etárias relacionadas à dos e total enquanto o Iodo -133 a 23% de 
+concentração como mostrado na Figura 18. 
+ 
+ 
+Figura 18 - Importância dos radionuclídeos na dose efetiva para o grupo crítico de 8 a 12 
+anos. 
+0,00E+00
+1,00E-03
+2,00E-03
+3,00E-03
+4,00E-03
+5,00E-03
+6,00E-03
+<2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos
+Dose Total por Faixa etária
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+I131
+I132I133I134
+I135
+Sr89Sr90
+Zr95
+Nb95
+Cs134
+Cs137
+Ce141
+Ce144
+Np239
+Cm242
+Cm244
+Pu238
+Cr51
+Mn54
+Fe59
+Co58Co60
+Sb122
+Sb124
+Contribuição Percentual
+ 
+36  
+De acordo com a norma da CNEN 3.0 (CNEN, 2005) a restrição de dose efetiva 
+anual média para indivíduos do grupo crítico, no caso, a faixa etária de 8 a 12 anos, 
+tem um valor máximo de 0,3 mSv/ano referente à liberação de efluentes. 
+ Para o valor calculado da dose efetiva total, o grupo crítico foi exposto via 
+inalação e ex posição à nuvem no valor de 5,48 x 10-3 mSv/ano, valor abaixo do 
+estipulado. 
+Os resultados obtidos pelo FSAR de Angra 2 (FSAR,  2010) são mostrados  na 
+Tabela 11. 
+Tabela 11 – Dose equivalente em Sv/ano decorrente da exposição de radiação no período 
+de 2 horas no cenário de acidente LOCA. 
+Dose equivalente no período de 2 horas 
+Faixa Etária 3 meses 1 ano 5 anos 10 anos 15 anos Adulto 
+Dose equivalente 
+(mSv/ano) 
+3.17E-01 2.96E-01 2.96E-01 2.54E-01 2.54E-01 2.11E-01 
+ 
+Os valores a serem comparados serão tomados como a média para a faixa etária 
+proposta no trabalho, exemplificado na Tabela 12. 
+ 
+Tabela 12 - Comparação da dose efetiva e discrepância do FSAR com o calculado.  
+Comparação de Dose Equivalente 
+Faixa etária Comparativa 1 ano 
+8 a 12 
+anos 
+13 a 17 
+anos 
+>18 anos 
+Dose Equivalente (mSv/ano) 
+no FSAR 
+2.96E-01 2.54E-01 2.54E-01 2.11E-01 
+Dose Equivalente (mSv/ano)  
+Calculada 
+3.88 E-03 
+ 
+5.48 E-03 
+ 
+3.54 E-03 
+ 
+2.72 E-03 
+ 
+ 
+Pela Tabela 12, nota-se que as doses equivalentes para a média da faixa etária 
+considerada no trabalho é da ordem de 100   vezes maior que a do FSAR.  A 
+divergência dos valores pode ser explicada pelo método e tabelas utilizadas para o 
+cálculo das doses, além do fato da contribuição para exposição à radiação a outros 
+meios. 
+ 
+37  
+A Tabela 13 mostra o cálculo para dose equivalente por inalação do Iodo 131. 
+ 
+Tabela 13 – Dose equivalente de inalação do Iodo 131 para 5 faixas etárias. 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-131 
+Concentração no ar(Bq/m³) 1,90E+01 1,90E+01 1,90E+01 1,90E+01 1,90E+01 
+Taxa de Inalação(m³/horas) 0,160 0,422 0,913 0,913 0,959 
+Coeficiente de 
+Inalação(Sv/Bq) 
+7,20E-08 3,70E-08 1,90E-08 1,10E-08 7,40E-08 
+Dose efetiva 
+Calculada(Sv/hora) em 2 
+horas 
+4,37E-07 5,93E-07 6,59E-07 3,81E-7 2,69E-07 
+ 
+Os valores na ordem de 10 -7 para as 5 faixas etárias se mostraram satisfatórios 
+quanto a limite de dose estipulado pela CNEN em 3 Sv de inalação do Iodo 131 para 
+um acidente com duas horas de duração na linha limítrofe da zona de exclusão. 
+Este valor muito abaixo do limite estipulado pela CNEN pode ser associado a 
+hipótese de apenas 1% de liberação dos produtos de fissão com 10% de falha. 
+  
+ 
+38  
+7.CONSIDERAÇÕES FINAIS 
+ 
+Este trabalho teve como finalidade mostrar os valores de dose para indivíduo do 
+público em um cenário de acidente de ruptura do tipo guilhotina, resultando na falha 
+na contenção por 2 horas. O cálculo da concentração foi realizado para o ponto mais 
+próximo e crítico, setor N direcionado para a rodovia BR101.  
+O cálculo da concentração normalizada do PAVAN gerou valores condizentes 
+com o que foi analisado no FSAR. Em relação ao programa feito no Matlab usando 
+aproximações e fórmulas adaptadas para o cálculo da concentração, a diferença do 
+valor da ordem de 10-3 do valor dado pelo PAVAN  mostrou erros substanciais de 
+análise, tal fato pode ser explicado devido limitação, restrições que pode gerar 
+incertezas. 
+Levando em conta os dados da topografia, fator de grande importância no regime 
+e perfil do vento na região, vimos que os ventos predominantes para o mês de janeiro 
+têm direção para o setor N, e a probabilidade de inversão devido à temperatura 
+ambiente se torna um agravante quanto à dispersão. Para o período analisado, o 
+cálculo de acidente na falha de 10% de varetas de combustível sendo 1% liberado, o 
+radionuclídeo de maior importância relacionado à inalação I-131 e I-133 e grupo crítico 
+afetado, tiveram níveis aceitáveis na ordem de 10-7 menor que o valor limite estipulado 
+pela CNEN. Em questão de dose decorrente de todos os radionuclídeos de liberação, 
+o grupo crítico de 8 a 12 foi exposto a 5,48E-03 mSv/ano, valor abaixo do limite de 
+dose imposto pela CNEN a indivíduos da população. 
+No entanto, diferente de Angra 1, que analisa diferentes cenários como falha em 
+100% no gap de modo conservador, a  análise de Angra 2 é pobre em relação ao 
+espectro de acidentes severos, já que o grande LOCA, por ser um acidente de base 
+de projeto, possui grande probabilidade de  gerar dano ao núcleo. 
+Vale ressaltar que além da influência no regime de ventos, a  topografia torna-se 
+uma grande problemática quanto a operação da usina. O projeto de evacuação, um 
+evento iniciador tipo perda de energia externa ou desmoronamento causando 
+bloqueio na BR101 são exemplos. Portanto, certos cuidados na área próxima ao sítio 
+devem ser tomados. Contenções e  barreiras anti -deslizamento devem ser 
+construídas, de responsabilidade da ETN. 
+As recomendações deste trabalho são a aplicação de diversos cenários de 
+acidentes para a unidade 2 de Angra, utilização de programas de outros modelos de 
+dispersão que sirvam de comparação com as concentrações dadas pelo PAVAN . 
+ 
+39  
+ A dose decorrente da deposição do solo e ingestão de alimentos contaminados 
+deve ser calculada para aproximar do valor real de exposição do indivíduo. 
+Para aplicação de diferentes modelos, existe a dependência das características 
+do sítio, dos efluentes e quantidades liberadas, distância do receptor e tempo de 
+exposição. Portanto, para demais aplicações de modelos, alguns programas podem 
+ser utilizados (Wan, 2007): 
+XOQDOQ – Methods for Estimating Atmospheric Transport and Dispersion of 
+Gaseous Effluents in Routine Releases from Light-Water-Cooled Reactors - Aplicado 
+para terrenos de topografia simples, o programa avalia e calcula a concentração 
+normalizada no ar em Seg/m³, semelhante ao programa PAVAN, utilizando o modelo 
+de distribuição Gaussiana. Além disso, a deposição pode ser calculada para áreas 
+limites do sítio, e assim gerando valores para o cálculo de dose efetiva por deposição 
+ou ingestão de alimentos contaminados. 
+MESODIF – A Variable Trajectory Plume Segment Model to Assess Ground-Level 
+Air Concentrations and Deposition of Effluent Releases from Nuclear Power Facilities 
+- Programa semelhante ao XOQDOQ, porém para terrenos de topografia complexa. 
+O programa, utilizado em conjunto com XOQDOQ, determina fatores de re-circulação 
+do terreno para trajetórias de partículas que variam com o regime de ventos. 
+CALPUFF – Programa implementado pela Environmental Protection Agency  
+(EPA) nos Estados Unidos para o qualidade do ar impactada por terrenos complexos, 
+regimes de ventos calmos, etc. 
+ANSYS CFX – O programa utiliza o modelo e equações de Navier-Stokes para o 
+método de volumes finitos através da fluidodinâmica computacional. Utiliza a análise 
+numérica e algoritmos para resolver problemas de interação de fluidos com 
+superfícies definidas. 
+  
+ 
+40  
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+AIEA, Generic Models for Use in Assessing  the Impact of Discharges of Radioactive 
+Substances to the Environment, Safety Report Series No.19, Vienna, Austria, 
+2001. 
+Alves, Simone Fonseca, Utilização do Modelo de Dispersão ARTM Associado a 
+Recursos de Geoprocessamento para Simulação do Impacto Ambi ental 
+Radiológico de Emissões Atmosféricas de um Reator de Pesquisa, 154 páginas, 
+Dissertação –CDTN/CNEN ,2013. 
+Aguiar, André Silva, Avaliação do impacto de um acidente severo na usina de Angra 
+dos Reis com liberação dos radionuclídeos para a atmosfera, 140 páginas, Tese 
+- UFRJ, 2015. 
+Autodesk,<http://infrabrasil.autodesk.com/blog/2011/07/como-transformar-surfaces-
+do-civil-3d-em-solids.html.> Acesso em: 15 fev 2016. 
+CNEN, Coeficientes de Dose para Exposição do Público, Posição Regulatória 3.01 / 
+011, Rio de Janeiro, Brasil, 2011. 
+CNEN, Diretrizes Básicas de Proteção Radiológica, CNEN -NE-3.01, Rio de Janeiro, 
+Brasil, 2005. 
+CNEN, Normas para Escolha de Locais para Reatores de Potência, Resolução 09/69, 
+Rio de Janeiro, Brasil, 1969. 
+Dias, W. B., Angra 2: Manual de Controle Radiológico do Meio Ambiente -  MCRMA, 
+Relatório Técnico ETN CP/2/1170/000001, Rio de Janeiro, Brasil, 2002. 
+ETN, Angra 1, Final Safety Analysis Report, Rev. 34, Rio de Janeiro, Brasil, 2005a. 
+ETN, Angra 2, Final Safety Analysis Report, Rev. 34, Rio de Janeiro, Brasil, 2010. 
+ETN, Angra 2, Relatório de  Impacto Ambiental, Exemplar 61, 1998. 
+ETN, Critérios de Segurança  Adotados para  as Usinas Nucleares  Angra 1, Angra 2  
+e Angra 3,  2011. 
+ETN, Angra 2 – Informações Gerais/ Histórico/ Dados Básicos , 
+<www.eletronuclear.gov.br/aempresa/centralnuclear/informa%C3%A7%C3%B5
+esangra2.aspx> 
+ Acesso em: fev 2016 
+Ekkehard Holzbecher,  2006, Environmental Modeling Using MATLAB , Berlin, 
+Springer. 
+FSAR, Final Safety Analysis Report. Central Nuclear Almirante Álvaro Alberto – 
+Unidade 1. Eletronuclear – Eletrobrás Termonuclear S.A, 2011. 
+ 
+41  
+ 
+FSAR, Final Safety Analysis Report. Central Nuclear Almirante Álvaro Alberto – 
+Unidade 2. Eletronuclear – Eletrobrás Termonuclear S.A, 2010. 
+GIFFORD, F.A., Turbulent Diffusion –Typing Scheme: A Review.Nucl.Saf. Vol.17, 
+1, pp 71. 1976. 
+Global Mapper,  < http://www.bluemarblegeo.com/products/gl obal-mapper.php> 
+Acesso em:  fev 2016. 
+Knief, 1992, Nuclear Engineering, Theory and Technology Of Commercial 
+Nuclear Power, Second Edition, USA, Taylor & Francis. 
+Lamarsh, John R. and Baratta, Anthony J.,  2000, Introduction to Nuclear 
+Engineering, Third Edition, USA, Prentice Hall. 
+NRC, Atmospheric Dispersion Models for Potential Accident Consequence 
+Assessments at Nuclear Power Plants, NUREG/ CR-2260, 1981. 
+NRC, Back Grounder - Three Mile Island Accident,  <http://www.nrc.gov/reading-
+rm/doc-collections/fact-sheets/3mile-isle.html > 
+Acesso em: fev 2016. 
+NRC, Criteria for Preparation and Evaluation of Radiological Emergency Response 
+Plans and Preparedness in Support of Nuclear Power Plants, NUREG 0654, Rev-
+Nov 1980. 
+NRC, Functional Criteria for Emergency Response Facilities, NUREG 0696, 1981. 
+NRC, Lessons learned From the Three Mile Island - Unit 2 Advisory Panel, 
+NUREG/CR-6252, 1994. 
+NRC, Methods For Estimating Atmospheric Transport And Dispersion Of Gaseous 
+Effluents In Routine Releases From Light Water Cooled Reactors, Regulatory 
+Guide 1.111, 1977. 
+NRC, PAVAN: An Atmospheric -Dispersion Program for Evaluating Design- Basis 
+Accidental Releases of Radioactive Materials from Nuclear Power Stations, 
+NUREG /CR-2858, 1982. 
+NRC, Regulatory Guide 1.97, Instrumentation for Light-Water-Cooled Nuclear Power 
+Plants To Assess Plant and Environs Conditions During and Following an 
+Accident, 1980. 
+NRC, Requirements for Emergency Response Capability, Supp 1, NUREG 0737, Nov 
+1992. 
+NRC, Three Mile Island; A Report to the Comm issioners and to the Public, 
+NUREG/CR-1250, Vols. I-II, 1980. 
+NRC, Views and Analysis of the Recommendations of the President’s Commission on 
+ 
+42  
+the Accident at Three Mile Island,” NUREG-0632, 1979. 
+Oliveira Jr., J. F., Pimentel, L. C. G. e Landau, L., "Crité rios de estabilidade 
+atmosférica para a região da Central Nuclear Almirante Álvaro Alberto, Angra dos 
+Reis - RJ", Revista Brasileira de Meteorologia, vol.25, no. 2, pp.270-285, 2010. 
+Petrangeli, Gianni, 2006, Nuclear Safety, 1 ed., UK, Elsevier. 
+SANTINA, Murilo, Determinação das zonas de segurança da central nuclear de Angra 
+dos Reis conforme o modelo de difusão de radiação na atmosfera,  161 
+páginas,Dissertação – IEA, 1978. 
+Soares da Silva, M. Estratégias de Simulação da Dispersão de Poluentes com os 
+Modelos WRF/ CALMET/CALLPUFF para a região Metropolitana do Rio de 
+Janeiro. Dissertação de Mestrado. Programa de Engenharia Mecânica. 
+UFRJ;COPPE. Rio de Janeiro, 2012. 
+Wan, Ping , Atmospheric Dispersion Analysis in Preparing Permit Applications For The 
+New Nuclear Power Plants in the United States,15th International Conference on 
+Nuclear Engineering, Japão, 2007. 
+ 
+ 
+  
+ 
+43  
+Apêndice 1  
+Cálculo de dose Efetiva de Inalação através do Excel 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-131 
+Concentração no ar(Bq/m³) 1,90E+01 1,90E+01 1,90E+01 1,90E+01 1,90E+01 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 7,20E-08 3,70E-08 1,90E-08 1,10E-08 7,40E-09 
+Dose efetiva Calculada(Sv/anos) 1,91E-03 2,60E-03 2,89E-03 1,67E-03 1,18E-03 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-132 
+Concentração no ar(Bq/m³) 2,34E+01 2,34E+01 2,34E+01 2,34E+01 2,34E+01 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 9,60E-10 4,50E-10 2,20E-10 1,40E-10 1,10E-10 
+Dose efetiva 
+Calculada(mSv/anos) 3,14E-05 3,89E-05 4,11E-05 2,62E-05 2,16E-05 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-133 
+Concentração no ar(Bq/m³) 3,92E+01 3,92E+01 3,92E+01 3,92E+01 3,92E+01 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 1,80E-08 8,30E-09 3,80E-09 2,20E-09 1,50E-09 
+Dose efetiva 
+Calculada(mSv/anos) 9,87E-04 1,20E-03 1,19E-03 6,90E-04 4,94E-04 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-134 
+Concentração no ar(Bq/m³) 2,91E+01 2,91E+01 2,91E+01 2,91E+01 2,91E+01 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 3,70E-10 1,80E-10 1,10E-10 6,80E-11 5,50E-11 
+Dose efetiva 
+Calculada(mSv/anos) 1,51E-05 1,94E-05 2,56E-05 1,59E-05 1,35E-05 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-135 
+Concentração no ar(Bq/m³) 3,47E+01 3,47E+01 3,47E+01 3,47E+01 3,47E+01 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 3,70E-09 1,70E-09 7,90E-10 4,80E-10 3,20E-10 
+Dose efetiva 
+Calculada(mSv/anos) 1,80E-04 2,18E-04 2,19E-04 1,33E-04 9,32E-05 
+ 
+44  
+ 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Sr-89 
+Concentração no ar(Bq/m³) 1,28E-02 1,28E-02 1,28E-02 1,28E-02 1,28E-02 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 3,00E-08 1,70E-08 1,20E-08 9,30E-09 7,90E-09 
+Dose efetiva 
+Calculada(mSv/anos) 5,39E-07 8,08E-07 1,23E-06 9,55E-07 8,52E-07 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Sr-90 
+Concentração no ar(Bq/m³) 7,69E-04 7,69E-04 7,69E-04 7,69E-04 7,69E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 4,00E-07 2,70E-07 1,80E-07 1,60E-07 1,60E-07 
+Dose efetiva 
+Calculada(mSv/anos) 4,30E-07 7,68E-07 1,11E-06 9,84E-07 1,03E-06 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Zr-95 
+Concentração no ar(Bq/m³) 2,11E-02 2,11E-02 2,11E-02 2,11E-02 2,11E-02 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 1,90E-08 1,20E-08 8,30E-09 7,30E-09 5,90E-09 
+Dose efetiva 
+Calculada(mSv/anos) 5,62E-07 9,38E-07 1,40E-06 1,23E-06 1,05E-06 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Nb-95 
+Concentração no ar(Bq/m³) 2,11E-02 2,11E-02 2,11E-02 2,11E-02 2,11E-02 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 5,90E-09 3,60E-09 2,50E-09 2,20E-09 1,80E-09 
+Dose efetiva 
+Calculada(mSv/anos) 1,75E-07 2,81E-07 4,23E-07 3,72E-07 3,19E-07 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Cs-134 
+Concentração no ar(Bq/m³) 1,18E+00 1,18E+00 1,18E+00 1,18E+00 1,18E+00 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 6,30E-08 4,10E-08 2,80E-08 2,30E-08 2,00E-08 
+Dose efetiva 
+Calculada(mSv/anos) 1,04E-04 1,80E-04 2,65E-04 2,18E-04 1,99E-04 
+ 
+ 
+45  
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Cs-137 
+Concentração no ar(Bq/m³) 1,02E+00 1,02E+00 1,02E+00 1,02E+00 1,02E+00 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 1,00E-07 7,00E-08 4,80E-08 4,20E-08 3,90E-08 
+Dose efetiva 
+Calculada(mSv/anos) 1,43E-04 2,65E-04 3,93E-04 3,44E-04 3,36E-04 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Ce-141 
+Concentração no ar(Bq/m³) 2,13E-02 2,13E-02 2,13E-02 2,13E-02 2,13E-02 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 1,20E-08 7,10E-09 5,30E-09 4,80E-09 3,80E-09 
+Dose efetiva 
+Calculada(mSv/anos) 3,58E-07 5,61E-07 9,05E-07 8,19E-07 6,81E-07 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Ce-144 
+Concentração no ar(Bq/m³) 1,70E-02 1,70E-02 1,70E-02 1,70E-02 1,70E-02 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 2,70E-07 1,40E-07 7,80E-08 4,80E-08 5,30E-08 
+Dose efetiva 
+Calculada(mSv/anos) 6,44E-06 8,82E-06 1,06E-05 6,54E-06 7,58E-06 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Np-239 
+Concentração no ar(Bq/m³) 2,29E-01 2,29E-01 2,29E-01 2,29E-01 2,29E-01 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 4,20E-09 2,20E-09 1,60E-09 1,30E-09 1,00E-09 
+Dose efetiva 
+Calculada(mSv/anos) 1,35E-06 1,86E-06 2,93E-06 2,38E-06 1,92E-06 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Cm-242 
+Concentração no ar(Bq/m³) 2,64E-04 2,64E-04 2,64E-04 2,64E-04 2,64E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 2,10E-05 1,20E-05 8,20E-06 7,30E-06 5,90E-06 
+Dose efetiva 
+Calculada(mSv/anos) 7,77E-06 1,17E-05 1,73E-05 1,54E-05 1,31E-05 
+ 
+ 
+ 
+46  
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Cm-244 
+Concentração no ar(Bq/m³) 1,34721E-05 1,34721E-05 1,34721E-05 1,34721E-05 1,34721E-05 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 5,70E-05 8,30E-05 6,10E-05 5,30E-05 5,70E-05 
+Dose efetiva 
+Calculada(mSv/anos) 1,08E-06 4,14E-06 6,57E-06 5,71E-06 6,45E-06 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Pu-238 
+Concentração no ar(Bq/m³) 1,58832E-05 1,58832E-05 1,58832E-05 1,58832E-05 1,58832E-05 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 1,90E-04 1,40E-04 1,10E-04 1,00E-04 1,10E-04 
+Dose efetiva 
+Calculada(mSv/anos) 4,22E-06 8,23E-06 1,40E-05 1,27E-05 1,47E-05 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Cr-51 
+Concentração no ar(Bq/m³) 7,84E-04 7,84E-04 7,84E-04 7,84E-04 7,84E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 2,1E-10 1E-10 6,6E-10 4,5E-11 3,7E-11 
+Dose efetiva 
+Calculada(mSv/anos) 2,30E-10 2,90E-10 4,14E-09 2,82E-10 2,44E-10 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Mn-54 
+Concentração no ar(Bq/m³) 1,57E-04 1,57E-04 1,57E-04 1,57E-04 1,57E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 6,20E-09 3,80E-09 2,40E-09 1,90E-09 1,50E-09 
+Dose efetiva 
+Calculada(mSv/anos) 1,36E-09 2,20E-09 3,01E-09 2,38E-09 1,97E-09 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Fe-59 
+Concentração no ar(Bq/m³) 3,92E-05 3,92E-05 3,92E-05 3,92E-05 3,92E-05 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 1,30E-08 8,10E-09 5,40E-09 5,10E-09 4,00E-09 
+Dose efetiva 
+Calculada(mSv/anos) 7,13E-10 1,17E-09 1,69E-09 1,60E-09 1,32E-09 
+ 
+ 
+ 
+47  
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Co-58 
+Concentração no ar(Bq/m³) 4,70E-04 4,70E-04 4,70E-04 4,70E-04 4,70E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 7,50E-09 4,50E-09 3,10E-09 2,60E-09 2,10E-09 
+Dose efetiva 
+Calculada(mSv/anos) 4,94E-09 7,83E-09 1,17E-08 9,78E-09 8,29E-09 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Co-60 
+Concentração no ar(Bq/m³) 1,57E-04 1,57E-04 1,57E-04 1,57E-04 1,57E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 8,60E-08 5,90E-08 4,00E-08 3,40E-08 3,10E-08 
+Dose efetiva 
+Calculada(mSv/anos) 1,89E-08 3,43E-08 5,02E-08 4,27E-08 4,09E-08 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Sb-122 
+Concentração no ar(Bq/m³) 1,65E-04 1,65E-04 1,65E-04 1,65E-04 1,65E-04 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 6,10E-09 3,00E-09 2,00E-09 1,40E-09 1,10E-09 
+Dose efetiva 
+Calculada(mSv/anos) 1,41E-09 1,83E-09 2,63E-09 1,84E-09 1,52E-09 
+ 
+Faixa etária <2 2 a 7 anos 8 a 12 anos 13 a 17 anos >18 anos 
+Radionuclídeo Sb-124 
+Concentração no ar(Bq/m³) 8,31833E-05 8,31833E-05 8,31833E-05 8,31833E-05 8,31833E-05 
+Taxa de Inalação(m³/ano) 1400 3700 8000 8000 8400 
+Coeficiente de Inalação(Sv/Bq) 3,10E-08 1,80E-08 1,30E-08 1,00E-08 3,86E-08 
+Dose efetiva 
+Calculada(mSv/anos) 3,61E-09 5,54E-09 8,65E-09 6,65E-09 2,70E-08 
+ 
+  
+ 
+48  
+ 
+Cálculo Dose Efetiva de Imersão 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-131 
+Concentração no ar(Bq/m³) 1,90E+01 1,90E+01 1,90E+01 1,90E+01 1,90E+01 
+Coeficiende de dose efetiva de imersão no ar (Sv*Bq/a*m³) 8,12E-07 8,12E-07 6,96E-07 6,96E-07 5,80E-07 
+Dose efetiva Calculada(mSv/anos) 1,54E-05 1,54E-05 1,32E-05 1,32E-05 1,10E-05 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-132 
+Concentração no ar(Bq/m³) 2,34E+01 2,34E+01 2,34E+01 2,34E+01 2,34E+01 
+Coeficiende de dose efetiva de imersão no ar (Sv*Bq/a*m³) 5,04E-06 5,04E-06 4,32E-06 4,32E-06 3,60E-06 
+Dose efetiva Calculada(mSv/anos) 1,18E-04 1,18E-04 1,01E-04 1,01E-04 8,41E-05 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-133 
+Concentração no ar(Bq/m³) 3,92E+01 3,92E+01 3,92E+01 3,92E+01 3,92E+01 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,33E-06 1,33E-06 1,14E-06 1,14E-06 9,50E-07 
+Dose efetiva Calculada(mSv/anos) 5,21E-05 5,21E-05 4,47E-05 4,47E-05 3,72E-05 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-134 
+Concentração no ar(Bq/m³) 2,91E+01 2,91E+01 2,91E+01 2,91E+01 2,91E+01 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 5,88E-06 5,88E-06 5,04E-06 5,04E-06 4,20E-06 
+Dose efetiva Calculada(mSv/anos) 1,71E-04 1,71E-04 1,47E-04 1,47E-04 1,22E-04 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Iodo-135 
+Concentração no ar(Bq/m³) 3,47E+01 3,47E+01 3,47E+01 3,47E+01 3,47E+01 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 3,64E-06 3,64E-06 3,12E-06 3,12E-06 2,60E-06 
+Dose efetiva Calculada(mSv/anos) 1,26E-04 1,26E-04 1,08E-04 1,08E-04 9,01E-05 
+ 
+ 
+ 
+ 
+49  
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Sr-89 
+Concentração no ar(Bq/m³) 1,28E-02 1,28E-02 1,28E-02 1,28E-02 1,28E-02 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,96E-08 1,96E-08 1,68E-08 1,68E-08 1,40E-08 
+Dose efetiva Calculada(mSv/anos) 2,52E-10 2,52E-10 2,16E-10 2,16E-10 1,80E-10 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Sr-90 
+Concentração no ar(Bq/m³) 7,69E-04 7,69E-04 7,69E-04 7,69E-04 7,69E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 4,34E-09 4,34E-09 3,72E-09 3,72E-09 3,10E-09 
+Dose efetiva Calculada(mSv/anos) 3,34E-12 3,34E-12 2,86E-12 2,86E-12 2,38E-12 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Zr- 95 
+Concentração no ar(Bq/m³) 2,11E-02 2,11E-02 2,11E-02 2,11E-02 2,11E-02 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,54E-06 1,54E-06 1,32E-06 1,32E-06 1,10E-06 
+Dose efetiva Calculada(mSv/anos) 3,25E-08 3,25E-08 2,79E-08 2,79E-08 2,32E-08 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Nb-95 
+Concentração no ar(Bq/m³) 2,11E-02 2,11E-02 2,11E-02 2,11E-02 2,11E-02 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,68E-06 1,68E-06 1,44E-06 1,44E-06 1,20E-06 
+Dose efetiva Calculada(mSv/anos) 3,55E-08 3,55E-08 3,04E-08 3,04E-08 2,54E-08 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Cs-134 
+Concentração no ar(Bq/m³) 1,18E+00 1,18E+00 1,18E+00 1,18E+00 1,18E+00 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 3,36E-06 3,36E-06 2,88E-06 2,88E-06 2,40E-06 
+Dose efetiva Calculada(mSv/anos) 3,98E-06 3,98E-06 3,41E-06 3,41E-06 2,84E-06 
+ 
+ 
+ 
+ 
+ 
+50  
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Cs-137 
+Concentração no ar(Bq/m³) 1,02E+00 1,02E+00 1,02E+00 1,02E+00 1,02E+00 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 4,20E-10 4,20E-10 3,60E-10 3,60E-10 3,00E-10 
+Dose efetiva Calculada(mSv/anos) 4,30E-10 4,30E-10 3,69E-10 3,69E-10 3,07E-10 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Ce-141 
+Concentração no ar(Bq/m³) 2,13E-02 2,13E-02 2,13E-02 2,13E-02 2,13E-02 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,54E-07 1,54E-07 1,32E-07 1,32E-07 1,10E-07 
+Dose efetiva Calculada(mSv/anos) 3,29E-09 3,29E-09 2,82E-09 2,82E-09 2,35E-09 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Ce-144 
+Concentração no ar(Bq/m³) 1,70E-02 1,70E-02 1,70E-02 1,70E-02 1,70E-02 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,54E-07 1,54E-07 1,32E-07 1,32E-07 1,10E-07 
+Dose efetiva Calculada(mSv/anos) 2,62E-09 2,62E-09 2,25E-09 2,25E-09 1,87E-09 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Np-239 
+Concentração no ar(Bq/m³) 2,29E-01 2,29E-01 2,29E-01 2,29E-01 2,29E-01 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 3,50E-07 3,50E-07 3,00E-07 3,00E-07 2,50E-07 
+Dose efetiva Calculada(mSv/anos) 8,01E-08 8,01E-08 6,86E-08 6,86E-08 5,72E-08 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Cm-242 
+Concentração no ar(Bq/m³) 2,64E-04 2,64E-04 2,64E-04 2,64E-04 2,64E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 2,66E-10 2,66E-10 2,28E-10 2,28E-10 1,90E-10 
+Dose efetiva Calculada(mSv/anos) 7,03E-14 7,03E-14 6,03E-14 6,03E-14 5,02E-14 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Cm-244 
+Concentração no ar(Bq/m³) 1,35E-05 1,35E-05 1,35E-05 1,35E-05 1,35E-05 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 2,38E-10 2,38E-10 2,04E-10 2,04E-10 1,70E-10 
+Dose efetiva Calculada(mSv/anos) 3,21E-15 3,21E-15 2,75E-15 2,75E-15 2,29E-15 
+ 
+51  
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Pu-238 
+Concentração no ar(Bq/m³) 1,59E-05 1,59E-05 1,59E-05 1,59E-05 1,59E-05 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 2,38E-10 2,38E-10 2,04E-10 2,04E-10 1,70E-10 
+Dose efetiva Calculada(mSv/anos) 3,78E-15 3,78E-15 3,24E-15 3,24E-15 2,70E-15 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Cr-51 
+Concentração no ar(Bq/m³) 7,84E-04 7,84E-04 7,84E-04 7,84E-04 7,84E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 6,72E-08 6,72E-08 5,76E-08 5,76E-08 4,80E-08 
+Dose efetiva Calculada(mSv/anos) 5,27E-11 5,27E-11 4,51E-11 4,51E-11 3,76E-11 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Mn-54 
+Concentração no ar(Bq/m³) 1,57E-04 1,57E-04 1,57E-04 1,57E-04 1,57E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 1,82E-06 1,82E-06 1,56E-06 1,56E-06 1,30E-06 
+Dose efetiva Calculada(mSv/anos) 2,85E-10 2,85E-10 2,44E-10 2,44E-10 2,04E-10 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Fe-59 
+Concentração no ar(Bq/m³) 3,92E-05 3,92E-05 3,92E-05 3,92E-05 3,92E-05 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 2,66E-06 2,66E-06 2,28E-06 2,28E-06 1,90E-06 
+Dose efetiva Calculada(mSv/anos) 1,04E-10 1,04E-10 8,93E-11 8,93E-11 7,44E-11 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Co-58 
+Concentração no ar(Bq/m³) 4,70E-04 4,70E-04 4,70E-04 4,70E-04 4,70E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 2,10E-06 2,10E-06 1,80E-06 1,80E-06 1,50E-06 
+Dose efetiva Calculada(mSv/anos) 9,87E-10 9,87E-10 8,46E-10 8,46E-10 7,05E-10 
+ 
+ 
+ 
+ 
+ 
+52  
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Co-60 
+Concentração no ar(Bq/m³) 1,57E-04 1,57E-04 1,57E-04 1,57E-04 1,57E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 5,60E-06 5,60E-06 4,80E-06 4,80E-06 4,00E-06 
+Dose efetiva Calculada(mSv/anos) 8,79E-10 8,79E-10 7,54E-10 7,54E-10 6,28E-10 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Sb122 
+Concentração no ar(Bq/m³) 1,65E-04 1,65E-04 1,65E-04 1,65E-04 1,65E-04 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 9,10E-07 9,10E-07 7,80E-07 7,80E-07 6,50E-07 
+Dose efetiva Calculada(mSv/anos) 1,50E-10 1,50E-10 1,28E-10 1,28E-10 1,07E-10 
+ 
+Faixa etária <2 2 a 7 anos 
+8 a 12 
+anos 13 a 17 anos >18 anos 
+Radionuclídeo Sb-124 
+Concentração no ar(Bq/m³) 8,32E-05 8,32E-05 8,32E-05 8,32E-05 8,32E-05 
+Coeficiente de dose efetiva de imersão no ar (Sv*Bq/a*m³) 4,06E-06 4,06E-06 3,48E-06 3,48E-06 2,90E-06 
+Dose efetiva Calculada(mSv/anos) 3,38E-10 3,38E-10 2,89E-10 2,89E-10 2,41E-10 
+ 
+  
+ 
+53  
+Apêndice 2 
+Programa Matlab 
+• Linhas ocultas 
+ 
+function GaussianPlume 
+clc,clear all 
+% dy=0.2; 
+% dz=1; 
+dy=[9;18;25;30;40;45;50;60;70;80] ; 
+dz =[5;9;15;17;20;24;26;29;30;34];          % Coef de Pasquill 
+v = 1.5;                    % velocidade 
+Q = 1;                     % Taxa de emissão Normalized 
+xstack = 0; ystack = 50;    % stack  
+xmin = 10; xmax = 1000;     % x-axis intervalo 
+ymin = 0; ymax = 100;       % y-axis intervalo (used only for d>1) 
+H = 50;                     % effective stack height(s)  
+z = 50;                      % altura 
+gplot = 1;                  % plot option (=1 yes; =0 no) 
+gcont = 2;                  % Contorno (=2 filled; =1 yes; =0 none)  
+  
+% ----------------------------------execucao--------------------------
+----- 
+    xx= x - xstack;  
+    yy = y - ystack; 
+  
+  
+Dy(:,:,i)=(dy(i))*v*e./(2*xx); 
+Dz(:,:,i)=(dz(i))*v*e./(2*xx); 
+  
+    c = 1./(4*pi*xx*sqrt(Dy(:,:,i)*Dz(:,:,i))).*exp(-
+v*yy.*yy./(4*Dy(:,:,i)*xx)).*...  
+    (exp(-v*(z-H)*(z-H)*e./(4*Dz(:,:,i)*xx))+exp(-
+v*(z+H)*(z+H)*e./(4*Dz(:,:,i)*xx)))... 
+    .*exp(-lambda*xx/v); 
+%     d(:,:,i)=c(:,:) 
+end 
+  
+  
+  
+%----------------------------------saida------------------------------
+---- 
+if gplot 
+     for j = 10:10:100 
+        xlabel('y') 
+        ylabel('concentração') 
+        plot (c(:,j)); hold on; 
+  
+         
+  end 
+  
+end 
+if gcont 
+    figure; 
+  
+    if gcont > 1 
+ 
+54  
+  
+        contourf (x,y,c); colorbar; 
+    else 
+        contour (x,y,c);  
+    end 
+    end 
+     
+end
