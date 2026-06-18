@@ -9,6 +9,9 @@ __pycache__/
 .tex/*.sty
 .tex/*.pdf
 .tex/*.fdb_latexmk
+*.synctex.gz
+*.out
+*.aux
 
 # Distribution / packaging
 .Python

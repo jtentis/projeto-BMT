@@ -52,9 +52,9 @@ Na entrega final, o projeto avança em quatro pontos técnicos. Primeiro, o pipe
 
 A primeira base conceitual do projeto é a representação de componentes documentais. A DoCO define um vocabulário estruturado para descrever partes de documentos, incluindo elementos estruturais e retóricos, como seção, parágrafo, introdução, discussão, figura e apêndice \cite{constantin2016doco}. Esse vocabulário não resolve sozinho a segmentação de PDFs, mas oferece uma forma comum de nomear a função das partes detectadas. No contexto deste projeto, a DoCO atua como camada semântica sobre uma segmentação heurística: o código ainda encontra cabeçalhos por padrões textuais, mas a saída passa a indicar explicitamente papéis como \texttt{doco:Introduction}, \texttt{doco:Results}, \texttt{doco:Discussion}, \texttt{doco:Methods} e \texttt{doco:Conclusion}.
 
-O problema também se relaciona à classificação de zonas retóricas em artigos científicos. Teufel e Moens \cite{teufel2002summarizing} mostraram que o papel argumentativo de sentenças pode apoiar tarefas como sumarização científica. Liakata et al. \cite{liakata2010corpora} discutem corpora e avaliação para rotulação automática de artigos científicos, destacando que a estrutura retórica exige categorias funcionais e critérios de anotação consistentes. O presente trabalho não treina um classificador retórico supervisionado, mas herda dessa literatura a ideia de que a posição textual não basta: uma seção deve ser entendida pelo papel que exerce no argumento do documento.
+O problema também se relaciona à classificação de zonas retóricas em artigos científicos. Teufel e Moens \cite{teufel2002summarizing} mostraram que o papel argumentativo de sentenças pode apoiar tarefas como sumarização científica. Liakata et al. \cite{liakata2010corpora} discutem corpora e avaliação para rotulação automática de artigos científicos, destacando que a estrutura retórica exige categorias funcionais e critérios de anotação consistentes. Trabalhos recentes em sumarização de documentos científicos longos também exploram explicitamente estrutura discursiva para ranquear ou separar conteúdos centrais \cite{dong2021discourse,guo2023whatsnew}. O presente trabalho não treina um classificador retórico supervisionado, mas herda dessa literatura a ideia de que a posição textual não basta: uma seção deve ser entendida pelo papel que exerce no argumento do documento.
 
-Na dimensão de comparação textual, o baseline usa TF-IDF e similaridade do cosseno. Essa escolha segue uma tradição clássica de recuperação de informação, na qual termos ponderados por frequência local e raridade global formam uma representação vetorial simples e interpretável \cite{manning2008ir}. Como contraponto, o projeto usa SciBERT, um BERT treinado em corpus científico de larga escala, criado para melhorar tarefas de PLN em textos acadêmicos e técnicos \cite{beltagy2019scibert}. A comparação entre os dois métodos testa uma hipótese prática: uma representação contextual densa melhora a auditoria de alinhamento sem fine-tuning ou, neste cenário, a simplicidade lexical continua mais estável?
+Na dimensão de comparação textual, o baseline usa TF-IDF e similaridade do cosseno. Essa escolha segue uma tradição clássica de recuperação de informação, na qual termos ponderados por frequência local e raridade global formam uma representação vetorial simples e interpretável \cite{manning2008ir}. Como contraponto, o projeto usa SciBERT, um BERT treinado em corpus científico de larga escala, criado para melhorar tarefas de PLN em textos acadêmicos e técnicos \cite{beltagy2019scibert}. Para documentos em português, modelos como BERTimbau mostram que pré-treinamento específico para o idioma pode melhorar tarefas de PLN em relação a modelos multilíngues genéricos \cite{souza2020bertimbau}. A comparação entre os dois métodos testa uma hipótese prática: uma representação contextual densa melhora a auditoria de alinhamento sem fine-tuning ou, neste cenário, a simplicidade lexical continua mais estável?
 
 Por fim, as métricas de avaliação vêm da recuperação de informação e da classificação. Precision@k e MAP medem qualidade de ranking quando há julgamentos de relevância; NDCG incorpora relevância graduada e desconta posições mais baixas no ranking \cite{jarvelin2002cumulated}. Para a tarefa de alinhamento, essas métricas só fazem sentido depois da criação de um ground truth. Por isso as entregas anteriores tratavam Precision@k, MAP, NDCG e F1 como trabalho futuro. A versão final implementa esse elo: cada documento recebe anotações provisórias para os pares introdução-resultados e introdução-conclusão, permitindo avaliar os métodos de forma comparável.
 
@@ -62,7 +62,7 @@ Por fim, as métricas de avaliação vêm da recuperação de informação e da 
 
 \subsection{Arquitetura do pipeline}
 
-O pipeline executa seis etapas principais. A primeira lê todos os PDFs de \path{data/raw/} e registra metadados básicos, como nome do documento, número de páginas e status de processamento. A segunda extrai texto com \texttt{pypdf}. A terceira normaliza o texto, removendo hifenização artificial, padronizando espaços e criando uma versão sem acentos para busca de cabeçalhos. A quarta etapa identifica títulos numerados ou marcadores textuais próximos de introdução, métodos, resultados, discussão e conclusão. A quinta etapa converte essas seções para rótulos compatíveis com DoCO. A sexta etapa compara a seção de promessa, representada pela introdução, com seções candidatas de entrega.
+O pipeline executa seis etapas principais. A primeira lê todos os PDFs de \path{data/raw/} e registra metadados básicos, como nome do documento, número de páginas e status de processamento. A segunda extrai texto com \texttt{pypdf}. A terceira normaliza o texto, removendo hifenização artificial, padronizando espaços e criando uma versão sem acentos para busca de cabeçalhos. A quarta etapa identifica títulos numerados ou marcadores textuais próximos de introdução, métodos, resultados, discussão e conclusão. A quinta etapa converte essas seções para rótulos compatíveis com DoCO. A sexta etapa compara a seção de promessa, representada pela introdução, com seções candidatas de entrega. Essa opção por um parser simples contrasta com pipelines recentes baseados em GROBID para extração de bibliografia e metadados científicos \cite{nguyen2023bibliography}, mas preserva a transparência necessária à auditoria do protótipo.
 
 Essa arquitetura preserva uma escolha importante feita no baseline: o sistema precisa continuar simples o suficiente para ser reproduzido localmente. A segmentação por cabeçalhos não é o método mais robusto para todos os PDFs, mas permite rastrear erros com facilidade. Cada documento gera texto extraído, texto normalizado, segmentação legada, seções DoCO, resultados de alinhamento e métricas. Assim, quando um score parece estranho, o avaliador consegue voltar ao trecho que originou a comparação. Essa rastreabilidade se mostrou essencial no relatório intermediário, especialmente no caso \texttt{LCMarques}, em que o score zero apontava mais para falha de segmentação do que para ausência comprovada de alinhamento.
 
@@ -244,13 +244,13 @@ A ampliação do corpus também muda a interpretação da cobertura. Com 10 PDFs
 
 A validade interna depende da qualidade da segmentação. O pipeline compara seções inteiras, não sentenças anotadas manualmente, e por isso um limite de seção mal posicionado altera o score final. A validade de construto depende da definição de alinhamento: relevância lexical, retomada semântica e consistência argumentativa não são a mesma coisa. O ground truth provisório aproxima esses conceitos para viabilizar avaliação formal, mas ainda precisa de instruções de anotação mais rigorosas e revisão por mais de um avaliador.
 
-A validade externa também tem limites. O corpus cresceu para 50 documentos, mas continua concentrado em uma fonte institucional e em trabalhos acadêmicos com formatos heterogêneos. A generalização para outros repositórios, áreas e estilos editoriais exige nova coleta e nova auditoria. Além disso, o SciBERT foi treinado majoritariamente em literatura científica em inglês; seu uso em trabalhos em português pode preservar algumas regularidades científicas, mas não garante representação ideal para o idioma e o domínio local.
+A validade externa também tem limites. O corpus cresceu para 50 documentos, mas continua concentrado em uma fonte institucional e em trabalhos acadêmicos com formatos heterogêneos. A generalização para outros repositórios, áreas e estilos editoriais exige nova coleta e nova auditoria. Estudos recentes de parsing de PDF mostram que ferramentas diferentes variam bastante conforme categoria documental, layout e tipo de conteúdo extraído \cite{li2024pdfparsing}. Além disso, o SciBERT foi treinado majoritariamente em literatura científica em inglês; seu uso em trabalhos em português pode preservar algumas regularidades científicas, mas não garante representação ideal para o idioma e o domínio local.
 
 \section{Conclusão e trabalhos futuros}
 
 O projeto entregou um pipeline reprodutível para auditar alinhamento entre promessas e entregas em trabalhos acadêmicos. A trajetória das entregas mostra uma evolução incremental: a proposta definiu o problema e o uso do DoCO; o baseline criou uma execução mínima; a entrega de dados e métricas estabilizou o protocolo; o relatório intermediário identificou limitações concretas; a versão final adicionou ground truth provisório, SciBERT, métricas formais, SQLite e demo. Essa sequência importa porque impediu que a comparação de modelos escondesse problemas básicos de corpus, segmentação e avaliação.
 
-Como próximos passos, o projeto deve revisar manualmente as segmentações dos documentos com \texttt{insufficient\_sections}, criar anotação independente com medida de concordância, calibrar limiares separadamente para TF-IDF e SciBERT, e testar modelos ajustados ao português acadêmico. A substituição gradual da segmentação por cabeçalhos por um classificador retórico supervisionado é o caminho mais promissor. Sem essa melhoria, modelos mais fortes continuarão comparando trechos que nem sempre correspondem às funções retóricas pretendidas.
+Como próximos passos, o projeto deve revisar manualmente as segmentações dos documentos com \texttt{insufficient\_sections}, criar anotação independente com medida de concordância, calibrar limiares separadamente para TF-IDF e SciBERT, e testar modelos ajustados ao português acadêmico, como BERTimbau \cite{souza2020bertimbau}. A substituição gradual da segmentação por cabeçalhos por um classificador retórico supervisionado é o caminho mais promissor. Sem essa melhoria, modelos mais fortes continuarão comparando trechos que nem sempre correspondem às funções retóricas pretendidas.
 
 \appendix
 
@@ -272,11 +272,29 @@ Constantin, A., Peroni, S., Pettifer, S., Shotton, D., and Vitali, F. (2016).
 \newblock \textit{Semantic Web}, 7(2):167--181.
 \newblock \url{https://www.semantic-web-journal.net/content/document-components-ontology-doco}.
 
+\bibitem{dong2021discourse}
+Dong, Y., Mircea, A., and Cheung, J. C. K. (2021).
+\newblock Discourse-Aware Unsupervised Summarization for Long Scientific Documents.
+\newblock In \textit{Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics}, pages 1089--1102.
+\newblock \url{https://aclanthology.org/2021.eacl-main.93/}.
+
+\bibitem{guo2023whatsnew}
+Guo, Y., Ren, X., and Frank, A. (2023).
+\newblock What's New? Summarizing Contributions in Scientific Literature.
+\newblock In \textit{Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics}, pages 1019--1031.
+\newblock \url{https://aclanthology.org/2023.eacl-main.72/}.
+
 \bibitem{jarvelin2002cumulated}
 Järvelin, K. and Kekäläinen, J. (2002).
 \newblock Cumulated Gain-Based Evaluation of IR Techniques.
 \newblock \textit{ACM Transactions on Information Systems}, 20(4):422--446.
 \newblock \url{https://doi.org/10.1145/582415.582418}.
+
+\bibitem{li2024pdfparsing}
+Li, Y., Cao, H., and Luo, Y. (2024).
+\newblock A Comparative Study of PDF Parsing Tools Across Diverse Document Categories.
+\newblock \textit{arXiv preprint arXiv:2410.09871}.
+\newblock \url{https://arxiv.org/abs/2410.09871}.
 
 \bibitem{liakata2010corpora}
 Liakata, M., Teufel, S., Siddharthan, A., and Batchelor, C. R. (2010).
@@ -288,6 +306,18 @@ Manning, C. D., Raghavan, P., and Schütze, H. (2008).
 \newblock \textit{Introduction to Information Retrieval}.
 \newblock Cambridge University Press.
 \newblock \url{https://nlp.stanford.edu/IR-book/}.
+
+\bibitem{nguyen2023bibliography}
+Nguyen, T. T. H., Bottoni, P., and Alemu, G. (2023).
+\newblock An End-to-End Pipeline for Bibliography Extraction from Scientific Publications.
+\newblock In \textit{Proceedings of the Second Workshop on Information Extraction from Scientific Publications}, pages 92--103.
+\newblock \url{https://aclanthology.org/2023.wiesp-1.12/}.
+
+\bibitem{souza2020bertimbau}
+Souza, F., Nogueira, R., and Lotufo, R. (2020).
+\newblock BERTimbau: Pretrained BERT Models for Brazilian Portuguese.
+\newblock In \textit{Intelligent Systems}, pages 403--417. Springer.
+\newblock \url{https://doi.org/10.1007/978-3-030-61377-8_28}.
 
 \bibitem{teufel2002summarizing}
 Teufel, S. and Moens, M. (2002).
